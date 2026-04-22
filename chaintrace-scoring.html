@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>ChainTrace — Signal Scoring Engine</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@300;400;600&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg: #f5f2eb;
+    --bg2: #edeade;
+    --ink: #1a1612;
+    --ink2: #4a3f35;
+    --ink3: #8a7a6a;
+    --rule: #d4ccbc;
+    --red: #c0392b;
+    --amber: #d97706;
+    --green: #1a6b3a;
+    --blue: #1a4a8a;
+    --accent: #c0392b;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'JetBrains Mono', monospace;
+    background: var(--bg);
+    color: var(--ink);
+    font-size: 13px;
+    line-height: 1.6;
+  }
+
+  /* ── LAYOUT ── */
+  .page { max-width: 1180px; margin: 0 auto; padding: 0 32px 80px; }
+
+  /* ── HEADER ── */
+  .masthead {
+    border-bottom: 3px solid var(--ink);
+    padding: 28px 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  .masthead-logo { font-family: 'Syne', sans-serif; font-weight: 800; font-size: 32px; letter-spacing: -1px; }
+  .masthead-sub { font-size: 10px; letter-spacing: 4px; color: var(--ink3); text-transform: uppercase; margin-top: 2px; }
+  .masthead-tag { font-size: 10px; color: var(--ink3); letter-spacing: 2px; text-align: right; }
+  .live-dot {
+    display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+    background: var(--red); margin-right: 5px;
+    animation: blink 1.4s ease-in-out infinite;
+  }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
+
+  /* ── SECTION HEADERS ── */
+  .section-rule {
+    border-top: 1px solid var(--ink);
+    padding-top: 28px;
+    margin-top: 40px;
+  }
+  .section-label {
+    font-size: 9px; letter-spacing: 5px; text-transform: uppercase;
+    color: var(--ink3); margin-bottom: 6px;
+  }
+  .section-title {
+    font-family: 'Syne', sans-serif; font-weight: 700; font-size: 22px;
+    line-height: 1.2; margin-bottom: 16px;
+  }
+
+  /* ── MINE INPUT BAR ── */
+  .mine-bar {
+    background: var(--ink);
+    color: #f5f2eb;
+    padding: 20px 28px;
+    margin-top: 32px;
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    flex-wrap: wrap;
+  }
+  .mine-bar label { font-size: 9px; letter-spacing: 3px; color: #8a8070; display: block; margin-bottom: 4px; }
+  .mine-bar select, .mine-bar input {
+    background: #2a2520;
+    border: 1px solid #3a3530;
+    color: #f5f2eb;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    padding: 6px 10px;
+    outline: none;
+    width: 180px;
+  }
+  .mine-bar-title { font-family: 'Syne', sans-serif; font-weight: 700; font-size: 14px; letter-spacing: 1px; color: #f5f2eb; }
+  .run-btn {
+    margin-left: auto;
+    background: var(--red);
+    border: none;
+    color: #fff;
+    font-family: 'Syne', sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 3px;
+    padding: 10px 24px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: background 0.15s;
+  }
+  .run-btn:hover { background: #a02820; }
+
+  /* ── RISK DIAL STRIP ── */
+  .dial-strip {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1px 1.3fr;
+    gap: 0;
+    margin-top: 28px;
+    border: 1px solid var(--rule);
+  }
+  .dial-divider { background: var(--rule); }
+  .dial-cell {
+    padding: 24px 22px;
+    border-right: 1px solid var(--rule);
+    position: relative;
+  }
+  .dial-cell:last-child { border-right: none; background: #f0ece3; }
+  .dial-label { font-size: 9px; letter-spacing: 3px; text-transform: uppercase; color: var(--ink3); margin-bottom: 12px; }
+  .dial-pct { font-family: 'Syne', sans-serif; font-weight: 800; font-size: 52px; line-height: 1; }
+  .dial-bar-wrap { margin-top: 8px; height: 4px; background: var(--rule); }
+  .dial-bar { height: 4px; transition: width 0.8s cubic-bezier(.4,0,.2,1); }
+  .dial-sublabel { font-size: 9px; color: var(--ink3); margin-top: 6px; }
+  .composite-label { font-size: 9px; letter-spacing: 3px; color: var(--ink3); margin-bottom: 6px; }
+  .composite-pct { font-family: 'Syne', sans-serif; font-weight: 800; font-size: 72px; line-height: 1; }
+  .composite-verdict {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 3px 12px;
+    font-size: 10px;
+    letter-spacing: 3px;
+    font-family: 'Syne', sans-serif;
+    font-weight: 700;
+  }
+
+  /* ── FORMULA BLOCK ── */
+  .formula-block {
+    background: var(--ink);
+    color: #f5f2eb;
+    padding: 20px 24px;
+    margin: 20px 0;
+    font-size: 12px;
+    line-height: 2;
+  }
+  .formula-block .f-comment { color: #6a5f55; }
+  .formula-block .f-var { color: #d4a060; }
+  .formula-block .f-op { color: #a0c8e8; }
+  .formula-block .f-val { color: #80c080; }
+
+  /* ── SIGNAL TABLE ── */
+  .signal-section { margin-top: 36px; }
+  .signal-cat-head {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 0;
+    border-bottom: 2px solid var(--ink);
+    margin-bottom: 0;
+  }
+  .signal-cat-icon { font-size: 18px; }
+  .signal-cat-name { font-family: 'Syne', sans-serif; font-weight: 700; font-size: 14px; letter-spacing: 1px; }
+  .signal-cat-count { font-size: 9px; color: var(--ink3); letter-spacing: 2px; margin-left: auto; }
+
+  .signal-row {
+    display: grid;
+    grid-template-columns: 80px 1fr 100px 60px 60px 60px 80px;
+    gap: 0;
+    border-bottom: 1px solid var(--rule);
+    align-items: stretch;
+    cursor: pointer;
+    transition: background 0.1s;
+  }
+  .signal-row:hover { background: #ede9df; }
+  .signal-row.expanded { background: #eae5d8; }
+  .signal-row.header-row {
+    background: #e8e3d6;
+    cursor: default;
+    font-size: 8px;
+    letter-spacing: 2px;
+    color: var(--ink3);
+    text-transform: uppercase;
+  }
+  .signal-row.header-row:hover { background: #e8e3d6; }
+
+  .sr-cell {
+    padding: 11px 12px;
+    border-right: 1px solid var(--rule);
+    display: flex;
+    align-items: center;
+    font-size: 11px;
+  }
+  .sr-cell:last-child { border-right: none; }
+  .sr-cell.center { justify-content: center; text-align: center; }
+
+  .strength-badge {
+    font-size: 8px;
+    letter-spacing: 1.5px;
+    padding: 2px 6px;
+    font-weight: 600;
+  }
+  .str-S { background: #fde8e6; color: var(--red); }
+  .str-M { background: #fef3cd; color: #92580a; }
+
+  .signal-name { font-weight: 600; font-size: 11px; color: var(--ink); }
+  .signal-brief { font-size: 10px; color: var(--ink3); margin-top: 1px; }
+
+  .num { font-family: 'Syne', sans-serif; font-weight: 700; }
+
+  /* ── EXPANDED SIGNAL DETAIL ── */
+  .signal-detail {
+    display: none;
+    background: #f0ece3;
+    border-bottom: 2px solid var(--ink);
+    padding: 24px 28px;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+  }
+  .signal-detail.open { display: grid; }
+
+  .detail-block { }
+  .detail-label { font-size: 8px; letter-spacing: 3px; color: var(--ink3); text-transform: uppercase; margin-bottom: 6px; border-bottom: 1px solid var(--rule); padding-bottom: 4px; }
+  .detail-text { font-size: 11px; color: var(--ink2); line-height: 1.7; }
+  .detail-formula {
+    background: var(--ink);
+    color: #c8d8a8;
+    padding: 10px 14px;
+    font-size: 11px;
+    line-height: 1.8;
+    margin-top: 6px;
+  }
+  .source-link {
+    display: inline-block;
+    margin-top: 4px;
+    font-size: 10px;
+    color: var(--blue);
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+  }
+  .source-chip {
+    display: inline-block;
+    background: var(--ink);
+    color: #c8d8e8;
+    font-size: 9px;
+    letter-spacing: 1px;
+    padding: 2px 8px;
+    margin: 2px 3px 2px 0;
+  }
+
+  .weight-breakdown {
+    margin-top: 10px;
+    display: flex;
+    gap: 16px;
+  }
+  .wb-item { }
+  .wb-label { font-size: 8px; color: var(--ink3); letter-spacing: 2px; }
+  .wb-val { font-family: 'Syne', sans-serif; font-weight: 700; font-size: 18px; }
+  .wb-eq { font-size: 11px; color: var(--ink3); padding: 0 4px; align-self: center; }
+
+  /* ── METHODOLOGY NOTE ── */
+  .method-note {
+    border: 1px solid var(--ink);
+    padding: 20px 24px;
+    margin-top: 28px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+  .method-note h4 { font-family: 'Syne', sans-serif; font-weight: 700; font-size: 13px; margin-bottom: 8px; }
+  .method-note p { font-size: 11px; color: var(--ink2); line-height: 1.7; }
+
+  /* ── CHART ── */
+  .mini-chart { margin-top: 10px; }
+  .chart-bar-row { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+  .chart-bar-label { font-size: 9px; color: var(--ink3); width: 120px; text-align: right; flex-shrink: 0; }
+  .chart-bar-track { flex: 1; height: 14px; background: var(--rule); position: relative; }
+  .chart-bar-fill { height: 14px; transition: width 0.8s; }
+  .chart-bar-val { font-size: 9px; font-weight: 600; margin-left: 6px; width: 40px; }
+
+  /* ── INVESTIGATION GUIDE ── */
+  .inv-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0; border: 1px solid var(--ink); margin-top: 20px; }
+  .inv-cell { padding: 20px 22px; border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
+  .inv-cell:nth-child(2n) { border-right: none; }
+  .inv-cell:nth-last-child(-n+2) { border-bottom: none; }
+  .inv-cell h4 { font-family: 'Syne', sans-serif; font-weight: 700; font-size: 12px; margin-bottom: 8px; }
+  .inv-cell p { font-size: 10px; color: var(--ink2); line-height: 1.7; }
+  .inv-direction { font-size: 9px; letter-spacing: 3px; color: var(--ink3); margin-bottom: 4px; }
+
+  /* ── FOOTER ── */
+  .footer { border-top: 1px solid var(--rule); padding-top: 16px; margin-top: 60px; font-size: 9px; color: var(--ink3); letter-spacing: 2px; display: flex; justify-content: space-between; }
+
+  @media (max-width: 900px) {
+    .dial-strip { grid-template-columns: 1fr 1fr; }
+    .signal-row { grid-template-columns: 60px 1fr 80px 50px 50px; }
+    .sr-cell:nth-child(6), .sr-cell:nth-child(7) { display: none; }
+    .signal-detail { grid-template-columns: 1fr; }
+    .inv-grid { grid-template-columns: 1fr; }
+    .method-note { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ══ MASTHEAD ══ -->
+  <header class="masthead">
+    <div>
+      <div class="masthead-logo">ChainTrace</div>
+      <div class="masthead-sub">Signal Scoring Engine — Mining Operations Risk</div>
+    </div>
+    <div class="masthead-tag">
+      <div><span class="live-dot"></span>INVESTIGATOR TOOL v1.0</div>
+      <div style="margin-top:4px">Critical Minerals · REE · Lithium · Gold · Copper</div>
+    </div>
+  </header>
+
+  <!-- ══ MINE INPUT ══ -->
+  <div class="mine-bar">
+    <div>
+      <div class="mine-bar-title">Mining Region Under Investigation</div>
+      <div style="font-size:9px;color:#6a5f55;margin-top:3px;letter-spacing:2px">Select parameters to score a supply-chain origin node</div>
+    </div>
+    <div>
+      <label>COUNTRY / REGION</label>
+      <select id="sel-country" onchange="recalculate()">
+        <option value="drc">DRC — Manono, Katanga</option>
+        <option value="congo">Congo — Kouilou Basin</option>
+        <option value="china">China — Jiangxi (REE)</option>
+        <option value="myanmar">Myanmar — Kachin (REE)</option>
+        <option value="chile">Chile — Atacama (Li)</option>
+        <option value="custom">Custom (manual inputs)</option>
+      </select>
+    </div>
+    <div>
+      <label>MINERAL</label>
+      <select id="sel-mineral" onchange="recalculate()">
+        <option value="lithium">Lithium</option>
+        <option value="ree">Rare Earth Elements</option>
+        <option value="cobalt">Cobalt</option>
+        <option value="gold">Gold</option>
+        <option value="copper">Copper</option>
+      </select>
+    </div>
+    <button class="run-btn" onclick="recalculate()">▶ Score Region</button>
+  </div>
+
+  <!-- ══ RISK SCORE DIALS ══ -->
+  <div class="dial-strip" id="dial-strip">
+    <div class="dial-cell">
+      <div class="dial-label">Child Labour Risk</div>
+      <div class="dial-pct" id="pct-child" style="color:var(--red)">—</div>
+      <div class="dial-bar-wrap"><div class="dial-bar" id="bar-child" style="background:var(--red);width:0%"></div></div>
+      <div class="dial-sublabel" id="sub-child">—</div>
+    </div>
+    <div class="dial-cell">
+      <div class="dial-label">Forced / Bonded Labour Risk</div>
+      <div class="dial-pct" id="pct-forced" style="color:var(--amber)">—</div>
+      <div class="dial-bar-wrap"><div class="dial-bar" id="bar-forced" style="background:var(--amber);width:0%"></div></div>
+      <div class="dial-sublabel" id="sub-forced">—</div>
+    </div>
+    <div class="dial-cell">
+      <div class="dial-label">Document / Trade Fraud Risk</div>
+      <div class="dial-pct" id="pct-fraud" style="color:var(--blue)">—</div>
+      <div class="dial-bar-wrap"><div class="dial-bar" id="bar-fraud" style="background:var(--blue);width:0%"></div></div>
+      <div class="dial-sublabel" id="sub-fraud">—</div>
+    </div>
+    <div class="dial-divider"></div>
+    <div class="dial-cell">
+      <div class="composite-label">COMPOSITE RISK SCORE</div>
+      <div class="composite-pct" id="pct-composite" style="color:var(--red)">—</div>
+      <div class="dial-bar-wrap" style="height:6px;margin-top:10px"><div class="dial-bar" id="bar-composite" style="background:var(--red);width:0%;height:6px"></div></div>
+      <div class="composite-verdict" id="verdict" style="background:var(--red);color:#fff">PENDING</div>
+      <div style="font-size:9px;color:var(--ink3);margin-top:10px;line-height:1.6" id="composite-explain">—</div>
+    </div>
+  </div>
+
+  <!-- ══ SCORING METHODOLOGY ══ -->
+  <div class="section-rule">
+    <div class="section-label">How the score is calculated</div>
+    <div class="section-title">Scoring Methodology</div>
+  </div>
+
+  <div class="formula-block">
+    <span class="f-comment">// Step 1 — Per-signal weight</span><br>
+    <span class="f-var">W</span><span class="f-op">(signal)</span> = <span class="f-var">Severity</span> × <span class="f-var">Confidence</span> × <span class="f-op">(</span>1 − <span class="f-var">Deniability</span><span class="f-op">)</span><br><br>
+    <span class="f-comment">// Step 2 — Dimension score (Bayesian non-independence product)</span><br>
+    <span class="f-var">Score</span><span class="f-op">(dimension)</span> = 1 − ∏<span class="f-op">[</span>1 − <span class="f-var">W</span><span class="f-op">(s)]</span> for all signals s in dimension<br><br>
+    <span class="f-comment">// Step 3 — Composite score across three independent risk dimensions</span><br>
+    <span class="f-var">Composite</span> = 1 − <span class="f-op">(</span>1 − <span class="f-var">Score</span><span class="f-op">[</span>ChildLabour<span class="f-op">])</span> × <span class="f-op">(</span>1 − <span class="f-var">Score</span><span class="f-op">[</span>ForcedLabour<span class="f-op">])</span> × <span class="f-op">(</span>1 − <span class="f-var">Score</span><span class="f-op">[</span>DocFraud<span class="f-op">])</span>
+  </div>
+
+  <div class="method-note">
+    <div>
+      <h4>Why three dimensions?</h4>
+      <p>Child labour, forced labour, and document fraud are analytically distinct risk types, each driven by different causal mechanisms and detectable via different data sources. A site can exhibit high child labour risk but low fraud risk (artisanal mine, no paperwork at all) or the reverse (industrial site with well-documented but forged certificates). The composite fuses them so that evidence in any dimension lifts the overall flag.</p>
+    </div>
+    <div>
+      <h4>Why Bayesian product, not average?</h4>
+      <p>Averaging signals would dilute the impact of one very strong indicator. The product formula models independent risk events: if child-labour risk is 85% and forced-labour risk is 70%, the composite is 1 − (0.15 × 0.30) = <strong>95.5%</strong>, not (85+70)/2 = 77.5%. This reflects the investigative reality that two independent risk types pointing at the same site are far more alarming than one risk scored twice.</p>
+    </div>
+    <div>
+      <h4>Deniability — the critical variable</h4>
+      <p>Deniability scores how easily an operator can explain away a signal with a legitimate reason. A production spike could be explained by a new equipment delivery (high deniability). A certificate dated before the mine permit exists has zero deniability — it is a logical impossibility. Signals with low deniability receive disproportionate weight even at moderate severity.</p>
+    </div>
+    <div>
+      <h4>Thresholds for investigation referral</h4>
+      <p><strong style="color:var(--green)">0–30%</strong> — Low. Standard monitoring cadence.<br>
+      <strong style="color:var(--amber)">30–55%</strong> — Moderate. Enhanced due diligence required.<br>
+      <strong style="color:#c05010">55–75%</strong> — High. Field investigation recommended.<br>
+      <strong style="color:var(--red)">75%+</strong> — Critical. Suspend sourcing pending audit. Report to OECD/ILO.</p>
+    </div>
+  </div>
+
+  <!-- ══ SIGNALS ══ -->
+  <div class="section-rule">
+    <div class="section-label">Signal Library</div>
+    <div class="section-title">Evidence Signals by Category</div>
+    <p style="font-size:11px;color:var(--ink2);max-width:700px">Each signal has a named data source, a detection formula, a severity (how bad if triggered), a confidence (how reliably the data detects it), and a deniability (how easily it can be explained away). Click any signal row to expand the full methodology.</p>
+  </div>
+
+  <div id="signal-container"></div>
+
+  <!-- ══ INVESTIGATION GUIDE ══ -->
+  <div class="section-rule">
+    <div class="section-label">For Investigators</div>
+    <div class="section-title">How to Use This Score in Practice</div>
+  </div>
+
+  <div class="inv-grid">
+    <div class="inv-cell">
+      <div class="inv-direction">TOP-DOWN APPROACH</div>
+      <h4>Starting from a finished product</h4>
+      <p>You have a battery pack or REE magnet and want to trace its material back to origin. Use the product's EU Battery Passport ID, SEC Form SD filing, or company sustainability report to identify declared refiners. Cross-reference refiners against the RMI Compliant Smelter list. For each declared upstream supplier, run a ChainTrace score on the corresponding mining region. Discrepancies between declared and scored risk indicate where to focus field investigation.</p>
+    </div>
+    <div class="inv-cell">
+      <div class="inv-direction">BOTTOM-UP APPROACH</div>
+      <h4>Starting from a mine or country</h4>
+      <p>You have intelligence or an alert from a mine region. Run the regional score first. High-scoring regions identify the most likely risk nodes. Then trace forward: which refiners source from this region (UN Comtrade HS code + bilateral flows), which OEMs buy from those refiners (SEC EDGAR, company disclosures), which products end up in which markets. The score tells you how urgently to pursue each forward hop.</p>
+    </div>
+    <div class="inv-cell">
+      <div class="inv-direction">MISSING DATA AS A SIGNAL</div>
+      <h4>Absence of information is evidence</h4>
+      <p>If a mine has no audit record, no EITI disclosure, no ILO country report match, and no satellite coverage, that absence itself elevates risk. The scoring engine adds a +10% base penalty for regions with fewer than 3 data sources available. An operator who makes verification impossible is exercising opacity for a reason.</p>
+    </div>
+    <div class="inv-cell">
+      <div class="inv-direction">COMPOUND SIGNAL LOGIC</div>
+      <h4>Weak signals that cluster are strong signals</h4>
+      <p>No single weak signal (severity &lt; 50) triggers an investigation alone. But the Bayesian product means three weak signals at 40% severity each produce a dimension score of 78%. The engine surfaces compound patterns automatically — an investigator should read the per-dimension signal list, not just the composite number, to understand which cluster of evidence is driving the score.</p>
+    </div>
+  </div>
+
+  <div class="footer">
+    <span>ChainTrace Signal Engine — Hack Summit 2025</span>
+    <span>Data sources: UN Comtrade · ILO ILOSTAT · NASA VIIRS · ESA Sentinel · USGS · RMI · EITI · MarineTraffic · OpenCorporates · ICIJ</span>
+  </div>
+
+</div>
+
+<script>
+// ══════════════════════════════════════════════════════════════
+// SIGNAL DEFINITIONS
+// ══════════════════════════════════════════════════════════════
+
+const SIGNALS = [
+  // ── CHILD LABOUR ──────────────────────────────────────────
+  {
+    id: "cl1",
+    dimension: "child",
+    strength: "S",
+    name: "Unexplained Production Spike",
+    brief: "Z-score anomaly in reported output relative to rolling baseline",
+    severity: 0.78,
+    confidence: 0.82,
+    deniability: 0.25,
+    justification: `Any abrupt, statistically anomalous increase in production volume at a mine — not tied to documented capacity expansion, new equipment, or seasonal factors — is a primary indicator of unregistered labour being introduced. In mines where children work, their availability typically peaks during local school holidays, but it also responds to commodity price spikes, contract pressures, and enforcement gaps. The signal is measured as a Z-score against the site's own 24-month rolling production baseline, so it is automatically localised and does not depend on global or regional averages. A Z-score above 2.0 triggers monitoring; above 3.0 triggers escalation. This avoids the weakness of fixed seasonal thresholds that assume uniform school calendars.`,
+    formula: "Z = (Production_t − μ₂₄ₘₒ) / σ₂₄ₘₒ\nFlag if Z > 2.0; Severity scales as min(Z/4, 1.0)",
+    sources: [
+      { name: "USGS National Minerals Information Center", url: "https://www.usgs.gov/centers/national-minerals-information-center" },
+      { name: "BGS World Mineral Statistics", url: "https://www.bgs.ac.uk/mineralsuk/statistics/worldStatistics.html" },
+      { name: "EITI Production Data Portal", url: "https://eiti.org/data" },
+    ],
+  },
+  {
+    id: "cl2",
+    dimension: "child",
+    strength: "S",
+    name: "Regional Child Labour Prevalence",
+    brief: "ILO country + sub-national child labour rate for the mining sector",
+    severity: 0.70,
+    confidence: 0.90,
+    deniability: 0.10,
+    justification: `This is a structural prior — the baseline probability that child labour is occurring at all in a given region, before any operational signals are considered. ILO ILOSTAT publishes child labour rates at country level and, where available, sub-national level, broken down by sector including mining and quarrying. A mine in a country where 25%+ of children aged 10–17 work in the extractive sector carries an inherently elevated risk that no certification alone can neutralise. This signal is non-deniable: an operator cannot change the regional child labour rate. It functions as a multiplier — it amplifies the weight of every other signal in the child labour dimension.`,
+    formula: "CL_rate = ILO sector child labour rate (age 10–17, mining)\nIf CL_rate > 0.20 → severity = 0.70; if > 0.35 → severity = 0.90",
+    sources: [
+      { name: "ILO ILOSTAT — Child Labour Module", url: "https://ilostat.ilo.org/topics/child-labour/" },
+      { name: "ILO Global Estimates on Child Labour (2022)", url: "https://www.ilo.org/ipec/Informationresources/WCMS_838098/lang--en/index.htm" },
+      { name: "UNICEF Data — Child Labour by Country", url: "https://data.unicef.org/topic/child-protection/child-labour/" },
+    ],
+  },
+  {
+    id: "cl3",
+    dimension: "child",
+    strength: "S",
+    name: "Low School Enrolment + Low Literacy in Mine Region",
+    brief: "Net enrolment rate and adult literacy below national average for the mining sub-region",
+    severity: 0.65,
+    confidence: 0.85,
+    deniability: 0.12,
+    justification: `School enrolment rates and regional literacy are better indicators of whether children in a specific area are available for informal work than national school holiday calendars, which are irrelevant in areas where school attendance is low year-round. A mine located in a sub-region where net primary enrolment is below 60% and adult literacy is below 50% is in an area where the social infrastructure that keeps children out of the workforce simply does not function. This signal combines two UNESCO indicators: Net Enrolment Rate (NER) for primary and lower secondary, and adult literacy rate for the district or province. Both are available at sub-national level for most high-risk countries via UNESCO and World Bank EdStats.`,
+    formula: "School_flag = (NER < 0.60) AND (Literacy_adult < 0.50)\nSeverity proportional to distance below thresholds",
+    sources: [
+      { name: "UNESCO Institute for Statistics — EdStats", url: "http://data.uis.unesco.org/" },
+      { name: "World Bank EdStats Open Data", url: "https://datatopics.worldbank.org/education/" },
+      { name: "DHS Program — Sub-national demographic surveys", url: "https://dhsprogram.com/data/" },
+    ],
+  },
+  {
+    id: "cl4",
+    dimension: "child",
+    strength: "S",
+    name: "Nighttime Luminosity Anomaly at Mine Site",
+    brief: "Persistent elevated radiance 22:00–04:00 UTC via satellite photometry",
+    severity: 0.72,
+    confidence: 0.78,
+    deniability: 0.35,
+    justification: `Night operations at mines in regions with child labour risk are significant because many operators deliberately schedule child workers at night to avoid daytime inspection by authorities or NGOs. NASA's VIIRS Day/Night Band (DNB) provides monthly cloud-free composites at ~500m resolution and nightly single-pass data at coarser resolution, both freely available. The signal is triggered when a mine shows radiance levels during 22:00–04:00 UTC that exceed its daytime industrial signature by a statistically significant margin, on a persistent basis (more than 8 nights in a 30-day window). Deniability is moderate because some mines run legitimate 24-hour shifts — this is why it is weighted alongside other signals, not used alone.`,
+    formula: "Δradiance = mean(radiance[22:00–04:00]) / mean(radiance[08:00–18:00])\nFlag if Δ > 1.5 on ≥8 nights/month",
+    sources: [
+      { name: "NASA VIIRS Day/Night Band (LAADS DAAC)", url: "https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/VNP46A1/" },
+      { name: "NOAA/NCEI VIIRS Nighttime Lights", url: "https://www.ngdc.noaa.gov/eog/viirs/download_dnb_composites.html" },
+      { name: "Global Fishing Watch — Dark Vessel Detection (methodology)", url: "https://globalfishingwatch.org/research/dark-vessels/" },
+    ],
+  },
+
+  // ── FORCED / BONDED LABOUR ────────────────────────────────
+  {
+    id: "fl1",
+    dimension: "forced",
+    strength: "S",
+    name: "Wage Depression Below Legal Minimum",
+    brief: "Reported or inferred wages below national mining wage floor (ILO)",
+    severity: 0.80,
+    confidence: 0.75,
+    deniability: 0.20,
+    justification: `Systematic wage suppression — paying workers significantly below the legally mandated minimum wage for the mining sector — is a primary operational indicator of forced or bonded labour. Workers in debt bondage accept below-minimum wages because they cannot leave. Wages can be inferred three ways: (1) direct disclosure in company filings or NGO reports, (2) reverse inference from cost-of-production data in SEC or LSE filings divided by declared workforce, (3) local survey data from ILO, Enough Project, or Amnesty International field reports. A wage depression index below −0.35 (35% below legal minimum) triggers the signal.`,
+    formula: "WDI = (Reported_wage − ILO_sector_minimum) / ILO_sector_minimum\nFlag if WDI < −0.35",
+    sources: [
+      { name: "ILO ILOSTAT — Wages and Working Time Statistics", url: "https://ilostat.ilo.org/data/" },
+      { name: "ILO TRAVAIL Legal Database (national minimum wages)", url: "https://www.ilo.org/travail/areasofwork/wages-and-income/WCMS_142568/lang--en/index.htm" },
+      { name: "Enough Project — Field Reports (DRC, CAR)", url: "https://enoughproject.org/reports" },
+    ],
+  },
+  {
+    id: "fl2",
+    dimension: "forced",
+    strength: "S",
+    name: "Undeclared Worker Housing at Mine Site",
+    brief: "Residential structures detected by satellite inside mine perimeter, not disclosed",
+    severity: 0.68,
+    confidence: 0.72,
+    deniability: 0.30,
+    justification: `On-site habitation of workers that is not disclosed in any company social impact assessment or regulatory filing is a marker of a captive workforce. Workers who live at the mine cannot leave freely — which is one of the ILO's core indicators of forced labour. This signal uses Sentinel-2 or PlanetScope imagery with building-footprint segmentation (or simple NDVI subtraction to isolate non-vegetated built structures) to detect residential structures within or immediately adjacent to the mine perimeter, then cross-references against the company's disclosed housing arrangements. The signal is flagged when structures are detected that do not appear in the 3-year historical baseline and are not declared.`,
+    formula: "Housing_flag = (structures_detected > 0) AND (disclosed_housing = False)\nSeverity scales with structure count and distance from pit",
+    sources: [
+      { name: "ESA Sentinel-2 Open Access Hub", url: "https://scihub.copernicus.eu/" },
+      { name: "Planet Labs Open California / Education programme (apply)", url: "https://www.planet.com/markets/education-and-research/" },
+      { name: "Google Earth Engine — public satellite archive", url: "https://earthengine.google.com/" },
+    ],
+  },
+  {
+    id: "fl3",
+    dimension: "forced",
+    strength: "S",
+    name: "Beneficial Ownership Opacity (Shell Company Chain)",
+    brief: "More than 3 hops to beneficial owner; offshore jurisdiction involvement",
+    severity: 0.62,
+    confidence: 0.80,
+    deniability: 0.40,
+    justification: `Deliberate ownership opacity — using chains of shell companies across secrecy jurisdictions — is not itself proof of labour abuse, but it is a systemic enabler: it prevents sanctions screening, frustrates due diligence, and insulates the ultimate controller from accountability. FATF and OECD both identify layered ownership as a primary risk factor in supply chain due diligence frameworks. The signal measures the number of corporate hops between the mining operating company and its disclosed beneficial owner (defined as an individual with >25% economic interest per FATF Recommendation 24), with an additional penalty for each offshore secrecy jurisdiction in the chain. Opacity Score = hops × (1 + offshore_jurisdiction_count). A score above 8 triggers the signal.`,
+    formula: "Opacity = hops × (1 + offshore_count)\nFlag if Opacity > 8",
+    sources: [
+      { name: "OpenCorporates — Global Company Database", url: "https://opencorporates.com/" },
+      { name: "ICIJ Offshore Leaks Database (Panama, Pandora, Bahamas Papers)", url: "https://offshoreleaks.icij.org/" },
+      { name: "Open Ownership Register (beneficial ownership)", url: "https://register.openownership.org/" },
+      { name: "FATF Recommendation 24 guidance", url: "https://www.fatf-gafi.org/recommendations/r24/" },
+    ],
+  },
+  {
+    id: "fl4",
+    dimension: "forced",
+    strength: "S",
+    name: "Country Score on Global Slavery / Forced Labour Index",
+    brief: "Walk Free / ILO national forced labour prevalence for the mining sector",
+    severity: 0.65,
+    confidence: 0.88,
+    deniability: 0.10,
+    justification: `Like child labour prevalence, a country's forced labour index is a structural prior that sets the baseline probability of forced labour occurring in any mine within that country. The Walk Free Global Slavery Index, co-published with ILO, provides estimated forced labour rates per 1,000 population, with sector breakdowns where available. Countries ranking in the top quintile for forced labour risk automatically carry an elevated base score in this dimension. This signal is non-deniable: an operator cannot change a country's governance environment. It serves the same role as child labour prevalence — a structural multiplier for all other forced-labour signals.`,
+    formula: "FL_country_score = Walk Free prevalence rate (per 1000)\nNormalised 0–1; used as dimension base weight",
+    sources: [
+      { name: "Walk Free Global Slavery Index 2023", url: "https://www.walkfree.org/global-slavery-index/" },
+      { name: "ILO — Forced Labour, Modern Slavery and Human Trafficking", url: "https://www.ilo.org/global/topics/forced-labour/lang--en/index.htm" },
+      { name: "US Department of Labor — List of Goods Produced by Child/Forced Labour (ILAB)", url: "https://www.dol.gov/agencies/ilab/reports/child-labor/list-of-goods" },
+    ],
+  },
+
+  // ── DOCUMENT / TRADE FRAUD ────────────────────────────────
+  {
+    id: "df1",
+    dimension: "fraud",
+    strength: "S",
+    name: "Trade Mirror Discrepancy (Export vs Import)",
+    brief: "Bilateral Comtrade gap >25% between declared export and declared import volumes",
+    severity: 0.85,
+    confidence: 0.92,
+    deniability: 0.18,
+    justification: `UN Comtrade collects both sides of every trade relationship: Country A's declared exports to Country B, and Country B's declared imports from Country A. In a clean supply chain, these should match within 5–10% (accounting for timing, unit conversion, and CIF/FOB differences). A gap above 25% is 3–5× the expected statistical noise and indicates: (1) cargo diversion to an undisclosed intermediary, (2) weight or grade misdeclaration on one end, or (3) origin laundering — material re-labelled as coming from a different country between export and import. This gap is called a "mirror discrepancy" and is a core methodology used by Global Financial Integrity, OECD, and UNODC to detect illicit commodity flows. For DRC cobalt-lithium corridors, observed gaps routinely exceed 40%.`,
+    formula: "Gap = |Export_A→B − Import_B←A| / Export_A→B\nFlag if Gap > 0.25; severity scales with Gap magnitude",
+    sources: [
+      { name: "UN Comtrade Plus — bilateral trade flows by HS code", url: "https://comtradeplus.un.org/" },
+      { name: "ITC Trade Map — mirror statistics module", url: "https://www.trademap.org/" },
+      { name: "Global Financial Integrity — Trade Misinvoicing Reports", url: "https://gfintegrity.org/issue/trade-misinvoicing/" },
+    ],
+  },
+  {
+    id: "df2",
+    dimension: "fraud",
+    strength: "S",
+    name: "AIS Vessel Blackout on High-Risk Corridor",
+    brief: "AIS transponder disabled >6 hours within 500nm of informal port on key export route",
+    severity: 0.88,
+    confidence: 0.94,
+    deniability: 0.08,
+    justification: `Disabling AIS (Automatic Identification System) transponders is illegal under SOLAS Chapter V for vessels above 300 GT on international voyages, with narrow exceptions (military, piracy risk in designated zones). A vessel that goes dark for more than 6 hours in open waters on a known mineral export corridor — specifically near ports used for informal or artisanal mineral export — is almost certainly concealing a port call, a ship-to-ship transfer, or a cargo substitution. GlobalFishingWatch's dark vessel detection algorithm identifies these events using the gap between expected AIS positions (based on last known heading and speed) and reappearance position. A reappearance more than 50nm from the expected position, combined with a blackout duration above 6h, is treated as a confirmed dark event.`,
+    formula: "Dark_event = (AIS_gap_hours > 6) AND (position_drift > 50nm) AND (last_pos within 500nm of high-risk port)\nSeverity = min(gap_hours/48, 1.0) × 0.88",
+    sources: [
+      { name: "MarineTraffic — AIS vessel tracking & dark vessel alerts", url: "https://www.marinetraffic.com/" },
+      { name: "Global Fishing Watch — Dark Vessel Detection (open API)", url: "https://globalfishingwatch.org/data/fishing-watch-opens-its-vessel-monitoring-data/" },
+      { name: "UNODC — Maritime Crime Programme (port intelligence)", url: "https://www.unodc.org/unodc/en/piracy/index.html" },
+    ],
+  },
+  {
+    id: "df3",
+    dimension: "fraud",
+    strength: "S",
+    name: "Certificate Temporal Anomaly",
+    brief: "Audit or environmental certificate issued before mine permit date — logical impossibility",
+    severity: 0.98,
+    confidence: 0.99,
+    deniability: 0.01,
+    justification: `This is the highest-confidence, lowest-deniability signal in the entire engine. A mine cannot receive a compliance certification (ISO 14001, RMI RMAP, OECD due diligence) for operations that did not yet legally exist. If the certification issue date precedes the mine's operating permit date in the government registry, the certificate is mathematically impossible to be authentic and must have been either backdated or fabricated. This check is fully automatable: certificate registries (RMI, ISO) are publicly searchable, and mining permit registries are available for most EITI countries. For non-EITI countries, USGS MRDS and national geological surveys hold permit dates.`,
+    formula: "Temporal_fraud = (cert_date < permit_date)\nIf True → severity = 0.98, confidence = 0.99, deniability = 0.01",
+    sources: [
+      { name: "RMI — Responsible Minerals Assurance Process (RMAP) audit database", url: "https://www.responsibleminerals.org/rmap/smelter-refiner-lists" },
+      { name: "ISO certification registry (ISO Online Browsing Platform)", url: "https://www.iso.org/certification.html" },
+      { name: "EITI — country mining licence data (for EITI members)", url: "https://eiti.org/data" },
+      { name: "USGS MRDS — mining permit dates (global coverage)", url: "https://mrdata.usgs.gov/mrds/" },
+    ],
+  },
+  {
+    id: "df4",
+    dimension: "fraud",
+    strength: "S",
+    name: "Declared vs Satellite-Observed Mine Area Mismatch",
+    brief: "Satellite-measured extraction footprint exceeds declared concession area by >20%",
+    severity: 0.80,
+    confidence: 0.89,
+    deniability: 0.20,
+    justification: `If a mine's operational footprint as measured from satellite imagery consistently exceeds its declared and permitted concession area by more than 20%, the operator is extracting material from unpermitted land. All material from that unpermitted area has no chain of custody and cannot carry any certifications — because those certifications apply to the declared concession only. The measurement uses Sentinel-2 bi-weekly imagery with NDVI and bare-earth spectral signatures to delineate the active extraction zone, compared against the declared concession polygon from the national mining cadastre or USGS MRDS. A consistent oversize across at least 5 independent observations is required to eliminate measurement error.`,
+    formula: "Area_fraud = (sat_area − declared_area) / declared_area\nFlag if >0.20 on ≥5 independent observations",
+    sources: [
+      { name: "ESA Sentinel-2 (Copernicus Open Access Hub)", url: "https://scihub.copernicus.eu/" },
+      { name: "USGS MRDS — declared concession polygons", url: "https://mrdata.usgs.gov/mrds/" },
+      { name: "Global Forest Watch — mining concession layers", url: "https://www.globalforestwatch.org/" },
+      { name: "CAMI (DRC mining registry) — concession polygons", url: "https://www.mines-rdc.cd/fr/" },
+    ],
+  },
+  {
+    id: "df5",
+    dimension: "fraud",
+    strength: "S",
+    name: "Price Paid Below Market Floor for Informal Sourcing",
+    brief: "Invoice price >35% below LME spot — economically impossible for compliant material",
+    severity: 0.78,
+    confidence: 0.85,
+    deniability: 0.22,
+    justification: `Compliant, certified critical minerals carry a cost premium — audit fees, certification costs, legal wages, environmental compliance. Material that is priced more than 35% below London Metal Exchange spot price for the equivalent grade cannot be carrying full compliance costs. This price floor is well-established in mineral economics literature: the compliance premium for certified DRC cobalt, for example, is typically 15–25% above spot. A purchase at 40%+ below spot means the buyer is either receiving off-specification material (which should be documented) or knowingly sourcing from an informal channel that has avoided all compliance costs — including labour protections. Invoice prices are recoverable from Panjiva/ImportGenius BoL data, SEC filings, or customs declarations.`,
+    formula: "Discount = (LME_spot − Invoice_price) / LME_spot\nFlag if Discount > 0.35; buyer knowledge inferred if pattern is systematic",
+    sources: [
+      { name: "London Metal Exchange — spot and forward prices", url: "https://www.lme.com/Metals" },
+      { name: "Fastmarkets — battery materials price assessments", url: "https://www.fastmarkets.com/battery-raw-materials/" },
+      { name: "Panjiva (S&P Global) — Bill of Lading invoice data", url: "https://panjiva.com/" },
+      { name: "Benchmark Mineral Intelligence — lithium/cobalt price series", url: "https://www.benchmarkminerals.com/" },
+    ],
+  },
+];
+
+// ══════════════════════════════════════════════════════════════
+// COUNTRY PRESETS
+// ══════════════════════════════════════════════════════════════
+
+const PRESETS = {
+  drc:     { cl2:0.90, cl3:0.85, cl4:0.80, fl1:0.75, fl2:0.65, fl3:0.70, fl4:0.78, df1:0.88, df2:0.85, df3:0.70, df4:0.80, df5:0.82, cl1:0.76 },
+  congo:   { cl2:0.78, cl3:0.72, cl4:0.60, fl1:0.62, fl2:0.55, fl3:0.60, fl4:0.70, df1:0.65, df2:0.60, df3:0.30, df4:0.55, df5:0.58, cl1:0.55 },
+  china:   { cl2:0.35, cl3:0.40, cl4:0.70, fl1:0.65, fl2:0.60, fl3:0.75, fl4:0.55, df1:0.72, df2:0.75, df3:0.55, df4:0.60, df5:0.65, cl1:0.50 },
+  myanmar: { cl2:0.65, cl3:0.60, cl4:0.75, fl1:0.80, fl2:0.70, fl3:0.78, fl4:0.82, df1:0.80, df2:0.82, df3:0.60, df4:0.70, df5:0.75, cl1:0.65 },
+  chile:   { cl2:0.22, cl3:0.30, cl4:0.25, fl1:0.20, fl2:0.18, fl3:0.30, fl4:0.20, df1:0.15, df2:0.20, df3:0.10, df4:0.15, df5:0.12, cl1:0.20 },
+  custom:  { cl2:0.50, cl3:0.50, cl4:0.50, fl1:0.50, fl2:0.50, fl3:0.50, fl4:0.50, df1:0.50, df2:0.50, df3:0.50, df4:0.50, df5:0.50, cl1:0.50 },
+};
+
+// Severity, confidence, deniability from signal definitions
+const BASE = {};
+SIGNALS.forEach(s => { BASE[s.id] = { sev: s.severity, conf: s.confidence, den: s.deniability }; });
+
+function signalWeight(id, activeRatio) {
+  const b = BASE[id];
+  const eff_sev = b.sev * activeRatio;
+  return eff_sev * b.conf * (1 - b.den);
+}
+
+function dimensionScore(ids, preset) {
+  const weights = ids.map(id => signalWeight(id, preset[id] || 0.5));
+  return 1 - weights.reduce((acc, w) => acc * (1 - w), 1);
+}
+
+function recalculate() {
+  const country = document.getElementById("sel-country").value;
+  const preset = PRESETS[country] || PRESETS.custom;
+
+  const childIds = ["cl1","cl2","cl3","cl4"];
+  const forcedIds = ["fl1","fl2","fl3","fl4"];
+  const fraudIds = ["df1","df2","df3","df4","df5"];
+
+  const child = dimensionScore(childIds, preset);
+  const forced = dimensionScore(forcedIds, preset);
+  const fraud = dimensionScore(fraudIds, preset);
+  const composite = 1 - (1 - child) * (1 - forced) * (1 - fraud);
+
+  const fmt = v => Math.round(v * 100) + "%";
+  const color = v => v > 0.75 ? "var(--red)" : v > 0.55 ? "#c05010" : v > 0.30 ? "var(--amber)" : "var(--green)";
+
+  document.getElementById("pct-child").textContent = fmt(child);
+  document.getElementById("pct-child").style.color = color(child);
+  document.getElementById("bar-child").style.width = fmt(child);
+  document.getElementById("sub-child").textContent = child > 0.75 ? "CRITICAL — refer for field investigation" : child > 0.55 ? "HIGH — enhanced due diligence" : child > 0.30 ? "MODERATE — monitor closely" : "LOW — standard monitoring";
+
+  document.getElementById("pct-forced").textContent = fmt(forced);
+  document.getElementById("pct-forced").style.color = color(forced);
+  document.getElementById("bar-forced").style.width = fmt(forced);
+  document.getElementById("sub-forced").textContent = forced > 0.75 ? "CRITICAL" : forced > 0.55 ? "HIGH" : forced > 0.30 ? "MODERATE" : "LOW";
+
+  document.getElementById("pct-fraud").textContent = fmt(fraud);
+  document.getElementById("pct-fraud").style.color = color(fraud);
+  document.getElementById("bar-fraud").style.width = fmt(fraud);
+  document.getElementById("sub-fraud").textContent = fraud > 0.75 ? "CRITICAL" : fraud > 0.55 ? "HIGH" : fraud > 0.30 ? "MODERATE" : "LOW";
+
+  const compEl = document.getElementById("pct-composite");
+  compEl.textContent = fmt(composite);
+  compEl.style.color = color(composite);
+  document.getElementById("bar-composite").style.width = fmt(composite);
+  document.getElementById("bar-composite").style.background = color(composite);
+
+  const verdict = document.getElementById("verdict");
+  if (composite > 0.75) { verdict.textContent = "CRITICAL — SUSPEND SOURCING"; verdict.style.background = "var(--red)"; verdict.style.color = "#fff"; }
+  else if (composite > 0.55) { verdict.textContent = "HIGH — FIELD INVESTIGATION"; verdict.style.background = "#c05010"; verdict.style.color = "#fff"; }
+  else if (composite > 0.30) { verdict.textContent = "MODERATE — ENHANCED DD"; verdict.style.background = "var(--amber)"; verdict.style.color = "#fff"; }
+  else { verdict.textContent = "LOW — STANDARD MONITORING"; verdict.style.background = "var(--green)"; verdict.style.color = "#fff"; }
+
+  document.getElementById("composite-explain").textContent =
+    `Composite = 1 − (1−${fmt(child)}) × (1−${fmt(forced)}) × (1−${fmt(fraud)}) = ${fmt(composite)}`;
+
+  // Update signal bar charts
+  SIGNALS.forEach(s => {
+    const el = document.getElementById("sbar-" + s.id);
+    if (el) {
+      const ratio = preset[s.id] || 0.5;
+      const w = signalWeight(s.id, ratio);
+      el.style.width = Math.round(w * 100) + "%";
+      el.parentElement.nextElementSibling.textContent = Math.round(w * 100) + "%";
+    }
+  });
+}
+
+// ══════════════════════════════════════════════════════════════
+// RENDER SIGNAL TABLE
+// ══════════════════════════════════════════════════════════════
+
+const CATEGORIES = [
+  { id: "child", label: "Child Labour", icon: "👶", color: "var(--red)", ids: ["cl1","cl2","cl3","cl4"] },
+  { id: "forced", label: "Forced & Bonded Labour", icon: "⛓", color: "var(--amber)", ids: ["fl1","fl2","fl3","fl4"] },
+  { id: "fraud", label: "Document & Trade Fraud", icon: "📋", color: "var(--blue)", ids: ["df1","df2","df3","df4","df5"] },
+];
+
+function renderSignals() {
+  const container = document.getElementById("signal-container");
+  let html = "";
+
+  CATEGORIES.forEach(cat => {
+    const catSignals = SIGNALS.filter(s => cat.ids.includes(s.id));
+
+    html += `
+    <div class="signal-section">
+      <div class="signal-cat-head">
+        <span class="signal-cat-icon">${cat.icon}</span>
+        <span class="signal-cat-name">${cat.label}</span>
+        <span class="signal-cat-count">${catSignals.length} SIGNALS IN DIMENSION</span>
+      </div>
+      <div class="signal-row header-row">
+        <div class="sr-cell">STRENGTH</div>
+        <div class="sr-cell">SIGNAL</div>
+        <div class="sr-cell center">EFFECTIVE WEIGHT</div>
+        <div class="sr-cell center">SEVERITY</div>
+        <div class="sr-cell center">CONFIDENCE</div>
+        <div class="sr-cell center">DENIABILITY</div>
+        <div class="sr-cell center">EXPAND</div>
+      </div>`;
+
+    catSignals.forEach(s => {
+      const w = Math.round(s.severity * s.confidence * (1 - s.deniability) * 100);
+      html += `
+      <div class="signal-row" id="row-${s.id}" onclick="toggleSignal('${s.id}')">
+        <div class="sr-cell center"><span class="strength-badge str-${s.strength}">${s.strength === "S" ? "STRONG" : "MEDIUM"}</span></div>
+        <div class="sr-cell" style="flex-direction:column;align-items:flex-start;gap:2px">
+          <div class="signal-name">${s.name}</div>
+          <div class="signal-brief">${s.brief}</div>
+        </div>
+        <div class="sr-cell center" style="flex-direction:column;gap:4px">
+          <div class="num" style="font-size:18px;color:${cat.color}">${w}%</div>
+          <div style="width:60px;height:3px;background:var(--rule)">
+            <div id="sbar-${s.id}" style="height:3px;background:${cat.color};width:${w}%;transition:width 0.6s"></div>
+          </div>
+        </div>
+        <div class="sr-cell center"><span class="num">${Math.round(s.severity * 100)}%</span></div>
+        <div class="sr-cell center"><span class="num">${Math.round(s.confidence * 100)}%</span></div>
+        <div class="sr-cell center"><span class="num" style="color:${s.deniability < 0.2 ? 'var(--green)' : s.deniability < 0.4 ? 'var(--amber)' : 'var(--red)'}">${Math.round(s.deniability * 100)}%</span></div>
+        <div class="sr-cell center" style="color:var(--ink3);font-size:11px" id="arrow-${s.id}">▼</div>
+      </div>
+
+      <div class="signal-detail" id="detail-${s.id}">
+        <div>
+          <div class="detail-block" style="margin-bottom:18px">
+            <div class="detail-label">Why this signal matters</div>
+            <div class="detail-text">${s.justification}</div>
+          </div>
+          <div class="detail-block">
+            <div class="detail-label">Detection formula</div>
+            <div class="detail-formula">${s.formula.replace(/\n/g, "<br>")}</div>
+          </div>
+          <div style="margin-top:16px">
+            <div class="detail-label">Weight calculation</div>
+            <div class="weight-breakdown">
+              <div class="wb-item"><div class="wb-label">SEVERITY</div><div class="wb-val">${Math.round(s.severity*100)}%</div></div>
+              <div class="wb-eq">×</div>
+              <div class="wb-item"><div class="wb-label">CONFIDENCE</div><div class="wb-val">${Math.round(s.confidence*100)}%</div></div>
+              <div class="wb-eq">×</div>
+              <div class="wb-item"><div class="wb-label">(1−DENY)</div><div class="wb-val">${Math.round((1-s.deniability)*100)}%</div></div>
+              <div class="wb-eq">=</div>
+              <div class="wb-item"><div class="wb-label">WEIGHT</div><div class="wb-val" style="color:${cat.color}">${Math.round(s.severity * s.confidence * (1-s.deniability)*100)}%</div></div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="detail-block">
+            <div class="detail-label">Source databases</div>
+            ${s.sources.map(src => `
+              <div style="margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid var(--rule)">
+                <div style="font-size:11px;font-weight:600;color:var(--ink);margin-bottom:2px">${src.name}</div>
+                <a href="${src.url}" target="_blank" class="source-link">${src.url}</a>
+              </div>
+            `).join("")}
+          </div>
+          <div class="detail-block" style="margin-top:16px">
+            <div class="detail-label">HS Codes / Data identifiers</div>
+            <div style="margin-top:4px">
+              ${["Lithium: HS 2825.20", "REE oxides: HS 2846.xx", "Cobalt: HS 2822.00", "Gold: HS 7108.xx", "Copper: HS 7403.xx"].map(c => `<span class="source-chip">${c}</span>`).join("")}
+            </div>
+          </div>
+        </div>
+      </div>`;
+    });
+
+    html += `</div>`;
+  });
+
+  container.innerHTML = html;
+}
+
+let openSignal = null;
+function toggleSignal(id) {
+  if (openSignal && openSignal !== id) {
+    document.getElementById("detail-" + openSignal).classList.remove("open");
+    document.getElementById("arrow-" + openSignal).textContent = "▼";
+    document.getElementById("row-" + openSignal).classList.remove("expanded");
+  }
+  const det = document.getElementById("detail-" + id);
+  const arrow = document.getElementById("arrow-" + id);
+  const row = document.getElementById("row-" + id);
+  const isOpen = det.classList.contains("open");
+  det.classList.toggle("open", !isOpen);
+  arrow.textContent = isOpen ? "▼" : "▲";
+  row.classList.toggle("expanded", !isOpen);
+  openSignal = isOpen ? null : id;
+}
+
+// ══ INIT ══
+renderSignals();
+setTimeout(recalculate, 100);
+</script>
+</body>
+</html>
