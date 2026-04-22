@@ -66,6 +66,7 @@ import openpyxl
 ROOT = Path(__file__).resolve().parent.parent
 OCC_XLSX = ROOT / 'data' / 'raw' / 'Global_REE_combined.xlsx'
 CO_XLSX  = ROOT / 'data' / 'raw' / 'Company that processes REE.xlsx'
+CN_XLSX  = ROOT / 'data' / 'raw' / 'China_REE_Refineries.xlsx'
 PROC     = ROOT / 'data' / 'processed'
 WEB      = ROOT / 'webapp' / 'public'
 GEOCACHE = PROC / 'geocode_cache.json'
@@ -214,14 +215,35 @@ def clean(v):
 
 
 def clean_status_code(v):
-    """Normalize codes like '4.0' → '4' (xlsx imports numerics as floats)."""
+    """Normalize raw status cell → canonical short code.
+
+    Examples:
+      '4.0'                             → '4'
+      '4 - Active production'           → '4'
+      '5 - Metal/alloy production (…)'  → '5'
+      'T,3(2023)'                       → '3'   (most recent wins)
+      'P, 4(?)'                         → '4'
+      'Showing(?)'                      → 'Showing'
+    """
     s = clean(v)
     if s is None:
         return None
-    # Strip trailing ".0" from plain integer-as-float strings.
+    # '4 - Active production' → '4'  (strip the explanatory tail)
+    s = re.split(r'\s+-\s+', s, maxsplit=1)[0].strip()
+    # '4.0' → '4'
     if re.fullmatch(r'-?\d+\.0+', s):
         return s.split('.')[0]
-    return s
+    # Compound like 'T,3(2023)' → take the rightmost token (most recent).
+    tokens = [t.strip() for t in re.split(r'\s*[,&]\s*', s) if t.strip()]
+    if tokens:
+        s = tokens[-1]
+    # Strip year-paren suffix '3(2023)' → '3'.
+    s = re.sub(r'\s*\(.*?\)\s*$', '', s)
+    # Drop trailing '.0' from compound floats.
+    s = re.sub(r'\.0+$', '', s)
+    # USGS '(?)' uncertainty marker.
+    s = re.sub(r'\s*\(\?\)\s*$', '', s)
+    return s or None
 
 
 def num(v):
@@ -309,6 +331,67 @@ def load_projects(path):
     return out
 
 
+def parse_quota(s):
+    """Pull the first numeric tonnage out of a free-text quota string.
+    '170,001' → 170001;  '83,999 (full year, incl. X)' → 83999;
+    'Not separately published' / 'Absorbed into …' → None.
+    """
+    if not s:
+        return None
+    m = re.search(r'[\d][\d,]*(?:\.\d+)?', str(s))
+    if not m:
+        return None
+    try:
+        return float(m.group(0).replace(',', ''))
+    except ValueError:
+        return None
+
+
+def load_china_refineries(path):
+    """Load the China_REE_Refineries.xlsx supplement. Returns one dict per
+    non-empty row of the 'China Refineries' sheet."""
+    wb = openpyxl.load_workbook(path, read_only=True, data_only=True)
+    ws = wb['China Refineries']
+    rows = list(ws.iter_rows(values_only=True))
+    headers = rows[0]
+    idx = {h: i for i, h in enumerate(headers)}
+
+    def col(h): return idx[h] if h in idx else None
+
+    out = []
+    for r in rows[1:]:
+        if not r or r[0] is None:
+            continue
+        out.append({
+            'no':            clean(r[col('No.')]),
+            'company':       clean(r[col('Company')]),
+            'chinese_name':  clean(r[col('Chinese Name')]),
+            'name':          clean(r[col('Project / Plant')]),
+            'location':      clean(r[col('Location')]),
+            'ticker':        clean(r[col('Stock Ticker')]),
+            'ownership':     clean(r[col('Ownership')]),
+            'status_text':   clean(r[col('Status (2024)')]),
+            'ree_type':      clean(r[col('REE Type')]),
+            'smelt_quota':   parse_quota(r[col('Smelting Quota 2024 (t REO)')]),
+            'mine_quota':    parse_quota(r[col('Mining Quota 2024 (t REO)')]),
+            'capacity':      clean(r[col('Capacity (declared)')]),
+            'revenue':       clean(r[col('Revenue 2024 (CNY)')]),
+            'net_profit':    clean(r[col('Net Profit 2024 (CNY)')]),
+            'op_margin':     clean(r[col('Operating Margin 2024)')]) if 'Operating Margin 2024)' in idx else clean(r[col('Operating Margin 2024')]) if 'Operating Margin 2024' in idx else None,
+            'employees':     clean(r[col('Employees')]),
+            'upstream':      clean(r[col('Upstream (Feed)')]),
+            'downstream':    clean(r[col('Downstream (Clients)')]),
+            'products':      clean(r[col('Products')]),
+            'disclosure':    clean(r[col('Disclosure Level')]),
+            'ref_status':    clean(r[col('Status Ref.')]),
+            'ref_capacity':  clean(r[col('Capacity Ref.')]),
+            'ref_upstream':  clean(r[col('Upstream Ref.')]),
+            'ref_downstream':clean(r[col('Downstream Ref.')]),
+            'notes':         clean(r[col('Notes')]),
+        })
+    return out
+
+
 def load_factories(path):
     wb = openpyxl.load_workbook(path, read_only=True, data_only=True)
     ws = wb['Factory']
@@ -389,6 +472,7 @@ def build_deposit_nodes(occurrences, cache):
             'geocoded':     True,
             'company':      o['company'],
             'status':       o['status'],
+            'pstatus':      o['p_status'],      # USGS P_Status — drives 'active' filter
             'deposit_type': o['dep_type'],
             'commodities':  o['commods'],
             'ree_grade':    o['ree'],
@@ -585,56 +669,323 @@ def build_factory_nodes(factories, existing_nodes, cache):
     return nodes
 
 
+# ── China refineries (supplemental dataset, 2024 data) ──────────────────────
+# A small subset of the 10 rows aren't strictly refineries. The classification
+# table below overrides the default 'refinery' type so Bayan Obo (a mine) and
+# the NdFeB alloy plant (downstream magnet maker) land in the right bucket.
+CHINA_ROW_OVERRIDES = {
+    '8':  {'type': 'project', 'note': 'Mine + concentrate producer (RE as byproduct of iron ore). Reclassified from refinery.'},
+    '10': {'type': 'oem',     'note': 'Downstream NdFeB alloy/magnet maker (status 5). Reclassified from refinery.'},
+}
+
+# HQ-only / trading-only rows — no physical refinery to place. Omitted entirely.
+CHINA_EXCLUDE = {'7'}
+
+# Multi-site aggregates. Each entry splits the raw row into N refinery nodes,
+# one per operational site (HQ and trading arms are intentionally excluded).
+# Children share the row's company / quota / revenue metadata and carry a
+# shared `group_id` so edges referencing the aggregate fan out to all sites.
+CHINA_SITE_SPLITS = {
+    # Southern HREE Smelting & Separation Network — 8 provinces, HQ Ganzhou
+    '2': [
+        {'label': 'Jiangxi',   'geo_query': 'Ganzhou, Jiangxi, China'},   # primary
+        {'label': 'Guangxi',   'geo_query': 'Nanning, Guangxi, China'},
+        {'label': 'Hunan',     'geo_query': 'Changsha, Hunan, China'},
+        {'label': 'Sichuan',   'geo_query': 'Leshan, Sichuan, China'},
+        {'label': 'Guangdong', 'geo_query': 'Heyuan, Guangdong, China'},
+        {'label': 'Fujian',    'geo_query': 'Longyan, Fujian, China'},
+        {'label': 'Yunnan',    'geo_query': 'Kunming, Yunnan, China'},
+        {'label': 'Shandong',  'geo_query': 'Jinan, Shandong, China'},
+    ],
+    # Shenghe Resources — Leshan (primary smelting) + Jiangxi (HREE). Singapore
+    # is explicitly a trading hub, so it is NOT split into its own site.
+    '3': [
+        {'label': 'Leshan, Sichuan', 'geo_query': 'Leshan, Sichuan, China'},
+        {'label': 'Jiangxi',         'geo_query': 'Ganzhou, Jiangxi, China'},
+    ],
+    # Xiamen Tungsten — three Fujian cities
+    '4': [
+        {'label': 'Xiamen, Fujian',  'geo_query': 'Xiamen, Fujian, China'},
+        {'label': 'Longyan, Fujian', 'geo_query': 'Longyan, Fujian, China'},
+        {'label': 'Sanming, Fujian', 'geo_query': 'Sanming, Fujian, China'},
+    ],
+}
+
+
+def _base_china_node(r, node_id, name_override=None):
+    """Build the shared metadata shell for a China refinery node."""
+    override = CHINA_ROW_OVERRIDES.get(r['no'], {})
+    node_type = override.get('type', 'refinery')
+    node = {
+        'id':           node_id,
+        'type':         node_type,
+        'name':         name_override or r['name'],
+        'lat':          None,
+        'lng':          None,
+        'country':      'China',
+        'geocoded':     False,
+        'precision':    'unknown',
+        'company':      r['company'],
+        'chinese_name': r['chinese_name'],
+        'ticker':       r['ticker'],
+        'ownership':    r['ownership'],
+        'status_code':  clean_status_code(r['status_text']) if r['status_text'] else None,
+        'status_text':  r['status_text'],
+        'ree_type':     r['ree_type'],
+        'smelting_quota_t_reo_2024': r['smelt_quota'],
+        'mining_quota_t_reo_2024':   r['mine_quota'],
+        'capacity':     r['capacity'],
+        'revenue_2024_cny':    r['revenue'],
+        'net_profit_2024_cny': r['net_profit'],
+        'operating_margin_2024': r['op_margin'],
+        'employees':    r['employees'],
+        'products':     r['products'],
+        'disclosure_level': r['disclosure'],
+        'location_text': r['location'],
+        'data_year':    2024,
+        'source_file':  'China_REE_Refineries.xlsx',
+        'ref_urls':     [u for u in (r.get('ref_status'), r.get('ref_capacity'),
+                                     r.get('ref_upstream'), r.get('ref_downstream'))
+                         if u and u.startswith(('http://', 'https://'))],
+        '_upstream_text':   r.get('upstream'),
+        '_downstream_text': r.get('downstream'),
+    }
+    if override.get('note'):
+        node['classification_note'] = override['note']
+    return node
+
+
+def build_china_nodes(rows, existing_nodes, cache):
+    """Load the China refineries supplement.
+
+    For rows in CHINA_SITE_SPLITS we emit one node per actual refinery site
+    (HQ and trading arms omitted). All siblings share a `group_id` so edges
+    referencing the aggregate can fan out to every site with `probable: True`.
+    """
+    name_idx = [n for n in existing_nodes if n.get('name') and n.get('lat') is not None]
+    nodes = []
+    for r in rows:
+        if r['no'] in CHINA_EXCLUDE:
+            continue
+
+        # Multi-site row — emit one refinery node per explicit site.
+        if r['no'] in CHINA_SITE_SPLITS:
+            group_id = f'cn_{r["no"]}'
+            for idx, site in enumerate(CHINA_SITE_SPLITS[r['no']], 1):
+                node_id   = f'{group_id}_{idx}'
+                seed      = node_id
+                node_name = f'{r["name"]} — {site["label"]} site'
+                node = _base_china_node(r, node_id, name_override=node_name)
+                node['group_id']   = group_id
+                node['site_label'] = site['label']
+                # Geocode the specific site; falls back to China country centroid.
+                resolved = resolve_coord([site['geo_query']], 'China', None, seed, cache)
+                if resolved:
+                    node['lat'], node['lng'], node['precision'] = (
+                        round(resolved[0], 5), round(resolved[1], 5), resolved[2])
+                    node['geocoded'] = True
+                nodes.append(node)
+            continue
+
+        # Single-site row — same as before: try upstream inheritance, then
+        # Nominatim on the HQ / first-listed location.
+        node = _base_china_node(r, f'cn_{r["no"]}')
+        seed = node['id']
+        lat = lng = precision = None
+
+        up = r.get('upstream')
+        if up and node['type'] != 'project':
+            primary = re.split(r',| and ', up)[0].strip()
+            best, best_score = None, 0.0
+            if primary:
+                for n in name_idx:
+                    s = similar(primary, n['name'])
+                    if s > best_score:
+                        best_score, best = s, n
+            if best and best_score >= 0.85:
+                lat, lng = _jitter((best['lat'], best['lng']), 'joined', seed)
+                precision = 'joined'
+
+        if lat is None:
+            loc = r['location'] or ''
+            loc_head = re.split(r'[;\n]', loc)[0]
+            loc_head = re.sub(r'^\s*HQ:\s*', '', loc_head, flags=re.I).strip()
+            resolved = resolve_coord(
+                [loc_head, f'{r["name"]}, China' if r['name'] else None],
+                'China', None, seed, cache,
+            )
+            if resolved:
+                lat, lng, precision = resolved
+
+        if lat is not None:
+            node.update({'lat': round(lat, 5), 'lng': round(lng, 5),
+                         'precision': precision or 'unknown', 'geocoded': True})
+        nodes.append(node)
+    return nodes
+
+
 # ── Edges from Factory sheet Upstream/Downstream text ────────────────────────
+# Common single-word tokens that show up in downstream text (country names,
+# cardinal directions, continents, generic industries) and should NEVER seed
+# a fuzzy edge to a deposit that happens to share the name.
+FUZZY_MATCH_STOPWORDS = {
+    'north', 'south', 'east', 'west', 'central', 'domestic', 'international',
+    'global', 'regional', 'industry', 'industries', 'magnet', 'magnets',
+    'battery', 'batteries', 'japan', 'china', 'korea', 'canada', 'america',
+    'americas', 'europe', 'asia', 'africa', 'australia', 'russia', 'russian',
+    'federation', 'india', 'vietnam', 'myanmar', 'thailand', 'malaysia',
+    'indonesia', 'philippines', 'singapore', 'taiwan', 'mongolia', 'kazakhstan',
+    'brazil', 'chile', 'mexico', 'germany', 'france', 'italy', 'spain',
+    'sweden', 'norway', 'finland', 'poland', 'united', 'kingdom', 'states',
+    'ev', 'evs', 'oem', 'oems', 'electronics', 'automotive', 'turbines',
+    'wind', 'solar', 'catalyst', 'catalysts', 'phosphor', 'phosphors',
+    'alloy', 'alloys', 'customer', 'customers', 'client', 'clients',
+    'manufacturer', 'manufacturers', 'producer', 'producers', 'supplier',
+    'suppliers', 'trading', 'arm', 'hub',
+}
+
+
 def resolve_node_ref(text, all_nodes):
-    """Fuzzy-match a free-text upstream/downstream value to any node name."""
-    if not text or text.lower() in ('none', 'nan', '-', ''):
+    """Fuzzy-match a free-text upstream/downstream phrase → best-match node.
+
+    Guardrails against the most common false positives:
+      * Candidate names that are a single stop-word (country, direction, …)
+        are never matched — '"South" deposit' vs '"South Korea"' was the
+        pathological case.
+      * Substring boost requires a multi-word candidate OR length ≥ 7 so
+        short generic names don't light up on any longer phrase that contains
+        them as a word.
+
+    Returns the matching node dict so callers can inspect `group_id`.
+    """
+    if not text or str(text).lower() in ('none', 'nan', '-', ''):
         return None
-    # Downstream often lists multiple destinations as a comma-separated string —
-    # split on commas but only if the whole string doesn't resemble a place name
-    # with a trailing region. We handle each piece.
+    canon_text = canonical_name(text)
     best, best_score = None, 0.0
     for n in all_nodes:
-        s = similar(text, n['name'])
-        if s > best_score:
-            best_score, best = s, n
-    return best['id'] if best and best_score >= 0.78 else None
+        cname = canonical_name(n['name'])
+        if not cname or len(cname) < 4:
+            continue
+        tokens = cname.split()
+        # Single-word stop-word names never match — prevents 'South' vs 'South Korea'.
+        if len(tokens) == 1 and tokens[0] in FUZZY_MATCH_STOPWORDS:
+            continue
+
+        # When the node is one site of a multi-site group, rank it against the
+        # shared group name (strip "— <site>" tail).
+        match_name = re.sub(r'\s*[—-]\s*.*$', '', n['name']) if n.get('group_id') else n['name']
+        score = similar(text, match_name)
+
+        canon_match = canonical_name(match_name)
+        mtokens = canon_match.split()
+        # Substring boost only kicks in for multi-word candidates or ≥ 7 chars.
+        if (len(mtokens) >= 2 or len(canon_match) >= 7) \
+                and f' {canon_match} ' in f' {canon_text} ':
+            score = max(score, 0.9)
+
+        # Short single-word candidate names are ambiguous (country-like words,
+        # 5–6 letter common tokens). Require a near-exact match for them.
+        if len(mtokens) == 1 and len(canon_match) < 7 and score < 0.95:
+            continue
+
+        if score > best_score:
+            best_score, best = score, n
+    return best if best and best_score >= 0.78 else None
+
+
+def expand_to_group(node, all_nodes):
+    """If `node` belongs to a multi-site group, return every sibling site.
+    Otherwise return [node]."""
+    gid = node.get('group_id')
+    if not gid:
+        return [node]
+    return [n for n in all_nodes if n.get('group_id') == gid] or [node]
+
+
+def split_refs(text):
+    """Split 'A, B (x, y); C and D' → ['A', 'B', 'C', 'D'] — tolerates nested
+    commas inside parens by stripping parens before splitting."""
+    if not text:
+        return []
+    # Drop parenthesized sub-clauses so their commas don't confuse the split.
+    stripped = re.sub(r'\s*\([^)]*\)', ' ', str(text))
+    parts = re.split(r',|;| and ', stripped)
+    return [p.strip() for p in parts if p and p.strip()]
+
+
+def _fan_out(f_nodes, direction, piece, factory_node, all_nodes, material_hint):
+    """Given a matched reference node (or a multi-site group), expand to all
+    sites. If the factory itself is multi-site, expand both ends. Emits
+    {from, to, probable} tuples suitable for edge building."""
+    if not f_nodes:
+        return []
+    ref_sites = expand_to_group(f_nodes, all_nodes)
+    fac_sites = expand_to_group(factory_node, all_nodes)
+    # Fan-out count > 1 on either side ⇒ the exact site pairing is uncertain.
+    probable = (len(ref_sites) > 1) or (len(fac_sites) > 1)
+    out = []
+    for r_site in ref_sites:
+        for f_site in fac_sites:
+            if r_site['id'] == f_site['id']:
+                continue
+            if direction == 'upstream':
+                out.append((r_site, f_site, probable, material_hint(r_site)))
+            else:
+                out.append((f_site, r_site, probable, material_hint(f_site)))
+    return out
 
 
 def extract_factory_edges(factory_nodes, all_nodes):
+    def upstream_material(from_node):
+        return 'ore' if from_node['id'].startswith('dep_') else 'concentrate'
+    def downstream_material(from_node):
+        return 'magnet' if from_node.get('type') == 'oem' else 'separated_reo'
+
     edges = []
     eid = 0
+    seen = set()
     for f in factory_nodes:
+        # Skip sibling sites — we attach edges to the "first" site of each
+        # group (lowest id) to avoid duplicate emissions; fan-out expands them.
+        gid = f.get('group_id')
+        if gid and f['id'] != f'{gid}_1':
+            continue
         up = f.get('_upstream_text')
         dn = f.get('_downstream_text')
-        if up:
-            for piece in re.split(r',| and ', up):
-                piece = piece.strip()
-                ref = resolve_node_ref(piece, all_nodes)
-                if ref and ref != f['id']:
-                    eid += 1
-                    edges.append({
-                        'id':       f'edge_up_{eid}',
-                        'from_id':  ref,
-                        'to_id':    f['id'],
-                        'material': 'ore' if ref.startswith('dep_') else 'concentrate',
-                        'volume_tons_per_year': None, 'year': 2022,
-                        'source':   'factory_upstream', 'evidence': piece,
-                    })
-        if dn:
-            for piece in re.split(r',| and ', dn):
-                piece = piece.strip()
-                ref = resolve_node_ref(piece, all_nodes)
-                if ref and ref != f['id']:
-                    eid += 1
-                    edges.append({
-                        'id':       f'edge_dn_{eid}',
-                        'from_id':  f['id'],
-                        'to_id':    ref,
-                        'material': 'separated_reo',
-                        'volume_tons_per_year': None, 'year': 2022,
-                        'source':   'factory_downstream', 'evidence': piece,
-                    })
+
+        for piece in split_refs(up):
+            ref = resolve_node_ref(piece, all_nodes)
+            if not ref:
+                continue
+            for (a, b, probable, material) in _fan_out(ref, 'upstream', piece, f, all_nodes, upstream_material):
+                key = ('up', a['id'], b['id'])
+                if key in seen: continue
+                seen.add(key)
+                eid += 1
+                edges.append({
+                    'id': f'edge_up_{eid}', 'from_id': a['id'], 'to_id': b['id'],
+                    'material': material,
+                    'volume_tons_per_year': None, 'year': 2022,
+                    'source': 'factory_upstream', 'evidence': piece,
+                    'probable': probable,
+                })
+
+        for piece in split_refs(dn):
+            ref = resolve_node_ref(piece, all_nodes)
+            if not ref:
+                continue
+            for (a, b, probable, material) in _fan_out(ref, 'downstream', piece, f, all_nodes, downstream_material):
+                key = ('dn', a['id'], b['id'])
+                if key in seen: continue
+                seen.add(key)
+                eid += 1
+                edges.append({
+                    'id': f'edge_dn_{eid}', 'from_id': a['id'], 'to_id': b['id'],
+                    'material': material,
+                    'volume_tons_per_year': None, 'year': 2022,
+                    'source': 'factory_downstream', 'evidence': piece,
+                    'probable': probable,
+                })
     return edges
 
 
@@ -650,19 +1001,28 @@ def run():
     projects = load_projects(CO_XLSX)
     print(f'Loading factories …')
     factories = load_factories(CO_XLSX)
+    print(f'Loading China refineries supplement …')
+    china_rows = load_china_refineries(CN_XLSX) if CN_XLSX.exists() else []
     print(f'  occurrences: {len(occs)}')
     print(f'  projects   : {len(projects)}')
     print(f'  factories  : {len(factories)}')
+    print(f'  china rows : {len(china_rows)}')
 
     deposit_nodes = build_deposit_nodes(occs, cache)
     project_nodes, join_edges = build_project_nodes(projects, deposit_nodes, cache)
     factory_nodes = build_factory_nodes(factories, deposit_nodes + project_nodes, cache)
+    china_nodes = build_china_nodes(china_rows,
+                                    deposit_nodes + project_nodes + factory_nodes,
+                                    cache)
 
-    all_nodes = deposit_nodes + project_nodes + factory_nodes
+    all_nodes = deposit_nodes + project_nodes + factory_nodes + china_nodes
     rendered_nodes = [n for n in all_nodes if n.get('geocoded')]
 
     factory_edges = extract_factory_edges(factory_nodes, all_nodes)
-    edges = join_edges + factory_edges
+    # Same upstream/downstream extractor works for the China rows since they
+    # carry _upstream_text / _downstream_text in the same shape.
+    china_edges   = extract_factory_edges(china_nodes, all_nodes)
+    edges = join_edges + factory_edges + china_edges
 
     # Strip internal underscore-prefixed fields before serializing.
     for n in all_nodes:
@@ -673,15 +1033,18 @@ def run():
     meta = {
         'generated_at':   time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
         'counts': {
-            'deposits':   len(deposit_nodes),
-            'projects':   len(project_nodes),
-            'refineries': len(factory_nodes),
-            'renderable': len(rendered_nodes),
-            'edges':      len(edges),
-            'join_edges': len(join_edges),
-            'factory_edges': len(factory_edges),
+            'deposits':     sum(1 for n in all_nodes if n['type'] == 'deposit'),
+            'projects':     sum(1 for n in all_nodes if n['type'] == 'project'),
+            'refineries':   sum(1 for n in all_nodes if n['type'] == 'refinery'),
+            'oem':          sum(1 for n in all_nodes if n['type'] == 'oem'),
+            'renderable':   len(rendered_nodes),
+            'edges':        len(edges),
+            'join_edges':   len(join_edges),
+            'factory_edges':len(factory_edges),
+            'china_edges':  len(china_edges),
+            'china_rows':   len(china_nodes),
         },
-        'schema_version': 1,
+        'schema_version': 2,
     }
 
     (PROC / 'nodes.json').write_text(json.dumps(all_nodes, separators=(',', ':'), ensure_ascii=False))

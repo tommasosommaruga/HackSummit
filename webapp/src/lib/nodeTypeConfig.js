@@ -111,15 +111,16 @@ export function normalizeStatusCode(raw) {
   if (raw == null) return null
   let s = String(raw).trim()
   if (!s) return null
-  s = s.replace(/\s*\(\?\)\s*$/, '')            // drop trailing "(?)"
-  s = s.replace(/\.0+$/, '')                    // '4.0' → '4'
-  // Split on commas/amps; pick the rightmost token (most recent state).
+  // '4 - Active production' → '4'  (strip explanatory tail after ' - ')
+  const dashIdx = s.search(/\s+-\s+/)
+  if (dashIdx >= 0) s = s.slice(0, dashIdx).trim()
+  s = s.replace(/\s*\(\?\)\s*$/, '')              // '(?)' uncertainty
+  s = s.replace(/\.0+$/, '')                      // '4.0' → '4'
+  // Split on commas / ampersands; pick rightmost token (most recent state).
   const tokens = s.split(/\s*[,&]\s*/).filter(Boolean)
   if (tokens.length === 0) return null
   let last = tokens[tokens.length - 1]
-  // Strip year parens like "3(2023)".
-  last = last.replace(/\s*\(.*?\)\s*$/, '')
-  // Floats in compound tokens.
+  last = last.replace(/\s*\(.*?\)\s*$/, '')       // 'T(2021)' → 'T'
   last = last.replace(/\.0+$/, '')
   return last || null
 }

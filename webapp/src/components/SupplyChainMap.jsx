@@ -15,7 +15,8 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import DeckGL from '@deck.gl/react'
 import { MapView } from '@deck.gl/core'
-import { ScatterplotLayer, IconLayer, ArcLayer, TextLayer } from '@deck.gl/layers'
+import { ScatterplotLayer, IconLayer, ArcLayer, TextLayer, PathLayer } from '@deck.gl/layers'
+import { PathStyleExtension } from '@deck.gl/extensions'
 import maplibregl from 'maplibre-gl'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import Supercluster from 'supercluster'
@@ -241,18 +242,55 @@ export default function SupplyChainMap({
   [edges, byId, typeVisible, highlighted])
 
   if (renderableEdges.length) {
-    layers.push(new ArcLayer({
+    // Sample a great-circle path as N waypoints so PathLayer can render the
+    // curve — this lets us dash 'probable' edges (multi-site fan-outs where
+    // the exact destination is unknown) via PathStyleExtension. ArcLayer
+    // doesn't support dashing, so we pre-compute the arc here.
+    const greatCirclePath = (a, b, steps = 32) => {
+      const pts = []
+      const lat1 = (a.lat * Math.PI) / 180, lon1 = (a.lng * Math.PI) / 180
+      const lat2 = (b.lat * Math.PI) / 180, lon2 = (b.lng * Math.PI) / 180
+      const d = 2 * Math.asin(Math.sqrt(
+        Math.sin((lat2 - lat1) / 2) ** 2
+        + Math.cos(lat1) * Math.cos(lat2) * Math.sin((lon2 - lon1) / 2) ** 2,
+      ))
+      if (d === 0) return [[a.lng, a.lat], [b.lng, b.lat]]
+      for (let i = 0; i <= steps; i++) {
+        const t = i / steps
+        const A = Math.sin((1 - t) * d) / Math.sin(d)
+        const B = Math.sin(t * d) / Math.sin(d)
+        const x = A * Math.cos(lat1) * Math.cos(lon1) + B * Math.cos(lat2) * Math.cos(lon2)
+        const y = A * Math.cos(lat1) * Math.sin(lon1) + B * Math.cos(lat2) * Math.sin(lon2)
+        const z = A * Math.sin(lat1) + B * Math.sin(lat2)
+        const lat = Math.atan2(z, Math.sqrt(x * x + y * y))
+        const lon = Math.atan2(y, x)
+        pts.push([(lon * 180) / Math.PI, (lat * 180) / Math.PI])
+      }
+      return pts
+    }
+    const pathEdges = renderableEdges.map(e => ({ ...e, path: greatCirclePath(e.from, e.to) }))
+
+    layers.push(new PathLayer({
       id: 'edges',
-      data: renderableEdges,
-      getSourcePosition: e => [e.from.lng, e.from.lat],
-      getTargetPosition: e => [e.to.lng,   e.to.lat],
-      getSourceColor: e => hexToRgba(MATERIAL_COLORS[e.material] || MATERIAL_COLORS.unknown, 140),
-      getTargetColor: e => hexToRgba(MATERIAL_COLORS[e.material] || MATERIAL_COLORS.unknown, 220),
-      getWidth: e => {
-        const v = e.volume_tons_per_year
-        return v ? Math.max(1, Math.min(6, Math.log10(v + 1) * 0.8)) : 1.2
+      data: pathEdges,
+      getPath: d => d.path,
+      getColor: d => {
+        const c = MATERIAL_COLORS[d.material] || MATERIAL_COLORS.unknown
+        return hexToRgba(c, d.probable ? 140 : 220)
       },
-      greatCircle: true,
+      getWidth: d => {
+        const v = d.volume_tons_per_year
+        const base = v ? Math.max(1, Math.min(6, Math.log10(v + 1) * 0.8)) : 1.4
+        return d.probable ? base * 0.75 : base
+      },
+      widthUnits: 'pixels',
+      widthMinPixels: 1,
+      capRounded: true,
+      jointRounded: true,
+      // Dashed pattern for probable edges; solid (dashArray [0,0]) otherwise.
+      getDashArray: d => d.probable ? [5, 3] : [0, 0],
+      dashJustified: true,
+      extensions: [new PathStyleExtension({ dash: true, highPrecisionDash: true })],
       pickable: true,
       onHover: info => setHover(info.object ? { kind: 'edge', ...info } : null),
     }))
@@ -333,6 +371,7 @@ export default function SupplyChainMap({
                   ? ` · ${hover.object.volume_tons_per_year.toLocaleString()} t/y`
                   : ''}
                 {hover.object.year ? ` · ${hover.object.year}` : ''}
+                {hover.object.probable ? ' · probable (multi-site)' : ''}
               </div>
             </>
           )}
