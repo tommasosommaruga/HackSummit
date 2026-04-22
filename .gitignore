@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+webapp/node_modules/
+webapp/dist/
+webapp/.vite/
+
+# Env / secrets
+.env
+.env.*
+*.key
+
+# Data (large files — commit only seeds)
+data/processed/
+data/outputs/
+
+# OS
+.DS_Store
+Thumbs.db

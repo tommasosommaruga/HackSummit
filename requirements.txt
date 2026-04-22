@@ -1,0 +1,9 @@
+requests>=2.31
+pandas>=2.1
+numpy>=1.26
+pdfplumber>=0.10
+streamlit>=1.35
+matplotlib>=3.8
+geopandas>=0.14
+folium>=0.16
+sentinelhub>=3.9
