@@ -136,6 +136,62 @@
   flex-shrink: 0;
 }
 
+/* Element grid */
+.element-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.4rem;
+}
+
+.el-chip {
+  background: var(--border);
+  border: 1px solid var(--muted);
+  border-radius: 8px;
+  padding: 0.4rem 0.5rem;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.1rem;
+  transition: all 0.15s;
+}
+
+.el-chip:hover { border-color: var(--el-color); }
+.el-chip.active {
+  background: color-mix(in srgb, var(--el-color) 15%, transparent);
+  border-color: var(--el-color);
+}
+
+.el-sym {
+  font-weight: 800;
+  font-size: 0.95rem;
+  color: var(--el-color);
+  font-family: var(--mono);
+  line-height: 1;
+}
+
+.el-name {
+  font-size: 0.6rem;
+  color: var(--sub);
+  text-align: center;
+  line-height: 1.2;
+}
+
+/* Element badge on map */
+.element-badge {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  border: 1px solid;
+  border-radius: 10px;
+  padding: 0.6rem 0.9rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  z-index: 1000;
+  backdrop-filter: blur(8px);
+}
+
 /* Map area */
 .map-area {
   flex: 1;

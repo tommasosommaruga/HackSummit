@@ -1,7 +1,8 @@
 import { useEffect, useRef, useState } from 'react'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
-import { MINES, REFINERIES, LAUNDERING_HUBS, TRADE_FLOWS } from '../data/mines.js'
+import { MINES, REFINERIES, LAUNDERING_HUBS, TRADE_FLOWS, ELEMENTS } from '../data/mines.js'
+import TransportLayer from './TransportLayer.jsx'
 
 // Fix default marker icons broken by bundlers
 delete L.Icon.Default.prototype._getIconUrl
@@ -85,7 +86,7 @@ function arcPoints(from, to, steps = 40) {
   return pts
 }
 
-export default function SupplyMap({ filters, selectedYear, onNodeClick }) {
+export default function SupplyMap({ filters, selectedYear, activeElement = 'Li', onNodeClick, showTransport = false, transportRiskFilter = 'all' }) {
   const mapRef = useRef(null)
   const instanceRef = useRef(null)
   const layersRef = useRef({ mines: [], refineries: [], hubs: [], flows: [] })
@@ -111,7 +112,7 @@ export default function SupplyMap({ filters, selectedYear, onNodeClick }) {
     return () => { map.remove(); instanceRef.current = null }
   }, [])
 
-  // Re-draw markers and flows when filters/year change
+  // Re-draw markers and flows when filters/year/element change
   useEffect(() => {
     const map = instanceRef.current
     if (!map) return
@@ -120,9 +121,12 @@ export default function SupplyMap({ filters, selectedYear, onNodeClick }) {
     Object.values(layersRef.current).flat().forEach(l => l.remove())
     layersRef.current = { mines: [], refineries: [], hubs: [], flows: [] }
 
+    const elColor = ELEMENTS[activeElement]?.color || '#3b82f6'
+
     // ── Mines ──────────────────────────────────────────────────────────────
     if (filters.mines) {
       MINES.forEach(mine => {
+        if (!mine.elements.includes(activeElement)) return
         if (filters.riskMin !== undefined && mine.risk < filters.riskMin) return
 
         const marker = L.marker([mine.lat, mine.lon], { icon: mineIcon(mine) })
@@ -131,11 +135,14 @@ export default function SupplyMap({ filters, selectedYear, onNodeClick }) {
             <div style="font-family:Inter,sans-serif;min-width:200px">
               <div style="font-weight:700;font-size:14px;margin-bottom:4px">${mine.flag} ${mine.name}</div>
               <div style="color:#9ca3af;font-size:12px;margin-bottom:8px">${mine.country} · ${mine.type}</div>
+              <div style="display:flex;gap:4px;margin-bottom:8px;flex-wrap:wrap">
+                ${mine.elements.map(el => `<span style="font-size:10px;padding:1px 6px;border-radius:99px;background:${ELEMENTS[el].color}22;color:${ELEMENTS[el].color};border:1px solid ${ELEMENTS[el].color}44;font-weight:700">${el}</span>`).join('')}
+              </div>
               <div style="display:flex;gap:12px;margin-bottom:8px">
                 <div><div style="font-size:10px;color:#9ca3af;text-transform:uppercase">Risk</div>
                   <div style="font-weight:600;color:${riskColor(mine.risk)}">${Math.round(mine.risk * 100)}%</div></div>
-                <div><div style="font-size:10px;color:#9ca3af;text-transform:uppercase">Output ${selectedYear}</div>
-                  <div style="font-weight:600">${((mine.output[selectedYear] || 0) / 1000).toFixed(1)} kt</div></div>
+                <div><div style="font-size:10px;color:#9ca3af;text-transform:uppercase">${activeElement} · ${selectedYear}</div>
+                  <div style="font-weight:600;color:${elColor}">${(mine.output[activeElement]?.[selectedYear] || 0).toFixed(0)} ${ELEMENTS[activeElement]?.unit || 'kt'}</div></div>
                 <div><div style="font-size:10px;color:#9ca3af;text-transform:uppercase">Certified</div>
                   <div style="font-weight:600;color:${mine.certified ? '#22c55e' : '#ef4444'}">${mine.certified ? 'Yes' : 'No'}</div></div>
               </div>
@@ -151,6 +158,7 @@ export default function SupplyMap({ filters, selectedYear, onNodeClick }) {
     // ── Refineries ─────────────────────────────────────────────────────────
     if (filters.refineries) {
       REFINERIES.forEach(ref => {
+        if (!ref.elements.includes(activeElement)) return
         const marker = L.marker([ref.lat, ref.lon], { icon: refineryIcon() })
           .addTo(map)
           .bindPopup(`
@@ -167,6 +175,7 @@ export default function SupplyMap({ filters, selectedYear, onNodeClick }) {
     // ── Laundering Hubs ────────────────────────────────────────────────────
     if (filters.hubs) {
       LAUNDERING_HUBS.forEach(hub => {
+        if (!hub.elements.includes(activeElement)) return
         const surplus = hub.surplus_kt[selectedYear] || 0
         if (surplus === 0) return
         const marker = L.marker([hub.lat, hub.lon], { icon: hubIcon(surplus) })
@@ -200,6 +209,7 @@ export default function SupplyMap({ filters, selectedYear, onNodeClick }) {
     // ── Trade Flow Arcs ────────────────────────────────────────────────────
     if (filters.flows) {
       TRADE_FLOWS.forEach(flow => {
+        if (flow.element !== activeElement) return
         const fromCoord = getCoord(flow.from)
         const toCoord = getCoord(flow.to)
         if (!fromCoord || !toCoord) return
@@ -227,9 +237,20 @@ export default function SupplyMap({ filters, selectedYear, onNodeClick }) {
         layersRef.current.flows.push(line)
       })
     }
-  }, [filters, selectedYear, onNodeClick])
+  }, [filters, selectedYear, activeElement, onNodeClick])
 
   return (
-    <div ref={mapRef} style={{ width: '100%', height: '100%', borderRadius: 'inherit' }} />
+    <>
+      <div ref={mapRef} style={{ width: '100%', height: '100%', borderRadius: 'inherit' }} />
+      {showTransport && instanceRef.current && (
+        <TransportLayer
+          map={instanceRef.current}
+          activeElement={activeElement}
+          showNodes={true}
+          showLegs={true}
+          riskFilter={transportRiskFilter}
+        />
+      )}
+    </>
   )
 }

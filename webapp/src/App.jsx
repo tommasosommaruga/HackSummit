@@ -5,6 +5,7 @@ import FlagList from './components/FlagList.jsx'
 import Timeline from './components/Timeline.jsx'
 import CIChart from './components/CIChart.jsx'
 import MapPage from './pages/MapPage.jsx'
+import CompanyPage from './pages/CompanyPage.jsx'
 import { computeTrustScore, getVerdict, getFlags } from './lib/provenance.js'
 import { PRODUCTS } from './data/mines.js'
 
@@ -15,7 +16,7 @@ function simulate(query) {
 }
 
 export default function App() {
-  const [page, setPage] = useState('home')  // 'home' | 'map'
+  const [page, setPage] = useState('home')  // 'home' | 'map' | 'companies'
   const [query, setQuery] = useState('')
   const [loading, setLoading] = useState(false)
   const [result, setResult] = useState(null)
@@ -39,19 +40,21 @@ export default function App() {
   const flags = result ? getFlags(result) : []
 
   if (page === 'map') return <MapPage onBack={() => setPage('home')} />
+  if (page === 'companies') return <CompanyPage onBack={() => setPage('home')} />
 
   return (
     <div className="app">
       {/* Nav */}
       <nav className="nav">
         <div className="nav-logo">Lithium<span>Truth</span></div>
-        <button
-          className="btn"
-          style={{ marginLeft: 'auto', padding: '0.5rem 1.1rem', fontSize: '0.85rem' }}
-          onClick={() => setPage('map')}
-        >
-          🌍 Supply Chain Map
-        </button>
+        <div style={{ marginLeft: 'auto', display: 'flex', gap: '0.5rem' }}>
+          <button className="btn" style={{ padding: '0.5rem 1.1rem', fontSize: '0.85rem' }} onClick={() => setPage('map')}>
+            🌍 Map
+          </button>
+          <button className="btn" style={{ padding: '0.5rem 1.1rem', fontSize: '0.85rem', background: '#8b5cf6' }} onClick={() => setPage('companies')}>
+            🏢 Companies
+          </button>
+        </div>
         <span className="nav-tag">HACKATHON DEMO · Ghost in the Machine</span>
       </nav>
 
