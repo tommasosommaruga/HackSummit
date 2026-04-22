@@ -25,7 +25,7 @@
 }
 
 .page-v2 {
-  position: fixed;
+  position: absolute;
   inset: 0;
   display: flex;
   flex-direction: column;
@@ -125,6 +125,39 @@
 }
 .seg-on[data-kind="active"]  { color: var(--v2-accent); box-shadow: var(--v2-shadow-sm), 0 0 0 1px rgba(34,211,238,0.35); }
 .seg-on[data-kind="nonprod"] { color: var(--v2-warn);   box-shadow: var(--v2-shadow-sm), 0 0 0 1px rgba(251,146,60,0.35); }
+
+/* Inferred-data toggle (Chinese aggregate) */
+.seg-inferred {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.42rem 0.75rem;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 10px;
+  font-size: 0.76rem;
+  color: var(--v2-sub);
+  cursor: pointer;
+  transition: all 0.15s;
+  font-family: inherit;
+}
+.seg-inferred:hover { color: var(--v2-text); background: rgba(255,255,255,0.05); }
+.seg-inferred .dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--v2-dim);
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.1);
+  transition: all 0.15s;
+}
+.seg-inferred.on {
+  color: #fbbf24;
+  background: rgba(251,191,36,0.08);
+  border-color: rgba(251,191,36,0.35);
+  box-shadow: 0 0 10px rgba(251,191,36,0.2);
+}
+.seg-inferred.on .dot {
+  background: #fbbf24;
+  box-shadow: 0 0 8px rgba(251,191,36,0.7);
+}
 
 /* ── breadcrumb filter chips ─────────────────────────────────────────── */
 .breadcrumbs {
@@ -537,6 +570,28 @@
   font-family: 'JetBrains Mono', monospace;
 }
 .dv2-link:hover { color: #93c5fd; }
+
+/* ── chain page: confidence pills ──────────────────────────────────── */
+.chain-confidence-pills { display: flex; gap: 0.4rem; align-items: center; }
+.conf-pill {
+  font-size: 0.7rem;
+  font-family: 'JetBrains Mono', monospace;
+  padding: 0.22rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+.conf-pill.verified {
+  background: rgba(74, 222, 128, 0.1);
+  border-color: rgba(74, 222, 128, 0.3);
+  color: #4ade80;
+}
+.conf-pill.inferred {
+  background: rgba(251, 191, 36, 0.1);
+  border-color: rgba(251, 191, 36, 0.3);
+  color: #fbbf24;
+  transition: opacity 0.2s;
+}
 
 /* ── data table ─────────────────────────────────────────────────────── */
 .data-table {

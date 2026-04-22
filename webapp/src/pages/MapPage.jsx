@@ -65,7 +65,7 @@ function ChipToggle({ active, onClick, color, children }) {
 
 /* ── page ────────────────────────────────────────────────────────────────── */
 
-export default function MapPage({ onBack }) {
+export default function MapPage() {
   const [graph, setGraph] = useState(null)
   const [err, setErr] = useState(null)
   useEffect(() => {
@@ -73,12 +73,14 @@ export default function MapPage({ onBack }) {
   }, [])
 
   // ── global filter (top bar) ────────────────────────────────────────────
-  const [assetStatus, setAssetStatus] = useState('active') // 'active' | 'nonprod' | 'all'
+  const [assetStatus, setAssetStatus] = useState('all') // 'active' | 'nonprod' | 'all'
   const [view, setView] = useState('map')                  // 'map' | 'table'
+  const [showInferred, setShowInferred] = useState(true)   // Chinese/BULLSHIT data visibility
 
   // ── node-type visibility ───────────────────────────────────────────────
+  // magnet_maker and oem live in the dedicated Chain view; hide by default here.
   const [typeVisible, setTypeVisible] = useState(
-    Object.fromEntries(Object.keys(NODE_TYPES).map(k => [k, true])),
+    Object.fromEntries(Object.keys(NODE_TYPES).map(k => [k, !['magnet_maker', 'oem'].includes(k)])),
   )
 
   // ── deep-data local filters ────────────────────────────────────────────
@@ -119,6 +121,7 @@ export default function MapPage({ onBack }) {
 
       if (!typeVisible[n.type]) continue
       if (!n.geocoded && view === 'map') continue
+      if (!showInferred && n.confidence === 'inferred') continue
 
       if (countryFilter.size && (!n.country || !countryFilter.has(n.country))) continue
       if (depTypeFilter.size && (!n.deposit_type || !depTypeFilter.has(n.deposit_type))) continue
@@ -148,7 +151,7 @@ export default function MapPage({ onBack }) {
       stats: statsByType,
     }
   }, [graph, assetStatus, typeVisible, countryFilter, depTypeFilter,
-      depStatusFilter, projStatusFilter, refStatusFilter, resourceMin, view])
+      depStatusFilter, projStatusFilter, refStatusFilter, resourceMin, view, showInferred])
 
   const highlighted = useMemo(() => {
     if (!graph || !selected) return null
@@ -220,7 +223,6 @@ export default function MapPage({ onBack }) {
       {/* ── top bar ─────────────────────────────────────────────────── */}
       <header className="topbar">
         <div className="topbar-left">
-          {onBack && <button className="icon-btn" onClick={onBack} title="Back">←</button>}
           <div>
             <div className="topbar-title">Rare-earth supply chain</div>
             <div className="topbar-sub">
@@ -242,6 +244,14 @@ export default function MapPage({ onBack }) {
           ))}
         </div>
 
+        <button
+          className={`seg seg-inferred ${showInferred ? 'on' : ''}`}
+          onClick={() => setShowInferred(v => !v)}
+          title="Toggles Chinese aggregate data (the 'BULLSHIT' xlsx) and inferred flows"
+        >
+          <span className="dot" /> {showInferred ? 'Inferred Chinese: ON' : 'Inferred Chinese: OFF'}
+        </button>
+
         <div className="segmented" role="tablist" aria-label="View">
           {[['map','Map'], ['table','Table']].map(([k, l]) => (
             <button
@@ -251,6 +261,7 @@ export default function MapPage({ onBack }) {
             >{l}</button>
           ))}
         </div>
+
       </header>
 
       {/* ── breadcrumb filter chips ─────────────────────────────────── */}
@@ -416,7 +427,9 @@ export default function MapPage({ onBack }) {
             <>
               <SupplyChainMap
                 nodes={visibleNodes}
-                edges={graph.edges}
+                edges={showInferred
+                  ? graph.edges
+                  : graph.edges.filter(e => e.confidence !== 'inferred')}
                 byId={graph.byId}
                 typeVisible={typeVisible}
                 highlighted={highlighted}
@@ -448,6 +461,27 @@ export default function MapPage({ onBack }) {
                     }}
                   />
                   <span>Flow (probable — multi-site)</span>
+                </div>
+                <div className="legend-row">
+                  <span
+                    className="legend-icon"
+                    style={{
+                      width: 20,
+                      background: 'repeating-linear-gradient(90deg, #fbbf24 0 5px, transparent 5px 8px)',
+                      height: 2,
+                      display: 'inline-block',
+                    }}
+                  />
+                  <span>Flow (inferred — Chinese data)</span>
+                </div>
+                <div className="legend-row">
+                  <span className="legend-icon" style={{
+                    width: 10, height: 10, borderRadius: '50%',
+                    background: '#fbbf24',
+                    boxShadow: '0 0 8px rgba(251,191,36,0.6)',
+                    display: 'inline-block',
+                  }} />
+                  <span>Inferred node (amber tint)</span>
                 </div>
               </div>
             </>

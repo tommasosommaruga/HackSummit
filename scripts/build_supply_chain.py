@@ -59,7 +59,6 @@ import sys
 import time
 import urllib.parse
 import urllib.request
-from difflib import SequenceMatcher
 from pathlib import Path
 import openpyxl
 
@@ -256,21 +255,20 @@ def num(v):
         return None
 
 
-def canonical_name(s):
+def normalize_name(s):
+    """Lowercase, strip non-alphanumeric, collapse whitespace. That's it.
+    No token substitutions, no word drops — those are fuzzy heuristics that
+    produce false matches."""
     if not s:
         return ''
-    # Lowercase, strip punctuation, collapse whitespace, drop common qualifiers.
     s = s.lower()
-    s = re.sub(r'\b(plant|mine|project|deposit|mining|field)\b', ' ', s)
     s = re.sub(r'[^a-z0-9]+', ' ', s)
     return ' '.join(s.split()).strip()
 
 
-def similar(a, b):
-    a, b = canonical_name(a), canonical_name(b)
-    if not a or not b:
-        return 0.0
-    return SequenceMatcher(None, a, b).ratio()
+def names_equal(a, b):
+    """Exact equality after normalization. No similarity scores."""
+    return normalize_name(a) == normalize_name(b) if a and b else False
 
 
 # ── Sheet loaders ────────────────────────────────────────────────────────────
@@ -434,12 +432,68 @@ def deposit_country(country):
     return country.rstrip(' (?)').strip()
 
 
+# Canonical country names we'll look for inside any location string.
+# Multi-word entries win over single-word entries (checked first).
+_COUNTRY_GAZETTEER = [
+    ('United States', ['united states', 'united states of america', 'usa', 'u.s.a', 'u.s.']),
+    # 'england'/'scotland'/'wales' omitted — 'Wales' collides with 'New South
+    # Wales' (Australia). 'uk' and 'britain' are safe with word-boundary match
+    # (won't fire inside 'Ukraine' / 'Britannica').
+    ('United Kingdom', ['united kingdom', 'uk', 'great britain', 'britain']),
+    ('South Korea',    ['south korea', 'republic of korea', 'korea, rep']),
+    ('North Korea',    ['north korea']),
+    ('South Africa',   ['south africa']),
+    ('Czech Republic', ['czech republic', 'czechia']),
+    ('Russian Federation', ['russian federation', 'russia']),
+    ('New Zealand',    ['new zealand']),
+    ('Saudi Arabia',   ['saudi arabia']),
+    ('United Arab Emirates', ['united arab emirates', 'uae']),
+    ('Sri Lanka',      ['sri lanka']),
+    ('Central African Republic', ['central african republic']),
+    ('Sierra Leone',   ['sierra leone']),
+    ('Democratic Republic of the Congo',
+         ['democratic republic of the congo', 'democratic republic of congo', 'drc', 'zaire']),
+    ('Saint Helena, Ascension, and Tristan da Cunha',
+         ['saint helena', 'st helena']),
+]
+# Single-word countries (derived from COUNTRY_CENTROIDS minus the multi-word
+# ones above) — matched with word boundaries so "Korea" in "Korea, South" hits
+# but "Iran" inside a random word does not.
+_SINGLE_COUNTRIES = sorted(
+    {c for c in COUNTRY_CENTROIDS if ' ' not in c and len(c) >= 4},
+    key=len, reverse=True,
+)
+
+
 def country_from_location(loc):
-    """Best-effort country extraction from free-text location."""
+    """Extract a canonical country name from free-text location.
+
+    All alias checks use word-boundary regex so that 'uk' does not match
+    inside 'Ukraine', 'iran' does not match 'Iranian', etc.
+    """
     if not loc:
         return None
-    tail = loc.split(',')[-1].strip()
+    text = str(loc).lower()
+    # Multi-word / synonym matches first (longer phrases tried first).
+    for canonical, aliases in _COUNTRY_GAZETTEER:
+        for a in aliases:
+            if re.search(rf'\b{re.escape(a)}\b', text):
+                return canonical
+    # Single-word country match.
+    for c in _SINGLE_COUNTRIES:
+        if re.search(rf'\b{re.escape(c.lower())}\b', text):
+            return c
+    # Legacy: last comma-separated token, may not be a real country.
+    tail = str(loc).split(',')[-1].strip()
     return tail or None
+
+
+# Manual coordinate overrides for the long tail of mis-geocoded plants whose
+# location strings are too idiosyncratic for the gazetteer (e.g. "Kuantan" with
+# no country token at all). Keyed by the produced node id. Use sparingly.
+LOCATION_OVERRIDES = {
+    'fac_2.0': (3.9745, 103.2869, 'Kuantan, Pahang, Malaysia'),    # Lynas Kuantan Plant
+}
 
 
 def build_deposit_nodes(occurrences, cache):
@@ -482,38 +536,31 @@ def build_deposit_nodes(occurrences, cache):
 
 
 def build_project_nodes(projects, deposit_nodes, cache):
-    """Projects get coords from (a) fuzzy join to a deposit, or (b) Nominatim."""
+    """Projects get coords from (a) EXACT name+country match to a deposit, or
+    (b) Nominatim on the free-text location. No fuzzy matching is used; a
+    join is emitted only when the project name equals a deposit name (after
+    case/punctuation normalization) and both sit in the same country."""
+    # Exact lookup index: (normalized_name, country) → deposit
+    deposit_index = {}
+    for d in deposit_nodes:
+        key = (normalize_name(d['name']), d.get('country'))
+        deposit_index.setdefault(key, d)   # first wins if duplicates exist
+
     nodes = []
     edges = []
-    # Index deposits for fast name+company matching.
-    deposits_by_country = {}
-    for d in deposit_nodes:
-        deposits_by_country.setdefault(d['country'], []).append(d)
-
     for p in projects:
         country = country_from_location(p['location']) or p['continent']
-        # Normalize common aliases.
         if country and country.lower() in ('usa', 'u.s.a.', 'united states of america'):
             country = 'United States'
         if country and country.lower() in ('uk', 'great britain'):
             country = 'United Kingdom'
 
-        # (1) Fuzzy-join to a deposit.
-        candidates = deposits_by_country.get(country, []) or deposit_nodes
-        best, best_score = None, 0.0
-        for d in candidates:
-            s_name = similar(p['name'], d['name'])
-            s_co   = similar(p['company'] or '', d['company'] or '') if d.get('company') else 0
-            # Heavily weight name; company is often missing on deposits.
-            score = 0.9 * s_name + 0.1 * s_co
-            if score > best_score:
-                best_score, best = score, d
-
+        # (1) Exact join to a deposit.
+        best = deposit_index.get((normalize_name(p['name']), country))
         joined_id = None
         lat = lng = precision = None
-        if best and best_score >= 0.85:
+        if best is not None:
             joined_id = best['id']
-            # Offset projects slightly from their parent deposit so edges draw.
             lat, lng = _jitter((best['lat'], best['lng']), 'joined', p['pno'])
             precision = 'joined'
 
@@ -577,8 +624,8 @@ def build_project_nodes(projects, deposit_nodes, cache):
                 'material': 'ore',
                 'volume_tons_per_year': None,
                 'year':     2022,
-                'source':   'fuzzy_join',
-                'evidence': f'{p["company"]} / {p["name"]} ≈ {best["name"]} (score {best_score:.2f})',
+                'source':   'name_join',
+                'evidence': f'exact name+country match: {p["name"]}',
             })
     return nodes, edges
 
@@ -593,31 +640,28 @@ def build_factory_nodes(factories, existing_nodes, cache):
       2. Nominatim on the free-text location string.
       3. Nominatim on "<plant name>, <country>".
     """
-    # Build a fast name→node lookup for upstream-text matching.
-    name_idx = []
+    # Exact name → node index (normalized form).
+    name_idx = {}
     for n in existing_nodes:
-        if n.get('name'):
-            name_idx.append(n)
+        if n.get('name') and n.get('lat') is not None:
+            name_idx.setdefault(normalize_name(n['name']), n)
 
     nodes = []
     for f in factories:
         location = f['location']
+        factory_country = country_from_location(location)
         seed = f['no']
         lat = lng = precision = None
 
-        # (1) Try to co-locate with upstream if its text matches a known node.
+        # (1) Co-locate with upstream ONLY when both endpoints are in the same
+        # country. Upstream text like 'Dubbo' (Australia) feeding the Korean
+        # Metals Plant (South Korea) must NOT drag the plant to Australia.
         up = f.get('upstream')
         if up:
-            best, best_score = None, 0.0
-            # Only consider the first comma-separated piece (most specific).
             primary = re.split(r',| and ', up)[0].strip()
-            if primary:
-                for n in name_idx:
-                    s = similar(primary, n['name'])
-                    if s > best_score:
-                        best_score, best = s, n
-            if best and best_score >= 0.85 and best.get('lat') is not None:
-                lat, lng = _jitter((best['lat'], best['lng']), 'joined', seed)
+            hit = name_idx.get(normalize_name(primary)) if primary else None
+            if hit and hit.get('country') and factory_country and hit['country'] == factory_country:
+                lat, lng = _jitter((hit['lat'], hit['lng']), 'joined', seed)
                 precision = 'joined'
 
         # (2) Fall back to Nominatim on location / name.
@@ -674,8 +718,8 @@ def build_factory_nodes(factories, existing_nodes, cache):
 # table below overrides the default 'refinery' type so Bayan Obo (a mine) and
 # the NdFeB alloy plant (downstream magnet maker) land in the right bucket.
 CHINA_ROW_OVERRIDES = {
-    '8':  {'type': 'project', 'note': 'Mine + concentrate producer (RE as byproduct of iron ore). Reclassified from refinery.'},
-    '10': {'type': 'oem',     'note': 'Downstream NdFeB alloy/magnet maker (status 5). Reclassified from refinery.'},
+    '8':  {'type': 'project',       'note': 'Mine + concentrate producer (RE as byproduct of iron ore). Reclassified from refinery.'},
+    '10': {'type': 'magnet_maker',  'note': 'NdFeB alloy / magnet producer. Reclassified from refinery.'},
 }
 
 # HQ-only / trading-only rows — no physical refinery to place. Omitted entirely.
@@ -725,6 +769,7 @@ def _base_china_node(r, node_id, name_override=None):
         'country':      'China',
         'geocoded':     False,
         'precision':    'unknown',
+        'confidence':   'inferred',
         'company':      r['company'],
         'chinese_name': r['chinese_name'],
         'ticker':       r['ticker'],
@@ -762,7 +807,10 @@ def build_china_nodes(rows, existing_nodes, cache):
     (HQ and trading arms omitted). All siblings share a `group_id` so edges
     referencing the aggregate can fan out to every site with `probable: True`.
     """
-    name_idx = [n for n in existing_nodes if n.get('name') and n.get('lat') is not None]
+    name_idx = {}
+    for n in existing_nodes:
+        if n.get('name') and n.get('lat') is not None:
+            name_idx.setdefault(normalize_name(n['name']), n)
     nodes = []
     for r in rows:
         if r['no'] in CHINA_EXCLUDE:
@@ -796,14 +844,12 @@ def build_china_nodes(rows, existing_nodes, cache):
         up = r.get('upstream')
         if up and node['type'] != 'project':
             primary = re.split(r',| and ', up)[0].strip()
-            best, best_score = None, 0.0
-            if primary:
-                for n in name_idx:
-                    s = similar(primary, n['name'])
-                    if s > best_score:
-                        best_score, best = s, n
-            if best and best_score >= 0.85:
-                lat, lng = _jitter((best['lat'], best['lng']), 'joined', seed)
+            hit = name_idx.get(normalize_name(primary)) if primary else None
+            # China rows are in China — only inherit coords from a Chinese
+            # upstream node. Cross-border upstreams (e.g. 'Mountain Pass') must
+            # not relocate the plant out of China.
+            if hit and hit.get('country') == 'China':
+                lat, lng = _jitter((hit['lat'], hit['lng']), 'joined', seed)
                 precision = 'joined'
 
         if lat is None:
@@ -825,77 +871,47 @@ def build_china_nodes(rows, existing_nodes, cache):
 
 
 # ── Edges from Factory sheet Upstream/Downstream text ────────────────────────
-# Common single-word tokens that show up in downstream text (country names,
-# cardinal directions, continents, generic industries) and should NEVER seed
-# a fuzzy edge to a deposit that happens to share the name.
-FUZZY_MATCH_STOPWORDS = {
-    'north', 'south', 'east', 'west', 'central', 'domestic', 'international',
-    'global', 'regional', 'industry', 'industries', 'magnet', 'magnets',
-    'battery', 'batteries', 'japan', 'china', 'korea', 'canada', 'america',
-    'americas', 'europe', 'asia', 'africa', 'australia', 'russia', 'russian',
-    'federation', 'india', 'vietnam', 'myanmar', 'thailand', 'malaysia',
-    'indonesia', 'philippines', 'singapore', 'taiwan', 'mongolia', 'kazakhstan',
-    'brazil', 'chile', 'mexico', 'germany', 'france', 'italy', 'spain',
-    'sweden', 'norway', 'finland', 'poland', 'united', 'kingdom', 'states',
-    'ev', 'evs', 'oem', 'oems', 'electronics', 'automotive', 'turbines',
-    'wind', 'solar', 'catalyst', 'catalysts', 'phosphor', 'phosphors',
-    'alloy', 'alloys', 'customer', 'customers', 'client', 'clients',
-    'manufacturer', 'manufacturers', 'producer', 'producers', 'supplier',
-    'suppliers', 'trading', 'arm', 'hub',
-}
+def build_name_index(all_nodes):
+    """Build a {normalized_name: node} index for EXACT-match lookups.
 
-
-def resolve_node_ref(text, all_nodes):
-    """Fuzzy-match a free-text upstream/downstream phrase → best-match node.
-
-    Guardrails against the most common false positives:
-      * Candidate names that are a single stop-word (country, direction, …)
-        are never matched — '"South" deposit' vs '"South Korea"' was the
-        pathological case.
-      * Substring boost requires a multi-word candidate OR length ≥ 7 so
-        short generic names don't light up on any longer phrase that contains
-        them as a word.
-
-    Returns the matching node dict so callers can inspect `group_id`.
+    For multi-site groups (`group_id` set on children), we strip the
+    "— <site-label>" tail before indexing so upstream/downstream text that
+    names the aggregate ("Southern HREE Smelting & Separation Network") maps
+    to a representative child — callers expand to all siblings via
+    `expand_to_group`. The first child registered is the representative.
     """
-    if not text or str(text).lower() in ('none', 'nan', '-', ''):
-        return None
-    canon_text = canonical_name(text)
-    best, best_score = None, 0.0
+    idx = {}
     for n in all_nodes:
-        cname = canonical_name(n['name'])
-        if not cname or len(cname) < 4:
+        if not n.get('name'):
             continue
-        tokens = cname.split()
-        # Single-word stop-word names never match — prevents 'South' vs 'South Korea'.
-        if len(tokens) == 1 and tokens[0] in FUZZY_MATCH_STOPWORDS:
-            continue
+        names = [n['name']]
+        if n.get('group_id'):
+            group_name = re.sub(r'\s*[—-]\s*.*$', '', n['name'])
+            if group_name != n['name']:
+                names.append(group_name)
+        for nm in names:
+            key = normalize_name(nm)
+            idx.setdefault(key, n)
+    return idx
 
-        # When the node is one site of a multi-site group, rank it against the
-        # shared group name (strip "— <site>" tail).
-        match_name = re.sub(r'\s*[—-]\s*.*$', '', n['name']) if n.get('group_id') else n['name']
-        score = similar(text, match_name)
 
-        canon_match = canonical_name(match_name)
-        mtokens = canon_match.split()
-        # Substring boost only kicks in for multi-word candidates or ≥ 7 chars.
-        if (len(mtokens) >= 2 or len(canon_match) >= 7) \
-                and f' {canon_match} ' in f' {canon_text} ':
-            score = max(score, 0.9)
+def resolve_node_ref(text, name_idx):
+    """Strict exact-name matcher. No fuzzy scoring, no substring boosts.
 
-        # Short single-word candidate names are ambiguous (country-like words,
-        # 5–6 letter common tokens). Require a near-exact match for them.
-        if len(mtokens) == 1 and len(canon_match) < 7 and score < 0.95:
-            continue
-
-        if score > best_score:
-            best_score, best = score, n
-    return best if best and best_score >= 0.78 else None
+    Returns the node whose normalized name equals the normalized input phrase,
+    or None. Callers get deterministic, audit-safe edges: if the phrase does
+    not literally equal a node name, no edge is emitted.
+    """
+    if not text:
+        return None
+    key = normalize_name(text)
+    if not key:
+        return None
+    return name_idx.get(key)
 
 
 def expand_to_group(node, all_nodes):
-    """If `node` belongs to a multi-site group, return every sibling site.
-    Otherwise return [node]."""
+    """If `node` belongs to a multi-site group, return every sibling site."""
     gid = node.get('group_id')
     if not gid:
         return [node]
@@ -935,7 +951,7 @@ def _fan_out(f_nodes, direction, piece, factory_node, all_nodes, material_hint):
     return out
 
 
-def extract_factory_edges(factory_nodes, all_nodes):
+def extract_factory_edges(factory_nodes, all_nodes, name_idx):
     def upstream_material(from_node):
         return 'ore' if from_node['id'].startswith('dep_') else 'concentrate'
     def downstream_material(from_node):
@@ -945,8 +961,6 @@ def extract_factory_edges(factory_nodes, all_nodes):
     eid = 0
     seen = set()
     for f in factory_nodes:
-        # Skip sibling sites — we attach edges to the "first" site of each
-        # group (lowest id) to avoid duplicate emissions; fan-out expands them.
         gid = f.get('group_id')
         if gid and f['id'] != f'{gid}_1':
             continue
@@ -954,7 +968,7 @@ def extract_factory_edges(factory_nodes, all_nodes):
         dn = f.get('_downstream_text')
 
         for piece in split_refs(up):
-            ref = resolve_node_ref(piece, all_nodes)
+            ref = resolve_node_ref(piece, name_idx)
             if not ref:
                 continue
             for (a, b, probable, material) in _fan_out(ref, 'upstream', piece, f, all_nodes, upstream_material):
@@ -971,7 +985,7 @@ def extract_factory_edges(factory_nodes, all_nodes):
                 })
 
         for piece in split_refs(dn):
-            ref = resolve_node_ref(piece, all_nodes)
+            ref = resolve_node_ref(piece, name_idx)
             if not ref:
                 continue
             for (a, b, probable, material) in _fan_out(ref, 'downstream', piece, f, all_nodes, downstream_material):
@@ -987,6 +1001,317 @@ def extract_factory_edges(factory_nodes, all_nodes):
                     'probable': probable,
                 })
     return edges
+
+
+# ── Refinery → Magnet → OEM chain sheets ────────────────────────────────────
+# Two small xlsx files in data/raw/ describe aggregate (non-facility-level)
+# supply chains: for each row we get a refinery company, a magnet-maker
+# company, and one-or-more OEM end-product companies. No lat/lng in the
+# source, so we geocode company names via a curated HQ/plant table below.
+
+CHAIN_XLSX = [
+    ROOT / 'data' / 'raw' / 'Chinese data from refinery to Companies (Tesla,etc..) BULLSHIT.xlsx',
+    ROOT / 'data' / 'raw' / 'Non Chinese data from refinery to Companies (Apple, etc...).xlsx',
+]
+
+# Real HQ / primary-plant coordinates for the companies that appear in the
+# two chain xlsx files. Single source of truth — swap one entry to relocate
+# every node tied to that company. Keep small and curated; don't auto-geocode
+# company names (too many false positives: "Lynas" vs. random "Lynas Lake").
+COMPANY_HQ = {
+    # Chinese magnet makers
+    'JL MAG Rare-Earth Co., Ltd.':         (25.8627, 114.9351, 'Ganzhou, Jiangxi, China'),
+    'Zhongke Sanhuan High-Tech':           (39.9042, 116.4074, 'Beijing, China'),
+    'Ningbo Yunsheng Co., Ltd.':           (29.8683, 121.5440, 'Ningbo, Zhejiang, China'),
+    # North American / EU magnet makers
+    'MP Materials':                        (35.4778, -115.5311, 'Mountain Pass, California, USA'),  # primary plant
+    'E-VAC Magnetics (VAC Group)':         (33.9207,  -80.3414, 'Sumter, South Carolina, USA'),
+    'E-VAC Magnetics':                     (33.9207,  -80.3414, 'Sumter, South Carolina, USA'),
+    'Noveon Magnetics':                    (29.8833,  -97.9414, 'San Marcos, Texas, USA'),
+    'Neo Performance Materials':           (59.3987,   27.7636, 'Sillamäe, Estonia'),
+    'HyProMag':                            (52.4862,   -1.8904, 'Birmingham, UK'),
+    'USA Rare Earth':                      (36.1156,  -97.0586, 'Stillwater, Oklahoma, USA'),
+    # Upstream extras mentioned in the non-Chinese file
+    'Energy Fuels':                        (37.5247, -109.4706, 'White Mesa Mill, Utah, USA'),
+    'Less Common Metals (LCM)':            (53.2793,   -2.8937, 'Ellesmere Port, UK'),
+    'Less Common Metals':                  (53.2793,   -2.8937, 'Ellesmere Port, UK'),
+    'VAC Group / E-VAC supply chain':      (50.1355,    8.9147, 'Hanau, Germany'),
+    'Caremag/Carester':                    (45.7578,    4.8320, 'Lyon, France'),
+    'Caremag':                             (45.7578,    4.8320, 'Lyon, France'),
+    'Carester':                            (45.7578,    4.8320, 'Lyon, France'),
+    'Lynas Rare Earths':                   (-31.9523,  115.8613, 'Perth, Western Australia'),
+    'Australian Strategic Materials':      (-33.8688,  151.2093, 'Sydney, NSW, Australia'),
+    'Neo Performance Materials (Silmet)':  (59.3987,   27.7636, 'Sillamäe, Estonia'),
+    # Chinese upstream mega-groups (already present as cn_* — link by exact name)
+    'China Northern Rare Earth Group':     (40.6186,  109.9405, 'Baotou, Inner Mongolia, China'),
+    'China Northern Rare Earth Group (Baotou)': (40.6186, 109.9405, 'Baotou, Inner Mongolia, China'),
+    'China Southern Rare Earth Group':     (25.8627,  114.9351, 'Ganzhou, Jiangxi, China'),
+    # OEMs
+    'Tesla':                               (30.2224,  -97.6197, 'Austin, Texas, USA'),
+    'BYD':                                 (22.5431,  114.0579, 'Shenzhen, Guangdong, China'),
+    'Toyota':                              (35.0825,  137.1562, 'Toyota City, Aichi, Japan'),
+    'General Motors':                      (42.3314,  -83.0458, 'Detroit, Michigan, USA'),
+    'Apple':                               (37.3229, -122.0321, 'Cupertino, California, USA'),
+    'BMW':                                 (48.1766,   11.5561, 'Munich, Germany'),
+    'Jaguar Land Rover':                   (52.4068,   -1.5197, 'Coventry, UK'),
+    'Nidec':                               (35.0116,  135.7681, 'Kyoto, Japan'),
+    'Nidec Motor Corp':                    (38.6270,  -90.1994, 'St. Louis, Missouri, USA'),
+}
+
+
+def _split_companies(s, extra_seps=False):
+    """Split 'Tesla; BYD; Toyota' → ['Tesla','BYD','Toyota']. Strips trailing
+    parenthetical asides like 'Tesla (cited customers)'. With extra_seps=True,
+    also splits on '+' and ' and ' (useful for the mine column which uses
+    'Bayan Obo mine + Baotou separation/alloy facilities')."""
+    if not s:
+        return []
+    pattern = r'[;,]'
+    if extra_seps:
+        pattern = r'[;,+]| and '
+    out = []
+    for part in re.split(pattern, s):
+        p = part.strip()
+        p = re.sub(r'\s*\([^)]*\)\s*$', '', p)  # drop '(cited customers)' tails
+        if p and p.lower() not in ('not all disclosed', 'target', 'others'):
+            out.append(p)
+    return out
+
+
+def _resolve_company_coords(name):
+    """Return (lat, lng, location_text, precision) for a company name, or
+    None if we don't have curated coords. No fuzzy matching."""
+    hq = COMPANY_HQ.get(name)
+    if hq:
+        return (hq[0], hq[1], hq[2], 'company_hq')
+    # Permit a single canonical alias resolution (e.g. a trailing ", Ltd."
+    # stripped). Compare exact after normalization.
+    norm = normalize_name(name)
+    for canonical, hq in COMPANY_HQ.items():
+        if normalize_name(canonical) == norm:
+            return (hq[0], hq[1], hq[2], 'company_hq')
+    return None
+
+
+def load_chain_xlsx(path):
+    """Load a chain-supply xlsx (refiner/mine/magnet/eem columns). Tolerates
+    the two slight schema variants we've seen:
+      v1: upstream_company · upstream_asset · upstream_product · magnet_company · oem_company · oem_segment
+      v2: refiners         · mines          · refiner product  · magnet_manufacturer · eem_company · eem_segment
+    """
+    if not path.exists():
+        return []
+    wb = openpyxl.load_workbook(path, read_only=True, data_only=True)
+    ws = wb[wb.sheetnames[0]]
+    rows = list(ws.iter_rows(values_only=True))
+    if not rows:
+        return []
+    headers = [clean(h) or '' for h in rows[0]]
+    # Map both v1 and v2 column names to our canonical keys.
+    aliases = {
+        'region':           ['region'],
+        'mine_name':        ['mines', 'upstream_asset'],
+        'refiner_name':     ['refiners', 'upstream_company'],
+        'upstream_country': ['upstream_country'],
+        'refiner_product':  ['refiner product', 'refiner_product', 'upstream_product'],
+        'magnet_company':   ['magnet_manufacturer', 'magnet_company'],
+        'magnet_country':   ['magnet_country'],
+        'magnet_product':   ['magnet_product'],
+        'oem_company':      ['eem_company', 'oem_company'],
+        'oem_segment':      ['eem_segment', 'oem_segment'],
+        'sources':          ['sources'],
+    }
+    idx = {}
+    for canonical, names in aliases.items():
+        for n in names:
+            if n in headers:
+                idx[canonical] = headers.index(n)
+                break
+    out = []
+    for r in rows[1:]:
+        if r is None or r[0] is None:
+            continue
+        def g(key): return clean(r[idx[key]]) if key in idx else None
+        out.append({
+            'region':            g('region'),
+            'mine_name':         g('mine_name'),
+            'refiner_name':      g('refiner_name'),
+            'upstream_country':  g('upstream_country'),
+            'refiner_product':   g('refiner_product'),
+            'magnet_company':    g('magnet_company'),
+            'magnet_country':    g('magnet_country'),
+            'magnet_product':    g('magnet_product'),
+            'oem_company':       g('oem_company'),
+            'oem_segment':       g('oem_segment'),
+            'sources':           g('sources'),
+            'source_file':       path.name,
+        })
+    return out
+
+
+def _chain_confidence(source_file):
+    """Non-Chinese chain sheet = verified; Chinese chain sheet = inferred.
+    Watch out for the 'Non Chinese…' filename also containing 'Chinese data'."""
+    sf = source_file or ''
+    if sf.startswith('Non '):
+        return 'verified'
+    if sf.startswith('Chinese'):
+        return 'inferred'
+    return 'verified'
+
+
+def build_chain_nodes_and_edges(chain_rows, existing_nodes):
+    """Turn each chain row into {upstream? → magnet_maker → oems} + edges.
+
+    Upstream resolution order:
+      1. Exact name match against an existing refinery/project (e.g. 'Lynas
+         Rare Earths' → the Lynas Kuantan refinery).
+      2. COMPANY_HQ lookup, creating a new refinery-type node.
+    Magnet maker and OEMs go through COMPANY_HQ only (missing entries are
+    skipped so we don't fabricate coords).
+
+    Every edge is flagged `probable: True, source: 'chain_xlsx'` — the source
+    files describe aggregate / reputational flows, not facility manifests.
+    """
+    name_idx = build_name_index(existing_nodes)
+    new_nodes = []
+    edges = []
+    # Dedupe created nodes: same company name across multiple rows → single node.
+    by_company_type = {}
+
+    def make_or_reuse(company, node_type, row_source_file, extra=None):
+        key = (normalize_name(company), node_type)
+        if key in by_company_type:
+            return by_company_type[key]
+        # (1) reuse an existing node (refinery/project only makes sense upstream).
+        if node_type == 'refinery':
+            hit = name_idx.get(normalize_name(company))
+            if hit and hit['type'] in ('refinery', 'project'):
+                by_company_type[key] = hit
+                return hit
+        hq = _resolve_company_coords(company)
+        if not hq:
+            return None
+        lat, lng, location_text, precision = hq
+        prefix = {'refinery': 'chain_ref', 'magnet_maker': 'mag', 'oem': 'oem'}[node_type]
+        nid = f'{prefix}_{len([k for k in by_company_type if k[1] == node_type]) + 1}'
+        node = {
+            'id': nid,
+            'type': node_type,
+            'name': company,
+            'lat': round(lat, 5),
+            'lng': round(lng, 5),
+            'country': country_from_location(location_text),
+            'geocoded': True,
+            'precision': precision,
+            'confidence': _chain_confidence(row_source_file),
+            'company': company,
+            'location_text': location_text,
+            'source_file': row_source_file or 'chain_xlsx',
+            'ref_urls': [],
+        }
+        if extra:
+            node.update(extra)
+        new_nodes.append(node)
+        by_company_type[key] = node
+        return node
+
+    eid = 0
+    for r in chain_rows:
+        confidence = _chain_confidence(r.get('source_file'))
+        sources = r.get('sources')
+
+        # Row expresses a 4-stage chain: mines → refiners → magnet makers → OEMs.
+        # Mine strings use '+' between sites (e.g. 'Bayan Obo mine + Baotou…').
+        mine_list     = _split_companies(r.get('mine_name'), extra_seps=True)
+        refiner_list  = _split_companies(r.get('refiner_name'))
+        mag_company   = r.get('magnet_company')
+        oem_list      = _split_companies(r.get('oem_company'))
+
+        mag_node = make_or_reuse(mag_company, 'magnet_maker', r.get('source_file'),
+                                 extra={'products': r.get('magnet_product')}) if mag_company else None
+
+        # Integrated operators (e.g. MP Materials = refiner + magnet) get a
+        # single magnet-maker node; don't duplicate as refiner.
+        refiner_nodes = []
+        for rc in refiner_list:
+            if mag_company and normalize_name(rc) == normalize_name(mag_company):
+                continue
+            n = make_or_reuse(rc, 'refinery', r.get('source_file'),
+                              extra={'products': r.get('refiner_product')})
+            if n:
+                refiner_nodes.append(n)
+
+        def _strip_suffix(s):
+            # Drop generic trailing words so 'Bayan Obo mine' matches 'Bayan Obo'.
+            return re.sub(r'\s+(mine|mines|deposit|project|plant|facility|facilities)\s*$', '',
+                          s, flags=re.I).strip()
+
+        mine_nodes = []
+        for mc in mine_list:
+            # Try to reuse an existing mine/deposit/project by exact name first.
+            for candidate in (mc, _strip_suffix(mc)):
+                hit = name_idx.get(normalize_name(candidate))
+                if hit and hit['type'] in ('deposit', 'project'):
+                    mine_nodes.append(hit)
+                    break
+            else:
+                hit = None
+            if hit:
+                continue
+            # Otherwise synthesize a project node from COMPANY_HQ (if known).
+            n = make_or_reuse(mc, 'refinery', r.get('source_file'))
+            # Downgrade synthesized refiner node to 'project' — mines column is
+            # about the extraction site, not a processing plant.
+            if n and n.get('source_file', '').endswith('chain_xlsx') is False:
+                pass  # reused an existing deposit/project; no mutation
+            elif n and n['id'].startswith('chain_ref_'):
+                n['type'] = 'project'
+            if n:
+                mine_nodes.append(n)
+
+        oem_nodes = []
+        for oc in oem_list:
+            n = make_or_reuse(oc, 'oem', r.get('source_file'),
+                              extra={'products': r.get('oem_segment')})
+            if n:
+                oem_nodes.append(n)
+
+        def emit(from_node, to_node, material, direction_tag):
+            nonlocal eid
+            if not from_node or not to_node or from_node['id'] == to_node['id']:
+                return
+            eid += 1
+            edges.append({
+                'id': f'edge_chain_{direction_tag}_{eid}',
+                'from_id': from_node['id'], 'to_id': to_node['id'],
+                'material': material,
+                'volume_tons_per_year': None, 'year': 2024,
+                'source': 'chain_xlsx',
+                'evidence': f'{r["source_file"]}: {from_node["name"]} → {to_node["name"]}',
+                'probable': True,
+                'confidence': confidence,
+                'sources_text': sources,
+            })
+
+        # Mine → refinery (fallback: mine → magnet maker if refiner missing).
+        for mn in mine_nodes:
+            if refiner_nodes:
+                for rn in refiner_nodes:
+                    emit(mn, rn, 'ore', 'mr')
+            elif mag_node:
+                emit(mn, mag_node, 'ore', 'mg')
+
+        # Refinery → magnet maker.
+        if mag_node:
+            for rn in refiner_nodes:
+                emit(rn, mag_node, 'separated_reo', 'rm')
+
+        # Magnet maker → each OEM.
+        if mag_node:
+            for oem in oem_nodes:
+                emit(mag_node, oem, 'magnet', 'dn')
+    return new_nodes, edges
 
 
 def run():
@@ -1015,14 +1340,56 @@ def run():
                                     deposit_nodes + project_nodes + factory_nodes,
                                     cache)
 
+    # Apply explicit coordinate overrides (tail of bad source strings). Also
+    # re-derive the country from the override location so the UI label is
+    # correct (e.g. Kuantan Plant should read "Malaysia", not "Kuantan").
+    overrode = 0
+    for node in factory_nodes + china_nodes + project_nodes + deposit_nodes:
+        o = LOCATION_OVERRIDES.get(node['id'])
+        if not o:
+            continue
+        node['lat'], node['lng'] = o[0], o[1]
+        node['precision'] = 'manual_override'
+        node['geocoded']  = True
+        node['location_text'] = node.get('location_text') or o[2]
+        parsed_country = country_from_location(o[2])
+        if parsed_country:
+            node['country'] = parsed_country
+        overrode += 1
+
+    # Default confidence: anything not already tagged is treated as verified.
+    # USGS deposits, REE-projects sheet rows, Factory sheet plants, and name-join
+    # project↔deposit edges are all sourced from auditable public filings.
+    for n in deposit_nodes + project_nodes + factory_nodes:
+        n.setdefault('confidence', 'verified')
+    for e in join_edges:
+        e.setdefault('confidence', 'verified')
+
     all_nodes = deposit_nodes + project_nodes + factory_nodes + china_nodes
     rendered_nodes = [n for n in all_nodes if n.get('geocoded')]
 
-    factory_edges = extract_factory_edges(factory_nodes, all_nodes)
+    name_idx = build_name_index(all_nodes)
+    factory_edges = extract_factory_edges(factory_nodes, all_nodes, name_idx)
+    for e in factory_edges:
+        e['confidence'] = 'verified'  # company upstream/downstream filings
     # Same upstream/downstream extractor works for the China rows since they
     # carry _upstream_text / _downstream_text in the same shape.
-    china_edges   = extract_factory_edges(china_nodes, all_nodes)
-    edges = join_edges + factory_edges + china_edges
+    china_edges = extract_factory_edges(china_nodes, all_nodes, name_idx)
+    for e in china_edges:
+        e['confidence'] = 'inferred'  # China refineries xlsx is user-inferred
+
+    # Refinery → magnet → OEM aggregate chain sheets (supplemental data).
+    print('Loading chain xlsx files …')
+    chain_rows = []
+    for p in CHAIN_XLSX:
+        rows = load_chain_xlsx(p)
+        print(f'  {p.name}: {len(rows)} rows')
+        chain_rows.extend(rows)
+    chain_nodes, chain_edges = build_chain_nodes_and_edges(chain_rows, all_nodes)
+    all_nodes += chain_nodes
+    rendered_nodes = [n for n in all_nodes if n.get('geocoded')]
+
+    edges = join_edges + factory_edges + china_edges + chain_edges
 
     # Strip internal underscore-prefixed fields before serializing.
     for n in all_nodes:
@@ -1033,18 +1400,21 @@ def run():
     meta = {
         'generated_at':   time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
         'counts': {
-            'deposits':     sum(1 for n in all_nodes if n['type'] == 'deposit'),
-            'projects':     sum(1 for n in all_nodes if n['type'] == 'project'),
-            'refineries':   sum(1 for n in all_nodes if n['type'] == 'refinery'),
-            'oem':          sum(1 for n in all_nodes if n['type'] == 'oem'),
-            'renderable':   len(rendered_nodes),
-            'edges':        len(edges),
-            'join_edges':   len(join_edges),
-            'factory_edges':len(factory_edges),
-            'china_edges':  len(china_edges),
-            'china_rows':   len(china_nodes),
+            'deposits':       sum(1 for n in all_nodes if n['type'] == 'deposit'),
+            'projects':       sum(1 for n in all_nodes if n['type'] == 'project'),
+            'refineries':     sum(1 for n in all_nodes if n['type'] == 'refinery'),
+            'magnet_makers':  sum(1 for n in all_nodes if n['type'] == 'magnet_maker'),
+            'oem':            sum(1 for n in all_nodes if n['type'] == 'oem'),
+            'renderable':     len(rendered_nodes),
+            'edges':          len(edges),
+            'join_edges':     len(join_edges),
+            'factory_edges':  len(factory_edges),
+            'china_edges':    len(china_edges),
+            'chain_edges':    len(chain_edges),
+            'china_rows':     len(china_nodes),
+            'chain_nodes':    len(chain_nodes),
         },
-        'schema_version': 2,
+        'schema_version': 3,
     }
 
     (PROC / 'nodes.json').write_text(json.dumps(all_nodes, separators=(',', ':'), ensure_ascii=False))
@@ -1058,6 +1428,7 @@ def run():
     for k, v in meta['counts'].items():
         print(f'  {k:14s}: {v:>5}')
     print(f'  geocode cache : {len(cache)} entries (+{len(cache) - cache_start})')
+    print(f'  manual overrides applied: {overrode}')
     print('\n── Files ──')
     print(f'  {PROC / "nodes.json"}            ({(PROC / "nodes.json").stat().st_size:,} B)')
     print(f'  {PROC / "edges.json"}            ({(PROC / "edges.json").stat().st_size:,} B)')

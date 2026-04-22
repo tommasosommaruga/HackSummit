@@ -77,7 +77,7 @@ export default function SupplyChainMap({
   byId,
   highlighted = null,          // Set of node ids to emphasize; others dim
   onNodeClick = () => {},
-  typeVisible = { deposit: true, project: true, refinery: true, oem: true, reseller: true },
+  typeVisible = { deposit: true, project: true, refinery: true, magnet_maker: true, oem: true, reseller: true },
 }) {
   const [viewState, setViewState] = useViewport()
   const mapRef = useRef(null)
@@ -85,7 +85,7 @@ export default function SupplyChainMap({
 
   // Split nodes by type for layer composition.
   const byType = useMemo(() => {
-    const g = { deposit: [], project: [], refinery: [], oem: [], reseller: [] }
+    const g = { deposit: [], project: [], refinery: [], magnet_maker: [], oem: [], reseller: [] }
     for (const n of nodes) {
       if (!n.geocoded || n.lat == null) continue
       if (!typeVisible[n.type]) continue
@@ -124,7 +124,23 @@ export default function SupplyChainMap({
 
   // Highlighted / dimmed helpers.
   const isHighlighted = (n) => !highlighted || highlighted.has(n.id)
-  const nodeAlpha = (n) => isHighlighted(n) ? 230 : 60
+  // Inferred (Chinese aggregate) nodes render at 60% opacity so the verified
+  // "Western" supply chain always reads as the primary layer.
+  const confAlpha = (n) => n.confidence === 'inferred' ? 0.55 : 1.0
+  const nodeAlpha = (n) => Math.round((isHighlighted(n) ? 230 : 60) * confAlpha(n))
+  // Neon-amber tint applied to inferred nodes overrides the type's native hue.
+  const INFERRED_TINT = '#fbbf24'
+  const nodeColorHex = (n) => n.confidence === 'inferred' ? INFERRED_TINT : colorForNode(n)
+
+  // Animation tick — drives flowing-dash offset on edges. Re-renders every
+  // ~40 ms; deck.gl diffing keeps this cheap.
+  const [tick, setTick] = useState(0)
+  useEffect(() => {
+    let raf = null
+    const loop = () => { setTick(t => (t + 1) % 10000); raf = requestAnimationFrame(loop) }
+    raf = requestAnimationFrame(loop)
+    return () => cancelAnimationFrame(raf)
+  }, [])
 
   // ── Layers ───────────────────────────────────────────────────────────────
   const layers = []
@@ -140,7 +156,7 @@ export default function SupplyChainMap({
       radiusMinPixels: 2,
       radiusMaxPixels: 8,
       getFillColor: d => {
-        const c = hexToRgba(colorForNode(d), nodeAlpha(d))
+        const c = hexToRgba(nodeColorHex(d), nodeAlpha(d))
         return d.precision !== 'exact' ? [c[0], c[1], c[2], c[3] * 0.4] : c
       },
       stroked: true,
@@ -195,7 +211,7 @@ export default function SupplyChainMap({
   // Project / refinery / oem / reseller are rendered as a two-layer stack:
   // a colored ScatterplotLayer halo (status color) + IconLayer emoji on top.
   // Masking the emoji would destroy its glyph; the halo does the status work.
-  for (const typeKey of ['project', 'refinery', 'oem', 'reseller']) {
+  for (const typeKey of ['project', 'refinery', 'magnet_maker', 'oem', 'reseller']) {
     if (!typeVisible[typeKey] || !iconAtlas.mapping[typeKey]) continue
     const data = byType[typeKey]
     if (!data.length) continue
@@ -206,9 +222,9 @@ export default function SupplyChainMap({
       getPosition: d => [d.lng, d.lat],
       getRadius: baseSize * 0.55,
       radiusUnits: 'pixels',
-      getFillColor: d => hexToRgba(colorForNode(d), Math.min(220, nodeAlpha(d))),
+      getFillColor: d => hexToRgba(nodeColorHex(d), Math.min(220, nodeAlpha(d))),
       stroked: true,
-      getLineColor: d => hexToRgba(colorForNode(d), nodeAlpha(d)),
+      getLineColor: d => hexToRgba(nodeColorHex(d), nodeAlpha(d)),
       lineWidthMinPixels: 1.5,
       pickable: true,
       onHover: info => setHover(info.object ? { kind: 'node', ...info } : null),
@@ -241,20 +257,50 @@ export default function SupplyChainMap({
     .filter(Boolean),
   [edges, byId, typeVisible, highlighted])
 
+  // ── Pulse ring on highlighted nodes (active supply chain) ─────────────────
+  if (highlighted) {
+    const pulsed = nodes.filter(n => highlighted.has(n.id) && n.geocoded)
+    if (pulsed.length) {
+      const phase = (tick % 60) / 60       // 0 → 1 every ~2.4 s
+      const ringRadius = 8 + phase * 22
+      const ringAlpha = Math.round((1 - phase) * 180)
+      layers.push(new ScatterplotLayer({
+        id: 'pulse',
+        data: pulsed,
+        getPosition: d => [d.lng, d.lat],
+        getRadius: ringRadius,
+        radiusUnits: 'pixels',
+        getFillColor: [0, 0, 0, 0],
+        stroked: true,
+        getLineColor: d => hexToRgba(nodeColorHex(d), ringAlpha),
+        lineWidthMinPixels: 1.5,
+        updateTriggers: { getRadius: tick, getLineColor: tick },
+        pickable: false,
+      }))
+    }
+  }
+
   if (renderableEdges.length) {
     // Sample a great-circle path as N waypoints so PathLayer can render the
     // curve — this lets us dash 'probable' edges (multi-site fan-outs where
     // the exact destination is unknown) via PathStyleExtension. ArcLayer
     // doesn't support dashing, so we pre-compute the arc here.
     const greatCirclePath = (a, b, steps = 32) => {
+      // Take the shorter of the two great-circle directions: if |Δlng| > 180
+      // shift the destination by ±360 so the arc crosses the antimeridian
+      // instead of going the long way around the globe.
+      let lngB = b.lng
+      if (lngB - a.lng > 180) lngB -= 360
+      else if (lngB - a.lng < -180) lngB += 360
       const pts = []
       const lat1 = (a.lat * Math.PI) / 180, lon1 = (a.lng * Math.PI) / 180
-      const lat2 = (b.lat * Math.PI) / 180, lon2 = (b.lng * Math.PI) / 180
+      const lat2 = (b.lat * Math.PI) / 180, lon2 = (lngB * Math.PI) / 180
       const d = 2 * Math.asin(Math.sqrt(
         Math.sin((lat2 - lat1) / 2) ** 2
         + Math.cos(lat1) * Math.cos(lat2) * Math.sin((lon2 - lon1) / 2) ** 2,
       ))
-      if (d === 0) return [[a.lng, a.lat], [b.lng, b.lat]]
+      if (d === 0) return [[a.lng, a.lat], [lngB, b.lat]]
+      let prevLon = null
       for (let i = 0; i <= steps; i++) {
         const t = i / steps
         const A = Math.sin((1 - t) * d) / Math.sin(d)
@@ -263,34 +309,55 @@ export default function SupplyChainMap({
         const y = A * Math.cos(lat1) * Math.sin(lon1) + B * Math.cos(lat2) * Math.sin(lon2)
         const z = A * Math.sin(lat1) + B * Math.sin(lat2)
         const lat = Math.atan2(z, Math.sqrt(x * x + y * y))
-        const lon = Math.atan2(y, x)
-        pts.push([(lon * 180) / Math.PI, (lat * 180) / Math.PI])
+        let lon = (Math.atan2(y, x) * 180) / Math.PI
+        // Unwrap lon so it stays continuous with the previous sample —
+        // otherwise PathLayer draws a horizontal seam across the map when
+        // the arc crosses ±180°.
+        if (prevLon != null) {
+          while (lon - prevLon > 180) lon -= 360
+          while (lon - prevLon < -180) lon += 360
+        }
+        prevLon = lon
+        pts.push([lon, (lat * 180) / Math.PI])
       }
       return pts
     }
     const pathEdges = renderableEdges.map(e => ({ ...e, path: greatCirclePath(e.from, e.to) }))
+
+    // Flowing-dash illusion: cycle the dash pattern each frame so the
+    // dashes appear to march forward. deck.gl PathStyleExtension has no
+    // offset prop, but flipping between two complementary patterns at ~8 Hz
+    // is close enough to "movement" for supply-chain flow imagery.
+    const phase = tick % 10
+    const dashPattern = [6, 4]
+    const rollingDash = [dashPattern[0], dashPattern[1] + (phase < 5 ? 0 : 2)]
 
     layers.push(new PathLayer({
       id: 'edges',
       data: pathEdges,
       getPath: d => d.path,
       getColor: d => {
-        const c = MATERIAL_COLORS[d.material] || MATERIAL_COLORS.unknown
-        return hexToRgba(c, d.probable ? 140 : 220)
+        // Inferred flows: amber. Verified: material color.
+        const base = d.confidence === 'inferred'
+          ? INFERRED_TINT
+          : (MATERIAL_COLORS[d.material] || MATERIAL_COLORS.unknown)
+        const a = d.confidence === 'inferred' ? 140 : (d.probable ? 150 : 230)
+        return hexToRgba(base, a)
       },
       getWidth: d => {
         const v = d.volume_tons_per_year
         const base = v ? Math.max(1, Math.min(6, Math.log10(v + 1) * 0.8)) : 1.4
-        return d.probable ? base * 0.75 : base
+        return (d.probable || d.confidence === 'inferred') ? base * 0.75 : base
       },
       widthUnits: 'pixels',
       widthMinPixels: 1,
       capRounded: true,
       jointRounded: true,
-      // Dashed pattern for probable edges; solid (dashArray [0,0]) otherwise.
-      getDashArray: d => d.probable ? [5, 3] : [0, 0],
+      getDashArray: d => (d.probable || d.confidence === 'inferred') ? rollingDash : [0, 0],
       dashJustified: true,
+      dashGapPickable: false,
       extensions: [new PathStyleExtension({ dash: true, highPrecisionDash: true })],
+      updateTriggers: { getDashArray: phase },
       pickable: true,
       onHover: info => setHover(info.object ? { kind: 'edge', ...info } : null),
     }))

@@ -1,0 +1,16 @@
+/* ── App shell ── */
+.app-shell {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  background: #070b14;
+  overflow: hidden;
+}
+
+.page-container {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  min-height: 0;
+}
