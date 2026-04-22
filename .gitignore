@@ -7,6 +7,7 @@ venv/
 dist/
 *.egg
 
+
 # Jupyter
 .ipynb_checkpoints/
 
