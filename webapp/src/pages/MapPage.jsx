@@ -1,359 +1,464 @@
-import { useState, useCallback } from 'react'
-import SupplyMap from '../components/SupplyMap.jsx'
-import { MINES, LAUNDERING_HUBS, ELEMENTS } from '../data/mines.js'
+/**
+ * MapPage — supply-chain explorer.
+ *
+ * Left panel: filters (node type toggles, multi-select country + deposit type,
+ *             status/status_code toggles per type, resource slider for projects,
+ *             search with fuzzy matching).
+ * Map:        deck.gl/maplibre rendering via <SupplyChainMap>.
+ * Right panel: node details + upstream/downstream list when a node is selected.
+ * Legend:     bottom-right, auto-generated from nodeTypeConfig.
+ */
+import { useEffect, useMemo, useState } from 'react'
+import Fuse from 'fuse.js'
+import SupplyChainMap from '../components/SupplyChainMap.jsx'
+import { NODE_TYPES, MATERIAL_COLORS, colorForNode, normalizeStatusCode } from '../lib/nodeTypeConfig.js'
+import { loadSupplyChain, connectedNodeIds } from '../lib/loadSupplyChain.js'
 import './MapPage.css'
 
-const YEARS = [2019, 2020, 2021, 2022, 2023, 2024]
-const ALL_ELEMENTS = Object.keys(ELEMENTS)
-
-function riskColor(r) {
-  if (r >= 0.6) return '#ef4444'
-  if (r >= 0.3) return '#eab308'
-  return '#22c55e'
+function MultiToggle({ options, selected, onToggle, render }) {
+  return (
+    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.3rem' }}>
+      {options.map(opt => {
+        const [key, meta] = Array.isArray(opt) ? opt : [opt, {}]
+        const on = selected.has(key)
+        return (
+          <button
+            key={key}
+            onClick={() => onToggle(key)}
+            className="chip"
+            style={{
+              fontSize: '0.72rem',
+              padding: '0.25rem 0.55rem',
+              background: on ? (meta.color || 'var(--accent)') + '33' : 'var(--border)',
+              border: `1px solid ${on ? (meta.color || 'var(--accent)') : 'var(--muted)'}`,
+              color: on ? (meta.color || 'var(--accent)') : '#9ca3af',
+              borderRadius: 99,
+              cursor: 'pointer',
+            }}
+          >
+            {render ? render(key, meta) : key}
+          </button>
+        )
+      })}
+    </div>
+  )
 }
 
 export default function MapPage({ onBack }) {
-  const [year, setYear] = useState(2022)
-  const [activeElement, setActiveElement] = useState('Li')
-  const [filters, setFilters] = useState({
-    mines: true,
-    refineries: true,
-    hubs: true,
-    flows: true,
-    riskFlows: false,
-    riskMin: 0,
-  })
-  const [showTransport, setShowTransport] = useState(false)
-  const [transportRisk, setTransportRisk] = useState('all')
+  const [graph, setGraph] = useState(null)  // { nodes, edges, byId, outgoing, incoming, meta }
+  const [err, setErr] = useState(null)
+
+  useEffect(() => {
+    loadSupplyChain({ patchMissing: false })  // page is responsive first; patching on demand if needed
+      .then(setGraph)
+      .catch(e => setErr(e.message))
+  }, [])
+
+  const [typeVisible, setTypeVisible] = useState(
+    Object.fromEntries(Object.keys(NODE_TYPES).map(k => [k, true])),
+  )
+  const [countryFilter, setCountryFilter] = useState(new Set())
+  const [depTypeFilter, setDepTypeFilter] = useState(new Set())
+  const [depStatusFilter, setDepStatusFilter] = useState(new Set(Object.keys(NODE_TYPES.deposit.statuses)))
+  const [projStatusFilter, setProjStatusFilter] = useState(new Set(Object.keys(NODE_TYPES.project.statuses)))
+  const [refStatusFilter, setRefStatusFilter] = useState(new Set(Object.keys(NODE_TYPES.refinery.statuses)))
+  const [resourceMin, setResourceMin] = useState(0)
+  const [search, setSearch] = useState('')
   const [selected, setSelected] = useState(null)
 
-  const toggle = (key) => setFilters(f => ({ ...f, [key]: !f[key] }))
-  const handleNodeClick = useCallback((node) => setSelected(node), [])
+  const fuse = useMemo(() => graph ? new Fuse(graph.nodes, {
+    keys: ['name', 'company', 'country'],
+    threshold: 0.3,
+  }) : null, [graph])
 
-  // Filter mines to those that produce the active element
-  const visibleMines = MINES.filter(m =>
-    m.elements.includes(activeElement) && m.risk >= filters.riskMin
+  const searchHits = useMemo(
+    () => (search.trim() && fuse) ? fuse.search(search.trim()).slice(0, 8).map(r => r.item) : [],
+    [search, fuse],
   )
 
-  const totalOutput = visibleMines.reduce((s, m) => s + (m.output[activeElement]?.[year] || 0), 0)
-  const totalHighRisk = visibleMines
-    .filter(m => m.risk >= 0.6)
-    .reduce((s, m) => s + (m.output[activeElement]?.[year] || 0), 0)
-  const totalSurplus = LAUNDERING_HUBS
-    .filter(h => h.elements.includes(activeElement))
-    .reduce((s, h) => s + (h.surplus_kt[year] || 0), 0)
+  // Compute filtered node set + aggregate stats.
+  const { visibleNodes, countryOptions, depTypeOptions, stats } = useMemo(() => {
+    if (!graph) return { visibleNodes: [], countryOptions: [], depTypeOptions: [], stats: {} }
+    const countryCount = new Map()
+    const dtypeCount = new Map()
+    const statsByType = Object.fromEntries(Object.keys(NODE_TYPES).map(k => [k, 0]))
+    const visible = []
+    for (const n of graph.nodes) {
+      if (n.country) countryCount.set(n.country, (countryCount.get(n.country) || 0) + 1)
+      if (n.deposit_type) dtypeCount.set(n.deposit_type, (dtypeCount.get(n.deposit_type) || 0) + 1)
 
-  const elMeta = ELEMENTS[activeElement]
+      if (!typeVisible[n.type]) continue
+      if (!n.geocoded) continue
+      if (countryFilter.size && (!n.country || !countryFilter.has(n.country))) continue
+      if (depTypeFilter.size && (!n.deposit_type || !depTypeFilter.has(n.deposit_type))) continue
+
+      if (n.type === 'deposit') {
+        const s = (n.status || '').replace(/\s*\(\?\)\s*$/, '')
+        if (s && !depStatusFilter.has(s)) continue
+      }
+      if (n.type === 'project' && n.status_code != null) {
+        const code = normalizeStatusCode(n.status_code)
+        if (code && !projStatusFilter.has(code)) continue
+      }
+      if (n.type === 'refinery' && n.status_code != null) {
+        const code = normalizeStatusCode(n.status_code)
+        if (code && !refStatusFilter.has(code)) continue
+      }
+      if (n.type === 'project' && resourceMin > 0) {
+        if ((n.resource_kt_reo || 0) < resourceMin) continue
+      }
+      visible.push(n)
+      statsByType[n.type] = (statsByType[n.type] || 0) + 1
+    }
+    return {
+      visibleNodes: visible,
+      countryOptions: [...countryCount.entries()].sort((a, b) => b[1] - a[1]),
+      depTypeOptions: [...dtypeCount.entries()].sort((a, b) => b[1] - a[1]),
+      stats: statsByType,
+    }
+  }, [graph, typeVisible, countryFilter, depTypeFilter, depStatusFilter,
+      projStatusFilter, refStatusFilter, resourceMin])
+
+  const highlighted = useMemo(() => {
+    if (!graph || !selected) return null
+    return connectedNodeIds(selected.id, graph, 'both', 4)
+  }, [graph, selected])
+
+  // ── Render ──────────────────────────────────────────────────────────────
+  if (err) return <div className="map-page"><div style={{ padding: '2rem', color: '#ef4444' }}>Error: {err}</div></div>
+  if (!graph) return <div className="map-page"><div style={{ padding: '2rem', color: 'var(--sub)' }}>Loading supply chain…</div></div>
+
+  const toggleSet = (set, key, setter) => {
+    const next = new Set(set)
+    next.has(key) ? next.delete(key) : next.add(key)
+    setter(next)
+  }
 
   return (
     <div className="map-page">
-      <aside className="map-sidebar">
-        {/* Header */}
+      <aside className="map-sidebar" style={{ width: 320 }}>
         <div className="sidebar-header">
-          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.5rem' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: 6 }}>
             {onBack && (
               <button
                 onClick={onBack}
-                style={{ background: 'none', border: 'none', color: 'var(--sub)', cursor: 'pointer', fontSize: '1rem', padding: 0, lineHeight: 1 }}
+                style={{ background: 'none', border: 'none', color: 'var(--sub)', cursor: 'pointer', fontSize: '1rem' }}
               >←</button>
             )}
-            <div className="sidebar-title">🌍 Supply Chain Map</div>
+            <div className="sidebar-title">🌍 Rare-earth supply chain</div>
           </div>
-          <div className="sidebar-sub">Lithium Truth · {year}</div>
-        </div>
-
-        {/* Element filter */}
-        <div className="control-section">
-          <div className="control-label">Element</div>
-          <div className="element-grid">
-            {ALL_ELEMENTS.map(el => (
-              <button
-                key={el}
-                className={`el-chip ${activeElement === el ? 'active' : ''}`}
-                style={{ '--el-color': ELEMENTS[el].color }}
-                onClick={() => { setActiveElement(el); setSelected(null) }}
-              >
-                <span className="el-sym">{el}</span>
-                <span className="el-name">{ELEMENTS[el].label}</span>
-              </button>
-            ))}
+          <div className="sidebar-sub">
+            {graph.meta.counts.deposits.toLocaleString()} deposits · {graph.meta.counts.projects} projects
+            {graph.meta.counts.refineries ? ` · ${graph.meta.counts.refineries} refineries` : ''}
+            {graph.meta.counts.edges ? ` · ${graph.meta.counts.edges} edges` : ''}
           </div>
         </div>
 
-        {/* Year slider */}
+        {/* Search */}
         <div className="control-section">
-          <label className="control-label">Year: <strong>{year}</strong></label>
+          <div className="control-label">Search</div>
           <input
-            type="range" min={2019} max={2024} step={1}
-            value={year}
-            onChange={e => setYear(+e.target.value)}
-            className="year-slider"
+            type="text"
+            placeholder="project, company, deposit…"
+            value={search}
+            onChange={e => setSearch(e.target.value)}
+            style={{
+              width: '100%', padding: '0.45rem 0.6rem', borderRadius: 6,
+              background: 'var(--border)', border: '1px solid var(--muted)',
+              color: 'inherit', fontSize: '0.82rem',
+            }}
           />
-          <div className="year-ticks">
-            {YEARS.map(y => <span key={y} style={{ opacity: y === year ? 1 : 0.4 }}>{y}</span>)}
-          </div>
-        </div>
-
-        {/* Layer toggles */}
-        <div className="control-section">
-          <div className="control-label">Layers</div>
-          {[
-            { key: 'mines',      label: '⛏️  Mines',           color: '#ef4444' },
-            { key: 'refineries', label: '🏭  Refineries',      color: '#8b5cf6' },
-            { key: 'hubs',       label: '⚠️  Laundering Hubs', color: '#f97316' },
-            { key: 'flows',      label: '↗  Trade Flows',      color: '#3b82f6' },
-          ].map(({ key, label, color }) => (
-            <label key={key} className="toggle-row">
-              <div className={`toggle ${filters[key] ? 'on' : ''}`} onClick={() => toggle(key)}>
-                <div className="toggle-thumb" />
-              </div>
-              <span>{label}</span>
-              <div className="layer-dot" style={{ background: color }} />
-            </label>
-          ))}
-        </div>
-
-        {/* Transport routes */}
-        <div className="control-section">
-          <div className="control-label">Transport Routes</div>
-          <label className="toggle-row">
-            <div className={`toggle ${showTransport ? 'on' : ''}`} onClick={() => setShowTransport(t => !t)}>
-              <div className="toggle-thumb" />
-            </div>
-            <span style={{ fontSize: '0.82rem' }}>🚢 Show corridors</span>
-          </label>
-          {showTransport && (
-            <div style={{ marginTop: '0.5rem' }}>
-              <div className="control-label" style={{ marginBottom: '0.4rem' }}>Filter corridors</div>
-              {[['all','All routes'],['high','High risk only'],['medium','Med + High']].map(([k,l]) => (
-                <label key={k} className="toggle-row" style={{ marginBottom: '0.3rem' }}>
-                  <input type="radio" name="transportRisk" value={k} checked={transportRisk === k}
-                    onChange={() => setTransportRisk(k)}
-                    style={{ accentColor: 'var(--accent)', marginRight: '0.25rem' }} />
-                  <span style={{ fontSize: '0.8rem' }}>{l}</span>
-                </label>
+          {searchHits.length > 0 && (
+            <div style={{ marginTop: 6, maxHeight: 200, overflowY: 'auto' }}>
+              {searchHits.map(n => (
+                <div
+                  key={n.id}
+                  onClick={() => { setSelected(n); setSearch('') }}
+                  style={{
+                    padding: '0.35rem 0.5rem', borderRadius: 5, cursor: 'pointer',
+                    fontSize: '0.78rem', display: 'flex', gap: '0.4rem',
+                    background: 'var(--border)', marginBottom: 3,
+                  }}
+                >
+                  <span style={{ color: colorForNode(n) }}>{NODE_TYPES[n.type].icon}</span>
+                  <span style={{ flex: 1 }}>{n.name}</span>
+                  <span style={{ color: '#6b7280', fontSize: '0.68rem' }}>{n.country || ''}</span>
+                </div>
               ))}
-              <div style={{ marginTop: '0.5rem', fontSize: '0.7rem', color: '#6b7280', lineHeight: 1.4 }}>
-                🔵 Sea &nbsp;🟣 Rail &nbsp;🟠 Road<br/>
-                Dashed = high laundering risk
-              </div>
             </div>
           )}
         </div>
 
-        {/* Risk filter */}
+        {/* Node type toggles */}
         <div className="control-section">
-          <label className="control-label">
-            Min Risk: <strong style={{ color: riskColor(filters.riskMin) }}>{Math.round(filters.riskMin * 100)}%</strong>
-          </label>
-          <input
-            type="range" min={0} max={0.9} step={0.05}
-            value={filters.riskMin}
-            onChange={e => setFilters(f => ({ ...f, riskMin: +e.target.value }))}
-            className="year-slider"
-          />
-          <label className="toggle-row" style={{ marginTop: '0.75rem' }}>
-            <div className={`toggle ${filters.riskFlows ? 'on' : ''}`} onClick={() => toggle('riskFlows')}>
-              <div className="toggle-thumb" />
-            </div>
-            <span style={{ fontSize: '0.82rem' }}>High-risk flows only</span>
-          </label>
-        </div>
-
-        {/* Stats */}
-        <div className="control-section stats-section">
-          <div className="control-label" style={{ color: elMeta.color }}>
-            {elMeta.label} · {year}
-          </div>
-          <div className="stat-row">
-            <span>Total Output</span>
-            <strong>{totalOutput.toFixed(0)} {elMeta.unit}</strong>
-          </div>
-          <div className="stat-row">
-            <span>High-Risk Share</span>
-            <strong style={{ color: '#ef4444' }}>
-              {totalOutput > 0 ? Math.round(totalHighRisk / totalOutput * 100) : 0}%
-            </strong>
-          </div>
-          <div className="stat-row">
-            <span>Laundered Surplus</span>
-            <strong style={{ color: '#f97316' }}>{totalSurplus} kt</strong>
-          </div>
-          <div className="stat-row">
-            <span>Mines shown</span>
-            <strong>{visibleMines.length}</strong>
-          </div>
-        </div>
-
-        {/* Mine list */}
-        <div className="control-section" style={{ flex: 1, overflowY: 'auto', borderBottom: 'none' }}>
-          <div className="control-label">
-            {elMeta.label} Mines
-            <span style={{ marginLeft: '0.5rem', color: elMeta.color, fontWeight: 600 }}>
-              · {visibleMines.length}
-            </span>
-          </div>
-          {visibleMines
-            .sort((a, b) => b.risk - a.risk)
-            .map(m => (
+          <div className="control-label">Node types</div>
+          {Object.entries(NODE_TYPES).map(([key, cfg]) => (
+            <label key={key} className="toggle-row">
               <div
-                key={m.id}
-                className={`mine-list-item ${selected?.data?.id === m.id ? 'active' : ''}`}
-                onClick={() => setSelected({ type: 'mine', data: m })}
+                className={`toggle ${typeVisible[key] ? 'on' : ''}`}
+                onClick={() => setTypeVisible(v => ({ ...v, [key]: !v[key] }))}
               >
-                <div className="mine-list-dot" style={{ background: riskColor(m.risk) }} />
-                <div style={{ flex: 1 }}>
-                  <div style={{ fontSize: '0.85rem', fontWeight: 500 }}>{m.flag} {m.name}</div>
-                  <div style={{ fontSize: '0.72rem', color: '#9ca3af' }}>
-                    {(m.output[activeElement]?.[year] || 0).toFixed(0)} {elMeta.unit}
-                    · risk {Math.round(m.risk * 100)}%
-                    {m.elements.length > 1 && (
-                      <span style={{ marginLeft: '0.3rem', color: '#6b7280' }}>
-                        [{m.elements.join('+')}]
-                      </span>
-                    )}
-                  </div>
-                </div>
+                <div className="toggle-thumb" />
               </div>
-            ))}
+              <span style={{ fontSize: '0.82rem' }}>
+                <span style={{ color: cfg.color, marginRight: '0.35rem' }}>{cfg.icon}</span>
+                {cfg.label}
+                <span style={{ marginLeft: '0.4rem', color: '#6b7280', fontSize: '0.7rem' }}>
+                  ({stats[key]?.toLocaleString() ?? 0})
+                </span>
+              </span>
+            </label>
+          ))}
         </div>
+
+        {/* Status filters */}
+        {typeVisible.deposit && (
+          <div className="control-section">
+            <div className="control-label">Deposit status</div>
+            <MultiToggle
+              options={Object.entries(NODE_TYPES.deposit.statuses)}
+              selected={depStatusFilter}
+              onToggle={k => toggleSet(depStatusFilter, k, setDepStatusFilter)}
+              render={(k, m) => <>{m.label || k}</>}
+            />
+          </div>
+        )}
+        {typeVisible.project && (
+          <div className="control-section">
+            <div className="control-label">Project status</div>
+            <MultiToggle
+              options={Object.entries(NODE_TYPES.project.statuses)}
+              selected={projStatusFilter}
+              onToggle={k => toggleSet(projStatusFilter, k, setProjStatusFilter)}
+              render={(k, m) => <>{k} · {m.label}</>}
+            />
+          </div>
+        )}
+        {typeVisible.refinery && graph.meta.counts.refineries > 0 && (
+          <div className="control-section">
+            <div className="control-label">Refinery status</div>
+            <MultiToggle
+              options={Object.entries(NODE_TYPES.refinery.statuses)}
+              selected={refStatusFilter}
+              onToggle={k => toggleSet(refStatusFilter, k, setRefStatusFilter)}
+              render={(k, m) => <>{k} · {m.label}</>}
+            />
+          </div>
+        )}
+
+        {/* Country multi-select */}
+        <div className="control-section">
+          <div className="control-label">Country {countryFilter.size ? `(${countryFilter.size})` : ''}</div>
+          <div style={{ maxHeight: 160, overflowY: 'auto' }}>
+            {countryOptions.slice(0, 40).map(([c, n]) => (
+              <label key={c} style={{
+                display: 'flex', alignItems: 'center', gap: '0.35rem',
+                fontSize: '0.76rem', padding: '0.15rem 0', cursor: 'pointer',
+              }}>
+                <input
+                  type="checkbox"
+                  checked={countryFilter.has(c)}
+                  onChange={() => toggleSet(countryFilter, c, setCountryFilter)}
+                />
+                <span style={{ flex: 1 }}>{c}</span>
+                <span style={{ color: '#6b7280' }}>{n}</span>
+              </label>
+            ))}
+          </div>
+        </div>
+
+        {/* Deposit-type multi-select */}
+        <div className="control-section">
+          <div className="control-label">Deposit type {depTypeFilter.size ? `(${depTypeFilter.size})` : ''}</div>
+          <div style={{ maxHeight: 140, overflowY: 'auto' }}>
+            {depTypeOptions.slice(0, 20).map(([t, n]) => (
+              <label key={t} style={{ display: 'flex', alignItems: 'center', gap: '0.35rem', fontSize: '0.74rem', padding: '0.12rem 0', cursor: 'pointer' }}>
+                <input
+                  type="checkbox"
+                  checked={depTypeFilter.has(t)}
+                  onChange={() => toggleSet(depTypeFilter, t, setDepTypeFilter)}
+                />
+                <span style={{ flex: 1 }}>{t}</span>
+                <span style={{ color: '#6b7280' }}>{n}</span>
+              </label>
+            ))}
+          </div>
+        </div>
+
+        {/* Resource slider (projects) */}
+        {typeVisible.project && (
+          <div className="control-section">
+            <div className="control-label">
+              Min resource (projects) · {resourceMin} × 10⁴ t REO
+            </div>
+            <input
+              type="range" min={0} max={500} step={10}
+              value={resourceMin}
+              onChange={e => setResourceMin(+e.target.value)}
+              style={{ width: '100%', accentColor: 'var(--accent)' }}
+            />
+          </div>
+        )}
       </aside>
 
-      {/* Map */}
-      <div className="map-area">
-        <SupplyMap
-          filters={filters}
-          selectedYear={year}
-          activeElement={activeElement}
-          onNodeClick={handleNodeClick}
-          showTransport={showTransport}
-          transportRiskFilter={transportRisk}
+      <div className="map-area" style={{ position: 'relative' }}>
+        <SupplyChainMap
+          nodes={visibleNodes}
+          edges={graph.edges}
+          byId={graph.byId}
+          typeVisible={typeVisible}
+          highlighted={highlighted}
+          onNodeClick={setSelected}
         />
 
-        {/* Element badge overlay */}
-        <div className="element-badge" style={{ background: elMeta.color + '22', borderColor: elMeta.color }}>
-          <span style={{ color: elMeta.color, fontWeight: 700, fontSize: '1.1rem' }}>{activeElement}</span>
-          <span style={{ color: '#9ca3af', fontSize: '0.75rem' }}>{elMeta.label}</span>
-          <span style={{ color: '#6b7280', fontSize: '0.7rem', fontFamily: 'var(--mono)' }}>
-            HS {ELEMENTS[activeElement].hs[0]}
-          </span>
-        </div>
-
         {/* Legend */}
-        <div className="map-legend">
+        <div className="map-legend" style={{ maxWidth: 260 }}>
           <div className="legend-title">Legend</div>
-          {[
-            { color: '#ef4444', label: 'High Risk (≥60%)' },
-            { color: '#eab308', label: 'Medium (30–60%)' },
-            { color: '#22c55e', label: 'Low Risk (<30%)' },
-            { color: '#8b5cf6', label: 'Refinery ◼' },
-            { color: '#f97316', label: 'Laundering Hub ●' },
-          ].map(({ color, label }) => (
-            <div key={label} className="legend-row">
-              <div className="legend-dot" style={{ background: color }} />
-              <span>{label}</span>
+          {Object.entries(NODE_TYPES).map(([key, cfg]) => (
+            <div key={key} className="legend-row">
+              <span style={{ color: cfg.color, width: 14, textAlign: 'center' }}>{cfg.icon}</span>
+              <span>{cfg.label}</span>
             </div>
           ))}
-          <div className="legend-row" style={{ marginTop: '0.5rem' }}>
-            <div style={{ width: 20, height: 0, borderTop: '2px dashed #ef4444' }} />
-            <span>High-risk flow</span>
-          </div>
-          <div className="legend-row">
-            <div style={{ width: 20, height: 0, borderTop: '2px solid #22c55e' }} />
-            <span>Low-risk flow</span>
-          </div>
+          {graph.meta.counts.edges > 0 && (
+            <>
+              <div className="legend-title" style={{ marginTop: '0.5rem' }}>Material (edges)</div>
+              {Object.entries(MATERIAL_COLORS).filter(([k]) => k !== 'unknown').map(([k, color]) => (
+                <div key={k} className="legend-row">
+                  <span style={{ width: 16, height: 3, background: color, display: 'inline-block', borderRadius: 2 }} />
+                  <span>{k.replace('_', ' ')}</span>
+                </div>
+              ))}
+            </>
+          )}
         </div>
 
         {/* Detail panel */}
         {selected && (
-          <div className="detail-panel">
+          <div className="detail-panel" style={{ maxHeight: '80vh', overflowY: 'auto' }}>
             <button className="detail-close" onClick={() => setSelected(null)}>✕</button>
-            {selected.type === 'mine' && (
-              <>
-                <div className="detail-title">{selected.data.flag} {selected.data.name}</div>
-                <div className="detail-sub">{selected.data.country} · {selected.data.type}</div>
+            <div className="detail-title">
+              <span style={{ color: colorForNode(selected), marginRight: '0.4rem' }}>
+                {NODE_TYPES[selected.type].icon}
+              </span>
+              {selected.name || selected.id}
+            </div>
+            <div className="detail-sub">
+              {NODE_TYPES[selected.type].label}
+              {selected.country ? ` · ${selected.country}` : ''}
+              {selected.state ? `, ${selected.state}` : ''}
+            </div>
 
-                {/* Element tags */}
-                <div style={{ display: 'flex', gap: '0.4rem', marginBottom: '0.75rem', flexWrap: 'wrap' }}>
-                  {selected.data.elements.map(el => (
-                    <span
-                      key={el}
-                      style={{
-                        fontSize: '0.72rem', padding: '0.15rem 0.5rem',
-                        borderRadius: '99px', fontWeight: 700,
-                        background: ELEMENTS[el].color + '22',
-                        color: ELEMENTS[el].color,
-                        border: `1px solid ${ELEMENTS[el].color}44`,
-                      }}
-                    >{el}</span>
-                  ))}
+            <div className="detail-grid">
+              {selected.company && (
+                <div className="detail-stat" style={{ gridColumn: 'span 3' }}>
+                  <div className="ds-label">Company</div>
+                  <div className="ds-val" style={{ fontSize: '0.85rem' }}>{selected.company}</div>
                 </div>
-
-                <div className="detail-grid">
-                  <div className="detail-stat">
-                    <div className="ds-label">Risk</div>
-                    <div className="ds-val" style={{ color: riskColor(selected.data.risk) }}>
-                      {Math.round(selected.data.risk * 100)}%
-                    </div>
-                  </div>
-                  <div className="detail-stat">
-                    <div className="ds-label">{activeElement} · {year}</div>
-                    <div className="ds-val" style={{ fontSize: '0.85rem' }}>
-                      {(selected.data.output[activeElement]?.[year] || 0).toFixed(0)} {elMeta.unit}
-                    </div>
-                  </div>
-                  <div className="detail-stat">
-                    <div className="ds-label">Certified</div>
-                    <div className="ds-val" style={{ color: selected.data.certified ? '#22c55e' : '#ef4444' }}>
-                      {selected.data.certified ? '✓ Yes' : '✗ No'}
-                    </div>
+              )}
+              {selected.status_code != null && (
+                <div className="detail-stat">
+                  <div className="ds-label">Status</div>
+                  <div className="ds-val" style={{ fontSize: '0.75rem', color: colorForNode(selected) }}>
+                    {selected.status_code}
+                    {NODE_TYPES[selected.type].statuses[String(selected.status_code)]
+                      ? ` · ${NODE_TYPES[selected.type].statuses[String(selected.status_code)].label}`
+                      : ''}
                   </div>
                 </div>
-
-                <p className="detail-notes">{selected.data.notes}</p>
-
-                {/* Sparkline — per element */}
-                {selected.data.output[activeElement] && (
-                  <>
-                    <div className="detail-label" style={{ marginBottom: '0.4rem' }}>
-                      {activeElement} output trend
-                    </div>
-                    <div className="spark-bars">
-                      {YEARS.map(y => {
-                        const val = selected.data.output[activeElement]?.[y] || 0
-                        const max = Math.max(...YEARS.map(yr => selected.data.output[activeElement]?.[yr] || 0))
-                        return (
-                          <div key={y} className="spark-col">
-                            <div
-                              className="spark-bar"
-                              style={{
-                                height: `${max > 0 ? Math.round((val / max) * 48) : 0}px`,
-                                background: y === year ? elMeta.color : '#374151',
-                              }}
-                            />
-                            <div className="spark-label">{y.toString().slice(2)}</div>
-                          </div>
-                        )
-                      })}
-                    </div>
-                  </>
-                )}
-
-                {/* All elements at this mine */}
-                {selected.data.elements.length > 1 && (
-                  <div style={{ marginTop: '0.75rem' }}>
-                    <div className="detail-label" style={{ marginBottom: '0.3rem' }}>All elements mined here</div>
-                    {selected.data.elements.map(el => (
-                      <div key={el} style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.8rem', padding: '0.2rem 0' }}>
-                        <span style={{ color: ELEMENTS[el].color }}>{ELEMENTS[el].label}</span>
-                        <span style={{ color: '#9ca3af', fontFamily: 'var(--mono)' }}>
-                          {(selected.data.output[el]?.[year] || 0).toFixed(0)} {ELEMENTS[el].unit}
-                        </span>
-                      </div>
-                    ))}
+              )}
+              {selected.status && (
+                <div className="detail-stat">
+                  <div className="ds-label">Status</div>
+                  <div className="ds-val" style={{ fontSize: '0.75rem' }}>{selected.status}</div>
+                </div>
+              )}
+              {selected.deposit_type && (
+                <div className="detail-stat">
+                  <div className="ds-label">Type</div>
+                  <div className="ds-val" style={{ fontSize: '0.72rem' }}>{selected.deposit_type}</div>
+                </div>
+              )}
+              {selected.resource_kt_reo != null && (
+                <div className="detail-stat">
+                  <div className="ds-label">Resource</div>
+                  <div className="ds-val" style={{ fontSize: '0.78rem' }}>
+                    {selected.resource_kt_reo} ×10⁴ t REO
                   </div>
-                )}
-              </>
+                </div>
+              )}
+              {selected.grade_pct != null && (
+                <div className="detail-stat">
+                  <div className="ds-label">Grade</div>
+                  <div className="ds-val" style={{ fontSize: '0.78rem' }}>{selected.grade_pct}%</div>
+                </div>
+              )}
+              {selected.capacity && (
+                <div className="detail-stat" style={{ gridColumn: 'span 3' }}>
+                  <div className="ds-label">Capacity</div>
+                  <div className="ds-val" style={{ fontSize: '0.75rem' }}>{selected.capacity}</div>
+                </div>
+              )}
+            </div>
+
+            {selected.commodities && (
+              <div style={{ marginTop: '0.6rem' }}>
+                <div className="detail-label">Commodities</div>
+                <div style={{ fontSize: '0.78rem', color: '#d1d5db' }}>{selected.commodities}</div>
+              </div>
+            )}
+
+            {/* Upstream / downstream */}
+            {graph.incoming.get(selected.id)?.length > 0 && (
+              <div style={{ marginTop: '0.75rem' }}>
+                <div className="detail-label">Upstream</div>
+                {graph.incoming.get(selected.id).map(e => {
+                  const n = graph.byId.get(e.from_id)
+                  return (
+                    <div key={e.id} onClick={() => setSelected(n)} style={{ cursor: 'pointer', fontSize: '0.76rem', padding: '0.25rem 0.4rem', background: 'var(--border)', borderRadius: 5, marginBottom: 3, display: 'flex', gap: '0.4rem' }}>
+                      <span style={{ color: colorForNode(n) }}>{NODE_TYPES[n.type].icon}</span>
+                      <span style={{ flex: 1 }}>{n.name}</span>
+                      <span style={{ color: MATERIAL_COLORS[e.material] || '#9ca3af', fontSize: '0.68rem' }}>
+                        {e.material}
+                      </span>
+                    </div>
+                  )
+                })}
+              </div>
+            )}
+            {graph.outgoing.get(selected.id)?.length > 0 && (
+              <div style={{ marginTop: '0.75rem' }}>
+                <div className="detail-label">Downstream</div>
+                {graph.outgoing.get(selected.id).map(e => {
+                  const n = graph.byId.get(e.to_id)
+                  return (
+                    <div key={e.id} onClick={() => setSelected(n)} style={{ cursor: 'pointer', fontSize: '0.76rem', padding: '0.25rem 0.4rem', background: 'var(--border)', borderRadius: 5, marginBottom: 3, display: 'flex', gap: '0.4rem' }}>
+                      <span style={{ color: colorForNode(n) }}>{NODE_TYPES[n.type].icon}</span>
+                      <span style={{ flex: 1 }}>{n.name}</span>
+                      <span style={{ color: MATERIAL_COLORS[e.material] || '#9ca3af', fontSize: '0.68rem' }}>
+                        {e.material}
+                      </span>
+                    </div>
+                  )
+                })}
+              </div>
+            )}
+
+            {selected.ref_urls && selected.ref_urls.length > 0 && (
+              <div style={{ marginTop: '0.6rem', fontSize: '0.7rem', color: '#9ca3af' }}>
+                <div className="detail-label">Sources</div>
+                {selected.ref_urls.map((u, i) => (
+                  <div key={i} style={{ wordBreak: 'break-all', marginBottom: 3 }}>
+                    <a href={u} target="_blank" rel="noreferrer" style={{ color: '#60a5fa' }}>{u}</a>
+                  </div>
+                ))}
+              </div>
+            )}
+
+            {selected.precision && selected.precision !== 'exact' && (
+              <div style={{ marginTop: '0.5rem', fontSize: '0.66rem', color: '#f59e0b', fontStyle: 'italic' }}>
+                ⚠ Location inferred ({selected.precision}) — not USGS-precise.
+              </div>
             )}
           </div>
         )}

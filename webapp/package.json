@@ -9,11 +9,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@deck.gl/aggregation-layers": "^9.3.1",
+    "@deck.gl/core": "^9.3.1",
+    "@deck.gl/layers": "^9.3.1",
+    "@deck.gl/mapbox": "^9.3.1",
+    "deck.gl": "^9.3.1",
+    "fuse.js": "^7.3.0",
+    "leaflet": "^1.9.4",
+    "maplibre-gl": "^5.23.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-leaflet": "^4.2.1",
     "recharts": "^2.12.7",
-    "leaflet": "^1.9.4",
-    "react-leaflet": "^4.2.1"
+    "supercluster": "^8.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
