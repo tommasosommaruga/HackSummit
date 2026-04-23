@@ -328,7 +328,7 @@ function UploadTab({ entity, uploadState, onChange }) {
           📤 Audit report submitted to REEtrieve verification queue
         </div>
         <div className="ov-note" style={{ marginBottom: '1.25rem' }}>
-          <strong>Next steps — </strong> Document will be processed by the SGS Verification Bureau within 5–7 business days.
+          <strong>Next steps — </strong> Document will be processed by the SGS Verification Bureau within 6–7 business days.
           A digital hash of the document has been anchored to the audit ledger for tamper detection.
         </div>
         <div className="overview-grid">

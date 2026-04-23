@@ -1,0 +1,428 @@
+.page-recycling {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-body, #0b1220);
+  color: var(--text, #e2e8f0);
+}
+
+.page-recycling .topbar {
+  border-bottom: 1px solid rgba(148, 163, 184, 0.15);
+}
+
+.page-recycling .recycling-main {
+  flex: 1;
+  display: flex;
+  min-height: 0;
+  position: relative;
+  gap: 0;
+}
+
+.page-recycling .recycling-main--grid {
+  display: grid;
+  grid-template-columns: 1fr minmax(220px, 300px);
+  align-items: stretch;
+}
+
+.page-recycling .recycling-filters {
+  max-height: calc(100vh - 7rem);
+  overflow-y: auto;
+  border-left: 1px solid rgba(148, 163, 184, 0.12);
+  padding: 0.5rem 0.6rem 0.75rem;
+  background: rgba(7, 10, 18, 0.65);
+}
+
+/* Main vs REE map tab */
+.recycling-tab-bar {
+  display: flex;
+  gap: 0.25rem;
+  margin: 0 0 0.6rem;
+  padding: 0.2rem;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.22);
+  border: 1px solid rgba(148, 163, 184, 0.1);
+}
+
+.recycling-tab {
+  flex: 1;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-align: center;
+  padding: 0.4rem 0.35rem;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: #94a3b8;
+  cursor: pointer;
+  transition: background 0.12s, color 0.12s;
+}
+
+.recycling-tab:hover {
+  color: #e2e8f0;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.recycling-tab--active {
+  color: #f1f5f9;
+  background: rgba(99, 102, 241, 0.22);
+  box-shadow: 0 0 0 1px rgba(99, 102, 241, 0.35);
+}
+
+/* Ordered sheet categories (Collection … Re-use) + refining block */
+.recycling-cat-block {
+  margin-bottom: 0.65rem;
+}
+
+.recycling-cat-block--refining {
+  margin-top: 0.4rem;
+  padding-top: 0.4rem;
+  border-top: 1px solid rgba(148, 163, 184, 0.1);
+}
+
+.recycling-cat-h {
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #94a3b8;
+  margin: 0 0 0.3rem 0.05rem;
+}
+
+/* REE tab explainer (no per-type toggles) */
+.recycling-ree-panel {
+  font-size: 0.8rem;
+  line-height: 1.45;
+  color: #cbd5e1;
+}
+
+.recycling-ree-lead {
+  margin: 0 0 0.75rem;
+}
+
+.recycling-ree-stat {
+  margin: 0;
+  color: #94a3b8;
+  font-size: 0.8rem;
+}
+
+.recycling-ree-link {
+  display: inline;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  font-weight: 600;
+  color: #a5b4fc;
+  background: none;
+  border: none;
+  border-bottom: 1px solid rgba(165, 180, 252, 0.45);
+  cursor: pointer;
+  border-radius: 0;
+  transition: color 0.12s, border-color 0.12s;
+}
+
+.recycling-ree-link:hover {
+  color: #c7d2fe;
+  border-bottom-color: rgba(199, 210, 254, 0.6);
+}
+
+.page-recycling .topbar-sub .recycling-topbar-mode {
+  color: #94a3b8;
+  font-weight: 500;
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+}
+
+.recycling-filter-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.6rem;
+  margin-bottom: 0.55rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.1);
+}
+
+.recycling-filter-action {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.3rem 0.5rem;
+  border-radius: 6px;
+  border: 1px solid rgba(148, 163, 184, 0.25);
+  background: rgba(255, 255, 255, 0.04);
+  color: #94a3b8;
+  cursor: pointer;
+  transition: background 0.12s, color 0.12s, border-color 0.12s;
+}
+
+.recycling-filter-action:hover:not(:disabled) {
+  color: #e2e8f0;
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(148, 163, 184, 0.35);
+}
+
+.recycling-filter-action:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.page-recycling .recycling-filters .row-toggle {
+  align-items: flex-start;
+}
+
+.recycling-swatch {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 999px;
+  flex-shrink: 0;
+  margin-top: 0.2rem;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.35);
+}
+
+.recycling-rt-ellipsis {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.recycling-filter-empty {
+  font-size: 0.75rem;
+  color: #64748b;
+  margin: 0.2rem 0 0.5rem;
+  line-height: 1.35;
+}
+
+.recycling-map-cell {
+  flex: 1;
+  min-width: 0;
+  min-height: 58vh;
+  position: relative;
+}
+
+/* Match ChainPage: full-bleed map (OpenFreeMap dark) inside the cell */
+.recycling-map-cell .recycling-map-wrap,
+.recycling-map-cell .supply-chain-map {
+  position: absolute;
+  inset: 0;
+  min-height: 0;
+  background: var(--v2-bg, #080c14);
+}
+.recycling-map-cell .sc-map-canvas {
+  position: absolute;
+  inset: 0;
+}
+
+/* MapLibre popup (HTML) */
+.rec-popup {
+  color: #0f172a;
+  font-size: 0.8125rem;
+  line-height: 1.4;
+  max-width: 280px;
+}
+.rec-popup-title {
+  font-weight: 700;
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+  color: #020617;
+}
+.rec-popup dl { margin: 0; }
+.rec-popup dt {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #64748b;
+  margin-top: 0.35rem;
+}
+.rec-popup dd { margin: 0.1rem 0 0; color: #0f172a; }
+.rec-popup-foot {
+  margin: 0.5rem 0 0;
+  font-size: 0.7rem;
+  color: #64748b;
+}
+
+.page-recycling .recycling-legend {
+  width: 220px;
+  flex-shrink: 0;
+  padding: 1rem 0.9rem 1rem 0.25rem;
+  background: linear-gradient(90deg, rgba(11, 18, 32, 0.5) 0%, rgba(11, 18, 32, 0) 100%);
+  font-size: 0.8125rem;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.page-recycling .recycling-legend * {
+  pointer-events: auto;
+}
+
+.recycling-legend .legend-title {
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #94a3b8;
+  margin-bottom: 0.5rem;
+}
+
+.recycling-legend-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+  color: #cbd5e1;
+}
+
+.recycling-legend-n {
+  margin-left: auto;
+  color: #64748b;
+  font-variant-numeric: tabular-nums;
+}
+
+.recycling-dot {
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 999px;
+  flex-shrink: 0;
+  box-shadow: 0 0 0 1px rgba(15, 23, 42, 0.4);
+}
+
+/* Panel must sit *below* the topbar; otherwise z-index:10 on .topbar blocks the ✕ and tabs steal clicks. */
+.page-recycling .recycling-detail.detail-v2 {
+  top: 4.75rem;
+  z-index: 20;
+  max-width: 360px;
+  max-height: calc(100vh - 5.25rem);
+}
+
+.page-recycling .recycling-detail .detail-close {
+  top: 0.7rem;
+  right: 0.65rem;
+  z-index: 2;
+  min-width: 2.5rem;
+  min-height: 2.5rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  line-height: 1;
+  color: #cbd5e1;
+}
+
+.page-recycling .recycling-detail .dv2-title {
+  padding-right: 2.75rem;
+}
+
+.recycling-sources-foot {
+  flex-shrink: 0;
+  padding: 0.85rem 1.25rem 1.1rem;
+  border-top: 1px solid rgba(148, 163, 184, 0.12);
+  background: rgba(8, 12, 22, 0.35);
+  font-size: 0.75rem;
+  line-height: 1.45;
+  color: #94a3b8;
+}
+
+.recycling-sources-title {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #64748b;
+  margin-bottom: 0.35rem;
+}
+
+.recycling-sources-text {
+  margin: 0 0 0.5rem;
+}
+
+.recycling-sources-common {
+  margin: 0;
+  color: #cbd5e1;
+}
+
+.recycling-sources-label {
+  color: #64748b;
+}
+
+.recycling-sources-list {
+  margin: 0.35rem 0 0;
+  padding-left: 1.2rem;
+}
+
+.recycling-sources-list li {
+  margin-bottom: 0.25rem;
+}
+
+.recycling-link-list {
+  margin: 0.15rem 0 0;
+  padding-left: 1.1rem;
+  font-size: 0.8rem;
+}
+
+.recycling-link-list a {
+  color: #93c5fd;
+  word-break: break-all;
+}
+
+.recycling-link-list a:hover {
+  text-decoration: underline;
+}
+
+.rec-popup-webref {
+  margin-top: 0.5rem;
+}
+
+.rec-popup-webref .rec-popup-dt {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #64748b;
+  margin-bottom: 0.25rem;
+}
+
+.rec-popup-webref ul {
+  margin: 0;
+  padding-left: 1rem;
+  font-size: 0.78rem;
+}
+
+.rec-popup-webref a {
+  color: #1d4ed8;
+  word-break: break-all;
+}
+
+@media (max-width: 900px) {
+  .page-recycling .recycling-main--grid {
+    grid-template-columns: 1fr;
+  }
+
+  .page-recycling .recycling-filters {
+    max-height: 42vh;
+    border-left: none;
+    border-top: 1px solid rgba(148, 163, 184, 0.12);
+  }
+
+  .page-recycling .recycling-detail.detail-v2 {
+    top: 5.5rem;
+    max-height: calc(100vh - 6rem);
+  }
+
+  .page-recycling .recycling-main {
+    flex-direction: column;
+  }
+
+  .page-recycling .recycling-legend {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem 1rem;
+    background: rgba(11, 18, 32, 0.95);
+    padding: 0.75rem 1rem;
+  }
+
+  .recycling-legend .legend-title {
+    width: 100%;
+    margin-bottom: 0.25rem;
+  }
+}

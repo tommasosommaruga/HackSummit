@@ -7,6 +7,7 @@
     "dev": "vite",
     "dev:all": "concurrently -n \"API,Vite\" -c \"cyan,magenta\" \"node server/chat.js\" \"vite\"",
     "build": "vite build",
+    "build:recycle-geo": "node scripts/build-recycling-geocode.mjs",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -25,7 +26,8 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-leaflet": "^4.2.1",
-    "supercluster": "^8.0.1"
+    "supercluster": "^8.0.1",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",

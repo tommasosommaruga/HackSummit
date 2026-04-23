@@ -10,6 +10,8 @@ import { useEffect, useMemo, useState } from 'react'
 import SupplyChainMap from '../components/SupplyChainMap.jsx'
 import { NODE_TYPES, MATERIAL_COLORS, colorForNode, normalizeStatusCode } from '../lib/nodeTypeConfig.js'
 import { loadSupplyChain } from '../lib/loadSupplyChain.js'
+import { formatDepositTypeLabel } from '../lib/formatGeology.js'
+import NodeTypeIcon from '../components/NodeTypeIcon.jsx'
 import './MapPage.css'
 
 const CHAIN_TYPE_VISIBLE = {
@@ -28,8 +30,6 @@ export default function ChainPage() {
   const [graph, setGraph]     = useState(null)
   const [err, setErr]         = useState(null)
   const [selected, setSelected] = useState(null)
-  const [showInferred, setShowInferred] = useState(true)
-
   useEffect(() => {
     loadSupplyChain({ patchMissing: false }).then(setGraph).catch(e => setErr(e.message))
   }, [])
@@ -38,10 +38,9 @@ export default function ChainPage() {
     if (!graph) return { chainNodes: [], chainEdges: [], stats: {} }
 
     const edges = graph.edges.filter(e => e.source === 'chain_xlsx')
-    const filtered = showInferred ? edges : edges.filter(e => e.confidence !== 'inferred')
 
     const nodeIds = new Set()
-    for (const e of filtered) {
+    for (const e of edges) {
       nodeIds.add(e.from_id)
       nodeIds.add(e.to_id)
     }
@@ -57,8 +56,8 @@ export default function ChainPage() {
     for (const t of CHAIN_TYPES) st[t] = 0
     for (const n of nodes) st[n.type] = (st[n.type] || 0) + 1
 
-    return { chainNodes: nodes, chainEdges: filtered, stats: st }
-  }, [graph, showInferred])
+    return { chainNodes: nodes, chainEdges: edges, stats: st }
+  }, [graph])
 
   if (err) return (
     <div className="page-v2">
@@ -89,26 +88,13 @@ export default function ChainPage() {
           </div>
         </div>
 
-        <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
-          <div className="chain-confidence-pills">
-            <span className="conf-pill verified">
-              ✓ {verifiedCount} verified
-            </span>
-            <span className="conf-pill inferred" style={{ opacity: showInferred ? 1 : 0.4 }}>
-              ⚠ {inferredCount} inferred
-            </span>
-          </div>
-
-          <button
-            className={`seg ${showInferred ? 'seg-on' : ''}`}
-            data-kind={showInferred ? 'active' : undefined}
-            onClick={() => setShowInferred(v => !v)}
-            title="Toggle Chinese aggregate (inferred) data"
-          >
-            <span className="dot" style={{ background: '#fbbf24' }} />
-            {showInferred ? 'Inferred: ON' : 'Inferred: OFF'}
-          </button>
-
+        <div className="chain-confidence-pills">
+          <span className="conf-pill verified">
+            ✓ {verifiedCount} verified
+          </span>
+          <span className="conf-pill inferred">
+            ⚠ {inferredCount} inferred
+          </span>
         </div>
       </header>
 
@@ -133,7 +119,7 @@ export default function ChainPage() {
             if (!n) return null
             return (
               <div key={key} className="legend-row">
-                <span className="legend-icon" style={{ color: cfg.color }}>{cfg.icon}</span>
+                <span className="legend-icon" style={{ color: cfg.color }}><NodeTypeIcon type={key} /></span>
                 <span>{cfg.label}</span>
                 <span style={{ marginLeft: 'auto', color: 'var(--v2-dim)', fontSize: '0.75rem' }}>{n}</span>
               </div>
@@ -175,8 +161,8 @@ export default function ChainPage() {
             <button className="detail-close" onClick={() => setSelected(null)}>✕</button>
 
             <div className="dv2-title">
-              <span style={{ color: colorForNode(selected), marginRight: 8 }}>
-                {NODE_TYPES[selected.type].icon}
+              <span style={{ color: colorForNode(selected), marginRight: 8, display: 'inline-flex' }}>
+                <NodeTypeIcon type={selected.type} />
               </span>
               {selected.name || selected.id}
             </div>
@@ -197,7 +183,19 @@ export default function ChainPage() {
               {selected.ticker     && <Field k="Ticker"       v={selected.ticker}  />}
               {selected.ownership  && <Field k="Ownership"    v={selected.ownership}    span={2} />}
               {selected.pstatus    && <Field k="Status"       v={selected.pstatus}      span={3} />}
-              {selected.deposit_type && <Field k="Type"       v={selected.deposit_type} span={3} />}
+              {selected.status_code != null && selected.type === 'mine' && (
+                <Field
+                  k="Stage"
+                  v={(() => {
+                    const c = normalizeStatusCode(selected.status_code)
+                    const m = c && NODE_TYPES.project.statuses[c]
+                    return m ? `${c} · ${m.label}` : String(selected.status_code)
+                  })()}
+                />
+              )}
+              {selected.deposit_type && (
+                <Field k="Deposit type" v={formatDepositTypeLabel(selected.deposit_type)} span={3} />
+              )}
               {selected.commodities  && <Field k="Commodities" v={selected.commodities} span={3} />}
               {selected.ree_grade  && <Field k="REE grade"   v={selected.ree_grade}    span={3} />}
               {selected.capacity   && <Field k="Capacity"     v={selected.capacity}     span={3} />}
@@ -258,7 +256,7 @@ function ChainList({ title, edges, byId, fromEnd, onPick }) {
         const n = asDisplay(raw)
         return (
           <button key={e.id} className="chain-row" onClick={() => onPick(n)}>
-            <span style={{ color: colorForNode(n) }}>{NODE_TYPES[n.type]?.icon}</span>
+            <NodeTypeIcon type={n.type} style={{ color: colorForNode(n) }} />
             <span className="chain-name">{n.name}</span>
             <span className="chain-mat" style={{ color: MATERIAL_COLORS[e.material] || '#9ca3af' }}>
               {e.material}

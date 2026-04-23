@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Recycling facilities — Map</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <script src="https://cdn.sheetjs.com/xlsx-0.20.1/package/dist/xlsx.full.min.js"></script>
+  <style>
+    .map-canvas { position: absolute; inset: 0; }
+    .map-btn {
+      pointer-events: auto; border-radius: 0.5rem; border: 1px solid rgb(226 232 240);
+      background: rgba(255,255,255,0.96); padding: 0.45rem 0.7rem; font-size: 0.75rem; font-weight: 600;
+      color: rgb(51 65 85); box-shadow: 0 1px 2px rgb(0 0 0 / 0.06);
+    }
+    .map-btn:hover { background: #fff; }
+    .map-btn-on { border-color: rgb(165 180 252); background: rgb(238 242 255); color: rgb(30 64 175); }
+  </style>
+</head>
+<body class="h-screen min-h-0 flex flex-col bg-slate-100 text-slate-900">
+  <header class="z-20 flex flex-shrink-0 flex-wrap items-center gap-3 border-b border-slate-200/80 bg-white/90 px-4 py-2.5 shadow-sm backdrop-blur">
+    <h1 class="text-sm font-bold tracking-tight text-slate-800">WEEE · Recycling facilities</h1>
+    <nav class="flex gap-1 rounded-lg bg-slate-100/90 p-0.5" id="tabBar" role="tablist" aria-label="View">
+      <button type="button" id="tabOverview" class="tab-btn rounded-md px-3 py-1.5 text-xs font-semibold" role="tab" aria-selected="true">Overview</button>
+      <button type="button" id="tabTypes" class="tab-btn rounded-md px-3 py-1.5 text-xs font-medium text-slate-500" role="tab" aria-selected="false">Facility types</button>
+    </nav>
+    <label class="flex cursor-pointer items-center gap-2 text-xs text-slate-500">
+      <input type="file" accept=".xlsx,.xls" class="text-xs" id="fileInput" />
+      <span>Load <code class="rounded bg-slate-100 px-1">.xlsx</code></span>
+    </label>
+    <p class="ml-auto min-w-0 text-right text-xs text-slate-500" id="statusLine">Load default or choose file…</p>
+  </header>
+
+  <div class="relative min-h-0 flex-1">
+    <div id="map" class="map-canvas bg-slate-200"></div>
+    <div class="pointer-events-none absolute left-3 top-3 z-10 flex flex-col gap-2">
+      <div class="pointer-events-auto flex rounded-lg border border-slate-200/90 bg-white/95 shadow backdrop-blur" title="2D: Mercator · 3D: globe (labels from OpenStreetMap)">
+        <button type="button" id="btn2d" class="map-btn map-btn-on rounded-l-lg rounded-r-none border-0">2D</button>
+        <button type="button" id="btn3d" class="map-btn rounded-l-none rounded-r-lg border-0">3D</button>
+      </div>
+    </div>
+    <div id="legend" class="pointer-events-none absolute bottom-3 right-3 z-10 max-w-xs rounded-lg border border-slate-200/90 bg-white/95 p-3 text-xs shadow backdrop-blur">
+      <div class="mb-1 font-bold text-slate-700" id="legendTitle">All facilities</div>
+      <ul id="legendList" class="space-y-1.5 text-slate-600">
+        <li class="flex items-center gap-2"><span class="h-2.5 w-2.5 flex-shrink-0 rounded-full" style="background:#2563eb"></span> Active sites</li>
+      </ul>
+    </div>
+  </div>
+
+  <script>
+(function () {
+  'use strict';
+
+  var EU_VIEW = { center: [10.5, 50.2], zoom: 4.15, pitch: 0, bearing: 0 };
+  var GLOBE_VIEW = { center: [10.5, 48], zoom: 2.1, pitch: 55, bearing: 0 };
+  var STYLE = 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json';
+
+  var TYPE_COLORS = {
+    'Hydrometallurgy': '#2563eb',
+    'Mixed refining': '#16a34a',
+    'Pyrometallurgy': '#dc2626',
+    'Other': '#6b7280',
+  };
+  var OVERVIEW_COLOR = '#1d4ed8';
+
+  var COUNTRY_CENTROIDS = {
+    'GERMANY': [10.45, 51.16],
+    'FRANCE': [2.21, 46.22],
+    'NETHERLANDS': [5.29, 52.13],
+    'BELGIUM': [4.47, 50.5],
+    'LITHUANIA': [23.9, 55.17],
+    'CZECH REPUBLIC': [15.47, 49.8],
+    'PORTUGAL': [-8.22, 39.4],
+    'GREECE': [21.82, 39.07],
+    'UNITED KINGDOM': [-2.2, 54.0],
+    'SPAIN': [-3.75, 40.46],
+    'ROMANIA': [24.97, 45.86],
+    'IRELAND': [-8.24, 53.35],
+    'SWEDEN': [18.64, 60.13],
+    'SWITZERLAND': [8.23, 46.8],
+    'HUNGARY': [19.5, 47.16],
+    'POLAND': [19.15, 51.92],
+    'SLOVENIA': [14.99, 46.15],
+    'ITALY': [12.57, 42.5],
+    'FINLAND': [25.75, 61.92],
+    'SLOVAKIA': [19.7, 48.67],
+    'BULGARIA': [25.49, 42.73],
+    'NORTH AMERICA': [-98.0, 39.0],
+  };
+
+  var MODE = '2d';
+  var ACTIVE_TAB = 'overview';
+  var map;
+  var geoCache = loadCache();
+  var rows = [];
+  var features = [];
+
+  function loadCache() {
+    try {
+      return JSON.parse(localStorage.getItem('recyclingGeoCacheV1') || '{}') || {};
+    } catch (e) {
+      return {};
+    }
+  }
+  function saveCache() {
+    try {
+      localStorage.setItem('recyclingGeoCacheV1', JSON.stringify(geoCache));
+    } catch (e) { /* quota */ }
+  }
+
+  function hashCode(s) {
+    var h = 0;
+    for (var i = 0; i < s.length; i++) h = (Math.imul(31, h) + s.charCodeAt(i)) | 0;
+    return Math.abs(h);
+  }
+
+  function jitterLonLat(key, lon, lat) {
+    var h = hashCode(key);
+    return [
+      lon + ((h % 200) - 100) * 0.0008,
+      lat + ((Math.floor(h / 200) % 200) - 100) * 0.0008,
+    ];
+  }
+
+  function escapeHtml(s) {
+    if (s == null) return '';
+    return String(s)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function normalizeType(raw) {
+    var s = String(raw || '').trim();
+    var l = s.toLowerCase();
+    if (l === 'hydrometallurgy') return 'Hydrometallurgy';
+    if (l === 'pyrometallurgy') return 'Pyrometallurgy';
+    if (l === 'mixed refining' || l.indexOf('mixed (pyro') !== -1 || l === 'mixed (pyro + hydrometallurgy)') {
+      return 'Mixed refining';
+    }
+    if (l.indexOf('pyrometallurgy') !== -1 && l.indexOf('hydro') !== -1) return 'Mixed refining';
+    if (l.indexOf('hydrometallurgy') !== -1) return 'Hydrometallurgy';
+    if (l.indexOf('pyrometallurgy') !== -1) return 'Pyrometallurgy';
+    return 'Other';
+  }
+
+  function photonQuery(city, country) {
+    var q = (city + ', ' + country).replace(/\s+/g, ' ').trim();
+    return 'https://photon.komoot.io/api/?q=' + encodeURIComponent(q) + '&limit=1&lang=en';
+  }
+
+  function nominatimQuery(city, country) {
+    var q = (city + ', ' + country).replace(/\s+/g, ' ').trim();
+    return 'https://nominatim.openstreetmap.org/search?format=json&limit=1&q=' + encodeURIComponent(q);
+  }
+
+  function delay(ms) {
+    return new Promise(function (r) { setTimeout(r, ms); });
+  }
+
+  async function geocodeKey(key, city, country) {
+    if (geoCache[key]) return geoCache[key];
+    var lon, lat, ok = false;
+    try {
+      var r = await fetch(photonQuery(city, country), { headers: { Accept: 'application/json' } });
+      if (r.ok) {
+        var d = await r.json();
+        if (d.features && d.features[0] && d.features[0].geometry) {
+          var c = d.features[0].geometry.coordinates;
+          lon = c[0];
+          lat = c[1];
+          ok = true;
+        }
+      }
+    } catch (e) { /* try nominatim */ }
+    if (!ok) {
+      await delay(1100);
+      try {
+        var r2 = await fetch(nominatimQuery(city, country), {
+          headers: { 'Accept-Language': 'en' },
+        });
+        if (r2.ok) {
+          var arr = await r2.json();
+          if (arr && arr[0]) {
+            lon = parseFloat(String(arr[0].lon), 10);
+            lat = parseFloat(String(arr[0].lat), 10);
+            ok = !isNaN(lon) && !isNaN(lat);
+          }
+        }
+      } catch (e2) { /* fallback */ }
+    }
+    if (!ok) {
+      var C = (country || '').toUpperCase().trim();
+      var cc = COUNTRY_CENTROIDS[C] || [10, 50];
+      var jj = jitterLonLat(key, cc[0], cc[1]);
+      lon = jj[0];
+      lat = jj[1];
+    }
+    geoCache[key] = [lon, lat];
+    return [lon, lat];
+  }
+
+  function parseXlsxArrayBuffer(buf) {
+    var wb = XLSX.read(buf, { type: 'array' });
+    var sh = wb.Sheets[wb.SheetNames[0]];
+    return XLSX.utils.sheet_to_json(sh, { defval: '' });
+  }
+
+  function buildRows(json) {
+    return json
+      .map(function (r, i) {
+        return {
+          id: i,
+          operator: (r['Operator'] != null ? r['Operator'] : r.operator) || '—',
+          type: (r['Type'] != null ? r['Type'] : r.type) || '—',
+          country: (r['Country'] != null ? r['Country'] : r.country) || '—',
+          city: (r['City'] != null ? r['City'] : r.city) || '—',
+          details: (r['Details'] != null ? r['Details'] : r.details) || '—',
+          normalized: normalizeType((r['Type'] != null ? r['Type'] : r.type) || ''),
+        };
+      })
+      .filter(function (r) { return r.operator !== '—' || r.city !== '—'; });
+  }
+
+  async function geocodeAll(onProgress) {
+    var keySet = {};
+    var keys = [];
+    rows.forEach(function (row) {
+      var k = (row.city + '|' + row.country).trim();
+      if (!keySet[k]) {
+        keySet[k] = true;
+        keys.push({ key: k, city: row.city, country: row.country });
+      }
+    });
+    var n = 0;
+    var sinceSave = 0;
+    for (var i = 0; i < keys.length; i++) {
+      var it = keys[i];
+      if (!geoCache[it.key]) {
+        await geocodeKey(it.key, it.city, it.country);
+        n++;
+        sinceSave++;
+        if (sinceSave >= 20) {
+          saveCache();
+          sinceSave = 0;
+        }
+        onProgress && onProgress(i + 1, keys.length, n);
+        await delay(200);
+      } else {
+        onProgress && onProgress(i + 1, keys.length, n);
+      }
+    }
+    saveCache();
+  }
+
+  function buildFeatures() {
+    features = rows.map(function (row) {
+      var k = (row.city + '|' + row.country).trim();
+      var c = geoCache[k] || COUNTRY_CENTROIDS[(row.country || '').toUpperCase().trim()] || [10, 50];
+      var ll = Array.isArray(c) ? c : c;
+      return {
+        type: 'Feature',
+        id: row.id,
+        properties: {
+          id: row.id,
+          operator: row.operator,
+          country: row.country,
+          city: row.city,
+          details: row.details,
+          typeRaw: row.type,
+          normalized: row.normalized,
+          wlx: '—',
+          expiry: '—',
+        },
+        geometry: { type: 'Point', coordinates: [ll[0], ll[1]] },
+      };
+    });
+  }
+
+  function updateLegend() {
+    var title = document.getElementById('legendTitle');
+    var list = document.getElementById('legendList');
+    if (ACTIVE_TAB === 'overview') {
+      title.textContent = 'All facilities';
+      list.innerHTML =
+        '<li class="flex items-center gap-2"><span class="h-2.5 w-2.5 flex-shrink-0 rounded-full" style="background:' +
+        OVERVIEW_COLOR +
+        '"></span> Certified / registered sites (overview)</li>';
+    } else {
+      title.textContent = 'By normalized type';
+      list.innerHTML = [
+        { k: 'Hydrometallurgy', c: TYPE_COLORS['Hydrometallurgy'] },
+        { k: 'Mixed refining', c: TYPE_COLORS['Mixed refining'] },
+        { k: 'Pyrometallurgy', c: TYPE_COLORS['Pyrometallurgy'] },
+        { k: 'Other', c: TYPE_COLORS['Other'] },
+      ]
+        .map(function (x) {
+          return (
+            '<li class="flex items-center gap-2"><span class="h-2.5 w-2.5 flex-shrink-0 rounded-full" style="background:' +
+            x.c +
+            '"></span> ' +
+            escapeHtml(x.k) +
+            '</li>'
+          );
+        })
+        .join('');
+    }
+  }
+
+  function applyLayerPaint() {
+    if (!map.getLayer('rec-dots')) return;
+    if (ACTIVE_TAB === 'overview') {
+      map.setPaintProperty('rec-dots', 'circle-color', OVERVIEW_COLOR);
+    } else {
+      map.setPaintProperty('rec-dots', 'circle-color', [
+        'match',
+        ['get', 'normalized'],
+        'Hydrometallurgy',
+        TYPE_COLORS['Hydrometallurgy'],
+        'Mixed refining',
+        TYPE_COLORS['Mixed refining'],
+        'Pyrometallurgy',
+        TYPE_COLORS['Pyrometallurgy'],
+        TYPE_COLORS['Other'],
+      ]);
+    }
+  }
+
+  function fitData() {
+    if (!map || !features.length) {
+      map.jumpTo(EU_VIEW);
+      return;
+    }
+    var b = { minLng: 180, minLat: 90, maxLng: -180, maxLat: -90 };
+    features.forEach(function (f) {
+      var c = f.geometry.coordinates;
+      b.minLng = Math.min(b.minLng, c[0]);
+      b.maxLng = Math.max(b.maxLng, c[0]);
+      b.minLat = Math.min(b.minLat, c[1]);
+      b.maxLat = Math.max(b.maxLat, c[1]);
+    });
+    map.fitBounds(
+      [
+        [b.minLng, b.minLat],
+        [b.maxLng, b.maxLat],
+      ],
+      { padding: 56, maxZoom: 8, duration: 800 }
+    );
+  }
+
+  function wirePopup() {
+    map.on('click', 'rec-dots', function (e) {
+      if (!e.features || !e.features[0]) return;
+      var p = e.features[0].properties;
+      var html =
+        '<div class="max-w-sm text-slate-800">' +
+        '<div class="border-b border-slate-200 pb-2 text-base font-bold leading-snug">' +
+        escapeHtml(p.operator) +
+        '</div>' +
+        '<dl class="mt-2 space-y-1.5 text-sm">' +
+        rowKV('Country', p.country) +
+        rowKV('City', p.city) +
+        rowKV('WLX certification', p.wlx) +
+        rowKV('Details', p.details) +
+        rowKV('Expiry date', p.expiry) +
+        (ACTIVE_TAB === 'types' ? rowKV('Normalized type', p.normalized) : '') +
+        '</dl>' +
+        '<p class="mt-2 text-[10px] leading-tight text-slate-500">WLX and expiry are not in the Excel file; values show —. Type column is mapped to the legend categories.</p>' +
+        '</div>';
+      new maplibregl.Popup({ maxWidth: '320px' })
+        .setLngLat(e.features[0].geometry.coordinates)
+        .setHTML(html)
+        .addTo(map);
+    });
+    map.on('mouseenter', 'rec-dots', function () { map.getCanvas().style.cursor = 'pointer'; });
+    map.on('mouseleave', 'rec-dots', function () { map.getCanvas().style.cursor = ''; });
+  }
+
+  function rowKV(k, v) {
+    return (
+      '<div><dt class="inline text-slate-500">' +
+      escapeHtml(k) +
+      ': </dt><dd class="inline text-slate-800">' +
+      escapeHtml(String(v)) +
+      '</dd></div>'
+    );
+  }
+
+  function setTab(which) {
+    ACTIVE_TAB = which;
+    var o = document.getElementById('tabOverview');
+    var t = document.getElementById('tabTypes');
+    if (which === 'overview') {
+      o.setAttribute('aria-selected', 'true');
+      t.setAttribute('aria-selected', 'false');
+      o.className = 'tab-btn rounded-md px-3 py-1.5 text-xs font-semibold bg-white shadow-sm text-slate-800';
+      t.className = 'tab-btn rounded-md px-3 py-1.5 text-xs font-medium text-slate-500';
+    } else {
+      t.setAttribute('aria-selected', 'true');
+      o.setAttribute('aria-selected', 'false');
+      t.className = 'tab-btn rounded-md px-3 py-1.5 text-xs font-semibold bg-white shadow-sm text-slate-800';
+      o.className = 'tab-btn rounded-md px-3 py-1.5 text-xs font-medium text-slate-500';
+    }
+    updateLegend();
+    applyLayerPaint();
+  }
+
+  function setProjection2d3d() {
+    var isGlobe = MODE === '3d';
+    try {
+      map.setProjection({ type: isGlobe ? 'globe' : 'mercator' });
+    } catch (e) {}
+    try {
+      map.setMaxPitch(isGlobe ? 80 : 0);
+    } catch (e) {}
+    if (isGlobe) {
+      map.easeTo({ center: GLOBE_VIEW.center, zoom: GLOBE_VIEW.zoom, pitch: GLOBE_VIEW.pitch, bearing: GLOBE_VIEW.bearing, duration: 800 });
+    } else {
+      map.easeTo({ pitch: 0, bearing: 0, duration: 500 });
+    }
+  }
+
+  function initMap() {
+    map = new maplibregl.Map({
+      container: 'map',
+      style: STYLE,
+      center: EU_VIEW.center,
+      zoom: EU_VIEW.zoom,
+      pitch: 0,
+      bearing: 0,
+      attributionControl: { compact: true },
+    });
+    map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), 'top-right');
+    map.on('load', function () {
+      try {
+        map.setFog({
+          'color': 'rgb(255, 255, 255)',
+          'high-color': 'rgb(200, 220, 255)',
+          'horizon-blend': 0.1,
+        });
+      } catch (e) {}
+      map.addSource('rec', {
+        type: 'geojson',
+        data: { type: 'FeatureCollection', features: [] },
+      });
+      map.addLayer({
+        id: 'rec-dots',
+        type: 'circle',
+        source: 'rec',
+        paint: {
+          'circle-radius': 6,
+          'circle-color': OVERVIEW_COLOR,
+          'circle-stroke-width': 1.2,
+          'circle-stroke-color': '#ffffff',
+          'circle-opacity': 0.92,
+        },
+      });
+      wirePopup();
+      fetch('recycling_facilities_cleaned.xlsx')
+        .then(function (r) { return r.arrayBuffer(); })
+        .then(function (buf) { return processBuffer(new Uint8Array(buf)); })
+        .catch(function () {
+          setStatus('Default file not found — use the file input to load recycling_facilities_cleaned.xlsx');
+        });
+    });
+  }
+
+  function setDataSource() {
+    if (!map.getSource('rec')) return;
+    map.getSource('rec').setData({ type: 'FeatureCollection', features: features });
+    applyLayerPaint();
+    setTimeout(fitData, 50);
+  }
+
+  document.getElementById('tabOverview').addEventListener('click', function () { setTab('overview'); });
+  document.getElementById('tabTypes').addEventListener('click', function () { setTab('types'); });
+  document.getElementById('btn2d').addEventListener('click', function () {
+    MODE = '2d';
+    document.getElementById('btn2d').className = 'map-btn map-btn-on rounded-l-lg rounded-r-none border-0';
+    document.getElementById('btn3d').className = 'map-btn rounded-l-none rounded-r-lg border-0';
+    setProjection2d3d();
+  });
+  document.getElementById('btn3d').addEventListener('click', function () {
+    MODE = '3d';
+    document.getElementById('btn3d').className = 'map-btn map-btn-on rounded-l-none rounded-r-lg border-0';
+    document.getElementById('btn2d').className = 'map-btn rounded-l-lg rounded-r-none border-0';
+    setProjection2d3d();
+  });
+
+  var statusLine = document.getElementById('statusLine');
+  function setStatus(s) { statusLine.textContent = s; }
+
+  async function processBuffer(buf, attempt) {
+    attempt = attempt || 0;
+    if (!map || !map.getSource('rec')) {
+      if (attempt > 100) {
+        setStatus('Map not ready — refresh the page.');
+        return;
+      }
+      setTimeout(function () { processBuffer(buf, attempt + 1); }, 120);
+      return;
+    }
+    rows = buildRows(parseXlsxArrayBuffer(buf));
+    if (!rows.length) {
+      setStatus('No rows found.');
+      return;
+    }
+    setStatus('Geocoding ' + rows.length + ' rows (address keys cached)…');
+    await geocodeAll(function (a, t, n) {
+      if (a % 15 === 0) setStatus('Geocode keys: ' + a + '/' + t + ' (new: ' + n + ')');
+    });
+    buildFeatures();
+    setDataSource();
+    setStatus(rows.length + ' facilities · ' + features.length + ' points');
+  }
+
+  document.getElementById('fileInput').addEventListener('change', function (e) {
+    var f = e.target.files && e.target.files[0];
+    if (!f) return;
+    var r = new FileReader();
+    r.onload = function () { processBuffer(new Uint8Array(r.result)); };
+    r.readAsArrayBuffer(f);
+  });
+
+  initMap();
+  updateLegend();
+})();
+  </script>
+</body>
+</html>

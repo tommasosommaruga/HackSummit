@@ -1,10 +1,10 @@
 import './AppNav.css'
 
 const NAV_ITEMS = [
-  { id: 'map',     icon: '⛏',  label: 'Mines & Refineries' },
+  { id: 'map',     icon: '⛏',  label: 'Product search' },
   { id: 'chain',   icon: '⛓',  label: 'Supply Chain' },
+  { id: 'recycling', icon: '♻',  label: 'Recycling' },
   { id: 'scoring', icon: '◈',   label: 'Risk Scoring' },
-  { id: 'trust',   icon: '◎',   label: 'Trust Score' },
   { id: 'audit',   icon: '🔍',  label: 'Audit Dashboard' },
 ]
 

@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react'
 import { SIGNALS, PRESETS, CATEGORIES, COUNTRIES, COUNTRY_INTEL, MASS_BALANCE, GLOBAL_STATS } from '../data/scoring.js'
+import './MapPage.css'
 import './ScoringPage.css'
 
 function sigEffect(sig, triggerP) { return triggerP * sig.severity * sig.confidence * (1 - sig.deniability) }

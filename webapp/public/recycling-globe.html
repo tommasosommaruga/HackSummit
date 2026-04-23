@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>WLX recycling facilities — Europe (MapLibre globe)</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.6.0/dist/maplibre-gl.css" />
+  <style>
+    html, body { height: 100%; margin: 0; }
+    #map { position: absolute; inset: 0; }
+    .maplibregl-popup-content { max-width: 22rem; padding: 0.75rem 1rem; }
+  </style>
+</head>
+<body class="bg-black text-slate-100 antialiased">
+  <div class="flex flex-col h-screen">
+    <header class="shrink-0 z-20 border-b border-slate-800 bg-slate-950/95 px-4 py-3 shadow-lg">
+      <div class="flex flex-wrap items-center justify-between gap-3 max-w-7xl mx-auto">
+        <div>
+          <h1 class="text-lg font-semibold text-white tracking-tight">Recycling facilities (WLX)</h1>
+          <p class="text-xs text-slate-400 mt-0.5">
+            Data: <code class="text-indigo-300">data/recycling_facilities_cleaned.xlsx</code> · Geocoding: OpenStreetMap Nominatim (1 req/s, cached in browser)
+          </p>
+        </div>
+        <div class="flex flex-wrap items-center gap-2 text-sm">
+          <label class="flex items-center gap-2 text-slate-300">
+            <span class="sr-only">Load file</span>
+            <input type="file" accept=".xlsx,.xls" id="file-input" class="text-xs file:mr-2 file:rounded file:border-0 file:bg-slate-800 file:px-2 file:py-1 file:text-slate-200" />
+          </label>
+          <button type="button" id="btn-reload" class="rounded-lg bg-indigo-600 px-3 py-1.5 text-sm font-medium text-white hover:bg-indigo-500">
+            Reload default XLSX
+          </button>
+        </div>
+      </div>
+      <div id="status-bar" class="mt-2 text-xs text-slate-400 max-w-7xl mx-auto">
+        Initializing…
+      </div>
+      <div class="mt-2 h-1.5 w-full max-w-7xl mx-auto rounded-full bg-slate-800 overflow-hidden">
+        <div id="progress" class="h-full w-0 bg-indigo-500 transition-[width] duration-300"></div>
+      </div>
+    </header>
+    <div class="relative flex-1 min-h-0">
+      <div id="map" class="w-full h-full" aria-label="Europe globe map"></div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/maplibre-gl@5.6.0/dist/maplibre-gl.js"></script>
+  <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+  <script>
+(function () {
+  const DEFAULT_XLSX = new URL("data/recycling_facilities_cleaned.xlsx", window.location.href).href;
+  const NOMINATIM = "https://nominatim.openstreetmap.org/search";
+  const UA = "HackSummit-RecyclingGlobe/1.0 (EPFL; recycling facilities map)";
+  const CACHE_KEY = "nominatim_recycling_geo_v1";
+  const EUROPE_BOUNDS = [
+    [-12, 34],
+    [42, 72],
+  ];
+  /** Center & zoom focused on Europe */
+  const EUROPE_VIEW = {
+    center: [12, 52],
+    zoom: 4.2,
+    pitch: 0,
+    bearing: 0,
+  };
+
+  const TYPE_COLORS = {
+    "advanced treatment": "#a855f7",
+    "collection": "#06b6d4",
+    "logistics": "#22d3ee",
+    "preprocessing": "#f97316",
+    "mechanical": "#eab308",
+    "refining": "#ef4444",
+    "smelting": "#f43f5e",
+    "other": "#64748b",
+  };
+
+  function hashHue(str) {
+    let h = 0;
+    const s = String(str || "x");
+    for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0;
+    return h % 360;
+  }
+
+  function colorForNormalizedType(t) {
+    const low = (t || "").toLowerCase();
+    for (const [k, c] of Object.entries(TYPE_COLORS)) {
+      if (low.includes(k)) return c;
+    }
+    const hue = hashHue(t);
+    return `hsl(${hue}, 62%, 52%)`;
+  }
+
+  function strokeForWlx(wlx) {
+    const s = String(wlx || "").toLowerCase();
+    if (s.includes("euro") || s.includes("b2101")) return "#fbbf24";
+    if (s.includes("lha") || s.includes("sha") || s.includes("fpd")) return "#34d399";
+    return "#1e293b";
+  }
+
+  function loadCache() {
+    try {
+      return JSON.parse(localStorage.getItem(CACHE_KEY) || "{}");
+    } catch {
+      return {};
+    }
+  }
+  function saveCache(c) {
+    try {
+      localStorage.setItem(CACHE_KEY, JSON.stringify(c));
+    } catch { /* quota */ }
+  }
+
+  let geocodeCache = loadCache();
+
+  function geocodingQuery(row) {
+    const city = String(row["City"] || "").trim();
+    const country = String(row["Country"] || "").trim();
+    if (city && country) return city + ", " + country;
+    if (city) return city;
+    if (country) return country;
+    return null;
+  }
+
+  async function nominatimSearch(query) {
+    if (!query) return null;
+    if (geocodeCache[query]) {
+      const c = geocodeCache[query];
+      if (c == null) return null;
+      return { lat: c[0], lon: c[1] };
+    }
+    const url =
+      NOMINATIM +
+      "?" +
+      new URLSearchParams({
+        q: query,
+        format: "json",
+        limit: "1",
+        "accept-language": "en",
+      });
+    const res = await fetch(url, { headers: { "User-Agent": UA, "Accept-Language": "en" } });
+    if (!res.ok) throw new Error("Nominatim HTTP " + res.status);
+    const data = await res.json();
+    if (!data || !data.length) {
+      geocodeCache[query] = null;
+      saveCache(geocodeCache);
+      return null;
+    }
+    const lat = parseFloat(data[0].lat);
+    const lon = parseFloat(data[0].lon);
+    geocodeCache[query] = [lat, lon];
+    saveCache(geocodeCache);
+    return { lat, lon };
+  }
+
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+  function inEurope(lon, lat) {
+    return lon >= EUROPE_BOUNDS[0][0] && lon <= EUROPE_BOUNDS[1][0] && lat >= EUROPE_BOUNDS[0][1] && lat <= EUROPE_BOUNDS[1][1];
+  }
+
+  function setStatus(t) {
+    const el = document.getElementById("status-bar");
+    if (el) el.textContent = t;
+  }
+  function setProgress(p) {
+    const el = document.getElementById("progress");
+    if (el) el.style.width = Math.min(100, Math.max(0, p)) + "%";
+  }
+
+  function escapeHtml(s) {
+    return String(s == null ? "" : s)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+
+  function rowToProperties(row) {
+    const op = row["Operator"] || "";
+    const norm = row["Normalized Type"] || "";
+    const wlx = row["WLX Certification"] || "";
+    return {
+      title: op,
+      subtitle: norm,
+      file_code: row["File code"] || "",
+      country: row["Country"] || "",
+      address: row["City"] || "",
+      streams: row["Streams"] || "",
+      wlx: wlx,
+      details: row["Details"] || "",
+      listing: row["Listing Date"] || "",
+      expiry: row["Expiry Date"] || "",
+      color: colorForNormalizedType(norm),
+      stroke: strokeForWlx(wlx),
+    };
+  }
+
+  function popupHtml(p) {
+    return (
+      '<div class="text-slate-800 text-sm space-y-2">' +
+      '<div class="font-semibold text-base leading-snug">' +
+      escapeHtml(p.title) +
+      "</div>" +
+      '<p class="text-slate-500 text-xs">' +
+      escapeHtml(p.subtitle) +
+      " · " +
+      escapeHtml(p.country) +
+      "</p>" +
+      '<p class="text-xs text-slate-600">' +
+      escapeHtml(p.address) +
+      "</p>" +
+      "<hr class=\"border-slate-200\" />" +
+      "<dl class=\"text-xs space-y-1.5\">" +
+      "<dt class=\"text-slate-500 font-medium\">WLX certification</dt><dd class=\"text-slate-800\">" +
+      escapeHtml(p.wlx) +
+      "</dd>" +
+      "<dt class=\"text-slate-500 font-medium\">Details</dt><dd class=\"text-slate-700 whitespace-pre-wrap\">" +
+      escapeHtml(p.details) +
+      "</dd>" +
+      "<dt class=\"text-slate-500 font-medium\">Expiry date</dt><dd class=\"text-slate-800\">" +
+      escapeHtml(p.expiry) +
+      "</dd>" +
+      "</dl></div>"
+    );
+  }
+
+  const map = new maplibregl.Map({
+    container: "map",
+    style: "https://tiles.openfreemap.org/styles/dark",
+    center: EUROPE_VIEW.center,
+    zoom: EUROPE_VIEW.zoom,
+    minZoom: 3,
+    maxZoom: 18,
+    maxPitch: 85,
+    pitch: EUROPE_VIEW.pitch,
+    bearing: EUROPE_VIEW.bearing,
+    maxBounds: EUROPE_BOUNDS,
+    attributionControl: { compact: true },
+  });
+
+  map.addControl(
+    new maplibregl.NavigationControl({ visualizePitch: true }),
+    "top-right"
+  );
+  map.addControl(new maplibregl.GlobeControl(), "top-right");
+
+  function applyGlobeAndSky() {
+    try {
+      map.setProjection({ type: "globe" });
+    } catch (e) {
+      console.warn(e);
+    }
+    map.setSky({
+      "sky-color": "#000000",
+      "horizon-color": "#0a0a12",
+      "fog-color": "#000000",
+      "sky-horizon-blend": 0.45,
+      "horizon-fog-blend": 0.35,
+      "fog-ground-blend": 0.08,
+      "star-intensity": 0.5,
+    });
+  }
+
+  function addOrUpdateSource(fc) {
+    if (map.getSource("facilities")) {
+      map.getSource("facilities").setData(fc);
+    } else {
+      map.addSource("facilities", { type: "geojson", data: fc, cluster: true, clusterMaxZoom: 10, clusterRadius: 40 });
+    }
+
+    if (!map.getLayer("clusters")) {
+      map.addLayer({
+        id: "clusters",
+        type: "circle",
+        source: "facilities",
+        filter: ["has", "point_count"],
+        paint: {
+          "circle-color": "rgba(99, 102, 241, 0.65)",
+          "circle-radius": ["step", ["get", "point_count"], 18, 10, 22, 50, 28],
+          "circle-stroke-width": 2,
+          "circle-stroke-color": "#1e1b4b",
+        },
+      });
+      map.addLayer({
+        id: "cluster-count",
+        type: "symbol",
+        source: "facilities",
+        filter: ["has", "point_count"],
+        layout: {
+          "text-field": ["get", "point_count_abbreviated"],
+          "text-size": 12,
+        },
+        paint: { "text-color": "#e0e7ff" },
+      });
+    }
+
+    if (!map.getLayer("unclustered")) {
+      map.addLayer({
+        id: "unclustered",
+        type: "circle",
+        source: "facilities",
+        filter: ["!", ["has", "point_count"]],
+        paint: {
+          "circle-color": ["get", "color"],
+          "circle-radius": 8,
+          "circle-stroke-width": 2,
+          "circle-stroke-color": ["get", "stroke"],
+          "circle-opacity": 0.95,
+        },
+      });
+    }
+  }
+
+  const popup = new maplibregl.Popup({ closeButton: true, closeOnClick: true, maxWidth: "360px" });
+
+  function bindPopupClicks() {
+    map.on("click", "clusters", async (e) => {
+      const f = e.features[0];
+      const clId = f.properties.cluster_id;
+      if (clId == null) return;
+      const src = map.getSource("facilities");
+      try {
+        const z = await src.getClusterExpansionZoom(Number(clId));
+        map.easeTo({ center: f.geometry.coordinates, zoom: z + 0.5, duration: 300 });
+      } catch (err) {
+        console.warn(err);
+        map.easeTo({ center: f.geometry.coordinates, zoom: map.getZoom() + 1, duration: 300 });
+      }
+    });
+    map.on("click", "unclustered", (e) => {
+      const f = e.features[0];
+      const p = f.properties;
+      const html = popupHtml(p);
+      popup.setLngLat(e.lngLat).setHTML(html).addTo(map);
+    });
+    map.on("mouseenter", "unclustered", () => (map.getCanvas().style.cursor = "pointer"));
+    map.on("mouseleave", "unclustered", () => (map.getCanvas().style.cursor = ""));
+    map.on("mouseenter", "clusters", () => (map.getCanvas().style.cursor = "pointer"));
+    map.on("mouseleave", "clusters", () => (map.getCanvas().style.cursor = ""));
+  }
+  let popupBound = false;
+
+  /**
+   * Parse XLSX ArrayBuffer, build GeoJSON, geocode each row.
+   */
+  async function loadFromArrayBuffer(ab, { limit } = {}) {
+    const wb = XLSX.read(ab, { type: "array" });
+    const name = wb.SheetNames[0];
+    const sheet = wb.Sheets[name];
+    const rows = XLSX.utils.sheet_to_json(sheet, { defval: "" });
+    setStatus("Parsed " + rows.length + " rows from sheet \"" + name + "\" · Geocoding…");
+
+    const max = limit > 0 ? Math.min(limit, rows.length) : rows.length;
+    const features = [];
+    let fail = 0;
+    for (let i = 0; i < max; i++) {
+      const row = rows[i];
+      const q = geocodingQuery(row);
+      setProgress((i / max) * 100);
+      setStatus("Geocoding " + (i + 1) + " / " + max + (q ? " — " + q.slice(0, 60) + (q.length > 60 ? "…" : "") : ""));
+
+      let coords = null;
+      if (q) {
+        if (!geocodeCache[q]) await sleep(1100);
+        try {
+          const res = await nominatimSearch(q);
+          if (res) coords = [res.lon, res.lat];
+        } catch (err) {
+          console.warn(err);
+        }
+      }
+      if (!coords) {
+        fail++;
+        continue;
+      }
+      if (!inEurope(coords[0], coords[1])) {
+        fail++;
+        continue;
+      }
+      const props = rowToProperties(row);
+      features.push({
+        type: "Feature",
+        id: (row["File code"] || i) + "-" + i,
+        properties: props,
+        geometry: { type: "Point", coordinates: coords },
+      });
+    }
+    setProgress(100);
+    setStatus(
+      "Showing " + features.length + " facilities in Europe bounds." + (fail ? " Skipped: " + fail + " (no geocode or outside Europe)." : "")
+    );
+    return { type: "FeatureCollection", features };
+  }
+
+  let loadToken = 0;
+  async function runLoad(urlOrFile, { limit } = {}) {
+    const token = ++loadToken;
+    setProgress(0);
+    setStatus("Loading spreadsheet…");
+    let ab;
+    if (urlOrFile instanceof File) {
+      ab = await urlOrFile.arrayBuffer();
+    } else {
+      const res = await fetch(urlOrFile);
+      if (!res.ok) throw new Error("Fetch " + res.status);
+      ab = await res.arrayBuffer();
+    }
+    if (token !== loadToken) return;
+    const fc = await loadFromArrayBuffer(ab, { limit });
+    if (token !== loadToken) return;
+    if (!map.getSource("facilities")) {
+      addOrUpdateSource(fc);
+      if (!popupBound) {
+        bindPopupClicks();
+        popupBound = true;
+      }
+    } else {
+      addOrUpdateSource(fc);
+    }
+    if (fc.features.length) {
+      const b = new maplibregl.LngLatBounds();
+      fc.features.forEach((f) => b.extend(f.geometry.coordinates));
+      map.fitBounds(b, { padding: 64, maxZoom: 7, duration: 800, pitch: 0 });
+    }
+  }
+
+  const params = new URLSearchParams(window.location.search);
+  const limitParam = params.get("limit");
+  const limit = limitParam ? parseInt(limitParam, 10) : null;
+
+  map.on("load", () => {
+    applyGlobeAndSky();
+    runLoad(DEFAULT_XLSX, { limit: limit && !isNaN(limit) ? limit : undefined }).catch((e) => {
+      setStatus("Error: " + (e && e.message));
+      console.error(e);
+    });
+  });
+
+  document.getElementById("btn-reload").addEventListener("click", () => {
+    runLoad(DEFAULT_XLSX, { limit: limit && !isNaN(limit) ? limit : undefined }).catch(console.error);
+  });
+  document.getElementById("file-input").addEventListener("change", (e) => {
+    const f = e.target.files && e.target.files[0];
+    if (f) runLoad(f, {}).catch(console.error);
+  });
+})();
+  </script>
+</body>
+</html>

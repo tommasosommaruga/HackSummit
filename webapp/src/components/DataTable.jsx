@@ -5,6 +5,7 @@
  */
 import { useMemo, useState, useRef, useEffect } from 'react'
 import { NODE_TYPES, colorForNode, normalizeStatusCode } from '../lib/nodeTypeConfig.js'
+import NodeTypeIcon from './NodeTypeIcon.jsx'
 
 const ROW_HEIGHT = 40
 
@@ -21,6 +22,14 @@ const COLUMNS = [
 ]
 
 function statusLabel(n) {
+  if (n.type === 'mine') {
+    if (n.pstatus) return String(n.pstatus)
+    if (n.status_code != null) {
+      const code = normalizeStatusCode(n.status_code)
+      const m = code && NODE_TYPES.project.statuses[code]
+      return m ? `${code} · ${m.label}` : String(n.status_code)
+    }
+  }
   const cfg = NODE_TYPES[n.type]
   if (!cfg) return n.status || n.status_code || ''
   if (n.type === 'deposit') {
@@ -157,7 +166,7 @@ export default function DataTable({ rows, onRowClick }) {
                           background: colorForNode(n) + '15',
                         }}
                       >
-                        <span style={{ marginRight: 5 }}>{NODE_TYPES[n.type]?.icon}</span>
+                        <NodeTypeIcon type={n.type} style={{ marginRight: 5 }} />
                         {NODE_TYPES[n.type]?.label || n.type}
                       </span>
                     )}

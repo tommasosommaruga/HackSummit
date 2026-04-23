@@ -1093,11 +1093,31 @@ def _resolve_company_coords(name):
     return None
 
 
+def _header_row_indices(header_row):
+    """Header text → set of column indices (case/whitespace-tolerant)."""
+    idx = {}
+    for i, h in enumerate(header_row):
+        t = clean(h) if h is not None else None
+        if t:
+            idx.setdefault(t.lower().strip(), []).append(i)
+    return idx
+
+
+def _find_col(aliases, header_to_indices):
+    """Return first column index for any name in *aliases* (case-insensitive)."""
+    for name in aliases:
+        key = name.lower().strip()
+        if key in header_to_indices:
+            return header_to_indices[key][0]
+    return None
+
+
 def load_chain_xlsx(path):
     """Load a chain-supply xlsx (refiner/mine/magnet/eem columns). Tolerates
     the two slight schema variants we've seen:
       v1: upstream_company · upstream_asset · upstream_product · magnet_company · oem_company · oem_segment
       v2: refiners         · mines          · refiner product  · magnet_manufacturer · eem_company · eem_segment
+    The Non-Chinese file uses a column like 'mines (objectid for the mine)' for USGS `ID_No` + name text.
     """
     if not path.exists():
         return []
@@ -1106,32 +1126,35 @@ def load_chain_xlsx(path):
     rows = list(ws.iter_rows(values_only=True))
     if not rows:
         return []
-    headers = [clean(h) or '' for h in rows[0]]
+    hmap = _header_row_indices(rows[0])
     # Map both v1 and v2 column names to our canonical keys.
-    aliases = {
-        'region':           ['region'],
-        'mine_name':        ['mines', 'upstream_asset'],
-        'refiner_name':     ['refiners', 'upstream_company'],
-        'upstream_country': ['upstream_country'],
-        'refiner_product':  ['refiner product', 'refiner_product', 'upstream_product'],
-        'magnet_company':   ['magnet_manufacturer', 'magnet_company'],
-        'magnet_country':   ['magnet_country'],
-        'magnet_product':   ['magnet_product'],
-        'oem_company':      ['eem_company', 'oem_company'],
-        'oem_segment':      ['eem_segment', 'oem_segment'],
-        'sources':          ['sources'],
+    col = {
+        'region': _find_col(['region'], hmap),
+        'mine_name': _find_col([
+            'mines (objectid for the mine)',
+            'mines',
+            'upstream_asset',
+        ], hmap),
+        'refiner_name': _find_col(['refiners', 'upstream_company'], hmap),
+        'upstream_country': _find_col(['upstream_country'], hmap),
+        'refiner_product': _find_col(['refiner product', 'refiner_product', 'upstream_product'], hmap),
+        'magnet_company': _find_col(['magnet_manufacturer', 'magnet_company'], hmap),
+        'magnet_country': _find_col(['magnet_country'], hmap),
+        'magnet_product': _find_col(['magnet_product'], hmap),
+        'oem_company': _find_col(['eem_company', 'oem_company'], hmap),
+        'oem_segment': _find_col(['eem_segment', 'oem_segment'], hmap),
+        'sources': _find_col(['sources'], hmap),
+        'usgs_id_no': _find_col(['id_no', 'objectid', 'object_id', 'usgs_id', 'mine_id', 'usgs id', 'id no'], hmap),
     }
-    idx = {}
-    for canonical, names in aliases.items():
-        for n in names:
-            if n in headers:
-                idx[canonical] = headers.index(n)
-                break
     out = []
     for r in rows[1:]:
         if r is None or r[0] is None:
             continue
-        def g(key): return clean(r[idx[key]]) if key in idx else None
+        def g(key):
+            ic = col.get(key)
+            if ic is None:
+                return None
+            return clean(r[ic]) if ic < len(r) else None
         out.append({
             'region':            g('region'),
             'mine_name':         g('mine_name'),
@@ -1144,6 +1167,7 @@ def load_chain_xlsx(path):
             'oem_company':       g('oem_company'),
             'oem_segment':       g('oem_segment'),
             'sources':           g('sources'),
+            'usgs_id_no':        g('usgs_id_no'),
             'source_file':       path.name,
         })
     return out
@@ -1160,6 +1184,42 @@ def _chain_confidence(source_file):
     return 'verified'
 
 
+def _norm_usgs_id_token(v):
+    """First numeric id inside a cell (matches Global_REE `ID_No` in dep_<id>)."""
+    if v is None:
+        return None
+    s = str(v).strip()
+    if s.endswith('.0') and s[:-2].isdigit():
+        s = s[:-2]
+    m = re.search(r'(\d{1,8})', s)
+    return m.group(1) if m else None
+
+
+def _extract_trailing_id_no(text):
+    """E.g. '… separation facility 1343' → '1343' (trailing object id in sheet)."""
+    if not text:
+        return None
+    m = re.search(r'(\d{2,8})\s*$', str(text).strip())
+    return m.group(1) if m else None
+
+
+def build_deposit_id_index(nodes):
+    """{ str(ID_No) : deposit node } for dep_<ID_No> ids (Global_REE_combined / USGS)."""
+    out = {}
+    for n in nodes:
+        if n.get('type') != 'deposit':
+            continue
+        pid = n.get('id') or ''
+        if not (pid.startswith('dep_') and len(pid) > 4):
+            continue
+        tail = pid[4:]
+        out[tail] = n
+        alt = tail.lstrip('0') or '0'
+        if alt != tail:
+            out[alt] = n
+    return out
+
+
 def build_chain_nodes_and_edges(chain_rows, existing_nodes):
     """Turn each chain row into {upstream? → magnet_maker → oems} + edges.
 
@@ -1174,6 +1234,7 @@ def build_chain_nodes_and_edges(chain_rows, existing_nodes):
     files describe aggregate / reputational flows, not facility manifests.
     """
     name_idx = build_name_index(existing_nodes)
+    dep_id_index = build_deposit_id_index(existing_nodes)
     new_nodes = []
     edges = []
     # Dedupe created nodes: same company name across multiple rows → single node.
@@ -1224,6 +1285,8 @@ def build_chain_nodes_and_edges(chain_rows, existing_nodes):
         # Row expresses a 4-stage chain: mines → refiners → magnet makers → OEMs.
         # Mine strings use '+' between sites (e.g. 'Bayan Obo mine + Baotou…').
         mine_list     = _split_companies(r.get('mine_name'), extra_seps=True)
+        if not mine_list and r.get('mine_name'):
+            mine_list = [r.get('mine_name')]
         refiner_list  = _split_companies(r.get('refiner_name'))
         mag_company   = r.get('magnet_company')
         oem_list      = _split_companies(r.get('oem_company'))
@@ -1248,27 +1311,45 @@ def build_chain_nodes_and_edges(chain_rows, existing_nodes):
                           s, flags=re.I).strip()
 
         mine_nodes = []
-        for mc in mine_list:
-            # Try to reuse an existing mine/deposit/project by exact name first.
-            for candidate in (mc, _strip_suffix(mc)):
-                hit = name_idx.get(normalize_name(candidate))
-                if hit and hit['type'] in ('deposit', 'project'):
-                    mine_nodes.append(hit)
-                    break
-            else:
-                hit = None
-            if hit:
+        seen_mine = set()
+
+        def add_mine_node(hit):
+            if not hit or hit['id'] in seen_mine:
+                return
+            seen_mine.add(hit['id'])
+            mine_nodes.append(hit)
+
+        for piece in re.split(r'[;,+]', (r.get('usgs_id_no') or '')):
+            tok = _norm_usgs_id_token(piece)
+            if not tok:
                 continue
-            # Otherwise synthesize a project node from COMPANY_HQ (if known).
-            n = make_or_reuse(mc, 'refinery', r.get('source_file'))
-            # Downgrade synthesized refiner node to 'project' — mines column is
-            # about the extraction site, not a processing plant.
-            if n and n.get('source_file', '').endswith('chain_xlsx') is False:
-                pass  # reused an existing deposit/project; no mutation
-            elif n and n['id'].startswith('chain_ref_'):
-                n['type'] = 'project'
-            if n:
-                mine_nodes.append(n)
+            d = dep_id_index.get(tok)
+            if d:
+                add_mine_node(d)
+
+        for mc in mine_list:
+            hit = None
+            tid = _extract_trailing_id_no(mc)
+            if tid:
+                hit = dep_id_index.get(tid)
+            if not hit and mc:
+                t2 = str(mc).strip()
+                if re.match(r'^\d+\.?\d*\s*$', t2) or t2.isdigit():
+                    t3 = _norm_usgs_id_token(t2)
+                    if t3:
+                        hit = dep_id_index.get(t3)
+            if not hit:
+                for candidate in (mc, _strip_suffix(mc)):
+                    if not candidate:
+                        continue
+                    h2 = name_idx.get(normalize_name(candidate))
+                    if h2 and h2['type'] in ('deposit', 'project'):
+                        hit = h2
+                        break
+            if hit:
+                add_mine_node(hit)
+                continue
+            # No USGS id match and no name match — do not fabricate a plant (removed refinery detour).
 
         oem_nodes = []
         for oc in oem_list:
@@ -1282,13 +1363,17 @@ def build_chain_nodes_and_edges(chain_rows, existing_nodes):
             if not from_node or not to_node or from_node['id'] == to_node['id']:
                 return
             eid += 1
+            ev = f'{r["source_file"]}: {from_node["name"]} → {to_node["name"]}'
+            fid = from_node.get('id', '')
+            if fid.startswith('dep_'):
+                ev += f' (USGS ID_No {fid[4:]})'
             edges.append({
                 'id': f'edge_chain_{direction_tag}_{eid}',
                 'from_id': from_node['id'], 'to_id': to_node['id'],
                 'material': material,
                 'volume_tons_per_year': None, 'year': 2024,
                 'source': 'chain_xlsx',
-                'evidence': f'{r["source_file"]}: {from_node["name"]} → {to_node["name"]}',
+                'evidence': ev,
                 'probable': True,
                 'confidence': confidence,
                 'sources_text': sources,
@@ -1390,6 +1475,12 @@ def run():
     rendered_nodes = [n for n in all_nodes if n.get('geocoded')]
 
     edges = join_edges + factory_edges + china_edges + chain_edges
+
+    id_set = {n['id'] for n in all_nodes}
+    _e0 = len(edges)
+    edges = [e for e in edges if e.get('from_id') in id_set and e.get('to_id') in id_set]
+    if _e0 > len(edges):
+        print(f'  Dropped {_e0 - len(edges)} edge(s) with missing from_id / to_id in all_nodes')
 
     # Strip internal underscore-prefixed fields before serializing.
     for n in all_nodes:

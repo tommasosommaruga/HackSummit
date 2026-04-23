@@ -15,8 +15,13 @@ import Fuse from 'fuse.js'
 import SupplyChainMap from '../components/SupplyChainMap.jsx'
 import DataTable from '../components/DataTable.jsx'
 import { NODE_TYPES, MATERIAL_COLORS, colorForNode, normalizeStatusCode } from '../lib/nodeTypeConfig.js'
+import NodeTypeIcon from '../components/NodeTypeIcon.jsx'
 import { loadSupplyChain, connectedNodeIds } from '../lib/loadSupplyChain.js'
+import { formatDepositTypeLabel } from '../lib/formatGeology.js'
 import './MapPage.css'
+
+const ALL_PROJ_CODES = Object.keys(NODE_TYPES.project.statuses)
+const ALL_REF_CODES = Object.keys(NODE_TYPES.refinery.statuses)
 
 /* ── helpers ─────────────────────────────────────────────────────────────── */
 
@@ -72,29 +77,30 @@ export default function MapPage() {
     loadSupplyChain({ patchMissing: false }).then(setGraph).catch(e => setErr(e.message))
   }, [])
 
-  // ── global filter (top bar) ────────────────────────────────────────────
+  // ── global filter (top bar) — default: everything visible, filters narrow from there ─
   const [assetStatus, setAssetStatus] = useState('all') // 'active' | 'nonprod' | 'all'
   const [view, setView] = useState('map')                  // 'map' | 'table'
-  const [showInferred, setShowInferred] = useState(true)   // Chinese/BULLSHIT data visibility
 
-  // ── node-type visibility ───────────────────────────────────────────────
-  // magnet_maker and oem live in the dedicated Chain view; hide by default here.
+  // ── node-type visibility (all on by default) ─────────────────────────
   const [typeVisible, setTypeVisible] = useState(
-    Object.fromEntries(Object.keys(NODE_TYPES).map(k => [k, !['magnet_maker', 'oem'].includes(k)])),
+    () => Object.fromEntries(Object.keys(NODE_TYPES).map(k => [k, true])),
   )
-
   // ── deep-data local filters ────────────────────────────────────────────
   const [countryFilter,  setCountryFilter]  = useState(new Set())
   const [depTypeFilter,  setDepTypeFilter]  = useState(new Set())
-  const [depStatusFilter, setDepStatusFilter] = useState(new Set(Object.keys(NODE_TYPES.deposit.statuses)))
-  const [projStatusFilter, setProjStatusFilter] = useState(new Set(['4']))
-  const [refStatusFilter, setRefStatusFilter] = useState(new Set(['3', '4', '5']))
+  const [depStatusFilter, setDepStatusFilter] = useState(
+    () => new Set(Object.keys(NODE_TYPES.deposit.statuses)),
+  )
+  const [projStatusFilter, setProjStatusFilter] = useState(() => new Set(ALL_PROJ_CODES))
+  const [refStatusFilter, setRefStatusFilter] = useState(() => new Set(ALL_REF_CODES))
   const [resourceMin, setResourceMin] = useState(0)
   const [search, setSearch] = useState('')
   const [selected, setSelected] = useState(null)
 
   const fuse = useMemo(
-    () => graph ? new Fuse(graph.nodes, { keys: ['name', 'company', 'country'], threshold: 0.3 }) : null,
+    () => graph
+      ? new Fuse(graph.nodes, { keys: ['name', 'company', 'country', 'commodities'], threshold: 0.3 })
+      : null,
     [graph],
   )
   const searchHits = useMemo(
@@ -121,7 +127,6 @@ export default function MapPage() {
 
       if (!typeVisible[n.type]) continue
       if (!n.geocoded && view === 'map') continue
-      if (!showInferred && n.confidence === 'inferred') continue
 
       if (countryFilter.size && (!n.country || !countryFilter.has(n.country))) continue
       if (depTypeFilter.size && (!n.deposit_type || !depTypeFilter.has(n.deposit_type))) continue
@@ -151,7 +156,7 @@ export default function MapPage() {
       stats: statsByType,
     }
   }, [graph, assetStatus, typeVisible, countryFilter, depTypeFilter,
-      depStatusFilter, projStatusFilter, refStatusFilter, resourceMin, view, showInferred])
+      depStatusFilter, projStatusFilter, refStatusFilter, resourceMin, view])
 
   const highlighted = useMemo(() => {
     if (!graph || !selected) return null
@@ -191,13 +196,13 @@ export default function MapPage() {
   }, [assetStatus, typeVisible, countryFilter, depTypeFilter, resourceMin])
 
   const clearAll = () => {
-    setAssetStatus('active')
+    setAssetStatus('all')
     setTypeVisible(Object.fromEntries(Object.keys(NODE_TYPES).map(k => [k, true])))
     setCountryFilter(new Set())
     setDepTypeFilter(new Set())
     setDepStatusFilter(new Set(Object.keys(NODE_TYPES.deposit.statuses)))
-    setProjStatusFilter(new Set(['4']))
-    setRefStatusFilter(new Set(['3', '4', '5']))
+    setProjStatusFilter(new Set(ALL_PROJ_CODES))
+    setRefStatusFilter(new Set(ALL_REF_CODES))
     setResourceMin(0)
   }
 
@@ -243,14 +248,6 @@ export default function MapPage() {
             >{l}</button>
           ))}
         </div>
-
-        <button
-          className={`seg seg-inferred ${showInferred ? 'on' : ''}`}
-          onClick={() => setShowInferred(v => !v)}
-          title="Toggles Chinese aggregate data (the 'BULLSHIT' xlsx) and inferred flows"
-        >
-          <span className="dot" /> {showInferred ? 'Inferred Chinese: ON' : 'Inferred Chinese: OFF'}
-        </button>
 
         <div className="segmented" role="tablist" aria-label="View">
           {[['map','Map'], ['table','Table']].map(([k, l]) => (
@@ -298,7 +295,7 @@ export default function MapPage() {
           <div className="search-box">
             <input
               type="text"
-              placeholder="Search project, company, deposit…"
+              placeholder="Search by product, commodity, name, or country…"
               value={search}
               onChange={e => setSearch(e.target.value)}
             />
@@ -306,7 +303,7 @@ export default function MapPage() {
               <div className="search-hits">
                 {searchHits.map(n => (
                   <div key={n.id} className="search-hit" onClick={() => { setSelected(n); setSearch('') }}>
-                    <span style={{ color: colorForNode(n) }}>{NODE_TYPES[n.type].icon}</span>
+                    <NodeTypeIcon type={n.type} style={{ color: colorForNode(n) }} />
                     <span className="sh-name">{n.name}</span>
                     <span className="sh-country">{n.country || ''}</span>
                   </div>
@@ -315,7 +312,7 @@ export default function MapPage() {
             )}
           </div>
 
-          <Accordion title="Facility type" count={Object.values(stats).reduce((a,b)=>a+b, 0)}>
+          <Accordion title="Facility type" count={Object.values(stats).reduce((a, b) => a + b, 0)}>
             {Object.entries(NODE_TYPES).map(([key, cfg]) => (
               <label key={key} className="row-toggle">
                 <div
@@ -323,7 +320,7 @@ export default function MapPage() {
                   onClick={() => setTypeVisible(v => ({ ...v, [key]: !v[key] }))}
                   style={{ '--sw-accent': cfg.color }}
                 />
-                <span className="rt-icon" style={{ color: cfg.color }}>{cfg.icon}</span>
+                <span className="rt-icon" style={{ color: cfg.color }}><NodeTypeIcon type={key} /></span>
                 <span className="rt-label">{cfg.label}</span>
                 <span className="rt-count">{stats[key]?.toLocaleString() ?? 0}</span>
               </label>
@@ -427,61 +424,62 @@ export default function MapPage() {
             <>
               <SupplyChainMap
                 nodes={visibleNodes}
-                edges={showInferred
-                  ? graph.edges
-                  : graph.edges.filter(e => e.confidence !== 'inferred')}
+                edges={graph.edges}
                 byId={graph.byId}
                 typeVisible={typeVisible}
                 highlighted={highlighted}
                 onNodeClick={setSelected}
               />
-              <div className="legend-v2">
-                <div className="legend-title">Legend</div>
-                {Object.entries(NODE_TYPES).map(([key, cfg]) => (
-                  <div key={key} className="legend-row">
-                    <span className="legend-icon" style={{ color: cfg.color }}>{cfg.icon}</span>
-                    <span>{cfg.label}</span>
-                  </div>
-                ))}
-                <div className="legend-row" style={{ marginTop: '0.45rem' }}>
+              <div className="legend-v2 legend-v2--compact">
+                <div className="legend-title">Map key</div>
+                <p className="legend-lead">
+                  <strong>Facility type</strong> toggles layers. Deposits: <strong>dots</strong> ·
+                  other sites: <strong>icons</strong>. Use <em>Cluster</em> for overview or{' '}
+                  <em>Each point</em> for every deposit.
+                </p>
+                <div className="legend-subhead">Flows</div>
+                <div className="legend-row">
                   <span
                     className="legend-icon"
-                    style={{ width: 20, height: 2, background: '#9aa5b8', display: 'inline-block' }}
+                    style={{ width: 16, height: 2, background: '#9aa5b8', display: 'inline-block' }}
                   />
-                  <span>Flow (known)</span>
+                  <span>Known</span>
                 </div>
                 <div className="legend-row">
                   <span
                     className="legend-icon"
                     style={{
-                      width: 20,
-                      background: 'repeating-linear-gradient(90deg, #9aa5b8 0 5px, transparent 5px 8px)',
+                      width: 16,
+                      background: 'repeating-linear-gradient(90deg, #9aa5b8 0 4px, transparent 4px 6px)',
                       height: 2,
                       display: 'inline-block',
                     }}
                   />
-                  <span>Flow (probable — multi-site)</span>
+                  <span>Probable</span>
                 </div>
                 <div className="legend-row">
                   <span
                     className="legend-icon"
                     style={{
-                      width: 20,
-                      background: 'repeating-linear-gradient(90deg, #fbbf24 0 5px, transparent 5px 8px)',
+                      width: 16,
+                      background: 'repeating-linear-gradient(90deg, #fbbf24 0 4px, transparent 4px 6px)',
                       height: 2,
                       display: 'inline-block',
                     }}
                   />
-                  <span>Flow (inferred — Chinese data)</span>
+                  <span>Inferred</span>
                 </div>
-                <div className="legend-row">
-                  <span className="legend-icon" style={{
-                    width: 10, height: 10, borderRadius: '50%',
-                    background: '#fbbf24',
-                    boxShadow: '0 0 8px rgba(251,191,36,0.6)',
-                    display: 'inline-block',
-                  }} />
-                  <span>Inferred node (amber tint)</span>
+                <div className="legend-row legend-row--tight">
+                  <span
+                    className="legend-icon"
+                    style={{
+                      width: 8, height: 8, borderRadius: '50%',
+                      background: '#fbbf24',
+                      boxShadow: '0 0 5px rgba(251,191,36,0.4)',
+                      display: 'inline-block',
+                    }}
+                  />
+                  <span>Inferred / low confidence site</span>
                 </div>
               </div>
             </>
@@ -494,7 +492,7 @@ export default function MapPage() {
             <aside className="detail-v2">
               <button className="detail-close" onClick={() => setSelected(null)}>✕</button>
               <div className="dv2-title">
-                <span style={{ color: colorForNode(selected), marginRight: 8 }}>{NODE_TYPES[selected.type].icon}</span>
+                <span style={{ color: colorForNode(selected), marginRight: 8, display: 'inline-flex' }}><NodeTypeIcon type={selected.type} /></span>
                 {selected.name || selected.id}
               </div>
               <div className="dv2-sub">
@@ -520,7 +518,9 @@ export default function MapPage() {
                   />
                 )}
                 {selected.status && <Field k="Status" v={selected.status.replace(/\s*\(\?\)\s*$/, '')} />}
-                {selected.deposit_type && <Field k="Type" v={selected.deposit_type} />}
+                {selected.deposit_type && (
+                  <Field k="Deposit type" v={formatDepositTypeLabel(selected.deposit_type)} />
+                )}
                 {selected.resource_kt_reo != null && <Field k="Resource" v={`${selected.resource_kt_reo} ×10⁴t REO`} />}
                 {selected.grade_pct != null && <Field k="Grade" v={`${selected.grade_pct}%`} />}
                 {selected.smelting_quota_t_reo_2024 != null && (
@@ -591,7 +591,7 @@ function ChainList({ title, edges, byId, fromEnd, onPick }) {
         if (!n) return null
         return (
           <button key={e.id} className="chain-row" onClick={() => onPick(n)}>
-            <span style={{ color: colorForNode(n) }}>{NODE_TYPES[n.type].icon}</span>
+            <NodeTypeIcon type={n.type} style={{ color: colorForNode(n) }} />
             <span className="chain-name">{n.name}</span>
             <span className="chain-mat" style={{ color: MATERIAL_COLORS[e.material] || '#9ca3af' }}>
               {e.material}
