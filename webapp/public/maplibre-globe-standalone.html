@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MapLibre — 3D globe (single-file template)</title>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/maplibre-gl@5.6.0/dist/maplibre-gl.css"
+  />
+  <style>
+    :root {
+      --space-deep: #020208;
+      --space-mid: #0a0c18;
+      --space-haze: #12182a;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    html,
+    body {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      /* Dark “space” around the globe (fallback behind WebGL) */
+      background:
+        radial-gradient(120% 100% at 50% 100%, var(--space-haze) 0%, var(--space-mid) 45%, var(--space-deep) 100%),
+        var(--space-deep);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    }
+    #map {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .panel {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      z-index: 2;
+      max-width: min(420px, 92vw);
+      padding: 10px 14px;
+      border-radius: 10px;
+      background: rgba(6, 8, 20, 0.82);
+      border: 1px solid rgba(148, 163, 184, 0.2);
+      color: #e2e8f0;
+      font-size: 0.8rem;
+      line-height: 1.45;
+      pointer-events: auto;
+    }
+    .panel h1 {
+      margin: 0 0 6px 0;
+      font-size: 0.95rem;
+      font-weight: 600;
+    }
+    .panel p {
+      margin: 0 0 8px 0;
+      color: #94a3b8;
+    }
+    .panel code {
+      font-size: 0.72rem;
+      color: #a5b4fc;
+      word-break: break-all;
+    }
+    .panel button {
+      margin-top: 6px;
+      padding: 6px 10px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      border-radius: 6px;
+      border: 1px solid rgba(99, 102, 241, 0.5);
+      background: rgba(99, 102, 241, 0.15);
+      color: #c7d2fe;
+      cursor: pointer;
+    }
+    .panel button:hover {
+      background: rgba(99, 102, 241, 0.28);
+    }
+    .maplibregl-popup-content {
+      font-size: 0.8rem;
+      max-width: 280px;
+    }
+  </style>
+</head>
+<body>
+  <div class="panel">
+    <h1>MapLibre globe</h1>
+    <p>
+      <strong>Projection</strong> is <code>globe</code> (round planet). Basemap: OpenFreeMap
+      (OSM) vector style — no key. Drag to pan; scroll to zoom; right‑drag to rotate; Ctrl
+      (or two‑finger) to tilt. Click nodes or edges for details.
+    </p>
+    <p>
+      Data: <code>supply_chain.json</code> (REE graph from the HackSummit build). Call
+      <code>loadUserData()</code> to refresh, or <code>loadUserData('https://…/x.geojson')</code> for
+      raw GeoJSON. <span id="data-status"></span>
+    </p>
+    <button type="button" id="reload-data">Reload supply chain</button>
+  </div>
+  <div id="map" aria-label="3D globe map"></div>
+
+  <script src="https://unpkg.com/maplibre-gl@5.6.0/dist/maplibre-gl.js"></script>
+  <script>
+    (function () {
+      // OpenFreeMap = OSM-derived vector tiles, no API key (see openfreemap.org)
+      const OPENFREEMAP_STYLE = "https://tiles.openfreemap.org/styles/dark";
+      const SUPPLY_CHAIN_JSON = new URL("supply_chain.json", window.location.href).href;
+
+      const TYPE_NODE_COLOR = {
+        mine: "#f59e0b",
+        deposit: "#6b7280",
+        project: "#22c55e",
+        refinery: "#3b82f6",
+        magnet_maker: "#f472b6",
+        oem: "#a855f7",
+        reseller: "#ec4899",
+      };
+      const MATERIAL_EDGE_COLOR = {
+        ore: "#f97316",
+        concentrate: "#eab308",
+        mixed_reo: "#06b6d4",
+        separated_reo: "#3b82f6",
+        metal: "#a855f7",
+        magnet: "#ec4899",
+        recycled: "#10b981",
+        unknown: "#94a3b8",
+      };
+
+      function nodeDisplayColor(n) {
+        if (n.confidence === "inferred") return "#fbbf24";
+        return TYPE_NODE_COLOR[n.type] || "#9ca3af";
+      }
+
+      function supplyChainBundleToGeoJson(bundle) {
+        const byId = new Map(bundle.nodes.map((n) => [n.id, n]));
+        const features = [];
+
+        for (const n of bundle.nodes) {
+          if (n.lat == null || n.lng == null) continue;
+          const props = {
+            kind: "node",
+            id: n.id,
+            name: n.name,
+            type: n.type,
+            color: nodeDisplayColor(n),
+            country: n.country || "",
+            company: n.company || "",
+            confidence: n.confidence || "",
+            status: n.status || n.pstatus || "",
+            deposit_type: n.deposit_type || "",
+            commodities: n.commodities || "",
+          };
+          Object.keys(props).forEach((k) => {
+            if (props[k] === "") delete props[k];
+          });
+          features.push({
+            type: "Feature",
+            id: n.id,
+            properties: props,
+            geometry: { type: "Point", coordinates: [n.lng, n.lat] },
+          });
+        }
+
+        for (const e of bundle.edges || []) {
+          const a = byId.get(e.from_id);
+          const b = byId.get(e.to_id);
+          if (!a || !b || a.lng == null || b.lng == null) continue;
+          const mat = e.material || "unknown";
+          const edgeColor = MATERIAL_EDGE_COLOR[mat] || MATERIAL_EDGE_COLOR.unknown;
+          features.push({
+            type: "Feature",
+            id: e.id,
+            properties: {
+              kind: "edge",
+              id: e.id,
+              from_id: e.from_id,
+              to_id: e.to_id,
+              material: mat,
+              edge_color: edgeColor,
+              volume_tons_per_year: e.volume_tons_per_year,
+              year: e.year,
+              source: e.source,
+              confidence: e.confidence || "",
+              evidence: e.evidence || "",
+            },
+            geometry: {
+              type: "LineString",
+              coordinates: [
+                [a.lng, a.lat],
+                [b.lng, b.lat],
+              ],
+            },
+          });
+        }
+
+        return { type: "FeatureCollection", features: features };
+      }
+
+      const map = new maplibregl.Map({
+        container: "map",
+        style: OPENFREEMAP_STYLE,
+        center: [20, 25],
+        zoom: 1.4,
+        minZoom: 0.5,
+        maxZoom: 18,
+        pitch: 0,
+        bearing: 0,
+        maxPitch: 85,
+        attributionControl: { compact: true },
+      });
+
+      let popup = new maplibregl.Popup({
+        closeButton: true,
+        closeOnClick: true,
+        maxWidth: "320px",
+      });
+
+      map.addControl(
+        new maplibregl.NavigationControl({ visualizePitch: true }),
+        "top-right"
+      );
+      map.addControl(new maplibregl.GlobeControl(), "top-right");
+
+      function applySpaceStyling() {
+        try {
+          map.setProjection({ type: "globe" });
+        } catch (e) {
+          console.warn("Globe projection not available", e);
+        }
+        // Sky / horizon tuned for a dark, space-like surround
+        try {
+          map.setSky({
+            "sky-color": "#000008",
+            "horizon-color": "#0a0c1c",
+            "fog-color": "#000000",
+            "sky-horizon-blend": 0.5,
+            "horizon-fog-blend": 0.3,
+            "fog-ground-blend": 0.05,
+            "star-intensity": 0.45,
+          });
+        } catch (e) {
+          console.warn("setSky", e);
+        }
+      }
+
+      const statusEl = document.getElementById("data-status");
+
+      function fitMapToGeoJson(fc) {
+        if (!fc || !fc.features || !fc.features.length) return;
+        const b = new maplibregl.LngLatBounds();
+        for (const f of fc.features) {
+          const g = f.geometry;
+          if (g.type === "Point") b.extend(g.coordinates);
+          else if (g.type === "LineString" || g.type === "MultiLineString") {
+            const lines = g.type === "LineString" ? [g.coordinates] : g.coordinates;
+            for (const line of lines) for (const c of line) b.extend(c);
+          }
+        }
+        try {
+          map.fitBounds(b, { padding: 56, maxZoom: 8, duration: 500 });
+        } catch (e) {
+          console.warn("fitBounds", e);
+        }
+      }
+
+      /**
+       * Load data: by default fetches & converts `supply_chain.json`. Pass a URL for raw GeoJSON.
+       * @param {string} [url] Optional GeoJSON URL; when omitted, loads the supply chain bundle.
+       */
+      async function loadUserData(url) {
+        const resolveData = async () => {
+          if (url) {
+            const res = await fetch(url);
+            if (!res.ok) throw new Error("HTTP " + res.status);
+            return res.json();
+          }
+          if (window.location.protocol === "file:") {
+            if (statusEl) statusEl.textContent = "file:// — use a local server to load supply_chain.json.";
+            return getEmbeddedDemoGeoJson();
+          }
+          try {
+            const res = await fetch(SUPPLY_CHAIN_JSON);
+            if (!res.ok) throw new Error("HTTP " + res.status);
+            const bundle = await res.json();
+            if (statusEl) {
+              const m = bundle.meta;
+              const c = m && m.counts;
+              const n = bundle.nodes && bundle.nodes.length;
+              const e = bundle.edges && bundle.edges.length;
+              statusEl.textContent =
+                m && c
+                  ? "Loaded: " + n + " nodes, " + e + " edges (" + (m.generated_at || "") + ")."
+                  : "Loaded: " + n + " nodes, " + e + " edges.";
+            }
+            return supplyChainBundleToGeoJson(bundle);
+          } catch (err) {
+            console.error(err);
+            if (statusEl) statusEl.textContent = "Could not load supply_chain.json. " + (err && err.message);
+            return getEmbeddedDemoGeoJson();
+          }
+        };
+
+        const data = await resolveData();
+
+        if (map.getSource("user-geojson")) {
+          map.getSource("user-geojson").setData(data);
+        } else {
+          map.addSource("user-geojson", { type: "geojson", data: data });
+        }
+
+        if (!map.getLayer("user-fill")) {
+          map.addLayer({
+            id: "user-fill",
+            type: "fill",
+            source: "user-geojson",
+            filter: [
+              "match",
+              ["geometry-type"],
+              ["Polygon", "MultiPolygon"],
+              true,
+              false,
+            ],
+            paint: {
+              "fill-color": "#6366f1",
+              "fill-opacity": 0.25,
+            },
+          });
+          map.addLayer({
+            id: "user-outline",
+            type: "line",
+            source: "user-geojson",
+            filter: [
+              "match",
+              ["geometry-type"],
+              ["Polygon", "MultiPolygon"],
+              true,
+              false,
+            ],
+            paint: {
+              "line-color": "#a5b4fc",
+              "line-width": 1.5,
+            },
+          });
+        }
+
+        if (!map.getLayer("user-lines")) {
+          map.addLayer({
+            id: "user-lines",
+            type: "line",
+            source: "user-geojson",
+            filter: [
+              "match",
+              ["geometry-type"],
+              ["LineString", "MultiLineString"],
+              true,
+              false,
+            ],
+            paint: {
+              "line-color": ["coalesce", ["get", "edge_color"], "#60a5fa"],
+              "line-width": [
+                "case",
+                ["==", ["get", "confidence"], "inferred"],
+                1.2,
+                2.2,
+              ],
+              "line-opacity": 0.88,
+            },
+          });
+        }
+
+        if (!map.getLayer("user-points")) {
+          map.addLayer({
+            id: "user-points",
+            type: "circle",
+            source: "user-geojson",
+            filter: ["==", ["geometry-type"], "Point"],
+            paint: {
+              "circle-radius": [
+                "interpolate",
+                ["linear"],
+                ["zoom"],
+                0,
+                1.2,
+                2,
+                2,
+                6,
+                [
+                  "match",
+                  ["get", "type"],
+                  "deposit",
+                  3,
+                  5,
+                ],
+              ],
+              "circle-color": ["coalesce", ["get", "color"], "#3b82f6"],
+              "circle-stroke-width": 1.2,
+              "circle-stroke-color": "#0f172a",
+            },
+          });
+        }
+
+        if (data.features && data.features.length) {
+          fitMapToGeoJson(data);
+        }
+      }
+
+      function getEmbeddedDemoGeoJson() {
+        return {
+          type: "FeatureCollection",
+          features: [
+            {
+              type: "Feature",
+              properties: { name: "San Francisco", label: "demo", note: "Example point" },
+              geometry: { type: "Point", coordinates: [-122.42, 37.78] },
+            },
+            {
+              type: "Feature",
+              properties: { name: "Zürich", label: "demo" },
+              geometry: { type: "Point", coordinates: [8.54, 47.38] },
+            },
+            {
+              type: "Feature",
+              properties: { name: "Singapore", label: "demo" },
+              geometry: { type: "Point", coordinates: [103.8, 1.35] },
+            },
+          ],
+        };
+      }
+
+      function escapeHtml(s) {
+        return String(s)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;");
+      }
+
+      function propsTable(props) {
+        if (!props || typeof props !== "object") {
+          return "<p><em>(no properties)</em></p>";
+        }
+        const rows = Object.keys(props)
+          .map(
+            (k) =>
+              "<tr><th style='text-align:left;padding:2px 8px 2px 0;vertical-align:top'>" +
+              escapeHtml(k) +
+              "</th><td>" +
+              escapeHtml(props[k] == null ? "" : props[k]) +
+              "</td></tr>"
+          )
+          .join("");
+        return "<table style='border-collapse:collapse;font-size:12px'>" + rows + "</table>";
+      }
+
+      map.on("load", function () {
+        applySpaceStyling();
+        loadUserData().catch((e) => console.error(e));
+
+        map.on("click", "user-points", function (e) {
+          const f = e.features && e.features[0];
+          if (!f) return;
+          const t = f.properties.name || f.properties.id || "Feature";
+          const html =
+            "<strong style='font-size:13px'>" +
+            escapeHtml(t) +
+            "</strong><hr style='border:none;border-top:1px solid #e2e8f0;margin:6px 0' />" +
+            propsTable(f.properties);
+          popup.setLngLat(e.lngLat).setHTML(html).addTo(map);
+        });
+
+        map.on("click", "user-lines", function (e) {
+          const f = e.features && e.features[0];
+          if (!f) return;
+          const t =
+            f.properties.from_id && f.properties.to_id
+              ? f.properties.from_id + " → " + f.properties.to_id
+              : f.properties.id || "Edge";
+          const html =
+            "<strong style='font-size:13px'>Supply edge</strong><div style='font-size:12px;margin:2px 0 6px;color:#64748b'>" +
+            escapeHtml(t) +
+            "</div>" +
+            propsTable(f.properties);
+          popup.setLngLat(e.lngLat).setHTML(html).addTo(map);
+        });
+
+        map.on("mouseenter", "user-points", function () {
+          map.getCanvas().style.cursor = "pointer";
+        });
+        map.on("mouseleave", "user-points", function () {
+          map.getCanvas().style.cursor = "";
+        });
+        map.on("mouseenter", "user-lines", function () {
+          map.getCanvas().style.cursor = "pointer";
+        });
+        map.on("mouseleave", "user-lines", function () {
+          map.getCanvas().style.cursor = "";
+        });
+      });
+
+      document.getElementById("reload-data").addEventListener("click", function () {
+        loadUserData().catch((e) => console.error(e));
+      });
+
+      window.loadUserData = loadUserData;
+    })();
+  </script>
+</body>
+</html>

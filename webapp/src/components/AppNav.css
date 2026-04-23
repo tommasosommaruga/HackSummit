@@ -1,8 +1,8 @@
 .app-nav {
-  height: 52px;
+  height: 40px;
   display: flex;
   align-items: center;
-  padding: 0 1.5rem;
+  padding: 0 1.1rem;
   gap: 0;
   background: rgba(5, 8, 16, 0.98);
   border-bottom: 1px solid rgba(255,255,255,0.055);
@@ -13,13 +13,13 @@
 }
 
 .app-nav-logo {
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   font-weight: 800;
   letter-spacing: -0.03em;
   color: #f1f5f9;
   cursor: pointer;
   user-select: none;
-  margin-right: 2.5rem;
+  margin-right: 1.6rem;
   white-space: nowrap;
 }
 .app-nav-logo span { color: #22d3ee; }
@@ -34,17 +34,17 @@
 .app-nav-link {
   display: flex;
   align-items: center;
-  gap: 0.45rem;
-  padding: 0.42rem 0.9rem;
+  gap: 0.4rem;
+  padding: 0.28rem 0.65rem;
   border: none;
   background: transparent;
   color: #4a5568;
   font-family: 'Inter', system-ui, sans-serif;
-  font-size: 0.8rem;
+  font-size: 0.74rem;
   font-weight: 500;
   letter-spacing: 0.01em;
   cursor: pointer;
-  border-radius: 7px;
+  border-radius: 6px;
   transition: color 0.15s, background 0.15s;
   white-space: nowrap;
   position: relative;
@@ -60,24 +60,24 @@
 .app-nav-link.active::after {
   content: '';
   position: absolute;
-  bottom: -1px;
-  left: 0.9rem;
-  right: 0.9rem;
+  bottom: 0;
+  left: 0.65rem;
+  right: 0.65rem;
   height: 2px;
   background: #22d3ee;
   border-radius: 1px 1px 0 0;
-  box-shadow: 0 0 8px rgba(34,211,238,0.5);
+  box-shadow: 0 0 6px rgba(34,211,238,0.45);
 }
 
 .app-nav-icon {
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   opacity: 0.85;
 }
 
 .app-nav-right {
   display: flex;
   align-items: center;
-  gap: 1.25rem;
+  gap: 0.9rem;
   margin-left: auto;
 }
 

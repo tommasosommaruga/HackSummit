@@ -6,7 +6,7 @@
  *
  * Fields per type:
  *   label       — human label shown in legend and filter toggles
- *   icon        — single emoji/glyph rendered by deck.gl IconLayer
+ *   icon        — legacy label (not used for map; see NodeTypeIcon + map atlas)
  *   color       — default RGB (hex) for the node; overridable per-node via
  *                 a status palette below
  *   shape       — 'circle' (ScatterplotLayer) or 'icon' (IconLayer)
@@ -43,8 +43,12 @@ export const NODE_TYPES = {
       Deposit:    { label: 'Deposit (proven)', color: '#f97316' },
     },
   },
+  /**
+   * REE mine / development rows from the company sheet (stages, resource, company).
+   * USGS "deposit" is raw geology; this is the commercial project side — different columns.
+   */
   project: {
-    label: 'Project (operator)',
+    label: 'REE mine project',
     icon: '⛏',
     color: '#22c55e',
     shape: 'icon',
@@ -91,7 +95,7 @@ export const NODE_TYPES = {
   },
   oem: {
     label: 'OEM / end product',
-    icon: '🚗',
+    icon: '🔌',
     color: '#a855f7',
     shape: 'icon',
     size: 22,
@@ -150,14 +154,45 @@ export function normalizeStatusCode(raw) {
 
 /** Resolve a node to its display color given the registered palette. */
 export function colorForNode(node) {
+  if (node.type === 'mine') {
+    if (node.pstatus) {
+      const m = NODE_TYPES.mine
+      const code = normalizeStatusCode(node.pstatus)
+      if (code && m.statuses[code]) return m.statuses[code].color
+      if (m.statuses[String(node.pstatus)]) return m.statuses[String(node.pstatus)].color
+    }
+    if (node.status_code != null) {
+      const proj = NODE_TYPES.project
+      const code = normalizeStatusCode(node.status_code)
+      if (code && proj.statuses[code]) return proj.statuses[code].color
+    }
+  }
   const cfg = NODE_TYPES[node.type]
   if (!cfg) return '#9ca3af'
   const raw = cfg.statusKey ? node[cfg.statusKey] : null
   const code = normalizeStatusCode(raw)
   if (code && cfg.statuses[code]) return cfg.statuses[code].color
-  // Fallback: try the raw value as-is.
   if (raw != null && cfg.statuses[String(raw)]) return cfg.statuses[String(raw)].color
   return cfg.color
+}
+
+/** USGS deposit id when `id` is `dep_<ID_No>` from Global_REE_combined.xlsx */
+export function usgsIdFromNodeId(id) {
+  if (typeof id !== 'string' || !id.startsWith('dep_')) return null
+  return id.slice(4)
+}
+
+/** Blend hex toward white (0–1), for disk halos that sit under white icons. */
+export function mixWithWhite(hex, t) {
+  const h = hex.replace('#', '')
+  const r = parseInt(h.slice(0, 2), 16)
+  const g = parseInt(h.slice(2, 4), 16)
+  const b = parseInt(h.slice(4, 6), 16)
+  return [
+    Math.round(r * (1 - t) + 255 * t),
+    Math.round(g * (1 - t) + 255 * t),
+    Math.round(b * (1 - t) + 255 * t),
+  ]
 }
 
 /** Convert a hex color to a [r,g,b,a] array for deck.gl. */

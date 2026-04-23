@@ -81,15 +81,22 @@ export async function loadSupplyChain({ patchMissing = true } = {}) {
   if (patchMissing) await patchMissingCoords(bundle.nodes)
   // Index for consumers that want O(1) upstream/downstream traversal.
   const byId = new Map(bundle.nodes.map(n => [n.id, n]))
+  const edgeList = (bundle.edges || []).filter(
+    e => e && byId.has(e.from_id) && byId.has(e.to_id),
+  )
+  if (edgeList.length !== (bundle.edges || []).length) {
+    const n = (bundle.edges || []).length - edgeList.length
+    console.warn(`[loadSupplyChain] dropped ${n} edge(s) with missing endpoint id`)
+  }
   const outgoing = new Map()
   const incoming = new Map()
-  for (const e of bundle.edges) {
+  for (const e of edgeList) {
     if (!outgoing.has(e.from_id)) outgoing.set(e.from_id, [])
-    if (!incoming.has(e.to_id))   incoming.set(e.to_id, [])
+    if (!incoming.has(e.to_id)) incoming.set(e.to_id, [])
     outgoing.get(e.from_id).push(e)
     incoming.get(e.to_id).push(e)
   }
-  return { ...bundle, byId, outgoing, incoming }
+  return { ...bundle, edges: edgeList, byId, outgoing, incoming }
 }
 
 /** Walk the graph collecting every node reachable upstream/downstream. */
