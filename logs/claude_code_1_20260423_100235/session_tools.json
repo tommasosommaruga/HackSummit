@@ -1,0 +1,1398 @@
+{
+    "session_id": "26d1d7b1f4ab5b32",
+    "updated_at": "2026-04-23T08:03:18Z",
+    "tools": [
+        {
+            "tool_name": "expand_context",
+            "original_tokens": 58,
+            "schema": {
+                "name": "expand_context",
+                "description": "Expand a [REF:id] reference to retrieve the full uncompressed content.",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {
+                        "id": {
+                            "type": "string",
+                            "description": "The shadow ID (e.g., shadow_abc123)"
+                        }
+                    },
+                    "required": [
+                        "id"
+                    ]
+                }
+            }
+        },
+        {
+            "tool_name": "gateway_search_tools",
+            "original_tokens": 55,
+            "schema": {
+                "name": "gateway_search_tools",
+                "description": "Search for tools by functionality. Returns full schemas for matching tools.",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {
+                        "query": {
+                            "type": "string",
+                            "description": "Natural language description of what you want to do"
+                        }
+                    },
+                    "required": [
+                        "query"
+                    ]
+                }
+            }
+        },
+        {
+            "tool_name": "expand_context",
+            "original_tokens": 58,
+            "schema": {
+                "name": "expand_context",
+                "description": "Expand a [REF:id] reference to retrieve the full uncompressed content.",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {
+                        "id": {
+                            "type": "string",
+                            "description": "The shadow ID (e.g., shadow_abc123)"
+                        }
+                    },
+                    "required": [
+                        "id"
+                    ]
+                }
+            }
+        },
+        {
+            "tool_name": "gateway_search_tools",
+            "original_tokens": 55,
+            "schema": {
+                "name": "gateway_search_tools",
+                "description": "Search for tools by functionality. Returns full schemas for matching tools.",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {
+                        "query": {
+                            "type": "string",
+                            "description": "Natural language description of what you want to do"
+                        }
+                    },
+                    "required": [
+                        "query"
+                    ]
+                }
+            }
+        },
+        {
+            "tool_name": "Agent",
+            "original_tokens": 1885,
+            "schema": {
+                "name": "Agent",
+                "description": "Launch a new agent to handle complex, multi-step tasks. Each agent type has specific capabilities and tools available to it.\n\nAvailable agent types and the tools they have access to:\n- claude-code-guide: Use this agent when the user asks questions (\"Can Claude...\", \"Does Claude...\", \"How do I...\") about: (1) Claude Code (the CLI tool) - features, hooks, slash commands, MCP servers, settings, IDE integrations, keyboard shortcuts; (2) Claude Agent SDK - building custom agents; (3) Claude API (formerly Anthropic API) - API usage, tool use, Anthropic SDK usage. **IMPORTANT:** Before spawning a new agent, check if there is already a running or recently completed claude-code-guide agent that you can continue via SendMessage. (Tools: Bash, Read, WebFetch, WebSearch)\n- Explore: Fast agent specialized for exploring codebases. Use this when you need to quickly find files by patterns (eg. \"src/components/**/*.tsx\"), search code for keywords (eg. \"API endpoints\"), or answer questions about the codebase (eg. \"how do API endpoints work?\"). When calling this agent, specify the desired thoroughness level: \"quick\" for basic searches, \"medium\" for moderate exploration, or \"very thorough\" for comprehensive analysis across multiple locations and naming conventions. (Tools: All tools except Agent, ExitPlanMode, Edit, Write, NotebookEdit)\n- general-purpose: General-purpose agent for researching complex questions, searching for code, and executing multi-step tasks. When you are searching for a keyword or file and are not confident that you will find the right match in the first few tries use this agent to perform the search for you. (Tools: *)\n- Plan: Software architect agent for designing implementation plans. Use this when you need to plan the implementation strategy for a task. Returns step-by-step plans, identifies critical files, and considers architectural trade-offs. (Tools: All tools except Agent, ExitPlanMode, Edit, Write, NotebookEdit)\n- statusline-setup: Use this agent to configure the user's Claude Code status line setting. (Tools: Read, Edit)\n\nWhen using the Agent tool, specify a subagent_type parameter to select which agent type to use. If omitted, the general-purpose agent is used.\n\n## When not to use\n\nIf the target is already known, use the direct tool: Read for a known path, `grep` via the Bash tool for a specific symbol or string. Reserve this tool for open-ended questions that span the codebase, or tasks that match an available agent type.\n\n## Usage notes\n\n- Always include a short description summarizing what the agent will do\n- When you launch multiple agents for independent work, send them in a single message with multiple tool uses so they run concurrently\n- When the agent is done, it will return a single message back to you. The result returned by the agent is not visible to the user. To show the user the result, you should send a text message back to the user with a concise summary of the result.\n- Trust but verify: an agent's summary describes what it intended to do, not necessarily what it did. When an agent writes or edits code, check the actual changes before reporting the work as done.\n- You can optionally run agents in the background using the run_in_background parameter. When an agent runs in the background, you will be automatically notified when it completes — do NOT sleep, poll, or proactively check on its progress. Continue with other work or respond to the user instead.\n- **Foreground vs background**: Use foreground (default) when you need the agent's results before you can proceed — e.g., research agents whose findings inform your next steps. Use background when you have genuinely independent work to do in parallel.\n- To continue a previously spawned agent, use SendMessage with the agent's ID or name as the `to` field — that resumes it with full context. A new Agent call starts a fresh agent with no memory of prior runs, so the prompt must be self-contained.\n- Clearly tell the agent whether you expect it to write code or just to do research (search, file reads, web fetches, etc.), since it is not aware of the user's intent\n- If the agent description mentions that it should be used proactively, then you should try your best to use it without the user having to ask for it first.\n- If the user specifies that they want you to run agents \"in parallel\", you MUST send a single message with multiple Agent tool use content blocks. For example, if you need to launch both a build-validator agent and a test-runner agent in parallel, send a single message with both tool calls.\n- With `isolation: \"worktree\"`, the worktree is automatically cleaned up if the agent makes no changes; otherwise the path and branch are returned in the result.\n\n## Writing the prompt\n\nBrief the agent like a smart colleague who just walked into the room — it hasn't seen this conversation, doesn't know what you've tried, doesn't understand why this task matters.\n- Explain what you're trying to accomplish and why.\n- Describe what you've already learned or ruled out.\n- Give enough context about the surrounding problem that the agent can make judgment calls rather than just following a narrow instruction.\n- If you need a short response, say so (\"report in under 200 words\").\n- Lookups: hand over the exact command. Investigations: hand over the question — prescribed steps become dead weight when the premise is wrong.\n\nTerse command-style prompts produce shallow, generic work.\n\n**Never delegate understanding.** Don't write \"based on your findings, fix the bug\" or \"based on the research, implement it.\" Those phrases push synthesis onto the agent instead of doing it yourself. Write prompts that prove you understood: include file paths, line numbers, what specifically to change.\n\nExample usage:\n\n\u003cexample\u003e\nuser: \"What's left on this branch before we can ship?\"\nassistant: \u003cthinking\u003eA survey question across git state, tests, and config. I'll delegate it and ask for a short report so the raw command output stays out of my context.\u003c/thinking\u003e\nAgent({\n  description: \"Branch ship-readiness audit\",\n  prompt: \"Audit what's left before this branch can ship. Check: uncommitted changes, commits ahead of main, whether tests exist, whether the GrowthBook gate is wired up, whether CI-relevant files changed. Report a punch list — done vs. missing. Under 200 words.\"\n})\n\u003ccommentary\u003e\nThe prompt is self-contained: it states the goal, lists what to check, and caps the response length. The agent's report comes back as the tool result; relay the findings to the user.\n\u003c/commentary\u003e\n\u003c/example\u003e\n\n\u003cexample\u003e\nuser: \"Can you get a second opinion on whether this migration is safe?\"\nassistant: \u003cthinking\u003eI'll ask the code-reviewer agent — it won't see my analysis, so it can give an independent read.\u003c/thinking\u003e\nAgent({\n  description: \"Independent migration review\",\n  subagent_type: \"code-reviewer\",\n  prompt: \"Review migration 0042_user_schema.sql for safety. Context: we're adding a NOT NULL column to a 50M-row table. Existing rows get a backfill default. I want a second opinion on whether the backfill approach is safe under concurrent writes — I've checked locking behavior but want independent verification. Report: is this safe, and if not, what specifically breaks?\"\n})\n\u003ccommentary\u003e\nThe agent starts with no context from this conversation, so the prompt briefs it: what to assess, the relevant background, and what form the answer should take.\n\u003c/commentary\u003e\n\u003c/example\u003e\n",
+                "input_schema": {
+                    "$schema": "https://json-schema.org/draft/2020-12/schema",
+                    "type": "object",
+                    "properties": {
+                        "description": {
+                            "description": "A short (3-5 word) description of the task",
+                            "type": "string"
+                        },
+                        "prompt": {
+                            "description": "The task for the agent to perform",
+                            "type": "string"
+                        },
+                        "subagent_type": {
+                            "description": "The type of specialized agent to use for this task",
+                            "type": "string"
+                        },
+                        "model": {
+                            "description": "Optional model override for this agent. Takes precedence over the agent definition's model frontmatter. If omitted, uses the agent definition's model, or inherits from the parent.",
+                            "type": "string",
+                            "enum": [
+                                "sonnet",
+                                "opus",
+                                "haiku"
+                            ]
+                        },
+                        "run_in_background": {
+                            "description": "Set to true to run this agent in the background. You will be notified when it completes.",
+                            "type": "boolean"
+                        },
+                        "isolation": {
+                            "description": "Isolation mode. \"worktree\" creates a temporary git worktree so the agent works on an isolated copy of the repo.",
+                            "type": "string",
+                            "enum": [
+                                "worktree"
+                            ]
+                        }
+                    },
+                    "required": [
+                        "description",
+                        "prompt"
+                    ],
+                    "additionalProperties": false
+                }
+            }
+        },
+        {
+            "tool_name": "AskUserQuestion",
+            "original_tokens": 25,
+            "schema": {
+                "name": "AskUserQuestion",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "Bash",
+            "original_tokens": 24,
+            "schema": {
+                "name": "Bash",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "CronCreate",
+            "original_tokens": 25,
+            "schema": {
+                "name": "CronCreate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "CronDelete",
+            "original_tokens": 25,
+            "schema": {
+                "name": "CronDelete",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "CronList",
+            "original_tokens": 25,
+            "schema": {
+                "name": "CronList",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "Edit",
+            "original_tokens": 23,
+            "schema": {
+                "name": "Edit",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "EnterPlanMode",
+            "original_tokens": 25,
+            "schema": {
+                "name": "EnterPlanMode",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "EnterWorktree",
+            "original_tokens": 25,
+            "schema": {
+                "name": "EnterWorktree",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "ExitPlanMode",
+            "original_tokens": 25,
+            "schema": {
+                "name": "ExitPlanMode",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "ExitWorktree",
+            "original_tokens": 25,
+            "schema": {
+                "name": "ExitWorktree",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "Monitor",
+            "original_tokens": 23,
+            "schema": {
+                "name": "Monitor",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "NotebookEdit",
+            "original_tokens": 25,
+            "schema": {
+                "name": "NotebookEdit",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "PushNotification",
+            "original_tokens": 24,
+            "schema": {
+                "name": "PushNotification",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "Read",
+            "original_tokens": 23,
+            "schema": {
+                "name": "Read",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "RemoteTrigger",
+            "original_tokens": 24,
+            "schema": {
+                "name": "RemoteTrigger",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "ScheduleWakeup",
+            "original_tokens": 25,
+            "schema": {
+                "name": "ScheduleWakeup",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "Skill",
+            "original_tokens": 23,
+            "schema": {
+                "name": "Skill",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "TaskCreate",
+            "original_tokens": 24,
+            "schema": {
+                "name": "TaskCreate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "TaskGet",
+            "original_tokens": 24,
+            "schema": {
+                "name": "TaskGet",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "TaskList",
+            "original_tokens": 24,
+            "schema": {
+                "name": "TaskList",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "TaskOutput",
+            "original_tokens": 24,
+            "schema": {
+                "name": "TaskOutput",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "TaskStop",
+            "original_tokens": 24,
+            "schema": {
+                "name": "TaskStop",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "TaskUpdate",
+            "original_tokens": 24,
+            "schema": {
+                "name": "TaskUpdate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "WebFetch",
+            "original_tokens": 24,
+            "schema": {
+                "name": "WebFetch",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "WebSearch",
+            "original_tokens": 24,
+            "schema": {
+                "name": "WebSearch",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "Write",
+            "original_tokens": 23,
+            "schema": {
+                "name": "Write",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_ClickUp__authenticate",
+            "original_tokens": 32,
+            "schema": {
+                "name": "mcp__claude_ai_ClickUp__authenticate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_ClickUp__complete_authentication",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_ClickUp__complete_authentication",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gamma__authenticate",
+            "original_tokens": 32,
+            "schema": {
+                "name": "mcp__claude_ai_Gamma__authenticate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gamma__complete_authentication",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gamma__complete_authentication",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__create_draft",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__create_draft",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__create_label",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__create_label",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__get_thread",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__get_thread",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__label_message",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__label_message",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__label_thread",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__label_thread",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__list_drafts",
+            "original_tokens": 34,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__list_drafts",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__list_labels",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__list_labels",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__search_threads",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__search_threads",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__unlabel_message",
+            "original_tokens": 34,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__unlabel_message",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__unlabel_thread",
+            "original_tokens": 34,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__unlabel_thread",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Google_Calendar__authenticate",
+            "original_tokens": 34,
+            "schema": {
+                "name": "mcp__claude_ai_Google_Calendar__authenticate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Google_Calendar__complete_authentication",
+            "original_tokens": 35,
+            "schema": {
+                "name": "mcp__claude_ai_Google_Calendar__complete_authentication",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Google_Drive__authenticate",
+            "original_tokens": 34,
+            "schema": {
+                "name": "mcp__claude_ai_Google_Drive__authenticate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Google_Drive__complete_authentication",
+            "original_tokens": 35,
+            "schema": {
+                "name": "mcp__claude_ai_Google_Drive__complete_authentication",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Notion__authenticate",
+            "original_tokens": 32,
+            "schema": {
+                "name": "mcp__claude_ai_Notion__authenticate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Notion__complete_authentication",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Notion__complete_authentication",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "expand_context",
+            "original_tokens": 58,
+            "schema": {
+                "name": "expand_context",
+                "description": "Expand a [REF:id] reference to retrieve the full uncompressed content.",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {
+                        "id": {
+                            "type": "string",
+                            "description": "The shadow ID (e.g., shadow_abc123)"
+                        }
+                    },
+                    "required": [
+                        "id"
+                    ]
+                }
+            }
+        },
+        {
+            "tool_name": "gateway_search_tools",
+            "original_tokens": 55,
+            "schema": {
+                "name": "gateway_search_tools",
+                "description": "Search for tools by functionality. Returns full schemas for matching tools.",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {
+                        "query": {
+                            "type": "string",
+                            "description": "Natural language description of what you want to do"
+                        }
+                    },
+                    "required": [
+                        "query"
+                    ]
+                }
+            }
+        },
+        {
+            "tool_name": "Agent",
+            "original_tokens": 1885,
+            "schema": {
+                "name": "Agent",
+                "description": "Launch a new agent to handle complex, multi-step tasks. Each agent type has specific capabilities and tools available to it.\n\nAvailable agent types and the tools they have access to:\n- claude-code-guide: Use this agent when the user asks questions (\"Can Claude...\", \"Does Claude...\", \"How do I...\") about: (1) Claude Code (the CLI tool) - features, hooks, slash commands, MCP servers, settings, IDE integrations, keyboard shortcuts; (2) Claude Agent SDK - building custom agents; (3) Claude API (formerly Anthropic API) - API usage, tool use, Anthropic SDK usage. **IMPORTANT:** Before spawning a new agent, check if there is already a running or recently completed claude-code-guide agent that you can continue via SendMessage. (Tools: Bash, Read, WebFetch, WebSearch)\n- Explore: Fast agent specialized for exploring codebases. Use this when you need to quickly find files by patterns (eg. \"src/components/**/*.tsx\"), search code for keywords (eg. \"API endpoints\"), or answer questions about the codebase (eg. \"how do API endpoints work?\"). When calling this agent, specify the desired thoroughness level: \"quick\" for basic searches, \"medium\" for moderate exploration, or \"very thorough\" for comprehensive analysis across multiple locations and naming conventions. (Tools: All tools except Agent, ExitPlanMode, Edit, Write, NotebookEdit)\n- general-purpose: General-purpose agent for researching complex questions, searching for code, and executing multi-step tasks. When you are searching for a keyword or file and are not confident that you will find the right match in the first few tries use this agent to perform the search for you. (Tools: *)\n- Plan: Software architect agent for designing implementation plans. Use this when you need to plan the implementation strategy for a task. Returns step-by-step plans, identifies critical files, and considers architectural trade-offs. (Tools: All tools except Agent, ExitPlanMode, Edit, Write, NotebookEdit)\n- statusline-setup: Use this agent to configure the user's Claude Code status line setting. (Tools: Read, Edit)\n\nWhen using the Agent tool, specify a subagent_type parameter to select which agent type to use. If omitted, the general-purpose agent is used.\n\n## When not to use\n\nIf the target is already known, use the direct tool: Read for a known path, `grep` via the Bash tool for a specific symbol or string. Reserve this tool for open-ended questions that span the codebase, or tasks that match an available agent type.\n\n## Usage notes\n\n- Always include a short description summarizing what the agent will do\n- When you launch multiple agents for independent work, send them in a single message with multiple tool uses so they run concurrently\n- When the agent is done, it will return a single message back to you. The result returned by the agent is not visible to the user. To show the user the result, you should send a text message back to the user with a concise summary of the result.\n- Trust but verify: an agent's summary describes what it intended to do, not necessarily what it did. When an agent writes or edits code, check the actual changes before reporting the work as done.\n- You can optionally run agents in the background using the run_in_background parameter. When an agent runs in the background, you will be automatically notified when it completes — do NOT sleep, poll, or proactively check on its progress. Continue with other work or respond to the user instead.\n- **Foreground vs background**: Use foreground (default) when you need the agent's results before you can proceed — e.g., research agents whose findings inform your next steps. Use background when you have genuinely independent work to do in parallel.\n- To continue a previously spawned agent, use SendMessage with the agent's ID or name as the `to` field — that resumes it with full context. A new Agent call starts a fresh agent with no memory of prior runs, so the prompt must be self-contained.\n- Clearly tell the agent whether you expect it to write code or just to do research (search, file reads, web fetches, etc.), since it is not aware of the user's intent\n- If the agent description mentions that it should be used proactively, then you should try your best to use it without the user having to ask for it first.\n- If the user specifies that they want you to run agents \"in parallel\", you MUST send a single message with multiple Agent tool use content blocks. For example, if you need to launch both a build-validator agent and a test-runner agent in parallel, send a single message with both tool calls.\n- With `isolation: \"worktree\"`, the worktree is automatically cleaned up if the agent makes no changes; otherwise the path and branch are returned in the result.\n\n## Writing the prompt\n\nBrief the agent like a smart colleague who just walked into the room — it hasn't seen this conversation, doesn't know what you've tried, doesn't understand why this task matters.\n- Explain what you're trying to accomplish and why.\n- Describe what you've already learned or ruled out.\n- Give enough context about the surrounding problem that the agent can make judgment calls rather than just following a narrow instruction.\n- If you need a short response, say so (\"report in under 200 words\").\n- Lookups: hand over the exact command. Investigations: hand over the question — prescribed steps become dead weight when the premise is wrong.\n\nTerse command-style prompts produce shallow, generic work.\n\n**Never delegate understanding.** Don't write \"based on your findings, fix the bug\" or \"based on the research, implement it.\" Those phrases push synthesis onto the agent instead of doing it yourself. Write prompts that prove you understood: include file paths, line numbers, what specifically to change.\n\nExample usage:\n\n\u003cexample\u003e\nuser: \"What's left on this branch before we can ship?\"\nassistant: \u003cthinking\u003eA survey question across git state, tests, and config. I'll delegate it and ask for a short report so the raw command output stays out of my context.\u003c/thinking\u003e\nAgent({\n  description: \"Branch ship-readiness audit\",\n  prompt: \"Audit what's left before this branch can ship. Check: uncommitted changes, commits ahead of main, whether tests exist, whether the GrowthBook gate is wired up, whether CI-relevant files changed. Report a punch list — done vs. missing. Under 200 words.\"\n})\n\u003ccommentary\u003e\nThe prompt is self-contained: it states the goal, lists what to check, and caps the response length. The agent's report comes back as the tool result; relay the findings to the user.\n\u003c/commentary\u003e\n\u003c/example\u003e\n\n\u003cexample\u003e\nuser: \"Can you get a second opinion on whether this migration is safe?\"\nassistant: \u003cthinking\u003eI'll ask the code-reviewer agent — it won't see my analysis, so it can give an independent read.\u003c/thinking\u003e\nAgent({\n  description: \"Independent migration review\",\n  subagent_type: \"code-reviewer\",\n  prompt: \"Review migration 0042_user_schema.sql for safety. Context: we're adding a NOT NULL column to a 50M-row table. Existing rows get a backfill default. I want a second opinion on whether the backfill approach is safe under concurrent writes — I've checked locking behavior but want independent verification. Report: is this safe, and if not, what specifically breaks?\"\n})\n\u003ccommentary\u003e\nThe agent starts with no context from this conversation, so the prompt briefs it: what to assess, the relevant background, and what form the answer should take.\n\u003c/commentary\u003e\n\u003c/example\u003e\n",
+                "input_schema": {
+                    "$schema": "https://json-schema.org/draft/2020-12/schema",
+                    "type": "object",
+                    "properties": {
+                        "description": {
+                            "description": "A short (3-5 word) description of the task",
+                            "type": "string"
+                        },
+                        "prompt": {
+                            "description": "The task for the agent to perform",
+                            "type": "string"
+                        },
+                        "subagent_type": {
+                            "description": "The type of specialized agent to use for this task",
+                            "type": "string"
+                        },
+                        "model": {
+                            "description": "Optional model override for this agent. Takes precedence over the agent definition's model frontmatter. If omitted, uses the agent definition's model, or inherits from the parent.",
+                            "type": "string",
+                            "enum": [
+                                "sonnet",
+                                "opus",
+                                "haiku"
+                            ]
+                        },
+                        "run_in_background": {
+                            "description": "Set to true to run this agent in the background. You will be notified when it completes.",
+                            "type": "boolean"
+                        },
+                        "isolation": {
+                            "description": "Isolation mode. \"worktree\" creates a temporary git worktree so the agent works on an isolated copy of the repo.",
+                            "type": "string",
+                            "enum": [
+                                "worktree"
+                            ]
+                        }
+                    },
+                    "required": [
+                        "description",
+                        "prompt"
+                    ],
+                    "additionalProperties": false
+                }
+            }
+        },
+        {
+            "tool_name": "AskUserQuestion",
+            "original_tokens": 25,
+            "schema": {
+                "name": "AskUserQuestion",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "Bash",
+            "original_tokens": 24,
+            "schema": {
+                "name": "Bash",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "CronCreate",
+            "original_tokens": 25,
+            "schema": {
+                "name": "CronCreate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "CronDelete",
+            "original_tokens": 25,
+            "schema": {
+                "name": "CronDelete",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "CronList",
+            "original_tokens": 25,
+            "schema": {
+                "name": "CronList",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "Edit",
+            "original_tokens": 23,
+            "schema": {
+                "name": "Edit",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "EnterPlanMode",
+            "original_tokens": 25,
+            "schema": {
+                "name": "EnterPlanMode",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "EnterWorktree",
+            "original_tokens": 25,
+            "schema": {
+                "name": "EnterWorktree",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "ExitPlanMode",
+            "original_tokens": 25,
+            "schema": {
+                "name": "ExitPlanMode",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "ExitWorktree",
+            "original_tokens": 25,
+            "schema": {
+                "name": "ExitWorktree",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "Monitor",
+            "original_tokens": 23,
+            "schema": {
+                "name": "Monitor",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "NotebookEdit",
+            "original_tokens": 25,
+            "schema": {
+                "name": "NotebookEdit",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "PushNotification",
+            "original_tokens": 24,
+            "schema": {
+                "name": "PushNotification",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "Read",
+            "original_tokens": 605,
+            "schema": {
+                "name": "Read",
+                "description": "Reads a file from the local filesystem. You can access any file directly by using this tool.\nAssume this tool is able to read all files on the machine. If the User provides a path to a file assume that path is valid. It is okay to read a file that does not exist; an error will be returned.\n\nUsage:\n- The file_path parameter must be an absolute path, not a relative path\n- By default, it reads up to 2000 lines starting from the beginning of the file\n- When you already know which part of the file you need, only read that part. This can be important for larger files.\n- Results are returned using cat -n format, with line numbers starting at 1\n- This tool allows Claude Code to read images (eg PNG, JPG, etc). When reading an image file the contents are presented visually as Claude Code is a multimodal LLM.\n- This tool can read PDF files (.pdf). For large PDFs (more than 10 pages), you MUST provide the pages parameter to read specific page ranges (e.g., pages: \"1-5\"). Reading a large PDF without the pages parameter will fail. Maximum 20 pages per request.\n- This tool can read Jupyter notebooks (.ipynb files) and returns all cells with their outputs, combining code, text, and visualizations.\n- This tool can only read files, not directories. To list files in a directory, use the registered shell tool.\n- You will regularly be asked to read screenshots. If the user provides a path to a screenshot, ALWAYS use this tool to view the file at the path. This tool will work with all temporary file paths.\n- If you read a file that exists but has empty contents you will receive a system reminder warning in place of file contents.\n- Do NOT re-read a file you just edited to verify — Edit/Write would have errored if the change failed, and the harness tracks file state for you.",
+                "input_schema": {
+                    "$schema": "https://json-schema.org/draft/2020-12/schema",
+                    "type": "object",
+                    "properties": {
+                        "file_path": {
+                            "description": "The absolute path to the file to read",
+                            "type": "string"
+                        },
+                        "offset": {
+                            "description": "The line number to start reading from. Only provide if the file is too large to read at once",
+                            "type": "integer",
+                            "minimum": 0,
+                            "maximum": 9007199254740991
+                        },
+                        "limit": {
+                            "description": "The number of lines to read. Only provide if the file is too large to read at once.",
+                            "type": "integer",
+                            "exclusiveMinimum": 0,
+                            "maximum": 9007199254740991
+                        },
+                        "pages": {
+                            "description": "Page range for PDF files (e.g., \"1-5\", \"3\", \"10-20\"). Only applicable to PDF files. Maximum 20 pages per request.",
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "file_path"
+                    ],
+                    "additionalProperties": false
+                }
+            }
+        },
+        {
+            "tool_name": "RemoteTrigger",
+            "original_tokens": 24,
+            "schema": {
+                "name": "RemoteTrigger",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "ScheduleWakeup",
+            "original_tokens": 25,
+            "schema": {
+                "name": "ScheduleWakeup",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "Skill",
+            "original_tokens": 23,
+            "schema": {
+                "name": "Skill",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "TaskCreate",
+            "original_tokens": 24,
+            "schema": {
+                "name": "TaskCreate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "TaskGet",
+            "original_tokens": 24,
+            "schema": {
+                "name": "TaskGet",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "TaskList",
+            "original_tokens": 24,
+            "schema": {
+                "name": "TaskList",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "TaskOutput",
+            "original_tokens": 24,
+            "schema": {
+                "name": "TaskOutput",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "TaskStop",
+            "original_tokens": 24,
+            "schema": {
+                "name": "TaskStop",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "TaskUpdate",
+            "original_tokens": 24,
+            "schema": {
+                "name": "TaskUpdate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "WebFetch",
+            "original_tokens": 24,
+            "schema": {
+                "name": "WebFetch",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "WebSearch",
+            "original_tokens": 24,
+            "schema": {
+                "name": "WebSearch",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "Write",
+            "original_tokens": 23,
+            "schema": {
+                "name": "Write",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_ClickUp__authenticate",
+            "original_tokens": 32,
+            "schema": {
+                "name": "mcp__claude_ai_ClickUp__authenticate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_ClickUp__complete_authentication",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_ClickUp__complete_authentication",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gamma__authenticate",
+            "original_tokens": 32,
+            "schema": {
+                "name": "mcp__claude_ai_Gamma__authenticate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gamma__complete_authentication",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gamma__complete_authentication",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__create_draft",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__create_draft",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__create_label",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__create_label",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__get_thread",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__get_thread",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__label_message",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__label_message",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__label_thread",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__label_thread",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__list_drafts",
+            "original_tokens": 34,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__list_drafts",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__list_labels",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__list_labels",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__search_threads",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__search_threads",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__unlabel_message",
+            "original_tokens": 34,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__unlabel_message",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Gmail__unlabel_thread",
+            "original_tokens": 34,
+            "schema": {
+                "name": "mcp__claude_ai_Gmail__unlabel_thread",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Google_Calendar__authenticate",
+            "original_tokens": 34,
+            "schema": {
+                "name": "mcp__claude_ai_Google_Calendar__authenticate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Google_Calendar__complete_authentication",
+            "original_tokens": 35,
+            "schema": {
+                "name": "mcp__claude_ai_Google_Calendar__complete_authentication",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Google_Drive__authenticate",
+            "original_tokens": 34,
+            "schema": {
+                "name": "mcp__claude_ai_Google_Drive__authenticate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Google_Drive__complete_authentication",
+            "original_tokens": 35,
+            "schema": {
+                "name": "mcp__claude_ai_Google_Drive__complete_authentication",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Notion__authenticate",
+            "original_tokens": 32,
+            "schema": {
+                "name": "mcp__claude_ai_Notion__authenticate",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "mcp__claude_ai_Notion__complete_authentication",
+            "original_tokens": 33,
+            "schema": {
+                "name": "mcp__claude_ai_Notion__complete_authentication",
+                "description": "[deferred]",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {}
+                }
+            }
+        },
+        {
+            "tool_name": "expand_context",
+            "original_tokens": 58,
+            "schema": {
+                "name": "expand_context",
+                "description": "Expand a [REF:id] reference to retrieve the full uncompressed content.",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {
+                        "id": {
+                            "type": "string",
+                            "description": "The shadow ID (e.g., shadow_abc123)"
+                        }
+                    },
+                    "required": [
+                        "id"
+                    ]
+                }
+            }
+        },
+        {
+            "tool_name": "gateway_search_tools",
+            "original_tokens": 55,
+            "schema": {
+                "name": "gateway_search_tools",
+                "description": "Search for tools by functionality. Returns full schemas for matching tools.",
+                "input_schema": {
+                    "type": "object",
+                    "properties": {
+                        "query": {
+                            "type": "string",
+                            "description": "Natural language description of what you want to do"
+                        }
+                    },
+                    "required": [
+                        "query"
+                    ]
+                }
+            }
+        }
+    ]
+}

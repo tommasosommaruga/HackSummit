@@ -1,0 +1,66 @@
+{
+  "schema_version": "ATIF-v1.6",
+  "session_id": "63a79fbd51757200",
+  "agent": {
+    "name": "context-gateway",
+    "version": "1.0.0",
+    "model_name": "claude-sonnet-4-6"
+  },
+  "steps": [
+    {
+      "step_id": 1,
+      "timestamp": "2026-04-23T08:13:44Z",
+      "source": "user",
+      "message": "rag_prep/05_chunk.py shuts down my computer everytime, when I started using many workers. Also, should we use mps instead for parallelization"
+    },
+    {
+      "step_id": 2,
+      "timestamp": "2026-04-23T08:13:44Z",
+      "source": "agent",
+      "model_name": "claude-sonnet-4-6",
+      "message": "",
+      "tool_calls": [
+        {
+          "tool_call_id": "toolu_01NnnSfJ1S88ZAUDY5t9iEAs",
+          "function_name": "Read",
+          "arguments": {
+            "path": "/Users/momo/HackSummit/rag_prep/05_chunk.py"
+          }
+        }
+      ],
+      "metrics": {
+        "prompt_tokens": 218,
+        "completion_tokens": 410
+      },
+      "proxy_interaction": {
+        "pipe_type": "",
+        "pipe_strategy": "_streaming_search_fallback",
+        "client_to_proxy": {
+          "timestamp": "2026-04-23T08:13:44Z",
+          "token_count": 28061,
+          "message_count": 1
+        },
+        "proxy_to_llm": {
+          "timestamp": "2026-04-23T08:13:44Z",
+          "token_count": 10314,
+          "message_count": 1
+        },
+        "llm_to_proxy": {
+          "timestamp": "2026-04-23T08:13:44Z",
+          "token_count": 410
+        },
+        "compression": {
+          "enabled": true,
+          "original_tokens": 28061,
+          "compressed_tokens": 10314,
+          "compression_ratio": 0.6324436050033855
+        }
+      }
+    }
+  ],
+  "final_metrics": {
+    "total_prompt_tokens": 218,
+    "total_completion_tokens": 410,
+    "total_steps": 2
+  }
+}

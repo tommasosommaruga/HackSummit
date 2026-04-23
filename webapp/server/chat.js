@@ -16,60 +16,30 @@
  */
 
 import express from 'express'
-import { readFileSync, existsSync } from 'fs'
-import path from 'path'
-import { fileURLToPath } from 'url'
 import 'dotenv/config'
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const app = express()
 app.use(express.json({ limit: '1mb' }))
 
-const PORT         = process.env.PORT        ?? 3001
-const OLLAMA_URL   = process.env.OLLAMA_URL  ?? 'http://localhost:11434'
-const OLLAMA_MODEL = process.env.OLLAMA_MODEL ?? 'llama3.2'
+const PORT           = process.env.PORT           ?? 3001
+const OLLAMA_URL     = process.env.OLLAMA_URL     ?? 'http://localhost:11434'
+const OLLAMA_MODEL   = process.env.OLLAMA_MODEL   ?? 'mistral'
+const RETRIEVAL_URL  = process.env.RETRIEVAL_URL  ?? 'http://localhost:8000'
 
-// ── Load RAG corpus once at startup ──────────────────────────────────────────
-const CHUNKS_PATH = process.env.CHUNKS_PATH
-  ?? path.resolve(__dirname, '../../rag_prep/data/chunks/chunks.jsonl')
-
-let CHUNKS = []
-if (existsSync(CHUNKS_PATH)) {
-  const lines = readFileSync(CHUNKS_PATH, 'utf8').trim().split('\n').filter(Boolean)
-  CHUNKS = lines.map(l => { try { return JSON.parse(l) } catch { return null } }).filter(Boolean)
-  console.log(`✓ Loaded ${CHUNKS.length} RAG chunks from ${path.basename(path.dirname(CHUNKS_PATH))}/chunks.jsonl`)
-} else {
-  console.warn(`⚠ chunks.jsonl not found at:\n  ${CHUNKS_PATH}\n  Running in entity-data-only mode (RAG disabled).\n  Run: cd rag_prep && python 05_chunk.py`)
-}
-
-// ── Keyword-based chunk retrieval ─────────────────────────────────────────────
-const STOPWORDS = new Set([
-  'the','and','for','that','this','with','are','from','into','what',
-  'which','have','been','will','when','where','how','does','can','its',
-  'their','about','used','also','over','more','than','such',
-])
-
-function retrieveChunks(entityName, query, topK = 7) {
-  if (!CHUNKS.length) return []
-
-  // Build token set: entity name tokens + meaningful query tokens
-  const entityTokens = entityName.toLowerCase().split(/\W+/).filter(t => t.length > 2)
-  const queryTokens  = query.toLowerCase().split(/\W+/)
-    .filter(t => t.length > 3 && !STOPWORDS.has(t))
-  const allTokens    = [...new Set([...entityTokens, ...queryTokens])]
-
-  return CHUNKS
-    .map(chunk => {
-      const haystack = (chunk.text || chunk.content || '').toLowerCase()
-      // Entity tokens worth 2 pts each (high precision), query tokens 1 pt
-      const score =
-        entityTokens.reduce((s, t) => s + (haystack.includes(t) ? 2 : 0), 0) +
-        queryTokens.reduce((s, t)  => s + (haystack.includes(t) ? 1 : 0), 0)
-      return { ...chunk, _score: score }
+// ── Semantic chunk retrieval via FastAPI/FAISS ────────────────────────────────
+async function retrieveChunks(entityName, query, topK = 7) {
+  try {
+    const res = await fetch(`${RETRIEVAL_URL}/retrieve`, {
+      method:  'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body:    JSON.stringify({ query: `${entityName} ${query}`, k: topK }),
+      signal:  AbortSignal.timeout(8000),
     })
-    .filter(c => c._score > 0)
-    .sort((a, b) => b._score - a._score)
-    .slice(0, topK)
+    if (!res.ok) throw new Error(`retrieval server ${res.status}`)
+    return await res.json()
+  } catch (err) {
+    console.warn(`⚠ Retrieval server unavailable (${err.message}) — RAG disabled for this request`)
+    return []
+  }
 }
 
 // ── System prompt ─────────────────────────────────────────────────────────────
@@ -190,7 +160,7 @@ app.post('/api/chat', async (req, res) => {
 
   // Extract last user message for retrieval
   const lastUser = [...messages].reverse().find(m => m.role === 'user')?.content ?? ''
-  const chunks   = retrieveChunks(entity.name, lastUser)
+  const chunks   = await retrieveChunks(entity.name, lastUser)
 
   const systemPrompt = buildSystemPrompt(entity, chunks)
 
@@ -265,5 +235,5 @@ app.listen(PORT, () => {
   console.log(`\nREEtrieve chat API  →  http://localhost:${PORT}`)
   console.log(`Ollama:              ${OLLAMA_URL}`)
   console.log(`Model:               ${OLLAMA_MODEL}`)
-  console.log(`RAG corpus:          ${CHUNKS.length} chunks loaded\n`)
+  console.log(`Retrieval server:    ${RETRIEVAL_URL}\n`)
 })

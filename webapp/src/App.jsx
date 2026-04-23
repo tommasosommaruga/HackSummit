@@ -5,6 +5,7 @@ import ChainPage from './pages/ChainPage.jsx'
 import ScoringPage from './pages/ScoringPage.jsx'
 import TrustPage from './pages/TrustPage.jsx'
 import AuditPage from './pages/AuditPage.jsx'
+import FloatingChat from './components/FloatingChat.jsx'
 import './App.css'
 
 export default function App() {
@@ -25,6 +26,7 @@ export default function App() {
       <div className="page-container">
         {renderPage()}
       </div>
+      <FloatingChat />
     </div>
   )
 }

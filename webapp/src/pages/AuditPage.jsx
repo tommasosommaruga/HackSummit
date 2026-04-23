@@ -717,7 +717,7 @@ export default function AuditPage() {
       >
         <div
           className="inspector-backdrop"
-          style={{ opacity: panelOpen ? 1 : 0, transition: 'opacity 0.3s' }}
+          style={{ opacity: panelOpen ? 1 : 0, transition: 'opacity 0.3s', pointerEvents: panelOpen ? 'all' : 'none' }}
           onClick={closeInspector}
         />
         <div className={`inspector-panel ${panelOpen ? 'open' : ''}`}>

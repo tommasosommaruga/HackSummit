@@ -1,0 +1,51 @@
+{
+  "schema_version": "ATIF-v1.6",
+  "session_id": "74d801ccb85990af",
+  "agent": {
+    "name": "context-gateway",
+    "version": "1.0.0",
+    "model_name": "claude-haiku-4-5-20251001"
+  },
+  "steps": [
+    {
+      "step_id": 1,
+      "timestamp": "2026-04-23T08:13:43Z",
+      "source": "user",
+      "message": "rag_prep/05_chunk.py shuts down my computer everytime, when I started using many workers. Also, should we use mps instead for parallelization"
+    },
+    {
+      "step_id": 2,
+      "timestamp": "2026-04-23T08:13:43Z",
+      "source": "agent",
+      "model_name": "claude-haiku-4-5-20251001",
+      "message": "{\"title\": \"Debug memory issues with multiprocessing workers\"}",
+      "metrics": {
+        "prompt_tokens": 3274,
+        "completion_tokens": 233
+      },
+      "proxy_interaction": {
+        "pipe_type": "",
+        "pipe_strategy": "_streaming_search_fallback",
+        "client_to_proxy": {
+          "timestamp": "2026-04-23T08:13:43Z",
+          "token_count": 468,
+          "message_count": 1
+        },
+        "proxy_to_llm": {
+          "timestamp": "2026-04-23T08:13:43Z",
+          "token_count": 579,
+          "message_count": 1
+        },
+        "llm_to_proxy": {
+          "timestamp": "2026-04-23T08:13:43Z",
+          "token_count": 233
+        }
+      }
+    }
+  ],
+  "final_metrics": {
+    "total_prompt_tokens": 3274,
+    "total_completion_tokens": 233,
+    "total_steps": 2
+  }
+}

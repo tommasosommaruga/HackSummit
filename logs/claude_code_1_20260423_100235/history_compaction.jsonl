@@ -1,0 +1,2 @@
+{"timestamp":"2026-04-23T08:02:35.732568Z","event":"logger_initialized","details":{"path":"logs/claude_code_1_20260423_100235/history_compaction.jsonl"}}
+{"timestamp":"2026-04-23T08:02:35.896756Z","event":"session_config","details":{"config_name":"fast_setup","config_source":"/Users/momo/.config/context-gateway/configs/fast_setup.yaml","summarizer_model":"claude-haiku-4-5","summarizer_provider":""}}

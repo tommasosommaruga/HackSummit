@@ -2,8 +2,7 @@ import { useState, useRef, useEffect } from 'react'
 import './AuditChat.css'
 
 const MODELS = [
-  { id: 'llama3.2', label: 'Llama 3.2', note: 'fast' },
-  { id: 'mistral',  label: 'Mistral',   note: 'stronger reasoning' },
+  { id: 'mistral', label: 'Mistral', note: 'default' },
 ]
 
 const SUGGESTIONS = [
@@ -21,7 +20,7 @@ export default function AuditChat({ entity }) {
   const [input, setInput]         = useState('')
   const [streaming, setStreaming] = useState(false)
   const [error, setError]         = useState(null)
-  const [model, setModel]         = useState('llama3.2')
+  const [model, setModel]         = useState('mistral')
   const bottomRef  = useRef()
   const inputRef   = useRef()
   const abortRef   = useRef(null)

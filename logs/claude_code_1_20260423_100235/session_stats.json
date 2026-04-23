@@ -1,0 +1,56 @@
+{
+  "session_id": "26d1d7b1f4ab5b32",
+  "updated_at": "2026-04-23T08:04:17Z",
+  "session_start": "2026-04-23T08:02:39Z",
+  "requests": {
+    "total": 7,
+    "main_agent": 1,
+    "subagent": 6,
+    "compressed": 5,
+    "passthrough": 2
+  },
+  "tool_output": {
+    "total_outputs": 3,
+    "compressed": 1,
+    "passthrough_small": 0,
+    "passthrough_large": 0,
+    "cache_hits": 2,
+    "original_tokens": 8103,
+    "compressed_tokens": 1789,
+    "tokens_saved": 6314,
+    "compression_ratio": 0.7792175737381217
+  },
+  "tool_discovery": {
+    "lazy_loading_events": 5,
+    "tools_seen": 235,
+    "tools_kept": 235,
+    "stubs_created": 0,
+    "phantom_tools_injected": 10,
+    "cache_hits": 0,
+    "original_tokens": 105205,
+    "compressed_tokens": 15748,
+    "tokens_saved_by_stubs": 89457,
+    "compression_ratio": 0.8503112969915878
+  },
+  "tool_search": {
+    "calls": 2,
+    "original_tokens": 31625,
+    "compressed_tokens": 12258,
+    "tokens_saved": 19367
+  },
+  "expand_context": {
+    "shadow_refs_created": 3,
+    "expand_calls_found": 1,
+    "expand_calls_not_found": 0,
+    "penalty_tokens": 2701
+  },
+  "preemptive_summarization": {
+    "triggers": 0,
+    "original_tokens": 0,
+    "summarized_tokens": 0,
+    "tokens_saved": 0
+  },
+  "totals": {
+    "tokens_saved": 112437
+  }
+}
