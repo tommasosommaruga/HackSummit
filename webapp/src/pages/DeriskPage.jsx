@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
+import DeriskMap from '../components/DeriskMap.jsx'
 import { computeEntityScore } from '../data/scoring.js'
-import { DERISK_COMPANIES, findDeriskCompanyMatches } from '../data/deriskCompanies.js'
+import { findDeriskCompanyMatches } from '../data/deriskCompanies.js'
 import { reeDossierForOperator } from '../data/reeRecyclingDossier.js'
 import { computeDeriskFromDistance, nearestKm, sortFacilitiesByDistance } from '../lib/deriskScore.js'
 import './MapPage.css'
@@ -67,6 +68,11 @@ export default function DeriskPage () {
     return { nearestKm: d, deriskIndex, accessScore, ranked }
   }, [company, showReeOptions, ree, riskScore])
 
+  const showReeOnMap = Boolean(company && showReeOptions && deriskSection && ree.length)
+  const linkNearestRee = showReeOnMap && deriskSection?.ranked?.[0]
+    ? { lon: deriskSection.ranked[0].lon, lat: deriskSection.ranked[0].lat }
+    : null
+
   const onPickCompany = (c) => {
     setCompany(c)
     setQ(c.name)
@@ -130,7 +136,8 @@ export default function DeriskPage () {
         </div>
       </header>
 
-      <div className="derisk-body">
+      <div className="derisk-layout">
+        <div className="derisk-body">
         <section className="derisk-card derisk-search-card">
           <h2 className="derisk-h2">Search a company</h2>
           <p className="derisk-lead">
@@ -313,6 +320,40 @@ export default function DeriskPage () {
             </p>
           )}
         </footer>
+        </div>
+        <aside className="derisk-map-rail" aria-label="Map">
+          <div className="derisk-map-panel">
+            <div className="derisk-map-head">
+              {company
+                ? (
+                  <span>
+                    {showReeOnMap ? 'HQ & REE register' : 'Headquarters'}
+                  </span>
+                  )
+                : (
+                  <span>Map preview</span>
+                  )}
+            </div>
+            {company
+              ? (
+                <DeriskMap
+                  company={company}
+                  showReePoints={showReeOnMap}
+                  reeList={ree}
+                  linkToNearestRee={linkNearestRee}
+                />
+                )
+              : (
+                <div className="derisk-map-placeholder">
+                  <p className="derisk-map-placeholder-k">No pin yet</p>
+                  <p className="derisk-map-placeholder-t">
+                    Search and pick a company to place its HQ. Open REE recycling to add European plants
+                    and the dashed line to the closest recycler.
+                  </p>
+                </div>
+                )}
+          </div>
+        </aside>
       </div>
     </div>
   )
