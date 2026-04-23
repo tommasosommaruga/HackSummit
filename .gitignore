@@ -23,6 +23,7 @@ webapp/.vite/
 .env.*
 *.key
 
+
 # Data (large files — commit only seeds)
 data/processed/
 data/outputs/
