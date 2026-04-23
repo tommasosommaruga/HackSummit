@@ -105,6 +105,8 @@ function buildSystemPrompt(entity, chunks) {
 
 Your audience is compliance officers, regulators, journalists, and auditors who need rigorous, cited, probabilistic analysis — not reassurance.
 
+CONVERSATION STYLE: Match the user's tone and length. A greeting or short question gets a brief, natural reply — never volunteer an unsolicited report. Only produce deep analysis when the user explicitly asks for it (e.g. "analyse", "what are the risks", "tell me about").
+
 ${'═'.repeat(65)}
 ENTITY UNDER REVIEW
 ${'═'.repeat(65)}
