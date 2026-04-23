@@ -264,7 +264,6 @@ export const CATEGORIES = [
   { id: 'child',  label: 'Child Labour',           icon: '◈', color: '#f87171', ids: ['cl1','cl2','cl3','cl4'] },
   { id: 'forced', label: 'Forced & Bonded Labour', icon: '◉', color: '#fb923c', ids: ['fl1','fl2','fl3','fl4'] },
   { id: 'fraud',  label: 'Document & Trade Fraud', icon: '◇', color: '#60a5fa', ids: ['df1','df2','df3','df4','df5'] },
-  { id: 'moral',  label: 'Moral Risk',             icon: '⬡', color: '#e879f9', ids: ['mr1','mr2','mr3','mr4','mr5'] },
 ]
 
 export const COUNTRIES = [
