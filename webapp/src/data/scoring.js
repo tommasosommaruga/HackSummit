@@ -241,14 +241,16 @@ export const PRESETS = {
 // ── Scoring engine — exported so AuditPage can derive scores from signal presets
 // rather than hardcoding numbers. Same Bayesian non-independence product used
 // by ScoringPage. Source: OECD DD Guidance Ed.3, Annex II.
+const DAMPEN = 0.6
 export function computeEntityScore(signalPreset) {
   const dimScores = CATEGORIES.map(cat => {
     const effects = SIGNALS
       .filter(s => cat.ids.includes(s.id))
-      .map(s => (signalPreset[s.id] ?? 0.5) * s.severity * s.confidence * (1 - s.deniability))
+      .map(s => DAMPEN * (signalPreset[s.id] ?? 0.5) * s.severity * s.confidence * (1 - s.deniability))
     return 1 - effects.reduce((acc, e) => acc * (1 - e), 1)
   })
-  return Math.round((1 - dimScores.reduce((acc, d) => acc * (1 - d), 1)) * 100)
+  const composite = Math.max(...dimScores) * 0.6 + (dimScores.reduce((a, b) => a + b, 0) / dimScores.length) * 0.4
+  return Math.round(composite * 100)
 }
 
 

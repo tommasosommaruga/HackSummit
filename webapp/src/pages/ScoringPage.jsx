@@ -3,7 +3,8 @@ import { SIGNALS, PRESETS, CATEGORIES, COUNTRIES, COUNTRY_INTEL, MASS_BALANCE, G
 import './MapPage.css'
 import './ScoringPage.css'
 
-function sigEffect(sig, triggerP) { return triggerP * sig.severity * sig.confidence * (1 - sig.deniability) }
+const DAMPEN = 0.6
+function sigEffect(sig, triggerP) { return DAMPEN * triggerP * sig.severity * sig.confidence * (1 - sig.deniability) }
 function dimScore(ids, preset) {
   const effects = SIGNALS.filter(s => ids.includes(s.id)).map(s => sigEffect(s, preset[s.id] ?? 0.5))
   return 1 - effects.reduce((acc, e) => acc * (1 - e), 1)
@@ -133,7 +134,8 @@ export default function ScoringPage() {
     const dimScores = Object.fromEntries(
       CATEGORIES.map(cat => [cat.id, dimScore(cat.ids, preset)])
     )
-    dimScores.composite = 1 - CATEGORIES.reduce((acc, cat) => acc * (1 - dimScores[cat.id]), 1)
+    const vals = CATEGORIES.map(cat => dimScores[cat.id])
+    dimScores.composite = Math.max(...vals) * 0.6 + (vals.reduce((a, b) => a + b, 0) / vals.length) * 0.4
     return dimScores
   }, [preset])
 
@@ -198,11 +200,9 @@ export default function ScoringPage() {
           <div className="sc-formula-compact">
             <span className="sc-fc-label">Composite</span>
             <span className="sc-fc-eq">
-              = 1 − {CATEGORIES.map((cat, i) => (
-                <span key={cat.id}>
-                  {i > 0 && ' × '}(1 − {Math.round(scores[cat.id] * 100)}%)
-                </span>
-              ))}
+              = max({CATEGORIES.map((cat, i) => (
+                <span key={cat.id}>{i > 0 && ', '}{Math.round(scores[cat.id] * 100)}%</span>
+              ))}) × 0.6 + mean × 0.4
               {' '}= <strong style={{ color: riskColor(scores.composite) }}>{Math.round(scores.composite * 100)}%</strong>
             </span>
           </div>
@@ -290,9 +290,9 @@ export default function ScoringPage() {
           </button>
           <div className="sc-three-steps">
             {[
-              ['01', 'Signal effect', 'Effect = triggerP × maxImpact × confidence. TriggerP is the empirical site observation (0–1). MaxImpact caps at 0.95 for near-indefensible signals.'],
-              ['02', 'Dimension score', 'D = min(0.92, 1 − ∏(1 − Effect)). Two signals at 40% score 64%. Capped at 92% — open-source inference cannot claim certainty.'],
-              ['03', 'Composite fusion', 'Composite = 1 − ∏(1 − D). Child 85% + Forced 70% + Fraud 60% = composite 97%. No dimension can dilute another.'],
+              ['01', 'Signal effect', 'Effect = 0.6 × triggerP × severity × confidence × (1 − deniability). The 0.6 damping factor prevents saturation from multiple signals in the same dimension.'],
+              ['02', 'Dimension score', 'D = 1 − ∏(1 − Effect). Bayesian noisy-OR: two independent signals at 30% combine to 51%, not 60%. No artificial cap needed with dampened effects.'],
+              ['03', 'Composite fusion', 'Composite = max(D) × 0.6 + mean(D) × 0.4. Blends worst-dimension signal (60% weight) with average severity (40% weight), preventing full saturation when all dimensions are high.'],
             ].map(([n, t, d]) => (
               <div key={n} className="sc-step">
                 <div className="sc-step-num">{n}</div>
@@ -326,9 +326,9 @@ export default function ScoringPage() {
               </div>
               <div className="sc-full-formula">
                 <div className="sc-ff-label">Full scoring formula</div>
-                <pre className="sc-formula sc-formula-lg">{`Effect(s)  = triggerP × maxImpact × confidence
-D(dim)     = min(0.92,  1 − ∏ [ 1 − Effect(s) ])   ← 92% ceiling
-Composite  = 1 − (1 − D_CL) × (1 − D_FL) × (1 − D_DF) × (1 − D_MR)`}</pre>
+                <pre className="sc-formula sc-formula-lg">{`Effect(s)  = 0.6 × triggerP × severity × confidence × (1 − deniability)
+D(dim)     = 1 − ∏ [ 1 − Effect(s) ]   ← Bayesian noisy-OR
+Composite  = max(D_CL, D_FL, D_DF, D_MR) × 0.6 + mean(D) × 0.4`}</pre>
               </div>
             </div>
           )}
