@@ -2,10 +2,10 @@ import { useMemo, useState } from 'react'
 import { SIGNALS, PRESETS, CATEGORIES, COUNTRIES, COUNTRY_INTEL, MASS_BALANCE, GLOBAL_STATS } from '../data/scoring.js'
 import './ScoringPage.css'
 
-function sigWeight(sig, ratio) { return sig.severity * ratio * sig.confidence * (1 - sig.deniability) }
+function sigEffect(sig, triggerP) { return triggerP * sig.severity * sig.confidence * (1 - sig.deniability) }
 function dimScore(ids, preset) {
-  const weights = SIGNALS.filter(s => ids.includes(s.id)).map(s => sigWeight(s, preset[s.id] ?? 0.5))
-  return 1 - weights.reduce((acc, w) => acc * (1 - w), 1)
+  const effects = SIGNALS.filter(s => ids.includes(s.id)).map(s => sigEffect(s, preset[s.id] ?? 0.5))
+  return 1 - effects.reduce((acc, e) => acc * (1 - e), 1)
 }
 function riskColor(v) {
   if (v > 0.75) return '#f87171'
@@ -93,7 +93,7 @@ function SignalRow({ sig, catColor, weight, expanded, onToggle }) {
                 <span className="sc-weq-op">×</span>
                 <span className="sc-weq-item"><span className="sc-weq-lbl">(1 − Deny)</span><span className="sc-weq-val">{Math.round((1 - sig.deniability) * 100)}%</span></span>
                 <span className="sc-weq-op">=</span>
-                <span className="sc-weq-item"><span className="sc-weq-lbl">Weight</span><span className="sc-weq-val" style={{ color: catColor }}>{Math.round(sig.severity * sig.confidence * (1 - sig.deniability) * 100)}%</span></span>
+                <span className="sc-weq-item"><span className="sc-weq-lbl">MaxImpact</span><span className="sc-weq-val" style={{ color: catColor }}>{Math.round(sig.severity * sig.confidence * (1 - sig.deniability) * 100)}%</span></span>
               </div>
             </div>
           </div>
@@ -138,7 +138,7 @@ export default function ScoringPage() {
 
   const sigWeights = useMemo(() => {
     const out = {}
-    SIGNALS.forEach(s => { out[s.id] = sigWeight(s, preset[s.id] ?? 0.5) })
+    SIGNALS.forEach(s => { out[s.id] = sigEffect(s, preset[s.id] ?? 0.5) })
     return out
   }, [preset])
 
@@ -289,9 +289,9 @@ export default function ScoringPage() {
           </button>
           <div className="sc-three-steps">
             {[
-              ['01', 'Signal weight', 'W = Severity × Confidence × (1 − Deniability). Low-deniability signals dominate regardless of other signals.'],
-              ['02', 'Dimension score', 'Score = 1 − ∏(1 − W). Two signals at 40% = 64% dimension score. Compound evidence is exponentially stronger.'],
-              ['03', 'Composite fusion', 'Four dimensions fuse via same product. Child 85% + Forced 70% + Moral 60% = composite 97%. No dimension can dilute another.'],
+              ['01', 'Signal effect', 'Effect = triggerP × maxImpact × confidence. TriggerP is the empirical site observation (0–1). MaxImpact caps at 0.95 for near-indefensible signals.'],
+              ['02', 'Dimension score', 'D = min(0.92, 1 − ∏(1 − Effect)). Two signals at 40% score 64%. Capped at 92% — open-source inference cannot claim certainty.'],
+              ['03', 'Composite fusion', 'Composite = 1 − ∏(1 − D). Child 85% + Forced 70% + Fraud 60% = composite 97%. No dimension can dilute another.'],
             ].map(([n, t, d]) => (
               <div key={n} className="sc-step">
                 <div className="sc-step-num">{n}</div>
@@ -325,10 +325,9 @@ export default function ScoringPage() {
               </div>
               <div className="sc-full-formula">
                 <div className="sc-ff-label">Full scoring formula</div>
-                <pre className="sc-formula sc-formula-lg">{`W(signal) = Severity × Confidence × (1 − Deniability)
-Score(dim) = 1 − ∏ [ 1 − W(s) ]   for all signals s in dimension
-Composite  = 1 − (1 − Score[Child]) × (1 − Score[Forced]) × (1 − Score[Fraud])
-// Missing-data penalty: sources < 3 → add +0.10 before fusion`}</pre>
+                <pre className="sc-formula sc-formula-lg">{`Effect(s)  = triggerP × maxImpact × confidence
+D(dim)     = min(0.92,  1 − ∏ [ 1 − Effect(s) ])   ← 92% ceiling
+Composite  = 1 − (1 − D_CL) × (1 − D_FL) × (1 − D_DF) × (1 − D_MR)`}</pre>
               </div>
             </div>
           )}

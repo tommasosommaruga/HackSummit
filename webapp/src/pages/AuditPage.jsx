@@ -60,7 +60,7 @@ function EntityCard({ entity, onInspect }) {
         </div>
         <div className="risk-badge">
           <div className="risk-num" style={{ color: rc }}>{entity.riskScore}</div>
-          <div className="risk-lbl">Risk</div>
+          <div className="risk-lbl">Composite</div>
         </div>
       </div>
 
@@ -520,7 +520,7 @@ function InspectorPanel({ entity, onClose, auditStates, onAuditChange }) {
         <div className="risk-delta-bar">
           <div className="rdb-score">
             <div className="rdb-num" style={{ color: riskColor(entity.riskScore) }}>{entity.riskScore}</div>
-            <div className="rdb-lbl">Current</div>
+            <div className="rdb-lbl">Composite</div>
           </div>
           {newScore !== null && (
             <>
@@ -541,7 +541,7 @@ function InspectorPanel({ entity, onClose, auditStates, onAuditChange }) {
             <div className="rdb-hint">
               {newScore !== null
                 ? `Grade ${grade} applied · risk reduced by ${entity.riskScore - newScore} pts`
-                : `${entity.riskScore}% risk index · ${checkedCount > 0 ? `${checkedCount}/${TOTAL_ITEMS} items verified` : 'pending inspection'}`
+                : `${entity.riskScore}% composite risk · ${checkedCount > 0 ? `${checkedCount}/${TOTAL_ITEMS} items verified` : 'pending inspection'}`
               }
             </div>
           </div>

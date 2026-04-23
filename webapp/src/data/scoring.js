@@ -243,13 +243,10 @@ export const PRESETS = {
 // by ScoringPage. Source: OECD DD Guidance Ed.3, Annex II.
 export function computeEntityScore(signalPreset) {
   const dimScores = CATEGORIES.map(cat => {
-    const weights = SIGNALS
+    const effects = SIGNALS
       .filter(s => cat.ids.includes(s.id))
-      .map(s => {
-        const ratio = signalPreset[s.id] ?? 0.5
-        return s.severity * ratio * s.confidence * (1 - s.deniability)
-      })
-    return 1 - weights.reduce((acc, w) => acc * (1 - w), 1)
+      .map(s => (signalPreset[s.id] ?? 0.5) * s.severity * s.confidence * (1 - s.deniability))
+    return 1 - effects.reduce((acc, e) => acc * (1 - e), 1)
   })
   return Math.round((1 - dimScores.reduce((acc, d) => acc * (1 - d), 1)) * 100)
 }
