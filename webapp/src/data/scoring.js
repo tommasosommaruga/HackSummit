@@ -236,6 +236,12 @@ export const PRESETS = {
   myanmar:   { cl1:0.65, cl2:0.65, cl3:0.60, cl4:0.75, fl1:0.80, fl2:0.70, fl3:0.78, fl4:0.82, df1:0.80, df2:0.82, df3:0.60, df4:0.70, df5:0.75, mr1:0.98, mr2:0.80, mr3:0.88, mr4:0.95, mr5:0.88 },
   indonesia: { cl1:0.52, cl2:0.48, cl3:0.45, cl4:0.62, fl1:0.58, fl2:0.42, fl3:0.48, fl4:0.38, df1:0.62, df2:0.58, df3:0.42, df4:0.68, df5:0.55, mr1:0.92, mr2:0.70, mr3:0.85, mr4:0.70, mr5:0.68 },
   custom:    { cl1:0.50, cl2:0.50, cl3:0.50, cl4:0.50, fl1:0.50, fl2:0.50, fl3:0.50, fl4:0.50, df1:0.50, df2:0.50, df3:0.50, df4:0.50, df5:0.50, mr1:0.50, mr2:0.50, mr3:0.50, mr4:0.50, mr5:0.50 },
+  /**
+   * EU-regulated operator baseline for the supply-chain “derisk” tool: lower structural
+   * child/forced-labour priors, stronger document regimes vs high-risk extractive regions.
+   * Same 15-signal keys as all presets; scores via {@link computeEntityScore} only.
+   */
+  eu_derisk: { cl1:0.22, cl2:0.18, cl3:0.20, cl4:0.15, fl1:0.25, fl2:0.18, fl3:0.32, fl4:0.20, df1:0.35, df2:0.22, df3:0.30, df4:0.28, df5:0.25, mr1:0.32, mr2:0.22, mr3:0.28, mr4:0.20, mr5:0.30 },
 }
 
 // ── Scoring engine — exported so AuditPage can derive scores from signal presets

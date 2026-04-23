@@ -5,6 +5,7 @@ const NAV_ITEMS = [
   { id: 'chain',   icon: '⛓',  label: 'Supply Chain' },
   { id: 'recycling', icon: '♻',  label: 'Recycling' },
   { id: 'scoring', icon: '◈',   label: 'Risk Scoring' },
+  { id: 'derisk',  icon: '◇',  label: 'Derisk' },
   { id: 'audit',   icon: '🔍',  label: 'Audit Dashboard' },
 ]
 

@@ -8,6 +8,7 @@
     "dev:all": "concurrently -n \"API,Vite\" -c \"cyan,magenta\" \"node server/chat.js\" \"vite\"",
     "build": "vite build",
     "build:recycle-geo": "node scripts/build-recycling-geocode.mjs",
+    "build:derisk-data": "node scripts/build-derisk-data.mjs",
     "preview": "vite preview"
   },
   "dependencies": {
