@@ -1,0 +1,710 @@
+Claude Kabemba
+
+Southern Africa Resource Watch
+Resource Insight
+Special Edition June 2007
+Resource Insight is published by the Southern Africa Resource Watch
+Sothern Africa Resource Watch (SARW) is a project of the Open Society Initiative for Southern Africa
+(OSISA).
+ISSN:1994-5604
+Key title:Resource Insight
+Southern Africa Resource Watch
+12th floor Braamfontein Centre
+23 Jorissen Street
+Braamfontein,2017
+PO Box 678,Wits 2050
+Johannesburg
+Tel: 27 (0) 11 403 3414/5/6
+Fax: 27 (0) 11 403 2708
+Email: info@osisa.org
+Editorial Team: Tawanda Mutasah,Claude Kabemba,Alice Kwaramba,and Stuart Marr
+Design and Layout: Paul Wade
+Cover Photograph: Eric Miller/iAfrikaPhotos
+Production: DS Print Media
+The opinions expressed in this Resource Insight do not necessarily reflect those of SARW/ OSISA or
+its Board.Authors contribute to the Resource Insight in their personal capacities.
+We appreciate feedback on this publication.Write to sarw@osisa.org or info@osisa.org
+To order copies,contact publications@osisa.org
+
+Guidelines for the Revision of Mining Contracts in the DRC
+Contents
+Acronyms 4
+Acknowledgements 4
+Introduction 5
+Background 7
+Reasons favouring the revision of contracts 9
+The moral argument 9
+The legal / rights based argument 10
+Guidelines for reviewing mining contracts in the DRC 15
+Objectives of the commission 15
+The commission’s mandate 15
+Composition of the commission 16
+The process of revising the contracts 17
+What the commission should look for in the contracts 18
+Performance management 21
+Implementation of the commission’s recommendations 22
+Conclusion 23
+Notes 24
+
+Southern Africa Resource Watch
+Acronyms
+DRC Democratic Republic of the Congo
+EITI the Extractive Industry Transparency Initiative
+MDGs Millennium Development Goals
+SADC Southern African Development Community
+UN United Nations
+Acknowledgements
+SARW would like to acknowledge the key role played by Tawanda Mutasah, the Executive
+Director of OSISA, for his intellectual contribution and guidance in the drafting of the
+guidelines. Thanks also go to colleagues at OSISA who took time to comment on the draft
+text and engaged with me in the debate around the legality and the legitimacy of the
+Congolese government’s decision to review mining contracts. All contributions are greatly
+appreciated and have enhanced the quality of arguments.It is our hope that these guidelines
+will make a positive contribution to the revision of mining contracts already underway in the
+DRC.
+About the author:Claude Kabemba is the Director of the Sothern Africa Resource Watch
+(SARW).
+4
+
+Guidelines for the Revision of Mining Contracts in the DRC
+Introduction
+These guidelines provide a framework, which the Democratic Republic of the Congo
+(DRC) government can use to ensure that the revision of contracts is fair,just and transpar-
+ent.Minerals form part of a country’s national assets,the proceeds of which should be used
+to help meet national development objectives. Mineral production constitutes a major
+source of foreign and fiscal revenues for most African governments.For post conflict coun-
+tries,such the DRC,resource flows from extractive industries could be a lifeline.However,
+the existence of dubious mining contracts is a serious impediment to that objective,as is the
+case in the DRC where dozens of mining contracts are suspected of being shady.The state
+cannot intervene meaningfully in social service provision and in meeting other public sector
+investment needs if it remains tied to what are clearly unconscionable contracts inherited
+from a chequered political past. As such, the newly elected DRC government’s decision to
+review mining contracts,and if need be to rescind them,is a step in the right direction.
+This move has,however,created some agitation:there is uncertainty within government itself
+about what is supposed to happen and how far it ought to go;and there is some trepidation
+that companies may resist this move,while others have suggested that contract revisions could
+scare away investors.But the government of Prime Minister Antoine Gisenga has decided to
+face up to the challenge.On 11 June 2007 the Ministry of Mining launched the work of the
+ad hoc government commission established to review 60 existing mining contracts.
+The mining sector in the DRC is characterised by lack of transparency and irregularities
+around the exploitation of resources.Although the exploitation is mostly done legally,there
+are flaws in many of the contracts that favour the extractive companies,which draw exces-
+sive benefits to the detriment of the host government and its people.The contracts in effect
+allow for the plunder of resources due to the levels set for royalties,the tax breaks on cor-
+porate investments and the issue of transferability.
+The corrupt nature of the mining business in the DRC means that government cannot raise
+enough money from the extractive industry, which is the country’s comparative advantage,
+to promote efficient and equitable development and to work towards meeting the
+5
+
+Southern Africa Resource Watch
+Millennium Development Goals (MDGs).1 In fact, instead of contributing to growth and
+development, minerals extraction in the DRC has done the opposite: it has contributed to
+increasing poverty and unemployment,the destruction of the environment and the abuse of
+human rights. Congolese working in this sector, especially those involved in artisanal min-
+ing,are subjected to conditions sometime far worse than the slavery of King Leopold II.2
+The revision of mining contracts should therefore be seen as part of a larger and unavoid-
+able audit of the mining sector in the DRC.The commission should in the process also pro-
+pose,where necessary,changes to DRC extractive industry legislation to ensure that it is in
+line with regional and international norms and standards.
+6
+
+Guidelines for the Revision of Mining Contracts in the DRC
+Background
+The DRC’s successful elections of 2006 put in place the country’s first democratically elect-
+ed government since independence some 40 years ago. However, the new democratic dis-
+pensation has come with its own political,economic and social challenges.Two critical chal-
+lenges facing the new leadership are the provision of basic services to citizens and the
+rebuilding of infrastructure.
+Importantly, the state is unable to generate resources internally and is dependent on inter-
+national support to meet its financial needs.This is because despite its enormous extractive
+industry potential (34 per cent of the world’s known reserves of coltan and 10 per cent of
+its copper; other minerals include cobalt, gold, oil, timber, water, energy, uranium, gas
+methane, manganese and zinc, to mention but a few), the DRC government is unable to
+draw financial benefits from the extraction of its minerals and the country is one of the
+poorest in the world,with per capita annual income of US$120.3
+The contracts being called into question were signed during the DRC wars (from 1996 to
+2003) or during the transition period after the successful Inter-Congolese Dialogue at Sun
+City in South Africa.This is,of course,in addition to the many corrupt concessions made
+in the mining sector over the years under Mobutu,and the myriad other arrangements that
+have been made in more recent times as assets have been systematically looted, these pur-
+porting to be concessions contemplated under the country’s Mining Code developed with
+the support of the World Bank.
+The mining sector is supposed to be the cornerstone of the DRC’s economic development.
+The contractual arrangements signed between the Congolese leaders and investors remain
+unknown to the majority of the Congolese people. In light of the UN Panel of Expert’s
+Report on the illegal exploitation of the DRC natural resources, the Lutundula
+Parliamentary Report and many other reports from Congolese civil society, people believe
+that most of these contracts, if not all, are dubious. The Assembly of Bishops from the
+Katanga Province,in its address to the new democratically elected Congolese leaders,argues
+that only a few Congolese individuals are drawing benefits from the minerals,but the peo-
+7
+
+Southern Africa Resource Watch
+ple are not benefiting. The bishops “… request that the law and legislation that guide the
+exploitation of mineral resources be clear and the working conditions conform to human
+dignity.”4
+Together with some important challenges,the democratic dispensation has brought with it
+unprecedented opportunities for the mining sector to play a leading role as a contributor to
+the country’s reconstruction. However, for it to play this role successfully, it will need to
+undergo extensive restructuring. It is in this context that we applaud the decision of the
+DRC government to review mining contracts.
+While the overall restructuring of the mining sector is necessary and expected,the proposed
+revision of mining contracts is an important step towards arresting the resource spoliation
+and human rights abuses taking place in the mining sector in the DRC – and which in the
+context of war were not dealt with. But the democratic dispensation has given the
+Congolese people their power back,and action in this regard is expected.We must bear in
+mind,however,that corruption and mismanagement of revenue in other parts of the world
+and on the African continent is raising discontent among populations and creating political
+instability,and the same could happen in the DRC if there is no transparency in the way con-
+tracts are signed and implemented.
+The guidelines are divided into two parts.The first part examines the need for a revision of
+mining contracts in the DRC, and the second part looks into ways in which this can be
+done.
+8
+
+Guidelines for the Revision of Mining Contracts in the DRC
+Reasons favouring the revision of contracts
+The question that is raised repeatedly is whether the new government in the DRC has the
+right to review contracts signed by its predecessors, especially since contracts between pri-
+vate companies and government,as ultimate owner of the resources,are often complex.A
+risk associated with complex contracts is that the true market value of the contracts may be
+better understood by companies than by the government.5
+It must be remembered that most mining contracts on the basis of which minerals are being
+extracted in the DRC today, were signed under conditions of war and in the absence of
+democracy.This situation did not favour fair contract negotiations between a weak govern-
+ment and financially strong multinationals. In fact, in order to persuade multinationals to
+take risks during a period of much uncertainty, the Congolese “government” at the time
+signed contracts on terms that were not in the best interests of the Congolese people. In
+this context two arguments – a moral argument and a legal/rights based argument – can be
+made which justify and legitimise the Congolese government’s decision to review and revise
+mining contracts.
+The moral argument
+The moral argument begins with the premise that the Congolese people have suffered
+numerous atrocities – slavery, colonialism, dictatorship and war – all linked to exploitation
+of the country’s natural resources.The Congolese have never controlled or benefited from
+these resources,and today its 60 million people live in adverse poverty.
+The recent war, which started in 1996 and which is continuing in the eastern part of the
+country,killed over four million people.The war was associated with the control of natural
+resources,as different groups fought each other in an attempt to gain control of the extrac-
+tion of resources.It seems fitting,therefore,that with a democratically elected government
+in place,the Congolese should take control of their natural resources.Part of this process
+would thus naturally include the scrutiny of questionable contracts signed mostly during the
+war and the transition period.
+9
+
+Southern Africa Resource Watch
+It is estimated that 70 per cent of the DRC’s most valuable copper and cobalt reserves have
+already been signed away to international companies.Former Zambian president,Kenneth
+Kaunda, referring to how copper mines are being sold in his own country to international
+investors,said something which resonates well with what is happening in the DRC:“We are
+giving up control over our riches,and it’s a disgrace.The rest of the country has gone down-
+hill.”6 In the DRC, as an African Development Bank and Organisation of Economic
+Cooperation and Development recent report puts it: “Growth of mining is hampered by
+overall bad management of resources,fraud and slow structural reform,and the country has
+not been able to benefit fully from the opportunities provided by rising world metal prices.”7
+A well-managed mining sector is critical for the DRC’s development.If the contracts
+are not revised,the new government will find it difficult to meet its budgetary targets
+and consequently deal with its pressing developmental challenges;and without devel-
+opment and economic growth,there can be no peace.
+The revision of mining contracts is therefore critical for the government’s own survival and
+for the consolidation of peace and democracy in the DRC. Furthermore, the revision of
+shady contracts is justified in that the government is now trying to break with a past char-
+acterised by mismanagement, opacity and kleptocracy (resource plundering), and is in the
+process of establishing a new institutional framework that conforms to the principles of
+good governance,transparency and accountability.The government needs to be encouraged
+and supported in this process.The revision of contracts would help minimise the cheating
+that is happening in the extractive industry in the DRC.
+The legal / rights based argument
+The legal and human rights argument maintains that all contracts that were concluded in a
+manner which did not respect national and international legal frameworks,norms and stan-
+dards of good governance,transparency,accountability and respect for human rights can be
+renegotiated. In a democracy, contracts are only secured if they are legitimate. Most con-
+tracts which the Congolese government wants to revisit are suspected to have been conclud-
+ed in bad faith,and are therefore illegitimate.Put differently,the interest of commercial con-
+tracts cannot override the interests of the public.
+There are precedents which suggest that it is possible to renegotiate and introduce adjust-
+ments to mining contracts. A recent example is the Arcelor Mittal in Liberia. Johnson
+Sirleaf’s government last year renegotiated a major iron ore mining project with Arcelor
+Mittal that was signed during the transition under cater-taker president Gyude Bryant.The
+revised deal boosted the state’s benefits and raised the total investment to US$1 billion.
+10
+
+Guidelines for the Revision of Mining Contracts in the DRC
+The DRC government’s decision to review mining contracts can find justification within the
+confines of national, regional, continental and international norms and standards. The
+extraction of natural resources (oil,gas,timber or mining) is also regulated by international
+legal provisions to protect human rights and the environment
+At the national level,the Congolese legal framework has changed in recent years following
+the adoption of the new Mining Code in 2002,the new investment legislation and the new
+constitution in 2006.These instruments prescribe the manner in which minerals ought to be
+exploited. The DRC Constitution in Article 9 recognises the Congolese state’s sovereignty
+over its natural resources,while the Mining Code in Article 8 specifies that the state guaran-
+tees the valorisation of mineral commodities in conformity with the nature of the code.
+Chapter III of the Mining Code specifies the framework within which the acquisition of
+mineral and mining rights should occur,and stipulates that “it must be done in a transpar-
+ent,objective and efficient manner.”The Mining Code also prescribes the kind of sanctions
+the state can put in place against non conformity with the rules and standards provided (see
+articles 293,295,296,289,290,291 and 292).
+At the international level,the United Nations (UN) through Resolution 1803,which set the
+Principle for Permanent Sovereignty, recognises the existence of states’ sovereignty over
+their resources.While it affords states wide discretion to dispose of their resources as they
+see fit,it does,however,prescribe the context within which states must act.It requires states
+to exercise this sovereignty in the interest of the people: “The rights of the people and
+nations to permanent sovereignty over their natural wealth and resources must be exercised
+in the interest of their national development and of the well being of the people of the State
+concerned.”8 This is a permanent sovereignty doctrine which can also be found in the
+Charter of Economic Rights and Duties of States,passed by the UN General Assembly in
+1974 as a centrepiece of what came to be called the “New International Economic Order”.9
+Article 2 of the Charter reads as follows:
+1 Every state has and shall freely exercise full permanent-sovereignty,including
+possession,use and disposal,over all its wealth,natural resources and economic
+activities.
+2 Each state has the right:(a) To regulate and exercise authority over foreign
+investment within its national jurisdiction and take measures to ensure that such
+activities comply with its laws and regulations and conform with its national
+objectives and priorities …;(b) to regulate and supervise the activities of transna-
+tional corporations within its national jurisdiction and take measures to ensure
+that such activities comply with its laws,rules and regulations and conform with
+its economic and social policies.
+11
+
+Southern Africa Resource Watch
+It is clear from the Charter that the UN General Assembly reinforces a state’s authority
+against unlawful exploitation of resources.
+Another international principle that supports the Congolese government’s decision to
+review mining contracts is the International Covenant on Economic, Social and Cultural
+Rights (Ecosoc Covenant).It stipulates that the misuse of a nation’s resources is a violation
+of human rights, and it obligates states to “respect, protect, and fulfill the rights it sets
+forth.”10 Therefore,it will not be a contradiction – or wrong for that matter – to argue that
+the Congolese government is within its rights and powers to reconsider deals which are
+unlawful and harmful to its people.
+At the regional level is the Southern African Development Community (SADC) Mining
+Protocol, which came into force in February 2000. The objective of the SADC Mining
+Protocol is to create a thriving mining sector that can contribute to economic development,
+alleviate poverty and improve the standards and quality of life in the region. One of the
+protocol’s areas of focus is the promotion and monitoring of internationally accepted stan-
+dards of health,mining safety and environmental protection.The SADC Protocol also calls
+for the economic empowerment of the historically disadvantaged in the mining sector.
+Also at regional level, the SADC mining ministers in August 2001 approved the Mining
+Strategic Plan,which spells out how the Mining Protocol would be implemented.It is also
+critical to refer to the African Mining Partnership, which encourages the participation of
+women in the mining sector.
+At the continental level,the African (Banjul) Charter on Human and Peoples’Rights adopt-
+ed in 1986 (to which the DRC is a signatory) stipulates in Article 21 that:
+“All peoples shall freely dispose of their wealth and natural resources.This right shall
+be exercised in the exclusive interest of the people. In no case shall a people be
+deprived of it.In case of spoliation the dispossessed people shall have the right to
+the lawful recovery of its property as well as to an adequate compensation....”
+There is in fact an outcry,both within the DRC and internationally,that the Congolese peo-
+ple are being exploited and dispossessed of their resources by unscrupulous investors.
+According to a man whose child works in a Chinese-controlled mine as a digger and earns
+just US$5 a week:“They are just using him … There is a possibility we could have violent
+confrontation.”11 It is sentiments such as these which have prompted the new leadership in
+the DRC to revise existing mining contracts.
+12
+
+Guidelines for the Revision of Mining Contracts in the DRC
+There is also pressure on the DRC government to take action because the DRC is a signa-
+tory to the Extractive Industry Transparency Initiative (EITI),which aims to promote trans-
+parency and social and economic benefits in oil,gas and mining countries.The DRC is well
+known for the level of spoliation of revenues from mining which go into private pockets.
+Indeed,the enormous mineral wealth that lies beneath the ground of this vast country not
+only has dubious connection with human development but it also appears to foster a per-
+verted political and institutional culture,based on corruption.It is therefore not surprising
+that despite the high price of minerals on the international market,the DRC has nothing to
+show from the sale of its minerals.
+There is thus need to strengthen the utilisation of revenue and this requires, on the one
+hand, that companies pay internationally acceptable taxes and royalties and, on the other
+hand,that the government has the capacity to collect these taxes and use the revenues col-
+lected efficiently and in a transparent way.The EITI provides a framework within which this
+can happen.
+The African Charter stipulates further in Article 21 that:
+“… States parties to the present Charter shall undertake to eliminate all forms of for-
+eign economic exploitation particularly that practiced by international monopolies so
+as to enable their peoples to fully benefit from the advantages derived from their
+national resources.”
+The Congolese government’s decision to review and revise mining contracts is a response
+to studies undertaken by both national and international experts,which have pointed to the
+existence of dubious contracts and to the fact that the exploitation of mineral resources
+does not benefit the Congolese state and its people, but instead perpetuates human rights
+violations.12
+While there are sufficient grounds for the Congolese government to proceed and revise the
+mining contracts,the process leading to their revision must also be transparent in respect of
+international law, norms and standards. This is confirmed in the African Charter when it
+states in Article 21 that: “The free disposal of wealth and natural resources shall be exer-
+cised without prejudice to the obligation of promoting international economic cooperation
+based on mutual respect,equitable exchange and the principles of international law.”
+The revision of mining contracts will not be an easy process,and it is not supported by all,
+especially those in government and companies who stand to lose.It is therefore critical that
+the process be transparent and inclusive.
+13
+
+Southern Africa Resource Watch
+There are good reasons to believe that increased transparency and the restoration of justice
+in the mining sector in the DRC would be beneficial,indispensable,and morally correct for
+both government and companies. Consistent transparency can increase productivity for
+companies,boost revenue for government,and increase the protection of human rights for
+citizens.This is why the process must not limit itself to the revision of contracts but must
+also elaborate mechanisms that prevent similarly unconscionable contracts from being
+signed in the future;in other words,mechanisms for protecting Congolese interests in new
+contract negotiations must be secured.
+Over and above the international and national instruments which regulate the exploitation
+of natural resources,mining companies in the DRC need to incorporate into their activities,
+among others, the Convention on the Elimination of all Forms of Discrimination against
+Women, indigenous people’s human rights safeguards, and the International Labour
+Organisation’s Core Labour Standards.
+The commission appointed to review and revise mining contracts in the DRC therefore has
+numerous instruments, norms and standards at its disposal to lead a fair and transparent
+process. The revision of contracts must also be informed by national policies, and these
+national policies themselves need to be informed by the principles of stability,consistency,
+stakeholder dialogue,management of expectations,social obligations and the tradability of
+mineral rights.
+14
+
+Guidelines for the Revision of Mining Contracts in the DRC
+Guidelines for reviewing
+mining contracts in the DRC
+Objectives of the commission
+The objectives of the commission appointed to revise mining contracts have been defined
+by the Ministry of Mines.13 However, if the process is to have any real significance, it is
+important to determine whether these objectives, as defined, meet the expectations of the
+Congolese people.If not,the objective must be redefined and clarified.
+The commission’s mandate
+Defining the role of the commission is not enough.The mandate of the commission must
+be established very clearly in terms of its scope, operation, power and responsibilities,
+before it begins its work.
+The commission must have a well defined scope of work to be accomplished.The change
+in concept from the “revision”of contracts to the “revisitation”of contracts has shifted the
+commission’s focus,and this might impact on the expected outcomes.For example,does the
+revisitation,which appears to be a watering down of revision of contracts include the can-
+cellation of contracts that are found wanting in terms of the national legislation and inter-
+national norms and standards which guide the exploitation of natural resources?
+The commission’s powers must be clearly framed.For example,is the commission allowed
+to decide whether contracts should be cancelled,revised or allowed to continue? Is the com-
+mission’s decision binding,or is it simply expected to make recommendations?
+The commission’s responsibilities must be articulated in a clear manner to avoid confusion.
+Furthermore, the responsibility of the commission should not be limited to contract revi-
+sion as such. In the course of its work, the commission must be able to identify areas for
+improving the management of mineral resources by closing gaps in the country’s legislation
+and by domesticating international and regional norms and standards.
+15
+
+Southern Africa Resource Watch
+It is also not clear which state institution or body is empowered to take the final decision on
+commission recommendations and who will execute such recommendations.
+Composition of the commission
+The composition of the commission was determined by government,and it is clear that the
+commission’s permanent members with decision-making powers are government func-
+tionaries.14 However, it would have been appropriate to have outside actors, such as civil
+society,involved in the deliberation and adoption team.
+We therefore propose the following:
+1 Members of the commission must include representatives of all state organs identi-
+fied in the Mining Code as having a role to play in the management of the mining
+sector.This would therefore include:the Presidency,the Prime Minister’s Office,the
+Ministry of Mining, the Premiers’ Office, provincial Ministries of Mining, geology
+departments,the Cadastre Miniere,and others involved in the protection of the min-
+ing environment.15
+2 Members of the commission must have the relevant skills and competence to do the
+job.The skills within the commission and the calibre of its members will determine
+its success or failure. It is a positive sign that the internal rules of the commission
+stipulate that the commission can decide to bring in outside expertise when neces-
+sary;however,the fact that these experts will not be part of the deliberations reduces
+the extent of their contribution.
+3 The composition of the commission must comply with the spirit of the DRC con-
+stitution’s prescription to respect gender balance.Women in the DRC have suffered
+tremendous human rights abuses and they must be fairly represented in a structure
+responsible for decisions that affect their lives and the lives of their children.
+4 The commission members,taken individually and collectively,must be of high moral
+standing and can have no vested interest or conflict of interest if the effective revi-
+sion of contracts is to be ensured. This suggests that members must be neutral in
+their judgments; and neutrality is a difficult notion, especially in matters as sensitive
+and politically driven as this one.However,it is critical that the public (and the com-
+panies involved) have a level of confidence in the commission,and that the commis-
+sion operates without outside interference.
+5 The commission must be independent, both in terms of its operations and in the
+management of its finances. Although the commission must remain accountable to
+16
+
+Guidelines for the Revision of Mining Contracts in the DRC
+the state treasury on how it uses the money received, financial autonomy will avoid
+manipulations,which could include using finances to frustrate its operations,thereby
+leading to unnecessary delays in the process.
+The process of revising the contracts
+The process must respect the following democratic principles and values:
+1 The process must be transparent. This is critical if the final verdict is to be accepted
+by all.The purpose of calls for transparency is to permit citizens to hold government
+and its commission accountable for the decisions they may take.But despite its ben-
+efits,increasing transparency is hard to do.Even when a given government or com-
+pany would find it in its institutional interest to be transparent, individuals within
+such institutions may prefer secrecy in order to cover up corruption, to protect
+opportunities for rent-seeking, or simply to avoid public scrutiny. Transparency
+means that “when there are adjustments to the terms of the contract,they should be
+made in an open and transparent manner.”16
+2 The process must be accountable.Accountability requires civil society participation and
+parliamentary oversight – and these two principles can only be achieved through con-
+sultation.However,the rules of the commission do not stipulate how it is to engage
+with civil society,or what role,if any,parliament will play.As mentioned,we believe
+that parliament should be involved in the process, especially the Parliamentary
+Portfolio Committee on the Environment and Natural Resources. The revision of
+mining contracts must be subjected to wide and detailed oversight. This parliamen-
+tary oversight could be supported and enhanced during the course of the revision by
+weekly and monthly reports on the commission’s progress.
+3 A critical element for accountability is to ensure community participationso that people
+are aware of what is happening.A consultative framework should therefore be estab-
+lished whereby the commission is not cut off from the community, and which
+ensures that the community is consulted. Democracy is not simply about elections:
+elections alone cannot provide accountability unless citizens monitor the actions of
+those whom they have put in power.For their part,multinational companies can no
+longer assume that once they have signed mining contracts with a government,they
+can do as they please.
+4 For the community,even civil society,to make an informed contribution,people must
+have access to information:there can be no transparency or effective consultation with-
+out the provision of information. During the course of its work the commission
+17
+
+Southern Africa Resource Watch
+could include in its activities site visits.This will allow the commission to have first-
+hand experience of the destruction caused by companies, and to register people’s
+concerns.This is part of what is called a “development-centred”approach.
+5 A development-centred approach means that individuals and communities are helped to
+take control of their own lives.Communities and civil society can play a role in assist-
+ing the process by virtue of being closer to the sites of action, and by speaking to
+those most affected by the adverse socio-economic impact of mining operations. It
+is therefore in the interest of both government and the mining companies to hear the
+voice of civil society and communities in this process.The people of the DRC have
+never been consulted on matters concerning their resources,and the review process
+initiated by government is an opportunity to start involving people and giving them
+a say in how their resources should be exploited.
+6 The process must be time-bound with clear completion dates to ensure that the revi-
+sion of mining contracts does not turn into a long and frustrating process.While the
+timeframe should not include legal actions that might be taken by different parties to
+the contract,the commission must not be allowed to extend its work indefinitely.
+A proper process for the revision of contracts must be based on:
+• clear norms and standards for good practice;
+• the effective participation of specialised civil society;
+• appropriate parliamentary oversight;and
+• mechanisms for ensuring citizens access to information around the work of the
+commission.
+What the commission should look for in the contracts
+The responsibility of the commission is to assess the compliance of existing mining con-
+tracts with the laws of the country,including mining legislation and international norms and
+standards.When reviewing the contracts,the commission should therefore take into account
+the following critical issues:
+1 The commission must examine the fairness of the process that was followed to sign
+the contracts. Contracts which were obtained through a flawed process can be
+rescinded.The Mining Code in Chapter III stipulates that the process of negotiating
+contracts must be transparent, objective, efficient and expedient in reception,
+instruction and decision on mineral or mining rights.17
+18
+
+Guidelines for the Revision of Mining Contracts in the DRC
+2 The commission must examine fiscal terms of mining contracts. The tax and tariff
+structure of contracts, including royalty, dead rent, state taxes, etc., and the periods
+for the revision should constitute a critical part of the revision.These must be com-
+pared with what obtains in the competing major mineral-producing countries such as
+Australia,Botswana,Canada and South Africa,to ensure that the DRC government
+is receiving the tax revenues to which it is entitled. Where discrepancies are found,
+they must be adjusted;and where there is proof that companies have not paid their
+taxes and royalties,the companies concerned must be made to pay their arrears in full
+before they are allowed to continue mining.
+3 The commission must assess what the contracts say on issues concerning mineral
+beneficiation,and the commission must identify and analyse minerals that have value
+added potential.This would involve assessment of the impact of contracts on down-
+stream mineral based industries.If there are no clauses dealing with these issues,they
+must be introduced.
+4 The commission must repeal confidentiality clauses in all the mining contracts,since
+such clauses hinder the transparent accounting standards required by the EITI.The
+prerogative of private firms not to disclose revenue,payments and contract informa-
+tion is an infringement of the Aarhus Convention on Access to Information,Public
+Participation in Decision-making and Access to Justice in Environmental Matters.18
+Business secrecy is too often simply a cover for bad behaviour.19
+5 Furthermore, in an effort to improve revenue management and to guarantee a fair
+redistribution of such revenues,the commission should insist that all mining compa-
+nies doing business in the DRC endorse the EITI.As part of the EITI requirements,
+companies are obliged to publish all payments made to government,and government
+in turn must declare payments it receives from companies.
+6 The commission must assess the degree to which mining contracts empower the
+Congolese people. Empowerment here goes well beyond the simple provision of
+jobs (although it is important and necessary for the mining sector to provide employ-
+ment) to include real empowerment issues, such as Congolese participation in the
+management and ownership of their resources through partnerships, shareholding
+and the management of companies.Furthermore,gender mainstreaming in the min-
+ing sector should be considered as critical to facilitate the active involvement of
+women in the sector.
+19
+
+Southern Africa Resource Watch
+It is in the interests of the Congolese economy for the mining industry to have a
+wider spread of ownership, and the DRC cannot continue to have a mining sector
+where the owner of the resources is a perpetual employee.
+The commission could ask parliament to prepare empowerment legislation which
+would oblige companies to include Congolese in their top management and to enter
+into partnerships with Congolese junior miners. Such legislation is important in
+ensuring that the Congolese benefit from their resources, which are mostly con-
+trolled by foreign capital.
+7 The commission must assess the legal framework.Normally,the framework should
+guarantee the genuine participation of local communities at all stages of extractive
+projects. This will mean only granting licences for extractive operations with the
+prior consent of local communities,and where such projects have built in empower-
+ment clauses.In other words,the “state should impose reasonable social obligation
+upon holders of exploration and mining licences and should make commitment to
+social obligations a requirement for the granting and renewing of exploration and
+mining licences.”20
+8 The commission must assess contracts in terms of companies’adherence to the pro-
+motion of research and development in the mining sector.This is critical if the min-
+ing sector is to remain relevant to the Congolese economy in the long run.
+Companies must be required to invest in research and new technology.
+9 The commission must verify the validity of the contracts. The Mining Code stipu-
+lates two conditions in this regard,which translate into obligations,namely:to start
+the exploration and mining in a relatively short period as agreed upon; and to pay
+royalties.
+10 The commission must assess the progressive nature of the contracts in terms of
+human resources issues,corporate social responsibility and respect for human rights.
+The following issues should be looked at: mine health and safety; human resource
+development;housing and living conditions of workers;community facilities in areas
+surrounding the mines;industrial relations;employment conditions;and land rights,
+especially compensation and future benefits that should accrue to people.The com-
+mission should also assess the impact of contracts on social equity, poverty allevia-
+tion and employment creation.
+20
+
+Guidelines for the Revision of Mining Contracts in the DRC
+11 The commission must evaluate if the contracts make reference to the protection of
+the local environment (air, water, ecosystems and biodiversity). The commission
+must request that concerned companies submit their environmental impact assess-
+ment reports before mining commences,and that subsequent reports are undertak-
+en and submitted during the mining period. The standards should include a provi-
+sion which requests all companies to make available,in an accessible language,their
+environmental impact assessment reports.The commission must propose to govern-
+ment the adoption of standards and the establishment of procedures which would
+ensure that mining companies’ operations do not result in, benefit from, or other-
+wise contribute to human rights abuses or environmental degradation.
+12 The commission must assess the economic impact of the contracts;for example,the
+impact of a contract on economic activity in an area,on the cost of energy,and on
+foreign direct investment.
+13 The commission must assess the contracts vis-à-vis the promotion or transfer of
+appropriate technology. It should look at positive or negative implications for the
+transfer of technology to the DRC arising from a contract,as well as the impact of
+the contract on local skills development.
+14 The commission must assess the impact of a contract on decentralisation.In other
+words,is the contract aligned with national,provincial and local development prior-
+ities and objectives,and what impact does the contract have on the provision of,or
+access to,basic services in the area?
+15 The commission must ensure that all contracts are standardised in line with the exist-
+ing legal framework, thereby bringing transparency, predictability and stability into
+the sector.
+16 The commission must also look into the nature of privatisation of public mining
+companies and how effective it has been. This is in view of the fact that certain con-
+tracts signed between public companies and private companies allowed the latter to
+obtain their property rights cheaply.
+Performance management
+The commission must adhere to strict performance criteria.There must be a consistent,rig-
+orous and open approach to performance management to ensure that the commission’s
+objectives, mandates and timelines are respected. In addition, a system of checks and bal-
+ances is needed to ensure that commission members keep within the agreed brief.
+21
+
+Southern Africa Resource Watch
+One of the tasks of the commission must be to make proposals on institutional,legislative
+and administrative reforms to prevent dubious contracts from being signed in the future.
+These proposals should include measures to promote good governance,accountability and
+the prevention of tax evasion and human rights abuses in communities.
+The commission’s recommendations in the area of institutional reform will be included in
+the final report of the commission to be submitted to parliament and government. The
+commission’s final report must set out substantiated conclusions and recommendations on
+the status of each contract, or each group of contracts. It must also provide an executive
+summary,giving an overall appraisal of the commission’s performance in terms of its man-
+date and organisation.
+Implementation of the commission’s recommendations
+After the commission has done its work,it might be necessary to send the recommendations
+to another much smaller but specialised commission, such as a parliamentary commission,
+to go through the commission’s work and to testify to the fairness of the conclusions
+reached.
+Government will then use the recommendations from the commission to initiate negotia-
+tions with companies on how best to introduce changes to a contract that will suit both par-
+ties.Government will put together a team of commercial lawyers to negotiate with compa-
+nies.It is expected that honest investors will come to the table as,happened in Liberia.
+In the interest of facilitating people’s participation and education on these matters,the com-
+mission or the state should allow people and communities directly affected by a mining con-
+tract to have a say on the work of the commission.This could also mean appealing against
+the commission’s decisions.
+Companies that refuse to renegotiate contracts should be “named and shamed” nationally
+and internationally.
+Government must put in place a task team to monitor implementation of the commission’s
+recommendations for those contracts that are renegotiated to the satisfaction of both par-
+ties.This task team must be well financed to ensure that it carries out its tasks efficiently.
+22
+
+Guidelines for the Revision of Mining Contracts in the DRC
+Conclusion
+The DRC is standing at a crossroads:it can either move forward and consolidate its democ-
+ratisation process or simply remain in the present state of chaos.The way in which the DRC
+government deals with the revision of mining contracts will determine strongly which path
+the country has decided to follow.
+The revision of contracts is a challenge to the current political leadership;the success of the
+process will depend on the political will of the leaders in the DRC and whether they have
+the courage to support the process until its logical conclusion.It is critical that the new lead-
+ership publicly supports the revision process as being for the benefit of the greater good of
+the country, even if it is inimical to the interests of certain leaders and their collaborators.
+A successful conclusion of the process will therefore depend on the political courage of the
+new leadership to stand the course,even when it doesn’t suit their interests and the interests
+of powerful companies. The leadership therefore needs to invest some political capital in
+this process.
+A successful revision of contracts will bring equity and justice to the extraction process and
+the distribution of revenue.In undertaking the revision,the primary objective should not be
+necessarily the cancellation of contracts,but their adjustment.
+The International community must also play a key role in ensuring that this process reach-
+es its logical conclusion.In the absence of a legal argument to rescind contracts entered into
+by the government,as many have suggested,the violation of human rights and other viola-
+tions of international laws are sufficient arguments to suppport the action of the Congolese
+government.If nothing is done to these contracts,Congolese people will conclude that the
+international systems of laws and policies remain the tools at the disposal of the northern-
+ers,in the construction of a political agenda that favours the rapacious activity of their cor-
+porate enterprises.
+23
+
+Southern Africa Resource Watch
+Notes
+1 In the outcome document of the International Conference on Financing for Development (the
+Monterrey Consensus) developing countries committed to intensify efforts to mobilise resources
+from domestic sources in an effort to deal with financing shortfalls.
+2 Leopold’s rule over the DRC conditioned by the exploitation of natural resources resulted in
+heinous crimes against humanity.Adam hechschild’s book,King Leopold’s Ghost-A Story of
+Greed,Terror and heroism in Colonial Africa is a convincing narration of the atrocities he
+committed.
+3 World Bank,2006.
+4 Assembly of Bishops,Katanga Province,e address to the new democratically elected Congolese
+leaders,3 March 2007
+5 Humphreys Macartan,Sachs Jeffrey & Joseph Stiglitz (eds).2007.Escaping the Resource Curse.,New
+York:Colombia University Press, p 41.
+6 See Dr.Kenneth Kaunda’s interview with Spiegel,April 2007.
+7 African Development Bank/Organisation of Economic Cooperation and Development Report,
+2007
+8 Permanent Sovereignty Over Natural Resources,UN General Assembly Resolutions 1803 (XVII),
+art.1,17 UN.GAOR Supp.(No.17) at 15,UN DocA/5217(1962).
+9 Ibid.
+10 International Covenant on Economic,Social and Cultural Rights,adopted and opened for
+signature,UN General Assembly Resolution 2200A (XXI),16 December 1966,entry into force23
+March 1976.
+11 Barta,Patrick 2007.“Miners’daunting task:digging in risky zones”,The Wall Street Journal,
+Wednesday 31 October 2007.
+12 See the Lutundula Parliamentary Commission Report,2004 and the United Nations Panel of
+Experts on the Illegal Exploitation of the Mineral Resources of the DRC,2001.
+13 See Government Ad Hoc Commission for the ‘Revisitation’of Mining Contracts,internal rules;
+Ministry of Mines,DRC,2007,p 1.
+14 Ibid,p 2.
+15 DRC Mining Code,Law No 007/2002 of 11 July 2002.See Official Journal of the Democratic Republic
+of Congo,Special Report,15 July 2002,p 6.
+16 Humphreys Macartan,Sachs Jeffrey & Joseph Stiglitz (eds) 2007.Escaping the Resource Curse.New
+York:Colombia University Press,p 4
+17 Ibid,p 9.
+18 Convention on Access to Information,Public Participation in Decision-making and Access to
+Justice in Environmental matters,Aarhus,Denmark,25 June 1998.
+http://www.unece.org/en/pp/documents/cep43e.pdf (17 April 2007)
+19 Humphreys Macartan,Sachs Jeffrey & Joseph Stiglitz (eds) 2007.Escaping the Resource Curse.New
+York:Colombia University Press,p 44.
+20 United Nations Economic Commission for Africa,Harmonization of Mining Policies, Standards,
+Legislative and Regulatory Frameworks in Southern Africa,UNECA,Southern Africa Office,2004,
+p 54
+24

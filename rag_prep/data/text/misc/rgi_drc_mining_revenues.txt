@@ -1,0 +1,1629 @@
+DRC’s Mining
+Revenues:
+Increasing
+Accountability by
+Analyzing Payments
+to Governments
+Reports
+Kaisa Toroskainen,
+Alexander Malden
+and Jean Pierre Okenda
+DECEMBER 2020
+
+Contents
+KEY MESSAGES ......................................................................................................3
+EXECUTIVE SUMMARY ........................................................................................4
+1. INTRODUCTION ................................................................................................8
+2. OVERVIEW OF PAYMENTS IN
+THE DRC’S MINING SECTOR ........................................................................... 11
+3. USING PTG REPORTS TO SUPPORT
+THE DRC’S EITI REPORTING ............................................................................ 17
+4. STRENGTHENING PTG REPORTS .............................................................. 27
+5. IMPROVING GOVERNANCE
+THROUGH BETTER REPORTING .................................................................... 32
+6. CONCLUSION ................................................................................................. 34
+ANNEX ................................................................................................................... 35
+Cover image: Gold mine in the Democratic Republic of Congo
+by Simon Dawson/Bloomberg.
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Key messages
+• Under European Union, Canadian and United Kingdom mandatory disclosure laws, ten
+international mining companies have reported more than two billion U.S. dollars in
+payments to Democratic Republic of the Congo (DRC) government entities since 2015.
+• Payments to governments (PtG) reports can improve accountability of companies and
+governments towards citizens on mining sector payments in the Democratic Republic of
+the Congo (DRC).
+• PtG reports are complementary to the Extractive Industries Transparency Initiative (EITI)
+reporting process. They can support DRC EITI’s efforts to produce the EITI scoping study,
+exhaustive financial reporting, address corrective measures from the 2019 EITI validation
+and implement project-level reporting requirements and systematic disclosures.
+• PtG reports can provide data and insights on:
+• Payment trends under the DRC’s 2018 mining code’s increased taxes and royalties and
+parafiscal payments outside of the mining code in particular to state-owned enterprises
+(SOEs), including a fuller picture of the fiscal contribution of mining projects
+• Partial implementation of local development payments
+• Increased complexity of how revenues flow from mining companies through the DRC’s
+government finances
+• Sales of mining assets by the government and SOEs, critical for ensuring the DRC
+benefits from its endowments in minerals required for the global energy transition
+• PtG reports highlight the importance of timely and full contract disclosure, necessary
+for comprehensive accountability of payments levied by DRC government entities, in
+particular state-owned enterprises.
+• For PtG reports to be maximally useful for these purposes, reporting companies and
+EU, Canadian and U.K. regulators should improve their quality, coverage and contextual
+relevance in light of the DRC’s fiscal and parafiscal regime.
+3
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Executive summary
+Under European Union (EU), Canadian and United Kingdom (U.K.) laws, ten
+international mining companies have reported more than two billion U.S. dollars
+in payments to Democratic Republic of the Congo (DRC) government entities since
+2015. These payments to governments (PtG) disclosing companies account for the
+majority (62 percent) of the mining revenues reported in the DRC’s 2016 Extractive
+Industries Transparency Initiative (EITI) report.
+PtG reports improve accountability of companies and the government towards
+citizens related to mining revenues in the DRC by complementing the EITI reporting
+process. The DRC EITI Secretariat can use PtG reports to produce the 2020 EITI
+scoping study and exhaustive financial reporting, address corrective measures of
+the 2019 EITI validation and implement project-level reporting requirements and
+systematic disclosures. DRC government agencies can use the data to report on
+revenues as the 2018 mining code requires. Civil society, auditors and international
+partners, notably the International Monetary Fund (IMF), can also benefit from using
+PtG data to monitor critical policy and governance issues in the DRC. These include:
+• Payment trends under the increased taxes and royalties of the 2018
+mining code. In 2017 and 2018, tax and royalty payments of major projects
+increased just before they were closed or put under care and maintenance due
+to lower cobalt prices, more costly production, and higher taxes of the revised
+mining code.
+• Significant parafiscal payments outside the mining code made especially to
+state-owned enterprises (SOEs). For example, Lundin Mining Corporation’s PtG
+reports show the significant consultancy fees that it paid to Gécamines, the
+largest SOE.
+• Partial implementation of local development payments under the 2018
+mining code. PtG reports by Glencore and Eurasian Resources Group (ERG),
+among others, show royalties paid directly to provinces and decentralized
+authorities, but not to the new Mining Fund for Future Generations (Fonds
+minier pour les générations futures, FOMIN).
+• Increasing fragmentation of how revenues flow from mining companies
+through DRC government finances. PtG reports show that 45 DRC
+government agencies collected revenues from 2015 to 2018, many of which were
+not based on the fiscal regime of the mining code.
+• Lack of transparency on the sale of mining assets by SOEs and the
+government, and other payments negotiated by SOEs. Ivanhoe Mines
+disclosed a transfer of $105 million of additional equity to the DRC state in one of
+the world’s largest copper projects, Kamoa-Kakula. This deal was not covered in
+EITI reporting.
+For PtG reports to be maximally useful for these purposes, reporting companies
+and EU, Canadian and U.K. regulators should improve their quality, coverage and
+contextual relevance in light of the DRC’s fiscal and parafiscal regime. We detail our
+recommendations to each group below.
+4
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+RECOMMENDATIONS FOR DRC EITI
+• In coordination with reporting companies, develop a DRC-specific reporting
+template that fulfils PtG and EITI reporting requirements and captures the
+specific fiscal and parafiscal revenues.
+• In preparing the EITI scoping report, use PtG reports to identify payments and
+recipient entities that exceed the materiality threshold of EITI reporting.
+• Use PtG reports to identify projects that should report separately under EITI’s
+project level reporting.
+• Identify which revenue streams parent companies should report on and request
+the DRC subsidiary to disclose separately so as to not artificially attribute
+payments at the project-level.
+• Compare amounts, recipients, payment streams and other data to verify and
+interrogate EITI declarations.
+• Use PtG reports to identify payments not attributed to any known payment
+term and pursue disclosure of contractual or other documents containing
+payment terms.
+RECOMMENDATIONS FOR REPORTING COMPANIES
+• Compare the PtG reporting framework, in particular the naming of payment
+types and recipient government entities, to EITI reporting templates and other
+companies’ reports from the DRC.
+• Annex I of this report and data from resourceprojects.org can serve as a starting
+point for identifying relevant payment streams.
+• Ensure PtG reports disclose payments covered by the mining code, contracts and
+parafiscal payments. These include one-off and recurring payments to SOEs,
+payments to subnational entities including provincial revenue authorities and
+community development and payments related to the sale or purchase of mining
+assets, including transfers in kind.
+• For example, Ivanhoe Mining’s 2016 PtG report strived to disclose the in-kind
+transfer of equity.
+• Provide sufficient detail for payment interpretation in the explanatory notes. This
+is critical when payments deviate from standard payments of the fiscal regime,
+such as one-off payments for asset transfers, in-kind payments and payments
+to SOEs. This is also important in cases when the PtG payment category is
+insufficient, as in the case of taxes in the DRC.
+• For example, Glencore and ERG’s PtG reports break taxes down further to
+corporate income tax and withholding tax. This allows for the matching of
+‘taxes’ at a more disaggregated level. Companies can further disaggregate tax
+disclosures through the use of notes on individual payment lines and clarifying
+information in the PtG basis of preparation.
+5
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+• Voluntarily report on significant payments and operations outside the scope of
+PtG reporting requirements. This supports transparency and accountability.
+• For example, Glencore voluntarily reported on customs duties, provincial road
+and export taxes and payments to Gécamines in its 2018 report.1 This helps
+Glencore communicate its full fiscal contribution to the DRC.
+RECOMMENDATIONS FOR REGULATORS IN COUNTRIES WITH
+PTG LAWS
+• Improve reporting templates to increase standardization of PtG reports and
+require more granular tax reporting, which, in the DRC, tends to include a variety
+of different taxes.
+• For example, Natural Resources Canada (NRCan) has developed a reporting
+template for Extractive Sector Transparency Measures Act (ESTMA) reports
+upon which other regulators could leverage and build.
+• Enforce reporting requirements. For example, the Luxembourg regulator should
+ensure that in its 2020 payment report covering 2019, ERG is fully compliant with
+the EU Accounting Directive in terms of covering recipient government entities.
+• Issue clarifying guidance on:
+1 Government entity reporting. In the most recent version of its ESTMA
+guidance, NRCan stated that reporting best practices included listing “the
+department or agency within the Payee that received the payment.”2 The
+February 2019 Primary Market Bulletin published by the U.K.’s Financial
+Conduct Authority, which regulates Glencore’s disclosures, makes clear that
+the “policy intention is that stakeholders should be able to assess to which
+precise government entity a payment has been made.”3 ERG refers to Item 2
+of article 43 (Chapter 10) of the EU-Accounting Directive, which states that
+only the total amount of payments to each government need to be included,
+as justification for not reporting to which government entity it made each
+payment. The EU and Luxembourg regulators should clarify that companies
+must disaggregate payments by recipient and enforce reporting.
+2 Joint venture reporting. Regulators should ensure that companies report on
+payments of joint venture companies, even when each joint venture partner
+individually controls under 50 percent. Critically, Barrick Gold as the operator
+of Kibali, DRC’s largest gold mine, should ideally report for the whole project,
+or at least its 45 percent share.
+3 Service fees as PtG. Confirm that payments for consultancy fees,
+infrastructure improvements to the National Electricity Company (Société
+nationale d’électricité, SNEL) and Center for Expertise, Evaluation and
+Certification of Precious and Semi-Precious Mineral Substances (Centre
+d’Expertise, d’Evaluation et de Certification des substances minérales
+précieuses et semi précieuses, CEEC) constitute PtG and companies must be
+report on them.
+1 Glencore, Payments to governments report 2018 (2019), p. 10, www.glencore.com/dam:jcr/c9cea7dd-
+9fe6-4f9b-bd6a-e82f72672075/Glencore_Payments_to_governments_report_2018--.pdf. Import taxes
+in Glencore’s PtG report for 2016 are lower than in the EITI report due to inclusion of VAT in EITI data and
+timing of booking payments in accounting. Email communication from Glencore PLC, 10 February 2020.
+2 NRCAN, Extractive Sector Transparency Measures Act Guidance (2018), p. 9, https://www.nrcan.gc.ca/sites/www.
+nrcan.gc.ca/files/estma/pdf/ESTMA%20Guidance%20-%20Version%202_1%252C%20July%202018.pdf.
+3 UK Financial Conduct Authority (“FCA”), Primary Market Bulletin (February 2019), www.fca.org.uk/
+publication/newsletters/primary-market-bulletin-20.pdf.
+6
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+• Expand reporting scope to include:
+1 Customs duties and export taxes. The DRC’s case shows that these are
+significant, material payments paid by natural resource companies that
+warrant additional transparency and monitoring. Recipient government
+entities should report on these and, where feasible, attribute them to a specific
+project.
+2 Payments for the purchase of extractive assets from the government or SOE.
+3 Investor loans granted to government entities. DRC SOEs have used loans
+from investors in many instances and they pay these back as forgone dividends
+or other payments. Recording these in PtG reports is critical.
+4 Short of the inclusion of these additional payment streams, PtG legislation
+should explicitly allow for the disclosure of other payment types beyond
+the current seven categories where relevant in a specific country to improve
+oversight and accountability. This would be in line with the original European
+Commission PtG law proposal, which included a payment category for “other
+direct benefits to the government concerned.”4 For example, the United States’
+PtG law, Dodd-Frank Section 1504, also includes wording to allow companies
+to disclose “other material benefits.”5
+RECOMMENDATIONS FOR COUNTRIES WHERE MAJOR EXTRACTIVE
+COMPANIES ARE REGISTERED
+• Adopt PtG laws
+1 The United States Securities and Exchange Commission (SEC) is conducting
+another rulemaking process for Section 1504 of the Dodd-Frank Act, the
+country’s PtG regulations. The SEC should adopt a strong final rule for Section
+1504, aligning with the global payment transparency norm established in EU,
+Canada and Norway. AngloGold Ashanti, as a US based mining operating in
+DRC, should be required to disclose its PtG when the US implements a new
+regulation for Dodd-Frank Section 1504.
+2 Chinese companies’ engagement in the DRC’s mining sector has increased
+considerably.6 It would be valuable for Chinese companies to publish PtG
+reports. These should include loans granted under the Sicomines model.
+4 European Commission, Proposal for a Directive of the European Parliament and of the Council on the
+annual financial statements, consolidated financial statements and related reports of certain types of
+undertakings, (October 2011), www.europarl.europa.eu/RegData/docs_autres_institutions/commission_
+europeenne/com/2011/0684/COM_COM(2011)0684_EN.pdf.
+5 U.S. Congress, ‘Dodd-Frank Wall Street Reform and Consumer Protection Act’, Section 1504 q 1 C II,
+(January 2010) www.cftc.gov/sites/default/files/idc/groups/public/@swaps/documents/file/hr4173_
+enrolledbill.pdf.
+6 Significant projects include China Molybdenum’s participation in TFM, Zinjin Mining’s investment in
+the Kamoa-Kakula project, China Nonferrous Metals Corporation (CNMC) participation in Metalkol and
+Deziwa and Hong Kong Excellen Mining’s production sharing agreement with Gécamines..
+7
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+1. Introduction
+This briefing analyzes payments made by companies operating in the Democratic
+Republic of Congo’s (DRC) mining sector. Its objective is to assess the value of
+payments to governments (PtG) reports as a timely and disaggregated source of
+data on mining sector payments. PtG reports are produced according to recently
+implemented PtG laws in the EU,7 U.K.,8 Canada9 and Norway.10 The laws require
+oil, gas and mining companies incorporated or listed in these countries to disclose
+any payments of EUR 100,000 or more to government entities.11 Companies must
+categorize payments into one of seven payment types: taxes, royalties, license fees,
+infrastructure improvements, production entitlements, dividends and bonuses. They
+must also report which government entity receives the payments and must attribute
+payments to a specific project, where applicable. Companies must submit PtG reports
+after each financial year’s close. In the DRC, ten international mining companies have
+disclosed over $2 billion in payments to DRC government entities from 2015 to
+2018, with two companies (Glencore and Ivanhoe Mines) having already reported for
+2019 at the time of this report’s publication.
+For several reasons, now is a good time to assess how PtG reports can complement
+existing data sources from the DRC Extractive Industries Transparency Initiative
+(EITI) and the DRC government, and improve transparency of DRC’s mining
+revenues. First, PtG reports can help address corrective measures related to data
+comprehensiveness that arise in the DRC’s EITI validation in 2019; improve
+timeliness of reporting; and meet requirements of the 2019 EITI standard related
+to project-level reporting and systematic disclosure through routine, publicly
+available company and government reporting. Second, PtG reports provide a unique,
+disaggregated view to payments under the 2018 mining code. Finally, PtG reports
+provide timely data on the rapidly evolving policy context of the DRC’s mining sector,
+including the impact of the Covid-19 pandemic and interest in the DRC’s assets in
+critical minerals needed for the energy transition.
+While this briefing demonstrates the value of PtG reporting for these purposes, it
+also highlights areas to improve the accuracy and quality of these reports and presents
+ways for companies operating in the DRC and home regulators to improve reporting
+deficiencies. Building on such improvements, in the future, the two reporting
+frameworks could be harmonized. This would serve to reduce the reporting burden
+on companies and improve reporting efficiency.
+While this briefing is primarily geared to supporting the EITI process, other oversight
+actors such as government, auditors and civil society organizations (CSOs) play
+a critical role in using data for policy analysis, and in scrutinizing EITI and PtG
+reporting to improve their quality.
+7 European Union, Accounting and Transparency Directive (2013), www.europarl.europa.eu/RegData/
+docs_autres_institutions/commission_europeenne/com/2011/0684/COM_COM(2011)0684_EN.pdf.
+8 United Kingdom, The Reports on Payments to Governments Regulations 2014 (2014), www.legislation.
+gov.uk/ukdsi/2014/9780111122235/contents.
+9 Government of Canada, Extractive Sector Transparency Measures Act (ESTMA) (2014), www.nrcan.
+gc.ca/our-natural-resources/minerals-mining/mining-resources/extractive-sector-transparency-measures-
+act/18180?_ga=2.217372179.407795127.1593512947-447512463.1593512947.
+10 Norway, Forskrift om land-for-land rapportering (2013), www.regjeringen.no/no/dokumenter/forskrift-om-
+land-for-land-rapportering/id748525.
+11 In 2010, the United States passed its own PtG law, Section 1504 of the Dodd-Frank Wall Street Reform
+Act. The implementing regulation for the law was repealed by the Trump administration in 2017 and
+at the time of publication no new implementing regulation has been agreed upon. AngloGold Ashanti,
+as a US-based mining operating in the DRC, will be required to disclose their PtG if and when the US
+implements a new regulation for Dodd-Frank Section 1504.
+8
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Box 1. The role of government and civil society in using and improving
+PtG reports
+EITI data has been critical for oversight actors to monitor extractive sector payments. CSOs
+have monitored payments by comparing EITI data against fiscal terms found in laws and
+contracts, as referenced in the mini case studies presented in this report. For example, the
+Carter Center supported CSOs to conduct case study analyses of payments contributed by
+major mining projects. From these case studies, CSOs identified cross-cutting challenges
+on revenue accountability, including lack of contract transparency, risks of tax avoidance
+and others. 12 However, the insufficient EITI data limited these analyses. Comparing legal
+and contractual terms with up-to-date, project level data offered by PtG reports can support
+timely, independent analysis and contextualize reported payments.
+Awareness of PtG reports is low among stakeholders in the DRC, in particular among
+government representatives and the EITI secretariat.13 The Ministries of Finance and Mines
+can use PtG reports to trace payments made in the sector. The DRC government authorities
+and auditors can use PtG reports to identify payments made to SOEs to verify information
+in financial statements and transferable revenues to government. Audit institutions such as
+Cour des comptes and Inspection générale des finances can use PtG reports as a source for
+investigations and audits.
+All actors can send feedback, spot inaccuracies, and engage with companies to improve the
+quality of their reporting. Companies can also actively engage stakeholders in the DRC on
+their reports to solicit comments and foster use of their reports. As one example of this form
+of engagement, Kosmos Energy has held a series of workshops in its countries of operation.
+In these workshops, they disseminate information on their transparency disclosures and work
+with communities affected by their extractives to understand the data provided.14
+PtG reports are a valuable source of data for forming a comprehensive view of
+payments collected in the DRC’s mining sector. These include payments established
+in the fiscal regime of the mining code, as well as so called parafiscal payments. (See
+box 2.) In shedding more light on parafiscal payments, PtG reports support efforts
+to comprehensively model payments that reduce the profit-tax base in the DRC and
+monitor the sale of mining assets.15 Finally, they can also support monitoring the
+implementation of the 2018 mining code’s provisions for local development.
+Box 2. Parafiscal payments in the DRC
+The concept of parafiscal payments or parafiscalité is specific to the DRC’s mining sector
+context. It refers to parallel taxation to the official, exclusive fiscal regime of the mining
+code. Parafiscal payments consist of various duties and taxes that the mining code
+does not provide for, but that various state agencies such as customs authorities, local
+administrations and SOEs nevertheless impose on mining companies.16
+12 See for example, The Carter Center, The Carter Center and Partners to Present Key Findings from DRC
+Mining Sector Fiscal Analyses (2017), www.cartercenter.org/news/pr/drc-021417.html; OEARSE, Pile ou
+face: Qui gagne et qui perd dans le projet KCC en RDC? (2019), congomines.org/reports/1633-pile-ou-
+face-qui-gagne-et-qui-perd-dans-le-projet-kamoto-copper-company-en-rdc.
+13 Stakeholder consultation on preliminary findings of this research, December 2019, Kinshasa.
+14 Kosmos Energy, 2018 Corporate Sustainability Report (2019), kosmosenergy.com/cr-report/English%20
+flipbook/flipbook/inc/html/13.html?page=12.
+15 IMF, Five takeaways from Democratic Republic of the Congo’s IMF Program (2019),
+www.imf.org/en/News/Articles/2019/12/20/na122019five-takeaways-from-the-democratic-republic-of-
+the-congos-imf-program.
+16 NRGI, Fiscalité du nouveau code minier (2018), p. 2, 19, resourcegovernance.org/sites/default/files/
+documents/la-fiscalite-du-nouveau-code-minier-de-la-republique-democratique-du-congo_0.pdf; Carter
+Center, A State Affair. Privatizing Congo’s Copper Sector (2017), p. 43, www.cartercenter.org/resources/
+pdfs/news/peace_publications/democracy/congo-report-carter-center-nov-2017.pdf.
+9
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+In this report, we provide six case studies from companies that are required to produce
+PtG reports, which illustrate the complementary uses of PtG and EITI data. The gaps
+illustrated by these case studies are not indicative of misreporting by any party. They
+are examples of the way that these data can raise avenues for further research and
+investigation by stakeholders, according to their respective mandates.
+In addition to payment data, public availability of mining contracts is essential for
+a comprehensive view of payments in the DRC. Contracts outside the mining code
+define the terms of many payments, and comparing actual payments to their terms
+is only possible when these contracts are public. Disclosure of natural resource
+contracts has been a legal requirement in the DRC since 2011.17 Though disclosure
+has improved significantly, several critical contracts are still missing from the public
+domain.18 These include especially contracts entered into by SOEs.
+The briefing uses the following sources and methodologies:
+• EITI summary data for the DRC compiled on the Natural Resource Governance
+Institute’s (NRGI) Resource Data site (resourcedata.org) and on the DRC
+EITI site.19 We cleaned summary data by harmonizing company and revenue
+stream names, reallocated payments to corrected categories and added sector
+information. The summary data that we used in this briefing covers the period
+from 2010 to 2016, for which data was continuously available when we
+conducted the research in late 2019.
+• PtG report data from NRGI’s Resource Projects site. We cleaned summary data by
+removing duplicate reporting and correcting errors introduced by the process of
+converting PtG reports to a machine readable format.
+• We used mining contracts from the DRC Ministry of Mine’s official site, NRGI’s
+Resource Contracts and Congo Mines to compare EITI and PtG data to terms of
+payments.20
+• We mapped key payment streams in the DRC’s laws and contracts, EITI payment
+stream names, PtG payment categories and collecting agencies. (See Annex I.)
+17 Government of DRC, Décret N° 011/26 du 20 mai 2011 portant obligation de publier tout contrat
+entre l’Etat ou une Entreprise du Portefeuille et un ou plusieurs partenaires privés et ayant pour objet la
+recherche, l’exploration ou l’exploitation des ressources minières, pétrolières et forestières (2011),
+https://www.resourcedata.org/dataset/rgi--mai-2011-portant-obligation-de-publier-tout-contrat-ayant-pour-
+objet-les-ressources-naturelles-.
+18 NRGI, Advocacy memo to pursue effective and exhaustive disclosure of mining and petroleum contracts
+in the DRC (2019), not published.
+19 NRGI, ResourceData, accessed April 2020, resourcedata.org; and DRC EITI, Données ITIE, accessed April
+2020, itierdc-data.masiavuvu.fr/donnees-itie.
+20 Ministry of Mines of the DRC, accessed April 2020, mines-rdc.cd/fr/; NRGI, ResourceData, accessed April
+2020, resourcedata.org; and Congomines website, accessed April 2020, congomines.org.
+10
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+2. Overview of payments in the
+DRC’s mining sector
+This section presents an overview of payments reported through the EITI and
+PtG reports.
+EITI DATA
+The EITI has been the main source of transparency on mining sector payments in
+the DRC since the country signed on to the initiative in 2007. DRC’s 2016 EITI
+report disclosed over $1.02 billion in payments from 104 mining companies. One
+of the advantages of EITI is that the reporting framework is tailored to capture the
+variety of payment streams in each country. This means that in the DRC, it includes
+all payments levied in the DRC’s mining sector, including the parafiscal payments
+introduced in Box 1.
+Figure 1 shows the cumulative value of payments by type between 2010 and 2016
+according to EITI data. Out of the most important payments, customs duties, income
+taxes and state royalties are set in the generally applicable fiscal regime of the mining
+code of 2002, as revised in 2018. It is surprising that customs duties are the highest
+payment category: NRGI’s modeling of the DRC’s 2002 mining code fiscal regime
+estimates the contribution of customs duties at five percent of total government
+revenues from a typical mining project, far below the contribution of income taxes,
+royalties and state participation.21 Their high level may be explained by several factors
+ranging from large imports during mine development, inclusion of value added tax
+in EITI data for some years or excess fuel imports for domestic re-sales under the
+preferential regime of the 2002 mining code.22
+In contrast, the share of income taxes is low compared to model, which predicts
+them to contribute as much as 65 percent of a typical projects’ revenue.23 EITI data
+shows that income taxes are also highly dependent on a handful of projects such
+as the Tenke Fungurume Mine (TFM) and Mutanda Mine. Various reasons, among
+them generous tax exemptions granted to some mining projects, such as in Banro’s
+mining conventions and the Sicomines project, tax planning by international
+mining companies, as well as weaknesses in the DRC’s tax administration, may
+explain these trends.24
+Other significant payment streams are parafiscal in nature. The copper-producing
+provinces in the Katanga region collect two types of taxes on road use and copper
+concentrate exports, reported under other taxes payable by natural resource
+companies in the EITI data. The provinces justify these taxes with raising funds
+to maintain roads used for transporting minerals and discouraging the export of
+21 Thomas Lassourd, La fiscalité du nouveau code minier de la République Démocratique du Congo (NRGI,
+2018), p. 18, resourcegovernance.org/analysis-tools/publications/la-fiscalite-du-nouveau-code-minier-de-la-
+RD-congo.
+22 Stakeholder consultation on preliminary findings of the research, December 2019, Kinshasa.
+23 Lassourd, La fiscalité du nouveau code minier, p. 18.
+24 Carter Center, Improving Governance of Revenues from the Mining Industry (2017), congomines.
+org/system/attachments/assets/000/001/220/original/TCC_EIGP_REV_Improving_Governance_of_
+Revenues_--_Cross-Cutting_Lessons_%28....pdf?1487024488, p. 4; IMF, DRC selected issues paper (2019),
+p. 11-12, www.imf.org/~/media/Files/Publications/CR/2019/1CODEA2019002.ashx.www.imf.org/~/media/
+Files/Publications/CR/2019/1CODEA2019002.ashx,
+11
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+concentrated minerals.25 Provinces also needed to raise their own revenues because
+the treasury was not transferring a share of royalties to them as it should have
+according to the distribution formula of the 2002 mining code.26 Therefore, these
+taxes are outside the fiscal regime of the mining code exempts companies from all
+taxes not set in the code. However, provinces have a constitutional right to raise their
+own revenues.27
+Customs and other state agencies levy export taxes although the mining code exempts
+mining companies from paying export duties for mineral products.28 It also caps
+services by state agencies for fees at one percent of export value. However, analysts
+report that the customs agency does not always respect the cap because it is entitled to
+keep part of the fees it collects.29
+Figure 1. DRC mining payments by type according to EITI data, 2010 to 2016,
+(USD millions)
+2,500
+2,000
+1,500
+1,000
+500
+10
+Customs and Deliv- Ordinary taxes Royalties Other taxes Taxes on Taxes on Fines, Bonuses Other
+other import ered/paid to on income, (Redevances payable by payroll and exports penalties, and
+duties state-owned profits and minières) natural workforce forfeits
+enterprise(s) capital gains resource
+companies
+The second largest category of payments according to EITI data are the combined
+payments made to SOEs. Their magnitude highlights the special role that SOEs play
+in collecting mining revenues. In 2017, there were eight SOEs active in the mining
+sector. 30 The largest of them is Gécamines, which holds minority equity stakes in
+joint ventures or has other forms of partnership agreements with over 20 mining
+projects.31 SOEs benefit from the government having granted them the country’s
+mining deposits after it restructured the mining sector. Subsequently, investors could
+access these deposits only by buying or leasing assets from SOEs or forming joint
+ventures companies with them, in exchange for various payments negotiated in SOE-
+investor asset sale and joint venture agreements.
+25 ACIDH, Les revenus des taxes provinciales du secteur miniers et leurs affectations dix ans apres, quel
+impact? (2018), p. 11, congomines.org/system/attachments/assets/000/001/500/original/Les_revenus_
+des_taxes_provinciales_ACIDH__IBGDH.pdf?1535986991.
+26 DRC EITI, EITI report 2015 (2017), eiti.org/files/documents/rapport_de_conciliation_itie-rdc_2017_-_final_
+signe.pdf.
+27 Government of DRC, ‘Loi n°18/001 modifiant et complétant la Loi n° 007/2002 du 11 juillet 2002
+portant Code minier’ (DRC Mining Code), Article 220, mines-rdc.cd/fr/wp-content/uploads/simple-file-list/
+code_minier/CODE-MINIER.pdf.
+28 Government of DRC, ‘Décret N°038/2003 du 26 Mars 2003 Portant Règlement Minier 2019’ (DRC
+Mining Regulation), Article 509, mines-rdc.cd/fr/wp-content/uploads/simple-file-list/reglement_minier/
+Reglement-Minier-26-mars-2003.pdf .
+29 Global Witness, Regime cash machine (2017), p. 26, www.globalwitness.org/documents/19146/Regime_
+Cash_Machine_Report_Final_Single_pages_BXObnIm.pdf.
+30 GECAMINES, SAKIMA, SODIMICO, SOKIMO, SCMK-Mn, COMINIERE, MIBA, SACIM. See more: DRC EITI,
+EITI contextual report 2018-19 (2019), p. 56, drive.google.com/file/d/1G-rfFT2qRhdZGmlB2_
+wBvi5n4ROErx1d/view.
+31 The largest by government revenue are Kamoto Copper Company, Metalkol and Boss Mining. DRC EITI,
+EITI contextual report 2018-19 (2019), p. 58.
+12
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Figure 2 shows payments to SOEs disaggregated by type. Most of them are parafiscal,
+i.e. not governed by the mining code. Revenue from equity sales and pas-de-porte
+(signature bonuses), which form the majority of payments, are one-off in nature
+and related to SOEs’ sales of equity shares to private investors. Royalties payable
+to SOEs (different from state royalties, redevance minière, stipulated in the mining
+code), consultancy fees and lease fees, are recurring. Finally, some are ad hoc, such as
+those for renouncing to exercise SOEs’ right of first refusal. Against what should be
+expected to be important revenues for minority shareholders, SOEs did not collect
+any dividends from their participation in joint ventures. This is likely a result of a
+number of factors including parafiscal payments which reduce the tax base of profit-
+based taxes, different forms of tax avoidance and loans from investors to SOEs to
+cover their share of project financing which SOEs paid back in future dividends.32 The
+difficulty of collecting dividends has motivated SOEs to negotiate other revenues in
+their investor agreements.
+The level of detail on SOE payments in EITI reports is due to significant effort by the
+DRC EITI to improve reporting, following civil society advocacy to raise awareness
+of SOE payments as an area in the DRC’s mining sector where accountability was
+lacking.33 Annex I provides further detail on the basis of payments collected by SOEs.
+Figure 2. Payments to SOEs according to EITI data 2010 to 2016, USD millions
+15 2
+59 Sales of equity shares
+64
+Royalties paid to SOEs
+105
+Pas-de-porte (signature bonus) paid to SOEs
+Lease fees
+530
+Consultancy fees
+Slag sales revenue
+Dividends
+369
+Fees for renouncing first right of refusal
+370
+Despite rich and contextually relevant data, EITI reporting in the DRC has limitations
+in how it supports accountability. First, the DRC and other EITI-implementing
+countries publish EITI reports with a significant delay, typically two years after the
+reporting year, which limits their use for timely monitoring and analysis. Second,
+reports suffer from a lack of accuracy and coverage of all material payments. In 2019,
+the DRC’s EITI validation raised 13 corrective measures to be met by April 2021,
+concerning, for example, comprehensive coverage of payments and identification
+32 Carter Center, A State Affair. Privatizing Congo’s Copper Sector (2017), p. 34-35, www.cartercenter.org/
+resources/pdfs/news/peace_publications/democracy/congo-report-carter-center-nov-2017.pdf.
+33 DRC EITI, EITI supplementary contextual report (2018), eiti.org/files/documents/2016_drc_eiti_
+supplementary_contextual_report_august_2018.pdf; Coalition Pour La Gouvernance des Entreprises
+Publiques du Secteur Extractif (COGEP), cogep-rdc.org; Carter Center, A State Affair. Privatizing Congo’s
+Copper Sector..
+13
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+of materiality thresholds.34 The 2017 EITI report was published at the last minute
+in December 2019 and covers a narrower set of companies and payment types than
+previous reports.35
+The validation results and report production challenges reflect the difficulty of
+reporting accurately and comprehensively on payments in the context of the parafiscal
+regime, fragmentation of collecting agencies and that secrecy of some payments
+and their terms.36 As the 2019 EITI standard brings about additional reporting
+requirements for payments at project level from 2020 and increasingly encourages
+integrating EITI reporting in countries and companies’ regular reports, data accuracy
+and timeliness will be critical for the DRC to meet these requirements.37
+PTG DATA
+PtG reports complement EITI reports and help address the above limitations by
+providing more timely and disaggregated data. As mentioned in the introduction, ten
+international mining companies have disclosed over $2.1 billion in payments to DRC
+government entities from 2015 and 2018, with three companies (Glencore, Ivanhoe
+and Loncor Resources) having already disclosed payments for 2019 at the time of
+publication of this report. Companies made these payments to 45 government entities
+in the country and 20 mining projects.38 (See table 1.)
+Table 1. Mining companies' payments to governments reporting in DRC39
+Disclosing company Reporting Years of Operating projects in the Total payments
+jurisdiction reporting country disclosed for 2018
+(in USD)
+Alphamin Resources Corporation Canada 2016 - 2017 Bisie Tin Project …
+Banro Corporation Canada 2016 - 2017 Banro Congo Mining S.A. …
+Canada 2016 - 2017 Kamituga Mining S.A. …
+Canada 2016 - 2017 Lugushwa Mining S.A. …
+Canada 2016 - 2017 Namoya Mining S.A. …
+Canada 2016 - 2017 Twangiza Mining S.A. …
+Barrick Gold (Holdings) Limited United Kingdom 2018 Exploration projects - Randgold 221,870
+(formerly Randgold Resources Limited) 40 Resources Congo SARL
+United Kingdom 2016 - 2018 KGL Isiro S.A.R.L. 22,628
+Eurasian Resources Group Luxembourg 2016 - 2018 Boss Mining 33,702,721
+(access through Luxembourg corporate
+Luxembourg 2016 - 2018 Frontier Mine 39,471,515
+filings portal)
+Luxembourg 2016 - 2018 Metal Kolwezi (Metalkol) 1,283,798
+34 See the EITI Board decision eiti.org/board-decision/2019-55.
+35 We conducted the analysis informing this briefing in 2019 and covered EITI data from 2010 to 2016.
+36 IMF, DRC selected issues paper (2019), p 5. www.imf.org/~/media/Files/Publications/
+CR/2019/1CODEA2019002.ashx.
+37 Project-level reporting has been part of the EITI standard since 2013, but has not been operationalized
+due to industry opposition.
+38 Although this briefing focuses on the mining sector, petroleum companies from these countries also
+produce PtG reports. Companies producing PtG reports on the petroleum sector include, e.g., Total and
+Tullow Oil.
+39 Each company’s name is hyperlinked with its PtG reports on its website. In addition, reports can be
+accessed through the Canadian government’s ESTMA portal and the UK Companies House portal. NRGI’s
+resourceprojects.org portal also contains all global PtG data in a standardized, machine readable format.
+14
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Glencore PLC United Kingdom 2015 - 2019 Katanga 79,275,000
+United Kingdom 2015 - 2019 Mutanda 513,467,000
+Ivanhoe Mines Limited Canada 2016 - 2019 Kipushi 2,700,000
+Canada 2016 - 2019 Kamoa-Kakula 31,450,000
+Canada 2016 - 2019 DRC Regional Exploration 310,000
+Katanga Mining Limited 41 Canada 2016 - 2018 Kamoto Copper Company 79,275,251
+S.A.R.L.
+Loncor Resources Incorporated Canada 2016 - 2019 Ngayu 326,490
+Lundin Mining Corporation Canada 2017 Tenke Fungurume Mine …
+PtG disclosing mining companies contribute the majority of mining revenues in the
+country. Of the $1.02 billion in mining company payments disclosed in the DRC’s
+2016 EITI report, PtG-disclosing companies paid $630 million, or 62 percent. (See
+figure 3.) This figure does not include payments made by Barrick Gold related to
+Kibali as operator of the mine. If Barrick were to disclose payments made for this
+mine, PtG disclosing company payments would equal $710 million, or 70 percent,
+of total payments.
+Figure 3. Share of total mining revenue in the 2016 DRC EITI report disclosed by
+PtG reporting companies (USD)
+389,713,420
+38%
+PtG disclosing companies
+Non - PtG disclosing companies
+629,576,593
+62%
+In 2018 alone, six mining companies (Barrick Gold, Eurasian Resources Group,
+Glencore, Ivanhoe Mines, Katanga Mining and Loncor Resources) disclosed $703
+million in payments to 22 DRC governments entities attributed to nine mining
+projects. In the DRC, taxes and payments for infrastructure improvements are
+the most significant categories reported in PtG reports, followed by royalties and
+production entitlements. (See figure 4.) Reports do not record any dividends to the
+DRC state or SOEs. We analyze each payment type in more detail in section 4 of
+the report.
+40 Randgold Resources and Barrick Gold merged in 2019. Previously, both companies had reported
+separately for the projects listed in the table. However, Barrick Gold has not reported on its largest
+project in the DRC, Kibali Gold Mine, because it controls an equal 45 percent share in the project
+together with AngloGold Ashanti, which is not required to produce a PtG report. See Barrick Gold, 2019
+ESTMA report, p. 5, barrick.q4cdn.com/788666289/files/sustainability/Barrick-2019-Extractive-Sector-
+Transparency-Act-Report.pdf.
+41 Due to Glencore’s stake in Katanga Mining, both companies have disclosed payments made by Katanga
+for its Kamoto Copper Company.
+15
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Figure 4. 2018 mining company payments to DRC government entities (USD)42
+Taxes: 399,604,391
+Mutanda: 513,467,000
+Glencore: 592,742,000
+Royalties: 124,450,410
+Katanga: 79,275,000
+Ngayu: 326,490
+Loncor Resources: 326,490
+Boss Mining: 33,702,721
+Payments for infrastructure improvements: 148,509,511
+DRC Regional Exploration: 310,000
+Eurasian Resources Group: 75,311,444
+Frontier Mine: 39,471,515
+Other Activities: 853,410
+Ivanhoe Mines: 34,460,000
+Kamoa-Kakula: 31,450,000 Production entitlements: 25,824,740
+Metal Kolwezi (Metalkol): 1,283,798 Other: 218,689
+Bonuses: 55,317
+Kipushi: 2,700,000
+Barrick Gold: 244,498 Exploration projects: 221,870 Fes: 4,421,374
+KGL Isiro S.A.R.L.: 22,628
+42 We removed Katanga Mining’s disclosures for Kamoto Copper Company from this graph as they are
+a duplication of those reported by Glencore for Katanga as a result of Glencores ownership stake in
+Katanga Mining.
+16
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+3. Using PtG reports to support the
+DRC’s EITI reporting
+The EITI 2019 Standard requires project-level reporting for financial years ending
+on or after 31 December 2018. This will require DRC EITI to disclose its reporting at
+the project-level. (See box 3). PtG reporting shows that in the DRC, the vast majority
+of payments are attributable to a specific project. (See table 3). DRC EITI can use PtG
+reports to identify payments made by project and implement project-level reporting in
+line with the EITI International Secretariat’s four step guide.43 PtG reports can also help
+DRC EITI address the corrective actions that were prescribed in its validation process
+that pertained to comprehensive disclosures and payment material identification.
+Box 3. 2019 EITI Standard project-level reporting requirement
+The 2019 EITI Standard details the transparency requirements and expectations to which all
+EITI implementing countries must adhere. 44 The 2019 Standard contains improvements to
+transparency requirements in several important areas including: environmental reporting,
+employment data disaggregated by gender, commodity trading transparency and contract
+transparency.
+Another important area of improvement is the EITI’s project-level reporting requirement,
+which will now be proactively implemented by companies and governments. The EITI
+Standard now provides clarity around the precise definition of “project” that all EITI
+countries will use for reporting on fiscal years ending on or after 31 December 2018. EITI’s
+new definition of “project” will be based on the contract or other legal agreement between
+a government and company. It will align with the definition present in the EU’s extractives
+transparency law (Chapter 10 of the EU Accounting Directive), which will facilitate
+harmonization across payment disclosures. As a result, the next EITI report, on 2018, must
+include disclosure of payments at the project-level.
+STEP 1. IDENTIFYING LEGAL AGREEMENTS UNDER THE DEFINITION
+OF ‘PROJECT’
+Each EITI reporting cycle begins with a scoping study through which the DRC EITI
+technical secretariat establishes the scope of companies for inclusion in that year’s report.
+In the past, the fragmented, parafiscal and opaque nature of payments has made it difficult
+for the EITI scoping study to identify all material projects, payment streams and receiving
+entities that the EITI report should cover.45 As the national EITI secretariat sets out to
+implement project level reporting requirements, PtG reports can help facilitate the scoping
+study by providing data on payments made by projects, in alignment with the revised
+mining code’s mandatory requirement to report separately on each mining project.46
+Currently, DRC EITI reports at the level of legal entity. In some cases, legal entities
+already correspond to a project as defined by the EITI requirement either because they
+are single asset entities or because legal agreements group interconnected licenses into
+43 EITI International Secretariat, Guidance note 29 on project-level reporting (2020), eiti.org/GN29.
+44 EITI, The EITI Standard (2019), eiti.org/document/eiti-standard-2019.
+45 POM, contribution à la détermination du périmètre et seuil de matérialité du rapport ITIE-RDC 2012
+(2014), www.itierdc.net/wp-content/uploads/2016/04/SC3-1.pdf.
+46 Government of the DRC, DRC mining code 2018, Article 1, 29bis. “Mine distincte : mine distincte d’une
+autre mine existante et de ce fait nouvelle, qui fait l’objet d’un nouveau droit minier d’exploitation ou
+d’un contrat d’amodiation, dès lors qu’elle concerne un gisement distinct nécessitant des méthodes
+d’exploitation et des procédés de traitement séparés ainsi que des moyens de production nettement
+individualisés, ou du fait de leur éloignement ou de leurs conditions d’exploitation, nécessitant la
+création d’installations minières distinctes”.
+17
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+a project.47,48,49 Regardless, according to the EITI international secretariat’s assessment,
+overall, the 2016 EITI report only offers partial project-level reporting.50 Several
+companies, the SOE Gécamines and Ruashi Mining, for example, hold several non-
+interconnected permits and do not report separately for each permit. PtG reporting
+of mining companies, and by the joint venture partners of SOEs, can be useful for
+understanding which projects different SOE revenues relate to.
+STEP 2. IDENTIFYING WHICH REVENUE STREAMS SHOULD BE
+REPORTED BY PROJECT
+PtG reports require companies to disclose payments by type and by government entity.
+This reporting framework also allows for disclosure of payments that are not attributed
+to any one project. Therefore DRC EITI can use PtG reports to identify which revenue
+streams companies should report on at the parent company level so as to not artificially
+attribute payments at the project level. These can help EITI verify that it captures all
+company-level payments that exceed the materiality threshold in EITI reports, improve
+accuracy of payments reporting and address reporting discrepancies. As an example, in
+2018, ERG disclosed over $850,000 in taxes, royalties, fees and production entitlements
+not attributed to any of its major mining projects (Frontier, Boss, or Metalkol). DRC EITI
+can use these disclosures to engage with ERG and identify what these payments related
+to and why they did not attribute the payments to a specific project.
+STEP 3. IDENTIFYING WHO SHOULD REPORT WHAT
+According to the EITI secretariat’s guidance for defining project level reporting, “in
+arrangements which involve multiple parties it might be necessary to identify what
+kind of payments are effectuated by the different parties to the contract. It might also
+be necessary to look at the payments effectuated by different companies or received
+by different government bodies, including SOEs.”51 In the DRC’s mining sector, such
+situations can arise with project-level payments made by companies with minority
+shareholding in a joint venture, as well as revenues collected by government entities
+outside those expected based on the mining code and based on terms not available
+to the public. In addition, because PtG reporting formats are less detailed and pre-
+determined than EITI reporting formats, they have yielded information on payment
+types and government recipients that have been missing in EITI reporting, or to
+report on the same payment streams differently in PtG reports and EITI reports.
+We discuss examples of these situations below and identify how stakeholders can
+compare the two reporting systems to verify declarations.
+Identifying missing payments and government recipients in EITI reports
+PtG reports point to mining sector payments made to a multitude of government
+agencies. EITI DRC can use PtG reports to identify government entities outside of
+those legislated in the mineral fiscal code that should be included in the reconciliation
+process for project payments in order to verify the nature and basis of the payments
+disclosed by mining companies.
+47 This form of project-level reporting occurs when a company operates only one mine in the country,
+thereby any payments made by this company are by default made in relation to that one project. One
+example of this is Frontier SPRL covering license PE 13080.
+48 If multiple agreements are substantially interconnected, the multistakeholder group must clearly
+identify and document which instances are considered a single project.
+49 Such as Compagnie de Traitement des Rejets de Kingamyambo/Metalkol, covering licenses AECP 3198,
+3199, 4282, 4283, 4284, 4285, 4286.
+50 Email communication with EITI international secretariat as part of the research process for this briefing.
+51 EITI International Secretariat, Guidance note 29 on project-level reporting (2020), eiti.org/GN29.
+18
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Figure 5. 2018 mining company payments to DRC government entities (USD)52
+Directorate General of Taxes; Ministry of Finance: 383,994,245
+Taxes: 385,691,490
+Glencore: 592,742,000
+Directorate General of Customs and Excise; Ministry of Finance: 570,000
+Central Bank: 180,000
+Regie of the Airways; Province of Haut-Katanga: 100,000
+SEGUCE: 30,000
+National Electricity Company: 100,796,000
+Payments for infrastructure improvements: 141,391,000
+Mining Cadastre; Ministry of Mines: 789,245
+Directorate General of Administrative, Judicial, Lands and
+Participation Revenue; Ministry of Finance: 69,209,674
+Loncor Resources: 326,490 Directorate of Revenue; Ministry of Finance;
+Royalties: 98,444,000 Province of Lualaba: 50,159,000
+Ivanhoe Mines: 34,450,000
+Directorate of Revenue; Ministry of Finance; Province of Haut-Katanga: 8,353,000
+Barrick Gold: 244,498 Local Communities; Province of Lualaba: 580,000
+Fees: 2,236,498 Office of Highways and Drainage; Province of Lualaba: 380,000
+Local Communities; Province of Haut-Katanga: 230,000
+Luilu Sector: 7,655,000
+Commune of Dilala; City of Kolwezi; Province of Lualaba: 3,487,000
+Gecamines SA: 450,000
+Congolese Office of Control; Ministry of Commerce: 410,000
+National Insurance Company: 150,000
+National Police: 120,000
+National Intelligence Agency: 70,000
+Directorate of Revenue; Ministry of Finance and Budget; Province of Haut-Eele: 29,824
+Ministry of Mines: 20,000
+Government entities that the mining fiscal regime designates as recipient entities for
+taxes and royalties collected a large share of mining revenues: the Directorate General
+of Taxes in the Ministry of Finance (Direction Générale des Impôts, DGI) receives the
+52 We removed Katanga Mining’s disclosures for Kamoto Copper Company from figure 5 as they are a
+duplication of those reported by Glencore for Katanga as a result of Glencore’s ownership stake in
+Katanga Mining. We also did not include Eurasian Resources Group’s payments in figure 5 as ERG did not
+disclose its payments by recipient government entity.
+19
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+majority of taxes, while the Directorate General of Administrative, Judicial, Lands
+and Participation Revenue (Direction Générale des Recettes Domaniales, Judiciaires
+et de Participation, DGRAD) received royalties. However, not all recipient trends
+correspond to the fiscal regime: the National Electricity Company received payments
+for infrastructure improvements and provinces in the Katanga region received a
+significant share of revenues.
+Figure 5 also shows a series of smaller but significant payments received by government
+entities beyond those stipulated in the mining code. Between 2015 and 2018, the years
+for which PtG reporting is available, a total of 45 government entities received payments
+from mining companies at least once. This is an indication of the parafiscal nature
+of many payments. This could be problematic because multiple agencies collecting
+revenues can divert revenue streams away from the national Treasury.53
+The EITI reconciliation process did not include some of these payments. Case 1
+below describes payments made by Banro to the Center for Expertise, Evaluation and
+Certification of Precious and Semi-Precious Mineral Substances (Centre d’Expertise,
+d’Evaluation et de Certification des substances minérales précieuses et semi précieuses,
+CEEC), a government entity not included in the EITI reconciliation process.
+Case 1. Banro’s fees to the Center for Expertise, Evaluation and Certification of
+Precious and Semi-Precious Mineral Substances (CEEC)
+In its PTG reports and EITI reports from 2016 and 2017, Banro has declared payments of
+$2,680,000 each year to the Center for Expertise, Evaluation and Certification of Precious and
+Semi-Precious Mineral Substances (CEEC). The mandate of CEEC is to evaluate diamonds,
+gold, coltan and other precious and semi-precious minerals; provide technical support to
+trading counters, middlemen, and foundries through monitoring and controlling mineral
+and financial flows; certify payment of mineral export taxes; training Congolese mineral
+evaluators; promote the exploitation of diamonds, gold, and coltan and other precious and
+semi-precious substances; improve the price commanded by Congolese precious and semi-
+precious minerals; and fight against fraud. 54 The 2016 EITI scoping report noted that CEEC
+collects material payments and recommended their inclusion in future reports. 55 As a result,
+the 2017 EITI report includes declarations from companies including Banro on payments
+to CEEC. However, the CEEC should limit the taxe remunatoire that it collects to artisanal
+miners. Therefore, the exact basis and terms of payments made by Banro is not clear. CEEC
+itself did not provide a declaration for the EITI process despite repeated requests from the EITI
+multi-stakeholder group. 56 In the future, the EITI secretariat can use PtG reports to identify
+payments to the CEEC earlier.
+The EITI and other stakeholders can use PtG reports to verify royalty receipts by
+subnational entities. The revised mining code requires mining companies to pay
+royalties to various entities as follows: 50 percent to the national government
+(DGRAD), 25 percent to the producing province, 15 percent to the decentralized
+authority (entité territoriale décentralisée, ETD), and 10 percent to a newly created
+Mining Fund for Future Generations (Fonds minier pour les générations futures,
+FOMIN). The EITI 2017-18 contextual report notes that royalty payments to
+53 IMF, IMF Country Report No. 19/286, DRC Selected Issues, (2019), p. 11-12, www.imf.org/~/media/Files/
+Publications/CR/2019/1CODEA2019002.ashx.
+54 Government of DRC, Décret n° 11/28 du 07 juin 2011 fixant les statuts d’un établissement public
+dénommé Centre d’Expertise, d’Evaluation et de Certification des substances minérales précieuses
+et semi précieuses (2011), Article 4, www.leganet.cd/Legislation/Droit%20economique/Code%20
+Minier/D.11.28.07.06.2011.htm; PACT, PROMINES Study: Artisanal Mining in the Democratic Republic
+of Congo (2010), p. 86, congomines.org/system/attachments/assets/000/000/349/original/PACT-2010-
+ProminesStudyArtisanalMiningDRC.pdf?1430928581.
+55 DRC EITI, Contextual report 2016 (2017), p. 17-18, drive.google.com/file/d/1f2944s-
+319TCZ5Onw2O1xH69j7An3Aaf/view.
+56 DRC EITI, EITI report 2017 (2019), p.10.
+20
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+provinces closely corresponded to the formula. However, it recorded deviations
+between the formula and actual payments at the level of decentralized authorities
+and the FOMIN.57 According to the EITI contextual report, in 2019, mining
+companies started making payments to the FOMIN. They deposited the payments
+on a temporary account at the Mining Cadaster, which declared $8 million received
+by February 2019. The funds were then transferred to the Central Bank, but neither
+the Central Bank nor the Ministry of Finance reported receiving payments on behalf
+of FOMIN.58 Direct payments to decentralized authorities and to FOMIN address
+critical needs for local development.59 They also further increase the complexity of
+how revenues flow from mining companies through the DRC’s government finances,
+making transparency and traceability of these revenues critical.
+Lack of clarity in regulations regarding to which subnational entities companies
+should make payments when mines overlap several decentralized authorities, as
+well as the slow implementation of the FOMIN are among key obstacles to the
+mining code’s effective implementation.60 The effects can be seen in Kamoto Copper
+Company’s PtG reports in Case 2 below.
+Case 2. Kamoto Copper Company royalty trends show 2018 mining code
+implementation challenges
+Figure 6 shows royalty payment distribution by Kamoto Copper Company (KCC) in 2018, as
+reported in Glencore and Katanga Mining PtG reports. In 2018, the split of KCC’s payments
+to different level entities did not fully correspond with the royalty sharing formula for three
+reasons. First, the revised mining code’s provisions took effect in the middle of 2018.
+Second, Glencore reports that because of initial uncertainty over which decentralized
+authority is eligible for the 15 percent share, it initially withheld the payment. Upon
+resolving the uncertainty, KCC made the payment to Dilala. Third, Glencore did not make
+any payments to the FOMIN in 2018 because it had not yet received formal notice
+of collection. 61
+Figure 6. KCC reported royalty payments by government entity, 2018
+100%
+11% 10%
+90%
+80% 15%
+70%
+25%
+60%
+21%
+50%
+40%
+30%
+50%
+20%
+68%
+10%
+0%
+Royalty payments per entity Royalty payments according to
+distribution formula
+DGRAD Lualaba province Dilala municipality Future Generations Fund
+57 DRC EITI, Contextual report 2017-2018 (2019), p.82-83.
+58 Ibid., p.86-87.
+59 Okenda, J P. Innovations de la nouvelle législation minière de la RDC : opportunités, défis et perspectives
+de mise en œuvre (NRGI, 2019), resourcegovernance.org/sites/default/files/documents/innovations_de_
+la_nouvelle_legislation_miniere_de_la_rdc_opportunites_defis_et_perspectives_de_mise_en_oeuvre_0.pdf.
+60 Okenda, Innovations de la nouvelle législation minière de la RDC.
+61 Email communication with Glencore PLC, 10 February 2020.
+21
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Identifying potentially missing payment types in EITI reporting
+Our analysis notes two types of payments where PtG reports provide additional
+information not captured in EITI reports.
+Payments for infrastructure improvements are the second-largest type of payments
+reported in PtG reports. They can surpass key revenue streams such as royalties in
+size. The largest contributor to infrastructure payments are the two Glencore projects,
+Mutanda and Kamoto Copper Company (KCC). (See figure 7.) The largest recipient of
+payments for infrastructure improvements is the national electricity company (Société
+Nationale d’Electricité, SNEL). According to Glencore, its payments to SNEL are loans
+for rehabilitation of SNEL’s generation and transmission infrastructure. SNEL pays
+the debt and interest back to KCC and Mutanda by way of deductions from the power
+invoices payable by the two mines.62 Ivanhoe has provided similar explanation for its
+payments to SNEL.63 These payments should not be confused with those reported
+as social and environmental payments in EITI reports. Civil society has suggested
+that these payments should be included in the scope of EITI reporting on the basis
+that they are material payments to government entities.64 Although the DRC EITI
+multistakeholder group decided not to include them in the reporting scope, covering
+these payments in PtG reports helped raise a debate on their size, nature and basis and
+improve accountability. This type of exposition could help gain understanding of other
+payments reported as infrastructure improvement payments.
+Figure 7. Payments for infrastructure by recipient government entity, 2015
+to 2018 65
+160
+140
+125
+100
+80
+60
+40
+20
+0
+2015 2016 2017 2018
+22
+snoillim
+DSU
+Province of Lualaba; Democratic Republic of the
+Congo
+Office of Highways and Drainage; Province of
+Lualaba; Democratic Republic of the Congo
+Office of Highways and Drainage; Province of
+Haut-Katanga; Democratic Republic of the Congo
+National Electricity Company; Democratic Republic
+of the Congo
+Local Communities; Province of Lualaba
+Local Communities; Province of Haut-Katanga
+Kaponda Community Traditional Authority
+Government of the Democratic Republic of the
+Congo
+General Directorate of Revenue; Ministry of Finance;
+Province of North Kivu; Democratic Republic of the
+Congo
+Directorate of Revenue; Ministry of Finance; Province
+of Lualaba; Democratic Republic of the Congo
+Directorate of Revenue; Ministry of Finance; Province
+of Haut-Katanga; Democratic Republic of the Congo
+62 Email communication from Glencore PLC, 10 February 2020.
+63 Ivanhoe Mines, Notice annuelle: Pour l’exercice clos le 31 décembre 2017, (2018), p. 31, www.sedar.
+com/FindCompanyDocuments.do; PWYP and World Vision, Mini étude de cas de PCQVP-Canada–
+Examen des données par projet au titre de la LMTSE (forthcoming).
+64 OEARSE and Resource Matters, Publiez Ce Que Vous Consommez: Inclure les paiements d’électricité
+dans le rapport ITIE-RDC 2016 (2016), congomines.org/reports/1486-inclure-les-paiements-d-electricite-
+dans-le-rapport-itie-rdc-2016.
+65 Figure 7 includes payments for infrastructure improvements reported by Glencore, Alphamin Resources
+Corporation and Ivanhoe.
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Payments related to sales of mining assets may go undetected in EITI reporting
+if there is little public information about these transactions. Among the corrective
+measures required by the 2019 EITI validation are comprehensive “public disclosure
+of assets awarded and transferred,” “publicly available list of companies in which
+the state or a SOE holds equity” and a “description of the terms associated with
+the equity.”66 Case 3 below illustrates how PtG reports provide information on a
+transfer of equity to the DRC government which has, to date, not been captured in
+EITI reports. This is an example of how DRC EITI can use PtG reports to improve
+comprehensiveness and address the corrective action.
+Case 3. Ivanhoe’s reporting on the Kamoa-Kakula transaction
+Ivanhoe Mining’s Kamoa-Kakula is set to be Africa’s largest and the world’s second-largest
+copper mine. 67 DRC government ownership of the project was initially five percent, per the
+2002 mining code’s minimum requirement for new licenses. In November 2016, Kamoa
+Holding, the subsidiary of Ivanhoe Mining and Zijin Mining, transferred an additional 15
+percent ownership stake to the DRC government. Instead of paying for the additional equity
+in cash, the government offered the following terms, stated in a draft transfer agreement:
+1 Transfer of one Congolese Franc to Kamoa Holding
+2 Ratification and validation of the Kamoa license acquisition process and exemption of
+Kamoa from litigation in the DRC in association to the transaction
+3 Support for Kamoa to obtain preferential treatment offered under a 2014
+cooperation projects law (put in place for the Sicomines project), 68, 69
+The application of the preferential treatment law would mean that the project would be
+exempt from taxes and payments. Ivanhoe’s 2016 PtG report included a bonus payment
+of $105 million reflecting the value of the equity it transferred to the DRC government.
+Ivanhoe’s reporting allows for further inquiry, particularly about whether the additional
+equity incurred by the DRC adequately compensates for the lost taxes and revenues
+resulting from the favorable treatment promised for the Kamoa-Kakula project. At time of
+publication of this report, Chinese investors have injected more capital into Ivanhoe and
+the Kamoa project over the past years, and there has been no public announcement about
+application of preferential treatment to the Kamoa-Kakula project. The government has not
+published the final version of the equity transfer agreement. It has not declared the transfer
+in EITI reports either: the contextual EITI report for 2017 records that DRC’s participation in
+the project remained at five percent from 2016 to 2018. 70
+Verifying amounts reported
+The EITI multi-stakeholder group can verify amounts declared by companies and
+government entities against PtG reports. This is particularly relevant when it comes
+to payments made under contractual terms and to state-owned enterprises, and
+highlights the need for comprehensive publication of contracts. Case 4 presents an
+example of comparing contractual fees reported by Lundin Mining for the Tenke
+Funkurume Mine (TFM) in PtG and EITI reports to support the reconciliation
+66 EITI. ‘EITI Board decision 2019-55/BM-45’, 16 October 2019, eiti.org/board-decision/2019-55
+67 Amos et al., The giant Kamoa-Kakula project in the Democratic Republic of Congo (Journal of the
+Southern African Institute of Mining and Metallurgy, 2018), www.scielo.org.za/scielo.php?script=sci_
+arttext&pid=S2225-62532018001100003.
+68 Convention de cession des actions entre Kamoa Holding et la République Démocratique du Congo
+(2016), www.mines-rdc.cd/resourcecontracts/contract/ocds-591adf-5851624654/view#/pdf. Authors’
+translation.
+69 Government of DRC, Loi n°14/005 portant régime fiscal, douanier, parafiscal, des recettes non
+fiscales et de change applicable aux conventions de collaboration et aux projets de coopération du 11
+février 2014, congomines.org/system/attachments/assets/000/000/615/original/Loi-du-11-f_C3_
+A9vrier-2014.pdf?1430929400.
+70 Government of DRC, EITI report 2017 (2019), p. 55. Ivanhoe Mining did not respond to NRGI’s queries
+related to the current status of the 15 percent ownership transaction, the publication of the final version
+of the related agreement, and the application of the preferential fiscal regime to the Kamoa project.
+23
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+process. It also highlights that without transparency of contracts, confirming the basis
+of payments is difficult.
+Case 4. Lundin mining reports on fees paid to Gécamines
+Lundin Mining is a former owner of the Tenke Funkurume Mine (TFM), the DRC’s largest
+copper mine and one of the most significant contributors of government revenues.
+Lundin is listed in Canada and subject to the Canadian ESTMA law. In its 2017 PtG report, it
+reported paying $14.6 million in fees to Gécamines. EITI data from 2014 to 2016 shows that
+TFM paid consultancy fees to Gécamines ranging between $14 to 17 million per year. Upon
+consulting the 2017 EITI report, we note that TFM’s consultancy fees increased to over $37
+million, which exceeds the fees reported in Lundin’s PtG report for the same year. 71 Lundin
+has not responded to NRGI’s queries on the difference.
+The nature of consultancy services that TFM acquired from Gécamines and the basis for
+calculation of related fees, which represent one type of a parafiscal payment, are not public.
+The joint venture contract signed between TFM and Gécamines states that “the parties
+agree to enter into a consultancy agreement.” 72 Gécamines nor these mining sector
+authorities have made this consultancy agreement public despite the legal requirement
+to do so. In 2018, China Molybdenum bought Lundin and Freeport McMoran’s shares in
+TFM and now owns 80 percent of TFM, with Gécamines retaining 20 percent. There is no
+information in the public domain on whether the consultancy arrangement continues
+between TFM and Gécamines under the new owner. As China Molybdenum is not subject to
+PtG reporting, this source of information is no longer available for payments by TFM, one of
+the largest copper and cobalt mines in DRC.
+Figure 8. Consultancy fees to Gécamines
+40
+35
+30
+25
+20
+15
+10
+5
+0
+2014 2015 2016 2017
+EITI PtG reports
+STEP 4. AGREEING ON A REPORTING FRAMEWORK AND TEMPLATES
+As PtG reporting companies generate the majority of mining revenue, PtG reports
+can make project-level reporting within EITI more efficient. Beyond comparing the
+two reporting systems, in future, they could gradually be merged. This would allow
+the EITI reconciliation process to use PtG reports as a starting point, improving
+the efficiency of data collection. It would also assist DRC EITI in mainstreaming
+the disclosure of project-level payment data according to systematic disclosures
+encouraged by EITI. (See box 4.)
+71 Government of DRC, EITI report 2017 (2019), p. 41.
+72 Générale des Carrières et des Mines (GECAMINES), Lundin Holdings Ltd, Tenke Fungurume Mining
+S.A.R.L., Joint Venture Agreements, 2010, Article 15, www.resourcecontracts.org/contract/ocds-
+591adf-2701755628/view#.
+24
+snoillim
+DSU
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Box 4. EITI systematic disclosure
+As the EITI continues to develop, there is increasing expectation that extractive sector
+transparency will not be confined to EITI reports but will be integrated into governments’
+and companies’ public disclosures. EITI now expects implementing countries to develop
+plans to incorporate EITI implementation in company and government reporting. The
+EITI 2019 Standard noted that to achieve outstanding progress, implementing countries
+will fulfil EITI requirements ‘through systematic disclosures in government and company
+systems.’ 73 PtG reports provide DRC EITI an opportunity to incorporate existing company
+disclosures into their reporting requirements.
+Developing a common reporting framework that uses a consistent nomenclature that
+matches with DRC-specific fiscal and contractual terms would enable a company’s
+PtG report to satisfy its company reporting requirement under EITI. The mapping
+in Annex I of this report can serve as a starting point for development of a common
+reporting framework.
+DRC government agencies can also benefit from PtG reports to meet reporting
+requirements and to integrate payment data into regular government reporting.
+Article 25 of the mining regulation requires all government entities to report
+quarterly on revenues and other statistics.74 To comply with this requirement, the
+CTCPM (Cellule technique pour coordination et planification minière), the technical
+coordinator of the mining sector under the Ministry of Mines, is constructing an
+online data portal that will include up-to-date statistics on mining sector revenues.
+The data portal can use PtG reports for auditing and verifying payment data from
+government systems and EITI reports. Until the portal is complete, PtG reports are
+the only source of timely, disaggregated information on revenues according to the
+revised mining code. (See Case 5.)
+73 EITI, The EITI Standard (2019), eiti.org/files/documents/eiti_standard_2019_en_a4_web.pdf
+74 See online portal, which includes placeholders for disaggregated reporting templates: emine.
+ht2techinfo.cd/. At the time of our research, the portal was yet to be populated with data.
+25
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Case 5. Monitoring payments under the revised mining code
+The 2018 revision of the mining code aims to increase mining sector government take
+and contribution to local development. It set a superprofit tax, increased royalties for all
+minerals and increased government equity stake. In November 2018, the government
+declared cobalt, coltan and germanium strategic substances by decree, attracting a royalty
+rate of ten percent.75 The revised code also introduced a new royalty sharing formula
+and requires mining companies to contribute a percentage of turnover to a community
+development fund.
+PtG reports show increasing corporate income tax payments from 2017 to 2018 for the
+most important mining projects in terms of government revenue: Mutanda, Frontier,
+and KCC. However, the increased tax burden and recent market developments put these
+revenues at risk.
+In 2019, Glencore suspended operations at the Mutanda mine due to lower cobalt prices,
+lowering ore grade qualities and increased tax burden.76, 77 Other companies have also
+announced financial pressures due to lower prices and a more stringent fiscal regime.78
+Since March 2020, the economic downturn and lower commodity prices caused by
+the coronavirus pandemic makes it particularly critical that the government and other
+stakeholders are able to accurately forecast government revenues. 79
+Figure 9. Mutanda mine corporate income tax payments and copper production,
+2010 to 2018
+400
+300
+200
+100
+0
+75 Government of the DRC, ‘Décret n°18/042 du 24 novembre 2018 portant déclaration du cobalt, le
+germanium et la colombo-tantalite comme des substances minérales stratégiques’, congomines.org/
+system/attachments/assets/000/001/533/original/Strategic_Substances_Decree.pdf?1543917928.
+76 “Glencore’s Mutanda Closing May Be Bargaining Tactic with DRC,” Africa Report, 15 August 2019, www.
+theafricareport.com/16284/glencores-mutanda-closure-may-be-bargaining-tactic-with-drc.
+77 Reopening will depend on the economic feasibility of mine expansion under the 2018 mining code.
+Email communication with Glencore, 10 February 2020.
+78 In addition to Mutanda, the second largest cobalt producer, TFM, issued a warning of being in “deficit
+zone” following lower prices and higher taxes, and Boss Mining was put under care and maintenance
+while it “considers new production methods.”
+79 Okenda, Jean Pierre, How the DRC Can Defend its Mining Interests During the Pandemic (NRGI, 2020),
+resourcegovernance.org/blog/drc-defend-mining-pandemic-congo-coronavirus.
+26
+snoillim
+DSU
+250,000
+200,000
+150,000
+100,000
+50,000
+t
+,noitcudorP
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+EITI: Corporate income tax, USD
+PtG: Corporate income tax, USD
+Production, t
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+4. Strengthening PtG reports
+PtG regulations in the EU, Canada and Norway are necessarily broad and adaptable to
+be fit for purpose as a reporting template for mining, oil and gas companies reporting
+on payments for extractive activities in all countries of operation. As described in the
+previous section, the seven broad categories have been useful in surfacing certain
+payments not reported through EITI. However, due to a lack of reporting templates
+tailored to the DRC’s specific fiscal and parafiscal regime, companies operating in the
+DRC report on payments inconsistently across years and compared to each other.
+Companies have missed opportunities to report on important payments, especially
+those of a parafiscal nature. For PtG reports to maximally contribute to the EITI
+process and transparency on mining sector revenues in the DRC more broadly, their
+quality and level of detail can be significantly improved.
+KEY AREAS OF PTG REPORTING CHALLENGES
+Reporting quality is particularly limited in seven areas: 1) payments to SOEs;
+2) taxes; 3) provincial taxes on road use and exports; 4) Customs duties and export
+taxes; 5) community development contribution; 6) Government entities; and
+7) Other compliance and coverage issues.
+Payments to SOEs
+In contrast to the importance of payments to SOEs in the EITI data, 2016 to 2018
+PtG reports only record two transactions with SOEs. The lack of coverage of SOE
+transactions in PtG reports is likely linked to their parafiscal nature. (See case 4 on
+TFM’s consultancy fees above). Moreover, payments for purchase of mining assets
+are not explicitly part of PtG reporting guidance. (See, for example, case 6, which
+highlights how ERG’s PtG report fails to report on a payment related to the purchase
+of assets.)
+Poor coverage of payments to SOEs potentially violates PtG reporting requirements,
+which cover payments made to SOEs “exercising or performing a power, duty or
+function of government.”80 Although DRC’s SOEs are structured as limited liability
+companies, they perform government functions and exercise powers granted by the
+mining code, which extend beyond those of private mining companies operating in
+the country. The 2018 revised mining code and other preceding laws formalized their
+role in selling mineral assets and collecting signature bonuses for assets in which they
+have invested.
+Importantly, not covering SOE payments limits the usefulness of PtG reports in
+the DRC. In the past, SOEs have sold equity shares in important mining assets
+under market value through politically connected intermediaries.81 The DRC
+holds over 60 percent of global reserves of cobalt and significant deposits of other
+minerals and metals such as lithium needed for battery production in an electrified
+society. SOEs own significant shares in exploration and production licenses of these
+80 NRCAN, ESTMA Guidance (2018), www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/estma/pdf/ESTMA%20
+Guidance%20-%20Version%202_1%252C%20July%202018.pdf.
+81 Africa Progress Panel, Africa Progress Report: Equity in Extractives (2013), p. 56, static1.squarespace.
+com/static/5728c7b18259b5e0087689a6/t/57ab29519de4bb90f53f9fff/1470835029000/2013_
+African+Progress+Panel+APR_Equity_in_Extractives_25062013_ENG_HR.pdf; Global Witness, Secrecy
+Surrounding Glencore’s Business Deals in The Democratic Republic of Congo: Risks Exposing
+Shareholders to Corrupt Practices (2012), www.globalwitness.org/documents/17969/DRC-GW_secret_
+sales_memo_May_9_2012_ENG.pdf.
+27
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+minerals coveted by investors.82 PtG reports should fully cover payments made to
+SOEs, including purchasing equity from government-controlled entities, to ensure
+transparency of transactions and their value.
+Case 6. Metalkol equity sales
+Located in the DRC’s Copper Belt province of Lualaba, Metal Kolwezi (Metalkol) is one of
+ERG’s key copper and cobalt assets in the DRC. 83 In 2016, Gécamines and its subsidiary
+SIMCO sold their collective 25 percent share in the Metalkol project for $170 million.84
+According to the sales contract, Gécamines would collect this amount in three instalments,
+$80 million at the signing of the agreement, $40 million thirty days from the reception of
+the first instalment and $50 million one year after the sale’s completion.85
+In 2016, Gécamines declared to EITI that it had received a portion of $110 million.86
+Contrary to this declaration, EITI’s review of Gécamines’ 2016 financial statement showed
+a remaining debt to Gécamines of only $43 million, indicating that $127 million had been
+settled as part of the transaction. 87 The EITI declaration by Gécamines identified the
+payment coming from an offshore entity. Its beneficial owner was unknown, as Metalkol had
+not declared its beneficial owners as part of the EITI process and Metalkol initially denied
+the acquisition. 88 However, correspondence from Highwind Properties, an ERG subsidiary,
+confirmed the payment came from this company controlled by ERG. 89 Gécamines did not
+put these assets out for public tender nor disclose the sales contract within 60 days of the
+transaction, as required by a 2011 government decree. 90
+Transparency of asset sale contracts, payments and beneficiaries is critical because in
+the past, the DRC’s mining assets have been sold under market value and then resold for
+higher value via intermediary companies located in offshore jurisdictions. 91 Therefore,
+it is problematic that ERG, Metalkol’s parent company subject to the EU’s accounting
+directive, did not report on the payments made to Gécamines in its PtG reports. This
+delayed discovery of the transaction until the 2016 EITI report came out. On the contrary,
+ERG reported a negative royalty of $17 million in its PtG report for 2016 92, noting that the
+amount relates to a refund from Gécamines as a former joint venture partner. The absence
+of full disclosure of remaining associated contractual documents in the public domain
+limits understanding of the basis of this refund.
+82 DRC EITI, EITI contextual report 2017, p. 56.
+83 Partnership agreement between the DRC, Gécamines and the Highwind Group Properties Limited
+regarding the exploitation of the Kingambyambo, Musonoie and Kisobantu Valley discharge, Article 2, (5
+April 2016), drive.google.com/file/d/16W5nCJ7Qw3_aJTpHGvukCl3TyDe_3ipU/view.
+84 MoU of April 5, 2016 between the Highwind Group Properties Ltd, Dezita Investments SARL, the
+Gécamines in the presence of the Kingamyambo Waste Treatment Company, www.mines-rdc.cd/
+resourcecontracts/contract/ocds-591adf-7609261874/view#/; “Carter Center Urges DRC to Disclose
+Sale Contract for State-owned Mining Company’s Metalkol Share”, Carter Center, 26 October 2016,
+congomines.org/system/attachments/assets/000/001/194/original/Carter_Center_Metalkol-Asset-Sale_
+Press-Release_2016-10-26_ENGLISH.pdf?1477652165.
+85 Partnership agreement between the DRC, Gécamines and the Highwind Group Properties Limited
+regarding the exploitation of the Kingambyambo, Musonoie and Kisobantu Valley discharge, Article 3.2,
+(5 April 2016), drive.google.com/file/d/16W5nCJ7Qw3_aJTpHGvukCl3TyDe_3ipU/view.
+86 DRC EITI, EITI 2016 reconciliation report, (2018), p. 7, eiti.org/document/2016-democratic-republic-of-
+congo-reconciliation-eiti-report.
+87 DRC EITI, Contextual report 2016, ITIE-DRC, complementary report, (2018), p.45, drive.google.com/
+file/d/1JVPyPgiGzieGjRe-N8ux-2I3s6Ix92zp/view.
+88 ERG, Metalkol RTR Clean Cobalt Performance Report (2019), p. 16, www.ergafrica.com/wp-content/
+uploads/Metalkol-Clean-Cobalt-Performance-Report_July-2019.pdf .
+89 DRC EITI, EITI 2016 reconciliation report, p. 20.
+90 “Congo urged to release contract on Metalkol stake sale,” Reuters, 26 October 2016. www.reuters.com/
+article/congo-mining/congo-urged-to-release-contract-on-metalkol-stake-sale-idUSL8N1CV90S.
+91 Natural Resource Governance Institute, Copper Giants: Lessons from State-Owned Mining Companies in
+the DRC and Zambia (2015), resourcegovernance.org/sites/default/files/nrgi_NMC_English.pdf.
+92 In response to questions posed by NRGI on its PtG report, ERG mentioned that the definition of
+payments to governments to be declared according to point 5 of article 41 (Chapter 10) of the Directive
+on accounting and transparency of EU does not include payments for the purchase of assets from a
+state body or public enterprise, as the reason for non-reporting.
+28
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Some payments to SOEs, such as royalties and consultancy fees, are deductible
+from profit-based taxes. According to independent models, the DRC’s fiscal regime
+is highly dependent on profit-based taxes for mining sector revenues.93 However,
+research on profit taxes has showed they consistently deliver lower revenues than
+estimated.94 One reason is that parafiscal payments to SOEs place an additional
+burden on mining projects’ profitability and thus reduce the base on which the central
+government collects tax revenues. Prior NRGI analysis has shown that in 2015 alone,
+Ruashi Mining would have paid three times its actual corporate income tax ($10.4
+million) if payments to Gécamines had not increased its costs and reduced profits.95
+Covering all payments to SOEs helps reporting companies communicate the full
+extent of their fiscal and parafiscal contribution in the DRC.
+Taxes
+EITI reporting in the DRC separates three categories under profit taxes: corporate
+income tax, withholding tax (on dividends and on services by non-resident service
+providers) and ordinary and extraordinary taxes on income and profits. In addition,
+there are other taxes payable by natural resource companies. In contrast, PTG
+reporting only includes one category for taxes. This single category appears to be
+insufficient for capturing the DRC’s different taxes and parafiscal tax-like payments.
+Glencore and ERG’s PtG reports have voluntarily disaggregated profit-based taxes
+according to the DRC’s fiscal regime, allowing greater complementarity between the
+two reporting systems.
+Provincial taxes on road use and exports
+Provincial taxes on road use and concentrate exports are a major example of
+payments reported in a inconsistent manner in PtG reports due to their parafiscal
+nature. Ivanhoe has reported payments made to the Office of Highways and
+Drainage in the Province of Lualaba for infrastructure improvement. If this
+payment is effectively the provincial tax for road use collected by the same agency,
+Ivanhoe should record it as a tax instead of an infrastructure improvement
+payment, for sake of clarity and comparability with taxes on road use and on copper
+concentrate exports (other taxes payable by natural resource companies) in EITI
+reports. From 2016 to 2018, ERG reported payments of production entitlements
+for its Frontier, Boss and Metalkol projects despite that there being no production
+entitlements in the DRC’s legislated fiscal regime, nor are they known to exist
+in the contracts of these projects. ERG has clarified that what they reported as
+production entitlements are the provincial export taxes.96 Glencore has labeled the
+taxes as provincial road taxes and export taxes, which makes it possible to compare
+them to the DRC fiscal regime.
+While PtG reporting requirements exclude export taxes, taxes paid on road use
+should fall within the reporting scope as they are paid based on production tonnage.
+In practice, companies can decide to report on both, to communicate the full fiscal
+contribution they make in the DRC, as Glencore has done.
+93 Lassourd, Fiscalité du nouveau code minier, p. 18.
+94 Carter Center, Improving Governance of Revenues from the Mining Industry (2017), p. 4, congomines.
+org/system/attachments/assets/000/001/220/original/TCC_EIGP_REV_Improving_Governance_of_
+Revenues_--_Cross-Cutting_Lessons_%28....pdf?1487024488.
+95 Lassourd, Fiscalité du nouveau code minier, p. 21.
+96 Email communication from ERG in response to NRGI query, 10 August 2020.
+29
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Customs duties and export taxes
+Customs duties are the largest payment type for the majority of years available in
+the EITI data. Similarly, export taxes are among the top ten payments according to
+EITI data, although they have no basis in the mining code.97 Due to the size of these
+payments collected by the Directorate General of Customs (Direction Générale des
+Douanes et Accise, DGDA), they merit more attention and accountability, but are
+currently excluded from PtG reporting requirements.
+Community development contribution
+The 2018 mining code requires that mining companies pay 0.3 percent of gross
+turnover to a local development fund. The legislator modeled this legal requirement
+after TFM’s mining convention.98 However, Lundin mining did not cover community
+development payments in its PtG report for TFM. Other PtG reports covering
+payments under the new mining code, effective from mid-2018, show no payments
+towards this contribution. This is a result of slow implementation of institutional
+structures to manage community development contributions.99
+Precedents of similar community development payments from other countries
+show that in future, when companies start making payments to the local
+development fund, they should include them in PtG reports. For example, payments
+made by oil and gas companies to the Niger Delta Development Commission in
+Nigeria, which are required to pay a three percent levy on their annual budget, have
+been disclosed under these payments to governments regulations.100 Similarly, in its
+report Under the Surface: Looking into payments by oil, gas and mining companies
+to governments, Transparency International EU engaged with Vedanta Resources
+and confirmed that the royalty payment disclosed in its 2016 PtG report for the
+Rampura Agucha zinc-lead mine in Rajasthan, India included payments to the
+District Mineral Foundation.101
+Government entities
+The quality of reporting on government entities has improved significantly since
+the first PtG reports covering payments in the DRC in 2015. For example, Glencore
+has moved from reporting all payments simply to ‘Government of the Democratic
+Republic of the Congo’ in 2015, to in most cases naming the specific recipient
+government entity. Regardless, the lack of standardized naming of entities across
+years and between companies makes systematic data use difficult. In the most
+extreme case, companies did not report on recipient entities at all: ERG, which is
+incorporated in Luxembourg, has only reported on payments by payment type, not
+by recipient entity. This failure to identify recipient entities makes the declaration
+significantly less useful. For example, ERG reported over $6 million in infrastructure
+payments by the Boss Mining project in its 2018 PtG report. Because there is no
+legal basis for infrastructure improvement payments in the general fiscal regime,
+without disclosing which government entity received these payments, it is impossible
+to understand how they contribute to government revenues and development
+outcomes. Similarly, lack of clarity on the basis of fees paid to postal, airways and
+97 DRC EITI, EITI report for 2015 (2017), p. 185, drive.google.com/file/d/1VMolHv8pzmrce6kMt8POJl81LU9Y_
+raw/view.
+98 Okenda, Innovations de la nouvelle législation minière de la RDC, p. 12-13.
+99 Email communication from Glencore PLC, 10 February 2020.
+100 Alexander Malden. Nigeria Oil and Gas Revenues (Natural Resource Governance Institute, 2017),
+resourcegovernance.org/sites/default/files/documents/nigeria-oil-revenue.pdf.
+101 Transparency International, Under the Surface: Looking into payments by oil, gas and mining
+companies to governments (2018), transparency.eu/wp-content/uploads/2018/10/Under-the-Surface_
+Full_Report.pdf.
+30
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+other non-mining sector agencies makes it difficult to trace them back to legal and
+contractual obligations.
+Other compliance and coverage issues
+Banro Corporation has not issued a PtG report for the fiscal year 2018. The company
+delisted from the Toronto Stock Exchange in 2018. However, according to ESTMA
+guidance, the company must report if it fulfills two of the following three criteria: has
+at least CAD 20 million in assets, generated at least CAD 40 million in revenue or
+employs an average of at least 250 employees.
+In 2019, Barrick Gold acquired Randgold’s 45 percent stake in the Kibali Gold Mine
+joint venture with AngloGold Ashanti (45 percent) and SOKIMO (10 percent).
+Although Barrick does not have a controlling interest over this joint venture and is not
+required to report on its payments, as the operator of the Kibali mine, reporting on
+the entire Kibali joint venture would contribute to transparency. Barrick’s other joint
+venture partners have taken this approach with regard to other equally controlled
+joint ventures in accordance with the additional guidance provided by NRCan in
+August 2017 and April 2018.102
+102 In its PtG report, NovaGold has included 100 percent of payments made by Donlin Gold LLC, a 50/50
+joint venture between Barrick and NovaGold to “enhance transparency.” Barrick Gold., 2019 ESTMA
+report (2020), p. 5, barrick.q4cdn.com/788666289/files/sustainability/Barrick-2019-Extractive-Sector-
+Transparency-Act-Report.pdf.
+31
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+5. Improving governance through
+better reporting
+More efficient and complementary reporting using PtG reports and EITI data is
+ultimately important because it produces data for analyzing and addressing policy and
+governance challenges in the DRC’s mining sector.
+The government, civil society and media can use PtG reports to monitor
+revenue collection under the revised mining code. With delayed EITI reporting
+and lack of full implementation of government revenue reporting, PtG reports
+provide a unique view of payment trends under the 2018 mining code. PtG reports
+show increasing corporate income tax payments from 2017 to 2018 for the most
+important mining projects in terms of government revenue: Mutanda, Frontier and
+KCC. However, recent market developments including the coronavirus pandemic’s
+impact on commodity prices put these revenues at risk, placing an increasing
+importance on timely data sources.
+Combined, PtG and EITI reports form a fuller picture of the fiscal burden
+placed on mining companies in the DRC, caused by parafiscal payments. These
+payments include payments to SOEs, export taxes and provincial taxes and payments
+to customs agencies. PtG reports provide additional information on infrastructure
+improvement payments. PtG reports’ project level disaggregation can help integrate
+parafiscal payments to project-level fiscal models and compare modeled payments to
+actual revenues.
+Payments to SOEs are among the highest parafiscal payments, and likely to
+continue to be important in the future. Investors’ appetite for the DRC’s critical
+minerals for the energy transition could lead to a new wave of asset sales by SOEs
+controlling these critical resources. For citizens to benefit maximally from potential
+deals, future asset sales by SOEs and the government should be run competitively
+and in accordance with requirements from the 2018 mining code.103 Gécamines
+has announced it intends to renegotiate joint-venture contracts to raise revenues.104
+In 2018, it reached agreements with ERG and Glencore that aim to increase the
+payments it collects from the KCC and Boss Mining joint ventures.105,106 To date,
+PtG reports point to a continuing trend of SOEs not collecting any dividends from
+joint ventures. It remains to be seen whether they succeed in negotiating increased
+dividends or other revenues.
+PtG reports can support monitoring contract disclosure by detecting
+payments based on contracts potentially not in the public domain. Full
+transparency of contracts and payments related to asset sale transactions is
+necessary for monitoring that the government and SOEs sell assets at fair market
+value and payments are made in accordance with law. Without transparency of these
+103 ‘DRC Mining regulation‘, (2018) Article 25 septies.
+104 “Mining Indaba: le moral de l’industrie minière au beau fixe, malgré les annonces fracassantes de la
+RDC“, Jeune Afrique, 8 February 2018, www.jeuneafrique.com/528933/economie/mining-indaba-le-moral-
+de-lindustrie-miniere-au-beau-fixe-malgre-les-annonces-fracassantes-de-la-rdc.
+105 The renegotiation agreement reached with Glencore raised bonus amount due to Gécamines
+from 35 to $110 and $170 in certain scenarios per ton of discovered minerals, www.gecamines.cd/
+Compresse/KCC%20-%20Communiqu%C3%A9%20de%20presse%20G%C3%A9camines%20(accord%20
+transactionnel)%20-%2013%20juin%202018%20(FR).pdf.
+106 The agreement with ERG raised Gécamines’ bonus amount rate from $35 to $165 per ton of discovered
+minerals. “Gécamines redefinit avec ERG les bases de leur partenariat dans Boss Mining,” Financial Afrik,
+10 December 2018, www.financialafrik.com/2018/12/10/gecamines-redefinit-avec-erg-les-bases-de-leur-
+partenariat-dans-boss-mining.
+32
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+agreements, existence of certain types of payments and information on who has
+the obligation to make or collect a payment, is unknown to the public. The IMF has
+recently embedded contract disclosure in the conditions of its loan conditions for
+the DRC.
+The 2018 mining code has brought about new challenges in following
+payments collected by an increasing number of government agencies, which
+PtG reports can help trace. PtG reports show that a large number of government
+entities collect revenues from the mining sector. Direct payments to provinces,
+decentralized authorities and to FOMIN address critical needs for local development.
+However, implementation of community development payments and direct
+collection of royalties by decentralized authorities is work in progress, and further
+increases the complexity of how revenues flow from mining companies through the
+DRC’s government finances. At the same time, PtG reports show that companies
+continue to pay provincial taxes although they are not included in the mining code
+and provinces now also collect direct royalty payments. Finally, infrastructure
+payments and other payments to agencies such as the CEEC fragment mining sector
+revenue collection.
+33
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+6. Conclusion
+This briefing has highlighted the added value of PtG reports as a complementary
+data source on DRC’s mining sector revenues. As next steps, DRC EITI can use this
+briefing as a guide to engaging with PtG reports as it prepares to produce the 2018
+EITI scoping study and reconciliation report, addresses corrective measures of the
+2019 EITI validation and implements project-level reporting requirements and
+systematic disclosures. Companies can improve the quality, coverage and contextual
+relevance of their PtG reports concerning the DRC. Home regulators can enforce and
+improve regulations by using the case studies in this report. Finally, civil society and
+government can review PtG reports and use them as a data source and improve their
+quality by raising concerns. International actors can keep raising awareness of PtG
+reports and facilitating their use, including dialogue between stakeholders.
+34
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Annex
+Table 4. Mining sector revenue streams, fiscal term source, collecting agencies, and
+mapping to EITI and PtG reporting nomenclature
+Revenue type Tax base Collecting Legal source EITI nomenclature PtG nomenclature
+agency (as of 2018)
+Corporate income tax Profit DGI General law Ordinary taxes on income, Taxes levied on the income,
+Mining code profits and capital gains: production or profits of
+Impôt sur les bénéfices et companies, excluding taxes
+profits (IBP) OR levied on consumption107
+Extraordinary taxes on
+income, profits and capital
+gains: Impôt spécial
+forfaitaire (ISF)
+Withholding tax on Payments for DGI General law Ordinary taxes on income, 4Taxes levied on the income,
+non-resident service goods and services Mining code profits and capital gains: production or profits of
+providers companies, excluding taxes
+levied on consumption
+Withholding tax on Profit DGI General law Ordinary taxes on income, Taxes levied on the income,
+capital gains profits and capital gains: production or profits of
+Mining code Impôt mobilier (IM) companies, excluding taxes
+levied on consumption
+State royalty Production/sales DGRAD, Mining code Redevances minières (RM) Royalties
+provinces, EDTs
+(redevance minière) and FOMIN
+Pas de porte Asset/reserve DGRAD Mining code Bonuses: Pas-de-porte Signature, discovery and
+(signature bonus) value versés à l’Etat production bonuses
+Customs duty Production/sales DGDA General law Customs and other import -
+Mining code duties: Droits et Taxes à
+l’importation (DTI)
+State equity Profit DGRAD Mining code From government Dividends108
+participation participation (equity):
+Dividendes versés à l’Etat
+Community Turnover (chiffre TBD Mining code - Other?
+development d’affaire)
+payment
+Export tax Production/sales DGDA - Taxes on exports: Droits et -
+Taxes à l’exportation (DTE)
+Road tax Production/sales DRHKAT et - Other taxes payable by Taxes levied on the income,
+DRLU109 natural resource companies: production or profits of
+Taxe voiries et drainage companies, excluding taxes
+levied on consumption
+Copper concentrate Production/sales DRHKAT et - Other taxes payable by -
+export tax DRLU natural resource companies:
+Taxe provinciale sur les
+concentrés
+Contribution to Varies by contract Various Ad hoc or - Payments for infrastructure
+infrastructure contract improvements
+development
+- - - - - Production entitlements
+107 Such as value added taxes, personal income taxes or sales taxes.
+108 Other than dividends paid by an undertaking to a government as an ordinary shareholder of that
+undertaking, and the dividend is paid to the government on the same terms as to other ordinary
+shareholders, and the dividend is not paid in lieu of production entitlements or royalties.
+109 Directorates of Revenue in Haut-Katanga and Lualaba provinces (Direction des Recettes de Haut
+Katanga, Direction Générale des Recettes de Lualaba).
+35
+
+DRC’s Mining Revenues: Increasing Accountability by Analyzing Payments to Governments Reports
+Payments to DRC state-owned enterprises110
+Revenue type Tax base Collecting Source (as of EITI nomenclature PtG nomenclature
+agency 2018)
+SOE equity participation Profit SOEs Contracts Dividends111
+Pas de porte (signature Asset/reserve SOEs Contracts Delivered/paid to state-
+bonus) value owned enterprise(s): Pas-de-
+Porte versés aux Entreprises
+Publiques/Bonus de signature
+ou Transfert
+SOE royalty Production/ SOEs Contracts Delivered/paid to state-owned Royalties / Other?
+sales enterprise(s): Royalties payées
+aux entreprises minières
+publiques
+Asset sale revenue Asset/reserve SOEs Contracts, Delivered/paid to state-owned -
+value Law on enterprise(s): Cession d’actifs ou
+the state’s parts sociales
+disengagement
+in SOEs112
+Mining code
+Lease or rental of mining Varies by SOEs Contracts Delivered/paid to state- License fees, rental fees, entry
+licenses contract owned enterprise(s): Loyers fees and other considerations
+d’amodiation et/ou rente for licenses or concessions
+mensuelle
+Leases for equipment Varies by SOEs Contracts License fees, rental fees, entry
+contract fees and other considerations
+for licenses or concessions
+Fees for renouncing Varies by SOEs Ad hoc or Delivered/paid to state- License fees, rental fees, entry
+right of first refusal contract contract owned enterprise(s): Frais fees and other considerations
+de renonciation au droit de for licenses or concessions
+préemption
+Fonds versés à la GCM Production/ SOEs Contracts Fonds versés à la GCM pour la -
+pour la vente des scories sales vente des scories
+Production bonus Production/ SOEs Contracts Bonuses: Paiement contractuel Signature, discovery and
+sales sur seuil de production atteint production bonuses
+Consultancy fee Varies by SOEs Contracts Delivered/paid to state- License fees, rental fees, entry
+contract owned enterprise(s): Frais de fees and other considerations
+consultance OR Administrative for licenses or concessions
+fees for government services:
+Prestations de services
+Loans to SOEs Varies SOEs Contracts or - -
+ad hoc
+110 Table based on material flows identified in the 2018 EITI contextual report; A State Affair; and OEARSE,
+2019, p. 41 and 45.
+111 Other than dividends paid by an undertaking to a government as an ordinary shareholder of that
+undertaking, and the dividend is paid to the government on the same terms as to other ordinary
+shareholders, and the dividend is not paid in lieu of production entitlements or royalties.
+112 Government of DRC, Loi n°08/008 du 7 juillet 2008 portant dispositions générales sur le
+désengagement de l’Etat dans les EP (Law on the state’s disengaement in SOEs).
+36
+
+AUTHORS
+Kaisa Toroskainen is a consultant and formerly Africa program officer with the Natural
+Resource Governance Institute (NRGI). Jean Pierre Okenda is DRC country manager and
+Alexander Malden is a governance officer with NRGI.
+ACKNOWLEDGMENTS
+The authors are grateful to Thomas Lassourd’s research informing the findings of this
+report. The authors also thank reviewers of the report, including Amir Shafaie, Evelyne
+Tsague, Descartes Mponge, Joseph Williams, Matthieu Salomon, as well as Daniel Mulé,
+Christoffer Claussen and Emily Nickerson. Participants of research presentation workshops
+in Kinshasa in December 2019 provided valuable feedback and informed the final report.
+The Natural Resource Governance Institute, an independent, non-profit organization, helps people
+to realize the benefits of their countries’ oil, gas and mineral wealth through applied research, and
+innovative approaches to capacity development, technical advice and advocacy.
+Learn more at www.resourcegovernance.org
+37

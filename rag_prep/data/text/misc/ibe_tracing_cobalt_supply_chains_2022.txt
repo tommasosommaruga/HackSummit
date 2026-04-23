@@ -1,0 +1,1457 @@
+Tracing Cobalt
+in Fragmented
+Supply Chains
+In collaboration with
+Case Study Date of completion 2022
+September
+Switzerland
+Location
+Rümlang
+
+Report on Cobalt Traceability
+Foreword
+Cobalt is a key metal used in lithium batteries, This effort is yet another initiative showing the
+which power our phones, electric vehicles, or strong commitment of our company to human
+windmills. As it is at the heart of technologies that rights and the protection of vulnerable groups
+are essential to a renewable energy future, the around the globe. Creating more transparent and
+demand for this finite metal is enormous. 70% of responsible mineral supply chains is possible only
+the world’s cobalt is sourced in the Democratic with the collective action of many parties, and with
+Republic of Congo and it is linked to serious human this publication we are seeking to build partnerships
+rights violations, including forced and child labor. and greater awareness. We hope the insights in this
+study will help other companies to improve their
+At dormakaba we wanted to have a better understanding and management of the human
+understanding about tracing cobalt in fragmented rights risks linked to their cobalt supply chains.
+supply chains related to electronics components
+that we use in our products. The topic’s complexity
+required external expertise, therefore we worked
+together with the Institute for Business Ethics at Kind regards,
+the University of Saint Gallen, and commissioned
+a study to gain deeper insight in the topic.
+Stephanie Ossenbach
+This finalized report is now available to the
+greater public, putting a spotlight on the key
+actors and practices involved in the sourcing
+process of cobalt in the Democratic Republic
+Stephanie Ossenbach
+of Congo. It provides a detailed overview
+of the upstream part of the cobalt supply Group Sustainability Officer at dormakaba
+chain, as well as the actors that participate
+in the extraction and handling of this mineral.
+Readers will, therefore, be able to familiarize
+themselves with the different actors, steps,
+and processes involved in the sourcing of cobalt.
+Numerous sustainability and supply chain
+professionals contributed with their expertise
+to the report. They shared practices and
+actions they believe would have the potential
+to improve labor standards and prevent human
+rights violations in cobalt supply chains.
+2
+
+Tracing Cobalt in Fragmented Supply Chains
+Cell phones, electric cars, and many other Our study identifies the primary challenges
+products that run on rechargeable batteries, faced by responsible cobalt sourcing in the DRC.
+contain cobalt. They are produced, sold, and Additionally, we highlight key developments in
+used all over the globe. Thus, the cobalt supply the country that hold promise for facilitating
+chain, particularly its extended value chain, a further push for responsible sourcing in the
+is highly internationalized. In comparison, the future. Finally, we outline opportunities for
+sourcing of cobalt minerals is limited in large individual companies and business associations
+parts to a geographically defined area. The in fulfilling their responsibility to respect
+Democratic Republic of Congo (DRC) is by far human rights, as stipulated in the UN Guiding
+the largest provider of cobalt worldwide. This in Principles for Business and Human Rights.
+and of itself is a challenge that is accelerated
+by the often-harrowing conditions under which
+small scale miners in particular extract cobalt for
+the world market. However, the fast-increasing Kind regards,
+global demand has led to growing awareness
+among consumers, investors, public and not
+least companies in various sectors about the
+problematic conditions under which cobalt is
+often sourced. These features underline the
+importance and urgency of examining best
+practices and the challenges associated
+Dr. Florian Wettstein
+with implementing responsible business
+conduct along the cobalt value chain.
+We are grateful for the opportunity to collaborate
+with dormakaba to gain deeper insights into the
+specific challenges and opportunities related to
+Kind regards,
+establishing ethical practices within companies
+that source and use cobalt. The UN Guiding
+Principles on Business and Human Rights provide
+a global standard for conducting business in
+accordance with the international human rights Dr. Isabel Ebert
+framework, and it is encouraging to see that a
+growing number of companies have started to
+align their practices with these principles. Doing
+so will be an essential element to build global
+cobalt supply chains that benefit everyone, from
+consumers in the global markets all the way to
+mine workers in the DRC. One specific factor
+explored in our study are the distinct dynamics
+between large-scale mining operations and small-
+scale and artisanal miners. Although they may
+initially seem separate, in reality, their practices
+are closely interconnected. The formalization
+of small-scale mining operations is one of
+the key challenges in the cobalt supply chain
+and companies are called on to contribute to
+finding sustainable solutions to this challenge.
+3
+
+Report on Cobalt Traceability
+Executive
+summary
+This research maps the cobalt value chain and the The report underlines the relevance of a business
+current state of research about associated human and human rights approach to address systemic
+rights risks in this value chain. It also identifies and issues in cobalt mining. It builds a foundation
+maps key actors within the cobalt value chain, in soft law, through analysis of the relevant
+along with the relevant legal frameworks. The legal frameworks on business and human rights
+research assesses typical human rights risks as and the OECD Due Diligence Guidance for
+well as governance and traceability challenges Responsible Supply Chains. The report shows
+and provides solutions based on desk research the fragmented, opaque character of the cobalt
+and expert interviews with key informants. supply chain structure, where the intersection
+between upstream and downstream actors
+The report highlights the significant human rights inhibits the densest point in the supply chain
+risks associated with cobalt mining, particularly as the middle of the hour glass structure. A
+those associated with artisanal and small-scale lot of regulation is therefore connected to this
+mining (ASM). At the same time, the report also critical juncture. Additionally, while transparency
+shows the inter-connectedness of large-scale around cobalt supply chains and associated
+mining (LSM) and small-scale mining operations. human rights risks remains low in the DRC,
+As a result of this, experts and companies dismiss the report also demonstrates that due to the
+the feasibility of excluding ASM by solely sourcing sheer abundance of cobalt and the associated
+LSM cobalt. The report argues that the DRC dominance in the global cobalt market, it is
+inhabits a key role in the global cobalt market not advisable or even practicable to aim at
+and that aiming to avoid sourcing cobalt from the circumventing the DRC as a country of origin of
+DRC is unrealistic as the DRC accounts for two- cobalt. Moreover, avoiding the DRC does not help
+thirds of the world’s cobalt production. Sourcing to actually solve the problems on the ground.
+cobalt from the DRC implies having to work with
+both LSM and ASM solutions as artisanal mining Recognizing the systemic issues around
+is ubiquitous in the DRC. Child labor risks are a transparency and human rights risks, which
+systemic issue in the DRC mining industry, and relate to a range of human rights and children’s
+companies, policy makers and NGOs are increasing rights, several industry actors are in the process
+their efforts to address these risks, e.g. through of stepping up and driving change in the DRC.
+local regulatory models or multi-stakeholder The current picture remains fragmented but
+alliances as well as collaborative projects between efforts to increase transparency and address
+companies and civil society on the ground. systemic human rights issues appear to be
+continuing to grow. The report also shows
+that companies can connect with existing
+avenues that are working towards solutions.
+The insights from expert interviews, policy
+guidance and academic experts show that
+despite the major differences between ASM and
+LSM with regards to human rights impacts and
+traceability, companies can improve traceability
+through a range of selected approaches for
+grasping the situation on the ground.
+4
+
+Tracing Cobalt in Fragmented Supply Chains
+Contents
+Foreword _____________________________________________________________________ 3
+Executive summary ______________________________________________________________ 4
+Introduction ___________________________________________________________________ 6
+The role of cobalt and artisanal miners in the DRC ________________________________________ 8
+Child labor risks in the DRC mining industry ____________________________________________ 9
+Child labor in international law and the DRC ___________________________________________10
+The DRC National Mining Code _____________________________________________________10
+The relevance of the Business and Human Rights approach to
+address systemic issues in cobalt mining ______________________________________________11
+Relevant legal frameworks on business and human rights _________________________________12
+Relevant soft law foundations _____________________________________________________14
+Cobalt supply chain structure _____________________________________________________ 14
+Expert insights on the Cobalt Supply Chain ____________________________________________ 16
+Major differences between ASM and LSM with regards
+to human rights impacts and traceability ______________________________________________17
+Key challenges for ensuring traceability along the supply chain _____________________________ 18
+Best practices: What should companies do to improve traceability? __________________________18
+Working towards solutions ________________________________________________________ 19
+Audits ______________________________________________________________________19
+Due diligence processes to ensure standards __________________________________________19
+Joining initiatives _____________________________________________________________ 20
+Mapping of supply chain data _____________________________________________________21
+Collaborations as a way forward? __________________________________________________21
+Contributing to the formalization of ASM _____________________________________________21
+Conclusion ___________________________________________________________________ 23
+References ___________________________________________________________________ 24
+Further Material _______________________________________________________________ 33
+Upstream Actors _______________________________________________________________ 34
+5
+
+Case Study Cobalt Traceability
+Introduction
+Cobalt production has more than doubled since that DRC is the fifth largest producer of copper
+the early 2000 to meet the rising demand. It is worldwide. Furthermore, cobalt and copper are
+a key ingredient powering today’s technology.1,2 often mined and traded in the same region, known
+Globally, the cobalt mine supply is currently as the Copperbelt, and by the same companies.8
+quite fragmented from a producer perspective,
+with the top three players today accounting The People’s Republic of China (China) holds a
+for just below 40% of global mine supply – powerful position in the global cobalt supply
+Glencore (22%), DRC state miner Gécamines chain. Among the fourteen largest cobalt
+(9%) and China Molybdenum (7%).3 miners in the DRC, eight are Chinese-owned,
+accounting for approximately half of the
+The main country of country’s output.9 Furthermore, after the initial
+sourcing of cobalt, the majority of ore is refined
+origin of cobalt is the
+in China.10 Most of the refining operations for
+cobalt are situated in China, accounting for 60%
+Democratic Republic
+of the refined cobalt supply in 2018 and more
+of Congo (DRC), with than 80% of the production of cobalt chemicals
+in 2017 (see figure 7 in the appendix).11
+a total market share
+Of particular relevance with regards to the
+of 70% of today’s
+situation in the DRC – but systemic for cobalt
+mined cobalt.4 mining as a whole – are allegations of forced
+labor, labor exploitation, child labour12 and health
+and safety issues (hazardous working conditions)
+In terms of mine production in metric tons, the at the sourcing stage of the supply chain,13 in
+DRC is followed by Russia, Australia and the combination with human rights violations as a
+Philippines (see also figure 6 in the appendix).5 result of security concerns – which often occur due
+Cobalt produced today is primarily a by-product to the use of public and private security forces.
+of either nickel or copper production.6 In the DRC
+cobalt is predominantly mined as a by-product
+of industrial copper mining.7 It is worth noting
+1. According to WEF (2019) cobalt’s demand for use in batteries 8. OECD, 2019, p.12
+i l s e v e e x l p s e ( c th te e d d t o o u b in l c in r g e a o s f e o b ve y r a a l f l a g c lo to b r a o l f d 4 e m in a 2 n 0 d 3 i 0 s v p e re rs d u ic s t t e o d d ay’s 9. OECD, 2019, p.5
+in 2030). 10. Petavratzi, Gunn & Kresse, 2019, p.35; OECD, 2019, p.14
+2. Desjardins, 2017 11. WEF, 2019, p.16
+3. Azevedo et al., 2018, p.12 12. All people under the age of 18 are considered children under
+4. Azevedo et al., 2018, p.13; WEF 2019, p.16 a d p es p l K ic in a d b e le s , i n R t e e s r o n l a u t t i i o o n n a d l e la r w G e (Ü ne b r e a r l e v i e n r k s o a m m m m e lu n n ü g b 4 e 4 r / d 2 ie 5 , R 2 e 0 c . hte
+5. U.S. Geological Survey, 2020, p.51 November 1989, Artikel 1).
+6. Keller & Anderson, 2018, p.2 13. Callaway, 2018; AI, 2016; RCS Global, 2016; SOMO, 2016, p.2
+7. BGR, 2019, p.2
+6
+
+Tracing Cobalt in Fragmented Supply Chains
+Figure 1
+Global cobalt reserves
+and mine production a) Cobalt mine 140000 Other countries
+(Sovacoll, 2019, p.917) production from South Africa
+2 (i 0 n 1 t 0 o t n o s ) 2018 120000 Russia
+Philippines
+100000
+Papua New Guinea
+80000
+Morocco
+60000 Madagascar
+Cuba
+40000
+DR Congo
+20000 China
+Canada
+0
+2010 2011 2012 2013 2014 2015 2016 2017 2018 Australia
+United States
+DR Congo
+b) Estimated
+cobalt reserves Australia
+in 2019
+Other countries
+Cuba
+Philippines
+Canada
+Russia
+Madagascar
+China
+Papua New Guinea
+United States
+As a first step, this report assesses typical human frameworks and soft law foundations. The report
+rights risks in the cobalt industry, in particular identifies and maps the key actors within the DRC
+the DRC, and maps the cobalt value chain and cobalt value chain. In the third step, traceability
+current state of research on the associated human challenges and potential management solutions
+rights risks in this value chain. In the second step, are depicted based on desk research into
+the report describes the relevance of a business policy guidance and academic publications,
+and human rights approach to address systemic and expert interviews with key informants.
+human rights issues, along with relevant legal
+7
+
+Report on Cobalt Traceability
+The role of cobalt and
+artisanal miners in the DRC
+Informal work settings and the dominance of ASM lecturer and expert on modern slavery at Harvard
+aggravate overall human rights concerns.14 ASM University who is working on a book about cobalt
+activities are characterized by their low degree mining, concludes that as “demand for cobalt
+of mechanization. Artisanal mines offer a variety skyrockets, conditions are mostly getting worse”.21
+of work to individuals and teams collaborating
+hand-in-hand in a manual system to find, recover, As described, the DRC is by far the leading country
+wash, sort and transport the industrial mineral producing cobalt. According to McKinsey’s base
+to warehouses, which buy and aggregate cobalt case, the DRC will represent around 75% of the
+and copper ore before selling it to crude refineries global cobalt supply in 2025.22 Alternative sourcing
+operating in the province.15 In the DRC, artisanal countries such as Australia and Morocco will not
+miners are allowed to mine safely and legally in be able to meet the global demand.23 In the DRC,
+areas called ZEAs (zones d’exploitation artisanal). David Sturmes, the senior director of programs
+However, the authorities have created very few and operations at the Impact Facility, has said
+ZEAs and they are often not very productive – it’s nearly impossible for a company with a need
+i.e. as these are often areas that are deemed for cobalt to shake artisanal mining from its
+not feasible for LSM, they have limited mineral supply chain.24 Consequently, companies need
+deposits.16 Consequently, Armistead (cit. in Tibbals, to acknowledge that buying cobalt from the
+2019), an Amnesty International (AI) business DRC, even if it is directly from industrial mining
+and human rights researcher, explained that sites, means buying from artisanal mines.25
+“artisanal miners are forced to look for places,
+to dig and exploit minerals in areas that aren’t
+authorized, or by going on to large-scale mines”.
+The OECD (2019, p.11) estimates that 20-30% of
+all cobalt production in the country comes from
+ASM.17 This equates to about 140,000-200,000
+artisanal cobalt miners working in copper and
+cobalt in the DRC, and UNICEF estimates that
+up to 40,000 children18 could be subject to child
+labor in the sector.19 Social and environmental
+risks involving child labor and potentially forms
+of forced labor in the cobalt supply chain, unsafe
+working conditions, local air, water and soil
+pollution, biodiversity loss and corruption are
+frequently reported in connection with the DRC’s
+cobalt mining.20 Siddharth Kara, a public policy
+14. RCS Global, 2016 19. Desjardins, 2017
+15. Carter & Sturmes, 2020 20. WEF, 2019, p.19
+16. Tibballs, 2019 21. McDonnell, 2020
+17. Factors such as informality in ASM as well as mobility of 22. Azevedo et al., 2018, p.13
+A (O S E M C w D, o 2 rk 0 e 1 r 9 s , p m .1 a 1) k . e it difficult to determine a precise number 23. Baumann-Pauly, 2020
+18. As with any illegal or informal activity, the extent 24. McDonnell, 2020
+of child labor is difficult to measure quantitatively 25. Baumann-Pauly, 2020; OECD, 2019
+(Carter & Sturmes, 2020, p.52).
+8
+
+Tracing Cobalt in Fragmented Supply Chains
+Child labor risks in the DRC mining industry
+The following activities are carried out by children A report based on an extensive household
+and are occurring in the mining industry of the survey (of 2,635 households in 150 cobalt mining
+DRC: “Mining, including carrying heavy loads, communities) found that over 60% of households
+digging, sifting, sorting, transporting, using are involved in mining work in the Kolwezi region of
+explosives, washing and working underground in the DRC.29 It estimated that 11% of children aged
+the production of diamonds, copper, cobalt ore 3-17 in these communities work, and of these,
+(heterogenite), gold, tin ore (cassiterite), tantalum 23% work inside the mines and in processing
+ore (coltan) and tungsten ore (wolframite).”26 minerals.30 Another noteworthy finding from the
+Engaging in hazardous work such as mining, CEGA study is its estimation that around 75% of
+carrying heavy loads and working underground children who work outside their households are
+violates the rights of children to protection from employed in non-mining activities, in particular
+harmful work. Beside the routine hardships of agriculture and domestic settings.31 Hence, any
+daily work, ASM can also expose children in effort to address child labor and children’s rights
+other dangerous and damaging ways such as to in the Kolwezi mining region and in the DRC more
+physical abuse, drug abuse, sexual exploitation generally should look beyond mining and include
+and violence along with negative impacts on child the broader economy and its root causes such
+health and development caused by pollution.27,28 as household poverty.32 In addition, a lawsuit
+filed in the US in December 2019 against five
+top tech companies alleged that the existing
+cobalt supply chain “benefits from child labor
+for higher profits”. It also underlines that child
+labor extends beyond ASM sites and takes
+place in privately owned LSM concessions.
+26. U.S. Department of Labor, 2018 30. CEGA, 2017
+27. Banza et al., 2018 31. Carter & Sturmes, 2020, p.54
+28. AI, 2016, p.30 32. Carter & Sturmes, 2020, p.54
+29. CEGA, 2017
+9
+
+Report on Cobalt Traceability
+Child labor in international law and the DRC
+The international legal framework for child labor on Minimum Age and defines “work which, by its
+is formed in particular by two ILO standards: the nature or the circumstances in which it is carried
+Minimum Age Convention (No. 138) and the Worst out, is likely to harm the health, safety or morals
+Forms of Child Labor Convention (No. 182).33 of children” as the worst forms of child labor. It
+Both are based on the UN Convention on the is left to the member states to define this last,
+Rights of the Child (UNCRC) adopted by the UN conditional form of harmful child labor more
+General Assembly in 1959. The ILO Convention on precisely (Art. 4). Special priority is to be given to
+Minimum Age defines the age limits for permissible combating the worst forms of child labor (Art. 7).
+work as follows: all work that endangers health,
+safety or morals is prohibited before the age The DRC has ratified all key international
+of 18 (Art. 3 para. 1). The minimum age for all conventions concerning child labor, including
+other work corresponds to the age at which a the ILO Convention on the Minimum Age as well
+country’s official compulsory education ends, as the ILO Convention on the Worst Forms of
+but no younger than 15 years (Art. 2 para. 3). Child Labour. The government of the DRC has
+However, in “insufficiently developed countries” also established laws and regulations related
+this limit may be 14 years (Art. 2para 4). “Light to child labor (see table 1 in the appendix). In
+work” that does not hinder school attendance short, the minimum age for work in the DRC is 16
+can also be permitted from the age of 13 and and for hazardous work it is 18, which meets the
+in so-called developing countries from 12 (Art. international standards.35 Nevertheless, gaps
+7).The ILO Convention on the Worst Forms of exist in the DRC’s legal framework to adequately
+Child Labor defines certain types of work which protect children from the worst forms of child
+are generally prohibited for children (Art. 3).34 It labor, including its compulsory education age.36
+emphasizes the definition from the ILO Convention
+The DRC National Mining Code
+In March 2018, the President of the DRC signed cooperatives represent their members’ interests.
+into law a new mining code (Law No. 18-001 of 9 For example, some ASM cooperatives are owned
+March 2018 (the New Mining Code)). It notably by representatives of the political elite and
+elevated the level of taxes for companies mining demand unofficial payments that can amount to
+strategic minerals (including cobalt) and placed up to 20% of members’ production.39 Furthermore,
+several additional demands and restrictions according to a 2015 study from the International
+on companies, compared to the former 2002 Peace Information Service (IPIS, 2016) only a
+code.37 The code outlaws the use of children in minimal fraction of ASM takes place at formal
+mining and selling ore mined with child labor.38 artisanal mining sites. This is not surprising since
+The mining law also compels industrial mining the DRC government has over the course of
+companies to spend part of their revenue (0.3%) time extended industrial mining permits to cover
+on community development projects and allows almost all potentially mineral-bearing land, leaving
+them to subcontract work to artisanal mining almost no room for ASM zones (International Crisis
+cooperatives. Despite the major push towards Group, 2020). Additionally, the new mining code
+privatization and formalization, the International lacks the legislative tools to enhance ASM-LSM
+Crisis Group (2020) stressed in a recent report cooperation.40 Hence, tensions between industrial
+that the reform has been “less than fully and artisanal miners remain pervasive in the DRC.
+successful”. Among other barriers to successful
+reform, it was noted that not all artisanal mining
+33. ILO, n.d. 36. U.S. Department of Labor, 2018
+34. In this context, it refers to all forms of slavery or practices 37. Government of the Democratic Republic of the Congo, 2018;
+similar to slavery (e.g. child trafficking, debt bondage, International Crisis Group, 2020
+s p e o r r f n d o o g m ra , p re h c y r , u a it s m w e e n l t l a o s f c to h i t ld h e s o p l r d a ie c r t s ic , e e t o c f . ) “ , i l p lic ro it s a ti c tu ti t v io it n ie a s” n s d u ch 38. Government of the Democratic Republic of the Congo, 2018
+as drug trafficking. 39. International Crisis Group, 2020
+35. Government of the Democratic Republic of the Congo, 2002b, 40. WEF, 2020, p.19
+2006b, 2009 & 2018.
+10
+
+Tracing Cobalt in Fragmented Supply Chains
+The relevance
+of the Business
+and Human
+Rights approach
+to address
+systemic issues
+in cobalt mining
+The United Nations Guiding Principles on Business and Human
+Rights (UNGPs) is an instrument consisting of 31 principles
+implementing the United Nations’ (UN) “Protect, Respect and
+Remedy” framework on the issue of human rights in relation
+to transnational corporations and other business enterprises.
+The UNGPs provide an authoritative global standard for
+preventing and addressing the risk of adverse human rights
+impacts linked to business activity41 and are based on three
+pillars: the state’s duty to protect human rights, corporate
+responsibility to respect human rights and access to remedy
+for victims of human rights abuses. As part of corporate
+responsibility to respect human rights, every company ought
+to identify, address and mitigate adverse human rights impacts
+in relation to its business activities. The UNGPs provide an
+authoritative roadmap and baseline for many of the laws and
+policies described in the following section. The UNGPs thus set
+the standard that is to be met by companies irrespective of
+whether or not they are subject to the relevant legislation below.
+41. Office of the High Commissioner for Human Rights [OHCHR], 2011
+11
+
+Report on Cobalt Traceability
+Relevant legal frameworks
+on business and human rights
+Several international and national regulatory Conflict Minerals Regulation applies across the
+frameworks address human rights risks EU from 1 January 2021 onwards47 and has been
+incorporate supply chains, including the US Dodd- largely inspired by the US Dodd-Frank Act (2010).
+Frank Act,42 the EU Conflict Minerals Regulation, The regulation targets minerals originating from
+the UK Modern Slavery Act, the Australian Modern conflict-affected or high-risk areas without being
+Slavery Act, the French Duty of Vigilance Law and limited to specific geographical locations. The
+the Dutch Child Labor Due Diligence Law. None EU rules apply to EU-established importers of the
+of these frameworks specifically target cobalt. targeted minerals, while companies from outside
+Nevertheless, there could be synergy effects the EU will also be impacted as they do business
+in duties related to the sourcing of tantalum, with EU companies (e.g. smelters and refiners).
+wolfram/tungsten, tin and gold, even if cobalt The EU Commission undertook to publish “white
+is technically out of scope of the regulation. lists” of companies fulfilling the requirements
+of the regulation. Importers that do not reach
+Section 1502 of the Dodd-Frank Wall Street the volume thresholds set out in the regulation
+Reform and Consumer Protection Act in the US, are exempt from due diligence obligations.48
+mostly referred as the US Dodd-Frank Act, was
+passed in July 2010.43 In particular, Section 1502 The French Duty of Vigilance Law49 (2017)
+requires US stock exchange-listed companies applies to companies incorporated in France
+that manufacture, or contract to manufacture, with more than 5,000 employees in France or
+products containing conflict minerals in their 10,000 worldwide including in the company’s
+supply chain to disclose annually whether any subsidiaries, and has three key features. First,
+of these minerals originated in the Democratic the law requires companies to take measures
+Republic of Congo (DRC) or an adjacent country to identify human rights risks within their supply
+(“Covered Countries”). If so, the Act requires chains, to prevent violations in adequate ways
+reporting that includes a description of measures and to ensure effective implementation. These
+taken to carry out due diligence. It covers four qualifications mean that companies cannot simply
+minerals (tin, tantalum, tungsten and gold) and pay lip service to the measures listed under the
+is limited to the sourced minerals’ geographic law or interpret the legal requirements as a formal
+area in Covered Countries. The Dodd-Frank Act “tick box exercise”. Second, companies must
+does not include cobalt;44 nevertheless, investors’ publish these measures in a so-called “vigilance
+interests might motivate companies to report plan” to provide transparency. French NGO Sherpa
+on cobalt sourcing and associated risks.45 has released detailed Vigilance Plan Reference
+Guidance to give all stakeholders guidance for
+In contrast to the Dodd-Frank Act, the EU has understanding the legal requirements. Third,
+introduced import restrictions that apply globally judicial mechanisms are included in the law
+and to all areas affected by conflicts. The EU which allow for providing remedies to victims. Any
+Conflict Minerals Regulation lists solely tantalum, interested party may appeal to a judge to issue an
+wolfram/tungsten, tin and gold: it requires EU order for a company to comply with the law. A third
+importers of “3TG” to comply with, and report party may request compensation under common
+on, supply chain due diligence obligations if civil liability law, if a company’s failure to comply
+the minerals originate (even potentially) from with the law has caused damage to a third party.
+conflict-affected and high-risk areas.46 The EU
+42. US Congress, 2010 46. European Commission [EC], 2019
+43. Paletta, 2010 47. European Commission [EC], 2019
+44. Responsible Minerals Initiative [RMI], n.d.g; Davis, 2011 48. Deloitte 2018
+45. Deberdt, Jurewicz & Frechette, 2019 49. PricewaterhouseCoopers [PwC], 2019
+12
+
+Tracing Cobalt in Fragmented Supply Chains
+The UK Modern Slavery Act50 (MSA) (2015) aims The Australian Modern Slavery Act52 (2018)
+at preventing, identifying and mitigating modern commenced operation on 1 January 2019,
+slavery, including slavery, servitude and forced or creating reporting obligations for entities that
+compulsory labor as well as human trafficking. have a consolidated revenue of at least Australian
+In broad terms, the MSA requires commercial $100 million for the relevant reporting period (a
+organizations to prepare and publish an annual financial year), and which are Australian entities
+modern slavery statement if they operate a or undertake business in Australia in that financial
+business or any part of a business in the UK, year. Modern slavery statements required by the
+have an annual turnover of £36m or more, and federal act must identify the reporting entity
+supply goods or services. The statement should and address the following mandatory criteria:
+describe the measures the company has taken the reporting entity’s structure, operations
+to ensure that there is no modern slavery in its and supply chains, modern slavery risks in
+supply chains or its own business. This should the reporting entity’s operations and supply
+ideally consist of a review and a risk assessment chains (including those of subsidiary entities);
+of the potential for slavery or human trafficking actions taken (including by subsidiary entities)
+in the company and its supply chains, including to assess and address those modern slavery
+the insertion of anti-slavery clauses in contracts risks, including due diligence and remediation
+with suppliers and undertaking training of both processes; how the reporting entity assesses
+business personnel and contractors in their supply the effectiveness of actions taken; and the
+chains. It should also include putting in place process of consultation with subsidiary entities
+anti-slavery policies and procedures; however it in preparing the modern slavery statement.53
+is also theoretically possible for companies to
+report that they have not taken any particular Without specifically naming cobalt, all human
+measures in combating modern slavery. rights harms associated with the sourcing
+of cobalt can be viewed within the scope of
+The Dutch Child Labor Due Diligence Law51 requires broader laws, like the French Duty of Vigilance
+companies based in the Netherlands or companies Law or the UK Modern Slavery Act. Pressure
+selling goods on Dutch markets to determine on the cobalt industry specifically, however,
+whether child labor occurs in their supply chains. is growing, as evidenced by the launch of a
+If so, companies must set out a plan of action landmark legal case in the US against Apple,
+on how to combat it and issue a due diligence Microsoft, Dell, Alphabet (Google) and Tesla.54
+statement on their investigation and plan of action. The US class action civil lawsuit alleges the
+“extreme abuse” of children in the DRC and
+claims that the action taken by the companies
+is not sufficient and/or has not translated into
+improvements on the ground, although more
+companies are becoming aware of the problems.
+50. Turner, 2019 seriously injured while working in cobalt mines. According
+51. Business & Human Rights Resource Centre [BHRRC], 2019 t a o n d th H e u t a e y s o ti u m -o o w ny n e o d f p s l i a te in s t . i T ff h s e t h c i a s s o e c s c t u a r t r e e s d f o u n rt h G e le r n th co a r t e
+52. Australian Government, 2018 Huayou sells the cobalt to Apple, Dell, and Microsoft. The
+53. PricewaterhouseCoopers [PwC], 2019 c w o h b ic a h lt t f h r e o n m s t e h ll e s G ba le t n te c r o y r - e g - r o a w d n e e c d o m ba in lt e s to is A s p o p ld le , t o A l U p m ha ic b o e r t e ,
+54. In December 2019, the US-based International Rights (Google), Samsung SDI, Microsoft and LG Chem (which
+Advocates [IRAdvocates] filed suit on behalf of 14 supplies Dell and Tesla) for use in cobalt-containing
+Congolese plaintiffs who are either guardians of children batteries.
+who were killed while mining cobalt or children who were
+13
+
+Report on Cobalt Traceability
+Relevant soft law foundations
+The OECD Due Diligence Guidance for Responsible supply chains. The OECD guidance is connected
+Supply Chains of Minerals from Conflict-Affected to the UNGPs as it frames the specific human
+and High-Risk Areas (“OECD Guidance”) provides rights due diligence requirements as they apply
+detailed recommendations to help companies to the context of mining in conflict-affected
+respect human rights and avoid contributing to areas. Adherence to the UNGPs and using the
+conflict through their mineral purchasing decisions OECD guidance to structure implementation
+and practices.55 It is part of the legal framework on the ground can be a conducive starting
+in several African countries, notably the DRC, point for companies wishing to respond to the
+Burundi and Rwanda.56 The guidance is also used minimum requirements of responsible business
+in binding regulations in the US and served as the conduct with regards to human rights.
+basis for the EU regulation on responsible mineral
+Cobalt supply
+chain structure
+The cobalt and copper supply chain can be DRC usually take place outside the framework
+divided into the upstream and downstream set forth by the Congolese Mining Code (see
+supply chains (see also figure 1).57 The upstream previous section), but nonetheless possess
+supply chain is presented as two distinct types of varying levels of official recognition and tolerance.
+mining, namely artisanal and small-scale mining
+(ASM) and large-scale professional mining (LSM). Companies can be divided into upstream and
+Still, there is extensive interaction throughout downstream actors as seen in the hourglass
+the upstream supply chain between ASM and diagrams in figures 3 and 4. Upstream companies
+LSM, both commercially and physically.58 include traders and smelters in the country where
+the mineral is found (e.g. buying houses and
+Figure 2 demonstrates that the interaction international traders, who purchase and process
+between the two resource streams is evident cobalt in the DRC). Downstream companies
+and happens at different stages and levels in the include all the companies that buy the cobalt
+supply chain. The OECD Secretariat prepared an or manufacture or sell components or products
+in-depth supply chain overview differentiating that contain cobalt, after it has been processed.
+between LSM, formalized ASM and informal These include the companies that ultimately sell
+ASM supply chains.59 ASM activities can take products to consumers.61 The smelters occupy the
+place in privately owned mining concessions, place in the supply chain at which the number of
+whether tolerated or not by the owner, as well actors is smallest and most condensed, whereas
+as sometimes in residential areas.60 The OECD at the initial sourcing stage and at the end user
+(2019, p.22) highlights that ASM activities in the stage the numbers of actors are highest.
+55. The Guidance, which was adopted in May 2011, is for use by any 57. AI, 2016, p.43; OECD, 2019, p.6
+c a o ff m ec p t a e n d y a p n o d t e h n ig t h ia - l r l i y s k s o a u re rc a i s n . g F m ur i t n h e e r r a , l t s h o e r G m u e id t a a n ls c f e r o is m g c lo o b n a fl l i c in t - 58. 2019, p.6
+scope, and applies to all mineral supply chains (OECD, n.d.b). 59. OECD, 2019, p.18
+56. OECD, 2016, p.3 60. OECD, 2019, p.26
+61. AI, 2016, p.43
+14
+
+Tracing Cobalt in Fragmented Supply Chains
+Figure 1:
+Contract Electronics
+Flow chart of Mine Trader Smelter / Component manufacturer and car
+Refiner producer
+generic supply chain assembly companies
+(AI, 2016, p.42)
+Upstream Downstream
+Figure 2:
+Supply chain of metals
+OEMs
+from mines to final OEM
+products (Young & Dias,
+2012, pw.2)
+Assembly
+Downstream Components
+Chain-of-custody
+R
+e
+c of metal
+Companies Company y
+c Chemicals
+& suppliers reporting lin
+g & materials
+template
+Smelters & refiners
+Traders
+Mines Compliance
+Conflict Free Smelters & refiners
+of facility
+Smelter
+Upstream program
+Traders
+Chain-of-custody
+In-region
+of mineral
+initiative
+Mines
+15
+
+Report on Cobalt Traceability
+Expert insights on the
+cobalt supply chain
+The following insights are based on explorative For example, the Global Battery Alliance’s [GBA]64
+expert interviews conducted between August and vision for 2030 includes the acceptance of ASM
+September 2020, as well as additional document in the value chain under certain conditions (e.g.
+analysis of key policy guidance and expert articles. suppliers’ management systems should be capable
+They represent voices from civil society on the ground, of exercising robust due diligence and contributing to
+company representatives, diplomatic spokespeople the formalization of ASM within their supply chains).65
+and business initiatives. Rather than disagreeing In line with GBA’s vision, Posner and Baumann-Pauly
+or demonstrating diversified views on the nature (2020) recommend that GBA should endorse the
+of the cobalt value chain, the views expressed “formalization of ASM sites among all its members,
+throughout the interviews show agreement on the as an essential component of cobalt mining and
+situation on the ground. Together they amount to a complement to LSM concessions”. According to
+a rich pool of information and experience about Armistead (cit. in Tibballs, 2019) the best solution
+the key challenges and opportunities. In the is for miners and governments to “create more
+following section, the insights are structured based zones where artisanal miners can work that are of
+on the guiding questions used in the interviews a high enough quality for them to make a decent
+for clarity, and answers to each question are living”. Hence, Amnesty International (2019a) has
+drawn from the pool of interview participants. also called on Glencore and other LSM operators
+in the DRC to work with the authorities to create
+It should be mentioned that banning cobalt tainted regulated, authorized, safe and viable artisanal mining
+by human rights abuse is not seen as a solution, since zones. Overall, the analysis demonstrated that a
+it would drive the trade underground. Further, as Al company cannot create systemic change on its own.
+Barazi et al. (2017, p.12) explain, the raw materials Consequently, companies sourcing cobalt from the
+having an artisanal origin are not in itself problematic, DRC should embrace a collective responsibility for
+but a targeted boycott of such production by buyers action. It is advisable to join initiatives and engage
+would lead to increasing opacity and a deterioration in broader alliances to combat problems on the
+of the conditions of local ASM mining. Concerns ground. However, there is no easy solution to all
+were also expressed by a consortium of 14 NGOs the problems linked to ASM and the human rights
+in reaction to the London Metal Exchange (LME) issues associated with it. What NGOs, companies
+plans to ban ASM.62 In order to meet LME’s stated and governments acknowledge is the importance
+commitment to “support the global metals industry in of formalizing ASM to ensure the sourcing of
+its pathway to compliance with responsible sourcing,” minerals is done ethically and in compliance with
+the LME must – according to the joint NGO statement OECD Due Diligence Guidelines on human rights.
+– at least ensure that: “1) companies trading listed
+brands on the Exchange establish and make public
+an OECD standard responsible sourcing policy and
+that 2) companies demonstrate through individual
+public reporting their individual efforts to implement
+this policy, including evidence of risk identification,
+mitigation and remediation, and on an annual basis.”63
+Several multi-stakeholder initiatives and civil society
+organizations recommend increased engagement
+with artisanal miners and formalization of ASM.
+62. Afrewatch et al., 2018 64. Under the Global Battery Alliance [GBA] several NGOs,
+63. Afrewatch et al., 2018 f p o a u r n tn d e a r t s io a n s s w a e n l d l a a s s s p o u c b ia lic ti o a n n s d w in o t r e k r n t a o t g io et n h a e l r o w rg it a h n i i n sa d t u i s o t n r s y for a
+sustainable battery value chain (see also p.16-17; WEF, n.d.b)
+65. WEF, 2019, p.35
+16
+
+Tracing Cobalt in Fragmented Supply Chains
+Major differences between ASM
+and LSM with regards to human rights
+impacts and traceability
+The raw material deposits in the DRC are is still a lot to do in the DRC. To date, only
+enormous, with an expert stating in a very 5 of the 35-40 cobalt mines in the DRC have a
+illustrative way that “you can simply dig in certification and monitoring scheme in place, with
+your living room.” The expert also highlighted actors such as the RMI aiming to scale this up.
+that quantity dependence and competitive
+pricing (price dependence) make the DRC All ASM can be risky for human rights as people
+very attractive compared to other countries, often make use of rudimentary tools. Some cases
+despite its human rights risks. The grade of and situations mentioned were said to be very
+cobalt is generally much better in the DRC dire but others were described as resembling
+compared to other reserves globally. European mines a couple of decades ago. On the
+other hand, LSM can also present risks, such as
+Several experts saw fewer issues with LSM than human rights violations by security personnel,
+ASM, which was seen as more problematic due which can be either private security or military
+to its informal structures. However, excluding groups. These security personnel are often used
+ASM may also result in individuals (creuseurs) to protect the mines and there have been many
+entering the LSM mines. Frequently, ASM material allegations concerning their use of physical force
+is mixed with LSM material, so a clean separation against intruders. LSM, as the name indicates,
+is often not possible. The human rights risks is usually quite large in scale, with proper
+are higher in ASM, due to the lack of regulation. occupational health and safety measures and
+Taking the complex situation in the DRC into various protective measures; however, as noted by
+account, initiatives and companies are keen to one expert, it is by no means perfect. Furthermore,
+source responsibly from these areas. One expert big players in the market like Glencore and Vale
+said that they want to solve the issues on the cannot guarantee perfect conduct either due to
+ground and, hence, do not encourage bans on e.g. mixed sources in trading houses, buying from
+the DRC as a country of origin. They also aim multiple smaller producers, etc. Adding to these
+to collectively drive the market to responsible concerns, there are B2B effects limiting some
+cobalt mining. However, they all agree that there businesses’ willingness to provide information.
+Figure 3: Transport Washers Buyers/traders
+Miners
+Upstream supply workers (laveurs) (négociants)
+chain in detail
+Upstream supply chain
+17
+
+Report on Cobalt Traceability
+Key challenges for
+ensuring traceability
+along the supply chain
+From a downstream western company perspective physical material do not become disconnected:
+An overarching challenge is that there are a the digital footprint needs to match the actual
+plethora of actors in the mid-tier and the upper material. When material is sent to China,
+stream whose business models benefit from several experts perceived this as something
+opacity. In order for companies to be able to similar to a black box with regards to credibility
+dive deeper into their supply chains, there needs and traceability. In general, cobalt products
+to be more motivation for traders to provide are mixed and distributed. For instance, small
+transparency. Currently their business model parts are mass-produced, making it difficult to
+relies on their buyers not having traceability and identify which parts go to which manufacturers.
+traders occupying the crucial position in the supply ASM minerals are transported from the DRC via
+chain. It needs to be taken into account that some Zambia or Tanzania to China, and ASM cannot be
+actors are likely to be opposed to transparency prevented. Rather, the state would have to work
+mechanisms, as these mechanisms can affect towards its formalization, in order to improve
+their profit margins in trading this commodity. traceability. All of this makes tracing physical
+material that goes through various processing
+From a general perspective steps very difficult, as by the nature of the refining
+Data traceability remains an issue throughout process it will be mixed with other materials.
+the various stages of the supply chain. Ensuring Cobalt is a fungible good – i.e. you cannot
+that the mapping of digital data matches the differentiate between “pieces”like diamonds –
+actual physical material can be complex, as can there is no defining feature for each individual
+the process of verifying that the digital trace and piece of ore, so it is very difficult to track.
+Best practices: What should companies
+do to improve traceability?
+The experts interviewed advise that companies and discover areas for improvement step by step,
+begin by working with their major suppliers, to get to the point where everyone in the new
+and use a trickle-down approach by requiring supply scheme needs to include transparency
+information from the main suppliers and their requirements. Most of the respondents agreed that
+subsidiaries. In combination with that approach, companies have different approaches, creating
+a saliency test should be applied from a risk a patchy approach in practice, e.g. Glencore was
+perspective, addressing the biggest risk first. said to have a different approach from that of
+This implies that a company should start with Trafigura. Most companies agreed to some degree
+the company from which it is buying the most that they would support a common public solution.
+cobalt material. Experts agreed that no company
+can claim that they do not have any cobalt from
+the DRC in their products. At the same time,
+experts highlighted the necessity to not expect
+perfection overnight, but instead to start working
+18
+
+Tracing Cobalt in Fragmented Supply Chains
+Working towards solutions
+This section describes a non-exhaustive list of Due diligence
+emerging best practices to tackle human rights
+processes to
+issues in cobalt sourcing. It should be highlighted
+that the previous sections of this research have
+ensure standards
+shown that avoidance of DRC cobalt is almost
+impossible and should not be encouraged for
+a range of reasons, both from a responsibility
+Human rights due diligence processes as required
+perspective and economically (grade of purity
+by the UNGPs involve a four to five-step process
+of the raw material, competitive price).
+to identify, address and mitigate adverse human
+rights impacts from business activities. Due
+Audits
+diligence requires stakeholder engagement on the
+ground with all potentially affected stakeholders
+Companies tend to invest a lot in audits and audit and an on-going process with a feedback loop
+firms rather than in good local initiatives that and avenues for remedy. To a certain extent,
+would tackle the core of the problem, and several of the initiatives and their guidance and
+this was not seen as helpful by civil society tools can assist in finding a company-tailored
+experts on the ground. In particular, business due diligence approach. There is no one-size-
+representatives believed that working together fits-all approach. It entails close collaboration
+drives efficiency and all companies need to be with suppliers, in particular in the first tier.
+committed so that all mines have monitoring
+in place. While audits can be an important first
+step in this process, responsible sourcing of
+cobalt requires additional measures (some
+of which are listed in the following).
+19
+
+Report on Cobalt Traceability
+Figure 5: Overview of RMI’s 9 steps process for the responsible
+sourcing of cobalt (provided by RMI, September, 2020)
+1 2 3 4
+Map mineral Communicate company Support independent Identify and address
+supply chain expectations and third-party audits risks that are found
+requirements
+Use the CMRT (3TG) Support RMAP Use the Risk Readiness
+CRT (cobalt) Use RMI Smelter (3TG, Cobalt) Assessment (22
+database minerals/32 risk areas)
+Use the Company Support DRC Crude
+Information Join Smelter Refiner Program Use the Minerals
+Questionnaire Engagement Team
+Donate to Initial Audit Grievance Platform
+(3TG, cobalt, mica)
+Include in Contractual Fund, Upstream Due
+Requirements Diligence Fund
+5 6 7 8 9
+Publicly report - Support and Support mine level Support industry Engage industry to
+include smelter list build capacity mitigation and local systems to increase develop and share
+of supply chain community projects transparency best practices and
+Use RMI Standard drive collaboration
+Smelter List -3TG RMI eLearning Support RMI Use RMI Blockchain
+and Cobalt Academy (free) Vocational Guidelines Join Cobalt
+Workgroup
+RMI-GRI Public Donate to support Training Program
+Reporting Toolkit upstream technical (DRC/Pact) Join ASM Workgroup
+assistance
+Support Cobalt ASM Join relevant
+Conduct In-Person Mine Monitoring industry initiative
+Visits (Coordinated (Better Mining)
+by RMI)
+Join a RMI-
+hosted DRC
+Delegation Visit
+Working together with other stakeholders to Among other things, the ten steps include
+amplify activities but also to align and potentially mapping the cobalt supply chain, supporting
+save resources can be an important step for independent third-party audits, addressing
+a company to move from being a newcomer risks, reporting, and conducting impact work.
+in the field of responsible cobalt sourcing to However, not all member companies of the RMI
+demonstrating more mature handling of cobalt are performing all the steps. To join the RMI, a
+sourcing in line with responsible practices tested non-disclosure agreement is required as well as a
+previously by peers and improved together over yearly partner rate of $7,500 per year (company
+time. Please see the table 2 from the Annex, annual revenue under $9 billion) or $15,000 per
+“Relevant multi-stakeholder initiatives”, for year (company annual revenue over$9 billion).
+more detail on these. It is notable that many Further, the company should meet some basic
+standards and initiatives exist, and the initiatives due diligence criteria and should be within the
+try to work together to ensure coherence. supply chain. More information on the rates
+and membership benefits can be found here.
+For example, the Responsible Minerals
+Initiative (RMI) recommends ten steps for
+companies for the responsible sourcing
+of cobalt (see figure 5 on next page).
+20
+
+Tracing Cobalt in Fragmented Supply Chains
+Mapping of supply Contributing to the
+chain data formalization of ASM
+In order to improve the situation on the ground, It should be noted that the OECD Due Diligence
+Amnesty International (2019b) recommends Guidance mentions cooperation between
+that companies identify their cobalt sources artisanal and industrial miners merely in an
+and publish their supply chain data, as has appendix. Hence, the International Crisis Group
+been done by several leading companies – (2020, p.23) suggests in its recent report that
+including Apple, BMW, Daimler, Renault and guidelines from organizations such as the OECD,
+the battery manufacturer Samsung SDI – in which set and monitor standards for mining
+response to Amnesty’s research on Congolese companies, should identify cooperation between
+cobalt mines.66However, no country yet artisanal and industrial miners as a best practice
+has laws that would require producers to in addition to the emphasis on due diligence.
+publicly report on their supply chains.67
+LSM operators in the DRC could also actively
+Collaborations as work with the authorities to create authorized,
+controlled, safe and viable ASM zones. Some
+a way forward?
+companies have begun to go in this direction.
+For example, Huayou, together with Signify and
+Fairphone, is working with local authorities to
+Trafigura (n.d.) is trying to improve the situation
+support an artisanal cobalt mining area at Kasulo
+and face up to the challenge of ASM with its pilot
+in Kolwezi under the Fair Cobalt Alliance (FCA),
+project within the Mutoshi concession in Kolwezi,
+which is managed by the Impact Facility. FCA
+DRC. Concession-holders Trafigura, Chemaf, the
+supports the professionalization of ASM site
+cooperative COMIAKOL and the NGO PACT have
+management to ensure an increased uptake
+allowed artisanal miners to operate on part of the
+of responsible mining practices and channel
+Mutoshi mine (the site has LSM with a designated
+financial investment into mine improvements.70
+ASM section).68 The project also has the support
+Selected findings and analysis from a review
+of the DRC authorities.69 Between 1,000 and
+of the state of ASM cobalt mining working
+5,000 miners have participated in the project,
+conditions, children’s rights and economic
+where, among other things, controls and safety
+opportunity in two cobalt mining communities in
+standards were improved and semi-mechanized
+Lualaba Province in the DRC were also published
+small-scale mining activities were arranged.
+in the recent report “Digging for Change:
+Although there is still room for improvement in
+Towards a Responsible Cobalt Supply Chain”.
+the project, according to the initiators it shows
+that ASM can be achieved responsibly. De Silva,
+The need to help formalize artisanal mining
+Strauss and Morisho (2019, p.31), authors of
+activities to make mining practices safe and
+the “Mutoshi Pilot Project” report commissioned
+fair is also highlighted by a recent WEF white
+by Trafigura, make several recommendations,
+paper written by Baumann-Pauly (2020). The
+including factoring price volatility into the
+paper underlines that the formalization of ASM
+project design, considering a full-scale project
+will produce a number of social and economic
+evaluation of the pilot project and establishing
+benefits for local communities such as the
+exit strategies for all relevant stakeholders.
+creation of stable employment, which would help
+reduce extreme poverty and thus reduce the
+need for additional income from child labor, safer
+working conditions and fewer accidents through
+capacity building and skills training for miners.71
+66. AI, 2019b 69. Trafigura, n.d.; De Silva, Strauss & Morisho, 2019
+67. AI, 2019b; Broom, 2019 70. Biesheuvel, 2020”
+68. Trafigura, n.d.; De Silva, Strauss & Morisho, 2019 71. WEF, 2020, p.4
+21
+
+Report on Cobalt Traceability
+However, conflicting interests (especially at is not happening at the moment. Experts also
+the political level) may be opposed to the raised serious concerns about the role of Chinese
+formalization of ASM. There is often a lot of talk companies who can easily fill the gap if Western
+about solutions, but nothing happens because players ask for too much change on the ground.
+it is not in the interest of the parties involved. As
+one interviewee suggested, in principle, the new According to the International Peace Information
+government is working in the right direction, but Service and the Danish Institute for International
+it has been slowed down considerably. Since all Studies (2019, p.44) the reason behind the low
+important ministries are allegedly in the hands of levels of formalization in the DRC’s ASM sector
+the ex-president and are preventing solutions, the lies in the fact that many legal provisions
+interviewed experts were skeptical about change have never been fully implemented and that
+in the next five years. Perhaps if all big companies many supply chain stakeholders are not keen
+used their leverage to put pressure on the local to work in the formal sector for reasons such
+government, this could lead to change, but this as administrative burden or taxation.
+22
+
+Tracing Cobalt in Fragmented Supply Chains
+Conclusion
+The current picture for meaningful traceability of cobalt remains fragmented, yet efforts to
+increase transparency and address systemic human rights issues appear to be continuing to grow.
+Many actors along the value chain have a fundamental interest in contributing to solutions, as
+not only the demand for cobalt is increasing, but also the pressure from NGOs and legislators.
+The insights from expert interviews, policy guidance and academic experts show that despite
+the major differences between ASM and LSM with regards to human rights impacts and
+traceability, companies can improve traceability through a combination of selected approaches
+for grasping the situation on the ground. The report also shows that companies that rely
+on Congolese cobalt can connect to existing avenues that are working towards solutions.
+Several experts mentioned the synergy effects through working together as seen within the
+automotive industry, for example, by participating in solutions and business initiatives.
+Local initiatives are incredibly important to ensuring success, however, they should not be seen
+as a panacea or band aid that will solve the range of issues stemming from fragmented, regulation,
+a lack of enforcement of that very regulation and appropriate governmental legislation.
+There is a proliferation of initiatives and it is certainly important to engage and eventually join
+one of these initiatives after a mindful and targeted decision of who are the important, relevant
+ones for the respective company position.
+23
+
+Report on Cobalt Traceability
+References
+Afrewatch, Amnesty International, CooperAcción, Enough Project, German Watch, Global
+Witness, Resource Matters (2018, December 8). The LME Responsible Sourcing position paper:
+A Joint NGO statement [Position statement]. Retrieved from
+https://www.amnesty.org/download/Documents/EUR4595222018ENGLISH.PDF
+Al Barazi, S., Näher, U., Vetter, S., Schütte, P. , Liedtke, M., Baier, M. & Franken, G. (2017). Kobalt aus der DR
+Kongo – Potenziale, Risiken und Bedeutung für den Kobaltmarkt. Commodity Top News, Bd. 53, pp.1–16.
+Retrieved from https://www.deutsche-rohstoffagentur.de/DE/Gemeinsames/Produkte/Downloads/
+Commodity_Top_News/Rohstoffwirtscha ft/53_kobalt-aus-der-dr-kongo.pdf?blob=publicationFile&v=2
+Alliance for Responsible Mining [ARM]. (n.d.). About the Alliance for Responsible Mining.
+Retrieved July 27, 2020 from https://www.responsiblemines.org/en/who-we-are/history-2
+Amnesty International [AI]. (2019a, July 25). Public Statement – DRC: Crisis in mines requires sustainable
+solutino. Retrieved from https://www.amnesty.org/download/Documents/AFR6207722019ENGLISH.PDF
+Amnesty International [AI]. (2019b, March 21). Electric vehicle companies called on to
+produce ‘ethical battery’ within five years. Retrieved from https://www.amnesty.org.uk/press-
+releases/electric-vehicle-companies-called-produce-ethical-battery-within-five-years
+Amnesty International [AI]. (2016). This is what we die for. Retrieved from
+https://www.amnesty.org/download/Documents/AFR6231832016ENGLISH.PDF
+Australian Government (2018). Modern Slavery Act 2018. Retrieved from
+https://www.legislation.gov.au/Details/C2018A00153
+Azevedo, M., Campagnol, N., Hagenbruch, T., Hoffman, K., Lala, A. & Ramsbottom, O. (2018, June).
+Lithium and cobalt – a tale of two commodities. McKinsey & Company. https://www.mckinsey.com/~/
+media/mckinsey/industries/metals%20and%20mining/our%20insights/l ithium%20and%20cobalt%20
+a%20tale%20of%20two%20commodities/lithium-and-cobalt-a-tale-of-two-commodities.pdf
+Banza Lubaba Nkulu, C., Casas, L., Haufroid, V., De Putter, T., Saenen, N. D., Kayembe-Kitenge,
+T., Musa Obadia, P. , Kyanika Wa Mukoma, D., Lunda Ilunga, J. M., Nawrot, T. S., Luboya Numbi,
+O., Smolders, E., & Nemery, B. (2018). Sustainability of artisanal mining of cobalt in DR Congo.
+Nature sustainability, 1(9), 495–504. https://doi.org/10.1038/s41893-018-0139-4
+Baumann-Pauly, D. (2020, September 16). Cobalt can be sourced responsibly, and it’s time to act. Retrieved
+from https://www.swissinfo.ch/eng/cobalt-can-be-sourced-responsibly--and-it-s-time-to-act/46031364
+Biesheuvel, T. (2020, September 7). Tesla Joins Cobalt Group That Supports Artisanal Congo
+Miners. Retrieved from https://www.bloomberg.com/amp/news/articles/2020-09-07/tesla-
+joins-cobalt-group-that-supports-artisanal-congo-miners?twitter_impression=true&utm_
+source=newsletter&utm_medium=email&utm_campaign=n ewsletter_axiosgenerate&stream=top
+BMW Group.(2018, January 11). BMW Group and Codelco agree on cooperation
+to establish the Responsible Copper Initiative. Retrieved from https://www.press.
+bmwgroup.com/global/article/detail/T0277850EN/bmw-group-and-codelco-
+agree-on-cooperation-to-establish-the-responsible-copper-initiative
+24
+
+Tracing Cobalt in Fragmented Supply Chains
+Broom, D. (2019, March 27). The dirty secret of electric vehicles. Retrieved from
+https://www.weforum.org/agenda/2019/03/the-dirty-secret-of-electric-vehicles
+Bundesanstalt für Geowissenschaften und Rohstoffe [BGR]. (2019, October 8). Mapping
+of the Artisanal Copper-Cobalt Mining Sector in the Province of Haut-Katanga and
+Lualaba in the Democratic Republic of the Congo. Retrieved from https://www.bgr.bund.
+de/EN/Themen/Min_rohstoffe/Downloads/studie_BGR_kupfer_kobalt_kongo_ 2019_
+en.pdf;jsessionid=1F7D24FDB5CC91F85F1D6CA70F409884.2_cid331? blob=publicationFile&v=3
+Business & Human Rights Resource Centre [BHRRC]. (2019). Dutch Senate votes to adopt
+child labor due diligence law. Retrieved from https://www.business-humanrights.org/
+en/latest-news/dutch-senate-votes-to-adopt-child-labour-due-diligence-law/
+Business & Human Rights Resource Centre [BHRRC]. (n.d.). African Resources
+Watch (AFREWATCH). Retrieved July 27, 2020 from
+https://www.business-humanrights.org/en/african-resources-watch-afrewatch
+Callaway, A. (2018, October). Powering down Corruption. Tackling Transparency and Human Rights
+Risks from Congo’s Cobalt Mines to Global Supply Chains. The Enough Project. Retrieved from
+https://enoughproject.org/wp-content/uploads/PoweringDownCorruption_Enough_Oct2018-web.pdf
+Calma, J. (2020, September 22). Tesla to make EV battery cathodes without
+cobalt. Retrieved from https://www.theverge.com/2020/9/22/21451670/
+tesla-cobalt-free-cathodes-mining-battery-nickel-ev-cost
+Carter, A. S. & Sturmes, D. (2020, June). Digging for Change. Retrieved from
+https://impactfacility.com/download/tif-digging-for-change-june-2020
+Center for Effective Global Action [CEGA]. (2017). Artisanal Mining, Livelihoods,
+and Child Labor in the Cobalt Supply Chain of the Democratic Republic of
+Congo. Retrieved from https://escholarship.org/uc/item/17m9g4wm
+Cobalt Institute [CI]. (2019, January 9). The Cobalt Industry Responsible
+Assessment Framework (CIRAF). Retrieved from https://www.cobaltinstitute.org/
+the-cobalt-industry-responsible-assessment-framework-(ciraf).html
+Cobalt Institute [CI]. (n.d.a). About Us. Retrieved October 14, 2020
+from https://www.cobaltinstitute.org/about.html
+Cobalt Institute [CI]. (n.d.b). Responsible Sourcing. Retrieved October 14, 2020
+from https://www.cobaltinstitute.org/responsible-sourcing.html
+Cobalt Institute [CI]. (n.d.c). Members. Retrieved October 14, 2020 from
+https://www.cobaltinstitute.org/members-directory.html
+Cobalt Institute [CI]. (n.d.d). Conference. Retrieved October 14, 2020
+from https://www.cobaltinstitute.org/conference.html
+Cossart, S. & Chatelain, L. (2019, June 27). What lessons does France’s Duty of Vigilance law
+have for other national initiatives? Retrieved from https://www.business-humanrights.org/en/
+blog/what-lessons-does-frances-duty-of-vigilance-law-have-for-other-national-initiatives
+Davis, J. (2011, April 26). Cobalt is not a conflict mineral. Retrieved from
+https://www.metalbulletin.com/Article/2813364/Cobalt-is-not-a-conflict-mineral.html
+25
+
+Report on Cobalt Traceability
+Deberdt, R., Jurewicz, P. & Frechette, S. (2019). Mining the Disclosures 2019.
+Retrieved from https://www.sourcingnetwork.org/mining-the-disclosures
+Deloitte (2018). New EU Conflict minerals regulation – Implications and lessons learnt from the Dodd-
+Frank Act in the US. Retrieved from https://www2.deloitte.com/be/en/pages/tax/articles/New-EU-
+Conflict-minerals-regulation-implications-and-lessons-learnt-from-the-Dodd-Frank-Act-in-the-US.html
+De Silva, S.J., Strauss, T. & Morisho, N. (2019). The Mutoshi Pilot Project. Retrieved
+from https://www.trafigura.com/brochure/the-mutoshi-pilot-project
+Desjardins, J. (2017, January 9). Cobalt: A Precarious Supply Chain. Retrieved
+from https://www.visualcapitalist.com/cobalt-precarious-supply-chain
+ESCR-Net. (n.d.). Observatoire de la Société Civile Congolaise pour les Minerais de
+Paix (OSCMP). Retrieved July 28, 2020 from https://www.escr-net.org/member/
+observatoire-societe-civile-congolaise-pour-minerais-paix-oscmp
+European Commission [EC]. (2019, March 7). In Focus: Combating Conflict Minerals.
+https://ec.europa.eu/trade/policy/in-focus/conflict-minerals-regulation/index_en.htm
+European Partnership for Responsible Minerals [EPRM]. (n.d.a). About EPRM. Retrieved August 10,
+2020 from https://europeanpartnership-responsibleminerals.eu/cms/view/53241510/about-eprm
+European Partnership for Responsible Minerals [EPRM]. (n.d.b). The EPRM Due
+Diligence Hub. Retrieved August 10, 2020 from https://europeanpartnership-
+responsibleminerals.eu/cms/view/53241995/due-diligence-hub
+Extractive Industries Transparency Initiative [EITI]. (2020a, August). Fact Sheet.
+Retrieved from https://eiti.org/files/documents/eiti_factsheet_en_08.2020.pdf
+Extractive Industries Transparency Initiative [EITI]. (2020b). EITI Democratic Republic
+of Congo. Retrieved from https://eiti.org/democratic-republic-of-congo
+Extractive Industries Transparency Initiative [EITI]. (n.d.) Supporters.
+Retrieved October 14, 2020 from https://eiti.org/supporters
+Fair Cobalt Alliance [FCA]. (n.d.) Fair Cobalt Alliance (FCA) – Growing the supply of
+responsibly-mined cobalt from artisanal mines in the DR Congo. Retrieved August 28,
+2020 from https://impactfacility.com/commodities/cobalt/fair-cobalt-alliance
+Fawthrop, A. (2020, June 26). DRC’s state-backed artisanal cobalt venture to go ahead after Covid-19
+delays. Retrieved from https://www.nsenergybusiness.com/news/company-news/congo-artisanal-cobalt
+Frankel, T. C. (2016, September 30). The cobalt pipeline: Tracing the path from deadly
+hand-dug mines in Congo to consumers’ phones and laptops. The Washington
+Post. Retrieved from https://www.washingtonpost.com/graphics/business/
+batteries/congo-cobalt-mining-for-lithium-ion-battery/?noredirect=on
+Glencore. (2019, December 17). Glencore statement on child labor allegations. Retrieved from
+https://www.glencore.com/media-and-insights/news/Glencore-statement-on-child-labour-allegations
+Good Shepherd International Foundation (n.d.a). Good Shepherd Kolwezi program.
+Retrieved October 14, 2020 from https://www.fondazionebuonpastore.org/congo
+26
+
+Tracing Cobalt in Fragmented Supply Chains
+Good Shepherd International Foundation (n.d.b). Our Mission. Retrieved
+October 14, 2020 from https://www.gsif.it/our-mission
+Government of the Democratic Republic of the Congo. (1968). Arrêté Ministériel relatif aux
+conditions de travail des femmes et enfants, N° 68/13. Enacted: May 17, 1968. Retrieved
+from http://www.leganet.cd/Legislation/DroitSocial/AM.68.13.17.05.1968.htm
+Government of the Democratic Republic of the Congo. (1986). Loi Cadre de l’Enseignement
+National, N° 86/0005. Enacted: September 22, 1986. Retrieved from http://www.ilo.
+org/dyn/natlex/docs/ELECTRONIC/9498/111653/F1265273741/COD-9498.pdf
+Government of the Democratic Republic of the Congo. (2002a). Law Relating
+to the Mining Code, N° 007/2002. Enacted: July 11, 2002. Retrieved from
+http://www.resourcegovernance.org/sites/default/files/Mining Code.pdf
+Government of the Democratic Republic of the Congo. (2002b). Code du Travail,
+N° 015/2002. Enacted: October 16, 2002. Retrieved from
+http://www.ilo.org/dyn/natlex/docs/SERIAL/62645/52447/F1638018233/COD-62645.pdf
+Government of the Democratic Republic of the Congo. (2004). Loi Portant Organisation Generale
+de la Defense et des Forces Armees, N° 04/023. Enacted: November 12, 2004. Retrieved from
+http://desc-wondo.org/wp-content/uploads/2013/08/Loi-Organique-sur-les-FARDC.pdf
+Government of the Democratic Republic of the Congo. (2006a). Constitution de
+la Republique Democratique du Congo. Enacted: February 18, 2006. Retrieved
+from https://www.wipo.int/edocs/lexdocs/laws/fr/cd/cd001fr.pdf
+Government of the Democratic Republic of the Congo. (2006b).
+Code Penal Congolais, N° 06/018. Enacted: July 20, 2006. Retrieved from
+http://www.leganet.cd/Legislation/DroitPenal/Loi.06.018.20.07.3006.htm
+Government of the Democratic Republic of the Congo. (2008). Arrêté Ministériel Fixant les Conditions de
+Travail des Enfants, N° 12/CAB.MIN/ TPSI/045/08. Enacted:August 8, 2008. Retrieved from
+https://www.ilo.org/dyn/natlex/docs/SERIAL/84825/94645/F797153391/travail%20des%20enfants.pdf
+Government of the Democratic Republic of the Congo. (2009). Portant Protection de L’Enfant, N° 09/001
+Enacted: January 2009. Retrieved from http://www.leganet.cd/Legislation/JO/2009/L.09.001.10.01.09.htm
+Government of the Democratic Republic of the Congo. (2012). Arrêté Ministériel Fixant
+les procedures de qualification et de validation des sites miniers des fiueres aurifere
+et stannifere dans les provinces du Katanga, du Maniema, du Nord Kivu, du Sud Kivu et
+de la Province Orientale. N°0058/CAB.MIN/MINES/01/2012, enacted February 23, 2012.
+Retrieved from http://mines-rdc.cd/fr/documents/Arrete_0058_2012.pdf
+Government of the Democratic Republic of the Congo. (2013). Loi Portant Statut du Militaire
+des Forces Armees de la Republique Democratique du Congo, N° 00120/01/2013 Enacted:
+January 23, 2013. Retrieved from http://desc-wondo.org/wp-content/uploads/2013/08/
+Loi-portant-statut-du-militaire-des-FARDC-promulguée-le-15012013.pdf
+Government of the Democratic Republic of the Congo. (2016). Loi Modifiant et Complétant
+la Loi N° 015-2002 Portant Code du Travail, N° 16/010. Enacted: July 15, 2016. Retrieved from
+https://www.investindrc.cd/fr/centre-d-informations/autres-textes-legaux/loi-n-16-010-
+du-15-juillet-2016-modifiant-et-completant-la-loi-n-015-2002-portant-code-du-travai
+27
+
+Report on Cobalt Traceability
+Government of the Democratic Republic of the Congo. (2018). Loi N°18/001 Modifiant et
+Completant la Loi N°007/2002 du 11 Juillet 2002 Portant Code Minier, Col. 1. Enacted: March
+9, 2018. Retrieved from https://www.mines-rdc.cd/fr/wp-content/uploads/Code%20minier/
+J.O._n%C2%B0_spe%C3%ACcial_du_28_mars_2018_CODE_MINIER%20DE%20LA%20RDC.PDF
+Hellstrom, J. (2019, November 16). Volvo to trace battery cobalt using blockchain. Retrieved from
+https://europe.autonews.com/automakers/volvo-trace-battery-cobalt-using-blockchain
+Heritage Foundation (2020). Index of Economic Freedom – Democratic Republic of the Congo.
+Retrieved from https://www.heritage.org/index/pdf/2020/countries/democraticrepubliccongo.pdf
+International Council on Mining and Minerals [ICMM]. (n.d.). About us. Retrieved
+July 27, 2020 from https://www.icmm.com/en-gb/about-us
+International Crisis Group. (2020, June 30). Mineral Concessions: Avoiding Conflict in DR Congo’s Mining
+Heartland. Retrieved from https://d2071andvip0wj.cloudfront.net/290-drc-mining-heartland%20(1).pdf
+International Labor Organization [ILO]. (n.d.). International Labor Standards on Child
+labor. Retrieved August 27, 2020 from https://www.ilo.org/global/standards/subjects-
+covered-by-international-labour-standards/child-labour/lang--en/index.htm
+International Peace Information Service [IPIS]. (2016). Analysis of the interactive map of artisanal
+mining areas in Eastern DR Congo: 2015 update. Retrieved from https://ipisresearch.be/wp-
+content/uploads/2016/10/Analysis-and-map-artisanal-mining-DR-Congo_v005-1.pdf
+International Peace Information Service [IPIS] & Danish Institute for International Studies [DIIS].
+(2019, April). Mapping artisanal mining areas and mineral supply chains in Eastern DR Congo –
+Impact of armed interference & responsible sourcing. Retrieved from
+https://ipisresearch.be/wp-content/uploads/2020/10/1904-IOM-mapping-eastern-DRC.pdf
+Keller, P. & Anderson, C. (2018, August). The Production of Critical Materials as By
+Products. Aspects Min Miner Sci. 2(2). DOI: 10.31031/AMMS.2018.02.000532. Retrieved
+from https://crimsonpublishers.com/amms/fulltext/AMMS.000532.php
+Kelly, A. (2019, December 16). Apple and Google named in US lawsuit over Congolese child cobalt
+mining deaths. The Guardian. Retrieved from https://www.theguardian.com/global-development/2019/
+dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths
+McDonnell, T. (2020, September 10). Can Tesla help solve one of the
+thorniest ethical problems with electric vehicles? Quartz. Retrieved from
+https://qz.com/1901367/can-tesla-help-solve-electric-vehicles-cobalt-problem
+Mining.com. (2020, January 23). ‘Battery Passport,’ guiding principles on value chain data
+launched at World Economic Forum. Retrieved from https://www.mining.com/battery-
+passport-guiding-principles-on-value-chain-data-launched-at-world-economic-forum
+OECD. (2016). OECD Due Diligence Guidance for Responsible Supply Chains
+of Minerals from Conflict-Affected and High-Risk Areas: Third Edition. OECD
+Publishing: Paris. http://dx.doi.org/10.1787/9789264252479-en
+OECD. (2019). Interconnected supply chains: a comprehensive look at due diligence challenges and
+opportunities sourcing cobalt and copper from the Democratic Republic of the Congo. Retrieved
+from https://mneguidelines.oecd.org/Interconnected-supply-chains-a-comprehensive-look-at-
+due-diligence-challenges-and-opportunities-sourcing-cobalt-and-copper-from-the-DRC.pdf
+28
+
+Tracing Cobalt in Fragmented Supply Chains
+OECD. (n.d.a). A Global Standard – Towards responsible mineral supply chains. Retrieved August 10,
+2020 from http://mneguidelines.oecd.org/Brochure_OECD-Responsible-Mineral-Supply-Chains.pdf
+OECD. (n.d.b). OECD Due Diligence Guidance for Responsible Supply Chains
+of Minerals from Conflict-Affected and High-Risk Areas. Retrieved August 10,
+2020 from http://www.oecd.org/corporate/mne/mining.htm
+Office of the High Commissioner for Human Rights [OHCHR] (2011). Guiding Principles on Business
+and Human Rights. Implementung the United Nations “Protect, Respect and Remedy” Framework.
+Retrieved from https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf
+Paletta, D. (2010, June 25). It has a name: The Dodd/Frank Act. Retrieved from
+https://blogs.wsj.com/washwire/2010/06/25/it-has-a-name-the-doddfrank-act
+Parsons, L. (2017, October 27). Responsible mineral supply chain efforts in China:
+progress and challenges. Retrieved from https://www.globalwitness.org/en/blog/
+responsible-mineral-supply-chain-efforts-china-progress-and-challenges
+Petavratzi, E., Gunn, G. & Kresse, C. (2019). Commodity review: Cobalt. British Geological Survey.
+Retrieved from https://www.bgs.ac.uk/news/docs/CobaltReport_FINAL_WITH_DATE_201119.pdf
+Piennar, A. (2020, Januar 10). The cobalt mining industry is a human rights failure -here’s what needs
+to be done. Retrieved from https://www.weforum.org/agenda/2020/01/how-to-secure-clean-cobalt
+Posner, M. & Baumann-Pauly, D. (2020, January). Discussion Paper. Retrieved from
+https://www.unige.ch/gsem/files/7315/7989/7617/GBA_Discussion_Paper.pdf
+PricewaterhouseCoopers [PwC]. (2019). Modern Slavery Reporting in Australia. Retrieved
+from https://www.pwc.com.au/pdf/modern-slavery-reporting-in-australia_v2.pdf
+Pring, C. & Vrushi, J. (2019). Global Corruption Barometer Africa 2019 – Citizens’ Views and Experiences
+of Corruption. Retrieved from https://images.transparencycdn.org/images/2019_GCB_Africa3.pdf
+Private Security Governance Observatory. (n.d.). JUSTICIA Asbl. Retrieved October
+14, 2020 from http://observatoire-securite-privee.org/en/node/383
+RCS Global. (2020, August 14). Better Mining ASM monitoring program successfully
+scales, announces partnerships. Retrieved from https://www.rcsglobal.com/better-
+mining-asm-monitoring-program-successfully-scales-announces-partnerships
+RCS Global. (2017, December 20). Blockchain for Traceability in Minerals and Metals Supply
+Chains: Opportunities and Challenges. Retrieved from https://www.rcsglobal.com/wp-content/
+uploads/2018/09/ICMM-Blockchain-for-Traceability-in-Minerals-and-Metal-Supply-Chains.pdf
+RCS Global. (2016, October). The Emerging Cobalt Challenge. Retrieved from https://www.
+rcsglobal.com/wp-content/uploads/rcs/pdfs/RCS-Global-The-Emerging-Cobalt-Challenge.pdf
+RCS Global. (n.d.). Better Mining Industry Program. Retrieved
+from https://www.rcsglobal.com/bettermining
+RESOLVE. (2010, April). Tracing a Path Forward: A Study of the Challenges of the
+Supply Chain for Target Metals Used in Electronics. Retrieved from http://www.
+responsiblemineralsinitiative.org/media/docs/CFSI_Report_TracingaPathForward.pdf
+29
+
+Report on Cobalt Traceability
+Responsible Cobalt Initiative [RCI]. (2016, November 14). Responsible Cobalt Initiative
+(RCI) – Facing challenges, sharing responsibility, joining hands and achieving win-win.
+Retrieved from http://www.cccmc.org.cn/docs/2016-11/20161121141502674021.pdf
+Responsible Minerals Initiative [RMI]. (n.d.a). About the Responsible Minerals Initiative. Retrieved
+August 10, 2020 from http://www.responsiblemineralsinitiative.org/about/rmi-initiative
+Responsible Minerals Initiative [RMI]. (n.d.b). Benefits of Membership in the Responsible Minerals
+Initiative. Retrieved August 10, 2020 from http://www.responsiblemineralsinitiative.org/membership
+Responsible Minerals Initiative [RMI]. (n.d.c). Members. Retrieved August 10, 2020 from
+http://www.responsiblemineralsinitiative.org/about/members-and-collaborations
+Responsible Minerals Initiative [RMI]. (n.d.d). Smelters & Refiners Lists. Retrieved August
+10, 2020 from http://www.responsiblemineralsinitiative.org/smelters-refiners-lists
+Responsible Minerals Initiative [RMI]. (n.d.e). Cobalt Reporting Template. Retrieved August 10, 2020
+from http://www.responsiblemineralsinitiative.org/reporting-templates/cobalt-reporting-template
+Responsible Minerals Initiative [RMI]. (n.d.f). Active Cobalt Refiners. Retrieved August
+10, 2020 from http://www.responsiblemineralsinitiative.org/responsible-minerals-
+assurance-process/smelter-refiner-lists/cobalt-refiners-list/active-cobalt-refiners
+Responsible Minerals Initiative [RMI]. (n.d.g). What is the connection between RMI and US Dodd-Frank Act?
+Retrieved from https://www.metalbulletin.com/Article/2813364/Cobalt-is-not-a-conflict-mineral.html
+Russo, A. (2019, October 25). Seven Mining, Metals Companies Partner on Responsible Sourcing
+with World Economic Forum. Retrieved from https://www.weforum.org/press/2019/10/seven-
+mining-metals-companies-partner-on-responsible-sourcing-with-world-economic-forum
+Shirouzu, N. & Lienert,P. (2020, May 14). Exclusive: Tesla’s secret batteries aim to
+rework the math for electric cars and the grid. Retrieved from https://www.reuters.
+com/article/us-autos-tesla-batteries-exclusive/exclusive-teslas-secret-batteries-
+aim-to-rework-the-math-for-electric-cars-and-the-grid-idUSKBN22Q1WC
+Souguel-dit-Picard, D. (2019, December 20). Glencore named in Congo child labor case targeting Big
+Tech. Retrieved from https://www.swissinfo.ch/eng/glencore-congo-cobalt-mining-lawsuit/45446800
+Stichting Onderzoek Multinationale Ondernemingen [SOMO]. (2016, April 18). Community rights
+widely abused by cobalt mining in Democratic Republic of Congo. Retrieved from https://www.
+somo.nl/community-rights-widely-abused-by-cobalt-mining-in-democratic-republic-of-congo
+Stone, M. (2020, September 21). Russian Indigenous communities are begging Tesla not
+to get its nickel from this major polluter. Retrieved from https://grist.org/justice/russian-
+indigenous-communities-are-begging-tesla-not-to-get-its-nickel-from-this-major-polluter
+TCO Certified. (n.d.). Conflict minerals used in IT products fund wars and drive human rights
+abuses. Retrieved July 28, 2020 from https://tcocertified.com/conflict-minerals
+The Impact Facility. (n.d.). Spotlight on Cobalt. Retrieved July 27, 2020
+from https://impactfacility.com/commodities/cobalt
+30
+
+Tracing Cobalt in Fragmented Supply Chains
+Tibballs, S. (2019, August 1). Mining for Riches: The Problem(s) with Artisanal Mining.
+Retrieved from https://investingnews.com/daily/resource-investing/battery-metals-
+investing/cobalt-investing/mining-riches-problems-artisanal-mining
+Transparency International. (2019). Corruption Perceptions Index. Retrieved from
+https://images.transparencycdn.org/images/2019_CPI_Report_EN_200331_141425.pdf
+Transport & Environment [T&E]. (2019, April). Cobalt from Congo: How to Source it Better.
+Retrieved from https://www.transportenvironment.org/sites/te/files/publications/
+Cobalt%20from%20Congo_how%2 0to%20source%20it%20better_Final.pdf
+Trafigura (n.d.). The Mutoshi Pilot Project. Retrieved from
+https://www.trafigura.com/responsibility/responsible-sourcing/mutoshi-report
+Trejo, C. (2019, November 6). Volvo Cars Joins Responsible Sourcing Blockchain Network, Launched
+by IBM, Ford, and Volkswagen Group; Advancing Ethical Sourcing of Minerals Continues to
+Scale With This Network. Retrieved from https://newsroom.ibm.com/2019-11-06-Volvo-Cars-
+Joins-Responsible-Sourcing-Blockchain-Network-Launched-by-IBM-Ford-and-Volkswagen-
+Group-Advancing-Ethical-Sourcing-of-Minerals-Continues-to-Scale-With-This-Network
+Turner, A. (2019). Obligations under the Modern Slavery Act: compliance update.
+Retrieved from https://www.farrer.co.uk/news-and-insights/obligations-
+under-the-modern-slavery-act-compliance-update/#
+Umicore. (2020, March 3). Due diligence Compliance Report Cobalt Procurement. Retrieved
+from https://www.umicore.com/storage/main/compliance-report-2019.pdf
+Umicore. (2019, December 17). Umicore confirms its commitment to ethical and
+sustainable cobalt. Retrieved from https://www.umicore.com/en/newsroom/media/
+news/umicore-confirms-its-commitment-to-ethical-and-sustainable-cobalt
+Umicore. (n.d.). Sustainable Procurement Framework for Cobalt. Retrieved July 26, 2020 from
+https://www.umicore.com/en/cases/sustainable-procurement-framework-for-cobalt
+US Congress (2010), Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. No. 111-
+203, 124 Stat. 1376. Retrieved from https://www.sec.gov/answers/about-lawsshtml.html#df2010
+U.S. Departement of Labor. (2018). Child Labor and Forced Labor Reports – Congo,
+Democratic Republic of the (DRC). Retrieved from https://www.dol.gov/agencies/
+ilab/resources/reports/child-labor/congo-democratic-republic-drc
+U.S. Embassy – Kinshasa. (2018). Reporting. February 20, 2018.
+U.S. Geological Survey. (2020). Mineral commodity summaries 2020:
+U.S. Geological Survey. https://doi.org/10.3133/mcs2020
+van Seters, J. & Ashraf, N. (2019, March). Responsibly sourcing minerals from conflict-
+affected and high-risk areas:lessons from the european partnership for responsible
+minerals. Retrieved from https://ecdpm.org/wp-content/uploads/BN109.pdf
+Walt, V. (2018). Special Report: Blood, Sweat, and Batteries. Fortune, 178(3), 104.
+31
+
+Report on Cobalt Traceability
+Wolfson, R. (2019, January 16). Ford Motor Company Launches Blockchain Pilot On
+IBM Platform To Ensure Ethical Sourcing Of Cobalt. Retrieved from https://webcache.
+googleusercontent.com/search?q=cache:HVSIP0pcAzEJ:https://www.forbes.com/
+sit es/rachelwolfson/2019/01/16/ford-motor-company-launches-blockchain-pilot-on-
+ibm-platform-to-ensure-ethical-sourcing-of-cobalt/+&cd=1&hl=de&ct=clnk&gl=ch
+World Bank Group.(2015, October). Democratic Republic of Congo: Education Sector
+Public Expenditure Review – An Efficiency, Effectiveness, and Equity Analysis. Retrieved from
+http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/10/22
+/090224b08316094e/1_0/Rendered/PDF/Public0expendi00and0equity0analysis.pdf
+World Economic Forum [WEF]. (2020, September). Making Mining Safe and Fair:
+Artisanal cobalt extraction in the Democratic Republic of the Congo. Retrieved from
+https://reliefweb.int/sites/reliefweb.int/files/resources/WEF_Making_Mining_Safe_2020-2.pdf
+World Economic Forum [WEF]. (2019, September). A Vision for a Sustainable Battery
+Value Chain in 2030 Unlocking the Full Potential to Power Sustainable Development
+and Climate Change Mitigation. Retrieved from http://www3.weforum.org/docs/
+WEF_A_Vision_for_a_Sustainable_Battery_Value_Chain_in_2030_Report.pdf
+World Economic Forum [WEF]. (n.d.a). Global Battery Alliance – Our members. Retrieved
+August 10, 2020 from https://www.weforum.org/global-battery-alliance/our-members
+World Economic Forum [WEF]. (n.d.b). Global Battery Alliance – Action. Retrieved July
+22, 2020 from https://www.weforum.org/global-battery-alliance/action
+Young, S. & Dias, G. (2012, September). Conflict-free minerals supply-chain to electronics.
+In Electronics Goes Green 2012+(EGG), 2012 (pp. 1–5). Proceedings. ISBN 978-3-
+8396-0439-7. Retrieved from http://ieeexplore.ieee.org/document/6360416
+32
+
+Tracing Cobalt in Fragmented Supply Chains
+Further Material
+Al Barazi, S. (2018). Rohstoffrisikobewertung – Kobalt. DERA Rohstoffinformationen 36: 120 S.
+Berlin. Retrieved from https://www.deutsche-rohstoffagentur.de/DE/Gemeinsames/Produkte/
+Downloads/DERA_Rohstoffinformationen/rohstoffinf ormationen-36.pdf? blob=publicationFile&v=2
+Ames, G. & Schurath, B. (2018). Cobalt critical3. INKOTA-Netzwerke e.V. & Ökumenisches Netz Zentralafrika.
+Berlin. Retrieved from http://www.webshop.inkota.de/produkt/broschuere-download/cobalt-critical3
+Amnesty International [AI]. (2016, January 16). Exposed: Child labor behind smart
+phone and electric car batteries. Retrieved from https://www.amnesty.org/en/latest/
+news/2016/01/Child-labour-behind-smart-phone-and-electric-car-batteries
+European Commission. (2018, November 11). Report on Raw Materials for Battery Applications. Retrieved
+from https://ec.europa.eu/transport/sites/transport/files/3rd-mobility-pack/swd20180245.pdf
+Hastig, G. M. & Sodhi, M.S. (2019). Blockchain for Supply Chain Traceability:
+Business Requirements and Critical Success Factors. Production and Operations
+Management. 29: 935-954. https://doi.org/10.1111/poms.13147
+Martin, T. (2019, August). NRELC Briefing Note No. 3. Retrieved from
+https://www.resolve.ngo/docs/nrelc_briefing_note_no._3_-_lift.pdf
+Much, L. (2020, January 29). Artisanal and Small-Scale Mining: Addressing Challenges
+in Global Supply Chains. Retrieved from https://www.responsiblemines.org/
+en/2020/01/small-scale-mining-adressing-challenges-in-global-supply-chain2
+Nkumba, E. (2020). How to Reduce Conflicts Between Mining Companies and Artisanal Miners
+in the Province of Lualaba: Overcoming the Policy and Systemic Barriers to a Model that
+Respects Human Rights. Business and Human Rights Journal, 1-7. doi:10.1017/bhj.2020.15
+Principles for Responsible Investment [PRI]. (2018). Drilling down into the cobalt supply chain:
+How investors can promote responsible sourcing practices. Retrieved from https://www.
+unpri.org/download?ac=4502van den Brink, S., Kleijn, R., Sprecher, B. & Tukker, A. (2020).
+Identifying supply risks by mapping the cobalt supply chain. Resources, Conservation and
+Recycling. (156). 104743, ISSN 0921-3449, https://doi.org/10.1016/j.resconrec.2020.104743
+33
+
+Report on Cobalt Traceability
+Upstream Actors
+Large-Scale Professional Mining (LSM) Actors
+Large Scale Miners Large scale mining stands for a large company with many workers, at one or
+multiple sites with considerable infrastructure provisions. Examples includes
+Glencore, China Moly, Huayou Cobalt (one of the world’s biggest cobalt
+producers), Congo DongFang International Mining (CDM, a subsidiary of Huayou
+Cobalt), Shalina, Nanjung Hanrui, Vinmart and ERG
+Smelter / Refiners Smelter = a machine for taking metal out of rock by smelting it (= heating it to
+a very high temperature), or a factory that uses these machines; Refiner = a
+company that makes different products from a basic product List of smelters and
+refiners conformant to Responsible Minerals Assurance Process (RMAP) to be
+found here.72
+Artisanal and Small-Scale Mining (ASM) Actors
+Transport Workers Transport workers use bicycles or small trucks to transport ore from the pit to
+stations and depots where the cobalt is traded, in pairs or groups of three to
+push and handle their bikes, maneuvering the heavily loaded vehicles through
+difficult terrain; usually paid per bag of ore transported73
+Washers (locally known Washing, predominantly executed by women, payment per bag of ore washed;
+as Lavages) step before hand-sorting ore for sale; to clean and identify rocks that contain the
+most ore, assess purity through visual judgment, increase the cobalt grade for
+each bag; price–purity relationship, goal: highest grade per bag through hand
+selection74
+Sorters (locally known If cobalt are prices low, pit owners are incentivized to have ore washed and
+as Trieurs) sorted, or just sorted if no mud or dirt is in the bags. Sorting increases the total
+cobalt grade of the bag, achieving maximum economic return by separating
+and selling low grade and high grade separately. Both cobalt (black) and copper
+(green) identified by trained eye75
+Buyer/Trader (locally Traders at depots buy large amounts of cobalt before selling on to crude
+known as Négociants) refineries; Négociants as a designated role overseen by cooperatives: aggregate
+and sell cobalt ore either to one of the several depots located on site (various
+ASM projects) or to an ‘open market’ outside the ASM site (Musompo or Kapata).
+Traders can be members of pit teams, or independent middlemen offering pit
+owners and diggers immediate cash, often without measuring purity of bags.
+Diggers can choose to sell ore directly to on-site depots, but sampling and selling
+can take a lot of time: higher volumes are needed to sell directly. Depots (often
+Chinese or Lebanese), take sample of bags that are for sale, assessing batch
+purity by XRF machine (Metorex), machines need to be carefully calibrated; but
+no structured system to easily verify accurate calibration; purity and weight
+assessments made by depots can be arbitrary76
+Alliance for Responsible Established in 2004, global expert on ASM. ARM strives to transform the ASM
+Mining (ARM) sector into a socially and environmentally responsible activity, while improving the
+quality of life of artisanal miners, their families and communities.77
+72. see also RMI, n.d.d; RMI, n.d.f 75. The Impact Facility, n.d.
+73. The Impact Facility, n.d. 76. The Impact Facility, n.d.
+74. The Impact Facility, n.d. 77. ARM, n.d
+34
+
+Tracing Cobalt in Fragmented Supply Chains
+Relevant multi-stakeholder initiatives
+Initiative Description
+Cobalt Institute (CI), for- CI is a non-profit trade association composed of producers, users, recyclers, and
+merly known as the traders of cobalt. It promotes the sustainable and responsible production as well
+Cobalt Development as use of cobalt in all its forms. 78 CI is a member of the International Council for
+Institute (CDI) Mining and Metals (ICMM).
+Extractive Industries EITI (2020a) was launched in 2002 and is the global standard to promote
+Transparency Initiative the open and accountable management of oil, gas and mineral resources. It
+(EITI) is a multi-stakeholder coalition of governments, companies, investors, civil
+society organizations and partner organizations.79 The EITI Standard (2020) is
+implemented at the national level, where local multi- stakeholder groups oversee
+the implementation.
+European Partnership for European-based multi-stakeholder initiative created in 2016 accompanying
+Responsible Minerals measure to support the EU Conflict Minerals Regulation, which will enter into
+(EPRM) force in 2021.80 The EPRM’s objective is to create better social and economic
+conditions for mine workers and local mining communities by increasing the
+number of mines that adopt responsible mining practices in conflict and high-
+risk areas. It is worth noting that EPRM focuses on tin, tantalum, tungsten and
+gold (3TG). Today, the EPRM brings together some 25 companies and civil society
+organizations.81
+Fair Cobalt Alliance (FCA) FCA’s ambition is to further scale its membership across the supply chain in
+order to increase its potential for positive impact. Their mission is to reform the
+conditions for cobalt mining communities by driving improvements at ASM mine-
+sites, eradicate child labor and protect children’s rights, and build diversified,
+resilient local mining communities.82
+Global Battery Alliance The GBA is a public-private collaboration platform of 70 public and private sector
+(GBA) organizations founded in 2017 that has become the global platform to help
+establish and collaborate on a sustainable battery value chain.
+Mining and Metals In 2019, seven global mining industry leaders have agreed to co-operate on a
+Blockchain Initiative / blockchain-based initiative led by the World Economic Forum (WEF), in an effort to
+Consortium accelerate responsible sourcing and sustainability practices.83 So far, no roadmap
+has been released for the initiative.
+Responsible Cobalt The RCI was formed in 2016 under the Chinese Chamber of Commerce of Metals,
+Initiative (RCI) Minerals and Chemicals Importers & Exporters (CCCMC) with support from the
+OECD. CCCMC developed guidelines for due diligence, based on the recognized
+standard of the OECD.84 The RCI includes around 30 members.
+Responsible Copper In 2018, the BMW Group and the Chilean copper mining company Codelco have
+Initiative signed an agreement to cooperate on a sustainable and transparent supply of
+copper. The aim of the Responsible Copper Initiative is to achieve a commitment
+to ecological and social responsibility in the copper industry.
+Responsible The RMI was founded in 2008 by members of the Responsible Business Alliance
+Minerals Initiative (RBA) and the Global e-Sustainability Initiative. With more than 380 member
+companies from 10 different industries, the RMI is one of the most used resources
+(RMI) 85 for companies from a range of industries addressing responsible mineral sourcing
+issues in their supply chains.
+Electronic Industry The Responsible Business Alliance (RBA) is the world’s largest industry coalition of
+Citizenship Coalition companies that are dedicated to corporate social responsibility in global supply
+(EICC), now: Responsible chains; a nonprofit comprised of electronics, retail, auto and toy companies
+Business Alliance (RBA) committed to supporting the rights and well-being of workers and communities
+worldwide affected by the global supply chain.86
+78. Cobalt Institute, n.d.a 83. Russo, 2019
+79. EITI, n.d 84. RCI, 2016
+80. van Seters & Ashraf, 2019, p.2 85. Formerly the Conflict-Free Sourcing Initiative (CFSI)
+81. EPRM, n.d.a.; TCO Certified, n.d.; van Seters & Ashraf, 2019, p.2 86. http://www.responsiblebusiness.org/about/rba/
+82. FCA, n.d.
+35
+
+Sustainability
+at dormakaba
+Visit us at:
+dormakabagroup.com/en/sustainability
+Contact us:
+sustainability@dormakaba.com
+dormakaba
+dormakaba International Holding AG
+Hofwisenstrasse 24
+8153 Rümlang
+Switzerland
+T: +044 818 90 11
+dormakabagroup.com/en

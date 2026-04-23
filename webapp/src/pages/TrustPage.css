@@ -185,3 +185,18 @@
   color: #1e2d47;
   font-family: 'JetBrains Mono', monospace;
 }
+
+/* ── mobile ──────────────────────────────────────────────────────────── */
+@media (max-width: 640px) {
+  .trust-inner { padding: 2rem 1rem 3rem; }
+  .trust-grid2 { grid-template-columns: 1fr; }
+  .trust-score-card { flex-direction: column; gap: 1rem; padding: 1.25rem; }
+  .trust-meta-row { gap: 1rem; }
+}
+
+@media (max-width: 480px) {
+  .trust-search { flex-direction: column; }
+  .trust-btn { width: 100%; }
+  .trust-product-name { font-size: 1.1rem; }
+  .trust-hero-sub { font-size: 0.82rem; }
+}

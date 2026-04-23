@@ -1,0 +1,1021 @@
+The EU Conflict Minerals Regulation
+High Stakes, Disappointing Results
+Paper on the effectiveness of European Union Regulation 2017/821
+International Peace
+Information Service
+1
+
+EDITORIAL
+The EU Conflict Minerals Regulation: High Stakes, Disappointing Results
+Antwerp / Goma / Utrecht, October 2023
+Front cover image: Furnace in a gold smelter. © Adobestock
+Authors: Lotte Hoex, Jean-Sébastien Sépulchre, Marianne Moor
+Suggested citation: IPIS, PAX, The EU Conflict Minerals Regulation: High Stakes, Disappointing Results.
+Antwerp / Goma / Utrecht, October 2023.
+For more information, please contact: lotte.hoex@ipisresearch.be
+D/2023/4320/16
+International Peace Information Service (IPIS) is an independent research institute providing tailored
+information, analysis, capacity enhancement and policy advice to support those actors who want to
+realize a vision of durable peace, sustainable development and the fulfilment of human rights.
+PAX means peace. Together with people in conflict areas and concerned citizens worldwide, PAX works
+to build just and peaceful societies across the globe. PAX brings together people who have the courage to
+stand for peace. Everyone who believes in peace can contribute. We believe that all these steps, whether
+sma ll or large, truly matter and will contribute to a just and peaceful world.
+DISCLAIMER
+This document has been produced with the financial assistance of the European Union and the Dutch Ministry
+of Foreign Affairs. The contents of the document are the sole responsibility of IPIS and PAX and can under no
+circumstances be regarded as reflecting the position of the European Union nor the Dutch Ministry of Foreign
+Affairs.
+2 3
+
+1. TABLE OF CONTENTS
+EDITORIAL ...........................................................................................................................................2
+ABBREVIATIONS ..................................................................................................................................4
+EXECUTIVE SUMMARY ........................................................................................................................5
+INTRODUCTION ...................................................................................................................................7
+1. THE INEXTRICABLE LINK BETWEEN DUE DILIGENCE AND TRANSPARENCY ...........................9
+The bottleneck of refiners and smelters .....................................................................................................................9
+Management system obligations under the Regulation ....................................................................................10
+Illustrations of gold trading hubs ...............................................................................................................................11
+The role of due diligence schemes in the Regulation ..........................................................................................13
+Disclosure obligations for importers and sub-standard reporting issues .....................................................16
+Transparency at the member state level ...................................................................................................................16
+Transparency on EU import data .................................................................................................................................17
+2. CAN THE EU REGULATION AVOID DISENGAGEMENT? .............................................................18
+CAHRA list ...........................................................................................................................................................................20
+Inclusive focus ...................................................................................................................................................................22
+Accompanying measures ..............................................................................................................................................23
+RECOMMENDATIONS .......................................................................................................................24
+2 3
+
+ABBREVIATIONS
+3TG Tin, Tungsten, Tantalum and Gold
+ASM Artisanal and Small-scale Mining
+CAHRAs Conflict-Affected and High-Risk Areas
+CRMs Critical Raw Materials
+CSDDD Corporate Sustainability Due Diligence Directive
+CSOs Civil Society Organization
+EC European Commission
+EEAS European External Action Service
+ESG risks Environmental, Social and Governance risks
+EU Regulation EU Regulation 2017/821 Supply chain due diligence for minerals from conflict-affected
+and high-risk areas
+EU European Union
+LBMA London Bullion Market Association
+LSM Large-Scale Mining
+MSCAs Member States’ Competent Authorities
+NGO Non-Governmental Organization
+OECD Organisation for Economic Co-operation and Development
+RMAP Responsible Minerals Assurance Process
+RMI Responsible Minerals Initiative
+RSF Rapid Support Forces
+SAF Sudan Armed Forces
+UAE United Arab Emirates
+US DFA United States Dodd Frank Act
+4 5
+
+EXECUTIVE SUMMARY
+The EU Regulation on the responsible supply of tin, tungsten, tantalum and gold (3TG) originating from
+conflict-affected and high-risk areas (CAHRAs) came into full force on 1 January 2021. Also known as the
+“Conflict Minerals” or “Responsible Minerals” Regulation, it aims to break the link between the exploitation
+and trade in 3TG on the one hand, and conflict financing on the other hand. The law also aims to support
+the development of local communities.
+The Regulation is largely based on the Organisation for Economic Co-operation and Development's
+(OECD) Due Diligence Guidance for Responsible Supply Chains of Minerals from CAHRAs, the leading
+norm for responsible mineral sourcing. Its innovation lies in the fact that the Regulation makes the
+otherwise voluntary Guidance mandatory for EU importers. While the Regulation focuses on the 3Ts and
+gold originating from CAHRAs, it has broader due diligence implications for EU imports from any origin in
+the world. It aims to have an impact not only on EU importers but also further up the supply chain, from
+the EU companies’ direct suppliers up to the mines of mineral origin.
+The law stipulates that by 2023 and every three years thereafter, the European Commission (EC)
+should review its functioning and effectiveness. Within this context, the EC contracted a consortium of
+consultants to conduct an evaluation that will contribute to the 2023 review. In anticipation of the formal
+EC review, this briefing paper seeks to evaluate how the Regulation has actually played out and what
+the main obstacles to its effective implementation have been so far. The paper is based on an analysis
+of documents and interviews with stakeholders, including regulators, industry representatives, and civil
+society.
+Disappointingly, more than six years after the Regulation was signed into law, and almost three years
+after the requirements for EU importers started applying, our overall assessment is that the Regulation
+has not achieved any notable impact along supply chains, let alone in producing countries. At the same
+time, the illegal trade of minerals, in particular gold, continues to play an important role in financing
+certain conflicts, alongside other revenue streams.
+The lack of impact can be explained at several levels. Firstly, Member States’ Competent Authorities
+(MSCAs), which are responsible for ensuring the “effective and uniform” implementation of the Regulation,
+often lack the necessary sector expertise and capacity to fulfill their task. Moreover, differences between
+the interpretation by MSCAs of the Regulation have resulted in an uneven implementation across
+Member States.
+Secondly, many EU importers of 3TG have not (yet) sufficiently complied with the Regulation’s
+requirements. MSCAs indicated for example that the Union importers’ reporting is often not up to
+standard. EU importers often fail to operate adequate and complete supply chain traceability systems,
+and to disclose relevant information, which has prevented transparency to increase. Most Union importers
+source from smelters and refiners outside the EU which, in their turn, are often not fully transparent on
+mineral origin. Because the mine of mineral origin is often not known to Union importers, we fear that EU
+obligations rarely cascade to suppliers up to the level of producing countries.
+This also means that heightened due diligence in the case of CAHRAs or artisanal and small-scale mining
+(ASM) has not been applied to date. Consequently, the Regulation does not seem to have caused a
+noticeable disengagement from CAHRAs/ASM. This can however, not be attributed to positive effects of
+the EU law.
+A decade of due diligence implementation has taught us that the tension between avoiding any human
+rights abuse in the supply chain on the one hand, and continuing engagement in CAHRAs/ASM on the
+other hand, cannot be solved by markets alone. Sourcing outside CAHRAs and excluding ASM is currently
+a low-cost and a low-risk business decision, whereas remaining engaged in CAHRAs/ASM often entails
+(additional) due diligence, audit, and organizational costs.
+4 5
+
+If the EU wishes to contribute to an improved human rights situation in producing countries, including
+in CAHRAs, it has to actively intervene, both by encouraging downstream companies to engage in
+CAHRAs/ ASM through supporting progressive improvement, and by supporting upstream producers to
+progressively meet the EU standards. This progressive approach, that accepts imperfection, could at the
+same time stimulate more transparency.
+In order to improve transparency, we argue that the EU should make it mandatory for Union importers
+to trace their imports back to the mine(s) of origin, in all cases. The EU should also widen the scope of the
+information that EU importers should disclose to the public. More transparency will help journalists and
+non-governmental organizations perform their vital role as watchdogs, and also help build confidence
+among the public.
+The EU should equip the EC with more capacity to play a leading role in the Regulation’s implementation,
+which should reinforce the work of MSCAs. Authorities should avoid overreliance on industry-led schemes
+and third-party audits, no matter how good these are, but instead use them as a useful tool among
+others, such as information obtained from non-governmental organizations, journalists, and affected
+communities themselves.
+Finally, the EU should make better use of its political and economic leverage in order to strengthen its
+collaboration with 3TG producing countries. Sourcing more directly from CAHRAS and the ASM sector
+allows to shorten the supply chain and better promote practices that respect both the local communities
+– including artisanal miners’ livelihoods – and the environment. Without these improvements, the
+Regulation will remain a purely technical exercise without any impacts for communities in producing
+countries.
+6 7
+
+INTRODUCTION
+The European Union’s Conflict Minerals Regulation 2017/821 (in short EU Regulation) was signed
+into law in June 2017 and came into full force on 1 January 2021.1 The EU Regulation requires Union
+importers of tin, tantalum and tungsten, their ores, and gold to source responsibly. Also referred to as the
+“Responsible Minerals Regulation,” this legislation aims to “help break the link” between conflict and the
+illegal exploitation of and trade in minerals and to “help put an end to the exploitation and abuse of local
+communities, including mine workers, and support local development.”2
+The Regulation is based on the leading international standard for responsible mineral sourcing: the
+Organisation for Economic Co-operation and Development's (OECD) Due Diligence Guidance for
+Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas (hereafter the OECD
+Guidance).3 The innovation lies in the fact that the Regulation makes the otherwise voluntary Guidance
+mandatory for EU importers. While the Regulation focuses on the 3Ts and gold (“3TG”) originating from
+conflict-affected and high-risk areas (CAHRAs), its concrete implementation requires due diligence
+measures for EU imports from any origin in the world.
+The inclusion of the OECD Guidelines was supported by many European civil society organizations that
+had been advocating for mandatory due diligence measures for EU importers of minerals. Nevertheless,
+European NGOs had objections to certain elements of the Regulation. The European NGO Coalition on
+Conflict Minerals published a series of briefings over the years that highlighted several shortcomings.4
+Among the main concerns is the limited mineral scope of the Regulation (only 3TG). Secondly, the
+Regulation does not apply to the import of manufactured goods, despite high risks in their supply chains:
+raw materials are rather trivial in EU trade flows with non-EU countries. The vast majority of products that
+contain 3TG minerals and that are consumed in the EU, are derived from imports of already manufactured
+goods.5 Thirdly, the volume thresholds of metals and minerals triggering the application of the EU law,
+allows millions of euros worth of materials, including from CAHRAs, to enter the EU without due diligence
+checks. Furthermore, the NGO coalition advocated for transparency as a fundamental requirement for
+effective due diligence, this included the public disclosure of the names of Union importers. Finally, it also
+cautioned against an overreliance on industry schemes and third-party audits.6
+That being said, the Regulation as a mandatory instrument was welcomed for its potential to pressure
+economic operators from one of the globe’s main trading blocs to source responsibly. By doing so, the
+EU could provide its importers with the leverage needed to enforce changes along the supply chain, and,
+ultimately, at the production level.7
+Almost three years have passed since the requirements for EU importers started applying. The law
+stipulates that by the 1st of January 2023 and every three years thereafter, the European Commission (EC)
+should review its functioning and effectiveness. Within this context, the EC has contracted a consortium
+1 Regulation (EU) 2017/821 of the European Parliament and the European Council of 17 May 2017 laying down supply chain due
+diligence obligations for Union importers of tin, tantalum and tungsten, their ores, and gold originating from conflict-affected and
+high-risk areas.
+2 European Commission, Conflict Minerals Regulation: the regulation explained.
+3 Organization for Economic Co-operation and Development (OECD), Due Diligence Guidance on Responsible Mineral Supply
+Chains from Conflict-Affected and High-Risk Areas, Version 3, 2016.
+4 See previous publications from 2016, 2018, 2019, 2020 and 2021.
+5 IPIS, Regulating responsible sourcing of 3TG minerals, in IPIS Insights on Due Diligence on Mineral Sourcing, IPIS, December 2019
+6 Eurac, Accompanying Measures to the EU Regulation on Responsible Mineral Sourcing. Towards an improved governance of the
+artisanal mining sector in the DRC, March 2017; The EU Conflict Minerals Regulation. Implementation at the EU Member State
+level. Review paper, June 2021; European NGO Coalition on Conflict Minerals, Ensuring transparency in the implementation of the
+European Union’s Regulation on the supply of 3TG minerals. Joint Policy Note, 2 March 2020.
+7 For example, Germany was the leading EU importer of refined tin in 2021, and fourth in the global ranking of user countries.
+Bundesanstalt fuer Geowissenschaften und Rohstoffe; Deutschland-Rohstofsituation 2021; December 2022, page 52.
+6 7
+
+of consultants to conduct an evaluation that will contribute to the final 2023 review report.8 At the time
+of writing, this report has not yet been published.9
+In anticipation of the formal EC review, this paper seeks to highlight the shortcomings of the legislation
+and its implementation that are impeding its effectiveness. Furthermore, this paper takes into account
+the various due diligence bills that are currently being developed by the EU and its Member States.
+We are of the opinion that the experiences and insights gained during the implementation of the 3TG
+Regulation can enrich the democratic debate on impending legislation with substantive arguments. At
+the same time, innovations in new laws and proposals can also positively influence the future of the
+EU 3TG Regulation, including amendments to the Regulation or improvements in its implementation
+practices.10 Such innovations for example relate to the inclusion of environmental risks (as in the EU
+Battery Regulation11 and the Corporate Sustainability Due Diligence Directive12 – CSDDD).
+Because of the objectives explained above, this paper will primarily focus on the general effectiveness of
+the Regulation, rather than on the technical shortcomings of the implementation process. An additional
+reason for this, is that many technical details of the Regulation's implementation are gradually being
+leveled out thanks to consultations between the 27 Member States Competent Authorities (MSCAs) and
+the EC. In summary, it is more expedient at this point in time to evaluate how the Regulation has actually
+played out, whether the original key objectives have been met, and how they can be achieved within the
+foreseeable future.
+This briefing paper builds on a discussion paper for which interviews were conducted with ten MSCAs
+between December 2022 and March 2023. We also held interviews with representatives of the EC, industry
+representatives, sector experts, and national authorities representing the Ministry of Mines of 15 African
+3TG-producing countries. The discussion paper was presented at the OECD Minerals Forum in Paris in
+April 2023 in a dedicated partner session and we shared it with a wide range of stakeholders representing
+the EC, MSCAs, industry, and civil society, requesting feedback on our findings. This feedback has been
+incorporated in this paper.
+Chapter 1 identifies challenges around supply chain transparency and reporting; chapter 2 discusses
+the Regulation’s possible consequences for CAHRAs and artisanal miners. Finally, we formulate
+recommendations to improve the Regulation’s impact, some of which are also relevant with regards to
+the broader EU due diligence landscape.
+8 Call for tenders TRADE/2022/OP/0001, 23-3-2022, Study to review the functioning and effectiveness of Regulation (EU) 2017/821
+(due diligence obligations for importers of tin, tantalum, tungsten and gold from conflict-affected and high-risk areas). The
+EC granted the study to a Consortium led by B&S Europe in partnership with TDi Sustainability and the Responsible Sourcing
+Network.
+9 Early October 2023.
+10 On the broader EU regulatory initiatives related to business and human rights, see DIHR, How do the pieces fit in the puzzle?
+Making sense of EU regulatory initiatives related to business and human rights, August 2023.
+11 Regulation of the European Parliament and of the Council concerning batteries and waste batteries, amending Directive 2008/98/
+EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC.
+12 Proposal for a Directive of the European Parliament and of the Council on Corporate Sustainability Due Diligence and amending
+Directive (EU) 2019/1937.
+8 9
+
+1. THE INEXTRICABLE LINK BETWEEN DUE
+DILIGENCE AND TRANSPARENCY
+Transparency is a key objective of the Regulation. The text states that the Regulation is “designed to provide
+transparency and certainty as regards the supply practices of Union importers, and of smelters and refiners
+sourcing” from CAHRAs.13 It further notes the importance of public reporting by economic operators,
+which “provides the necessary transparency to generate public confidence in the measures economic operators
+are taking.”14
+Union importers of minerals and metals have to incorporate and implement the five-step framework of
+the OECD Guidance.15 When downstream actors identify risks of adverse impacts, they should mitigate
+those risks through their leverage over suppliers and, if necessary, impose corrective action. The crux
+of the matter here is how much downstream companies actually get to know about adverse impacts
+further upstream. In practice, this depends on their efforts and capacity to acquire sufficient information
+from their supplier.
+This chapter analyses the role of refiners, smelters and industry schemes in assuring transparency along
+the entire supply chain. It also provides analysis on the level of transparency in implementing the EU
+Regulation at Member State and European Union level.
+The bottleneck of refiners and smelters
+Importers of 3TG metals to a large extent rely on refiners and smelters disclosing essential information,
+such as the country of origin and names of the mines from which they source. The majority of smelters
+and refiners are located outside the EU. Most of them are located in a limited number of so-called trading
+hubs where the minerals and metals are transformed by either refiners (in the case of gold) or smelters
+(in the case of the 3Ts) before they are exported.16
+The level of transparency of smelters and refiners is crucial. Not only are they the last link in the supply
+chain where it is still technically feasible to trace back the origin of minerals, but they also have (the
+potential) leverage to ensure responsible practices in producer countries. This explains why they are
+referred to as “choke points” in the supply chain. Smelters and refiners can disclose the information vital
+for due diligence by including it in third-party audit reporting or by supplying separate records. However,
+information on the country of origin, let alone the names of the mines of origin, is often not disclosed,
+meaning that in practice the level of transparency of smelters and refiners usually is insufficient.
+For example, research published in March 2023 by the NGO SWISSAID on African gold supply chains
+documented that the majority of gold refineries were not willing to disclose information on their sourcing
+practices. This seems to be a matter of deliberate choice rather than an obligation imposed by mining
+companies. Seemingly, it is not that such disclosure would affect their competitive position, as some of
+the information is already out in the public domain. It rather appears that refiners often do not disclose
+their business relationships to avoid being associated with human rights abuses or other problems
+related to the exploitation of minerals.17 In September 2023, all 33 members of the World Gold Council
+– the umbrella organization representing the majority of the global large-scale gold mining industry –
+committed to publishing the names and locations of their partner refineries on at least an annual basis.18
+13 Article 1 (1) of Regulation (EU) 2017/821.
+14 Recital 13 of Regulation (EU) 2017/821.
+15 See articles 4 and 5 of Regulation (EU) 2017/821.
+16 In the case of the 3Ts, the most important hub trading with the EU is China, while the primary trading hub for gold is Switzerland.
+17 See SWISSAID, Out of the Shadows. Business Relationships between Industrial Gold Mines in Africa and Refineries, March 2023.
+18 World Gold Council, World Gold Council members commit to enhanced supply-chain transparency, 18 September 2023.
+8 9
+
+SwissAid hailed this step as a “breakthrough in transparency in the gold sector”, stating that it “increases
+the responsibility of the various players and contributes to better practices.” The World Gold Council’s
+decision might help convince more refineries, and possibly also smelters to become more transparent
+about their sourcing practices.19
+The EU Regulation sought to address the insufficient level of transparency of smelters and refiners by
+making the disclosure of sourcing practices mandatory for EU imports, even if just part of them need to
+be disclosed publicly.
+Management system obligations under the Regulation
+It is the individual responsibility of each Union importer to assess the due diligence practices of its
+suppliers and to cascade due diligence responsibility up the supply chain. Companies are required to
+put in place a supply chain traceability system, defined in the Regulation as “a record of the sequence of
+economic operators which have custody of minerals and metals as they move through a supply chain.”20
+The Regulation distinguishes between the import of minerals and the import of metals, i.e., processed
+minerals. The traceability obligations for importers of unprocessed or concentrated minerals are far-
+reaching as they require to operate a chain of custody that provides information on the country of origin
+of the minerals. In case of identified supply chain risks, additional information needs to be provided,
+such as the mine of mineral origin, locations where minerals are consolidated, traded and processed, and
+taxes, fees and royalties paid.21
+The majority of 3TG minerals22 however enters the EU as a metal. The EU importers of these metals
+are required to provide records of third-party audit reports of the smelters and refiners, or evidence
+of conformity with an industry scheme that is recognized by the EC. If neither is the case, the importer
+has the obligation to provide information on the countries of origin of sourced minerals, which means
+that the smelters and refiners have to disclose this information to the importer. Where metals are based
+on minerals originating from CAHRAs, or other supply risks have been ascertained, the Regulation also
+requires the importer to provide “additional information in accordance with the specific recommendations
+for downstream economic operators” set out in the OECD Guidance.23
+Interestingly, the newly adopted EU Regulation on Batteries and Waste Batteries24 does not make the
+distinction between minerals and metals, and instead uses the broader term “raw materials”. Article 49
+of the said Regulation stipulates the obligation, from 18 August 2025 onwards, to provide information in
+all cases on the raw material’s country of origin, and on the market transactions from its extraction down
+to the immediate supplier of the economic operator. The onus falls on the “economic operators that place
+batteries on the market or put them into service.”25 This constitutes an important development meriting
+consideration in the 3TG Regulation’s evaluation process.
+19 SWISSAID, SWISSAID report provides more transparency in the gold sector, 2 October 2023.
+20 Article 2 (e) of Regulation (EU) 2017/821.
+21 Article 4 (f)(v) of Regulation (EU) 2017/821.
+22 The Regulation excludes 3TG minerals which come in manufactured goods, which is by far the majority of 3TG minerals that are
+imported into the EU.
+23 See Article 4 of Regulation (EU) 2017/821.
+24 Council of the EU, Council adopts new regulation on batteries and waste batteries, 10 July 2023.
+25 See Article 48 of Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries
+and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC.
+10 11
+
+Box 1 - Dubai’s role in trading gold from Sudan
+The United Arab Emirates (UAE) is home to many gold refiners and is one of the world’s main
+gold trading hubs. Between 2016 and 2021, trade data shows that it imported about 750 tonnes
+of refined gold per year on average. It is a major exporter of bullion and jewelry.26 In 2021, the
+UAE was the world’s second exporter of gold.27 The UAE is an infamous conflict gold transit
+hub and has been added to international watchlists. These lists include the Financial Action
+Task Force’s grey list28 and EU’s own list of high-risk third countries with strategic deficiencies
+in their policies related to money laundering and the financing of terrorism.29 The number one
+destination for UAE gold is Switzerland, which is the EU’s most important gold trading partner
+(see box 2). The UAE imports gold from many CAHRAs, including Sudan.
+Since the start of Sudan’s “gold boom” in 2009, artisanal miners produce more than 80% of
+the country’s gold30 while private companies – sometimes owned by armed actors – process
+artisanal gold tailings. Many gold sites are controlled by armed actors. These include the Sudan
+Armed Forces (SAF) and the Rapid Support Forces (RSF), which have been fighting each other
+since April 2023.31 Competition over natural resources and trade networks is a major driver in
+this conflict, which has caused tremendous harm to civilians throughout the country. Political
+actors and gold traders engage in corrupt practices for personal gains, while the legal and
+regulatory frameworks governing the gold sector remain poorly implemented. Gold mining
+and tailings reprocessing in Sudan are also characterized by the unregulated use of hazardous
+chemicals, like mercury and cyanide, which affects the environment and human health.32
+Nearly half of Sudan’s gold is estimated to be smuggled out of the country, depriving the state
+of critical revenue.33 Security sector companies, with ties to the RSF and SAF, are key actors
+behind this smuggling.34 The vast majority of Sudan’s gold ends up in the UAE through official
+trade35 and smuggling. Afterwards, the UAE’s weak regulatory and anti-money laundering
+controls allow Sudanese gold to reach global markets.
+For example, Switzerland’s largest gold refiner Valcambi has recently been accused of buying
+‘dirty’ gold from UAE-based Kaloti, a refiner which has imported gold from Sudan.36 Valcambi
+has rejected these accusations.37
+26 Reuters, Exclusive: From Russia with gold: UAE cashes in as sanctions bite, 25 May 2023.
+27 Global Financial Integrity, “Analyzing Trade, Oil and Gold: Recommendations to Support Trade Integrity in Sudan,” April 2020;
+The Observatory of Economic Complexity, Gold, accessed September 2023.
+28 See Financial Action Task Force (FATF), “Black and grey” lists, accessed September 2023; this list calls for increased monitoring for
+money laundering and terrorism financing risks.
+29 See European Commission, High risk third countries and the International context content of anti-money laundering and
+countering the financing of terrorism, accessed September 2023.
+30 See Sudan’s Ministry of Minerals annual reports.
+31 See International Crisis Group, A Race against Time to Halt Sudan’s Collapse, 22 June 2023.
+32 Mohamed Salah Abdelrahman, Sudan Transparency and Policy Tracker, How Mercury is Poisoning a Nation and Gross
+Mismanagement is Aggravating the Problem, October 2022.
+33 Global Financial Integrity, Analyzing Trade, Oil and Gold: Recommendations to Support Trade Integrity in Sudan, May 2020.
+34 Hiba Fageeri, Aljazeera, How Sudan’s Gold Wealth is Being Stolen, 9 October 2019.
+35 The Guardian, “Militia strike gold to cast a shadow over Sudan's hopes of prosperity,” 10 February 2020, available at: https://www.
+theguardian.com/global-development/2020/feb/10/militia-strike-gold-to-cast-a-shadow-over-sudans-hopes-of-prosperity.
+36 See the following news articles in September 2023: Swiss info, RTS, NZZ.
+37 Swissinfo, Valcambi refinery denies sourcing ‘dirty’ gold from Dubai, 8 September 2020.
+10 11
+sbuh
+gnidart
+dlog
+fo
+snoitartsullI
+
+Box 2 - Trading hub Switzerland
+Switzerland is an interesting example of a gold trading hub that is geographically, politically
+and culturally close to the EU. Switzerland processes around 70 percent of globally traded
+gold, with this trade amounting to nearly US $ 87 billion in 2021.38 Almost all of this gold is
+imported from other countries; Switzerland refines and brands it, and then exports it to global
+destinations. In 2022, 66% of the gold that entered the EU came from Switzerland.39
+In 2023, new Swiss due diligence obligations entered into force. The legislative changes affect
+two sets of obligations: they contain provisions on transparency of nonfinancial matters,
+and on due diligence and transparency regarding minerals and metals (3T and gold) from
+zones in conflict zones or with child labor.40 Despite these new obligations, which include the
+implementation of a system by which the supply chain can be traced, there remains a lack of
+transparency regarding the origin of gold imported into Switzerland.
+In March 2022, the Federal Administrative Court decided that trade relations are subject to
+tax secrecy.41 It is now to the Swiss Supreme Court to soon decide whether Swiss refiners
+have to disclose their suppliers, based on the principle of freedom of information. Pending
+its ruling, Swiss refiners are not obliged to disclose their gold suppliers, and hence the
+origin of the gold.
+In recent years, there have been numerous scandals linking gold refined in Switzerland to
+human rights abuses and conflict financing, demonstrating that the existing control measures
+are inadequate.42
+In May 2022, the NGO SWISSAID raised the alarm, stating that “Swiss refiners have not been
+importing gold directly from Russia since February 2022 due to sanctions [imposed in
+response to the war of aggression against Ukraine]. At the same time, imports from the United
+Arab Emirates have exploded, raising fears that Russian gold may end up in Switzerland after
+passing through Dubai.” SWISSAID fears that some of this gold is helping to finance the war.43
+Given the weak implementation of the EU Regulation, it is likely that parts of this gold flow
+enter the EU.
+38 The Observatory of Economic Complexity, Gold, accessed September 2023.
+39 This concerned gold starting with HS code 7108. See World Integrated Trade Solution, European Union Gold (including gold
+plated with platinum) unwrought or in semi-manufactured forms, or in powder form imports by country in 2022, accessed April
+2023.
+40 Fedlex, Ordinance on Due Diligence and Transparency in relation to Minerals and Metals from Conflict-Affected Areas and Child
+Labour, accessed September 2023.
+41 See Swissinfo, Swiss court rules against gold trade transparency: NGO, 31 March 2022; GFBV, Bundesverwaltungsgericht
+entscheidet gegen Transparenz im Goldhandel, 31 March 2022.
+42 See for example: GFBV, Dirty Gold, accessed September 2023; Global Witness, Beneath the Shine: A Tale of Two Gold Refiners, 16
+July 2020; SWISSAID, Golden Detour: The hidden face of the gold trade between the United Arab Emirates and Switzerland, July
+2020; Aljazeera, Swiss gold or smuggled Zimbabwean gold? No one knows, 6 April 2023; RTS, Révélations: les secrets inavouables
+de la plus grande raffinerie d’or de Suisse, 3 September 2023.
+43 SWISSAID, Alarming rise in gold imports from Dubai, 17 May 2022.
+12 13
+sbuh
+gnidart
+dlog
+fo
+snoitartsullI
+
+The role of due diligence schemes in the Regulation
+Companies, particularly refiners and smelters, often look for support to comply with due diligence
+obligations through participation in so-called due diligence schemes. Under the EU Regulation, these
+are defined as “a combination of voluntary supply chain due diligence procedures, tools and mechanisms,
+including independent third-party audits, developed and overseen by governments, industry associations
+or groupings of interested organisations.”44 In the case of 3TG, these initiatives have mostly been led by
+industry associations. According to the interviewed MSCAs, the majority of the Union importers source
+from refiners and smelters which are assessed by major industry schemes, such as the London Bullion
+Market Association (LBMA) and the already mentioned Responsible Minerals Initiative (RMI).
+According to the EU Regulation, interested parties may submit industry schemes for “recognition” by
+the EC,45 which entails a process aiming to increase their level of scrutiny and accountability. In January
+2019, the EC adopted a Delegated Act setting out rules on the methodology and criteria related to the
+recognition of due diligence schemes. The central requirement for recognition is that the scheme's
+standards and implementation fully align with the OECD Guidance.46 Through a contracted consultant,
+the EC has been working on the recognition of these submitted industry schemes for years. Nevertheless,
+as of September 2023, the EC had not completed the recognition process for any 3TG industry scheme,
+despite some progress.47
+For Union importers, sourcing from refiners or smelters that can show conformity with an EC-recognized
+scheme could facilitate compliance with the Regulation. Firstly, when companies import metals from
+conformant smelters or refiners, their chain of custody is not required to include information about the
+countries of origin of minerals purchased from them, nor – when the minerals come from CAHRAs or
+when other supply chain risks have been identified – should it include the additional information that the
+OECD Guidance calls for.48 This significantly limits the scope and the difficulty for importers to operate
+their chain of custody. The underlying rationale is that refiners and smelters that can show evidence of
+conformity with a recognized scheme already have strong due diligence systems in place, which enable
+them to properly collect and analyze information on the supply chain while being in a better position to
+do this than downstream companies. This rule also avoids the multiplication of audits upstream. Without
+it, every downstream company indeed would be required to individually perform upstream audits for all
+the metals it imports.
+Moreover, smelters and refiners that participate in a recognized scheme will be more likely to be placed
+on the EU list of “global responsible smelters and refiners”49 (also known as the White list), while EU metals
+importers that can demonstrate to be sourcing exclusively from smelters and refiners on the White list,
+are exempted to carry out third-party audits, which saves them time and resources.50
+Importantly, while EU importers can use information from industry schemes to inform their due diligence
+process, the Regulation is clear that they retain individual responsibility for their due diligence and sourcing
+decisions.51 This individual responsibility is also emphasized by the industry schemes. For example, the
+RMI, one of the major industry schemes, stressed that companies that engage with a scheme are required
+to conduct their own due diligence checks on the information provided by the scheme.52
+44 See Article 2 (m) of the of the Regulation (EU) 2017/821, page 6.
+45 See Article 3.3. of the of the Regulation (EU) 2017/821, page 8.
+46 Delegated Regulation (EU) 2019/429; based on the OECD’s Methodology for the Alignment Assessment of Industry Programmes
+with the OECD Minerals Guidance, Criteria on transparency: B.9 to B.24, pages 19-22.
+47 This process has taken much longer than foreseen. Some progress has been made, for example, the RMI received the final
+alignment assessment in April 2023, which indicated that RMAP is fully aligned, but formal publication has been delayed.
+48 Article 4(g)(iv)(v) Regulation (EU) 2017/821, page 8.
+49 Article 9 of the Regulation (EU) 2017/821, page 12.
+50 Article 4(g)(iv) Regulation (EU) 2017/821, page 8.
+51 Recital 14 of the Regulation (EU) 2017/821, page 3.
+52 RMI, The RMI FAQ: Upstream Due Diligence & Use of Upstream Mechanisms, 1 August 2023.
+12 13
+
+While some MSCAs do not plan to include the participation in an industry scheme in their selection criteria
+for ex-post checks, other MSCAs consider that sourcing from a recognized scheme makes selection for an
+ex-post check less likely.53
+It is important to note that even the best due diligence schemes and third-party audits have inherent flaws
+and limitations. This has been demonstrated by civil society organizations, including Human Rights Watch,
+German Watch, and SOMO. They have criticized the overreliance on schemes and audits, stressing that
+these should only be one tool that companies and regulators use, alongside other sources of information,
+such as media, academic, and NGO reports.54 Also, the MSCAs and the EC will need to allocate sufficient
+resources to conduct proper checks enabling them to independently assess whether imported 3TG is
+tainted by conflict or human rights abuses. This analysis can be partly based on information provided by
+schemes and audits, but should also draw on a broader range of sources, including research done at the
+upstream level.
+Box 3 - LuNa Smelter: an example of due diligence data management by
+a tin metal smelter operating in the Great Lakes Region55
+LuNa Smelter Ltd. (LuNa) is a Kigali-based the form of segmented digital certificates. These
+tin metal smelter, operating within a European certificates link data collected from different
+industrial group called Luma Holding Ltd. Value supply chain participants to unique identifiers and
+creation is based on the development of a stable raw QR-Codes, which can be physically attached to
+materials supply chain achieved in Rwanda and the material shipments and tracked along the supply
+region. LuNa is the first and only tin metal smelter chain. Two types of certificates are generated.
+in Africa conformant with the RMI Responsible The entity certificate contains company-level
+Minerals Assurance Process (RMAP), which information that does not change often, e.g.,
+assesses the smelter’s due diligence systems and a business license, permits and certifications.
+processes to conform with its standards. The shipment certificate contains information
+specific to a particular shipment, such as type of
+In general, management and transfer of due
+material, grade, weight, chemical composition,
+diligence data, as well as maintaining immutable
+sourcing details, and other traceability-related
+records, are significant challenges for minerals
+information.
+supply chain stakeholders, especially for the
+downstream sector. The LuNa Due Diligence The data is stored in three layers. The public
+Team sought a solution to improve the inefficiency layer is unencrypted and visible to all the users
+of traditional systems through the use of of the blockchain sharing a supply chain. The
+emerging digital technologies. In a pilot project, transparency layer contains data that should be
+a blockchain-based solution was chosen due visible to those participants who share a supply
+to its key properties, such as decentralization, chain, and the private layer contains data visible
+immutability, and transparency. LuNa works with only to the current and successive participants
+the blockchain-based traceability platform that of the supply chain. This way, the confidential
+transmits raw material provenance data in information is available only to the authorized
+recipients.
+53 See Regulation (EU) 2017/821, Article 11 for more details on the ex-post checks.
+54 See for example Human Rights Watch, EU’s Flawed Reliance on Audits, Certifications for Raw Materials Rules, 24 May 2023;
+German Watch, An Examination of Industry Standards in The Raw Materials Sector, 4 July 2022; SOMO, A piece, not a proxy, 25
+November 2022.
+55 This box is based largely on written information provided in May 2023 by Aleksandra Cholewa-Domanagić, Director of Investment
+and Development at Luma Holding Ltd and PhD student at the University of Szczecin. While PAX and IPIS have not independently
+assessed this smelter’s practices around the management of due diligence data, this is an interesting example of how innovative
+technology could be used to improve due diligence data management. Independent assessments of these innovative tools will
+however be important.
+14 15
+
+Disclosure obligations for importers and sub-standard reporting issues
+Union importers are required to provide reports to MSCAs of third-party audits or evidence of conformity
+with a recognized scheme (see above). They also need to make available to their immediate downstream
+purchasers “all information gained and maintained pursuant to their supply chain due diligence with due
+regard for business confidentiality and other competitive concerns.”56 The importers also have the obligation
+to publicly report on their supply chain due diligence policies and practices for responsible sourcing;
+this should include a summary report of third-party audits, including the name of the auditor. Public
+reporting should be done on an annual basis, “as widely as possible, including on the internet.”57
+The feedback we received from MSCAs on the reporting by Union importers and the included audit
+reports of their suppliers leads us to conclude that many Union importers are not yet used to the new
+obligations under the Regulation. MSCAs reported that they had received a limited number of third-
+party audits reports, and that the available audit reports seldom meet the standards of the Regulation.58
+A common deficiency in importers’ reporting is the lack of substantial evidence regarding their own
+sourcing practices.
+Further, several MSCAs flag that reports of EU importers are often inadequate with regard to information
+on the origin of the sourced mineral as the data flow usually stops at the level of the smelter/refiner. In
+the case of 3T minerals for example, China was most often mentioned as the country of origin. Whether
+the materials were indeed mined in China, or whether they were only smelted there, was often not clear
+to the MSCAs.
+The quality of audits and the technical competences of auditors are another issue of major concern. In
+this regard, some industry schemes have played a positive role by developing trainings and tools for
+auditors. For the effective implementation of the EU Regulation, it is important that auditors, who are
+located in all parts of the world, receive high quality training in order to ensure that they carry out their
+audits in adherence to the highest standards.
+Finally, Union importers of metals purportedly tried to make use of the exemption pursuant to Article 6
+(2), which exonerates them from conducting third-party audits if they prove that all their smelters and
+refiners are compliant with the Regulation. However, they did so without sending substantive evidence,
+such as third-party audit reports, which the Regulation clearly calls for. Where audits needed to be
+examined by an MSCA, for example in the course of ex-post checks, the audit reports of Union importers
+in many cases appeared to be unavailable. MSCAs explained that since companies had expected that the
+major industry schemes would have been recognized by 2021, they did not timely organize their audits.
+Transparency at the member state level
+According to the Regulation, the MSCAs have to conduct checks when they are “in possession of relevant
+information, including on the basis of substantiated concerns provided by third parties, concerning the
+compliance by a Union importer with this Regulation”.59 These third parties are likely to be journalists, NGOs
+and other civil society groups, fulfilling their role as watchdogs. The problem is that these parties can only
+share their substantiated concerns directly with the MSCAs if they can prove the link between affected
+minerals and EU imports. To date, however, third parties denouncing abuses in producing countries have
+to our knowledge not yet been able to link human rights violations to Union importers, for the simple
+reason that they have no access to information about mineral imports.
+56 Article 7(2) of Regulation (EU) 2017/82.
+57 Article 7(3) of Regulation (EU) 2017/82.
+58 Some of the competent authorities we interviewed were still in the preliminary phase of the post-check process and could not yet
+answer this question. Those who already received a considerable number of reports, stated that the provided information usually
+stops at the level of the refiner or smelter, and that the information of the smelters or refiners, if included in the report, does often
+not meet the expected quality standards.
+59 See article 11(2) of Regulation (EU) 2017/82.
+14 15
+
+Several NGOs60, therefore, have advocated the disclosure of the list of Union importers under the
+Regulation, but the EC left the decision to the MSCAs, and their approaches vary. Austria will publish the
+names of importers, the Czech Republic will publish the names of importers subject to ex-post checks,
+and the Netherlands will publish the companies’ due diligence reports on a dedicated website. So far,
+however, it seems that most other MSCAs will not publish the names of importers that fall under the
+Regulation. They generally invoke reasons of corporate confidentiality and data protection, despite the
+fact that Article 12(1) of the Union Customs Code explicitly mentions the possibility of exceptions to
+confidentiality rules with regards to information held by Customs.61 Of particular interest in this context
+is the initiative of the French NGO Sherpa, which, in August 2020, initiated a proceeding with the Paris
+Administrative Court requiring the authorities to disclose the list of companies under the Regulation.62
+The Court, in November 2022, ruled that the names of the companies should be disclosed as they are not
+covered by neither business nor customs secrecy. The ruling also stressed that these companies had a
+“duty of transparency.”63
+Transparency on EU import data
+The EC does not provide a public disaggregated dataset on 3TG imports into the EU. The available public
+data is grouped per importing and exporting country and/or trading bloc but does not specify the
+numbers or the names of unique importers nor their respective import volumes. Without this data, it is
+impossible to assess the number of importers that fall above/below mineral volume thresholds triggering
+the application of the Regulation, nor is it possible to determine where exempted materials are imported
+from.64 This is very relevant information because literature on the trade in illegal and conflict-affected
+3TG clearly illustrates that much of this trade takes place in quantities that are below the thresholds.65
+Hence, there is a risk that the current thresholds exempt importers of some of the highest-risk materials
+entering the EU from due diligence obligations. Again, without disaggregated data, it is not possible to
+verify this risk and hence adequately assess the effectiveness of the Regulation.
+60 See previous publications from the NGO coalition on Conflict Minerals: 2016, 2018, 2019, 2020 and 2021.
+61 Article 12(1), Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union
+Customs Code. Such information may, however, be disclosed without permission where the customs authorities are obliged or
+authorized to do so pursuant to the provisions in force, particularly in respect of data protection, or in connection with legal
+proceedings.
+62 Sherpa, Mining with Meaning: Protecting Human Rights and the Environment in the shift to clean energy, 29 October 2020, page 27.
+63 Mediapart, Minerais de Guerre: La Justice écarte le « secret des affaires » invoqué par l’exécutif, 21 November 2022.
+64 Article 1(2) of the Regulation specifies that the requirements of the Regulation will apply to the import of the minerals and metals
+specified by use of Combined Nomenclature (CN) in its Annex 1. Article 1(3) qualifies this by adding that importers that fall below
+the annual volume thresholds also specified in Annex 1 will not be subject to these requirements.
+65 See for example the following articles: The Sentry, Golden Laundromat, October 2018; OECD, Where does Colombian gold go,
+2018; UN, http://www.undocs.org/S/2020/482.
+16 17
+
+2. CAN THE EU REGULATION AVOID
+DISENGAGEMENT?
+When the EU Regulation was drafted, putting in place measures to avoid de-risking by EU importers was
+high on the agenda.66 De-risking is when a company chooses to avoid sourcing from CAHRAs and/or
+artisanal and small-scale mining (ASM) altogether, rather than considering engagement in due diligence
+and adopting nuanced risk assessment measures. The negative consequences of the US "Dodd Frank
+Act" (US DFA), namely the so-called de facto embargo hitting the DRC and its neighbors in 2011, figured
+prominently in the EU debates.67
+Sourcing from CAHRAs and/or from ASM entails significant due diligence, audit and organizational costs
+while sourcing from LSM outside CAHRAs is often a low-risk business decision (see box 4). Moreover, the
+existence of due diligence does not (yet) appear to positively affect value downstream.68 On top of this,
+there is a fear of reputational risk when doing business in CAHRAs and/ or with ASM. In short, there are few
+incentives for companies to actually engage with ASM/CAHRAs and the trend to raise the bar in terms of
+sourcing standards has exacerbated this reluctance. We should add here that companies tend to look for
+a binary answer to the question: is this supplier clean or is he not? Yet, this lack of nuance in supplier risk
+scores, ratings and certifications stimulates de-risking and contravenes the spirit of the OECD Guidance
+on which most of these standards are built. The Guidance indeed is conceived to stimulate a process of
+continuous and progressive improvement, which so far has been overshadowed by a prioritization of
+(simplified) compliance.
+De-risking has had many far-reaching implications for CAHRAs and for the ASM sector with risk-aversive
+business decisions leading the mineral trade to go further underground. Even if regulated mid- and
+downstream companies are reluctant to buy from CAHRAs/ ASM, there will always be enough buyers,
+either unregulated or illegal. At best, disengagement is at odds with the premise of the Regulation
+that responsible behavior by companies operating in CAHRAs can stimulate positive socio-economic
+development. At worst, regulating mineral sourcing from CAHRAs encourages informal and/or illegal
+trade.69
+For these reasons, the design of the Regulation was meant to minimize the risk of a de facto boycott of
+CAHRAs and/or ASM.70 By way of precaution, EU legislators included a global CAHRA list, stressed an
+inclusive focus, and foresaw accompanying measures.
+66 See for example: EC Delegated Regulation 2019/429 of 11 January 2019, Supplementing Regulation (EU) 2017/821 of the European
+Parliament and of the Council as regards the methodology and criteria for the assessment and recognition of supply chain due
+diligence schemes concerning tin, tantalum, tungsten and gold.
+67 For example, in its Impact assessment of the Regulation (SWD(2014) 53 final), the EU wrote in 2014: “… the US DFA has created an
+incentive to avoid sourcing from the region, and in particular from DRC. Sourcing outside the region is therefore a low-cost and a
+low-risk business decision whereas remaining engaged entails significant due diligence, audit and organisational costs.” See also:
+Joint Communication to the EU Parliament and the Council /* JOIN/2014/08 final.
+68 OECD (2021), Cost and Value of Due Diligence in Mineral Supply Chains, OECD Position Paper.
+69 Joint Communication to the EU Parliament and the Council /* JOIN/2014/08 final.
+70 Koch, Dirk Jan & Olga Burlyuk (2019) Bounded policy learning? EU efforts to anticipate unintended consequences in conflict
+minerals legislation, Journal of European Public Policy.
+16 17
+
+Box 4 - Why is it important not to exclude ASM?
+The ASM sector is estimated to produce 26% of tantalum, 25% of tin, 6% of tungsten, and 25%
+of primary gold worldwide.71 Moreover, it provides a livelihood to people in many producing
+countries: the World Bank estimates that 44,670,000 people are employed in ASM globally72,
+while the number of people depending on the sector is much higher. Besides the huge potential
+for socio-economic development, there can also be commercial reasons to source from ASM.
+These include securing diverse and new sources of supply while taking into account that both
+tantalum and tungsten are EU-listed Critical Raw Materials (CRMs).73 Moreover, sourcing from
+ASM can respond to an increasing consumer interest in materials and products that benefit
+producer communities.74
+However, as is the case for CAHRAs, due diligence costs may be higher when sourcing from
+ASM. Moreover, the ASM sector has a bad reputation as smaller upstream actors, often working
+informally in a fragile environment, are more vulnerable to the risks listed in the OECD Guidance's
+Annex II.75 In addition, most sourcing requirements are beyond the reach of ASM actors. The
+consequence of all this is the phenomenon of ‘de-risking’ by mineral traders and their clients,
+which in turn pushes the ASM sector into a downward spiral. De facto embargoes exacerbate
+the stigma associated with ASM, and drive it toward informal or secondary markets with less
+vigorous sourcing practices.76
+71 Occupational Knowledge International, see: http://www.okinternational.org/mining.
+72 Delve Platform, https://delvedatabase.org/data, visited on 28 September 2023.
+73 EC Study on the Critical Raw Materials for the EU, 2023, Final Report.
+74 OECD, Anti-corruption and integrity hub, Sourcing gold from ASM miners. Available at: https://www.oecd.org/corruption-
+integrity/checklists/sourcing-gold-from-artisanal-and-small-scale-gold-miners-aci.html
+75 OECD (2021), Cost and Value of Due Diligence in Mineral Supply Chains, OECD Position Paper.
+76 For example, the LBMA concluded in its 2021 annual report that artisanally mined gold currently accounts for less than 1% of the
+throughput of LBMA refiners, and has dropped 16% since 2019 (LBMA, Responsible Sourcing Report 2021).
+18 19
+
+CAHRA list
+In order to support importing companies, the EU compiled a public list of CAHRAs77 that allows for new
+countries and regions to be added or removed over time. According to article 2(f), conflict-affected and
+high-risk areas are “areas in a state of armed conflict or fragile post-conflict as well as areas witnessing weak
+or non-existent governance and security, such as failed states, and widespread and systematic violations of
+international law, including human rights abuses”.78 With 28 countries on the list at the time of writing79, the
+risk of a boycott of one country or region is reduced, but companies may still decide to refrain from doing
+business with any country listed. In short, the list risks stigmatizing a whole area’s mineral production,
+thus leading buyers to exclude regions that are in need of responsible investments and trade.80
+The CAHRA list is non-exhaustive and indicative in the sense that, under the Regulation, EU importers
+are not relieved from due diligence obligations when sourcing from countries that are not included.81
+It is, however, doubtful that all companies and MSCAs use the list in the nuanced way it is supposed to
+be handled. The interpretation of the list varies per MSCA: some have announced it will not impact its
+risk assessments while others have indicated it will play an important role in their risk assessments with
+regards to ex-post checks.82
+Civil society organizations from producing countries have criticized the CAHRA list for not being complete
+as it does not include transit and trading countries. For example, Congolese civil society representatives
+argue that the CAHRA list discriminates against their country and contributes to mineral smuggling: the
+non-inclusion of Rwanda and Uganda confers these countries a safe status, which encourages mineral
+smuggling through their territories.83 It is a fact indeed that the majority of conflict and high-risk gold is
+not officially exported by producing countries but by their neighbors.84
+77 See: https://www.cahraslist.net. The EC contracted consulting company RAND Europe to draft the CAHRA list.
+78 Article 2(f) Regulation (EU) 2017/821.
+79 October 2023.
+80 OECD on the level: Due diligence in mineral supply chains and the quest for a list of conflict-affected and high-risk areas, Available
+at: https://oecdonthelevel.com/2020/05/29/due-diligence-in-mineral-supply-chains-and-the-quest-for-a-list-of-conflict-affected-
+and-high-risk-areas/.
+81 See: https://www.cahraslist.net
+82 Interviews held with MSCAs between December 2022 and March 2023.
+83 EurAc, German Watch, IPIS. The European Regulation on Responsible Mineral Sourcing: what are the lessons learned so far?
+September 2022.
+84 IPIS, Regulating responsible sourcing of 3TG minerals, in IPIS Insights on Due Diligence on Mineral Sourcing, IPIS, December 2019.
+Another example is South Sudan, see: Global Initiative against transnational organized crime, Tarnished Hope, May 2023.
+18 19
+
+Box 5 - Conflict Minerals versus Responsible Minerals
+Over the past years, the concept of conflict minerals has become the subject of intense public
+and academic debate.85 The link between ‘mining’ and ‘conflict’ can be complex and indirect,
+while CAHRAs often suffer from outdated and oversimplified views that tarnish the reputation
+of their entire natural resources sector.86 Moreover, the extraction of minerals is frequently
+linked to human rights abuses that do not necessarily occur in the framework of violent conflict.
+In fact, in many top producing countries of 3TGs serious human rights violations such as child
+labor occur, while they are not affected by (post-) conflict, weak or non-existing governance or
+systematic violations of international law87, and thus are not listed as CAHRAs.88
+It is, therefore, important that due diligence legislation covers risks beyond ‘conflict’ by
+encompassing a broader range of thematic areas, including environmental, social and
+governance risks (ESG). The EU law proposal for a Directive on Corporate Sustainability Due
+Diligence89 confirms this trend toward widening the focus on ESGs.90
+The trend to cover risks beyond CAHRAs has also influenced the conceptual interpretation of
+the 3TG Regulation. Over the last years, the (unofficial) title of the Regulation was changed by
+many, including the European External Action Service (EEAS), from Conflict Minerals Regulation
+to Responsible Minerals Regulation. Although there has never been an official communication
+on this, consulting company Levin Sources suggests that “the discourse of mineral supply chains
+has evolved and today customers and civil society urge companies to respect human rights as well
+as environmental standards when sourcing minerals.”91 Levin Sources argues that by continuing
+to refer to the Regulation as the ‘Conflict Minerals Regulation’ we are setting too low a bar for
+companies.92 Obviously, semantics alone will not do the job without mandatory requirements
+following suit. In summary, as long as the focus solely remains on conflict-related risks, the
+Regulation does not deserve the Responsible Mineral Regulation stamp.
+85 See for example: Christoph Vogel, Conflict Minerals Inc: War, Profit and White Saviourism in Eastern Congo, Hurst & Co., London,
+2022. He argues that the concept ‘conflict minerals’ relies on colonial frames to drive change and that it has led to policies that
+have perpetuated structural violence.
+86 See for example: Matthysen, K. & Gobbers, E., Armed conflict, insecurity, and mining in eastern DRC: Reflections on the nexus
+between natural resources and armed conflict, (IPIS, Antwerp, 2022), 40p.
+87 See: EC Conflict Minerals Regulation explained
+88 Maplecroft, Tech supply chains risk links human rights abuses outside ‘conflict minerals’ hotspots. April 2017
+89 Proposal for a directive of the European Parliament and of the Council on Corporate Sustainability Due Diligence and amending
+Directive (EU) 2019/1937, February 23, 2023.
+90 Loch, Mthembu-Salter, Schaap, Loch, Conflict Minerals – Over a Decade of Effort and Impact, Friedrich-Naumann-Stiftung, March
+2023.
+91 Estelle Levin-Nally, The ‘Conflict Minerals Regulation’ or the ‘Regulation on Responsible Sourcing Minerals’; Evolving purpose and
+terminology, 22 February 2022.
+92 Estelle Levin-Nally, The ‘Conflict Minerals Regulation’ or the ‘Regulation on Responsible Sourcing Minerals’; Evolving purpose and
+terminology, 22 February 2022.
+20 21
+
+Inclusive focus
+Unlike the US DFA, the EU Regulation's risk-based approach does not require European companies to claim
+that their products are ‘conflict free’, but expects them to show that they have a due diligence system
+in place. While this more inclusive focus is meant to avoid that companies disengage from challenging
+environments,93 the question remains whether it fulfils the intention.
+Union importers are legally allowed to import metals and minerals derived from ASM sources and/or
+originating from CAHRAs. The Regulation, however, urges importers to perform a number of additional
+checks when they import minerals originating from CAHRAs.94 In case they import metals, which
+constitute the majority of imports under the Regulation, Union importers need to provide records of the
+third-party audit reports of the supplying smelters and refiners, or evidence of conformity with a supply
+chain due diligence scheme (see chapter 1). As this engenders additional duties and thus higher costs for
+smelters and refiners, there is a theoretical risk that they will disengage from CAHRAs altogether.
+We have, however, not observed any systematic disengagement from ASM or CAHRAs since the Regulation
+entered into force.95 Unfortunately, there is no evidence allowing us to conclude that smelters/refiners are
+constructively engaging with CAHRAs/ASM while observing the EU Regulation. On the contrary, smelters
+and refiners outside the EU rarely disclose the origin of their minerals and do not apply enhanced due
+diligence when they source from CAHRAs/ASM (see chapter 1).
+The recognition of industry schemes by the EU could change this situation. As mentioned in chapter 1,
+individual companies often rely on industry schemes, and both the MSCAs and EU importers are eagerly
+waiting for them to be recognized. At the same time, industry schemes are desperate for this to happen
+as they feel pressure from their members. This poses a dilemma because it could lead to industry schemes
+raising the bar of their internal standards and with that, widening the gap between realities on the ground
+and downstream standards, which in turn can cause de-risking and exclusion of ASM/CAHRAs. Logic wills
+that unattainable standards lead to CAHRA/ASM exclusion from legal markets, unless smelters/refiners
+continue to maintain the current lack of transparency on the origin of their raw materials.
+This potential problem was already flagged by the OECD in 2018 when it called for refiner and smelter-
+level programs to do more to discourage the nowadays still common default position of smelters and
+refiners to disengage from ASM or higher risk areas.96 Progress has been made in this regard, for example
+both the LBMA and RMI are increasingly encouraging progressive and continuous improvement, e.g., by
+recognizing the CRAFT Code.97 For the effectiveness of the EU Regulation, it is fundamental that the EU,
+through its recognition of industry schemes, keeps encouraging this progressive approach.
+93 IPIS, Regulating responsible sourcing of 3TG minerals, IPIS Insights on Due Diligence on Mineral Sourcing, IPIS, December 2019.
+94 Article 4(f)(v) Regulation (EU) 2017/821.
+95 In the case of the US DFA, it was very clear that companies stopped sourcing from the DRC as soon as the Act entered into force.
+This has, however, not happened since 2021. Neither have we observed an increased interest or private sector commitment to
+upstream due diligence programs (e.g. iTSCi).
+96 OECD 2018, Highlights Alignment Assessment of Industry programs with the OECD minerals guidance.
+97 See for more information these articles on LBMA and Craft Code and RMI and Craft Code and the Craft Code explained.
+20 21
+
+Accompanying measures
+The EU created a special fund for accompanying measures to promote responsibly sourced minerals from
+conflict-affected and high-risk areas. In its Joint Communication of 5 March 2014, the EC committed to
+the implementation of such measures, with the aim of reaching a high level of participation by economic
+operators and of ensuring that a global, coherent and comprehensive approach was taken to promote
+responsible sourcing from CAHRAs.98 Well-designed measures have the potential to promote a positive
+socio-economic impact of the Regulation on local communities in producing countries. To achieve that,
+a concerted effort is needed to support producing countries in specific domains, like good governance,
+ASM formalization, and the fight against corruption, and to reduce the cost at the upstream level of
+certification mechanisms necessary for due diligence.
+To date, however, there has been no systematic effort to inform producing, transit and trading countries
+about the new rules in the EU market and the changes that their EU-based buyers (often many tiers
+further) require.99 To illustrate this, when we consulted geological services in charge of ASM mining from
+15 African countries, five of which are on the CAHRA list, it appeared that only the DRC had ever heard of
+the Regulation while our interlocutors from the other countries had never heard about it.100 Additionally,
+rights holders have not been consulted nor informed.101 Obviously, to prepare producing countries to
+meet the EU requirements, especially in the light of disengagement, it is vital to create awareness and
+enhance monitoring capacities.
+We reiterate here that the EC does not provide a public disaggregated dataset on 3TG imports (see
+chapter 1). It is hence not possible to know which producing regions are affected by the Regulation. This
+in turn makes it difficult for civil society organizations to design on-the-ground programs to support
+its implementation and/or mitigate adverse impacts on certain communities, such as those of artisanal
+miners.
+If the accompanying measures are truly intended to be a lever of action to meet the challenges of producing
+countries, their potential is undeniably under-exploited as of today. While many of the measures adopted
+so far are indeed aimed at supporting artisanal mining and reinforcing state structures102, interventions
+remain disconnected from each other. We see a need for more political engagement by the EU in
+producing countries, without which financial support is ineffective.
+98 Regulation (EU) 2017/821.
+99 NGOs have taken some initiatives to inform civil society organizations in producing countries. The EPRM has also made some
+efforts to inform producing countries and recently the EU Delegation in the DRC has drawn up a questionnaire on the awareness
+of the EU Regulation in the country (see e.g. Workshops EurAc, German Watch, IPIS (The European Regulation on Responsible
+Mineral Sourcing: what are the lessons learned so far?); Workshop RMI/GIZ.
+100 The geological services consulted during this study were based in the following countries: Algeria, Burundi, Cameroon, Comoros,
+Djibouti, the Republic of Congo, Gabon, Equatorial Guinea, Madagascar, Morocco, Mauritania, the Democratic Republic of Congo,
+the Central African Republic, Chad, and Tunisia.
+101 See for example: UA Working Paper 2023/04.
+102 For example, see the EPRM projects.
+2222 2233
+
+RECOMMENDATIONS
+1. Capacity of the MSCAs and the EC
+MSCAs and the EC play a pivotal role in ensuring consistent enforcement of the law across different EU
+countries. Currently, the differences between the MSCAs are substantial, both in terms of available staff
+and sector expertise, as in the way they interpret the law. This is very problematic as it creates differences
+between countries and misunderstandings at the level of importers, which could finally lead EU importers
+to move headquarters to another EU country.
+With more EU due diligence Regulations upcoming, the pressure on MSCAs will only grow. However,
+without proper implementation at Member State level, any due diligence Regulation will be useless.
+The EC should take a leadership role to assist MSCAs in order to ensure robust implementation of due
+diligence Regulations.
+Both MSCAs and the EC should be better equipped to monitor the implementation of Union importers,
+this includes:
+• MSCAs should be adequately funded, staffed and trained. Training should not be limited to
+the technical application of the Regulation, but also focus on the wider political and economic
+context of responsible mineral sourcing;
+• The EC should guide and assist the MSCAs and oversee the overall coherence of the
+implementation to help create a level playing field for companies across the EU;
+• The EC should get a mandate and dedicated resources to carry out its own ex-post checks
+on EU importers and to independently investigate substantiated concerns from third
+parties or authorities on human rights abuses or environmental harm in 3TG supply chains.
+Such investigations should include determining whether minerals associated with such
+wrongdoings are actually imported into the EU.
+2. Accompanying measures
+A decade of due diligence implementation has taught us that the tension between avoiding any human
+rights abuses in the supply chain on the one hand, and remaining engaged in CAHRAs and/ or ASM on
+the other hand, cannot be left to markets alone. If the EU cares for an improved human rights situation in
+producing countries, including in CAHRAs, it has to actively intervene, both by encouraging downstream
+companies to engage in CAHRAs/ASM through allowing for progressive improvement, and by supporting
+upstream producers to work towards the EU standards.
+1. The EU should actively intervene in market dynamics in order to encourage mid- and downstream
+companies to engage with the ASM sector and in CAHRAs. The EU should encourage (commercial)
+incentives for responsible sourcing, instead of only focusing on compliance. Measures should include:
+• Only recognize indusnumtry schemes that create and increase the supply of 3TG that are
+responsibly sourced from ASM/CAHRAs. Industry schemes are eager to obtain EU recognition.
+The EU should use this leverage and include mandatory engagement with ASM and CAHRAs
+while setting clear and measurable criteria. This inevitably includes accepting a certain level of
+imperfection while encouraging progressive improvement;
+• Publicly recognize downstream actors that create and sustain the demand of 3TG from ASM
+and/or CAHRAs, so as to boost their reputation. The EU can organize a campaign to inform
+consumers on the development potential when buying products that were responsibly
+sourced from ASM/CAHRAs. This could lead to consumers willing to pay a premium for
+responsibly sourced metals;
+2222 2233
+
+RECOMMENDATIONS
+• The EU is planning to specifically identify those smelters/refiners on the White list that source
+responsibly from conflict zones, so as to incentivize the legitimate trade. This should be
+implemented (once industry schemes are recognized) and also include sourcing from ASM;
+• Organize a campaign to clarify to MSCAs and companies that it is allowed and even
+encouraged to source responsibly from ASM/CAHRAs which should lead to abuses being
+addressed instead of hidden;
+• Explore how companies that disclose human rights, environmental or bribery risks in good
+faith and in line with international standards can benefit from better legal defenses against
+civil or consumer suits;
+• Publicly recognize the importance of artisanal mining to local employment and development.
+• Encourage cooperation between artisanal and industrial mining operations as a best practice
+and a conflict mitigation strategy if conducted in accordance with adequate safety, labor, and
+environmental safeguards.
+2. We recommend the EU to actively intervene in market dynamics in order to prepare the ASM sector
+and CAHRAs to implement the standards of the Regulation to ensure EU market access. Measures
+should include:
+• Informing (local) authorities, mining cooperatives and civil society organizations in 3TG
+producing countries on the EU Regulation, the OECD Guidance and Annex II risks;
+• Political dialogue with producing states on the challenges and needs related to creating an
+enabling environment for responsible sourcing. Such dialogue should include themes like
+good governance, corruption, and tax reforms;
+• Encouragement of technical support to the ASM sector for progressive improvement;
+• Support for the installation of smelters and refiners in producing countries in order to shorten
+the supply chains and encourage transparency.
+3. CAHRA list
+Many top exporting countries of 3TG pose risks for businesses to become associated with serious human
+rights violations. However, the majority of these countries are not included in the CAHRAs list as they
+are not affected by (post-) conflict nor witness weak or non-existing governance or systematic violations
+of international law. The EU Regulation should not only cover conflict-related risks but address all grave
+human rights risks along the supply chain. This means that the Regulation should encompass a broader
+risk-set, including environmental risks.
+It is important to add new categories as we have learned that neither companies nor MSCAs have sufficient
+expertise on risks related to sourcing from trading hubs and transit countries. Transit countries should be
+added to the list because the majority of conflict and high-risk gold is exported by neighboring countries
+instead of producing countries. Trading hubs should be added as they are often confused by MSCAs with
+producing countries.
+• We recommend that the Regulation shifts its scope from conflict-related risks to
+environmental, social and governance (ESG) risks, beyond conflict settings. This entails
+abandoning the CAHRA list and focusing on the identification of risks, including red flags, as
+included in the OECD Due Diligence Guidance.
+• If the EU would decide to keep the CAHRA list, we suggest to add a new list next to the CAHRA
+list: high-risk transit and trade countries (e.g., UAE, Uganda). These categories can be indicated
+24 25
+
+RECOMMENDATIONS
+for example in a different color on top of the world map with CAHRAs on the CAHRA list
+website. ‘High-risk’ in this context would mean countries with a negative track record in issues
+such as anti-money laundering, fraud, truthful reporting, and corruption, as well as countries
+where legislation and practices are not supporting high levels of transparency.
+4. Management system obligations
+There is a significant risk that refiners or smelters (especially in countries with weak safeguards) provide
+false information about the country of mineral origin – for example, Congolese gold being falsely labeled
+as Ugandan gold. MSCAs have, understandably, a lot of trouble noticing this. Given the pervasiveness of
+fraud in this sector, MSCAs should not take information in EU importers’ supply chain traceability systems
+about countries of mineral origin at face value. Making it mandatory to include the mine of mineral
+origin in all supply chain traceability systems and supplying that information to MSCAs would facilitate
+independent checks.
+In order to fight fraud, the EU should amend Article 4 of the Regulation as to:
+• require Union importers to provide in their supply chain traceability system the name of the
+mine of mineral origin in all cases, no matter whether the minerals originate from previously
+identified CAHRAs or whether other supply chain risks, as listed in the OECD Due Diligence
+Guidance, have been ascertained.
+5. Role of industry schemes and audits
+• The EC should require thorough and transparent criteria regarding the use of industry
+schemes and audits. Special attention should be paid to participation of civil society and
+affected communities in audits, corrective action plans, development of standards, grievance
+mechanisms, and governance structures;
+• The EU should avoid overreliance on third-party audits and industry schemes. These should
+be used as just one tool in a kit designed to verify compliance with responsible sourcing
+obligations. The EU should include non-industry actors, including NGOs, in risk assessment
+processes.
+6. Public reporting and transparency on the implementation of the Regulation
+More transparency on the implementation of the Regulation is crucial for third parties to evaluate the
+effectiveness and learn from its weaknesses to improve impact. This is vital to the success of the 3TG
+Regulation, but also very relevant for other due diligence Regulations that include many similar clauses.
+We recommend the EU and the MSCAs to improve their public reporting, more specifically, we recommend
+the EU and MSCAs to:
+• Improve public communication about the Regulation’s implementation and effectiveness,
+including for example the recognition process of industry schemes, by providing more
+frequent updates;
+• Encourage MSCAs to publicly disclose the list of Union importers under the Regulation as a
+best practice;
+• Ensure that the annual due diligence reports of all importers subject to the due diligence
+obligations of the Regulation are publicly available and easily accessible;
+24 25
+
+RECOMMENDATIONS
+• Take steps to make the following information more easily accessible to the public: mines of
+mineral origin, and locations where minerals are consolidated, traded and processed. This
+would help journalists and NGOs to perform their role of watchdogs. In this perspective,
+the “transparency platform for downstream companies” announced by the EC is a welcome
+development;
+• Provide a public disaggregated dataset on 3TG imports into the EU.
+7. Rules applicable to infringement and penalties
+Without serious consequences for EU importers in case of non-compliance with the EU Regulation, the
+effects in the entire supply chain will likely remain minimal.
+To this end, we recommend the EU to:
+• Harmonize the rules applicable to infringements of the Regulation across the EU to avoid
+shopping between MSCAs. Rules applicable to infringements can include (temporary) import
+bans, fines, and “naming and shaming” methods (publicly name companies that do not
+comply with the Regulation);
+• Ensure (conditional) fines are effective by fixing significant minimum fines (e.g., 50,000 EUR).
+The EU Regulation states that, based on the findings of the ongoing review, the EC “shall assess whether
+MSCAs should have competences to impose penalties upon Union importers in the event of persistent
+failure to comply with the obligations set out in this Regulation”. We recommend the EC to:
+• Submit a legislative proposal to the European Parliament and to the Council to grant MSCAs
+competence to impose uniform and dissuasive penalties upon EU importers who persistently
+fail to comply with the Regulation.
+8. Alignment between the different EU due diligence regulations
+There remain points of (potential) misalignment and overlap between all of the EU due diligence
+initiatives. On top of that, there are points of misalignment between international and EU due diligence
+initiatives. This creates a very confusing situation for EU companies and actors in producing countries. On
+the one hand, we recommend the EU 3TG Regulation to at least include the more recent developments
+(e.g., in the light of the green transition) integrated in other regulations. On the other hand, due diligence
+Regulations currently in the drafting process should take lessons learned from the 3TG Regulation into
+account.
+There is a need for EU due diligence policy coherence, acknowledging that each initiative is at a different
+stage in the legislative or implementation process. For the EU 3TG Regulation, it is necessary to align at
+least with:
+• The EU Battery Regulation and Corporate Sustainability Due Diligence Directive: The
+pertaining legal texts require companies to also manage negative environmental impacts, and
+place more emphasis on remediation and reparation;
+• The Corporate Sustainability Reporting Directive: This legislative act will require large
+companies to conduct due diligence, identify, publicly report, and counteract actual and
+potential adverse human rights impacts along the entire supply chain.
+26
+
+26
+
+28

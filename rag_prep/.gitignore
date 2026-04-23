@@ -1,0 +1,13 @@
+# Raw downloaded documents (large binaries — don't commit)
+data/raw/
+
+# Processed chunks (regeneratable from raw)
+data/chunks/
+
+# Vector store (generated in step 3)
+data/vectorstore/
+
+# Keep the directory skeleton
+!data/raw/.keep
+!data/chunks/.keep
+!data/vectorstore/.keep

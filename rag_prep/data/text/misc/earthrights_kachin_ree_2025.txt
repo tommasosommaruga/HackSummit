@@ -1,0 +1,385 @@
+KACHIN
+A SACRIFICE ZONE
+FOR THE GREEN TRANSITION
+“Everything is Depleted…
+Total Devastation”
+
+TABLE OF CONTENTS
+Kachin, a Sacrifice Zone for the Green Transition..................................................... 1
+Background............................................................................................................... 1
+How Harmful is HREE Mining in Kachin?............................................................... 3
+Conflict and Effective Control Changes in 2024................................................... 8
+Responsible Business Conduct Standards for Managing the Human Rights
+Risks of HREE Supply Chains................................................................................... 9
+Recommendations........................................................................................................11
+Recommendations for the Private Sector.............................................................11
+Recommendations for Governance Actors...........................................................11
+References......................................................................................................................12
+
+KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION 1
+KACHIN, A SACRIFICE ZONE FOR THE
+GREEN TRANSITION
+Background
+In northeastern Myanmar, Kachin is a biodiversity hotspot that has been safeguarded for generations
+by a diverse network of Indigenous peoples and ethnic minorities. Kachin has also been at the center
+of a protracted armed conflict, with the Kachin Independence Organisation (KIO) struggling against
+the Myanmar military and associated armed groups for greater Kachin self-rule.
+It is estimated that widespread mining of heavy rare earth elements (HREE), especially terbium and
+dysprosium, began in Kachin state in 2017. These HREE are used primarily in high-performance NdFeB
+magnets1.
+Figure 1 Map of rare earth mining areas in Kachin, Myanmar
+1 94% of dysprosium is used for permanent magnets. (European Commission, 2024).
+
+2 KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION
+Demand for these magnets was driven first by the electronics industry and, increasingly, by electric
+vehicles (EVs) and wind turbines. Between 2020 and 2030, demand is forecast to increase by 225%,
+with a third of demand coming from EVs and a third from wind turbines, doubling again by 2050 (U.S.
+Department of Energy, 2022, p. 32).
+Exports of HREE from Myanmar are worth an estimated US$1.4 billion annually (Global Witness, 2024).
+In 2023, an estimated 57% of the global supply of terbium and dysprosium originated from Kachin
+(Adamas Intelligence, 2024, p. 3), through extraordinarily harmful mining practices that violated
+international human rights and labor rights standards. Until late 2024, mining of HREE was occurring
+in an area largely controlled by a Border Guard Force (BGF), effectively a militia aligned to Myanmar’s
+military junta, which has committed well-documented crimes against humanity (Andrews, 2024, p. 19).
+In March 2022, mining activities were identified at over 300 locations with 2,700 mining pools (Global
+Witness, 2022, p. 3), many of which emit toxic elements such as arsenic, cadmium, and lead into the
+water table. Mining sites increased by more than 40% between 2021 and 2023 alone (Global Witness,
+2024), and by the end of 2024, the number had grown to an estimated 400 sites (Myanmar Witness,
+2025).
+Global demand for NdFeb magnets
+Amount (kt) Kachin civil society groups have told EarthRights that they
+800 are unaware of the rehabilitation of any mining site in the
+753.2
+past decade of rare earth mining. Water samples collected
+by EarthRights and BRIDGE, a Kachin-based organization
+focused on environmental conservation and sustainable
+community development, showed that leachate from a
+600 mining site out of use for 10 years was continuing to emit
+heavy metals, including arsenic and cadmium, far in excess
+of safe levels.
+While the supply chain for Kachin’s HREE is opaque,
+387 open-source data reviewed by EarthRights confirms all
+400
+official imports are made by companies registered in China,
+primarily Yunnan province, on the border with Kachin
+state. A Chinese state-owned conglomerate called the
+China Rare Earth Group has a monopoly on the processing
+200 of China’s HREE, and its subsidiaries and associated
+companies import HREE from Myanmar. This conglomerate
+119.2
+processes HREE and has supplied them to magnet
+manufacturers, after which they enter into global supply
+chains. Chinese magnet manufacturers represent over 90%
+0 of global magnet production (Turton, 2025).
+2020 2030 2050
+Year
+Percentage share of global demand by application
+Offshore wing turbines Electric vehicles Consumer electronics Industrial motors Other
+Figure 2 Projected increase in global demand for NdFeB magnets (U.S. Department of Energy, 2022, p. 32)
+
+KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION 3
+The significant proportion of HREE from Kachin suggests that most NdFeB magnets contain HREE
+from Myanmar (Adamas Intelligence, 2024, p. 3). Moreover, because HREE from Myanmar are mixed
+with materials from other sources during refining in China, it is not possible to verify claims of a
+Myanmar-free supply chain. Industry insiders have confirmed to EarthRights that even if upstream
+suppliers provided such assurances, they would simply not be credible2.
+Figure 3 Overview of supply chain for NdFeB magnets
+How Harmful is HREE Mining in Kachin?
+HREE are mined in Kachin through a method known as in-situ leaching, which uses chemical leaching
+agents and precipitants. The process involves injecting chemical leaching agents, such as ammonium
+sulfate, into the hillside through a network of pipes. The solution moves slowly through the hillside,
+separating the rare earth elements from the surrounding rock. The leaching agents release heavy
+metals, radioactive elements, and ionic compounds.
+Rare earth mining has been found to have serious environmental and health impacts (Lei et al.,
+2017, p. 216). In Jiangxi, for example, Chinese authorities have estimated that the clean-up bill for the
+environmental damage caused by the HREE industry will be around US$5.6 billion, with a full recovery
+expected to take between 50 and 100 years (Global Witness, 2022, p. 5).
+The impacts of these mining practices on local communities in Kachin have been devastating.
+As described by one community member from Kachin that spoke to EarthRights:
+“Now, everything is depleted; the trees, bamboo, water, and wildlife
+are all gone, resulting in total devastation. … The land is now barren
+of trees, bamboo, flowers, and wildlife.”
+In 2024, EarthRights and BRIDGE collected water and soil samples from areas impacted by rare earth
+mining. Testing and analysis of these samples by Naresuan University, Thailand, concluded in a report
+released in April 2025 that creeks in Chipwe township in Kachin were severely polluted (Phenrat, 2025,
+pp. 14-19).
+2 Notably, some manufacturers have assured that their components utilize “recycled” materials. However, this generally
+means “swarf,” comprising “offcuts and grinding media generated during magnet manufacturing” rather than end-of-
+life products (Global Witness, 2024).
+
+4 KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION
+Figure 4 In-situ leaching process, photos by KRCG
+
+KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION 5
+Testing from a free-flowing creek downstream of mining sites recorded an “ultrahigh degree of
+contamination” by toxic heavy metals (including arsenic, cadmium, manganese, lead, and strontium),
+dysprosium, and radioactive elements (Phenrat, 2025, p. 17). The report concluded that “the effects of
+mining remain detectable for considerable distances from the source” (Phenrat, 2025, p. 17).
+This has severe impacts on Indigenous communities, destroying their livelihoods and cutting off
+access to water for drinking, bathing, and irrigation (Meehan & Seng Lawn, 2024, pp. 16-26). Exposure
+to these pollutants can also lead to a variety of health issues, including cancer and an increased
+incidence of miscarriages. This is a breach of the right to water, the right to health, the right to a clean,
+healthy, and sustainable environment, and, with pollution of this severity, the right to life itself.
+Photo by BRIDGE
+Photo by BRIDGE
+
+6 KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION
+Sampling of water and soil from a creek and adjacent bank in Kachin, photos by BRIDGE
+
+KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION 7
+Findings from water testing in Kachin
+Comparison of dissolved and particulate concentrations at Station 1 (baseline) and Station 3 (polluted site)
+Particulate Dissolved Chinese water polution control standard*
+mg/L
+0.00
+6688..11 7788..7788 1166..6688
+100
+2222..2244
+5577..33
+0.05
+0.00
+1.92 55..6688
+0.17
+88..2233
+1166..7777 2211..7766
+3377,,335566..2233
+220011..7799 337733..7788
+1177..7733
+112288..4400 200
+0.05
+78.93
+4499..2211 66,,002222..4433
+119.77
+00..0000
+5588..5555 557744..8877
+6611..9944
+112255..4422
+100*
+7777..6644
+4.21
+3333..9944 100* 0.05
+0.05 2277..5544
+0.45
+*The Chinese standard is for thorium and uranium combined
+Figure 5 Findings from water testing in Kachin (Phenrat, 2025, p. 49)
+* Pollutant concentration limits taken from China’s Water Pollution Control Standards for In-situ Leaching of Ionic Rare
+Earth Minerals (China Nonferrous Metals Industry Institute of Standards, Metrology, and Quality, 2024, p. 22).
+
+8 KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION
+Testing by Naresuan University also found limited surface soil pollution, suggesting that contaminants
+released by the leaching agents may be moving into creeks through subsurface migration or are
+being directly discharged into local waterways. Subsurface migration would mean widespread
+contamination of the water table. Further investigation is urgently required.
+Figure 6 Sub-surface migration
+Rare earth mining in Kachin has also resulted in the deaths of workers. The mining process involves
+pumping acid into the mountains, which weakens the soil and increases the frequency of landslides.
+During heavy rainfall, these landslides can trigger mine collapses. In June 2024, two landslides at HREE
+mining sites killed at least 35 workers (RFA Burmese, 2024). Mine workers are also exposed to harmful
+chemicals that have been banned in China, with deaths of mine workers, including children, being
+attributed by their family members to this exposure, according to local sources that EarthRights has
+contact with in Kachin. A community leader also told these local sources that “Miners become unwell.
+After working for one or two years, depending on their immunity, they start experiencing poor health.
+They develop kidney diseases and respiratory issues.”
+Conflict and Effective Control Changes in 2024
+This mining is not only environmentally destructive, but is also closely connected to ongoing conflict.
+Myanmar is one of the most active conflict zones in the world (ACLED, 2024). Until 2024, HREE mining
+mostly occurred in an area controlled by a BGF. In these circumstances, the OECD Due Diligence
+Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas (OECD
+Guidance) is clear: companies should have disengaged from supply chains likely to contain HREE from
+Kachin.
+In late 2024, the KIO and its armed wing, the Kachin Independence Army (KIA), took control of all HREE
+mining in Myanmar. The KIO, one of numerous ethnic resistance organizations engaged in armed
+struggle with the Myanmar military, has been in conflict since 1961 and maintains effective control
+over large parts of Kachin state. Unlike the BGF, the KIO and the KIA have a degree of legitimacy with
+and accountability to communities in Kachin.
+Kachin civil society organizations have called on international organizations to “acknowledge the KIO/
+A’s governance role and support efforts to strengthen its governance capacity” (Shanan Foundation,
+2025, p. 20). The UN Special Rapporteur on the Situation of Human Rights in Myanmar regularly calls
+on the international community to engage with ethnic resistance organizations (Andrews, 2024, p.
+22). While OECD Guidance in these circumstances is unclear, companies should either disengage from
+supply chains likely to contain rare earths from Kachin or treat the KIO/A as a legitimate governance
+actor and engage with it accordingly.
+
+KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION 9
+Responsible Business Conduct Standards for Managing the Human
+Rights Risks of HREE Supply Chains
+The UN Guiding Principles on Business and Human Rights (UN Guiding Principles) and OECD
+Guidelines for Multinational Enterprises on Responsible Business Conduct (OECD Guidelines) outline
+a continuum of ways that corporations can be implicated in human rights abuses, ranging from
+causing harm and contributing to it, to being directly linked to harm through a business relationship.
+Multinational corporations have been sourcing magnets reliant on HREE from Myanmar for years.
+This reliance and the associated harms would be clear to any corporation that has undertaken human
+rights due diligence required by the UN Guiding Principles and OECD Guidelines.
+Large companies in Germany are currently legally required to
+identify and address human rights and environmental risks in
+their supply chains. Under the German Supply Chain Due Diligence
+Act, they must always assess their direct suppliers. If they gain
+“substantiated knowledge” of a potential violation, as they have with
+HREE from Kachin, they must also assess indirect suppliers. They
+must take measures to prevent and remedy abuses and to report
+on their compliance to the Federal Office for Economic Affairs and
+Export Control, which can issue fines if companies violate their due
+diligence obligations.
+— Germany accounts for one in five NdFeB magnets exported from
+China (Adamas Intelligence, 2025).
+Some companies have used alternative technologies to reduce their reliance on HREE, such as geared
+wind turbines (Vestas, 2024), but others have not yet substantially altered their practices.
+In the EV sector, viable commercial alternatives to permanent magnet synchronous motors (PMSM)
+could include externally excited synchronous motors (EESM), and asynchronous motors (ASM, also
+known as induction motors), which replace HREE with higher amounts of copper. However, EESMs
+and ASMs usually require higher weight and volume (Prognos, Öko-Institut, & Wuppertal Institut,
+2023, p. 40). A promising concept for EVs seems to be synchronous reluctance motors, which are
+being developed without the usage of HREE, but have not yet been incorporated in commercial EV
+production (Zorpette, 2024).
+While China Rare Earth Group and Chinese magnet manufacturers have clear responsibilities,
+multinational corporations involved in EV and wind turbine manufacturing based in OECD countries
+also share responsibility for human rights abuses occurring in their supply chains.
+The human rights and environmental risks related to the extraction of HREE were well-documented
+even before mining started to ramp up in Myanmar. The dire consequences of this mining became
+clear in 2016 when China intensified efforts to regulate domestic mining operations—particularly,
+small, illegal mines in Ganzhou, Jiangxi province—partly in response to severe environmental damage
+(Standaert, 2019), resulting in a significant drop in China’s domestic HREE output.
+The historic harms from HREE mining and the shift to Myanmar, with its long history of conflict, should
+have triggered enhanced human rights due diligence, followed by preventive or mitigation actions,
+such as suspending supplier relationships or terminating them if necessary.
+
+10 KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION
+However, while some companies have made efforts to address abuses in their HREE supply chains,
+it appears that they lacked or failed to build sufficient leverage to succeed. Despite this, companies
+have continued to source from supply chains reliant on HREE from Kachin, driving up demand and
+accelerating the harmful expansion of mining in Myanmar. In doing so, they are falling short of
+international human rights standards for responsible business conduct. This includes companies
+with turnovers that vastly exceed Myanmar’s gross domestic product and that make up a substantial
+portion of global demand for HREE.
+Tesla, for example, was estimated to be responsible for 2-3% of global demand for NdFeB magnets in
+2022 (Adamas Intelligence, 2023). In 2023, Tesla’s global EV deliveries increased to 1.81 million, 38%
+higher than 2022 (BuyACar, 2025). Using industry assumptions3 of dysprosium and terbium content
+in magnets, EarthRights has estimated that the Volkswagen Group, another major producer of EVs,
+was potentially responsible for almost 2% of global demand for dysprosium and 3.5% of terbium in
+2024. As part of their supply chain due diligence, companies should have accurately calculated their
+contribution to global demand.
+Global corporations that continued sourcing magnets reliant on HREE, while knowing that the majority
+of global supply is being mined in Kachin after using extremely harmful practices and then comingled
+in supply chains, were likely contributing to human rights abuses in Kachin. Companies had further
+obligations to disengage under OECD Guidelines when the supply was controlled by a BGF.
+As set out above, the number of mining sites in Myanmar increased from 300 (with 2,700 mining
+pools) in March 2022 to almost 400 sites in 2024. Three percent of global demand over this period is
+equivalent to the output of several new mining sites in Kachin and potentially dozens of mining pools.
+3 These calculations are based on an assumption of EVs requiring approximately 12.5 grams of NdFeB magnets per
+kW of engine output with a magnet content (by weight) of 2% dysprosium and 1% terbium. Academic papers suggest
+a significantly higher dysprosium content (3.5%), but interviews with industry experts conducted by EarthRights
+suggest the lower figure is now more appropriate. These calculations were applied to the 2024 sales of the top-selling
+Volkswagen Group battery electric vehicle models.
+
+KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION 11
+RECOMMENDATIONS
+We have developed the following recommendations to improve engagement with Kachin civil society
+and local governance actors and to provide appropriate remedies.
+Recommendations for the Private Sector
+• Companies with Myanmar HREE in their supply chains should assess, including
+through engaging with Kachin civil society and the KIO, the current human rights and
+environmental impacts of HREE mining in Kachin and whether they have the leverage
+to mitigate these impacts, for example by facilitating access to mining experts or access
+to water, soil, and health testing. Companies should disengage if there continues to be
+severe impacts that they cannot mitigate.
+• Companies that have consistently used Myanmar HREE in their supply chains should
+recognize that they have likely contributed to human rights abuses and environmental
+destruction, and should work with Kachin civil society actors to assess how to remedy
+their contributions, such as through supporting water and soil testing and, in the longer
+term, contributing to mining site remediation efforts.
+• Companies in collaboration with industry bodies and governments should work to:
+• Significantly minimize the use of HREE, through existing alternative technologies and
+investments in new technologies;
+• Significantly improve the recycling of HREE; and
+• Ensure that HREE in their supply chains are mined in countries with strong
+environmental rule of law.
+Recommendations for Governance Actors
+• The KIO should halt HREE mining until it can establish the extent of the harms caused by
+mining under the BGF and put safeguards in line with international standards in place.
+In the absence of these safeguards, the KIO should implement minimum standards to
+improve mining practices and engage local civil society organizations and communities in
+establishing a transparent and publicly accessible framework and policies for rare earth
+mining
+• The Chinese government should cooperate with the KIO to hold Chinese investors and
+mining companies operating in Myanmar accountable to Chinese standards on rare
+earth mining4 and the Chinese Due Diligence Guidelines for Responsible Mineral Supply
+Chains. They should adopt import regulations for HREE produced in Myanmar that require
+evidence that they have been produced legally and are not linked to human rights abuses,
+conflict, or corruption.
+• Governments should enact and enforce human rights and environmental due diligence
+legislation, including for supply chains, prioritizing substantive outcomes for rights-
+holders and communities over process.
+4 China has introduced several environmental and safety standards for rare earth mining, including the Rare Earth
+Industry Pollutant Emission Standard (GB 26451-2011) and the Ionic Rare Earth Mining Water Pollutant Emission
+Standard (DB36 1016-2018). More recently, it has developed standards specific to in-situ leaching, namely, the Water
+Pollution Control Standards for In-situ Leaching of Ionic Rare Earth Minerals.
+
+12 KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION
+REFERENCES
+1. ACLED. (2024, December 12). Decisive year ahead for resistance groups in Myanmar as they
+threaten new territories. ACLED Data. https://acleddata.com/conflict-watchlist-2025/myanmar/
+2. Adamas Intelligence. (2023, March 3). Implications: Tesla announces next generation rare-earth-
+free PMSM. Adamas Intelligence. https://www.adamasintel.com/tesla-rare-earth-free-motor/
+3. Adamas Intelligence. (2024, November 5). Rare earth magnet market outlook to 2040. https://
+www.adamasintel.com/rare-earth/rare-earth-magnet-market-outlook-to-2040/
+4. Adamas Intelligence. (2025, March 5). Record rare earth magnet exports from China in 2024.
+https://www.adamasintel.com/record-rare-earth-magnet-exports-from-china-in-2024/
+5. Andrews, T. (2024, March 14). A/HRC/55/65: Situation of human rights in Myanmar – Report of
+the Special Rapporteur on the situation of human rights in Myanmar. Office of the United Nations
+High Commissioner for Human Rights. https://www.ohchr.org/en/documents/thematic-reports/
+ahrc5565-situation-human-rights-myanmar-report-special-rapporteur
+6. BuyACar. (2025, April 17). The latest Tesla statistics. https://www.buyacar.co.uk/the-latest-tesla-
+statistics/
+7. China Nonferrous Metals Industry Institute of Standards, Metrology, and Quality. (2024, April).
+Water pollution control standards for in-situ leaching of ionic rare earth minerals. http://www.
+cnsmq.com/uploadfile/2024/0423/20240423092729649.pdf
+8. European Commission. (2024). Raw Materials Profiles - Dysprosium: Dashboard. RMIS – Raw
+Materials Information System. https://rmis.jrc.ec.europa.eu/rmp/Dysprosium
+9. Global Witness. (2022, August 9). Myanmar’s poisoned mountains. https://globalwitness.org/en/
+campaigns/transition-minerals/myanmars-poisoned-mountains/
+10. Global Witness. (2024, May 23). Fuelling the future, poisoning the present: Myanmar’s rare
+earth boom. https://globalwitness.org/en/campaigns/transition-minerals/fuelling-the-future-
+poisoning-the-present-myanmars-rare-earth-boom/
+11. Lei, Z., Li, Y., Zhang, X., & Li, H. (2017). Overview on China’s rare earth industry restructuring and
+regulation reforms. Journal of Resources and Ecology, 8(3), 217–224.
+12. Meehan, P., & Seng Lawn, D. (2024). Rare earth mining in Kachin State, Myanmar: The impacts of
+rare earth mining on livelihoods and local communities. University of Warwick. https://warwick.
+ac.uk/fac/arts/schoolforcross-facultystudies/research/projects/rare_earth_mining_myanmar/
+briefing_paper_4_-_impacts_on_livelihoods_and_communities.pdf
+13. Myanmar Witness. (2025, March 18). Uncovered: The devastating impact of Myanmar’s rare earth
+mining boom. Center for Information Resilience. https://www.info-res.org/articles/uncovered-
+the-devastating-impact-of-myanmars-rare-earth-mining-boom/
+14. Phenrat, T. (2025, April 28). Environmental forensics and preliminary impact assessment of water
+and soil contamination from rare earth mining in Myanmar. Faculty of Engineering, Naresuan
+University. https://www.eng.nu.ac.th/eng2022/News-Detail.php?Postid=2506&Lang=th
+15. Prognos, Öko-Institut, & Wuppertal Institut. (2023). Souveränität Deutschlands sichern –
+Resiliente Lieferketten für die Transformation zur Klimaneutralität 2045. https://www.stiftung-
+klima.de/app/uploads/2023/11/Stiftung_Klimaneutralitaet_2023-Resiliente-Lieferketten_
+Langfassung-2.pdf
+16. RFA Burmese. (2024, June 21). Collapse at notorious Myanmar rare earth mine kills 15
+people. Radio Free Asia. https://www.rfa.org/english/news/myanmar/myanmar-mine-
+collapse-06212024072910.html
+
+KACHIN A SACRIFICE ZONE FOR THE GREEN TRANSITION 13
+17. Shanan Foundation. (2025). Governance of rare earth mining by the Kachin Independence
+Organization/Army (KIO/KIA). https://www.boell.de/en/2025/04/22/fractured-authority-and-
+resource-politics-myanmar-new-report-rare-earth-mining
+18. Standaert, M. (2019, July 2). China wrestles with the toxic aftermath of rare earth mining. Yale
+Environment 360. https://e360.yale.edu/features/china-wrestles-with-the-toxic-aftermath-of-
+rare-earth-mining
+19. Turton, S. (2025, April 23). How China’s rare-earth curbs complicate West’s diversification push.
+Nikkei Asia. https://asia.nikkei.com/Business/Technology/Tech-Asia/How-China-s-rare-earth-
+curbs-complicate-West-s-diversification-push
+20. U.S. Department of Energy. (2022, February 24). Rare earth permanent magnets supply chain:
+Deep dive assessment. https://www.energy.gov/sites/default/files/2022-02/rare-earth-magnets-
+supply-chain-report.pdf
+21. Vestas. (2024). Environment: Materials and rare earths. https://www.vestas.com/en/sustainability/
+environment/materials-and-rare-earths
+22. Zorpette, G. (2024, March 15). Who will free EV motors from the rare earth monopoly? A materials
+breakthrough makes GE Aerospace a contender. IEEE Spectrum. https://spectrum.ieee.org/electric-
+motor-no-rare-earth
+
+© 2025 EarthRights International
+infoasia@earthrights.org
+Published in 2025
+www.earthrights.org

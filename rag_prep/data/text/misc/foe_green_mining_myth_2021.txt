@@ -1,0 +1,2203 @@
+‘Green mining’ is a myth:
+The case
+for cutting
+EU resource
+consumption
+
+Authors Meadhbh Bolger, Diego Marin, Adrien Tofighi-Niaki, Louelle Seelmann
+Contributors Alexander Dunlap, Andy Whitmore, Jean-Pierre Schweitzer, Paul Hallows, Annelies Schorpion, Colin Roche,
+Hal Rhoades, Stéphane Arditi, Piotr Barczak, Paul de Clerck, Nick Meynen, Jeremy Wates
+Designer Gemma Bowcock
+Editor responsible Rachel Tansey
+Cover image evgenii_v (Adobe Stock)
+European Environmental Bureau Friends of the Earth Europe
+Rue des Deux Eglises 14-16 Mundo-b building
+1000 Brussels, Belgium Rue d’Edimbourg 26
++32 (0)2 289 1090 1050 Brussels, Belgium
+eeb@eeb.org +32 (0)2 893 1000
+eeb.org info@foeeurope.org
+meta.eeb.org friendsoftheearth.eu
+EC register for interest representatives: Identification number EC register for interest representatives: Identification number
+06798511314-27 9825553393-31
+International non-profit association - Association internationale International non-profit association - Association internationale
+sans but lucratif (AISBL) sans but lucratif (AISBL)
+BCE identification number: 0415.814.848 BCE identification number: 443.252.089
+RPM Tribunal de l’entreprise francophone de Bruxelles
+This communication reflects the publisher’s views and does not commit the donors.
+With the support of the LIFE Programme of the European Union and the MAVA Foundation
+
+Contents
+Foreword �������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������1
+Executive summary ���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������2
+Introduction �������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������6
+Chapter 1 Global and EU consumption - beyond sustainable and just limits ������������������������������������������������9
+Chapter 2 Harmful impacts of metals mining: to people and the planet � ��������������������������������������������������������16
+Chapter 3 Mining for the green and digital transitions ���������������������������������������������������������������������������������������������������������21
+What the communities say: Case studies from within and outside Europe �������������������24
+Chapter 4 EU Policy Framework - the European Green Deal and beyond ��������������������������������������������������29
+Chapter 5 EU Policy Recommendations � �����������������������������������������������������������������������������������������������������������������������������������������34
+References ���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������44
+
+Foreword
+The world is facing multiple crises – climate, biodiversity, inequality, the These ‘green extractivism’ approaches to sourcing the minerals and metals
+Covid-19 pandemic. Each crisis compounding the other, woven together in for the EU’s green transition are often presented as innovations but in
+a tapestry where the logic of taking from the earth and displacing human reality, they represent destructive models that will result in an unjust and
+and non-human lives for the benefit of a few flows in a historical arc from inequitable transition. These models are now also being presented as viable
+colonialism to neoliberalism. This legacy – extractivism – views finite natural solutions for Europe, as the extractive frontier expands onto the shores of
+resources, whether they are fossil fuels, minerals, metals, or biomass, as Ireland, Portugal and Finland, and the deep seas, threatening communities
+valuable as long as they can be sold or exchanged for profit. The profit and ecosystems alike. Without a strategic plan to tackle EU material
+accumulated fuels the infinite growth of the economy. Countless lives and overconsumption, extractive frontiers will continue to cause violence, worker
+livelihoods have been sacrificed in the relentless pursuit of these resources exploitation and ecological degradation on a global scale.
+and even today resource extraction continues to be the single biggest
+This flagship report seeks to connect the EU’s material overconsumption,
+reason for deaths of environmental defenders around the world.
+extractivism and the European Green Deal. It asks politicians and civil
+With climate pressures increasing and planetary boundaries being society alike to reflect on current policies and systems and to examine ways
+crossed, the recognition of the imperative to do things differently is in the in which our high-intensity, wasteful and growth-oriented economy needs to
+political spotlight. Yet despite the rhetoric and incremental progress made be transformed so that humanity can thrive within ecological limits.
+by the EU, the overwhelming approach to tackling these crises remains
+one based on competition – scrambling to secure resources for ‘cleaner’
+energy systems, and pursuing aggressive trade policies that outsource the
+impacts of EU overconsumption. Not only does this fly in the face of the type
+of international cooperation that is so badly needed to address the threat
+of ecological collapse as outlined by the most recent IPCC warning, but it
+also plays into the hands of multinational mining corporations which seek
+Asad Rehman
+to capitalise on the Covid-19 pandemic and the climate crisis to justify the
+Executive Director
+continuation of their destructive practises.
+War on Want
+1
+
+Executive Summary
+EU resource consumption is inequitable and its resource
+extraction is beyond earth’s limits, causing substantial harm
+Global extraction of materials and use of energy rose rapidly in the past century, much faster than growth
+in population. There are massive differences in consumption between populations, and inequities in the
+distribution of, and access to, resources. The 1.2 billion poorest people account for just 1% of the world’s
+consumption, while the one billion richest account for 72%.
+European economies were built, in large part, through the colonisation of the Global South, channeling natural
+resources towards Europe. The EU continues to extract and exploit resources and labour from poorer countries
+and regions today, and has been consuming more than its fair share, and beyond ecological limits, for decades.
+The EU’s material footprint (i.e. total consumption of fossil fuels, biomass, metals and non-metallic minerals,
+including embodied in imports) is currently 14.5 tonnes per capita, well over the global average, and about
+double what is considered a sustainable and just limit. Imports from outside the EU account for 20% of this.
+Predictions following historical trends, current patterns of production and consumption, and excluding
+consequences of potential policy changes suggest a doubling in material and energy consumption by 2060.
+The EU is responsible for a disproportionate part of the depletion of common global natural resources, and for
+extensive environmental and social harms. With respect to environmental impacts from resource use, the EU
+uses between 70% and 97% of the ‘safe operating space’ available for the whole world. This means the EU alone
+is close to exceeding the planetary boundaries for resource use impacts, beyond which the stable functioning
+of the earth’s biophysical systems are in jeopardy.
+2
+
+Metals and minerals in the political spotlight
+The EU makes up only 6% of the world’s population, yet consumes 25-30% of metals produced
+globally. Without drastic changes, EU metal consumption is predicted to grow the fastest of all
+material groups, with a 63% increase per capita by 2060.
+Metals and minerals have moved into the political spotlight in the EU because of their importance
+to the twin green and digital transitions. The (necessary) shift to wind and solar technologies,
+electricity systems, and batteries for electric vehicles and energy storage, is considerably
+materials-intensive. It is estimated that electric vehicles use four times as much copper as fossil
+fuel cars, and under a ‘high demand’ decarbonisation scenario, batteries for electric vehicles and
+renewables are predicted to drive up demand for lithium by almost 6000% by 2050. Supplying such
+demand will lead to scarcity, conflicts, increases in destructive mining generating problems akin to
+those that arise from digging up fossil fuels.
+The rapidly growing digital sector is another key driver of demand for metals. Europeans own five
+times as many digital devices as the average person in the Global South, and more than double the
+global average, with rampant consumerism driving this trend. 25% of all the silver mined around the
+world goes into electronic products.
+Greenwashing of mining
+Large mining companies and governments are, however, using the fact that certain metals and
+minerals are key for green technologies, to greenwash the metal mining industry in general,
+promoting the nonsensical concept of ‘green mining’. Yet metals like copper, iron and aluminium are
+overwhelmingly used in construction and other industries, such as the destructive military sector.
+Furthermore, it is estimated that carbon emissions associated with primary metal and mineral
+production accounted for approximately 10% of total global energy-related emissions in 2018,
+making industry claims of ‘tackling climate change’ even more unfounded.
+The same players push for communities’ ‘social acceptance’ of a mining project, or ‘Social Licence
+to Operate’. In practice, this means facilitating extractives’ development with as little community
+input and dissent as possible, on the premise that companies will eventually start mining, and that
+local communities do not have a genuine right to stop them.
+3
+
+Environmental harms and human rights
+violations from mining
+Metal extraction and processing is associated with serious and significant
+environmental impacts, including toxic effects on humans and ecosystems.
+Mining is the industry which produces the largest amount of global waste. Just
+over a decade ago, Europe was considered the region with the second highest
+number of tailings dam incidents in the world, after Asia. In the EU, despite the The European Green Deal - continuing
+Nature Directives, mining continues to be allowed in Natura2000 areas, where
+consumption and mining
+81% of habitats and 63% of the species these laws were designed to protect
+currently have an ‘unfavourable’ conservation status. Without drastic changes,
+While much international attention has been given to the reduction of
+the overall environmental impacts of the extraction and processing of key
+carbon emissions linked to energy use, much less attention is going
+minerals are projected to at least double by 2060.
+towards reducing material consumption, including of metals and
+Mining is the deadliest industry for those who oppose it. More environmental minerals, as well as the overall consumption of energy itself.
+defenders are killed for opposing mining than opposing any other industry.
+At the end of 2019, the European Commission published its European
+50 of the 212 environmental defenders killed worldwide in 2019 were
+Green Deal, an action plan outlining the climate and environmental
+campaigning to stop mining projects. Mining for lithium, cobalt, manganese,
+policies and initiatives currently being rolled out. While a substantial
+platinum, aluminium and copper have been associated with high or very
+improvement to the policies under the former 2014-2019 Juncker
+high environmental and social risks. Globally this includes 167 human rights
+Commission, in their present form, these are an insufficient response
+abuse allegations, tied to 86 different mining operations, 35% of which are
+to the climate crisis, ecological degradation, human rights violations
+headquartered in Europe. The Global Environmental Justice Atlas further lists
+and social inequalities, and will lead to a continued increase in the
+323 socio-environmental conflicts related to the extraction of copper, lithium,
+demand for materials and a large number of damaging new mining
+rare earth elements and silver. These studies are just the tip of the iceberg -
+projects – both inside and outside the EU.
+in reality, human rights violations are likely much much higher. Researchers
+do not have the capacity to map the overwhelming complexity of negative
+The European Green Deal is presented as a “new growth strategy”
+impacts, nor do communities impacted by mining, or potential mining, always
+for the EU. This means it rests on the damaging and illogical idea that
+have the capacity to elevate their struggles.
+we can create economic growth, while (over)consuming in similar
+patterns, and be ‘green’ at the same time. In other words, simply
+replacing an industrial civilization built upon fossil fuels with a green
+version of the same model, relying on decoupling and efficiency, rather
+than fundamental transformations. There is a lack of critical analysis
+and action on EU overconsumption, as well as the EU’s globally unjust
+production and distribution relations.
+4
+
+Key recommendations
+First and foremost, the EU must set targets to reduce absolute resource consumption. In
+particular, a binding material footprint reduction target of 65% (to five tonnes per capita) by
+2050 is needed, with mid-term targets and plans. The EU must implement post-growth, truly
+circular policies. This includes shrinking sectors of economic activity that are ecologically
+destructive and offer little or no social benefit - such as the military, aerospace, fast fashion,
+and private cars - and maintaining or growing those that satisfy the basic needs and wellbeing
+of all - such as renovation of buildings, renewable energies, reusable packaging, low-impact
+recreational activities, and agro-ecological food networks.
+Communities must be granted a genuine Right to Say No to mining projects. Natura 2000 and
+other protected areas should be strictly protected as ‘no go areas’ for extractive industries.
+In the long-term, societies must move towards resource democracy, in which resources are
+treated as common, public goods that are best left in the ground, or their management decided
+within a truly democratic structure, rather than considered as financial commodities to be
+exploited for profit.
+Corporations must respect human rights and the environment in all operations, and be held to
+account for harms caused, including through mandatory EU due diligence legislation and just
+trade and investment rules.
+We also need a cultural shift to build better societies. The philosophy of continuous growth
+and expansion has become entrenched in Western societies, but study after study shows that
+above a threshold that the vast majority of Europeans have already reached, material wealth
+does not lead to a corresponding increase in happiness, wellbeing or health. Societal values
+should be firmly rooted in a deep commitment to a fair sharing of resources for people and
+planet, and to the fundamental belief that humans are of intrinsically equal value..
+5
+
+Introduction
+Rapidly rising global consumption rates in the past This conspicuous ‘luxury’ consumption by the rich As a response to ongoing, large-scale ecological
+century, resulting from a significant increase in average concentrates economic activity and power, while breakdown and climate change, we are seeing a new
+per capita consumption combined with considerable delivering negligible extra wellbeing.7 It is heavily approach in mainstream Western society to future
+growth in the size of the human population, have driven dependent on resources extracted from poorer human development. This approach, to some extent,
+the extensive extraction of material resources. At the countries and regions. The ‘wealth’ gained by the rich recognises the impacts of industrial activity and
+turn of the 21st century, the world consumed ten times has been based on practices that rely on labour and unsustainable systems of production and consumption,
+as much as 100 years earlier.1 The global population natural resource expropriation. Yet it is communities but still believes that progress measured in monetary
+doubled between 1970 and 2017, yet the extraction of in many poorer countries, who consume the least, terms, represented by gross domestic product
+materials (including fossil fuels for energy) tripled, from that suffer most from both the localised impacts of (GDP), can be sufficiently decoupled from resource
+27.1 billion tonnes to 92.1 billion tonnes per year - an extraction, and the larger-scale impacts resulting from consumption and environmental harms. Indeed, the
+increase from 7.4 tonnes to 12.2 tonnes per capita.2 The overconsumption and ecological destruction, such as European Green Deal and the Digital Transition broadly
+magnitude is such that by 2020, human-made materials extreme weather events caused by climate change. reflect this belief, with the preferred methods of solving
+outweighed all living biomass on earth.3 the crises being a reliance on energy and resource
+efficiency, incentives for industry innovations, digital
+This rapid increase in consumption has generated
+exponential environmental and social impacts. 75%
+of the terrestrial environment and 40% of the marine
+environment are already severely altered, combined
+Figure 1: Higher-
+with an alarming and rapid loss of biodiversity, with
+income countries
+close to one million species facing extinction.4
+consume 13 times
+more materials
+At the same time, consumption and its impacts are
+than low-income
+not equally distributed. The 1.2 billion poorest people
+countries. (Note: The
+account for just 1% of the world’s consumption, while
+methodology used
+the one billion richest account for 72%.5 High-income
+here differs slightly
+countries, which include most EU member states, are
+from the Eurostat
+responsible for a material consumption that is 13 times
+material footprint
+greater than that of low-income countries, and 1.6
+methodology, which
+times greater than upper-middle income countries (see
+will be described in
+Figure 1).6 Within countries and populations, there are
+Chapter 1).8
+also large disparities in material consumption, with the
+richest responsible for a greater share.
+6
+
+and low-carbon technologies, and switching from fossil and industrialisation,9 and never questions the current
+fuel vehicles to electric ones. While many of these growth-based economic system as one that is based
+“A global narrative of
+measures are necessary steps in the transition, they on the continuous extraction of resources, also
+are on the one hand not being introduced with the known as extractivism*. Nor does it fully recognise the planetary crisis that is
+required level of ambition and on the other, need to be responsibility of the Global North, including the EU.
+ignorant of power inequalities
+complemented by measures addressing the core issue
+of overconsumption. The EU is responsible for massive overconsumption, and of reproductive forces
+which has also been one of the world’s main drivers of
+This mainstream approach fails to apply a deeper historical emissions. Its material footprint is approx- cannot produce real change.”
+analysis of how we arrived at this point in the first
+imately double a sustainable and just level. Without
+place. It ignores how human lives are affected by Stefania Barca, environmental historian
+fundamental policy changes - beyond mere reform - this
+increased economic growth, rampant consumption
+trend will continue.
+Figure 2: Uses of metals and metallic minerals. Adapted from 12 Arguments for Raw Material Transition
+*There are many definitions of extractivism, one being the high-intensity and export-oriented extraction of resources rooted in
+colonialism and the notion that humans are separate from, and superior to, the rest of the living world.
+7
+
+All the materials we extract, process, manufacture, Chapter 1 will touch on the state of global and EU
+distribute, use, consume and discard have direct material consumption*, including for particular
+and indirect impacts on the environment and human metals and minerals. Chapter 2 will go into depth
+wellbeing. Materials can be divided into four main on the impacts of metal and mineral mining and the
+categories: biomass, fossil fuels, metals and non- environmental and social harms caused by mining
+metallic minerals. In this report, we zoom in on metals companies. Chapter 3 will discuss mining for the
+and (metallic) minerals (see Figure 2), in particular green and digital transitions. Chapter 4 will outline the
+those used for the twin green and digital transitions. EU policy framework in relevant areas including the
+Although these metals and minerals do not make up European Green Deal, Circular Economy Action Plan, the
+the biggest share of overall material consumption, they Raw Materials Strategy and Due Diligence legislation.
+demonstrate that in the transition towards climate Finally, Chapter 5 will provide an insight into a
+neutrality and increased digitalisation, the opportunity comprehensive EU policy and other recommendations.
+must be taken to ensure the root causes of the climate
+and environmental crises are addressed.
+Despite the EU’s commitment to becoming the first
+continent in the world to reach ‘net-zero’ greenhouse
+gas emissions by 2050, achieving these targets
+currently encompasses massive increases in the
+extraction of certain minerals both in Europe and the
+Global South.10 This could undermine efforts to prevent
+biodiversity loss and stay within the 1.5°C target, as
+well as recreating global injustices that continue to put
+further ecological pressures on those least responsible
+for climate change. As the 2010 People’s Agreement of
+Cochabamba notes, “[rich countries] must adapt their
+modes of life and consumption in the face of this global
+emergency.”11
+This report seeks to bring these issues to the table, and
+begin the conversation that is a matter of responsibility
+and ecological common sense for the decrease of
+Europe’s material consumption to be an integral part of
+EU attempts to reach climate neutrality and a good life
+for all within the limits of the planet.
+*While recognising the role that the growth in human population can play in relation to resource extraction and
+environmental problems, it is the factors influencing average per capita consumption which are the focus of this report.
+8
+
+Chapter 1
+Global and EU consumption -
+beyond sustainable and just limits
+The EU’s large material footprint
+European economies were built, in large part, through
+the colonisation of the Global South, channelling natural
+resources towards Europe.12 This continues today,
+though without formal links of dependency. In 2018,
+Global average material
+the EU material footprint amounted to 14.5 tonnes per footprint per capita
+capita, with imports from outside the EU making up
+almost 20%.13 Around two-thirds of EU material use is for
+Sustainable and just level estimates
+material goods and services, and one-third for energy
+purposes.14 *
+EU material consumption had been rising for decades,
+but dropped in the aftermath of the 2008 economic
+crisis, and ever since has remained relatively stable,
+rising slightly in the past few years (see Figure 3).
+However, the relatively stable consumption in the past
+decade or so is in spite of the increasing political and
+industry rhetoric and ‘action’ on ‘greening the economy’
+Figure 3: The EU material footprint (tonnes per capita), after growing for decades, has recently been
+and implementing ‘circular economy’ policies.15 relatively stable, but is still well above sustainable and just levels and the global average. Adapted from
+Eurostat, ‘Material flow accounts’.
+Importantly, despite its recent relative stabilisation, a
+material footprint of 14.5 tonnes per capita remains
+just consumption. Best available research says this is Development Report).17 Thus, the EU’s material footprint
+well above the global average of 12.1 tonnes per capita
+between five tonnes per capita (Wuppertal Institute)16 is approximately double a sustainable and just level.
+and far above what is deemed to be sustainable and
+and ten tonnes per capita (the UN in its Human
+*It is of note that this 14.5 tonnes per capita for the EU differs from the UN estimates for high-income and upper-middle-income countries in the Introduction, of 26.3 and 16.9 tonnes per capita
+respectively, as the methodology used is different (see box 1 on Measuring material consumption).
+9
+
+Box 1 Measuring material consumption
+Material consumption can be measured in different footprint. For the EU, using the Eurostat methodology
+ways. Currently, the most comprehensive and produces the most robust and accurate results.
+practicable method is the material footprint, or The global figures outlined in the first section of this
+The EU’s large material footprint
+raw material consumption (RMC), indicator. This Chapter use the UN International Resources Panel
+measures the total mass of raw materials – biomass, methodology. However, Eurostat’s is more detailed - why does it matter?
+fossil fuels, metals and non-metallic minerals – and robust, analysing 51 raw material categories
+that are extracted along entire supply chains in (including, for example, crops, nuts, non-ferrous
+Material consumption is directly correlated with local
+order to produce the final products or services metal, zinc, slate, and natural gas) and 182 product
+and global environmental harms, human health impacts
+consumed in a country or region. It ensures that groups (including, for example, poultry, fruits, plastic
+and conflicts. Resource extraction and processing
+extraction, and its environmental and social impacts, products, textiles, electrical equipment, iron ores,
+outside of a certain country or region are taken gold, education services, air transport services, account for more than 90% of global biodiversity loss
+into consideration. Because the RMC indicator is musical instruments, ships and boats, and processed and water stress impacts, and for approximately half of
+weight-based, however, it can lead to a simplification nuclear fuel).21 There is an ongoing process between global climate change emissions.23 Natural resources
+of complexities, as different materials have vastly Eurostat, the UN International Resources Panel and are a shared inheritance, and unequal exchange is, in
+different impacts, depending on their makeup, how the OECD to harmonise their existing methodologies effect, dispossessing the people of extracting countries
+they are produced, etc. Nonetheless, the material for calculating the material footprint.
+(see Chapter 2).
+footprint indicator is still proven to be a good proxy of
+overall environmental damage caused.18 Eurostat methodology is still not perfect. For The EU’s Joint Research Centre shows that the
+example, it does not allow you to trace back the EU’s
+environmental impacts of the consumption of an
+Domestic material consumption (DMC), on the other material footprint to the countries where the original
+average EU citizen are outside the ‘safe operating space’
+hand, although often used as an indicator, does not extraction took place, or to examine the complexities
+capture the total sum of material extraction globally of supply chains. Another issue, of relevance to this for humanity † for nearly 40% of the impact categories
+for goods consumed in one country or region. For report, is that for metals, the weight of metal ores investigated. This includes impacts from resource use,
+traded raw materials and products (outside of the extracted is counted rather than the total materials climate change, eutrophication (freshwater), human
+country or region), DMC only accounts for their extracted to get the ore, including waste rock, toxicity (cancer) and particulate matter. Impacts are
+traded weight, which often represents a fraction mine tailings or overburden, due to complexities in higher compared to average global impacts per capita
+of the weight of raw materials that were originally calculating this. The amount of waste rock in open
+for almost all categories.
+extracted for their manufacturing. For example, the pit mines is already commonly two to three times the
+‘footprint’ of a smartphone (containing many metals amount of ore produced, and as mining advances to
+For impacts from resource use, the EU
+extracted outside of Europe) using DMC would only lower quality and deeper deposits (as global studies
+uses between 70% and 97% of the safe
+include the weight of the small amount of metal in the signal) and ore grades decline,22* the increasing
+final product, whereas the material footprint, or RMC, ‘material footprint’ of metal is not fully visible in this operating space available for the whole
+would account for the equivalent weight of the full indicator.
+world, thus leaving less than 30%, at best,
+metal ores extracted. The material footprint, or RMC,
+of countries or regions that are net importers of total Finally, to get a full picture of resource use quantities for the rest of the world.24
+materials is thus generally larger than their DMC.19 and impacts, land, water and carbon footprints
+The EU’s DMC was 13.4 tonnes per capita in 2020.20 should be also measured and addressed in parallel The EU’s large consumption and material footprint is
+to material footprint. It is, however, beyond the scope thus responsible for a disproportionate part of the
+Several methodologies exist to calculate the material of this report to look into them in detail. depletion of common global natural resources, and
+causes extensive environmental and social harms.
+* For example, a century or so ago the average copper grade was 1.6%, whereas now it is 0.4-0.5%. On average, to get 1 tonne of copper, 200 tonnes of rock have to be dug up.
+† A safe operating space means the capacity of the planet to provide life-support systems for humanity is not endangered and the adaptive capacities of human societies not overburdened.
+10
+
+Global and EU metal and EU metal import
+Box 2 The myth of
+decoupling and the mineral demand dependency
+limitations of resource
+The sections above look at overall material The EU has a considerable import dependency,
+efficiency demand, i.e. for biomass, fossil fuels, metals with 46% of metals coming from imports.33 For
+and non-metallic minerals. We now zoom in several of these metals, in particular those
+specifically on metals and (metallic) minerals. used in energy technologies such as solar
+The decoupling of economic growth from resource
+Between 1970 and 2017, global metals photovoltaics, wind turbines and batteries, the
+consumption and its impacts is frequently proposed as
+extraction more than tripled, reaching 1.2 EU is fully reliant on imports, often coming from
+an act of faith for ‘sustainable development’. Decoupling
+tonnes per capita in 2017.29 In the same year, less than a handful of countries.34 For example,
+means the growth rate of an environmental pressure is
+the EU’s metal footprint was 1.5 tonnes per 100% of battery grade lithium and rare earth
+less than that of its economic driving force (e.g. GDP)
+over a given period – so that if GDP continues to rise, capita,30 25% higher than the global average. elements are imported, with 78% of the former
+resource consumption and environmental impacts coming from Chile and 99% of the latter from
+fall or do not rise at the same rate. However, evidence The EU makes up only 6% of the China35.
+increasingly suggests that decoupling at a scale that world’s population, yet consumes
+would enable us to live within our ecological means Reliance on metal imports is partly attributed
+25-30% of metals produced
+is highly unlikely and ultimately unrealistic.25 GDP is to a lack of deposits of some metals within the
+strongly correlated with resource consumption and its globally.31 EU,36 combined with the colonial legacy and
+impacts - as GDP grows, the global economy churns
+practice of rich nations’ outsourcing material-
+through more energy, resources and waste each year - Metal demand may comprise the smallest
+and energy-intensive and polluting stages of
+and this looks likely to remain the case. share of global and EU total material footprint
+production to the Global South and emerging
+(weight-based), but metal extraction and
+The European Environment Agency acknowledged this economies.37 Not that this necessarily means
+processing are associated with significant
+in early 2021.26 The EU has claimed to have achieved the EU should mine more within its borders
+environmental impacts, including toxic
+relative decoupling (i.e. increased the use of natural (see Chapter 4 on recommendations).
+effects on humans and ecosystems. The
+resources at a slower rate than economic growth),
+but based on DMC being used to measure material environmental impacts per kg of high-impact
+consumption rather than RMC. When material footprint, metal production, for example, are two to
+or RMC, is used, no decoupling has been seen.27 three orders of magnitude higher than those
+per kg of concrete production.32 Furthermore,
+Resource efficiency is also often heralded as a solution
+as noted above, the EU metal footprint
+to reduce environmental impacts. Making products
+only measures metal ore, yet total material
+and services more efficient is, of course, both positive
+extracted (including waste rock) is significantly
+and necessary, but it must be done in parallel with
+higher, particularly in open-pit mines.
+action to reduce absolute consumption, to avoid the
+‘rebound effect’, or Jevons Paradox, i.e. where absolute
+consumption increases when efficiency gains are made,
+because of increased demand.28
+11
+
+Projections for global and EU billion tonnes in 2017 to 167 billion tonnes in 2060 - or
+an increase of 44% per capita, from 11.9 tonnes to 16.4
+material consumption in 2060
+tonnes per year (see Figure 4).39
+Box 3
+Looking first at projected overall material demand The differences between the two figures are mainly due
+Reducing material
+following historical trends, current patterns of to the predicted growth of non-metallic minerals and
+production and consumption, and excluding biomass being lower for OECD predictions. The studies consumption - daunting
+consequences of potential policy changes, the UN use modelling based on annual average GDP growth of
+and unrealistic, or
+International Resources Panel (UN-IRP) projected that 3.4% and 2.8% respectively*.
+global material use will more than double between 2015 exciting and achievable?
+Like historical trends, this predicted growth in
+and 2060. This would mean an increase from 88 billion
+consumption up to 2060, at 44% and 55% per capita
+tonnes in 2015 to 190 billion tonnes in 2060 - that’s an The philosophy of continuous growth and expansion
+respectively, is much faster than predicted population
+increase of 55% per capita, from 11.9 tonnes to 18.5 has become entrenched in Western societies, but study
+tonnes per year.38 The OECD projects an almost doubling growth, at 28% (higher than the 2015 population) in the after study shows that material wealth does not lead to
+of global material use, meaning an increase from 89 UN-IRP model and 36% (higher than the 2017 population) a corresponding increase in happiness, well-being or
+in the OECD model. health40. Research on mental health emphasises our
+longing, and basic need, for connection and fulfilment,41
+as opposed to consuming unnecessary goods.42
+The responsibility is on governments, not individual
+change, to drive the transition away from the neoliberal
+growth-based economic system and put policies in
+place that meet the needs of all people and the planet,
+not of corporations and profit.
+The German Environment Agency, for example, has
+published research demonstrating different future
+sustainability scenarios. In their “GreenSupreme”
+scenario they show how a reduction to a material
+Sustainable and just level estimates footprint of 4.1 tonnes per capita by 2050 is possible.43
+They argue this can be done through a combination
+of measures targeting energy efficiency, recycling,
+material substitution, the use of innovative materials,
+and sustainable lifestyles.
+Figure 4: Growth in global material use to 2060 unless action is taken. Meaning more extraction than ever before and well above sustainable and
+just levels. Adapted from OECD (2019), ‘Global Material Resources Outlook to 2060’.
+*Note: these, and other official ‘global data’ sets, use growth-oriented quantitative framings which miss crucial on the ground realities - see Annex for more information
+12
+
+Projections for global and EU
+While material use is projected to grow in
+metal consumption
+all countries, predicted growth is strongest in
+emerging and developing economies, in particular
+Metals are used throughout the economy, and their increase is therefore
+China, India and Southeast Asia. There are no
+driven by economic growth and consumption in general, and by sectoral
+specific predictions for the EU as a whole, but the OECD
+changes in economic activity. Globally, the OECD predicts that metals
+study projects 2060 material use to be approximately 27
+will grow the fastest, with a per capita increase of 63%, from 1.2 tonnes
+tonnes per capita for the ‘OECD EU 17* and 18 tonnes per
+per capita in 2017 to almost two tonnes per capita by 2060. In the UN-IRP
+capita for the ‘OECD EU 4’†.
+‘sustainability scenario’, there is a significantly slower growth.
+It is notable that the OECD and UN-IRP predictions use the
+Again, there are no specific predictions for the EU as a whole in the reports,
+Domestic Material Consumption (DMC) indicator. For high
+though the OECD report does suggest EU metal demand is likely to grow at a
+importing regions like the EU, figures using material footprint
+slower rate, with non-metallic minerals growing faster.
+(RMC) would certainly be higher. Considering that the current
+EU material footprint is 14.5 tonnes per capita, and the
+sustainable and just limit is likely somewhere between five Predicted values Predicted growth
+and ten tonnes per capita, under these scenarios (i.e. without (tonnes per capita) from 2017 levels
+transformative changes), the EU is heading for colossal
+overconsumption with catastrophic environmental and 2017 2030 2060 2030 2060
+social impacts.
+The UN-IRP study also conducted a ‘sustainability scenario’ Total extraction 11.9 13.0 16.4 10.0% 38.0%
+based on resource efficiency policies and an emissions
+reduction pathway consistent with 1.5°C. This results in a
+material use increase per capita 25% lower than the above Biomass 2.9 3.0 3.6 4.2% 23.7%
+predictions, to 14 tonnes per year instead of 18.5 tonnes.
+However, this is still above a sustainable and just limit (five Almost no
+Fossil fuels 2.0 2.0 2.4 17.6%
+to ten tonnes per capita). This scenario also predicts highly increase
+unequal consumption, with high-income countries (i.e. most
+EU countries) consuming an average of 13.6 tonnes per Metals 1.2 1.4 2.0 17.6% 63.0%
+capita per year compared to just 8.2 tonnes for low-income
+countries. Clearly, policies and transformations need to go
+beyond those modelled and suggested. Non-metallic minerals 5.9 6.6 8.4 12.3% 42.7%
+*Austria, Belgium, Czech Republic, Denmark, Estonia, Finland,
+Figure 5: Predicted growth in extraction of
+Greece, Hungary, Ireland, Luxembourg, Netherlands, Poland,
+specific material groups to 2060 unless action
+Portugal, Slovak Republic, Slovenia, Spain, Sweden
+is taken. Extraction of metals will grow the fastest.
+† France, Germany, Italy (study also included UK in this
+Numbers taken from OECD (2019), ‘Global Material
+grouping)
+Resources Outlook to 2060’.
+13
+
+The green transition and metal Raw Materials (i.e. those deemed by the EU to be of vehicles, based on current supply of these metals
+economic importance whilst having supply risks),48§ across all EU economic sectors. Thus, growth would
+and mineral demand
+an EU study49 shows that under the ‘high demand’ be even higher when economy-wide demand is taken
+scenario,¶ solar and wind technologies will increase EU into account (for example, lithium used in portable
+Despite low to no carbon emissions in the use phase,
+demand for these metals by up to 600% in 2030 and up electronics, e-bikes, data centres and base stations).
+the (necessary) shift to wind and solar technologies,
+to 1500% in 2050. Similarly, batteries for electric vehicles The predictions also do not include the significant
+electricity systems, and batteries for electric vehicles
+and renewables will drive 2030 demand for lithium up by quantities of other metals like copper and steel needed
+and energy storage, is a material-intensive shift, which
+1800% and cobalt by 500%, and drive 2050 demand up for secondary infrastructures, such as power lines
+requires a more complicated set of materials (see Figure
+by almost 6000% and 1500%, respectively. and transformers/converters. Furthermore, mining
+6). In addition to significant quantities of non-metallic
+machinery, the mining itself, metals processing and
+minerals such as concrete and graphite, and other It should be noted that these predictions are based on
+transportation are all dependent on fossil fuels. This
+materials like plastic and glass, solar PV technologies increases in lithium, dysprosium, cobalt, neodymium
+is another blind spot, and challenge to unraveling the
+use aluminium, copper, silver, cadmium, gallium, and nickel for solar and wind technologies and electric
+reality of the green transition.
+germanium, indium, selenium, silicon metal and tellurium.
+Wind turbines use steel (including iron ore, carbon, nickel,
+molybdenum, titanium, manganese, vanadium, cobalt),
+rare earth elements, aluminium, borates and zinc. While
+batteries use cobalt, lithium, aluminium, lead, manganese
+and nickel.44
+It is estimated that electric vehicles use four times
+as much copper as fossil fuel cars.45 A recent study
+by the International Energy Agency stated that by the
+2040s, the size of the global market for green transition
+minerals like lithium and copper will approach that for
+coal today. We are already seeing this trend: for example,
+half of all copper ever mined globally was extracted in a
+span of 23 years between 1985 and 2008. Predictions
+under continued economic growth show that by 2030,
+this increase will double again,46* and if copper mining
+continues to increase, the economically extractable ores
+might be depleted within a century.47†
+Figure 6: Energy and transport technologies like wind, solar and electric cars are material-intensive
+Zooming in on several more of these metals - lithium,
+and have more complicated material requirements (displayed in materials kg/MW). Source: International
+dysprosium, cobalt, and neodymium‡ - listed as Critical
+Energy Agency (2021). The Role of Critical Materials in Clean Energy Transitions.
+* Projected world consumption between 2009 and 2030 (21 years) is predicted to exceed all the copper metal ever mined historically prior to 2009.
+† i.e. there will still be copper in the ground, but in very low concentrations at great depth or in vulnerable spots, costing greater amounts of energy and causing too much damage to nature to extract.
+‡ Also includes the non-metallic mineral natural graphite which is on the CRMs list but is not a metal.
+§ The list formed by the European Commission, and updated every three years, currently contains 30 metals and minerals.
+¶ Models almost complete decarbonisation by 2050 and stronger decarbonisation in 2030 in line with the 55% target in the European Green Deal. Baseline is the EU share of this global supply i.e. 22%.
+14
+
+Digitalisation and metal and all the silver mined around the world goes into electronic For most critical raw materials and those key to
+products.56 Collectively, smartphones have consumed the energy transition, however, recycling is low, and
+mineral demand
+107,000 tonnes of copper, 38,000 tonnes of cobalt, secondary materials contribute only marginally to overall
+157,000 tonnes of aluminium and thousands of tonnes demand, often around 1% or less. Primary extraction is
+On average, Europeans own around 20kg worth of
+of other materials, as well as using around 10% of global cheaper than recycling for these materials, and their
+electrical and electronic products, with 8.9 million
+primary palladium and cobalt production during the first availability at end-of-life is limited, since many have only
+tonnes put on the market every year: phones, light bulbs,
+10 years (2007-2017) of production.57 recently seen their use increase. The contribution of
+washing machines, electric bikes, smart technologies,
+recycled battery metals, for example, is quite variable,
+kettles, and the list goes on.50 (For context, the average The electricity used by information and communication
+ranging from a relatively well established and efficient
+laptop weighs 2.5kg, smartphone 200g, and washing technologies (ICT) makes up about 10% of global
+recycling chain for cobalt (22%) to nearly non-existent for
+machine 70kg). electricity usage,58 which could potentially rise to 30-
+lithium (>1%).61 A recent report has stated that recycling
+50% by 2030. Even though products tend to be getting
+for many of these metals has the potential to reduce
+Europeans own five times as many digital lighter, smaller, smarter, more multi-functional, and
+primary demand compared to total demand (based on
+devices as people in the Global South, and overall more energy efficient, they are also becoming
+2040 ‘business-as-usual’ projections) by approximately
+more than double the global average.51 more complex in their composition in terms of materials, 25% for lithium, 35% for cobalt and nickel, and 55% for
+which increases the difficulties for recycling and creates
+copper.62
+With increasing consumer advertisements and the further issues in terms of waste management.
+creation of false needs, new products enter the market However, metal recycling is not a silver bullet. Its long-
+In addition, it is important to consider the negative
+all the time, continuously driving up resource demand, at term potential remains relatively meagre due to natural
+effects of increased digitalisation, including a further
+an ever faster pace. material laws and dissipation, economic feasibility,
+proliferation of mass consumption patterns, thanks to
+technology availability, and fast growing demand. It
+The ‘digitalisation’ or ‘digital transformation’ of society is easy access, targeted marketing and convenient online
+is also important to note that although secondary
+claimed to be necessary for the modern development of purchases, resulting in ever greater pressure on energy
+production is more labour intensive and provides
+societies even within mainstream sustainability debates, and resources, as well as impacts on mental health.
+more jobs, the environmental impacts from secondary
+and especially in policy-making.52 Techno-optimism
+production are not negligible. For example, secondary
+argues that the digital age promises a more connected, Metals recycling - important, but
+production of zinc has relatively high impacts on energy
+dematerialised world where ‘sustainability’ can coincide
+demand, and the terrestrial ecotoxicity impact of
+not a silver bullet
+with technological advancements.53 The rapidly growing
+secondary iron production is almost five times higher
+digital sector, however, is another key driver of metal
+than that of primary iron production.63
+The EU is seen as a world leader when it comes to
+demand. Finished products, along with the digital
+recovering metals from scrap, from both industrial
+infrastructures needed to connect these devices, will Thus, recycling has a role to play in helping to slow
+production processes and post-consumer waste. The
+continue to put a strain on the environment as millions down the increasing demand for mined metals, yet its
+end-of-life metals recovery rates are extremely high
+of tonnes of resources will need to be extracted for their contribution will not be enough to ensure consumption
+in the construction industry, with over 95% of metals
+exponential use. is within sustainable and just limits. Overall demand
+recovered. Over 90% of metals in scrapped vehicles
+reduction, meaning less mining, must be the priority. This
+For example, the average smartphone contains around are recovered in Europe, when the appropriate facilities
+means a rejection of the continued growth paradigm
+62 different types of metals, including rare earth are used.59 Domestic recycling, meanwhile, accounted
+that has led, and continues to lead, to devastating
+elements, copper, lithium and cobalt,54 and conflict for 23% of metals processed in the EU in 2017 (excluding
+effects in the Global South as well as in Europe.
+minerals such as tin, tantalum, tungsten, gold.55 25% of extractive waste).60
+15
+
+Chapter 2
+Harmful impacts of metals mining:
+to people and the planet
+Extracting resources, exploiting economies
+Box 4
+The mining sector is known to provide infrastructure This dependence on extraction prevents
+Europe owes ecological debts
+and employment benefits, but regional and local-level the development of other less harmful
+wellbeing indicators point to its many downsides, industries. It also pushes extraction
+including social and environmental harms. This is deeper into rural communities and
+Europe, historically and currently, owes massive ecological debts
+particularly the case in the countries most exploited Indigenous territories, where communities
+to the countries and regions it has colonised and (continues to)
+by extractivism and colonialism, offenses that Europe are often marginalised by that state’s legal exploit for resources. This exploitation is largely maintained by
+has long been responsible for.64 While the Western systems due to residual colonial laws a system built on ecologically unequal exchange, where every
+‘development’ narrative promises jobs and increased and definitions of land and ownership. year, the Global North appropriates tens of billions of tonnes of
+wellbeing, it has facilitated the perpetuation of colonial As a result, the pressures of resource raw materials and hundreds of billions of hours of human labour
+structures, allowing the settler state and industry extraction, particularly mining, continue to without proper compensation.66 Environmental costs - both
+ecological harms and pollution - have been largely displaced from
+to continue guarding or managing the resources of have a disproportionate effect on those
+the Global North to the Global South.
+the local and national economies through trade and marginalised communities.
+economic policy. It is no surprise that ex-colonial powers For example, the World Bank calculated that Sub-Saharan Africa
+Some examples of how these injustices
+like the UK and settler colonial states like Australia and loses a total 3% of Gross National Income - around $100 billion
+manifest themselves today are in
+Canada dominate the mining sector. - annually due to the economic gains from natural resources
+trade policy, via Investor State Dispute not being compensated for in the form of royalties, taxes,
+In many cases, the political independence of formerly Settlement (ISDS) mechanisms and raw infrastructure, foreign revenue, jobs and other local multipliers.67
+colonised states did not fully equate to economic material import tariffs. For example, import This loss is even higher than the illicit financial flows, which are in
+independence. For countries with an abundance of tariffs from EU and OECD countries on raw the $50-80 billion range.68
+natural resources, that economic dependence forced materials are very low compared to export
+On a global level, recent estimates demonstrate that through
+many into a resource curse’, further enabling systems taxes by resource-rich producers. World
+ecologically unequal exchange, the Global North drains Global
+of oppression and poverty. Many of these countries Trade Organisation (WTO) obligations
+South commodities amounting to €1.8 trillion per year. To give
+have seen few of the wellbeing benefits, instead facing restrict the ability for these countries to some perspective, this amount of money would be enough to end
+particularly high levels of poverty, civil war, corruption, raise import tariffs, yet export taxes are extreme poverty, globally, fifteen times over.69 As a result of this
+human rights violations, low life expectancy and poor not subject to the same WTO obligations unequal exchange, future generations in countries of the Global
+health care.65 for exporting countries. South are also cheated out of their natural resource inheritance.70
+16
+
+The ‘sustainability’ myth of
+mining
+Box 5 Investor State Industrial mining companies and their
+subsidiaries or contractors are granted an
+Dispute Settlement
+enormous amount of power in the global
+(ISDS) in the Mining economic system, with their corporate interests
+dominating political discourse, resulting in action
+Sector
+that favours the profits of mining corporations
+over the interests of people and planet.
+ISDS mechanisms within International
+Investment Agreements allow companies to Despite the ‘sustainability’ rhetoric often
+take legal action against states that might expressed by mining companies, and supported
+support their communities’ decision to by many governments and international
+‘say no’. This gives multinationals the same organisations, none of the largest mining
+rights as sovereign states while placing
+companies around the world score high enough
+no obligations on them to behave more
+to meet societal and environmental standards.
+responsibly. ISDS also places additional
+The Responsible Mining Index in 2020 found
+economic pressures onto resource rich
+that the performances of even the best-scoring
+countries, especially those in the Global
+South already tied to historically exploitative companies fall considerably short of societal
+debt. In 38 ISDS mining industry claims expectations in all areas, including community
+assessed across Latin America, over half wellbeing, working conditions and environmental
+were associated with fighting to protect responsibility, and that many companies show
+Indigenous peoples’ territories and water.71 little sign of translating corporate commitments
+As of June 2020, there were 42 publicly
+and standards into successful business
+known pending ISDS mining claims from
+practices.76
+mining multinationals around the world,
+totaling at least USD$45.4 billion.72 Some
+It should be noted that this assessment consists
+examples of states being sued by mining
+of large mining multinationals, with only two EU
+companies (and fined) for taking the side
+mines by EU companies assessed. This is to
+of local communities include Ecuador
+be expected, given the relatively small amount
+(USD$480 million, Chinese company,
+gold), Mexico (USD$3.54 billion, Canadian of metal and mineral mining currently in the EU,
+company, gold),73 Peru (USD $36 million, despite its high consumption. However, given
+Canadian company, silver),74 Pakistan the rapid increase of exploration and mining
+(USD$5.8 billion, Australian company, in Europe, it is of concern that none of these
+copper), and even Sweden (USD$1.8 billion, companies meet societal and environmental
+Australian company, uranium, vanadium and
+standards. Other industry attempts at
+gold).75
+‘sustainability’, such as biodiversity offsetting
+and land reclamation efforts, have also endured Silver miners pushing the cart into the mines of Cerro Rico,
+considerable criticism in Europe and abroad.77 Potosi, Bolivia. (Reisegraf, Adobe Stock)
+17
+
+Specific environmental and conservation status, according to the European
+Environment Agency.80
+social impacts of mining
+The social impacts of mining cannot be understated.
+It is estimated that greenhouse gas emissions Mining is the deadliest industry for those who oppose
+associated with primary metal and mineral it. More environmental defenders are killed for
+production accounted for approximately 10% of total opposing mining than opposing any other industry
+global energy-related emissions in 2018.*78 If historical with 50 of the 212 environmental defenders killed
+trends and current patterns of production and worldwide in 2019 campaigning to stop mining
+consumption are followed - without transformative projects.81
+policy changes - the overall environmental impacts
+Differences in impacts are also tied to differences
+of extraction and processing of key minerals are
+in the scale of mining operations, such as between
+projected to at least double between 2017 and 2060,
+industrial, or large scale, mining and artisanal scale
+as a result of both the increased scale of extraction
+mining (where individual miners work independently
+and production and of declining ore grades79.
+or in small collectives). It is estimated that artisanal
+The environmental consequences of extracting, and small-scale mining is responsible for about 15-
+processing and using different material resources 20% of global mineral extraction and production,82
+vary widely across material groups and the stage of and that approximately 100 million people (including
+the material life cycle. For example, steel production workers and their families) depend on artisanal
+from iron is energy-intensive and causes the mining. This compares to about seven million people
+largest climate change impacts due to its current worldwide who depend on industrial mining.83
+heavy reliance on coking coal, while the mining and
+Women only represent 5% of workers in industrial
+processing of copper and precious metals cause
+mining, yet make up around 30% of workers in
+high toxicity impacts.
+artisanal mining and are more exposed to mining-
+The OECD investigated environmental impacts related environmental and health risks.84 Workers
+(acidification, climate change, cumulative energy and nearby communities of artisanal mining often
+demand, eutrophication, human toxicity, land use, face intimidation, sexual violence or exploitation, child
+photochemical oxidation, and aquatic and terrestrial labour, human trafficking, or are forced into poverty
+ecotoxicity) for seven key metals: iron, aluminium, or economic hardships.85 These may be apparent
+copper, zinc, lead, nickel and manganese. The results in the context of large-scale industrial mining, yet
+suggested that copper and nickel cause the greatest large-scale industrial mining also creates more long-
+per-kg environmental impacts, while iron has the term and indirect negative impacts86, being a major
+highest absolute environmental impact due to the contributor to global greenhouse gas emissions,
+large volumes used. regional conflicts, and political corruption87.
+In the EU, despite the Nature Directives, mining
+continues to be allowed in Natura2000 areas, where
+Top:Members of the Mexican Network Middle: A dam failure released around Bottom: The tailings dam accident in
+81% of habitats and 63% of the species these laws
+of People Affected by Mining (REMA) 12 million m3 of tailings in the city of Hungary in 2010 spilled nearly 1 million
+were designed to protect still have an ‘unfavourable’
+visit the Los Filos Gold Mine. (Cristian Brumadinho, Minas Gerais, Brazil. m3 into the townships of Kolontar and
+Leyva, EnvJustice Atlas). (Christyam, Adobe Stock). Debencser. (Globovisión, Flickr).
+*This excludes emissions associated with mineral
+aggregates, energy carriers, transport and manufacturing.
+18
+
+Environmental impacts: Social and human rights impacts:
+- Forced displacement of Indigenous and local communities due to the failure
+- Destruction of habitats leading to local
+to provide accurate information and the disregarding of communities’ rights
+biodiversity loss or altering of composition.
+to say no and to Free Prior and Informed Consent (FPIC), resulting in the loss of
+livelihoods and culture.
+- Soil contamination, erosion, alteration of water
+regimes, and gas or particulate emissions.
+- Use of violence against communities opposing mining, as well as intimidation,
+criminalisation, stigmatisation, extrajudicial killings and wrongful imprisonment.
+- Animal and plant species suffering disturbance,
+poisoning and burns from the toxicity of heavy
+- Poor or illegal labour conditions such as forced labour, child labour, human
+metals, leading to alteration of the species.
+trafficking, sexual exploitation, unsanitary conditions and general safety violations
+leading to injury, illnesses, disability or death.
+- Downstream heavy metals pollution, and long
+term effects such as poor waste rock disposal
+- Downstream impacts on local communities including increased risks of flooding or
+leading to acid mine drainage, contamination of
+drought, poor air quality, and deterioration and contamination of groundwater.
+groundwater, wetlands, coral reefs, and other
+aquatic systems. - Long term loss of livelihoods from downstream impacts on food and irrigation
+systems.
+- Improper mine closure leading to breeding
+grounds for parasites and land collapse. - Poor mining project governance and accountability leading to a lack of
+transparency over, and accountability for, violations, plus a lack of civic
+- Specific impacts related to deep sea mining - see
+participation in remediation, heightened risk of conflicts or violence, heightened
+section below.
+risk of retaliation from companies or government, and improper mine closure
+leading to unsafe use of the land.
+Figure 7: Local environmental, social and human rights harms caused by metals
+mining88 Note: policy-making and market research do not take the complexity of these
+impacts into account, thus the list of impacts can be seen as greatly underestimated -
+see Annex for more information
+19
+
+Toxic waste from mining claimed 482 lives, damaged 2100km of
+Box 6 waterways and caused significant damage
+Mining is the industry that produces the to local environments.104 Some of the many
+Environmental Impact
+largest amount of waste, globally.96 Mining devastating failures include Brumadinho
+Assessments waste can come in the form of waste rock (2019) and Mariana (2015) in Brazil, Mount
+(overburden) and waste from processing Polley (2014) in Canada, Talvivaara (2012) in
+Environmental Impact Assessments (EIAs) are crucial mechanisms
+(tailings), which can contain toxic substances. Finland, and Kolontár in Hungary (2010). Just
+to assess possible environmental harms, and hold mining and
+Mining operators will often store the waste over a decade ago, Europe was considered
+infrastructure projects accountable. EIAs can comprise different
+in heaps or in large ponds contained by a the region with the second highest number of
+phases, including screening, scoping, assessment, information/
+consultation, decision and monitoring. The EU 2014 EIA Directive dam.97 If these dams burst, they can cause tailings dam incidents in the world.105
+amendments sought to improve the quality and the content of EIA severe ecological damage and pose threats
+reports and ensure that “competent authorities will also need to to surrounding communities. Even when idle, Mining the deep seas?
+prove their objectivity to avoid conflicts of interest.”89 While these the toxic contents can threaten surrounding
+amendments were crucial steps in the right direction, structural bodies of water and local wildlife.98 The age of hyper-extraction is pushing
+issues with EIAs continue to prevail:
+the extractive frontiers ever deeper into
+The increase in mineral and metal extraction previously unimaginable areas. Metals
+• Community participation. Discontent with mining projects
+begins by excluding local populations from the design and coincides with an increase in mining waste. such as nickel, cobalt, manganese, rare-
+planning stages. Incomplete or non-participatory EIAs Furthermore, as a result of declining ore rates earth elements and copper can be found
+aggravate this issue. State, company or private consultancy since the 1980s, there has been a doubling of in the deep sea.106 However, the deep sea
+firms conducting EIAs have triggered serious concerns,90 the volume of mine waste tailings generated also contains fragile and life-sustaining
+for frequently underestimating the range of environmental for each unit of mineral produced.99 The ecosystems, home to around ten million
+harms in assessments, failing to calculate seasonal changes production of one tonne of copper, for species and biodiversity as rich as tropical
+(and corresponding consequences) and neglecting socio- example, generates around 110 tonnes of rainforests107.
+ecological variables. EIAs are also accused of devaluing tailings and 200 tonnes of topsoil removal
+landscapes and articulating a type of ‘corporate science’91
+or overburden.100 Declining ore grades also Like with terrestrial mining, mining of the
+suitable for project development.
+have an inverse exponential relationship with seabed would generate tremendous
+• Conflicts of interest. Many national authorities accept and water consumption.101 In the EU, mineral waste amounts of waste, in the form of clouds of
+approve EIA reports with incorrect data or manipulative is already the second biggest waste stream, suspended particles, or plumes. These toxic
+conclusions, often under political pressure to secure making up around 25-30% of all generated plumes would disperse and introduce heavy
+investments.92 Governments have a stake in economic waste102, a figure that will only increase if metals into the food chain, compromising the
+growth, material extraction and infrastructure development mining activities surge. health of many organisms.108 Though there
+and thus frequently declare mines and infrastructure projects
+are, as yet, no operational deep sea mining
+as “national interests”93 or “declared public utilities”.94 Or, in The increase in tailings has also led to an projects in the world, a global exploration
+the case of the EU, bluntly assert that “access to resources increase in accidents. Over the past century, frenzy is underway across 1.3 million km2 of
+is a strategic security question”. 95
+the failure rate for tailings dams was more the Pacific, Indian and Atlantic Oceans, often
+• Enforceability. The lack of effective mechanisms, or than 100 times higher than that of reservoir led by European companies and supported
+authorities, capable and willing to monitor and enforce and power dams.103 In the past ten years, by certain EU Member States. European
+high-ecological standards and restoration practices is a 71 reported cases of tailings failures have contractors hold a total of nine out of the
+recurring concern. Conflicts of interest are also a challenge been documented around the world, which 30 exploration contracts licensed by the
+to enforceability. have collectively spilled over 100 billion litres, International Seabed Authority.109
+20
+
+Chapter 3
+Mining for the green
+and digital transitions
+Greenwashing of mining for Metals like copper, iron and aluminium are used
+overwhelmingly in construction and other sectors.
+metals used in the green
+For those more closely tied to the green transition, like
+transition cobalt, lithium and rare earth elements, the pathway
+of more ‘green’ mining is driving assumptions that are
+unjust and unsustainable. Assumptions which reflect
+Large mining companies and governments are
+the inequalities and ideology of growth which led to
+promoting the concept of ‘green mining’. By using
+the ecological crises in the first place, such as the
+the fact that some metals and minerals are
+ambition of having one billion, mostly private, electric
+needed for the green transition, they are effectively
+vehicles on the road by 2050.112
+greenwashing the metal mining industry. When
+Portugal held the rotating position of the presidency
+Many of these metals are also used significantly
+of the Council of the EU in the first half of 2021, the
+in the military sector. Global military operations
+presidency even held an European Conference on
+continue to be deeply tied to mining sites and
+Green Mining.110 However, this concept conflates
+resource extraction. Nation-states around the world
+the demand for more mining with action on
+are spending almost $5 billion a day on war - a deadly
+climate change and social progress (see Figure
+diversion of funds from the health of people and
+8), while dismissing those who raise concerns
+the planet113. Mining companies tend to conceal or
+over continuous extractivism as foolish. When
+downplay the role their minerals play in the military
+communities fight for their right to decide their
+sector and arms trade.
+futures, they are labelled as having a not-in-my-
+backyard (‘NIMBY’) attitude. Portuguese Secretary
+of State for Energy, João Galamba even went so far
+as to allege that “those who are against mines are
+Figure 8: Images sourced from Digging for Climate
+against life.”111
+Change showing the greenwashing by mining
+companies
+21
+
+Impacts of mining for metals Poor environmental and human This makes Europe responsible for over
+one-third of global human rights allegations
+used in the green and digital rights protections
+in mining for ‘green and digital transition’
+transitions
+As noted in Chapter 1, the EU imports 46% of its metals, metals.
+and up to 100% of many of the metals necessary for
+The following section focuses on the social and green transition and digitalisation technologies and Furthermore, 100% of the allegations associated with
+environmental impacts of mining for metals, including infrastructure, such as lithium, borate, magnesium and European mining multinationals concern companies
+critical raw materials (CRMs), that are used significantly rare earth elements. Countries that have been exploited that have existing human rights policies as part of their
+in technologies and infrastructure related to the green and forced into resource extraction dependence - codes of conducts,117 and nearly 80% already claim
+and digital transitions. This does not include the severity and their local communities, in particular Indigenous to adhere to internationally recognised human rights-
+or scale of impacts at other stages of the supply chain, Peoples - are disproportionately bearing the brunt of related standards and frameworks within the mining
+such as manufacturing, transportation, installation, use environmental harms from both large scale mining and industry (e.g. VPI*, ICMM †, OECD Guidelines, UNGP‡,
+and end-of-life recycling/disposal. artisanal mining. UNGC §, and RMI ¶ ). Only one of the companies claims
+to adhere to The Initiative for Responsible Mining
+This specific focus provides an alarming glimpse into
+Mining for metals related to the green and digital Assurance (IRMA), the leading standard on good
+the likely countless serious harms occurring across
+transitions has already seen poor environmental mining practices.118
+numerous industries and their multiple complex supply
+and human rights safeguarding. For example, the six
+chains.
+metals referred to in Chapter 1 as being essential for
+wind, solar and battery technologies (namely, lithium,
+The mining of metals for the green and digital
+cobalt, manganese, platinum, aluminium and copper)
+transitions, and the companies and policies
+have already been associated with high or very high
+involved, is not any ‘cleaner’ than other kinds environmental or social risks.115 The Business and
+of mining, nor does it respect human rights Human Rights Resource Centre has also uncovered 167
+more.114 official global human rights allegations associated with
+these metals,116 tied to 86 different mining operations
+- 35% of these are from companies headquartered in
+Europe.
+*The Voluntary Principles Initiative (VPI) on Security and Human Rights “guide companies in conducting a comprehensive human rights risk assessment
+in their engagement with public and private security providers, to ensure human rights are respected.”
+† The International Council on Mining and Metals (ICMM) is an international organisation dedicated to a safe, fair and sustainable mining and
+metals industry.
+‡ UN Guiding Principles (UNGP) on business and human rights are a set of guidelines for States and companies that “provide an authoritative
+global standard for preventing and addressing the risk of adverse human rights impacts linked to business activity.”
+§ UN Global Compact Principles (UNGC) on human rights are a set of guidelines recommending business to; Principle 1: support and
+respect the protection of international proclaimed human rights; and Principle 2: make sure that they are not complicit in human rights
+abuses.
+¶ Responsible Minerals Initiative (RMI) “provides tools and resources to help companies make sourcing decisions that improve
+regulatory compliance and support responsible sourcing globally”
+22
+
+These findings not only confirm that companies’ Socially engineering the
+Box 7
+having human rights policies does not necessarily
+Due diligence in the lead to them respecting these policies, but also acceptance of mining
+that adhering to internationally recognised
+mining sector
+Current ‘good corporate practice’ calls for communities’
+standards or voluntary measures is not enough
+‘social acceptance’, or gaining a ‘Social Licence to
+to prevent human rights abuses, including by
+Due diligence can be a key mechanism to ensure European metal mining multinationals. Operate’ of a project that affects them, their resources
+businesses respect human rights and the or lands. In practice, this means facilitating development
+environment in all their processes, providing that The significance of this is amplified by Europe’s with as little community input and dissent as possible,
+it is accompanied with strong measures to hold supposed global role as a leader in ‘sustainable on the premise that companies will eventually start
+companies accountable for any harms caused.119 production and consumption’ - clearly, European mining, and that local communities do not have a
+Due diligence is generally operationalised via
+companies are not a ‘top of the class’ reference genuine right to stop them. When community feedback
+Environmental, Social and Corporate Governance
+for due diligence when it comes to mining for key or objections do not comply with prevailing pro-mining
+(ESG) standards, which provide guidelines and
+green transition and digitalisation metals. The agendas, citizens’ objections are frequently labelled
+recommendations on how companies conduct
+European Commission itself indicates that “only and dismissed as originating from a not-in-my-
+their business operations and how these
+operations influence environmental and social one in three businesses in the EU are currently backyard (‘NIMBY’) attitude. This discourse reinforces
+systems. These are often most important when undertaking due diligence on human rights and an already unacceptable power asymmetry between
+assessing human rights (labour rights, land rights, environmental impacts”.122 mining companies and local people, and creates pro-
+Free Prior and Informed Consent of Indigenous industrial bias in what should be neutral and objective
+Peoples, accountability, etc.) and environmental This poor due diligence may be exacerbated by the consultation processes.
+(environmental impact assessments, waste inability of industry to fully account for long-term
+management, GHG emissions, etc.) due diligence.120 environmental and social impacts, such as the In the case of Indigenous Peoples, Free, Prior and
+long-term health of a nearby community and its Informed Consent is a specific right that is articulated
+However, too often due diligence is simply a
+newborns or the influence of biodiversity changes in the UN Declaration on the Rights of Indigenous
+process-oriented tool, which risks becoming a
+on livelihoods. Added to this is the fact that there Peoples (UNDRIP) allowing communities to give or
+tick-box exercise if it is not combined with civil,
+administrative and criminal liability provisions for are already mechanisms protecting multinationals withhold consent to a project that impacts their
+harm caused by a company, strong enforcement and their subsidiaries from reporting accurately lands, territories or natural resources. However,
+and sanction mechanisms, and the right of on their relevant impacts (beyond the mere lack of as noted above, companies often conduct basic
+affected communities and other stakeholders legal enforcement). As noted above, these include consultations with communities in lieu of
+to go to court against human rights violators. ISDS mechanisms, which give multinationals the actually acquiring consent.
+Human Rights Watch states that most ESG
+political and economic insurance they need to
+standards, such as the UN Guiding Principles on
+disregard due diligence, along with the absence
+Business and Human Rights (UNGPs), “cannot
+of redress or grievance systems for victims of
+actually require companies to do anything at all.
+abuses.123 As one study notes, “supply chain
+Companies can reject the principles altogether
+without consequence—or publicly embrace disclosures do not provide information on the
+them while doing absolutely nothing to put them actual number of human rights abuses a company
+into practice.”121 In the case of FPIC, for example, has committed.”124 The overwhelming evidence,
+companies often conduct basic consultations with therefore, is that technologies for the green and
+communities in lieu of actually acquiring consent. digital transitions consist of dirty and harmful
+production processes.
+23
+
+What the communities say:
+Case studies from within and outside Europe on
+environmental and social impacts of metals mining
+for the green and digital transition.
+Countless mining-impacted communities have exploration licenses in these countries. Some startling
+documented their experiences relating to metals mining facts include that 27% of the Republic of Ireland, and
+and its plethora of harms. These provide evidence of the 25% of Northern Ireland, are covered by exploration
+overwhelming complexity of negative impacts, which permits.126 In Spain, meanwhile, there were more than
+are often invisible within data collection processes and 2000 mining applications filed in 2018 alone.127 In
+models, and therefore disregarded. Finland, approximately 11% of total land area has been
+reserved for mining exploration. Norway has 626 active
+The Global Environmental Justice Atlas lists 3,479 cases
+exploration permits, and Sweden has 586 exploration
+of socio-environmental conflict, as of July 2021. The
+permits, including in Sapmí, the homeland of the Samí
+mining of mineral ores and building materials represents
+Indigenous People.128
+670 of these cases, more than any other category.
+At least 323 conflicts are related to the extraction of In all the cases below, the companies involved have
+copper, lithium, rare earth elements and silver. It is Environmental, Social, and Corporate Governance (ESG)
+interesting to note that, for the second consecutive year, obligations, either through their own commitments or
+public acceptance is the number one business risk on indirectly through national obligations. As indicated
+Ernst and Young’s risk radar for mining and metals.125 in Box 7 on due diligence, corporate responsibility
+commitments via ESG standards do not suffice to
+The following case studies further exemplify the
+guarantee proper due diligence as these are ‘soft law’
+environmental and social harms within Europe, or
+instruments, meaning they are often not enforceable.
+caused by European mining companies, for mining
+These case studies further illustrate the failure of
+of key metals for the green and digital transitions. In
+voluntary or non-binding ESG standards to safeguard
+Europe, there are already growing conflicts in Spain,
+social and environmental systems.
+Portugal, Sweden and Ireland, in parallel with increasing
+24
+
+Locals gather to protest the Caceres mining project, 2018. (Plataforma Salvemos La Montaña de Cáceres) Aerial views of the Ruashi mine showing the proximity of the mine to thousands of Lubumbashi houses.
+During the explosions necessary to free the ore in the mining pit, the people living closest to the mine
+are evacuated. After several hours, they are allowed to return to their homes. (Google maps, 2016)
+Country Site A planned lithium mine in Cáceres, Spain, Country Site Eurasian Resources Group
+Spain continues to receive growing opposition from Democratic Republic of the Congo (ERG), formerly ENRC, a Kazakh
+the city council and 134 local and environmental multinational based in Luxembourg,
+organisations, including through a letter sent to the (DRC) has failed to engage with local
+Multinational / headquarters European Commission.129 The Australian company communities in the Kwango
+Infinity Lithium, Australia Infinity Lithium has explicitly stated resources will Multinational / headquarters province in the DRC on its cobalt
+go towards supplying the EU’s lithium-ion battery and copper concessions and has
+supply chain and electric vehicle industry.130 Eurasian Resources Group, failed to address severe threats
+Metal / Phase Friends of the Earth Europe has previously Luxembourg to human health due to its mining
+Lithium, Planning highlighted the negative effects of lithium mining activities, including the Ruashi
+on communities, ecosystems, and food production, mine.,134 Communities along the
+citing water pollution and depletion, the use of Metal / Phase Kipembe and Luita rivers have filed
+Main industry toxic chemicals for processing, and release Cobalt, Mining complaints about drinking water
+Electric Vehicles of these chemicals through leaching, spills or contamination and lack of access
+emissions.131 Opposition for the mine is based on to clean water due to the two rivers
+the grounds that the company has not received Main industry being polluted, which the company
+Environmental, Social, and Social License to Operate (SLO), which refers to Electronics, Electric Vehicles, Wind has been aware of but failed to
+“a local community’s acceptance or approval of a remediate. Through its subsidiary
+Corporate Governance
+project or a company’s ongoing presence, beyond Boss Mining, ERG has also been
+(ESG), or Corporate Social formal regulatory permitting processes”.132 Local Environmental, Social, and Corporate accused of forced evictions of
+Responsibility (CSR) communities have also requested for the Sierra Governance (ESG), or Corporate local communities, citing human
+commitments de la Mosca mountain range to be considered Social Responsibility (CSR) rights violations.135 Demand for
+UN Guiding Principles a protected landscape. Furthermore, the city commitments cobalt extraction is likely to surge
+council and mayor have stated that the mine will in sub-Saharan Africa, and poor
+on Business and Human likely contribute to long-term negative economic OECD Guidelines, Global Battery accountability mechanisms
+Rights, OECD Guidelines, impacts given that the city is a UNESCO heritage Alliance, UN Guiding Principles may be at the root of increased
+International Finance site. Despite this growing opposition, Infinity on Business and Human Rights, violations.136 Yet, ERG is committed
+Corporation Performance Lithium is still pursuing the project.133 Infinity International Finance Corporation to four internationally recognised
+Lithium is committed to three internationally ESG and CSR standards.
+Standards recognised ESG and CSR standards. Performance Standards
+25
+
+Pristine landscape at Lake Vättern, at risk from a proposed rare earth elements (REE) mine. (Carina Gustafsson)
+People, and reindeer, protest against the Nussir copper mine
+(Natur og Ungdom)
+Country Site Located in south-central Sweden by Lake
+Sweden Vättern, the development of the Norra Kärr
+mine has been disputed for over a decade. Country Site At the beginning of 2021, Nussir ASA obtained full
+Through its Canadian subsidiary Tasman Norway permits for a copper mine to begin construction
+Multinational / headquarters Metals, Leading Edge Materials claims that work on what has been deemed “one of the most
+the mine is one of the world's largest deposits environmentally damaging industrial projects in
+Leading Edge Materials,
+for rare earth elements (REE) and capable Multinational / headquarters Norwegian history”.140 The copper mine is located
+Canada
+of sustaining Europe’s demand for REE for Nussir ASA, Norway in the Repparfjord, one of Norway’s pristine
+more than 20 years. Opposition lawyers, north-coast Arctic fjords between the Barents
+organisations and nearby communities and Norwegian seas. Despite an alluring zero-
+Metal / Phase
+however assert that the mine would be unable Metal / Phase emissions mining plan, the project is expected to
+Rare earth elements
+to comply with environmental regulations due dump over two million tonnes of toxic mining waste
+Copper, Planning/mining
+(Dysprosium, Terbium, to the irreversible damage that it may cause and tailings into the Repparfjord per year for the
+Neodymium, Praseodymium), to local water systems, well beyond these 20 next 15 years - that’s 200 tonnes of toxic waste per
+Planning years.137 Experts claim that inevitable leakage Main industry hour - including chromium, nickel and copper.141,142
+of sulphuric acid, and other chemicals and The process is expected to severely contaminate
+Electric Vehicles, Wind, Solar
+toxic byproducts, from its waste ponds and regional ocean-floor biodiversity as well as
+PV, Electronics
+Main industry industrial area would not only severely harm spawning grounds for local salmon populations,
+the 500,000 people that depend on Lake for which the fjord is nationally recognized.
+Electric Vehicles, Wind, Solar PV
+Vättern’s freshwater supply but also harm Reppardfjord is also home to Norwegian and
+Environmental, Social, and
+‘Natura 2000’ areas, unique biodiversity Indigenous Sámi fisher and reindeer herding
+Environmental, Social, and zones protected by EU law.138 14 NGOs and Corporate Governance populations, with local residents concerned about
+local residents continue to oppose the plan, (ESG), or Corporate Social the negative impacts on fisheries, local food
+Corporate Governance (ESG), or
+and while environmental organisations Responsibility (CSR) systems, and the associated socio-environmental
+Corporate Social Responsibility have been able to put a temporary hold on costs. The Sámi parliament has continuously
+commitments
+(CSR) commitments its development, Leading Edge Materials’ opposed the project and is appealing the mining
+UN Guiding Principles
+UN Guiding Principles on exploration permit for the mine runs until license, stating that the Norwegian government’s
+August 2025 and remains valid according to on Business and Human approval of the project is a direct threat to
+Business and Human Rights,
+Swedish law.139 The company would also need Rights, OECD Guidelines, their livelihood and interests.143 The head of the
+OECD Guidelines, International
+an operational permit and an environmental company estimates that they will be ready to
+International Finance
+Finance Corporation permit before mining could start. Leading Edge produce copper by 2023. Nussir ASA is committed
+Corporation Performance
+Performance Standards Materials is committed to three internationally to three internationally recognised ESG and CSR
+recognised ESG and CSR standards. Standards standards.
+26
+
+Country Site Between 1984 and 1985, the Swedish mining
+Chile and smelting giant Boliden dumped 20,000
+tonnes of toxic smelter sludge in Chile, from
+its copper smelting plant in Rönnskär, Sweden.
+Multinational / The toxic waste was imported by Chilean
+company Promel, now bankrupt, with the aim of
+headquarters
+extracting arsenic, silver and gold ore from the
+Boliden AB,
+waste, but the contents were instead stored
+Sweden in a site in the arid Arica region in northern
+Chile.147 The importation occurred a few years
+before the Basel Convention came into force.
+Metal / Phase
+Over time neighbourhoods were built around
+Left: Workers at the Porco Mine, Bolivia (Christian Lombardi) Smelter Waste the site: the inhabitants were not aware of the
+site’s toxic contents, and around 12,000 locals
+suffered from high rates of cancer, infertility,
+Country Site Via its 100% owned subsidiary, Sociedad Main industry and chronic coughing. The impacts were
+Bolivia Minera Illapa S.A., Glencore has been N/A particularly damaging for children. In 1998, a
+accused of fatal accidents, underage significant amount of waste was transported
+workers and environmental destruction in by truck to a location slightly further from the
+Multinational / headquarters its Bolivian highland Porco mine.144 Local Environmental, inhabited areas, but the original site was still
+doctors claim that the mine is the cause Social, and contaminated. It was not until 2013 that the
+Glencore, Switzerland
+of an average of 20 deaths per year, with Corporate Chilean government relocated some of the
+fluctuations in commodity prices influencing residents away from the original site.148In that
+Governance
+Metal / Phase levels of production and therefore accidents. same year, over 700 Chileans filed a claim
+(ESG), or
+Residents of nearby villages also claim that against Boliden in a Swedish court, but by 2018,
+Zinc-lead-silver, Mining
+some villages are uninhabitable thanks to Corporate Social the Swedish court ruled in favour of Boliden.149
+contaminated rivers and poor crop yield Responsibility In 2019, the European Parliament Committee
+Main industry due to acid mine drainage. Zinc traces in (CSR) on Human Rights reported the Arica case as
+drinking water supplies are up to six times one of 13 cases where European companies
+Construction, electronics, Wind, Solar commitments
+higher than legally permitted levels in Bolivia acted irresponsibly in relation to communities
+PV and Switzerland, and above-legal traces International in the Global South.150 Following the court’s
+of other metals and minerals including iron Finance decision, lawyers are now pursuing the issue
+Environmental, Social, and Corporate and manganese have also been recorded.145 Corporation with the Swedish government, referring to
+Local cooperatives who work the mines when its responsibility under international law to
+Governance (ESG), or Corporate Social mechanical mining is no longer profitable still Performance remove Boliden’s toxic waste from Arica, though
+Responsibility (CSR) commitments sell most of their ore to Glencore’s subsidiary, Standards, the Swedish government shifts the blame
+Voluntary Principles Initiative, yet the company claims it cannot be held UN Guiding to Chile. The case has now been taken to the
+accountable to the miners since it has Principles on UN Human Rights Council. A May 2021 report
+International Council on Mining
+completed its operations.146 The human and by the UN Special Rapporteur on toxics and
+Business and
+and Metals, UN Global Compact,
+environmental violations associated with the human rights argues that the waste should be
+Human Rights,
+International Finance Corporation Porco mine are an example of the numerous returned to Sweden, or alternatively taken care
+Performance Standards, UN Guiding negative externalities associated with OECD Guidelines of in Chile, and that those affected should be
+improper mine closure and decommissioning. recompensed for the damages.151 Boliden AB is
+Principles on Business and Human
+Glencore is committed to six internationally committed to three internationally recognised
+Rights, OECD Guidelines
+recognised ESG and CSR standards. ESG and CSR standards.
+27
+
+Country Site Savannah Resources, based in London, is
+Portugal proposing the Mina do Barroso Lithium Project
+in the Barroso region of northern Portugal.
+The project is facing considerable community
+Multinational / resistance. The mine would be located about
+400m from the Covas do Barroso community
+headquarters
+in the municipality of Boticas, where
+Savannah
+agricultural and low-impact communities
+Resources, United collectively own and work the land. This region
+Kingdom is also one of only seven places in Europe
+recognised as having ‘globally important
+agricultural heritage’ by the UN.152 Despite
+Metal / Phase only being projected to provide about 5-6%
+Lithium, Planning of total EU lithium demand, the project has
+received strong support from the Portuguese
+state. Savannah Resources promotes its
+Main industry mining as ‘green’, as lithium is used for green
+Electronics, Electric transition technologies. Local communities
+largely oppose the project over fears about
+Vehicles, ICTs
+the impact the mining will have on their
+livelihoods, as well as on the ecotourism and
+Environmental, Social, gastronomy sectors of the region. The mayor
+of Boticas, along with the majority of the local
+and Corporate
+population, views the project as inherently
+Governance (ESG),
+unsustainable due to its use of water, pollution,
+or Corporate Social impact on the local environment and as a
+Responsibility (CSR) direct threat to their ways of life. In May 2021,
+a formal communication was submitted to the
+commitments
+Aarhus Convention Compliance Committee
+International
+over lack of transparency and claims of
+Finance Corporation deliberate denial of access to information.153
+Performance The project underwent an Environmental
+Standards, UN Impact Assessment in mid 2021. However,
+locals claim that the EIA contains weaknesses
+Guiding Principles
+and failings that could result in negative ruling
+on Business and
+by the Portuguese Environmental Agency. A
+Human Rights, OECD recent report estimates that the project would
+Guidelines generate 83,792 million tonnes of mine waste,
+including 14 million tonnes of mine tailing154.
+Savannah Resources is committed to three
+internationally recognised ESG and CSR
+standards.
+Local people protest the Barroso Lithium mine, Portugal, August 2021 (Unidos Em Defesa de Covas do Barroso
+and João Veloso)
+28
+
+Chapter 4
+EU Policy Framework - the European
+Green Deal and beyond
+At the end of 2019, the European Commission published agenda, with consumption predicted to keep increasing
+its European Green Deal, an action plan outlining climate (slower than in the past, but as shown in Chapter 1, EU
+and environmental policies and initiatives that are being consumption is already around double sustainable
+rolled out over the coming years. It is one of the central and just levels), this will lead to a dramatic increase in
+projects of the 2019-2024 European Commission. demand for, and mining of, certain metals and minerals.
+Although it represents a step forward in that The European Environment Agency recently stated that
+environmental issues are being given a high priority, an “absolute reduction of environmental pressures and
+unlike previously, it is still described as a “new growth impacts would require fundamental transformations
+strategy” for the EU, as the Commission puts it.155 This to a different type of economy and society — instead
+implies acceptance of the damaging and illogical idea of incremental efficiency gains within established
+that we can create economic growth, while (over) production and consumption systems.”156 Yet as the
+consuming in similar patterns, and be ‘green’ at the following pages outline, the main European Green Deal
+same time. In other words, simply replacing an industrial and other EU policies related to raw materials show that
+civilization built upon fossil fuels with a green version these ‘fundamental transformations’ are not happening.
+of the same model. There is a lack of critical analysis
+and action on EU overconsumption levels, as well as its
+globally unjust distribution and production relations.
+Metals and minerals have moved into the political
+spotlight because of their importance for the twin green
+and digital transitions – both key parts of the European
+Green Deal, and of geopolitical developments. However,
+because they are also based on the ‘green growth’
+29
+
+Circular Economy Action Plan
+Published in March 2020, the Circular Economy
+Energy The Energy Performance of Buildings Directive is not directly linked to the Circular Economy
+Action Plan is a package of 35 initiatives being
+Performance of Action Plan, as it has so far focused exclusively on energy use of buildings, neglecting other
+taken forward on how we produce, consume and
+Buildings Directive important environmental impacts and the use of materials and metals in the construction
+dispose of resources and products.
+sector. The Strategy for a Sustainable Built Environment will aim to ensure coherence and
+and Strategy for a
+circularity principles across policy areas such as climate, energy and resource efficiency,
+A circular economy should first and foremost Sustainable Built
+management of construction and demolition waste, accessibility, digitalisation and skills.
+have the overall aim of ensuring that resource Environment
+consumption remains within planetary limits.
+However, the EU’s action plan contains no such Sustainable Due at the end of 2021 or early 2022, the aim of the Sustainable Products Policy Initiative
+overarching goal. It does mention that the EU Products Policy is to promote a more sustainable use of resources through better product design,
+needs to “advance towards keeping its resource Initiative (which will durability and recycling, and to strengthen the rights of consumers. It will include a digital
+consumption within planetary boundaries” but product passport, and tackle planned obsolescence. The 2018 Ecodesign Directive has
+include a revision of the
+there are no details of how this will be achieved. requirements for more environmentally friendly product design for energy products.
+EU Ecodesign Directive)
+However, although it has started to deliver more systematically on material efficiency
+Most measures in the action plan relate to better
+through repair and recycling provisions, the potential to save more radically on resource
+product design, recycling and waste management.
+use through life time extension is yet to be unleashed.
+While these are all important, we know from
+previous initiatives in this area that they have Right to Repair: Legislative and non-legislative measures establishing a new ‘right to repair’ will be
+developed in 2021. The plan will specifically target electronics as a priority sector, including
+not led to sufficiently large reductions in material
+a ‘right to update obsolete software’. Further regulatory measures will improve durability
+footprint or overall environmental impacts from
+and ensure commonality of products such as chargers.158
+consumption. The European Environment Agency
+recently stated that the circular economy “may
+EU Batteries The December 2020 proposal for a regulation on batteries and waste batteries, to replace
+not deliver the transformation to sustainability if
+Regulation the 2006 Battery Directive from 2006, is likely to be adopted in 2022. The proposal includes
+circularity measures fuel a growth strategy that
+regulations for a second life for industrial batteries, collection, recycling and recovery
+leads to increased material consumption.”157
+targets for batteries and specific battery materials, a carbon footprint of industrial and
+mobility batteries, use of recycled materials, extended producer responsibility, design
+The material footprint, meanwhile, was only
+of portable batteries as well as due diligence along the supply chain. Overall, the draft
+mentioned as a potential indicator in the
+regulation is relatively ambitious in some places, and a general step in the right direction.
+monitoring framework - to be confirmed at the end
+However, it is still part of an overall battery growth agenda, and batteries for military and
+of 2021.
+aerospace applications are excluded from its scope.
+Key Circular Economy Action Plan initiatives
+Waste Shipment The update of this regulation will restrict exports of waste outside the EU and incentivise
+concerning raw materials:
+Regulation more recycling within EU borders.
+30
+
+EU Energy Efficiency Directive EU Raw Materials Initiative and Critical Raw
+Materials Action Plan
+The July 2021 EU Energy Efficiency Directive proposal159 enshrines the Energy In 2008, the EU Raw Materials Initiative (RMI) was adopted, with the overarching aim
+Efficiency First Principle, which means that before any other energy measure of “securing reliable and unhindered access to raw materials”.160 Its three pillars are:
+is put into place (e.g. new solar panels), energy savings should be prioritised • ‘Fair and sustainable’ supply of raw materials from global markets, with the
+to minimise overall consumption. It also proposes binding EU targets, of removal of ‘barriers to trade’ and ‘barriers to access’;
+reducing primary energy consumption by 36% and final energy consumption
+• Sustainable supply of raw materials within the EU, promoting raw material
+by 39% by 2030, compared to 2007 levels.
+extraction;
+However, it is unclear how it will be ensured that Member States will set • Resource efficiency and the supply of secondary raw materials through recycling.
+ambitious targets and enforce them. The EU target must also be more
+As part of the RMI, a list of Critical Raw Materials (CRMs) – those that are of high
+ambitious.
+importance to the EU economy and of high risk associated with their supply – was
+first developed in 2011, and has been updated every three years since. Currently, the
+list has 30 raw materials on it (up from 14 in 2011), including lithium, cobalt and rare
+EU Sustainable and Smart Mobility Strategy
+earth elements.
+The EU Mobility Strategy aims to shape common transport solutions to be In 2020, the list was published along with a Critical Raw Materials Action Plan, which
+“sustainable, smart, and resilient”162. The material intensity of the strategy, defines four targets and ten actions, including to:
+however, sheds doubt on these sustainability claims. Increasing mobility rates • Develop resilient supply chains for the EU’s industrial ecosystems by identifying
+overall are not questioned; instead, existing structures are to be replaced by sustainable financial criteria for mining and extractive industries through the EU
+new, ostensibly greener’ alternatives. For example, it includes the goal that by Taxonomy;
+2030 at least 30 million electric cars are to be driven on EU roads, but offers
+• Reduce import dependency through circular value addition, including mapping of
+no broader agenda of reducing private car use. Simply replacing fossil fuel
+the potential supply of secondary CRM from stocks and waste;
+cars with electric cars is not a solution: to put the strategy’s levels of material
+• Strengthen domestic extraction of CRMs by identifying mining and processing
+intensity into perspective, there is as much cobalt in a single electric vehicle
+projects and investment needs;
+battery as there is in 1000 iPhones.163
+• Diversify extraction in third countries and avoid distortion through international
+The strategy, furthermore, makes no distinction between battery-powered trade by developing strategic partnerships with resource-rich third countries
+buses and other mass transport systems, such as trams or trolley buses: including Canada, interested African and Latin American countries, and EU
+both are electric but trolley buses offer the advantage of providing a neighbouring countries. The European Commission announced Canada and
+cheaper alternative with a much lower environmental footprint and material Ukraine as the first strategic partnerships on raw materials in summer 2021.
+demand, as they do not require batteries. Some of the positive components
+of the strategy, on the other hand, include commitments to increase the It is striking that the action plan includes no actions geared towards drastically
+number of passengers travelling by rail, and to developing additional cycling limiting the increase in CRMs required, or designing for the reuse of components
+infrastructure over the next ten years. containing those CRMs. In response to its launch, more than 230 civil society
+organisations and academics sent a critical Open Letter to the Commission,
+highlighting the action plan’s omissions and recommending improvements.161
+31
+
+EU Taxonomy Regulation EU Extractive Waste Directive
+The European Commission is developing a classification system that will define a The Extractive Waste Directive aims to ensure that mining waste is
+uniform understanding of sustainability in economic activities. The Taxonomy is to properly managed, to avoid damaging the environment. Of relevance to
+include a list of economic activities and investments that contribute to a protected this report, are the provisions about the cleaning up of old mining sites
+environment and sustainable social developments. and the recovering of materials. Member States have identified the most
+problematic old mining sites and are supposed to rehabilitate them.
+However, so far the Taxonomy Regulation defines environmental targets in a very
+Unfortunately, though, this rehabilitation is not occurring, as governments
+vague manner. They are currently being fleshed out on the basis of technical criteria,
+prioritise new infrastructure over cleaning up environmentally damaging
+with the first part of the Taxonomy list (i.e. ‘Delegated Act’) published in April 2021. It
+sites. Regarding mine tailings, the directive has created higher
+was criticised extensively by European civil society, for example because the criteria
+management standards for tailings facilities, but still allows the use of the
+for forestry use for bioenergy are in clear contradiction to climate science. What’s
+least costly but most harmful mining waste disposal practices. Upstream
+more, major uncertainties remain over how gas will be considered under the Taxonomy,
+dams, for example, report the highest rates of stability risks,164 but are still
+despite clear calls from the technical expert group that fossil fuels should not qualify
+allowed under the directive.
+under a sustainable finance regime.
+The second part of the Taxonomy list is expected at the end of 2021. This will include a
+section on developing criteria for mining, though the contents are currently unknown.
+It is imperative that critical raw materials are considered comprehensively in terms
+EU mandatory human rights and
+of their impacts, and not simply judged ‘sustainable’ because of their potential role in
+supporting the green transition. environmental due diligence legislation
+The European Commission announced it would propose a new law in
+EU Environmental Impact Assessment Directive
+2021 that would implement binding due diligence rules for EU supply
+chains. It has been promised that it will cover the entire supply chain and
+all companies regardless of their size, and that Member States will have
+The EU Environmental Impact Assessment (EIA) Directive was updated in 2014. EIAs
+to ensure companies can be held civilly liable for the damage they cause.
+are crucial mechanisms for assessing ecological harms, and for holding mining and
+Both human rights and environmental due diligence obligations will be
+infrastructure projects accountable. The update sought to improve the “quality and the
+integrated. A consultation process in early 2021 saw over 500,000 people
+content of the reports”, and ensure that “competent authorities will also need to prove
+and more than 700 civil society groups from Europe respond.165 It is likely
+their objectivity to avoid conflicts of interest.” Ongoing issues with EIAs are explored in
+the proposal will be published in the second half of 2021, and enter into
+Box 6 in Chapter 2, but it should also be noted that carrying out EIAs for open-pit mining
+force in 2026. There are, additionally, due diligence requirements already
+where the surface of the site is less than 25 hectares, or for underground mining, is not
+proposed in the EU Batteries Regulation, covering cobalt, natural graphite,
+mandatory under EU law, but up to Member State discretion.
+lithium, and nickel.
+32
+
+EU Conflict Minerals Regulation EU trade policy and raw materials chapters
+The EU Conflict Minerals Regulation entered into force As detailed in Chapter 1, the EU is heavily dependent on imports of raw materials. EU trade policy
+at the beginning of 2021. It aims to limit opportunities for is characterised by large-scale imports of cheap and unprocessed raw materials and large-scale
+armed groups and security forces to trade in conflict exports of finished goods. This results in the lowest possible tariffs on raw materials imports, while
+minerals – namely, gold, tin, tantalum and tungsten (3TG) at the same time putting higher tariffs on processed products, to incentivise processing in the EU.
+- and includes human rights due diligence obligations for This approach restricts the sovereignty of states in the Global South and prevents the expansion of
+companies in the EU. processing in the raw material exporting countries, thereby perpetuating unjust divisions of labour
+that have roots in colonial history and which strengthen the extractivist development model. A case
+There is an annually updated list of Conflict and
+in point is the EU taking Indonesia to the World Trade Organisation dispute settlement body for
+High Risks Areas, a list of industry initiatives that are
+putting export restrictions in place on nickel and iron ore. Another is the Chile-EU trade dispute over
+considered compliant with the implementation of the
+Chile’s capacity to create lithium manufacturing plants.
+OECD Guiding Principles and a ‘white list’ of companies
+whose due diligence procedures have been audited. The The EU is pushing a trade and investment agenda that aims to liberalise global trade, with potential
+regulation’s scope is limited in many respects: only the partnership discussions being held with almost the entire world. The European Commission
+upstream sector (from mine to smelter) is covered, while published its proposal for a new trade strategy in February 2021. EU trade strategy identifies the
+the downstream sector (from mine to finished product or intention to include specific commodity chapters, including ‘Energy and Raw Materials Chapters’ in
+sale) is not, and it applies only to companies that exceed trade agreements, in order to continue to ensure (cheap) imports of raw materials into the EU.
+certain thresholds in their import quantities (e.g. for gold,
+Raw materials chapters can be found in, for example, the EU-MERCOSUR and EU-Mexico
+the threshold is 100 kg). Major technology companies are
+agreements. They are also to become part of the agreements currently being negotiated with Chile,
+not covered, and so far, less than 1000 companies fall
+Indonesia, Australia, New Zealand and Tunisia. The EU primarily seeks to ensure market access for
+within its scope.
+European investors, and prevent export duties and further processing in the country where the raw
+In a recent review of its implementation by Member materials are extracted. In some cases, sustainability requirements are also stipulated, but they
+States, a coalition of European NGOs working are formulated very vaguely and are not binding, nor even included in some agreements. The rights
+on responsible mineral sourcing highlighted the of Indigenous Peoples and the protection of the environment are neglected in trade agreements,
+shortcomings of the regulation and the general lack whilst investors are given the means to exert pressure against states through special legal
+of transparency that hinders effective and efficient mechanisms. European mining companies can sue states over the regulation of the mining sector
+monitoring of companies.166 and thus secure their profits. As noted in Chapter 2, this has often been used by mining companies
+in the past, with the effect of preventing state regulation of the mining industry because of the risk
+of being sued through Investor State Dispute Settlement (ISDS) mechanisms.
+33
+
+Chapter 5
+EU Policy Recommendations
+Summary of key recommendations
+Set targets and plans to reduce absolute resource consumption including a binding EU material
+footprint reduction target of 65% by 2050
+Resource democracy where resources are treated as common, public goods
+Post-growth policies to shrink sectors of economic activity that are ecologically destructive and offer
+little or no social benefit, and maintain or grow those that satisfy the basic needs and wellbeing of all
+A circular society including designing long-lasting infrastructure and products embodying ‘sufficiency
+and efficiency’ principles
+Holding industry to account including through mandatory EU due diligence legislation and granting
+communities a genuine Right to Say No to mining projects
+Stopping destructive environmental impacts including that Natura 2000 and other protected areas
+should be strictly protected as ‘no go areas’ for extractive industries
+€ Ending economic and resource exploitation including binding just trade and investment rules
+34
+
+EU policies, considered by many as ambitious, have thus far proven to be This means moving to a post-growth, wellbeing, circular society – shrinking
+insufficient in responding to the climate crisis, ecological degradation, human the ‘bad’ sectors and growing the ‘good’, and implementing true resource
+rights violations and social inequalities. As they are today, plans under the democracy, whereby resources are seen as common, public goods and
+European Green Deal and other EU policies, as presented in Chapter 4, will distributed evenly, including for the benefit of future generations.
+lead to a continued increase in the demand for materials and a large number
+The EU must recognise, protect and ensure the role of communities
+of damaging new mining projects – both inside and outside the EU. This can
+and Indigenous Peoples both in the EU and outside it, particularly with
+and must be avoided.
+respect to countries and regions it has colonised and (continues to) exploit
+At the root of this destruction is the continued dominance of the for resources. This means a true Right to Say No to mining, holding industry
+growth-based economic system – the inability to think of and implement to account for human rights and environmental harms through strong due
+economic policy outside of the growth paradigm, and the resulting constant diligence legislation, and an overhaul in trade and investment rules. There
+push for more production and consumption. As long as this system must be binding common standards for all mining operations, and ‘no go
+remains dominant, incremental tweaks alone will not create the major areas’ for mining brought in. These should start with Natura2000 areas in the
+transformations and shifts needed. Policies built around the false narrative EU and other recognised protected areas within and outside of Europe.
+of ‘green mining’ are an attempt at greenwashing which will do little to fix the
+A cultural shift to build better societies is also needed. The philosophy of
+root problems.
+continuous growth and expansion has become entrenched in Western
+Resistance to the current system is mounting – mining-affected communities societies, but study after study shows that above a threshold the vast
+and diverse organisations across Europe and globally oppose the continuous majority of Europeans have already reached, material wealth does not lead to
+expansion of the mining industry, and challenge the dominant narrative of a corresponding increase in happiness, wellbeing or health.168 Other studies
+unlimited growth and the policies which uphold it.167 have illustrated how more wellbeing and decent work can be created for
+more people by ending the growth addiction.169 Societal values should be
+In order to stay within a safe operating space for the planet, the EU has
+firmly rooted in a deep commitment to a fair share of consumption
+to set limits on its resource use – to actively downsize the production and
+of resources and to the fundamental belief that humans are of
+consumption. Resource reduction must be an immediate focus, not
+intrinsically equal value. Societal values that we believe are
+an afterthought that follows decarbonisation and greater efficiency.
+foundational are sufficiency, care and empathy, together
+Decarbonisation and dematerialisation are intrinsically linked, and actions to
+with equality, inclusiveness and autonomy.
+reduce consumption, to be more circular and to decarbonise must all happen
+in parallel.
+€
+35
+
+Set targets and plans to reduce absolute resource consumption
+Sustainable and just binding EU and national level targets must be set to The EU Consumption Footprint and EU Consumer Footprint indicators,
+achieve absolute resource reduction and reduction in associated impacts, which aim to quantify environmental impacts of consumption using Life
+including: Cycle Analysis tools, can provide guidance in setting sub-material and sub-
+sectoral targets, as they present a more detailed picture of the relationship
+• Material footprint reduction target: Climate policies are driven between consumption and environmental impacts. They can also provide
+by emissions reductions targets, yet circular economy policies still lack a baseline scenario on which the effects of specific policies can be tested.
+material reduction targets. The evidence (as outlined in Chapter 1) shows
+that the EU must reduce its material footprint* by 65% (to five tonnes The European Commission urgently needs to start this work on
+per capita) by 2050, from current (2018) consumption levels. Likely mid- setting material footprint reduction targets. The European Parliament
+term targets could therefore include 30% reduction by 2030 and 50% by has demanded that a target be set in three separate opinion reports in
+2040. 2021 alone.170 Meanwhile, Member States such as the Netherlands171 and
+Finland172 are already setting their own targets. It is not enough for the
+The material reduction targets should be broken down into specific targets EU material footprint to simply be monitored as part of the 2020 Circular
+for individual material groups, to facilitate better management of those Economy Action Plan monitoring framework: it must become the central
+materials for which a reduction in consumption is the most urgent. For point driving the circular economy and environmental policies. Beyond
+example, a higher reduction target could be implemented for material that, these must have material reduction at their core. The mid-term
+resources whose extraction and use exert the highest environmental assessment of the current Circular Economy Action Plan, due no
+pressure. This would ensure the target not only contributes to quantity later than 2022, is the opportunity for a proper debate on setting
+reduction, but also to impact reduction of resource use on the environment. such targets. This should include setting up a specific multi-stakeholder
+It is likely that the use of some materials, such as critical raw materials, working group.
+will increase in the short-term due to their necessity in green
+transition technologies, but even for these, it would be sensible to put • Energy consumption reduction: To achieve less mining-and-
+limits in place, as well as a trajectory towards eventual reduction and material-intensive infrastructures for energy production and consumption,
+stabilisation. absolute energy demand first needs to be reduced. The green transition will
+require an increase in the production of certain critical raw materials in the
+Building on the precedents set by energy and climate policy, material
+short-term, such as lithium, but to prevent the massive increases currently
+reduction targets could also be cascaded down in a more systematic
+predicted, overall energy demand needs to be reduced drastically.
+way, for example, according to societal needs (housing, nutrition, mobility,
+leisure etc.) or at microlevel, according to product groups and services. The The July 2021 EU Energy Efficiency Directive proposal173 enshrines the
+targets should be streamlined across all relevant EU policies, and Member Energy Efficiency First Principle, which means that before any other energy
+States should set relevant targets to meet their fair share, accounting for measure is put into place (e.g. new solar panels), energy savings should
+their starting levels. be prioritised to minimise overall consumption. It also proposes binding
+EU targets, of reducing primary energy consumption by 36% and final
+*Material footprint as measured by Eurostat includes fossil fuels, biomass, metals and non-
+metallic minerals.
+36
+
+energy consumption by 39% by 2030, compared to 2007 levels. These Redistribution of resources: Any approach towards resource reduction
+are positive steps forward. However, more concrete plans are needed must distribute the burden of reduction fairly, to address the undemocratic and
+about how the Energy Efficiency First Principle would apply in practice. unequal ways that products, infrastructure and services are produced and
+The targets also remain too low to keep rising global temperatures below accessed. All of the policy recommendations stated here would contribute
+1.5°C, or to slow down rapidly growing material demand for renewable towards this.
+energies and infrastructure. They need to be increased to a 45% final
+energy consumption reduction by 2030, and Member States must set EU leading international action on resource reduction: As initially
+their own targets equal to or above that, and enforce them. Neither ‘energy promised in March 2020, the European Commission should initiate discussions
+savings’ nor ‘energy intensity’ can be permitted to replace the requirement on an international agreement on the management of natural resources,
+to achieve an absolute energy consumption reduction. including defining a ‘safe operating space’ and a planetary resource
+budget.174 This should be added as a key goal to the already-established Global
+• Land and water footprints reduction targets: Resource Alliance on Circular Economy and Resource Efficiency, which the EU launched
+consumption goes beyond materials and energy. The EU’s total at the UN Environment Assembly in February 2021.175
+consumption (or ‘footprint’) of land and water must also be accounted
+for, to give a holistic picture of the EU’s consumption of all natural
+resources and to avoid one-dimensional solutions or problem shifting.
+Material footprint and energy consumption reduction targets must be
+Resource democracy
+accompanied by the measuring of land and water footprints, with the view
+to setting reduction targets for them in the future. This dashboard approach
+is similar to the one applied in the Roadmap to a Resource Efficient Europe
+or in the Resource Efficiency Scoreboard. It is vital for the EU to accurately
+Transformation is required not just in the quantities consumed, harms caused,
+measure its consumption of these critical resources on a global scale,
+and distribution of resources, but also in who is in control of natural resources
+in order to account for its responsibility for land and water consumption
+and related systems, like the energy system:
+pressures, as well as extraction and use impacts, that are caused outside
+its borders. • Resources as common, public goods: Rather than treating,
+regulating and making policy about minerals and metals as if they
+Reducing imports: The EU imports 20% of its materials (including for
+were simply sources of capital to be extracted, commodified and sold,
+energy) and 46% of all metal ores; this increases to over 80% for most metals
+they should be common, public goods. The management of natural
+necessary for the green transition and digital technologies. The proportion
+resources should be returned to regional and local and/or customary
+of materials and metal ores that Europe imports needs to be reduced, as we
+governance structures with people and cooperatives at their heart.
+cannot simply outsource the pollution and destruction that comes from
+our demand for them. However, this must happen in line with an absolute
+• Small-scale mining and energy production and distribution:
+reduction in all material consumption, as detailed above, to ensure
+EU legislation around raw material extraction generally focuses on large-
+that extraction does not greatly increase in the EU either, impacting
+scale mining. Resource extraction, and energy production and distribution,
+communities and nature.
+should move from the hands of big mining and energy monopolies to small-
+scale modern mining* that has communities and cooperatives at its core.
+*As opposed to current Artisanal Mining
+37
+
+• Resource democracy outside of the EU: EU legislation should favour • From ownership to usership: Sharing household items, tools, cars
+principles of autonomous and democratic resource extraction and energy and building space, ‘product as a service’ business models, and more, can
+systems abroad, as well. The EU should promote local or regional trade cut resource demand massively, make many products and services
+by favouring small and medium enterprises within foreign local markets. more accessible and affordable to all, and help build greater
+This would also imply a demilitarisation of regions where resource community connections. Legislation and policy initiatives to establish
+extraction is linked to a European military presence. neighborhood workshops, tool libraries or urban mining initiatives177 could
+offer opportunities for people to repair, borrow and lease items. The
+concept of usership can even be implemented in housing and the built
+environment, where the occupancy of housing is adjusted to the needs of
+people to optimise the use of space.178
+Post-growth policies in action
+• Embrace working time reduction: Reduced working time
+of employed people (without lowering salaries) and work sharing, if
+implemented under the right conditions and in a wider bundle of reforms,
+Resource use reduction requires a massive transformation in systems of
+has many potential advantages.179 It can reduce environmental pressures
+production and consumption – how much, and how, we produce and consume.
+by reducing material output through less production. Productivity gains
+A transformation away from the endless growth model. In practice, this means
+could be rechanneled into time for leisure, care work, democracy and
+implementing socially and ecologically just wellbeing and post-growth policies.
+community activities instead of profit accumulation.180 An analysis of
+These are about reducing the material and energy throughput of the
+29 high-income OECD countries, found that a 1% decrease in working
+economy, whilst distributing wealth more fairly and fostering a reciprocal
+hours can lower energy, environmental and carbon footprints by
+healthy relationship with the environment.
+around 1.2%.181 Another study linked a 1% decrease in working hours to a
+Post-growth policies and plans that prioritise resources going to socially and 0.7 to 1.5% decrease in greenhouse gas emissions.
+ecologically desirable ends must be developed at all levels. Inspiration can also
+be obtained from non-Western thinking, for example, from existing approaches • Truly sustainable mobility - reducing car dependency: The
+like Buen Vivir and Ecological Swaraj. Post-growth in action includes: plan to simply replace private fossil fuel-based cars with private electric
+cars, one for one - thereby driving up demand for, and mining of, certain
+• Shrinking the bad, growing the good: Shrinking sectors of metals - is not a viable solution to the climate and environmental crises.
+economic activity that are ecologically destructive and offer little or any Increasing mobility overall needs to be questioned - for example, in
+social benefit - such as the military sector,176 aerospace, fast fashion, the EU’s Smart and Sustainable Mobility Strategy, there are commitments
+single-use packaging, or a completely digitalised future. Maintaining or to increasing rail travel, but no mention of decreasing air travel in turn. Yet,
+growing sectors that satisfy the basic needs and wellbeing of all - such it can be shown that if five fossil-fuel cars were replaced by just one
+as renovation of buildings, renewable energies, reusable packaging, electric car, the EU would only need half as much lithium and cobalt as
+cycling infrastructure, participatory activities like community theatrical is currently projected.182 The EU, national governments and municipalities
+productions, low-impact recreational activities, and community gardening can create less private car dependency by, for example: increasing
+and agro-ecological food networks. public transport in cities (prioritising trolley buses and trams over battery
+38
+
+powered buses where applicable)183 and in rural areas (including reviving • Put renovation first: a mandatory commitment to renovate more
+old rail infrastructure); building safe cycling infrastructure; promoting than 34 million homes every year in the EU, focusing on one-step deep
+walking; improving car and ride-sharing; banning car use in city centres; renovations, in order to achieve a zero-energy building stock.
+and, greatly restricting (and in places banning) resource-intensive SUVs.
+• Expand the scope of carbon requirements to include embodied
+• Strictly regulating advertising: The advertising industry - both carbon emissions and other resource footprints, in particular
+online and offline - plays a massive role in creating artificial needs that the material footprint, for construction materials and buildings.
+continue to drive overconsumption, but do not lead to greater wellbeing. Notably, by taking the opportunity of the revision of the Construction
+In Europe, it has been shown that the higher a country’s advertisement Products Regulation.
+expenditure in a given year, the less satisfied its citizens were a year or two
+• Ensure binding circularity rules along the value chain, including
+later.184 Online advertisements are responsible for about a quarter of our
+requirements on the lifetime of buildings and products, their use, reuse,
+data consumption when we browse the internet;185 this leads to significant
+and recycling.188
+environmental impacts, and most people would be happier without them.
+Some efforts have been made to regulate the advertising industry, at various • Prioritise a circular approach in both buildings and urban planning
+levels. Paris, for example, has reduced outdoor advertisements and banned at the policy level, in order to leverage existing resources in the built
+them from the vicinity of schools, while numerous campaigns already exist environment. For instance, reusing empty buildings for social purposes
+in Europe and North America calling for a ban of fossil fuel advertising.186 could respond to the needs of society, reducing energy consumption
+New EU policies tackling advertising can be inspired by already existing and carbon emissions.
+ones, such as the Tobacco Advertising Directive. The regulation of car and
+many digital consumer device advertisements should be a key priority • A sustainable built environment: In addition to sustainable
+with respect to reducing consumption of metals for the green and digital buildings, all potential new infrastructure and urban plans should be
+transitions. Policies could also create ‘sanctuary spaces’, limit the size approached first with the mindset of ‘shrinking the bad, growing the good’,
+and average density of advertisements, and ban days that promote as detailed above. If new infrastructures, such as wind turbines, are deemed
+consumerism frenzies, like Black Friday.187 relevant, then renovating or repurposing should come first, if possible,
+followed by new designs that are energy and materially efficient,
+long-lasting, repairable or upgradable. They must also be recyclable
+at the end of life. Wind turbines, for example, could be made more circular
+Towards a circular society by banning the landfill or incineration of their blades. An EU Strategy for a
+Sustainable Built Environment is planned for 2021, and should enhance the
+coherence and mutual reinforcement of the various initiatives targeting
+the built environment.
+• Buildings that are based on ‘sufficiency and efficiency’
+principles: An overarching EU Sustainable Buildings Regulation • Make sustainable products the norm: The EU sustainable
+products policy initiative - revising the Ecodesign Directive and proposing
+should be developed, to make consistent the requirements in various
+additional legislative measures to make products more durable,
+existing instruments, such as the Energy Performance of Buildings
+reusable, repairable, recyclable, and energy-efficient - should implement
+Directive, the Energy Efficiency Directive and the Construction Product
+transformative changes to all products and services on the EU market,
+Regulation. It should:
+39
+
+including by: rather, it helps to manage the consequences. However, recycling still plays
+an important role. There is great potential for collection, recovering and
+• Broadening the scope of the Ecodesign Directive beyond energy
+recycling of metals in the EU through: a) urban mining i.e. processing of new
+products.
+domestic and industrial waste, for example, old electronics; b) recovering
+metals from mining waste; and, c) landfill mining i.e. recovering metals
+• Implementing binding horizontal requirements for all products,
+from current landfills for recycling. These must all be done to the highest
+including on the substitution of hazardous substances, restrictions
+environmental and labour standards. The mining of landfills and waste,
+on disposable or single-use applications and planned obsolescence,
+and the development of recycling centres, should only happen with fully
+minimum extended producer responsibility, a ban on the destruction
+informed community consent. There also need to be more ambitious
+of unsold goods, and extending the warranty for purchased goods to a
+metal collection and recycling targets, and the EU Batteries Regulation
+minimum expected technical lifespan of a product (which for household
+can be an important driver for increasing the recycling of certain metals. The
+appliances and mobile phones should be much longer than the current
+targets initially proposed by the European Commission can be increased,
+warranty period of two years).
+including to 95% for cobalt, nickel and copper in 2025 and 98% in 2030, and
+• Implementing binding vertical requirements for prioritised high to 70% in 2025 and 90% in 2030 for lithium.190 Binding recycled content
+impact product groups including electronics, batteries, and steel, targets must also be set, to create demand for secondary raw materials,
+on minimum performance in areas such as resource efficiency and and a ban on exporting all EU waste is also needed.
+toxicity.
+• Introducing product passports i.e. ‘no data, no market’, and
+Holding industry to account:
+ensuring transparency through the value chains of products on their
+environmental and social sustainability performance. respecting human rights and the
+• Ensuring mandatory sustainable procurement by both public and environment
+corporate procurers.
+• Give people the Right to Repair: Policy makers should enable
+businesses, citizens, civil society and other stakeholders to become The planned mandatory EU human rights and environmental due diligence
+active nodes in the digital transition. This means using legislation to give legislation must prioritise preventing human rights, climate and environmental
+them the right to repair the products they own, including legislation for harms in global supply chains and giving access to justice and remedy for
+repairable/disassemblable/modular design, removing proprietary victims and affected people. This includes no longer using the outdated notions
+barriers to reuse and refurbishing, and open access to spare parts of ‘social acceptance’ or ‘Social License to Operate’ of a mining project, and
+and repair information. Right to repair legislation should also be brought giving communities a real Right to Say No.
+into the EU Digital Services Act. The EU can take inspiration from the French
+The due diligence legislation must:191
+Repairability Index, which came into force in early 2021 and aims to achieve
+a 60% repair rate of electrical and electronic products within five years.189 • Be cross-sectoral and include full value chains: It must cover
+all businesses and financial investors, and oblige companies to respect
+• Increase metal and mineral recycling: Recycling is not a silver
+human rights and the environment across their global value chains and
+bullet with which to address the root of the problem of overconsumption,
+40
+
+in business relationships, including with suppliers, licensees, contractors, and should not be the kind of box-ticking exercise that so often violates
+clients, advisers and any other non-state or state entity linked to those cultural norms, provides inadequate information and serves as a marketing
+businesses’ operations. platform for the project.
+• Make companies liable for bad practices at home and • Be effective: Companies must face strong penalties, including criminal
+abroad: Companies must be liable for their failure to do due diligence. liability, if they break the rules.
+Separately, civil liability must be imposed for harms caused or contributed
+• Extend to the Batteries Regulation: The proposed Batteries
+to by EU companies and their subsidiaries, and in their global value chains.
+Regulation includes due diligence requirements covering cobalt, natural
+Companies shall not be able to escape liability by arguing that they
+graphite, lithium and nickel. This should be expanded to include copper, iron
+have respected due diligence obligations or through the introduction of
+and aluminium (bauxite), as well as including the above demands.
+other types of ‘safe harbours’.
+A Binding Treaty on Transnational Corporations and Human
+• Make it easy for all victims of corporate abuse to seek
+Rights: The EU should advocate for a meaningful Binding Treaty on
+justice in EU courts: Require companies to disclose any relevant
+Transnational Corporations and Human Rights at the UN, to create binding
+evidence within their control, particularly regarding their connection to
+and enforceable mechanisms that hold transnational corporations
+the harm and their due diligence process. Ensure victims have enough
+to account for corporate crimes and rights violations.194 These should
+time to bring civil claims for damages before EU courts, whereby
+translate into liability of companies for domestic or foreign harms committed,
+governments must provide (financial) support to victims to facilitate
+with enhanced cooperation to prosecute European companies and their value
+access to justice.
+chain stakeholders.
+• Not rely on grievance mechanisms: Grievance mechanisms
+A more comprehensive EU Conflict Minerals Regulation:
+should not be the focus of remedies in legislation on corporate
+Companies across the whole value chain should be included in the scope
+accountability. The focus should be on providing access to judicial remedy
+of the EU Conflict Minerals Regulation to ensure that EU imports of
+i.e. access to the courts for victims.
+manufactured goods (e.g. electronic devices, cars, machinery) are free
+• Ensure true consent and a real Right to Say No to mining: from conflict minerals, rather than the regulation being limited to just the
+Free, Prior and Informed Consent (FPIC) of Indigenous Peoples - as minerals themselves. There should, furthermore, be much lower thresholds
+enshrined in International Labour Organisation Convention 169192 and the to import volumes and full transparency of the list of companies affected by
+UN Declaration on the Rights of Indigenous Peoples - and the same principle the regulation. The list of conflict-affected and high-risk countries (CAHRA
+for all (potentially) affected communities, must be made mandatory prior to list) should be abolished, with the measures applying to all high-risk imports
+any new mining project or installation by a company.193 This includes the no matter where they are from, and all measures should be binding, with no
+right to be previously informed about the risks related to the activity reliance on voluntary industry schemes. These changes should be taken up in
+before the company installs itself, the right to be protected from any the next official review process, which the European Commission will conduct
+pressure or harassment and to be able to freely express concerns in 2023 (and every three years thereafter). 195
+and demands about a project or company, and the Right to Say No.
+FPIC decision-making processes should be independently governed by
+authorities that do not have vested interests in the concerned projects,
+41
+
+to a pass or fail one. This breakdown provides better transparency about
+Stopping destructive environmental impacts
+each activity and prevents companies from making overarching claims
+about their operations.
+• Remediation of old mining sites: There are thousands of former
+• Stopping unchecked biodiversity loss from mining: The
+mining sites in the EU, most of which have not been properly restored and
+Rights of Nature should be recognised. Natura 2000 and Ramsar sites,
+continue to contaminate and harm communities and their environment. The
+conservation areas, Indigenous and community conservation areas
+European Commission can facilitate the remediation of these old mining
+(ICCAs), as well as the deep seas and the Arctic, should be strictly protected
+sites by proceeding with the European Parliament’s 2017 Resolution199 to
+as ‘no go areas’ for extractive industries. The EU must institute these ‘no
+develop a European standardised mechanism and shared database
+go areas’, and define protection measures within policies and strategies
+to account for mining and metallurgical waste facilities in the EU, and
+such as the Biodiversity Strategy, and in its upcoming review of its Arctic
+to register the chemical composition (especially metal concentrations)
+Policy.
+in this public database. This would enable research institutions and
+companies to develop and implement better recovery technologies (i.e.
+• Strengthening the EU Environmental Impact Assessment
+tailings revalorisation), enable better involvement of local communities
+Directive: The EU should identify and close the legal loopholes that
+by making them aware of the real hazards, and allow Member States to
+allow authorities to grant weak or incomplete EIA permits.196 The EIA
+ensure the ecological rehabilitation of old mining sites. It should also be
+Directive should integrate and legitimise local knowledge that reflects
+ensured that Member States use EU Regional Development Funds for old
+community value systems and communities’ invaluable expertise
+mining site rehabilitation.
+on local ecosystem dynamics. Permits and procedures should be
+strengthened, and adjusted to specific mining projects, with data approved
+• Higher standards for mine tailings: The Extractive Waste
+and if possible led by local community governance. Indigenous and local
+Directive, and the related Best Available Techniques Reference Document
+community assessments such as the Major Projects Assessment
+(MWEI BREF), must follow the examples of Chile, Peru and Brazil in banning
+Standard, developed by the First Nations Major Projects Coalition, could
+the use of upstream tailing dams due to environmental concerns.
+be considered for replication.197 These procedures should also include
+Additionally, although used on a much smaller scale in Europe (only in
+better and local-level measurements of effectiveness. Finally, EIAs
+Turkey and Norway), the EU should never allow disposal of mine tailings into
+for underground mining should be made mandatory under the EIA
+the sea or other water bodies.
+Directive, and not left up to Member State discretion.
+• Better controls on toxic mining waste: The trade and transport
+• Mandatory IRMA certification for the metal and mineral
+of toxic mining waste should be controlled, with toxic waste treated in
+mining sector through the EU Taxonomy Regulation: the country of origin. Companies failing to meet international waste
+TEU metal and mineral mining companies must adopt the Initiative for legislation by shipping waste to countries with weaker environmental
+Responsible Mining Assurance (IRMA) certification,198 regardless of the legislation should be subject to strict fines, and ultimately have their
+country of operation or industry. The second part of the Taxonomy list business operations - along with the violators in their value chain - banned.
+- being developed in 2021 - should make this mandatory for all metal and The EU needs to ensure that the UN Basel Convention - the international
+mineral mining projects. Unlike weaker standards (e.g. CERA, UNGP, OECD treaty designed to reduce the movements of hazardous waste between
+Guidelines), IRMA certification happens at the mine site, rather than nations - is strictly enforced.
+the company-level, and follows a step-by-step approach as opposed
+42
+
+€ Ending economic and resource exploitation the damage suffered) and import bans, and ultimately be ended. Targeted
+sanctions can be put in place at four levels, namely country-level, economic
+sectors, specific companies, and individuals.204
+• Just trade and investment rules: EU trade and investment • Reparations for ecological debt: The EU owes a massive
+agreements must contain binding and enforceable obligations for ecological debt to the countries and regions it colonised and continues to
+investors to respect human rights and the environment. EU legislation exploit for resources. A ‘fine and ban’ approach can be implemented,
+must ensure that trade agreements oblige European investors and whereby retributive payments for ecological debts are based on
+their subsidiaries associated with raw materials mining to comply both loss and damage accounting and on environmental justice (i.e.
+with the domestic rules and procedures of their host country. This the ‘fine’), and further pollution is prohibited (i.e. the ‘ban’). Examples
+includes dealing with any legal dispute within that host country’s include the proposal by WoMin for a full-cost accounting that is sensitive
+domestic courts, as well as prioritising and supporting the just transition to ecofeminist principles.205 It is important to note that the reparations can
+of local economies via national companies or domestic SMEs.200 and must be delinked from markets. A ‘fee’ that privatises resources for
+rich emitters will not stop pollution, as with the EU’s own Emissions Trading
+• Abandon ISDS and other industry protection mechanisms: System, whose price has bounced around in a manner that parallels global
+Via the UN Commission on International Trade Law (UNCITRAL) Working financial speculative bubbles, regularly rising but then bursting.
+Groups,201 the EU should lead in banning industry protection mechanisms
+that prevent countries from adopting transformative and local-level • Apply Debt Cancellation: Linked to reparations, the EU should
+policies around resource use, infrastructure and energy. Investor apply debt cancellation for countries in the Global South through
+State Dispute Settlement (ISDS) mechanisms should be abandoned, and the European Investment Bank. It should also push for an impartial,
+existing bilateral and regional treaties that include ISDS, such as the Energy independent debt cancellation mechanism from Global North countries
+Charter Treaty, should either be renegotiated or terminated.202 towards Global South countries at the UN Conference on Trade and
+Development (UNCTAD), and through the World Trade Organisation reform.
+• New EU law providing more rights to public interest Debt cancellation would reduce pressures on countries in the Global
+organisations and individuals: A new EU regulation that provides South that depend on primary resource extraction. It would also diminish
+public interest organisations and individuals with procedural rights the control of many Global North governments and institutions over the
+comparable to that of EU industry should be prioritised. This, along with South, and allow countries in the latter to recover sovereignty over their
+giving individuals the possibility of filing damages claims against foreign economic policy. Additionally, it would serve as a step towards reparations
+investors or states - or states against foreign investors - would contribute for the resource exploitation that has happened since colonial times.206,207
+to weakening the protection enjoyed by mining multinationals.203 New, alternative domestic institutions should be set up that provide
+loans without interest or conditions, other than respecting social
+• Restricting or banning imports linked to bad human rights, wellbeing and environmental limits.
+labour and environmental records: EU metals and minerals
+imports linked to severe human rights, labour and environmental harms,
+violations and/or damages should be restricted via tariffs (proportionate to
+43
+
+References Input-Output Framework. 42 Matthews, David (2019). Capitalism and mental health.; Kasser,
+20 Eurostat (2021). EU’s material consumption down to 13.4 Tim (2020). The High Price of Materialism.
+tonnes per person in 2020. 43 Umweltbundesamt (2019). Resource-Efficient Pathways:
+1 Schaffartzik et al. (2014). The global metabolic transition: 21 Eurostat (2020). Documentation of the EU RME model. towards Greenhouse-Gas Neutrality – RESCUE.
+Regional patterns and trends of global material flows, 1950– 22 Michaux, Simon (2021). The Mining of Minerals and the Limits 44 The World Bank (2020). Climate-Smart Mining: Minerals for
+2010. to Growth.; Henckens & Worrell (2020). Reviewing the availability Climate Action.
+2 UNEP & Intergovernmental Resource Panel (2019). Global of copper and nickel for future generations. The balance 45 Financial Times (2021). Electric cars will influence demand for
+Resources Outlook 2019: Natural Resources for the Future We between production growth, sustainability and recycling rates. metals more than oil.
+Want. 23 A European Green Deal (2019). 46 Michaux, Simon (2021). The Mining of Minerals and the Limits
+3 Elhacham et al. (2020). Global human-made mass exceeds all 24 Joint Research Center (2019). Consumption and Consumer to Growth.
+living biomass. Footprint: methodology and results. 47 Henckens, Theo (2021). Scarce mineral resources: Extraction,
+4 IPBES (2019). Nature’s Dangerous Decline ‘Unprecedented’ 25 Parrique et al. (2019). Decoupling debunked.; Wiedmann et al. consumption and limits of sustainability.
+Species Extinction Rates ‘Accelerating.’ (2020). Scientists’ warning on affluence. 48 EC (2020). Critical Raw Materials.
+5 UN (2013). A New Global Partnership: Eradicate Poverty and 26 EEA (2021). Growth Without Economic Growth. 49 EC (2020). Critical Raw Materials for Strategic Technologies
+Transform Economies through Sustainable Development. 27 Wiedmann, et al. (2015). The material footprint of nations. and Sectors in the EU - A Foresight Study.
+6 UNEP & IRP (2019). Global Resources Outlook 2019: Natural 28 Potocnik, et al. (2020). Sufficiency: Moving beyond the gospel 50 EC (2021). EU Raw Materials Scoreboard 2020.
+Resources for the Future We Want.
+of eco-efficiency. 51 The Shift Project (2019). Lean ICT: Towards Digital Sobriety.
+7 Oswald, Y. (2020). Why a more equal world would be easier to
+29 OECD (2019). Global Material Resources Outlook to 2060. 52 EEB & Oxfam Germany (2021). Towards a wellbeing economy
+decarbonise.
+30 Eurostat (2021) Material flow accounts in raw material that serves people and nature.
+8 UN. Ensure sustainable consumption and production
+equivalents - modelling estimates. 53 McAfee, Andrew (2020). More from Less the Surprising Story
+patterns.
+31 Calculated from EU Raw Materials Scoreboard 2020. of How We Learned to Prosper Using Fewer Resources - and
+9 Barca, S. (2021). Forces of Reproduction: Notes for a Counter- What Happens Next.
+32 OECD (2019). Global Material Resources Outlook to 2060.
+Hegemonic Anthropocene.
+54 Visual Capitalist (2016). The Extraordinary Raw Materials in an
+33 European Commission (2021). EU Raw Materials Scoreboard
+10 EC (2020). Critical Raw Materials for Strategic Technologies iPhone 6s.
+2020.
+and Sectors in the EU - A Foresight Study.
+55 The Ecologist (2018). Not so smart: inside the hazardous world
+34 Ibid.
+11 People’s Agreement of Cochabamba. of making smartphones.
+35 EC (2020). Critical Raw Materials Resilience: Charting a Path
+12 Dorninger, et al. (2021). Global patterns of ecologically unequal 56 Lange & Santarius (2020). Smart Green World?: Making
+towards greater Security and Sustainability.
+exchange: Implications for sustainability in the 21st century. Digitalization Work for Sustainability
+36 Smol et al. (2020). Importance of sustainable mineral resource
+13 Eurostat. Material flow accounts statistics - material 57 Ibid.
+management in implementing the circular economy model and
+footprints.
+the European Green Deal. 58 Andrae, Anders (2015). On Global Electricity Usage of
+14 Calculated from EU Raw Materials Scoreboard 2020. Communication Technology: Trends to 2030.
+37 UNEP & IRP (2019). Global Resources Outlook 2019: Natural
+15 Martinez-Alier, Joan (2021). The circularity gap and the growth Resources for the Future We Want. 59 VUB (2020). Metals for a Climate Neutral Europe A 2050
+of world movements for environmental justice. Blueprint.
+38 Ibid.
+16 Bringezu, Stefan (2015). Possible Target Corridor for 60 EC (2021). EU Raw Materials Scoreboard 2020.
+39 OECD (2019). Global Material Resources Outlook to 2060.
+Sustainable Use of Global Material Resources.
+61 Ibid.
+40 Steinberger et al. (2020). Your money or your life? The carbon-
+17 UNDP (2020). Human Development Report 2020.
+development Paradox. 62 Earthworks (2021). Reducing new mining for electric vehicle
+18 Steinman et al. (2017). Resource Footprints are Good Proxies battery metals: responsible sourcing through demand reduction
+41 EEB & Oxfam Germany (2021). Towards a wellbeing economy
+of Environmental Damage. strategies and recycling.
+that serves people and nature.
+19 Giljum et al. (2014). Material Footprint Assessment in a Global 63 OECD (2019). Global Material Resources Outlook to 2060.
+44
+
+64 Rodney, Walter (1972). How Europe Underdeveloped Africa. 84 Arthur-Holmes & Abrefa Busia (2021). Occupying the environment, even when they don’t fail.
+65 Basu & Pegg (2020). Minerals are a shared inheritance: Fringes. 99 Earthworks & MiningWatch Canada (2019). Safety First
+Accounting for the resource curse. 85 Human Rights Watch (2020). Emergency Action Needed Guidelines for Responsible Mine Tailings Management.
+66 Hickel, Sullivan & Zoomkawala (2021). Rich countries drained for Vulnerable Artisanal & Small-Scale Mining Communities 100 Earthworks & Oxfam America (2004). Dirty Metals: Mining,
+$152tn from the global South since 1960. & Supply Chains; Rustad, Østby (2016) Does Artisanal Mining Communities, and the Environment.
+Increase the Risk of Sexual Violence?
+67 The World Bank (2011). The Changing Wealth of Nations : 101 Michaux, Simon (2021). The Mining of Minerals and the Limits
+Measuring Sustainable Development in the New Millennium. 86 Lèbre et al. (2020). The social and environmental complexities to Growth.
+of extracting energy transition metals.
+68 Bond & Basu (2020). ‘Unequal ecological exchange’ 102 Eurostat (2021). Waste statistics.
+worsens across time and space, creating growing Northern 87 Azadi et al. (2020). Transparency on greenhouse gas 103 Cornwall, Warren (2020). Catastrophic failures raise alarm
+environmental liabilities emissions from mining to enable climate change mitigation; about dams containing muddy mine wastes.
+Business & Human Rights Resource Center (2020). Transition
+69 Hickel, Sullivan & Zoomkawala (2021) Plunder in the Post- Minerals Tracker. 104 Earthworks & MiningWatch Canada (2019). A Growing Threat:
+Colonial Era. Thousands of Tailings Mine Waste Sites Across the World.
+88 Lèbre et al. (2020). The social and environmental complexities
+70 Hickel, Sullivan & Zoomkawala (2021). Rich countries drained of extracting energy transition metals.; Widana, Anura (2019). 105 Rico et al. (2008). Reported tailings dam failures: A review of
+$152tn from the global South since 1960. Environmental Impacts of the Mining Industry: A literature review.; the European incidents in the worldwide context.
+71 Moore & Perez Rocha (2019). Extraction Casino. Haddaway et al. (2019). Evidence of the impacts of metal mining 106 Ecologistas en Acción (2020). Ojos que no ven…La minería
+72 UNCTAD. Investment Dispute Settlement Navigator. and the effectiveness of mining mitigation measures on social– submarina en España.
+ecological systems in Arctic and boreal regions.; Ashton, Love &
+73 Earthworks, Institute for Policy Studies, London Mining 107 Deep Sea Conservation Coalition. About the Deep Sea.
+Mahachi (2003). Appendix 2: Environmental and Social Impacts
+Network, MiningWatch Canada, Terra Justa, War on Want & Yes 108 Drazen et al. (2020). Midwater ecosystems must be
+of Mining; Accountability Counsel & ACCA (2020). Accountability
+to Life No to Mining. Voices From The Ground: How the Global considered when evaluating environmental risks of deep-sea
+in Africa; Business & Human Rights Resource Center (2020).
+Mining Industry is Profiting from the COVID-19 Pandemic. mining.
+Transition Minerals Tracker.
+74 AFTINET. Investor-State Dispute Settlement (ISDS) 109 Seas at Risk (2021). At a crossroads: Europe’s role in deep
+89 European Commission. Review of the Environmental Impact
+pitfalls. sea mining.
+Assessment (EIA) Directive.
+75 AFTINET. Mining companies dominate ISDS treaty-shopping 110 European Conference on Green Mining.
+90 Kirsch, Stuart (2014). Mining Capitalism: The Relationship
+claims from Australian companies.
+between Corporations and Their Critics. 111 Marin, Diego (2021). Unearthing the truth about green mining.
+76 Responsible Mining Foundation (2020). RMI Report 2020.
+91 Ibid. 112 IRENA (2019). Driving a Smarter Future.
+(Note that the data covers mainly LSM operations).
+92 CEE Bankwatch Network (2021). Raw Deal: Does the new EU 113 London Mining Network (2020). Martial Mining.
+77 Brock, Andrea (2020). Securing accumulation by restoration;
+Huff & Orengo (2020). Resource warfare, pacification and the development model mean 114 Temper et al. (2020). Movements shaping climate futures;
+spectacle of ‘green’ development. more of the same destructive mining. Verweijen & Dunlap (2021). The evolving techniques of the social
+engineering of extraction.
+78 Azadi et al. (2020). Transparency on greenhouse 93 Crosby & Monaghan (2018). Policing Indigenous Movements
+gas emissions from mining to enable climate change Dissent and the Security State. 115 Lèbre et al. (2020). The social and environmental complexities
+mitigation. 94 Dunlap, Alexander (2020). Bureaucratic land grabbing for of extracting energy transition metals. (Unspecified if in
+operation, completed or both.)
+79 OECD (2019). Global Material Resources Outlook to 2060. infrastructural colonization.
+116 Business & Human Rights Resource Center (2020). Transition
+80 European Environmental Agency (2020). Latest evaluation 95 European Commission (2020). Critical Raw Materials
+Minerals Tracker.
+shows Europe’s nature in serious, continuing decline. Resilience: Charting a Path towards greater Security and
+Sustainability. Business & Human Rights Resource Center (2020). Transition
+81 Global Witness (2020). Defending Tomorrow.
+Minerals Tracker.
+96 UNEP (2017). Mine Tailings Storage: Safety Is No
+82 Sidorenko, Sairinen & Moore (2020). Rethinking the concept of
+Accident. 117 Ibid.
+small-scale mining for technologically advanced raw materials
+production. 97 European Commission (2006). Mining Waste. 118 Initiative for Responsible Mining Assurance (IRMA); Anglo
+American Press Release (2021). Anglo American’s Unki mine
+83 The World Bank (2013). Artisanal and Small-Scale Mining. 98 Sergeant & Olden (2020). Mine waste dams threaten the
+45
+
+achieves IRMA 75 on responsible mining standard. 138 Environmental Justice Atlas (2017). Norra Kärr, near lake 159 European Commission (2021). Proposal for a Directive of the
+119 Principal elements of an EU mHREDD legislation (2020). Vättern, Sweden. European Parliament and of the Council on energy efficiency
+120 Kort & Esti (2020). ESG Standards: Looming challenges and 139 Leading Edge Materials – Norra Karr Project. (recast).
+pathways forward. 140 Nilse, Thomas (2019). With tailings to be dumped at sea, 160 European Commission. Policy and strategy for raw materials.
+121 Albin-Lackey, Christopher (2013). Without Rules: A Failed copper mine gets approval. 161 Civil society letter to the European Commission over
+Approach to Corporate Accountability. 141 Ibid. concerns on EU critical raw materials plans.
+122 European Commission (2020) Commission study shows 142 The Arctic (2020). Mercury and fjords: Norway set to launch 162 European Commission (2021). Mobility Strategy.
+the need for EU-level legislation on due diligence throughout the toxic copper mine. 163 Mills, Mark (2020). Mines, minerals, and “green” energy: A
+supply chain on human rights and environmental impacts 143 Staalesen, Atle (2016). Government gives thumbs up for reality check.
+123 Ibid. mining company, will be allowed to dump wastes in Arctic 164 Franks et al (2021). Tailings facility disclosures reveal stability
+124 Chilton, Adam (2016). The Limitations of Supply Chain fjord. risks.
+Disclosure Regimes. 144 Kollbrunner, Timo (2020). We’ve simply been forgotten. 165 Civil Society Coalition on mandatory human rights and
+125 Ernst and Young (2020). Top 10 business risks and 145 Ibid. environmental due diligence consultation.
+opportunities – 2020. 146 Ibid. 166 IPIS vwz (2021). The EU Conflict Minerals Regulation:
+126 Sullivan for Yes to Life, No to Mining (2021), Our Resistance 147 Environmental Justice Atlas (2019). Conflicto del Plomo Implementation at the EU Member State level.
+is our Existence: mining and resistance on the island of Boliden, Cerro Chuño en Arica, Chile. 167 Yes to Life No to Mining (2021). EU Civil Society denounces EU
+Ireland. raw materials plans in European Green Deal.
+148 Environmental Defender Law Center. Residuos Mineros de
+127 Ecologistas en Acción (2019). Report: Speculative Mining in Suecia Envenenan a Chilenos. 168 Alexander, Samuel (2012). The optimal material threshold:
+Spain. Toward an economics of sufficiency.
+149 Business & Human Rights Resource Center (2013). Boliden
+128 Lund et al. for Yes to Life, No to Mining (2021). A Green Shift? lawsuit (re Chile). 169 European Environmental Bureau & Oxfam Germany (2021).
+Mining and resistance in Fennoscandia (Finland, Sweden, Towards a wellbeing economy that serves people and nature;
+150 European Parliament – DROI Committee (2019). Access to
+Norway, Sámpi). European Environmental Bureau & European Youth Forum (2021).
+legal remedies for victims of corporate human rights abuses in
+129 Rhoades, Hannibal (2020). Cáceres rejects lithium third countries. Escaping the growth and jobs treadmill.
+mine. 170 European Parliament (2021). Report on the new Circular
+151 UN Special Rapporteurs letter: SWE2/2021 of
+130 Infinity Lithium Corporation. San Jose Lithium Project. 23.03.2021. Economy Action Plan; European Parliament (2021). Report on
+the eighth Environment Action Programme; and European
+131 Friends of the Earth (2013). Factsheet on Lithium. 152 Food and Agriculture Organization Of the United Nations Parliament (2021). Report from Environment Committee on
+132 European Commission. Raw Materials Information System (2018). Barroso Agro-sylvo-pastoral System, Portugal. Critical Raw Materials Action Plan.
+(RMIS). 153 Fundação Montescola (2021). Communication to the Aarhus 171 A Circular Economy in the Netherlands by 2050.
+133 Birney, Matt (2020). Infinity locks in key Spanish Convention Compliance Committee.
+172 Finish Ministry of the Environment (2021). The circular
+management. 154 Emerman, Steven (2021). Evaluation of the Tailings Storage economy program sets targets for curbing the over-
+134 Business & Human Rights Resource Center (2016). ENRC Facility for the Proposed Savannah Lithium Barroso Mine, consumption of natural resources.
+(now Eurasian Resources Group) failed to respect human rights, Northern Portugal.
+173 European Commission (2021). Proposal for a Directive of the
+says UK government watchdog; SOMO (2016). Cobalt blues: 155 von der Leyen, Ursula (2019). The European Green Deal – our European Parliament and of the Council on energy efficiency
+Environmental pollution and human rights violations in Katanga’s new growth strategy. (recast).
+copper and cobalt mines.
+156 European Environmental Agency (2021). Growth Without 174 European Commission (2020). Leading the way to a global
+135 Ibid. Economic Growth. circular economy: state of play and outlook.
+136 Accountability Counsel & ACCA (2020). Accountability in 157 Ibid. 175 EU launches Global Alliance on Circular Economy and
+Africa.
+158 Staub, Colin (2020). European leaders vote to pursue Resource Efficiency.
+137 Duxbury, Charlie (2020). Sweden’s ground zero for the EU’s standardized charger. 176 London Mining Network (2020). Martial Mining.
+strategic materials plan.
+46
+
+177 Urban mining: when communities reject the throwaway of Electronic Devices; Eurac Network (2021). The EU Conflict
+economy. Minerals Regulation Implementation at the EU Member State
+178 European Environmental Bureau (2021). A blueprint to deliver level.
+a healthy, affordable, and sustainable built environment for 196 Ecologistas en Acción (2019). Speculative Mining in
+all. Spain.
+179 Ashford, Kallis (2014). A four-day workweek : a policy for 197 First Nations Major Projects Coalition, (2019). Major Project
+improving employment and environmental conditions in Europe. Assessment Standard: Member-Developed Principles, Criteria,
+180 Wiese & Mayrhofer (2020). Escaping the growth and jobs and Expectations to Guide Major Project Environmental
+treadmill. Assessments.
+181 Knight et. al (2013). Could working less reduce pressures on 198 Initiative for Responsible Mining Assurance (IRMA)
+the environment?; Pullinger, Martin (2014). Working time reduction Standards.
+policy in a sustainable economy. 199 European Parliament (2017). Implementation of the Mining
+182 This is a cautious estimate, taking into account an Waste Directive.
+extra demand for e-buses and e-bikes, based on: European 200 Friends of the Earth Europe (2018) Setting Course for
+Commission (2020). Critical Raw Materials for Strategic Sustainable Trade: A New Trade Agenda that Serves People and
+Technologies and Sectors in the EU - A Foresight Study. the Environment.
+183 Bartłomiejczyk, Mikołaj (2021). Sustainable Use of the 201 United Nations Commission On International Trade
+Catenary by Trolleybuses with Auxiliary Power Sources on the Law - Working Group III: Investor-State Dispute Settlement
+Example of Gdynia. Reform.
+184 Torres, Nicole (2020). Advertising Makes Us Unhappy. 202 International Institute for Sustainable Development (2017).
+185 Estimate based on Arvind Parmer et al. (2015). AdblockPlus UNCITRAL and Reform of Investment Dispute Settlement.
+Efficacy Study; Visser, Arthur (2016). The Effect of Ad Blockers on 203 Power-Shift (2020) Alternatives for the ‘Energy and Raw
+the Energy Consumption of Mobile Web Browsing. Materials Chapters’ in EU trade agreements.
+186 Worldwide initiatives to ban fossil fuel advertisements. 204 European Parliament (2019). Access to legal remedies
+187 Friends of the Earth France (2020). Big Corpo. for victims of corporate human rights abuses in third
+countries.
+188 European Environmental Bureau (2021). A blueprint to deliver
+a healthy, affordable, and sustainable built environment for 205 Womin (2021). Five Year Strategy (2020-2024).
+all. 206 Pacto Ecosocial Del Sur, For a social, ecological, economic
+189 French government Repairability index. and intercultural pact for Latin America.
+190 EEB, ECOS, T&E & DUH (2021). Enhancing the sustainability 207 Bankwatch (2020). Can the EIB become the “EU
+of batteries. Development Bank”?
+191 Civil Society Coalition: Enforcing due diligence, what we want
+(2021).
+192 International Labour Organization. C169 - Indigenous and
+Tribal Peoples Convention, 1989 (No. 169).
+193 Franco, Jennifer (2016). Reclaiming Free Prior and Informed
+Consent (FPIC) in the context of global land grabs.
+194 Stop Corporate Impunity (2020) Extensive recommendations
+to the binding treaty.
+195 Germanwatch (2018). Governance of Mineral Supply Chains
+47
+
+48

@@ -732,3 +732,16 @@
   .sc-mass-via, .sc-mass-hs, .sc-mass-num { display: none; }
   .sc-mass-note { grid-column: span 3; padding-left: 0; }
 }
+
+@media (max-width: 480px) {
+  .sc-dials { grid-template-columns: 1fr; }
+  .sc-composite { grid-column: span 1; }
+  .sc-context-strip { grid-template-columns: 1fr; }
+  .sc-preset-bar { flex-wrap: wrap; gap: 0.35rem; }
+  .sc-preset-btn { font-size: 0.72rem; padding: 0.35rem 0.65rem; }
+  .sc-dial-label { font-size: 0.65rem; }
+  .sc-mass-row { grid-template-columns: 1fr 60px; }
+  .sc-mass-note { grid-column: span 2; }
+  .sc-fact-row { grid-template-columns: 1fr; gap: 0.15rem; }
+  .sc-fact-val, .sc-fact-src { text-align: left; }
+}

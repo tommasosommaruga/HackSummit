@@ -1,0 +1,1788 @@
+Madini Project: Comparative analysis of
+the fiscal regimes & implications for
+mineral trade of ASM 3TGs in Rwanda,
+Uganda, Burundi and the DRC
+FOR THE ATTENTION OF:
+Madini Project Consortium (International Alert, Eurac and International Peace Information
+Service, OGP and Justice Plus)
+For the attention of:
+Madini Project Consortium (International Alert, Eur
+O
+a
+C
+c
+T O
+a
+B
+n
+E
+d
+R 2021
+International Peace Information Service, OGP and Justice
+Plus)
+
+Comparative analysis of the fiscal regimes & implications for mineral trade of ASM 3TGs in Rwanda, Uganda,
+Burundi and the DRC.
+October 2021
+About this report: Comparative analysis produced by Levin Sources Limited on behalf of the Madini project.
+Authors: This report was written by Olivia Lyster and Ashley Smith-Roberts with contributions from Stephen
+Turyahikayo, Daniel Ngendakuriyo, and Madini project consortium members: International Alert, International
+Peace Information Service, Eurac, OGP and Justice Plus.
+Cover Photo: International Peace Information Service©
+Acknowledgements: The authors would like to thank consortium members International Alert, Eurac,
+International Peace Information Service, OGP and Justice Plus for their diligent contributions to the paper. We
+would further like to thank key stakeholder groups – including industry experts and government
+representatives – that were interviewed for their time and insightful inputs.
+Disclaimer: This report was prepared from sources and data Levin Sources believes to be reliable at the time of
+writing, but Levin Sources makes no representation as to its accuracy or completeness. The report is provided
+for informational purposes and is not to be construed as providing endorsements, representations or warranties
+of any kind whatsoever. The authors accept no liability for any consequences whatsoever of pursuing any of the
+recommendations provided in this report, either singularly or altogether. Opinions and information provided
+are made as of the date of the report issue and as subject to change without notice.
+All text and images Levin Sources©
+Levin Sources is a consultancy and social venture that moves more raw materials through systems where
+good governance and better business are the norm.
+We are a core team of strategists, researchers, project managers, educators and communicators with
+multidisciplinary abilities and collective expert knowledge in sustainable supply chains, extractives, minerals
+science & engineering, biodiversity and conservation, human rights and vulnerable groups, responsible
+business conduct and good governance.
+We are trusted by the full diversity of players in the minerals system, from Fortune 500 companies and SMEs
+to industry associations and certification bodies to NGOs and civil society to governments in fragile states
+and in G20 economies.
+For more information, please visit www.levinsources.com.
+2
+
+CONTENTS
+1. Explaining the issues ........................................................................................................................... 5
+Illicit trade of minerals in the Great Lakes Region.................................................................................. 5
+History of tax harmonisation discussions in the GLR ............................................................................. 6
+2. Comparing the fiscal regimes in Rwanda, Uganda , Burundi and DRC .................................................... 8
+2.1. Rwanda ..................................................................................................................................... 8
+Mineral fiscal regime ........................................................................................................................... 9
+Incentives and disincentives for formal trade ...................................................................................... 11
+2.2. Uganda.................................................................................................................................... 13
+Mineral Fiscal Regime ....................................................................................................................... 13
+Incentives and disincentives for formal trade ...................................................................................... 16
+2.3. Burundi.................................................................................................................................... 18
+Mineral fiscal regime ......................................................................................................................... 18
+Incentives and disincentives for formal trade ...................................................................................... 20
+2.4. DRC ......................................................................................................................................... 20
+Mineral fiscal regime ......................................................................................................................... 21
+Incentives and disincentives for formal trade ...................................................................................... 25
+2.5. Comparative Analysis ............................................................................................................... 27
+Amount of tax levied ......................................................................................................................... 28
+Institutions that levy tax .................................................................................................................... 30
+Recommendations ................................................................................................................................... 33
+3
+
+ACRONYMS
+3Ts Tin, tungsten and tantalum
+3TGs Tin, tungsten, tantalum and gold
+AGR African Gold Refinery
+ASGM Artisanal and small-scale gold mining
+ASM Artisanal and small-scale mining
+BIF Burundian Franc
+BRB Burundi Central Bank
+Centre d’Expertise, d’Evaluation, et de Certification des Substances Minerales Precieuses et
+CEEC
+Semi-precieuses
+CIT Corporate Income Tax
+DGI DRC General Tax Directorate
+DGSM Directorate of Geological Survey and Mines, Uganda
+DRC Democratic Republic of the Congo
+EITI Extractive Industry Transparency Initiative
+EAC East African Community
+ETDs Decentralized Territorial Entities
+GLR Great Lakes Region
+ICGLR International Conference on the Great Lakes Region
+LSM Large-scale mining
+NISR National Institute of Statistics of Rwanda
+OBM Burundi Office of Mines and Quarries
+OBPE Burundi Office for the Protection of the Environment
+OBR Burundi Revenue Authority
+O/SESG-GL Office of the Special Envoy of the United Nations Secretary-General for the Great Lakes
+PAYE Pay as You Earn
+RDB Rwanda Development Board
+RMB Rwanda Mines Petroleum and Gas Board (RMB)
+RRA Rwanda Revenue Authority
+RWF Rwandan Franc
+RCM Regional Certification Mechanism
+SADC Southern African Development Community
+Service d'Assistance et d'Encadrement de l'Exploitation Minière Artisanale et a Petite-
+SAEMAPE
+échelle
+UAE United Arab Emirates
+UN GoE United Nations Group of Experts
+URA Uganda Revenue Authority
+USGS United States Geological Survey
+VAT Value Added Tax
+ZEAs Zone d’exploitation artisanale (Artisanal mining zones)
+4
+
+1. EXPLAINING THE ISSUES
+This briefing paper looks at the relationship between mineral fiscal regimes and the smuggling of minerals in
+the Great Lakes Region (GLR), both within and between countries. It presents an overview and comparative
+analysis of the fiscal regimes applicable to the artisanal and small-scale (ASM) production of tin, tungsten,
+tantalum and gold (3TGs) in Uganda, Rwanda, Burundi and the DRC, looking at the principal ways in which the
+legal and regulatory frameworks of these countries provide incentives and disincentives for the formal
+production and trade of 3TGs in the region.
+Currently, illicit smuggling of minerals is costing the government of the DRC a conservative estimate of $22
+million USD per year (See Section 2.4), thereby staunching development and contributing to the destabilization
+of the national economy. Recognising both that i) fiscal harmonisation has long been heralded as a key strategy
+to disincentivize mineral smuggling and increase transparency in the GLR, and ii) fiscal regimes likely constitute
+only one of many factors that incentivise and disincentivise formal trade, the recommendations put forward in
+this paper are targeted towards facilitating tax compliance for actors who would like to operate formally but
+for whom the fiscal (financial or logistical) burden is too great. To this end, the study presents recommendations
+to the Madini project along the following lines: i) a more in-depth understanding of the fiscal environment in
+the DRC, to build on and complement the findings in this study and provide a further foundation for advocacy
+on the issue, ii) advocating for a simpler, more harmonised tax regime in the DRC drawing on lessons learnt
+from neighbouring countries that can promote tax compliance and formalisation in the ASM sector whilst
+simultaneously boosting government revenues, and iii) advocating for fiscal reform in the GLR more widely,
+including advocating to the ICGLR to support reforms.
+ILLICIT TRADE OF MINERALS IN THE GREAT LAKES REGION
+The illicit trade of minerals is one of the key challenges faced by the minerals sector – in particular the ASM
+sector – in the GLR today. It occurs in a variety of forms: in-country smuggling, where minerals are traded from
+mine site to point of export without being officially declared to the state, thereby avoiding fiscal and tax costs;
+and inter-country, or cross-border smuggling, where minerals produced in one country are smuggled across
+borders to neighbouring countries, where they are often wrongly declared as originating from that
+neighbouring country and formally exported from there. Both cases can constitute significant tax and fiscal
+losses to the mineral-producer state.
+In the GLR, important quantities of smuggled minerals originate from the DRC. Of the artisanal gold that leaves
+the DRC undeclared, for example, it is thought that the vast majority is smuggled across the border to
+neighbouring countries such as Uganda, Rwanda, Burundi and Tanzania, and onto major international gold
+trading hubs, in particular the United Arab Emirates (UAE). This trade takes place through a complex web of
+relationships among actors in the DRC and in the wider region. Whilst minerals are also smuggled across other
+borders—Burundi to Rwanda and Tanzania, for example—this occurs on a much smaller scale. Congolese
+mineral smuggling is also closely associated with other mineral supply chain challenges such as conflict
+financing and the involvement of international organised crime groups and illicit actors, who maintain a
+sustained fiscal interest in the illicit flows of smuggled minerals. Accordingly, the issue of Congolese mineral
+smuggling is intricately linked to peace and stability efforts in the DRC.
+Before the passing of the US Dodd-Frank Act in 2010, tin was considered the largest economic contributor to
+conflict-financing in the DRC. In 2008, it contributed as much as $115 million USD to armed groups (The Enough
+Project, 2008). Congolese coltan (tantalum) did not provide as much value to armed groups (an estimated $12
+million USD in 2008), but it was of greater criticality to world production, at around 15-20% of the global market
+share (The Enough Project, 2008, 2009). Tungsten production contributed an estimated $7.4 million USD to
+armed actors that same year in DRC (The Enough Project, 2008).
+5
+
+Today, post-Dodd-Frank, the situation is markedly different. IPIS researchers have found no armed actors
+present during almost 80% of tin, tungsten and tantalum (3Ts) sites visited in the DRC between 2015 and 2020
+(659 out of 831) (IPIS, 2020). Similarly, ITSCI, which monitors over 1,200 sites across eastern DRC and covers
+approximately 95% of 3Ts ASM exports originating from the GLR, reports that very few challenges remain in
+terms of ensuring supply chain integrity. Moreover, global import and export data discrepancies that existed
+for tin and tantalum before the enforcement of the Dodd-Frank Act have been replaced by more consistent
+data, correlating with the development of due diligence efforts over this time. The same period has seen an
+increase in the DRC being reported as the official country of origin for tantalum imports, suggesting that a
+greater proportion of tantalum ore that may previously have been smuggled from neighbouring countries is
+now being declared, correctly, as Congolese (Schütte, 2019).
+Nonetheless, challenges remain in terms of the illicit trade and taxation of 3Ts, particularly within the DRC.
+Firstly, whilst the interference of armed groups in 3Ts supply chains has reduced, it has not been eliminated.
+The presence of armed groups at mine sites has occurred in some areas with particularly significant activity, but
+they have also been documented in areas where due diligence programmes are in place (IPIS and Ulula, 2019).
+Roadblocks remain an important source of informal mineral taxation by both state and non-state armed actors,
+whereby these groups secure a significant source of revenue (IPIS, 2017). Secondly, recent UN Group of Experts
+reports continue to report i) the contamination of ITSCI supply chains by illegally produced minerals and ii) the
+smuggling of 3Ts from industrial concessions, either directly across borders or by being “laundered” through
+nearby sites covered by due diligence and traceability systems (Zounmenou et al., 2020a).
+Gold smuggling, on the other hand, still presents an important risk in the region and is responsible for significant
+losses to government revenues, mostly in the DRC but also in other jurisdictions. Artisanally produced gold in
+eastern DRC is likely the mineral most utilized to finance armed groups and illicit networks in the region, and
+most observers confirm many ASM miners and other actors have migrated from the 3Ts to ASM gold. In 2013,
+it was estimated that up to 98% of ASM gold produced in eastern DRC left the country undeclared (Nelson
+Alusala et al., 2014, para 171). This paper estimates that this figure may now be as high as 99.5%, although
+robust data on ASM gold production and trade is scarce, meaning that estimates are rough. Official ASGM
+exports from the DRC remain negligible, averaging at around 200kg per year (in 2018 they were as low as 56kg)
+(IMPACT, 2020). Thus, the informal trade of gold results in a significant loss of earnings for the DRC authorities.
+In 2018, assuming a conservative estimate of 15 tonnes of artisanal gold production, the DRC government
+would have missed out on $10.82 million dollars in export tax alone (IMPACT, 2020). 2020 figures put the
+estimated loss as high as $22 million USD1.
+HISTORY OF TAX HARMONISATION DISCUSSIONS IN THE GLR
+It was against the backdrop of significant 3TGs smuggling that the conversation on fiscal harmonisation in the
+GLR arose. Tax harmonisation was touted as a solution to cross-border smuggling at the introduction of the
+Lusaka Declaration of the ICGLR Special Summit to Fight Illegal Exploitation of Natural Resources in the Great
+Lakes Region (“Lusaka Declaration”), affirmed by all member states of the ICGLR on 15 December 2010 (ICGLR,
+2010).The Lusaka Declaration called for harmonisation of national legislation between member states as the
+second of six tools developed to curb the illegal exploitation of natural resources (ICGLR, 2010).The other tools
+included: 1) the Regional Certification Mechanism; 3) a regional database on mineral flows; 4) formalization of
+the artisanal mining sector; 5) promotion of the Extractive Industry Transparency Initiative (EITI); and 6) a
+regional whistle-blowing mechanism (ICGLR, 2010). The Declaration called for the support of the international
+community at large to assist in strengthening the ICGLR regional initiative and supporting such efforts for fiscal
+harmonisation (ICGLR, 2010).
+1 Present study’s calculations (see Section 2.4 for more info)
+6
+
+At an ICGLR-OECD-UN GoE Forum Meeting on Responsible Supply Chains held on 13 to 15 November 2013 in
+Kigali, there was recognition by member states of the need for greater support towards efforts to “tackle
+harmful tax competition, tax evasion and transfer pricing” and improve regional mining investments, including
+through the development of “tax and fiscal harmonisation” (OECD, 2013). Additional recommendations
+included the seeking out of partnerships to support harmonisation of provincial level mining sector taxes in the
+DRC (OECD, 2013).
+After the Lusaka Declaration and the ensuing convenings, calls for fiscal harmonisation throughout the ICGLR’s
+3TGs sector became a focus of several NGOs, workshops, and other governmental and civil society efforts over
+the years. On 5 and 6 July 2017 in Nairobi, Kenya, the ICGLR and the Office of the Special Envoy of the United
+Nations Secretary-General for the Great Lakes (O/SESG-GL) convened, on the request of the Defence Ministers
+from the ICGLR and the Southern African Development Community (SADC), to develop recommendations for
+the ICGLR member states to harmonize tax regimes at the provincial, national, and regional levels, and in
+tandem, to publicly disclose production and export statistics for natural resources (Abdas, 2017). A special focus
+here was on statistics concerning the trade of gold (Abdas, 2017). Such recommendations were in the
+furtherance of the implementation of the Peace, Security and Cooperation Framework for DRC and the region
+(Abdas, 2017). That same year saw the ICGLR Executive Secretary and regional exporters formally recommend
+a renegotiation of mineral levy rates paid to mineral tracking service providers and a harmonisation of taxes
+across the region (ICGLR, 2017). The second edition of the Regional Certification Mechanism (RCM), published
+in 2019 and approved by the heads of all ICGLR member states, calls for the ICGLR Regional Committee to
+“[f]acilitate the discussion of Member States to harmonize tax and fee structures to help reduce the incentives
+for smuggling” and “[w]ork with Member States to reduce inconsistencies within the various regional Member
+State frameworks.”
+In spite of the numerous examples of public proclamation regarding regional tax harmonisation, very little
+progress had been made since the December 2010 signing of the Lusaka Declaration. A joint report by Sofala
+Partners and BetterChain published in April 2019 describes an outreach goal to support efforts to harmonize
+mining and mineral taxes across the Great Lakes Region. The report outlines that, although tax harmonisation
+has been recognized by the governments in the Great Lakes Region, they “to date have largely not
+implemented necessary changes.” The report recognises the complicated political dynamics among GLR
+states, particularly DRC, Rwanda and Uganda, and that high levels of mineral sector corruption constitute “a
+structural problem that could only be solved via a combination of domestic business environment reform in the
+DRC and regional harmonisation of tariff and taxation regimes”. Unfortunately, it concludes, “the political will
+to enact such changes is currently lacking” (Sofala and Betterchain, 2019). Despite these challenges, the issue
+of fiscal harmonisation continues to be an important talking point today, including at national level in the GLR.
+As recently as January 2021, Joseph Ikoli Yombo Yapeke, Secretary General of the DRC’s Ministry of Mines,
+advocated for the EU to leverage its political and commercial influence to support tax harmonisation at the
+regional level among ICGLR member states.2 Although politically delicate, the issue remains at the forefront of
+discussions on tackling mineral smuggling in the GLR. The DRC’s imminent entry into the East African
+Community (EAC) (EAC, 2021) may prove a useful platform upon which these discussions can continue.
+Against this backdrop, this paper provides some context within which further discussions can take place. This
+paper recognises the difficulties in achieving fiscal harmonisation in the GLR. As described above, the politically
+sensitive topic of fiscal harmonisation has solicited much debate and little in terms of action. Therefore,
+acknowledging the role that fiscal regimes can play in incentivising (or disincentivising) smuggling, this report
+gives an overview of the fiscal regime applicable to artisanally-produced 3TGs in Uganda, Rwanda, Burundi and
+2 This proclamation occurred during the 13 to 14 January German Federal Ministry for Economic Cooperation and Development (BMZ) and
+the Responsible Minerals Initiative’s (RMI) multi-stakeholder conference for the implementation and impact of the EU Conflict Minerals
+Regulation.
+7
+
+DRC, with particular focus on the smuggling of Congolese minerals. By comparing the fiscal regimes of each
+country, this paper also highlights the discrepancies between the fiscal regimes in scope, as well as highlights
+how the regimes might change in order to further incentivise formal mineral trade and maximise government
+revenues in the region. The fiscal regimes presented and compared are applicable to both gold and 3Ts.
+However, given the overwhelming progress the 3Ts sector has made in reducing smuggling (and the limited
+progress made by the gold sector, which still contributes significantly to lost government revenues), this paper
+focuses mainly on the challenges posed by the informal production and trade of gold.
+2. COMPARING THE FISCAL REGIMES IN RWANDA, UGANDA , BURUNDI AND DRC
+This section gives an overview of the fiscal regimes for ASM 3TGs in Rwanda, Uganda, Burundi and DRC,
+estimated levels of compliance, and the extent to which the regimes incentivise or disincentivise formal mineral
+trade in the region. The analyses below are a high-level exposition of the main tenets of each fiscal regime.
+Given the notorious complexity of tax law, each country overview represents a simplification of each mineral
+fiscal regime in order to allow for meaningful comparison across jurisdictions. In this spirit, only taxes and fees
+that are directly payable to government entities have been included.
+2.1. RWANDA
+The minerals sector in Rwanda has become increasingly important to the country’s development trajectory.
+The country’s mineral production and exports have been dominated for the past century by 3Ts, gold and
+gemstones, with the share of mineral exports of total exports fluctuating between 20% and 40%. The sector is
+likely to increase in importance in coming decades. According to the National Strategy for Economic
+Transformation (NST1) (2017-2024) Rwanda aspires to become a middle-income country by 2035 and a high-
+income country by 2050 (Republic of Rwanda, 2017). An ambitious target of annual average growth of GDP
+9.1% is needed to achieve such objectives. The mining sector has been chosen among other priority sectors to
+enable the realisation of NST1 objectives. Over past decades minerals exports have been among the country’s
+top export commodities in terms of foreign exchange revenues. The mineral export revenues are projected to
+reach a target of USD $1.5 billion by 2024 from $373 million in 2017 with the share of minerals in total exports
+rising from 32.9% in 2017 to 49.6% in 2024 (Republic of Rwanda, 2017). In 2020 the total mineral exports stood
+at USD $733 million (RMB, 2021).
+In order to realise the minerals sector’s potential contribution to the country’s economic transformation and
+prosperity agenda, the government of Rwanda through the Rwanda Mines Petroleum and Gas Board (RMB)
+reviewed the Mining Policy of 2009. The review process was completed in 2019, but the policy is still pending
+cabinet approval. According to the proposed Mining Policy of 2019, the vision of the Government of Rwanda is
+to transform the minerals sector into a vibrant, dynamic and efficient sector through promoting geological
+knowledge, investments in mining, value addition and linkages, and responsible mining to spur economic
+transformation, industrialization, growth and development. One of the key thematic areas identified as a
+priority for change is the fiscal regime and revenues management. The Policy mentions the challenge that the
+state currently does not gain optimal benefits in terms of mining sector revenues, for a variety of reasons
+ranging from limited capacity of government monitoring to practices such as transfer pricing and businesses
+selling to themselves.
+Rwanda is a significant producer of ASM 3Ts, with relatively limited gold production. Since a drive towards
+greater formalisation of ASM in Rwanda – the 2018 Mining Code does away with the word ‘artisanal’ altogether,
+issuing only small-scale mining licenses – ASM takes place largely under the umbrella of sub-contracting
+agreements with mineral license holders. Sub-contractors in turn hire mine workers to work in a particular
+location, and these miners are recognized as employees of the sub-contractor to the mineral license holder.
+Regardless of whether license holders use sub-contracting arrangements, they remain liable for all license
+obligations such as payment of taxes, health and safety requirements, and environmental regulations. Supply
+8
+
+chain simplification has been promoted by the government in recent years, disincentivising middlemen traders
+in favour of production being sold straight to processors/exporters (The East African, 2016). As of April 2021, a
+total number of 35 exploration licenses, 32 small-scale mining licenses, 92 medium-scale mining licenses, 15
+large-scale mining licenses, 36 mineral trading licenses and 3 mineral processing licenses have been issued by
+RMB and were still valid. The country has one tin smelter, known as LuNa smelter, and one gold refinery, the
+Aldango Gold Refinery.
+In terms of international trade, Rwanda is a central transit country for 3Ts ore concentrates from its neighbours.
+Whilst the majority of Rwandan 3Ts exports are likely to be legitimate (either of national origins or official
+transit goods), shipments from Rwanda may also represent smuggled material (Schütte, 2019). In recent years,
+Rwanda has made concerted efforts to address mineral smuggling. This is reflected in the creation, for example,
+of a mineral traceability division within the RMB, and the arrests of a number of illegal traders (see e.g. Rwanda
+National Police, 2017, 2020, 2021). Rwanda has become an increasingly important gold exporter, with official
+exports growing significantly in recent years, despite minimal local production.3 Research into gold supply
+chains through Rwanda suggests that there are risks of smuggling of Congolese gold into the country (see e.g.
+IMPACT, 2020).
+MINERAL FISCAL REGIME
+Rwanda hosts a streamlined and well-established fiscal regime and general operating environment. The
+country is ranked 38 out of 190 in the World Bank’s Ease of Doing Business Rankings in 2020, including a ranking
+of 38/190 for ease of paying taxes and 88/190 for trading across borders. There are a number of taxes, fees and
+levies applicable to the ASM 3TG supply chains in Rwanda. An overview of taxes and fees applicable to mineral
+sector entities can be found in Table 1 below.
+Table 1: Taxes and fees payable on ASM production, import and export of 3TGs in Rwanda
+Specific to mining and minerals sector
+Mineral royalties. The mineral royalty tax was introduced in 2013 as a way of attempting to improve the
+contribution of the mining sector to government tax revenues. Mineral royalties are governed by the law
+Nº55/2013 of 02/08/2013 on mineral tax. Mineral classifications are set out in the Prime Minister’s Order N°
+218/03 of 27/10/2015. A mineral royalty of 4% of the gross sales value is applicable to base metals (including
+3Ts), 6% to precious metals (including gold) and 6% to precious stones. Royalties are payable on all minerals
+to the Rwanda Revenue Authority (RRA) at the point of export.
+Mining sector fees. The fees payable by the mining companies are provided by the Regulations of the Chief
+Executive Officer N° 005/mines/RMB/2019 of 18/07/2019 determining potential mining areas, criteria for
+categorisation of mines, modalities and requirements for mineral licence application and for tenders. Fees
+are set for a number of different mineral licenses and differ by scale of operation. All fees are payable to the
+Rwanda Revenue Authority (RRA). The fees applicable to ASM supply chains in Rwanda are the small-scale
+mining license, the mineral trading license and the mineral processing license. The small-scale mining license
+costs $1,800 USD and is valid for 5 years. Annual license fees of $449.50 USD are also levied, as well as annual
+surface rent of $6.50 USD per hectare. Mineral trading licenses cost $200 in non-refundable application fees
+and $100 USD in license fees per license, which lasts 5 years. An annual charge of $4,994 USD is also levied in
+annual license fees. Mineral processing licenses are subject to $100 USD annually for non-refundable
+application fees, $100 for license renewal fees and $100 for annual license fees.
+Mineral traceability levies. Mineral traceability levies are collected by RMB, which charges a levy of USD
+$180 per ton of coltan exported, USD $130 per ton of cassiterite, and USD $130 per ton of wolfram, applicable
+3 Gold export data was obtained by the authors from the National Bank of Rwanda during an interview in May 2021. High-level export data
+can be found in the National Bank of Rwanda’s Annual Report 2019/2020, which states that gold export receipts increased by 754.6% in the
+financial year 2019/2020.
+9
+
+at the point of export. That levy is used by RMB for paying mineral traceability services for the mining
+companies and cooperatives as well as mineral traders. So far RMB has over 120 mineral field officers, based
+at district level, who offer mineral traceability services in addition to day-to-day mine sites inspections. The
+levy covers the salaries for mineral field officers as well as the overhead cost for the mineral traceability
+scheme. These traceability levies are collected in addition to any fees charged by upstream due diligence
+programmes.
+Applicable to mining and minerals sector
+General business taxes. Mining businesses, like other commercial operations, are subject to the payment of
+taxes. The mining companies and cooperatives, as well as mineral traders have the obligation to declare and
+pay their taxes in accordance with the relevant laws. The general taxes include Corporate Income Tax (CIT),
+Value Added Tax (VAT), Pay as You Earn (PAYE), Customs Duties, and Withholding Tax. All companies must be
+registered with the Rwanda Development Board (RDB), and cooperatives must be registered with the Rwanda
+Cooperative Agency, as well as the RRA. Whilst some fiscal incentives exist in terms of VAT exemption and
+corporate income tax rates, these are generally only applicable to the large-scale mining sector and require
+significant investment to come into force. As well as the aforementioned taxes, all employers are required
+to make a social security contribution of 8.6% of the gross remuneration to their employees, which includes
+a 6% contribution to the mandatory pension scheme, 2% paid for Occupational Hazards Insurance, and 0.6%
+paid to the maternity leave and benefits scheme.
+Import levies. There are two import levies that are be applicable to the import of minerals into Rwanda. The
+first is an infrastructure development levy (set out by law N°34/2015 of 30/06/2015) at a rate of 1.5% of the
+import value and payable at point of import on all goods, from which mineral imports are not exempt. The
+second is a levy on imported goods for financing African Union activities (set out by law N°19/2017 of
+28/04/2017), set at a rate of 0.2% of customs value and collected by the RRA’s customs department at point
+of import.
+VAT. Previously, all minerals sold on the domestic market were subject to the payment of 18% in VAT.
+However, following issues in delayed refunding by the RRA, the government opted in 2015 to classify
+minerals (among other goods and services) traded on local markets as zero rated, meaning they are exempt
+from paying VAT. This also applies to mineral exports. It does not, however, apply to mineral imports.
+According to art. 3 of law N° 37/2012 of 09/11/2012, imported goods and services shall be subject to VAT of
+18%, with no exemption made for mineral imports. VAT is of course refundable and can be offset against
+business costs, meaning that the application of VAT at point of import does not increase the net cost of each
+mineral trade. It does, however, given historic delays in tax refunds by the Rwandan authorities, constitute a
+hurdle for mineral importers that may disincentivise legitimate mineral import declarations. (See Spotlight
+Issues for more details).
+10
+
+Despite having a well-established fiscal regime,
+Actual vs estimated mineral
+implementation of the regime is challenging in Rwanda (as
+royalty revenues, RWF
+elsewhere), and the contribution of the minerals sector to total
+tax revenues remains low. According to the RRA, in the fiscal 20
+s
+n 18
+year 2018/19, a total of 4.9 billion RWF (USD $4.9 million) was o illiB
+16
+collected in mineral royalties, and 0.4 billion RWF (USD $0.4
+14
+million) in other taxes was collected from mining, compared to 12
+1,400 billion RWF (USD $1.4 billion) for taxes across all sectors. 10
+8
+This means an actual contribution of mining sector tax revenues
+6
+to total tax revenues of only 0.4%. However, tax revenues
+4
+should be much higher (see Figure 1). In 2019, USD $313 million
+2
+of gold was exported, which should have generated tax 0
+revenues in mineral royalties alone of 18.6 billion RWF (18.6 2018/19 2019/20 2019
+million USD). However, the fiscal year of 2018/19 saw a Mineral royalties collected (total)
+collection of only 4.9 billion RWF (USD $4.9 million) for total
+Mineral royalties estimated (gold alone)
+mineral exports, and the following fiscal year 2019/20 2.8 billion
+Figure 1: Estimated mineral royalties in Rwanda. Source:
+RWF (USD $2.8 million) in mineral royalties (data for total
+RRA
+mineral taxes not available). This means that the real value of
+the minerals sector is not accruing to Rwanda, and suggests high incidences of informal or illicit trade.
+It’s important to note that mineral royalties, taxes and license fees are not the only way in which an ASM sector
+can contribute to an economy. A 2018 study on the economic contributions of 3Ts ASM in Rwanda estimated
+that artisanal and small-scale miners contributed USD $39.5 million in the form of expenditures to the local
+economies in 2015 (Barreto et al., 2017a). It also found that VAT expenditures on local goods amounted to 63%
+of paid royalties in 2015 and were almost four times what was likely paid in income taxes, suggesting that even
+informal ASM contributions can be substantial, yet they are rarely considered (Barreto et al., 2017a). This is an
+important reminder that the existing local economic contributions of ASM must be properly understood and
+taken into account in mineral fiscal regimes if these regimes are to appeal to higher tax compliance by ASM.
+INCENTIVES AND DISINCENTIVES FOR FORMAL TRADE
+Rwanda has emerged alongside Uganda in recent years as one of the major players in gold exports from the
+region. Despite efforts towards increased measures against illegal mineral trade (for instance, art. 50 of the
+2018 Mining Code stipulates that any person caught with minerals without proof of their origin is liable to an
+administrative fine equal to 10% of the value of the minerals and the minerals are confiscated), it is likely that
+MINERAL EXPORT IN USD
+0
+7
+3
+3Ts (USD) Other Minerals (Gold & Gemstones) (USD) Total (USD) 4 2 6 ,1
+6 8 ,9
+,1 1 0 ,3
+3 7
+9 0 2 5 4 9 0 6 1 ,7 4 6
+2 9 6 ,6 0 8 ,7 1 1 1 5 7 ,5 7 2 ,1 3 4 4 ,2 8 0 ,9 4 1 3 2 5 ,4 5 4 ,6 8 4 2 5 ,7 5 0 ,0 8 7 4 0 ,2 1 5 ,6 6 1 3 7 5 ,4 8 8 ,4 2 1 6 3 6 ,8 6 5 ,8 4 2
+,3
+5 4 ,3 7 3 1 1 5 ,4 6 1 ,2 4 1 4 3 3 ,2 8 4 ,4 0 2
+8
+,6 4 6 ,6 4 3 1 1 7 ,4 6 9 ,8 9
+4
+4 ,2 9 6 ,3 1 3
+5
+6 ,2 1 4 7 4 7 ,9 4 1 ,3 8
+3
+2015 2016 2017 2018 2019 2020
+Figure 2: 3TG Exports Rwanda in USD. Source: National Bank of Rwanda, National Institute of Statistics of Rwanda (NISR)
+11
+
+large amounts of the gold exported from Rwanda enters illegally from the DRC. Figure 2 shows exports of 3TGs
+from 2015-2020. Whilst 3Ts exports have remained relatively stable, gold4 exports from Rwanda have soared.
+It is extremely unlikely that this comes from an increase in Rwandan gold production. Whilst statistics on gold
+production in Rwanda are difficult to come by, the latest United States Geological Survey (USGS) estimates
+were 319kg and 336kg in 2015 and 2016 respectively. Even at the highest global price in 2016 for 100% purity,
+the 2016 estimated production would only come to a value of around $15 million USD, well below what was
+exported that year and over 40 times less than what was declared exported in 2020.
+It is possible that increased exports are due to higher levels of legal mineral imports from neighbouring
+countries – the World Bank reported USD $242 million in gold imports to Rwanda in 2019 (World Bank, 2019b).
+Rwanda’s positioning itself as a hub for value addition in the region, as well as increased gold refining capacity,
+means that it is likely to encourage increased imports where possible. However, it is likely that there are
+potentially significant levels of gold smuggling of Congolese gold through Rwanda. Firstly, even gold declared
+imported into Rwanda may not have been exported legally from the DRC, as seen in Impact’s reports of
+examples where traders created falsified paper trails for minerals in transit through Rwanda that did not exist
+in the DRC (IMPACT, 2020). Secondly, there remain discrepancies in the amount of gold legally imported and
+produced, and the amount declared exported in 2019. Imports and production come to a value of at most USD
+$257 million, leaving USD $56 million unaccounted for. Some of this will be accounted for by the increase in
+value of the gold between import and export, however some is likely to indicate smuggled mineral flows.
+Thirdly, gold exports from Rwanda are likely to be significantly underdeclared. The UN Group of Exports found
+that whilst Rwanda declared 2,163 kg of gold exported in 2018, the United Arab Emirates – a renowned global
+transit hub for smuggled African gold – officially imported 12,539 kg from Rwanda in the first nine months of
+the year (Zounmenou et al., 2019). Smuggling operations allegedly use Rwanda as a transit country for
+smuggled gold to the UAE, including the creation of phantom trading entities that seem to exist only in
+Rwandan transit documents (IMPACT, 2020). Important smugglers such as Karim Somji, who is linked to
+smuggling operations according to UN Group of Experts reports, reportedly operate from Rwanda (Zounmenou
+et al., 2020b). Similarly Aldango LTD, Rwanda’s recently established gold refinery, was set up within a corporate
+network linked to Alain Goetz, who has been associated with significant cross-border smuggling of Congolese
+gold through the GLR (in particular via Uganda) and into the international market (Zounmenou et al., 2020b).
+The refinery has also allegedly paid Congolese smugglers in cash, thus enabling the sidestepping of formal
+declarations that would be subject to tax (Zounmenou et al., 2020b).
+In terms of fiscal incentives and disincentives for formal mineral production and trade, it is unlikely that the
+fiscal regime is the only – or even the primary – disincentive for formal trade of 3TGs (primarily gold) in Rwanda.
+Illicit trade in high-value goods operates within complex networks of powerful individuals and groups, often
+linked with organised crime, and are therefore not triggered solely by unfavourable fiscal regimes in
+producer/transit countries. However, there are some elements of the fiscal regime that are likely to be creating
+barriers to commercial viability to those who would like to be operating formally. One of these is the issue of
+uncompetitive mineral imports. Firstly, the issue of VAT levied on mineral imports is likely to constitute a
+significant barrier to the development of formal ASM 3TG supply chains passing from the DRC through Rwanda.
+Although VAT is refundable against inputs bought, traders in Rwanda have seen significant delays in receiving
+VAT refunds, affecting cashflow5. This makes the (legal) sourcing of minerals from outside Rwanda for
+processing and re-export uncompetitive. If the Rwandan government is to achieve the targets laid out in its
+2017-2024 National Strategy, the export of high-end, value-added goods and services, including processed
+minerals, is essential. For the operations of international traders or the major mineral processing entities in
+Rwanda to be commercially-viable – in a sector where capital is expensive and margins are narrow – the
+cashflow implications of payment of VAT on imported minerals are likely to provide a disincentive for the formal
+4 Rwanda does not disaggregate gold export statistics. It is, however, safe to assume that gold constitutes the majority of exports
+categorised as ‘other minerals’, given that gemstone production in the country is estimated to be negligible (USGS 2016).
+5 Interview with mineral expert. May 2021.
+12
+
+export of minerals from DRC and import into Rwanda. Secondly, the fact that mineral royalties are payable on
+imported minerals as well as locally-produced minerals means that the import-export of minerals – including
+by those involved in mineral value addition and processing – would trigger the payment of mineral tax in two
+separate countries, likely rendering (legal) Rwandan re-exports uncompetitive on the global market. (See
+Comparative Analysis (Section 2.5) for more details)
+Despite these implications, Rwanda’s mineral fiscal regime offers important insights into how taxation can be
+applied well in a sector as informal as ASM. Firstly, charging mineral royalties at the point of export is a relatively
+simple and cost-effective process for both the state and supply chain actors. Secondly, the fiscal regime in
+Rwanda is clear, avoiding ambiguities around the legality of certain taxes. This, and the fact that all taxes are
+payable to one entity – the RRA – reduces the risk of parafiscality6 along the supply chain by providing clarity
+to supply chain actors as to whom taxes should be paid. This clarity and simplification are made possible by
+strong redistribution practices, ensuring that local governments benefit adequately from revenues that are
+collected centrally. Finally, Rwanda’s aim to simplify supply chains by disincentivising traders and middlemen
+also provides a higher level of simplicity to the gold trade in the country and reduces opportunities for mineral
+leakage. However, the political economy and livelihoods impacts of this kind of policy need to be taken into
+account. Firstly, it would not necessarily be applicable in a context such as the DRC where traders and
+middlemen play an important part in ASM supply chains. Secondly, simplification may result in the
+consolidation of the mineral supply into the hands of a powerful few exporters, creating disruptions by reducing
+competition and potentially impacting on prices available to producers.
+2.2. UGANDA
+Uganda is estimated to host a total ASM population of 300,000 miners, of which there are 40,000 artisanal gold
+miners and an estimated 1,700 3Ts miners (Barreto et al., 2017b). It has limited artisanal 3Ts production, but is
+an important transit country with historic trends of ASM 3Ts being smuggled into Rwanda (Schütte, 2019). With
+the establishment of gold refineries in the country, Uganda has become an increasingly important gold exporter
+in the region with strong links to the UAE, to whom it exports 99% of its gold. Uganda is an important hub for
+smuggled minerals from the DRC and South Sudan, constituting a significant source of high-risk gold flows to
+Dubai (Lezhnev, 2021). Uganda’s mineral fiscal regime has been the subject of much debate, with low export
+taxes assessed as a significant contributing factor in the smuggling of gold out of the DRC. This section looks at
+the fiscal regime associated with both the production and imports of 3TGs into Uganda, highlighting which
+aspects of the fiscal regime incentivise or disincentivise formal mineral trade.
+MINERAL FISCAL REGIME
+Uganda’s mineral trade and production is governed through the Mining and Mineral Policy for Uganda, 2018,
+Mining Act, 2003 and Mining Regulations, 2004. In May 2018, a new Mining and Mineral Policy was approved
+by the cabinet, aimed at providing a foundation upon which sector legislation could be built in response to gaps
+in the 2003 and 2004 Act and Regulations. The recent reported passing of the Mining Amendment Act of 20217,
+which came into force on 1st July 2021, is a significant step in the development of the Ugandan minerals regime.
+It introduces export levies on both processed and unprocessed minerals, significantly shifting the regulatory
+environment for mineral exports in the country and providing a potential release valve – albeit a costly one – to
+the reported ban on the export of unprocessed minerals. Although it is still too early to analyse to what extent
+the 2021 Act will be complied with in practice, it nonetheless constitutes an important shift in regional mineral
+dynamics that may well have an impact on the illicit flow of minerals in the region. Additional legislative reforms
+6 This study refers to taxes and fees that it considers to be legally ambiguous as ‘parafiscal’
+7 Copy seen by research team. We are currently verifying with other government departments as to the veracity of the reported changes
+passed by Parliament.
+13
+
+are also in the pipeline, including a replacement to the 2003 Mining Act which has already been approved by
+cabinet to be presented to Parliament (Reuters, 2021).
+An overview of the taxes, fees and levies applicable to the ASM 3TGs supply chains in Uganda is given in Table
+2 below.
+Table 2: Taxes and fees payable on ASM production, import and export of 3TGs in Uganda
+Specific to mining and minerals sector
+Mineral royalties. Uganda levies a mineral royalty of 5% of the production value of all minerals produced in
+the country, payable upon declaration (at the point of production) to the Uganda Revenue Authority (URA)
+through the Directorate of Geological Survey and Mines (DGSM). The method of calculation of payable
+royalties applies 95% purity for gold and 75% purity for 3Ts. The royalty was raised from 3% to 5% in 2016. If
+royalty is not paid at point of production, it must be paid by the trader/exporter before export.
+Royalty revenues are shared between the Central Government (80%); local government and the local
+administrative jurisdiction where the mining is taking place (17%); and the landowner (3%). The application
+of royalties does not distinguish between scale of mining operation or type of mineral. In 2017, a Presidential
+decree was given to lift mineral royalties in order to boost gold flows into the country’s recently established
+refinery, African Gold Refinery (AGR). However, it is unclear to what extent this decree has been
+implemented, with data from interviews suggesting that it has not been consistently applied to mineral
+exports across the board.
+Mineral production and trade fees. Fees for mineral production and trade in Uganda are collected through
+DGSM and URA. They include fees for mining licenses, annual mineral rent and trading licenses (trading
+licenses are categorised for base metals and precious metals). For the ASM sector, it is necessary to obtain a
+prospecting license for exploration ($140 USD / year), a location license (ASM license) ($224 USD, two years
+renewable), including fees for the registration ($140 USD) and gazette ($84 USD) of the location license, and
+an annual fee for mineral rent ($280 USD).
+Dealers are required to acquire a mineral dealers license ($840 USD annually for base metals, including 3Ts,
+and $1400 USD annually for precious metals, including gold), as well as fees for the registration ($140 USD)
+of each license.
+Mineral import fees. Minerals imported into Uganda are subject to a mineral import fee of 1% of the
+imported value and the obtaining of a mineral import application ($280 USD) per import. Mineral imports
+can only be conducted by those with a mineral dealers license. Imported minerals are not subject to royalty
+payments.
+Mineral export levies. The 2021 Mining Amendment Act reportedly imposes export levies on both
+processed and unprocessed mineral exports, payable by the exporter to the URA. These amendments, which
+came into force on 1st July 2021, introduce an export levy of 5% of the value of each kg of processed gold
+exported, or 10% of the gross value of unprocessed minerals (The Republic of Uganda, 2021).
+Applicable to mining and minerals sector
+General business taxes. Mining businesses like other businesses are subject to the payment of taxes. The
+mining companies and cooperatives, as well as mineral dealers, have the obligations to declare and pay their
+taxes in accordance with the relevant laws. The general taxes include Corporation Tax, Value Added Tax
+(VAT), Pay as You Earn (PAYE), Contributions to the National Social Security Fund (NSSF), and Local
+Services tax, payable to local government.
+The past ten years have seen Uganda become one of the most important transit hubs for gold from the GLR,
+which until recently was reflected in its mineral fiscal regime. Gold is the country’s leading export, having
+14
+
+overtaken coffee for the first time in 2018 and standing at over 100 times the value of gold exports a decade
+ago (Biryabarema, 2020). Gold is a front-runner in Uganda’s imports from the EAC, constituting a leading
+import from Tanzania, Kenya and Burundi in the fiscal year 2019/20 (URA Annual Revenue Performance Report
+2019/20). However, it has been widely reported that a significant proportion of Uganda gold exports are
+sourced fraudulently from neighbouring countries (e.g. Behalal et al., 2018). Low export taxes were seen as a
+primary incentive for the smuggling of gold from the DRC into Uganda (Lezhnev, 2021). However, the
+countrywide benefits of increased exports over the past ten years are yet to be seen. Despite recent
+formalisation initiatives, such as biometric registration of artisanal miners, the issuing of identification cards,
+and the promotion of mining associations, as well as discussions on the lifting of mineral royalties from the ASM
+sector, the reality appears less than positive. Mineral royalties remain payable at mine site level at a rate that is
+likely to disadvantage smaller producers. The sector has been plagued by high-profile armed evictions,8 with
+LSM exploration activities seemingly prioritised at the expense of artisanal miners. The influx of imported gold
+is reportedly negatively impacting prices of locally-produced gold, which is uncompetitive against
+comparatively cheap imports, which are subject to much lower taxes (1% for import compared to 5% mineral
+royalties) (McCool, 2019). The ASM sector plays an important role in local development, with job creation from
+the sector estimated at over 1 million direct and indirect jobs in 2018, benefitting approximately 10% of the
+country’s population (Barreto et al., 2017b), yet local ASM production appears relatively neglected at the
+expense of the promotion of re-exports.
+However, recent changes to the fiscal regime may create strong disruptions to the status quo. Before the
+introduction of the 2021 Mining Amendment Act, Uganda had clearly positioned itself as a hub for regional gold
+re-exports. Whilst its mineral royalties for locally-produced ASM minerals were comparable with its neighbours
+(5% in Uganda compared to 6% in Rwanda), its mineral import / re-export regime constituted much lower taxes
+and fees than others in the region (see Figure 8 in Comparative Analysis (Section 2.5)). Of the reported $1.25
+billion USD of gold exports in 2020, the vast majority of which are thought to have been destined for the UAE,
+only $375,515 are accounted for in DGSM production statistics (although actual value is likely to be higher due
+to under-declaration). This left up to $1.249 billion USD as presumed re-exports that were benefitting from very
+low tax rates (1% at point of import and 0% at point of export) when compared to other countries in the region.
+The introduction of the 2021 Mining Amendment Act, however, may signal significant changes to this system
+that, if fully implemented, will likely cause important disruptions to ASM mineral supply chains in the region.
+The new export levies of 5% on processed gold and 10% on unprocessed minerals (there is no provision for
+processed 3Ts, given the lack of processing capacity in the country) significantly increase the cost of export
+from Uganda. They are also much higher than the proposed export levy of $200 USD / kg on processed gold
+and 1% of the export value of unprocessed minerals that was originally proposed by the Minister of Finance,
+Planning & Economic Development in March 2021 (Minister of Finance Planning & Economic Development,
+2021). Whilst the initially proposed changes would have increased re-export costs slightly, costs would have
+remained lower than Uganda’s neighbours, therefore retaining the country’s attraction for regionally produced
+gold. In contrast, the changes within the recently amended law are likely to disrupt this balance (see Incentives
+and Disincentives for Formal Trade for further discussion).
+It is clear from the recent changes that Uganda’s aim is to increase state revenues from mineral production.
+This is reasonable, given that revenue collection in Uganda, both in the minerals sector and in general, is
+relatively low. Uganda's tax-to-GDP ratio in 2018 (11.8%) was lower than the average of the 30 African countries
+in the OECD’s Revenue Statistics in Africa 2020 (16.5%) by 4.7 percentage points, and it was also lower than the
+average in Latin America and the Caribbean (23.1%) (OECD, 2020b). However, Uganda has experienced
+significant growth in its tax register over the past five years, in particular with the registration of individuals
+onto the tax register (Uganda Revenue Authority, 2020). In an informal sector such as ASM, this broadening of
+8 An example is of the tens of thousands of artisanal miners who were evicted by Ugandan armed forces from long-time ASM sites in
+Mubende in 2017 by presidential decree in the name of formalisation and better regulation of the ASM sector (Daily Monitor 2017)
+15
+
+the tax base is critical for increased revenue collection. Of total tax revenue, current mining and quarrying
+contributions are minimal, generally making up less than 1% of total net URA revenue collection (Uganda
+Revenue Authority, 2020). Mining and quarrying ranked 19 out of 22 sectors for revenue collection in the fiscal
+year 2019/20 (Uganda Revenue Authority, 2020). Against this backdrop, the introduction of the new export
+levies could increase the performance of the sector, in particular the gold sector, given the importance of gold
+as Uganda’s most valuable export (Source UBS/URA). Based on 2020 figures, the new levy on processed gold
+exports alone would generate revenues in the region of $62 million USD, 50% more than the total value of
+revenues collected for the mining and quarrying sector in 2019 (using export figures from Biryabarema, 2020).
+Increased revenue collection from gold exports would also help to reduce Uganda’s balance of trade, which
+stood at a deficit of UGX 14,136.22 billion ($4.2 billion USD) at the end of the FY 2019/20.
+However, whether the country will see the full benefits of these tax revenues is unclear. Given the alleged ban
+on unprocessed mineral exports that has been in place since 2013, it is likely that the majority of gold exports
+from Uganda go through refineries. However, the country may not be benefitting in tax revenues from the
+activities of these refineries. It has been reported, for example, that African Gold Refinery (AGR) – one of the
+country’s most high-profile refineries – had been exporting millions of dollars’ worth of gold under a significant
+tax holiday, enjoying exemptions for both the import and export of gold for at least ten years (Global Witness,
+2017; The Economist, 2019). Despite reported complaints about AGR by the Uganda tax authorities, it is not
+clear to what extent the refinery contributes to fiscal revenues today (Lewis and Hobson, 2020). Whilst AGR
+describes itself not as a trading company but as a mineral processing service provider, investigative research
+has shown links between AGR and other related companies based in the UAE and elsewhere, all with links to
+Alain Goetz. Goetz, AGR’s former CEO, is named in several UN Group of Experts reports as having significant
+links to mineral smuggling in the region, allegedly including large amounts of gold from Eastern DRC, as well
+as from other locations, including a reported $300 million USD from Venezuela (despite US sanctions on the
+country’s exports) (McCool, 2019; Biryabarema, 2020).
+Revenue from 3Ts is likely to be much lower than from gold, with the majority of 3Ts likely locally produced in
+Uganda. It is unclear what impacts the
+2011 ban on the export of unprocessed Total Production ValueUganda (USD)
+minerals have had on the 3Ts sector.
+$2.5
+Despite there apparently being s
+n
+virtually no (legal) 3Ts exports from o illiM $2.0
+$1.5
+Uganda due to the lack of 3Ts
+processing capabilities in the country, $1.0
+production has continued, with coltan $0.5
+production in particular experiencing $0.0
+a recent upsurge (see Figure 3). Whilst 2014 2015 2016 2017 2018 2019 2020
+the 2021 Mining Amendment Act Value USD (historic rates)
+theoretically lifts the de facto ban on
+Gold Wolfram Coltan (30% purity) Tin (75% purity)
+3Ts exports by allowing the export of
+unprocessed minerals, the 10% levy Figure 3: Official production value of 3TGs in Uganda, 2014-2020. Source: DGSM
+on these is extremely high. This is likely to make the export of unprocessed 3Ts commercially unviable, and by
+far the most expensive in the region. Monitoring the impacts of this increased taxation on 3Ts sector exports,
+tax revenues and illicit trade will be critical to understanding the impacts of the amended fiscal regime on
+Ugandan minerals.
+INCENTIVES AND DISINCENTIVES FOR FORMAL TRADE
+The Ugandan government has made a number of commitments towards reducing smuggling and promoting
+formal production and exports of 3TGs. It was this perspective that was reportedly a factor in President
+Museveni’s commitment to announce the removal of mineral royalties on gold production in 2017 (Daily
+16
+
+Monitor, 2017). However, to what extent measures have i) been implemented or ii) impacted levels of illicit
+mineral trade in the country remains unclear.
+In theory, until this year’s amendments, the lower costs associated with mineral imports and re-exports in
+Uganda allowed for regionally competitive legal mineral imports into the country when compared to its
+neighbours. Although fee rates were low, given Uganda’s success in attracting large amounts of gold from the
+region for re-export, the fees nonetheless stood to contribute a significant amount to government coffers. In
+practice, however, the low import fees and zero export fees, combined with a seeming lack of monitoring and
+enforcement of adequate chain of custody and mineral traceability requirements, have made Uganda a magnet
+for smuggled gold from around the region. This is not a new phenomenon: in 2007, the Uganda Commercial
+Impex, a company linked at the time with illegal mineral imports from DRC, was sanctioned by the UN Security
+Council (UN Security Council, 2007; IMPACT, 2020). A 2020 UN Group of Experts report estimated that in 2019,
+95% of Uganda gold exports were of non-Ugandan origin. The report introduced evidence of Congolese
+smugglers who had reportedly sold gold to AGR and other refineries in the region, although all refineries
+involved denied knowledge of the sales. (Zounmenou et al., 2020b). The Sentry reported in 2018 that AGR was
+knowingly refining 100-150 kg of gold from Eastern DRC per week, amounting to an annual total of 5.2-7.8
+tonnes (The Sentry, 2018). Alain Goetz, AGR’s former CEO, admitted publicly in 2017 that his company worked
+with ‘undocumented gold’ from ‘small-scale dealers’ (Geothals, 2019; IMPACT, 2020). Ugandan government
+revenues have also suffered from reported tax exemptions given to companies such as AGR, which export vast
+amounts of gold whilst contributing very little to government revenues.
+As a result, although Uganda’s fiscal regime was in theory well-placed to contribute to regional mineral value
+addition by allowing for competitive mineral re-exports, the lack of enforcement of mineral traceability and the
+proliferation of illicit trade undermined any incentives for formal exports. However, if the reported changes to
+the regulatory regime do in fact come into place, Ugandan exports will become the most expensive in the region
+(see Figure 7 in Section 2.5 – Comparative Analysis). This is likely to act as a strong disincentive for formal trade
+and render legal Ugandan exports largely commercially unviable.
+The amendment to the mineral code will disadvantage smaller producers, including ASM, even more so. For
+locally produced minerals, royalty rates of 5% payable at point of production under the previous law were
+already likely to disadvantage smaller producers. High royalty rates were likely a disincentive to the formal
+declaration of production, and they may have been incentivising the mis-declaration of Ugandan produced gold
+as mineral imports. The fact that the new export levies are payable both on locally produced minerals and on
+mineral re-exports is likely to further exacerbate this risk. There is some chance the promotion of cooperatives
+or mining associations, as well as the provision of extension services such as capacity building and access to
+finance to the ASM sector, may go some way to mitigate these disadvantages. However, given the relatively
+low levels of mineral production in Uganda (when compared to total export value), it would have made more
+sense for the Ugandan government to impose the additional levies only on mineral re-exports, thereby
+mitigating the risk of greater disadvantage to smaller local producers and balancing export costs across the
+region.
+A second risk for gold exports – given the lack of transparency in the relationships between refineries and the
+state in Uganda – is that refineries may be able to negotiate some sort of exemption from the new export levies,
+similar to the tax holiday under which AGR was reportedly operating. This risks consolidating Ugandan gold
+supply in the hands of a small number of actors, at least one of whom has strong reported links with mineral
+smuggling in the region. The entrenchment and increased power of such a network would no doubt increase
+the illicit trade of gold from the DRC into Uganda and beyond. In response, Ugandan civil society groups have
+called for mining act amendments to align mineral sector tax exemptions with the wider protocol for tax
+exemptions, which require Parliamentary approval (Transparency International Uganda et al., 2016). This
+would be a first step towards greater accountability and transparency in the sector. Furthermore, unfavourable
+17
+
+fiscal agreements reached with refineries such as AGR hurt Uganda’s potential tax collection from mineral
+exports. Whilst increased export levies will in theory bolster government revenues from the sector, high rates
+in a largely informal sector with such limited margins are likely to disincentivise compliance, rendering the
+likelihood of increased revenue capture low. Lower export levies applied only on mineral re-exports may have
+gone further in broadening the tax base and increasing government revenues from the sector, as well as
+incentivising the formal trade of minerals from and through Uganda. Actual impacts of the legislation are as
+yet unknown and should be closely monitored, although preliminary indications suggest that official exports
+have fallen drastically and that actors face difficulties in obtaining export documents for unprocessed minerals.9
+2.3. BURUNDI
+Despite being rich in mineral resources, economic and political volatility in Burundi in recent years has proved
+a significant challenge for the country’s fiscal performance. The economic downturn that followed an electoral
+and political crisis in 2015 saw both a decrease in tax and non-tax revenues coupled with a sharp fall in
+international donor resources (UNICEF, 2017). However, the minerals sector is making increasingly important
+contributions to the country’s economy. In contrast to the situation in 2015 which saw the closure of 30% of
+Burundi’s mines due to low production and lack of market access, mineral exports overtook tea and coffee in
+hard currency earnings for the first time in 2019 (Reuters, 2019). 3Ts, gold and more recently rare earth
+production have the potential to make critical contributions to Burundi’s economy in the future.
+Mineral extraction in Burundi is conducted almost exclusively by ASM, albeit at a much smaller scale than in
+neighbouring DRC and Rwanda. Whilst it hosts significant tantalum and tin deposits, being part of the “Kibaran
+Belt” (Schütte, 2019), the limited infrastructure acts as a barrier to higher levels of industrialisation. ASMs in
+Burundi, where formal, generally work in cooperatives or associations, although high levels of informality
+remain. 3Ts produced in Burundi are often smuggled into and exported from Rwanda (Schütte, 2019). 3Ts
+smuggling into Burundi from the DRC, however, tends to be limited, with smuggling routes favouring Rwanda
+(Schütte, 2019). It has historically been a significant trading route for smuggled gold from DRC, however this
+appears to be reducing given i) political upheaval in the country disrupting traditional gold trading routes and
+ii) competition from Rwanda as an increasingly important gold smuggling route alongside Uganda in the region
+(IMPACT, 2020).
+Whilst 3Ts are traded and exported through private buying houses, gold may be legally exported only through
+the Central Bank. This decision, taken in November 2019 in the name of stabilising the national currency, has
+been both applauded as a fiscal measure for promoting the repatriation of funds from gold sales, and criticised
+for increasing the risk of driving existing gold operators underground and thereby increasing the illicit gold
+trade in the country (Manishatse, 2019; VOA, 2019).
+MINERAL FISCAL REGIME
+The minerals sector in Burundi is governed mainly by the 2013 Mineral Code and its 2016 amendments, and the
+2015 Mining Regulations. The Mining Code addresses both LSM and ASM, although as previously mentioned,
+the vast majority of mineral activity in the country – and all 3Ts and gold production – is artisanal or small-scale.
+Table 3: Taxes and fees payable on ASM production, import and export of 3TGs in Burundi
+Specific to mining and minerals sector
+Mineral royalties. Mineral royalty rates are set out in the Burundi Mining Regulation of 2015. For ASM, they
+are set at 3% for base metals (including cobalt), 2% for precious metals and stones (including gold) and 1.5%
+for other substances, including 3Ts. Royalties are payable at the point of export for each mineral lot and are
+9 Interview with sector expert, October 2021.
+18
+
+payable to the Burundi Revenue Authority (OBR). Since the 2019 decision to allow gold exports to be handled
+only by the Central Bank, it is unclear to what extent mineral royalties are being collected for the sector.
+Mining sector fees. Mining sector fees applicable to ASM include license fees and the surface fees. For ASM
+producers, the license fee is set at $600 USD for 1 ha for 2 years renewable (payable in BIF to the Office of
+Mines and Quarries (OBM)). An annual surface fee of $5,000 USD for gold, $1,500 USD for coltan and $1,000
+for cassiterite and wolframite, payable to the OBM, is also levied on ASM producers.
+Trading houses face relatively high license fees, set at $35,000 per 2 years renewable for gold and $10,000
+USD for 2 years renewable for 3Ts. The high level of fixed costs for trading houses (compared with relatively
+low costs elsewhere in the mineral fiscal regime) suggests a preference towards keeping the number of legal
+trading houses low. It is unclear to what extent gold trading houses remain operational or open since the
+2019 ban on gold exports by private entities.
+Other fees. It was reported during the course of the research for this study that two additional taxes are
+often applied to international mineral trade from Burundi, despite not appearing in either the Mining Code
+or the Mining Regulations. The first is an export tax of 0.2% for gold, 1% for cassiterite and wolframite and
+2% for coltan. The second is a currency repatriation levy of 1% of the value of each transfer. The extent to
+which these taxes are applied in practice to mineral exports is not known.
+Other taxes. 3Ts production in Burundi is subject to a fixed fee local tax, payable to the municipality where
+the mining occurs. For the ASM sector, the tax is set at 500 BIF / month ($0.25 USD) for coltan, 200 BIF ($0.10
+USD) / month for cassiterite and wolframite production and 200,000 BIF ($100 USD) / year for mining
+cooperatives.
+Mineral supply chain actors are also subject to an environmental tax paid annually by trading houses (2
+million BIF / $1,019 USD), mining cooperatives (1 million BIF / $509 USD) and transporters of mineral
+products (0.5 million BIF / $255 USD) to the Burundi Office for the Protection of the Environment (OBPE).
+Applicable to mining and minerals sector
+General business taxes. Mining businesses, like other commercial enterprises, are subject to the payment of
+taxes. The general taxes include Corporate Income Tax (CIT), Value Added Tax (VAT) and Pay as You Earn
+(PAYE). CIT rates are higher for companies with higher turnover and who employ more employees. A number
+of tax exemptions exist, such as reduced rates for companies operating in the Free Trade Zone and employing
+more than 100 permanent Burundian employees. However it is unclear to what extent these exemptions
+apply or are enjoyed by 3TGs sector companies.
+Detailed information on revenue collection from the mining sector for Burundi is not available from either the
+OBM or the OBR, reflecting a lack of transparency in terms of data sharing (Burundi was ranked 165/180 in
+Transparency International’s Corruption Perceptions Index in 2020 (Transparency International, 2021)).
+However tax compliance countrywide is low, with a tax-to-GDP ratio of 15% as of 2019. This figure is likely to
+be even lower in an informal sector such as ASM.
+Note that the absence of fiscal requirements for mineral imports in the above table is due to the lack of formal
+mineral imports into Burundi. Given that there is no infrastructure in the country for value-addition, it does not
+have a formal re-export sector. However, Burundi’s role as a transit hub for gold smuggled from the DRC has
+been well-documented. Land routes from South Kivu to Bujumbura have been reported as key smuggling
+routes for gold (IMPACT, 2020). Senior Burundian officials have been named in UN Group of Experts reports as
+early as 2009 in connection with major gold smuggling networks (Mahtani et al., 2009). More recently, the UN
+Group of Experts has reported discrepancies in international trade data, which suggests a continued pattern of
+smuggling. In 2018, Burundi officially exported 601.7 kg of gold to Dubai, but the United Arab Emirates
+statistics indicate that traders in the Dubai market received more than 2,130.57 kg from Burundi in the first 9
+19
+
+months of the year (Zounmenou et al., 2019). However, it appears that the political upheaval and subsequent
+economic impacts, including a liquidity crunch and shortage of US dollars, have contributed to a reduction in
+Burundi’s role as a hub for smuggled minerals, in particular gold, from the DRC (IMPACT, 2020).
+INCENTIVES AND DISINCENTIVES FOR FORMAL TRADE
+One of the most striking aspects of Burundi’s mineral fiscal regime is the extremely high level of fixed costs
+associated with operating legally, which is particularly stark for gold. Figure 4 shows an annual average of the
+fixed costs associated with producing and
+exporting gold in Burundi, Uganda and Rwanda. Comparison of fixed costs for gold* and 3Ts
+Burundi shows much higher fixed costs than production and exports (USD annual average)
+either of its neighbours. In a context where all $25,000
+3TGs production is currently conducted by small
+operators, these fixed costs seem exorbitant in a
+$20,000
+country whose GDP per capita was recently
+ranked as the lowest in the world (World Bank,
+$15,000
+2019a). There is no doubt that these high fixed
+costs act as a disincentive for formal trade.
+Mineral royalties, on the other hand, are much $10,000
+lower in Burundi than in either Uganda or
+Rwanda, standing at 2% for gold and 1.5% for $5,000
+3Ts (compared to 6% and 4% respectively in
+Rwanda, and 5% for all minerals in Uganda). If
+$-
+fixed costs could, therefore, be brought further
+Burundi Uganda Rwanda Burundi Uganda Rwanda
+into line with mineral royalties rates, this might
+Mine site (gold) Mine site (3Ts)
+incentivise higher levels of formalisation and
+Point of export (gold) Point of export (3Ts)
+therefore tax compliance in the minerals sector
+in Burundi. Figure 4: Fixed costs comparison gold exports. Source: author's calculation.
+*based on costs levied on gold supply chain before 2019 ban on gold exports
+Also of note is the existence of taxes that are not by private entities
+registered in the legal texts that govern the ASM sector in Burundi, but that appear to be levied on mineral
+exports in reality. These include an export tax of 0.2% for gold, 1% for cassiterite and wolframite and 2% for
+coltan, and a currency repatriation levy of 1% of the value of each transfer. Research conducted for this study
+found that these taxes elicit some pushback from supply chain actors, given their ambiguous legal status, and
+they almost certainly serve to undermine trust in the legal regime create confusion for supply chain actors.
+These taxes should be clarified in the relevant legal texts in order to mitigate these risks.
+Finally, albeit not a strictly fiscal matter, the 2019 ban on gold exports by private entities in Burundi no doubt
+plays a part in incentivising or disincentivising formal gold trade. This study was not able to obtain information
+on prices paid by the Burundi Central Bank (BRB) to gold traders in the country, although it is unlikely that the
+bank is able to offer competitive prices in a sector where prices are often high and profit margins are low. This
+is likely to be driving existing gold trade underground and potentially incentivising the smuggling of gold out of
+Burundi either directly to international gold trading hubs such as the UAE or across the border to neighbouring
+Rwanda or Uganda. In the long run, this is not likely to contribute positively to government revenue in Burundi,
+and will further undermine trust and stability in the sector.
+2.4. DRC
+The DRC hosts an estimated 2 million artisanal miners extracting a wide variety of minerals (Geenen, Stoop and
+Verpoorten, 2021). Eastern DRC, this study’s area of focus, hosts up to 382,000 artisanal miners, of which 66%
+work in the gold sector (Matthysen et al., 2019). ASM supply chains in the DRC are often long and complex,
+involving a large number of actors working all along the chain, including miners, pit owners, service providers
+20
+
+and processors, cooperatives, small traders, large traders, buying houses and processing entities, and others.
+Unlike other jurisdictions mentioned in this paper, such as Rwanda, these intermediaries play an important part
+in Congolese mineral supply chains.
+The fiscal regime that governs the Congolese ASM sector is notoriously complex and burdensome. If fully
+complied with, it can render the export of responsibly produced gold virtually unviable, as has been experienced
+by a number of responsible sourcing pilot projects in the region. The complexity and high costs associated with
+the regime incentivise informal mineral trade, in particular for gold, which lends itself to smuggling with its high
+value-to-volume ratio. This section gives an overview of the fiscal regime applicable to ASM in the DRC and the
+extent to which it is implemented in practice, as well as providing some insight into the aspects of the fiscal
+regime that act as incentives or disincentives for formal trade.
+MINERAL FISCAL REGIME
+The minerals sector in the DRC is governed by the 2018 Mining Code, a revision of the previous Mining Code
+from 2002. The Mining Code stipulates the fiscal requirements for LSM, whilst the fiscal regime for ASM is more
+decentralised, generally set out in Decrees published by the provincial authorities. The 2018 Mining Code
+constituted a significant revision of the previous code that had been in place since 2002. The revision saw a
+number of key changes, including legal and regulatory measures for transparency, traceability and certification
+of mineral substances (Article 7), the introduction of artisanal mining zones (ZEAs) and the obligation for ASM
+to operate through
+cooperatives (Article 111),
+and the possibility for
+mineral concession holders
+to assign part of their
+concession to artisanal
+exploitation (Article 30).
+The Revision of the 2002
+Mining Code in 2018 also
+brought with it significant
+changes to the fiscal
+regime. These changes,
+designed to increase the
+economic and tax benefits
+to the country from
+Figure 5: Comparison of fiscal regimes of various mining jurisdictions. Source: NRGI (2018)
+industrial mining, included
+new taxes and provisions to simplify tax bases and more effectively share some of the revenue with provincial
+government entities (Lassourd, 2018). Despite these changes, mineral fiscal regimes in DRC remain onerous
+when compared to comparable mining jurisdictions (see Figure 5 for comparison of industrial regimes). The
+LSM regime has been assessed as potentially discouraging to investment due to the total economic impact,
+especially after de facto taxes (collected outside of the strict legal scope of the regime) are taken into account
+(Lassourd and Okenda, 2018). The ASM sector is no exception, providing a complex and onerous framework
+within which supply chain actors are expected to operate.
+Table 4 below gives an overview of the taxes and fees applicable to the ASM 3TGs sector in South Kivu and Ituri
+(given the Madini project’s focus in these geographies). It is worth noting at this point that many of the taxes
+and fees that are levied on supply chain actors on the ground occupy a legally ambiguous space. Some – such
+as taxes and fees levied by armed groups or public security services at roadblocks – are clearly illegal, and others
+are stipulated clearly in specific legal texts that govern the mining sector. Many, however, fall in between clear
+legality and illegality. Separating the legal fees from the illegal or legally ambiguous ones can be a challenge.
+21
+
+Given the high-level nature of the research presented in this study, a more in-depth study of fiscality (and
+parafiscality) in the DRC is recommended to corroborate the high-level findings presented here.
+Table 4: Taxes and fees payable on ASM production, import and export of 3TGs in DRC
+Specific to ASM sector
+Mineral production and trade fees. The DRC imposes a variety of fees, taxes and levies all along 3TGs ASM
+supply chains. At mine site level, taxes and fees generally differ by province and are set by the respective
+provincial authorities.
+Ituri
+The relevant taxes on the ASM production and trade of 3TGs in Ituri are clearly set out in the Arrêté
+Interministeriel des Ministres Provinciaux N.07/EBK/004/CAB/MINPRO/P.I/MPIEE/2021 and
+N.06/JEN/006/CAB/MINICOFINCEA/P.I/2021. Fees are payable to the provincial mining division and
+provincial finance authority. They include, amongst others:
+• artisanal mining card (annual fee of $13.5 USD for gold and $10 USD for 3Ts)
+• trading card (annual fees between $75-150 USD for gold and $70-$100 USD for 3Ts)
+• tax on artisanal mining sites ($200 USD for gold and $20 USD for 3Ts annually per site)
+• annual approval fee for artisanal mining cooperatives (annual fee of $400 USD for gold and $200 USD
+for 3Ts)
+• registration tax on mining dredges and motor pumps ($800 USD yearly for a dredge and between $75-
+$500 USD yearly for pumps, depending on pump capacity)
+• a tax on the sale of precious ASM materials other than diamonds and gold (2% of the value of each sale
+for 3Ts, payable for each transaction)
+• 1% artisanal gold (and diamond) transaction tax levied on transactions between artisanal miners, traders
+and comptoirs (1% of the value of each sale)
+• incentive tax for local processing of mineral concentrates in the province ($150 USD per transaction)
+• tax on authorisation to transport or transfer minerals ($150 USD per transaction for gold and $0.5 USD/kg
+for 3Ts)
+For each tax laid out above, there is an administrative fee also laid out in the Arrêté of circa 10% of the value
+of the tax.
+South Kivu
+In South Kivu, the majority of the taxes and fees are set out in the Arrêté Interministériel provincial
+N°…/CAB/MINIPRO/MEE/SK2021 et 08/021/GP/SK/CAB/MIN FIN.ECO.COM&IND/2021 du 29/01/2021 fixant
+les taux des droits, taxes et redevances à percevoir à l'initiative du Ministère provincial des mines, énergie et
+Environnement en Province du Sud Kivu. These include, amongst others :
+• Artisanal mining card ($10 USD / year)
+• Trading card ($300-$500 USD annually for gold traders and $300 USD for 3Ts traders)
+• annual approval fee for artisanal mining cooperatives ($300 USD / year)
+• registration tax on mining dredges, motor pumps and other equipment (ranging from $30 - $1,000 USD
+depending on the equipment)
+• tax on artisanal gold mining sites ($250 USD / pit / year)
+• tax for mitigation and environmental rehabilitation of ASM site (5% of the production of each pit)
+• a tax on the sale of precious ASM materials other than diamonds and gold ($100 annually for 3Ts)
+• tax on mineral transport ($10 USD / mineral lot)
+• tax on mineral transfer to another province (1% of the value of the mineral lot)
+22
+
+The above taxes are normally subject to the charging of administrative fees, but these fees are not included
+in the legal text that defines them, and as such some pushback against the payment of administrative fees
+by supply chain actors exists.
+Other taxes set out in different legal texts in South Kivu include:
+• tax on the production of minerals other than gold and diamonds, payable to the decentralized territorial
+entities (ETD in French) at the commune and chefferie / secteur level ($0.12 USD / kg)
+• fee for service paid to the Service d'Assistance et d'Encadrement de l'Exploitation Minière Artisanale et
+a Petite échelle (SAEMAPE) at mine site level (FRSR) (5% of the production of a site for gold, $0.15 USD
+/ kg for tin and tungsten, $0.25 USD / kg for coltan). In practice, this is only paid in some territories in
+South Kivu.
+• fee for service paid to SAEMAPE by traders ($10 USD / month for gold, $0.15 USD / kg for tin and
+tungsten, $0.25 USD / kg for coltan)
+Finally, there is a mining cooperative approval fee of $5,000 USD payable to the central government, levied
+once in the lifetime of a mining cooperative.
+Fees that are also levied on mineral processing entities (found in the Arrêté Interministériel N°
+0001/CAB.MIN/MINES/01/2019 et N° CAB/MIN/FINANCES/2019/009 du 22 février 2019 portant fixation des
+taux des droits, taxes et redevances à percevoir a l'initiative du Ministère des Mines) include:
+• approval tax for a Category A Processing Entity (Entité de Traitement Catégorie A)10 ($5,000 USD /
+2 years)
+• annual advance fee ($50,000 USD / year)
+Mineral export fees. Taxes and fees payable at the point of export include those levied on export entities
+(regardless of no. of exports) and those levied on individual export lots.
+They are applicable to all mineral exports (regardless of which province the minerals originate in). Those
+levied on export entities are laid out in Arrêté Interministériel N° 0001/CAB.MIN/MINES/01/2019 et N°
+CAB/MIN/FINANCES/2019/009 du 22 février 2019 portant fixation des taux des droits, taxes et redevances à
+percevoir a l'initiative du Ministère des Mines. They include for gold:
+• approval tax for a buying and selling office for authorised mineral substances ($5,000 USD / year)
+• gold trading house buyer fee ($1,000 USD / year for comptoirs that house 10 or fewer buyers)
+• additional buyer fee, where a comptoir has more than 10 buyers ($1,500 USD annually for gold)
+• guarantee for the approval of a buying and selling office for authorised mineral substances (gold) ($2,500
+USD / at the setting up of the comptoir. In theory this is refundable, but in practice refunds are not given)
+• Export licence fee ($200 USD / year for gold)
+For 3Ts:
+• Category A Processing Entity Licence Fee ($5,000 USD per year)
+• Tax on the authorisation to treat or process substances other than artisanal mining products ($300
+USD / year)
+In addition to the above, a number of taxes and fees are taken at the point of export for each mineral lot.
+These include for gold:
+• Exit fee (in the Arrêté Interministériel N° 0459/CAB.MIN/MINES/01/2011 et N°
+295/CAB.MIN/FINANCES/2011 du 11 novembre 2011, the fee is set at 0.5% of the sale value).
+10 The Arrêté ministériel n° 3163/CAB.MIN/MINES/01/2007 du 11 août 2007 portant réglementation des activités de l’entité de traitement
+et de l’entité de transformation des substances minérales categorises 3Ts processing centres as follows : Category A – any processing entity
+that engages in mineral processing operations to produce concentrate as a commodity; Category B: Any processing entity that, from mined
+ores or concentrates, produces refined metal as a marketable product.
+23
+
+However, the research conducted for this study found that in practice, 1.5% is charged due to a
+reported clause in another piece of legislation. After initial pushback by supply chain stakeholders
+that stopped exports for a few months, 1.5% has become the accepted amount.
+• Community Interest Tax (1% of the purchase value of each lot, payable to the provincial authorities)
+• Remunerative tax (0.5% of the sale value, distributed between a number of state entities)
+For 3Ts, after the re-establishment of the payment of mineral royalties for artisanal production in 2019
+following the revisions of the Mining Code in 2018, the fees applicable to ASM 3Ts exports include::
+• Remunerative tax (1% of the sale value, payable to the DGDA)
+• Mining royalties (3.5% of the sale value for cassiterite and wolframite and 10% of the sale value for
+coltan, distributed between the treasury, the province / local authorities and the mining fund)
+Applicable to mining and minerals sector
+General business taxes. Traders, treatment entities and comptoirs are required to act as a legal entity and
+must hold an RCCM (Registre de commerce et de crédit mobilier). They are subject to the payment of taxes
+through a Trade Register. Thus, they must pay to the General Tax Directorate (Direction Générale des Impôt
+(DGI)) 30% of profits or the equivalent of 1% of annual turnover; personal income tax for their agents;
+contributions to the national social security fund.
+As is clear from Table 5, the Congolese fiscal regime is highly complex. Fiscal provisions relating to artisanal
+mineral supply chains are laid out in a number of different legal texts and often vary by province. Furthermore,
+there are large numbers of parafiscal taxes that are in some way related to the fiscal regime, but are not strictly
+captured in written law – for example, the charging of administrative fees alongside taxes in South Kivu that do
+not appear in the legal texts that define these taxes. The reality is that comprehending tax legality in the
+Congolese minerals sector is no simple feat, even for those with significant experience and networks in the
+sector. It follows that for the average Congolese artisanal miner, or even rural state agent, the exact nature and
+number of taxes to be levied is likely to remain a mystery.
+This study has looked at parafiscality (illegal or legally ambiguous taxation) only in the context of mineral
+exports, but reports have shown that these taxes exist at every level in the Congolese supply chain. At the point
+of export some – such as the issuing of a certificate of non-objection to export by the Foreign Trade Division, to
+take but one example – are supposed to be free, but in practice a fee of $50 USD is normally collected before
+the issuing of the certificate. Others – such as commissions for various government entities – are taken
+informally as a percentage of the FOB value11 of the export. Whilst it is common practice for these to be levied,
+they are strictly informal and as such there is often pushback against paying them by supply chain stakeholders.
+It also creates confusion amongst supply chain actors, on whom the responsibility falls of knowing which taxes
+need to be paid to which entity, which are strictly legal, which are parafiscal but without which export cannot
+happen, etc. This confusion will in turn have a negative impact on tax compliance in general as well as
+incentivize corruption, with actors in practice having to navigate the system to reduce (para)fiscal costs and the
+logistical burden of paying taxes and fees to a number of different agencies.
+There are a number of factors that influence the high levels of parafiscality in the DRC. One, which occurs
+mostly at mine site level, is the issue of unpaid or underpaid state agents. The Congolese ASM Service -
+SAEMAPE – is charged with assisting and supervising ASM, which includes the collection of tax revenues from
+the sector. This organizational structure allows for monitoring and enforcement agencies to take ASM-specific
+issues into account. However, the site level agents who belong to these institutions often lack capacity and are
+not registered, meaning that they do not receive a state salary. According to civil society reporting, out of 128
+11 Market value of the goods at the point of uniform valuation (i.e. at point of customs at export) (OECD 2003)
+24
+
+SAEMAPE agents in Ituri in 2018, only 7 were registered and therefore paid by the state (Bulongo, 2018). This
+results in the levying of informal taxes by state agents in order to fill this salary gap.
+Calculating tax compliance in the Congolese artisanal mining sector is difficult given the lack of data on tax
+revenues collected. Whilst some data is collected at various local government levels, understanding the
+contribution of minerals sector tax revenues to total revenues collected was not possible under the scope of
+this study due to lack of access to data. However it is safe to assume that, given the very low tax-to-GDP ratio
+of 7.5% – well below the Africa average of 16.5% (OECD, 2020a) – and the informality of the ASM sector, it is
+likely that tax compliance is very low, and that losses from informal mineral trade are great. This is corroborated
+by anecdotal data from the sector: a recent civil society report from South Kivu reported for example that the
+1% tax on mineral transaction payable by traders is almost never paid (Bulongo, 2019).
+Part of the reason for low revenue collection in the ASGM sector comes from the fact that taxes on mine site
+production are collected at the point of the mining cooperative (where there is an active cooperative).
+Production is declared in the presence of a SAEMAPE / Division des Mines agent, and tax is calculated
+accordingly. However, supply chain fragmentation in the Congolese ASM sector is very high. The use of gold as
+currency, both for the repayment of debts and pre-financing, and for the payment of worker’s salaries, means
+that often only a small proportion of the gold that is produced at a particular site will pass through the hands of
+the cooperative, with the rest distributed amongst other actors. This means that the proportion of gold that
+reaches the cooperative – and upon which % value taxes such as the FSFR are calculated – is a significant
+underreporting of total gold production, likely resulting in significantly smaller formal revenues to the
+authorities than intended by the fiscal regime, but with a difficult to know level of informal taxation occurring
+to the benefit of unpaid or underpaid state agents.
+Another, more significant reason for low revenue collection in
+the 3TGs ASM sector is a result of high levels of informality and $22.2
+illicit trade in ASM supply chains, in particular for gold. In 2012,
+million
+EITI estimated the losses to the DRC from ASM gold alone to be
+$8 million a year, a figure which is likely to have increased in the
+time since. In 2020, total ASM exports of $2.3 million USD were
+declared. Actual figures are much higher. In 2013, the UN Group
+of Experts estimated that 98% of ASM gold was smuggled out
+of the DRC. If this still holds true, it would put 2020 ASM
+production up to a value of $119 million USD. If we take BGR’s
+more recent estimate that 15-22 tonnes of ASM gold are
+produced per year in DRC the value is even higher, reaching at
+least $742 million USD at today’s prices12 (Neumann et al.,
+$71,717
+2019). This would mean that 99.5% of gold that leaves the DRC
+is not accounted for in official exports. In terms of lost tax
+revenues, the discrepancies are significant. Even taking into Official Estimated
+account only the 3 export taxes amounting to 3% of export (Assuming 3% export tax)
+value13, we would see revenues accruing to the state of $22.2
+Figure 6: Potential revenue capture on estimated actual
+million.
+gold production
+INCENTIVES AND DISINCENTIVES FOR FORMAL TRADE
+The existence of separate fiscal regimes for ASM and LSM in the DRC, as well as institutions that are mandated
+specifically to monitor and regulate the ASM sector, is a strength of Congolese ASM sector governance and
+12 Price of $55 USD/g, assuming 90% purity
+13 Exit fee, assumed at 1.5% as is paid in practice; Community Interest Tax (1%); Remunerative tax (0.5%)
+25
+
+could in theory pave the way towards higher levels of formal mineral trade in the country. However, various
+implementation factors undermine these governance structures, providing strong disincentives for the
+informal or illicit trade of ASM minerals within and out of the country.
+Firstly, the legal ambiguity within which many taxes and fees stand is a strong disincentive for formal trade.
+Due partly to the decentralised nature of ASM sector governance and partly to overlapping or conflicting legal
+texts, understanding which taxes are fully legal and which are not is a complex process. Furthermore, the fact
+that these taxes are payable to a number of different institutions puts the onus on the supply chain actor to
+know which taxes should be paid, how much and to whom. In a complex legal environment this may lead to
+confusion and disincentivise fiscal compliance. The clarification of taxes and fees payable by ASM supply chains
+in each jurisdiction would be a first step in providing a greater incentive for fiscal compliance. The Province of
+Ituri has already moved in this direction with the development of an Arrêté that lays out all the taxes and fees
+(including administrative fees) applicable to ASM minerals sector production and trade in the province. Whilst
+the number of fees and taxes has not decreased, the clarification of which fees are payable will no doubt provide
+a legal basis for supply chain actors to i) push back against any fees not mentioned in the Arrêté and ii) build
+awareness amongst both supply chains actors and state agents as to what the legal fiscal regime constitutes in
+the province. Whilst this will not in itself address the issue of the levying of parafiscal taxes on the ground, it is
+a step in the right direction.
+Secondly, the number of taxes and entities that levy tax are a disincentive for formal trade, given the
+administrative burden it places on supply chain stakeholders to ensure that high numbers of taxes and fees are
+payable to different agencies in different locations and at different points along the supply chains. As discussed
+further in the Comparative Analysis (Section 2.5), this acts as a significant barrier to ease of compliance for
+supply chain stakeholders and is likely to be contributing to mineral smuggling as well as the underpaying of
+taxes and fees.
+Thirdly, the cumulative burden of the ASM fiscal regime can result in elevated costs for supply chain actors,
+undermining commercial viability in a sector with narrow margins. Take, for example, the disproportionately
+high costs associated with the production of gold in South Kivu. The 5% tax payable to SAEMAPE on gold
+production and a further 5% for environmental rehabilitation of mine sites alone amount to 10% of the value of
+production, likely rendering any operations unviable. Whilst it is unclear to what extent these taxes are levied
+in practice, their existence is likely to incentivise actors to find ways of navigating the system to avoid them.
+The high costs levied on cooperatives are also likely to disadvantage smaller players. This supports – as has
+been discussed in literature – in the consolidation of power of ASM cooperatives into the hands of an elite group
+of actors (de Haan and Geenen, 2016). The $5000 needed to obtain approval to form a cooperative, for example,
+precludes small producers with limited access to investment. High rates of taxation on production - in South
+Kivu 10% of the production value is theoretically taken (5% by SAEMAPE and 5% for environmental
+rehabilitation) – mean that cooperatives need significant cashflow to be able to pay them, again disadvantaging
+those with fewer means, or pushing those with less financial capacity into informality.
+The same is true at the point of export, especially if legally ambiguous taxes and fees are taken into account. In
+a case study from 2018, Bulongo analysed all the tax and fee costs (including legally ambiguous) reportedly paid
+by a Bukavu-based comptoir for its export of 4 kg of gold that year (Bulongo, 2019). Assuming that the export
+took place in one lot, Bulongo estimated that the comptoir would have paid over USD $17,000, making up 11%
+of the purchase value of the gold exported. If other taxes, such as Corporate Income Tax, were taken into
+account, the value would be even higher. Similarly Impact estimated that an ASM gold export from the DRC is
+likely to pay 8-11% of its volume in export taxes, charges and fees, a share that goes up to 18-22% if transport
+is also taken into account (Katho et al., 2021). This example shows the fiscal pressures faced by comptoirs
+looking to operate formally and highlights how the high costs are likely to contribute to higher levels of illicit
+gold exports from DRC. Anecdotal evidence supports this. It is common practice for traders to trade only a small
+26
+
+percentage of their gold to registered comptoirs. This provides them with a legitimate paper trail to justify their
+license, whilst smuggling the majority of their production in order to avoid the high costs associated with the
+formal regime. Comptoirs are reported to behave in a similar way, officially exporting only a small proportion
+of the gold they buy.
+In the case of ASM in a context of widespread informality, the purpose of a fiscal regime should be to incentivise
+more mineral producers, traders and exporters to sell their minerals through legal channels. In the context of
+Eastern DRC, the main disincentives for formal trade identified within the ASM fiscal regime are i) the high
+taxation costs payable along the supply chain, ii) the ambiguities that exist in what constitutes a legal or formal
+tax and iii) the high number of entities entitled to levy tax at different points in the supply chain. Adding the
+extremely high levels of parafiscal fees levied on the supply chain, the overall effect is a fiscal regime that is
+burdensome, making it extremely difficult for actors to fully comply with it whilst retaining commercial viability
+in their operations. This points towards the need to drastically simplify the tax regime in DRC in order to
+incentivise formal exports. The introduction of a single tax at the point of export, such as a mineral royalty,
+could go a long way in facilitating greater formalisation. This would have the advantage of being easier and
+more efficient for both supply chain actors and the DRC government. For supply chain actors, it would reduce
+confusion as to which costs needed to be paid at which point in the supply chain. For the state, it would reduce
+the burden of tax collection for the majority of entities. This would free up ASM monitoring bodies such as
+SAEMAPE and provincial Division des Mines agents to promote better chain of custody practices and working
+conditions in the ASM sector without having to track and tax production. If the principal mandate of site-level
+authorities was to support ASM (and not collect any taxes), it would also likely improve trust between the
+authorities and the ASM.
+Ta ble 5: Estimated revenue generated from improved formalisation
+Export (USD) Estimated revenue (export tax)14
+50% formal exports $259,875,000 $7,796,250
+25% formal exports $185,625,000 $5,568,750
+$
+5% formal exports15 $37,125,000 $1,113,750
+2020 (estimated official) $2,390,581* $71,717
+Source: CTCPM (2020) Statistiques Minières
+Acknowledging the fact that formalisation takes time, Table 6 shows that even an achievement of 25% formal
+exports of gold would generate significant revenue for the state. It also shows the importance of concentrating
+on the formalisation of gold exports. In 2020, officially reported ASM 3Ts exports are estimated to have
+generated a revenue from export tax alone (4.5%16) of $5,500,349 USD, far more than the estimated $71,717
+USD for gold. However, given the much higher levels of formal 3Ts exports17, there is less room for growth of
+revenues from the sector. Conversely, if only 25% of gold exports were to take place legally, the value of export
+tax alone would exceed the current revenue generated by 3Ts exports.
+2.5. COMPARATIVE ANALYSIS
+The following section provides a comparative analysis of the fiscal regimes described in the sections above.
+Whilst all findings are based on this study’s research as to the fiscal regimes applicable to ASM 3TG production
+and export in each of the four target countries, it should be noted that tax law is notoriously complex, and that
+14 Based on 3% total (Exit fee, assumed at 1.5% as is paid in practice; Community Interest Tax (1%); Remunerative tax (0.5%))
+15 Based on lower end of BGR estimate (15 tonnes annually), valued at $742 million (assuming $55/g at 90% purity)
+16 Mining royalty (3.5%) and remunerative tax (1%)
+17 According to ITSCI, 95% of ASM 3Ts production in the Great Lakes region is covered under their initiative
+27
+
+the below findings are based on simplified models and estimations designed to best reflect the complex
+situations on the ground.
+AMOUNT OF TAX LEVIED
+In order to compare the actual costs associated with the fiscal regimes of Uganda, Rwanda, Burundi and the
+DRC, we have estimated the amount of tax levied on a 3kg export of gold (worth an estimated USD $148,50018)
+and a 1 tonne export of cassiterite (worth an estimated USD $25,06519) from each of the respective
+jurisdictions.20 In order to achieve this, the study created simplified models based on a number of assumptions:
+i) a simple supply chain, comprising only of two groups of actors (production/import and export), ii) including
+only payments that are made directly to a government entity, iii) assuming the same price for import and export
+(for consistency across geographies and given the very narrow margins that characterise the sector), iv)
+assuming that the entities involved are exporting 1 mineral lot monthly (in order to avoid a bias towards high
+fixed costs such as licensing) and v) that no mineral processing takes place (to allow for comparisons in countries
+where mineral processing facilities are not available), amongst others.
+Figure 7 and Table 1 show the costs associated with these exports. Costs have been calculated separately for
+Ituri and South Kivu in the DRC, given their different fiscal regimes at point of production.
+Tax and fees levied on production and export of 3kg gold / 1 tonne cassiterite
+$25,000
+$20,000
+$15,000
+$10,000
+$5,000
+$-
+DRC (Ituri) DRC (South Uganda Rwanda Burundi DRC (Ituri) DRC (South Uganda Rwanda Burundi
+Kivu) Kivu)
+Gold Cassiterite
+Mine site Export point From 1st July 2021
+Figure 7: Estimated taxes payable on export of unprocessed cassiterite and gold
+The results show the discrepancies that exist in the fiscal regimes for each country. In Rwanda and Burundi,
+mineral royalties are payable at the point of export, whilst in Uganda mineral royalties are payable at the point
+of production, according to monthly declaration of value of production. Whilst this does not necessarily mean
+that in Uganda the burden of the costs is always shouldered by the miners, as it is likely that costs are taken
+into account in mineral sale prices, significant royalties at point of production are likely to disadvantage smaller
+actors, especially given high capital costs often associated with the sector. Exporters on the other hand tend to
+act as aggregators and are therefore less likely to experience serious cashflow constraints.
+The Figures show the fiscal burden that will be created by the planned amendments to the Ugandan fiscal
+regime, which comes into force on 1st July. Our model estimates taxes payable in the range of $22,457 – or 15%
+of the total estimated sales value – for an export of 3kg Ugandan-produced gold (unprocessed) according to
+the new legislation. Even processed gold – which is in reality more likely to be exported from Uganda – would
+18 Assuming $55/g at 90% purity
+19 Assuming $33/kg at 75% purity
+20 The values of 3kg and 1 tonne were chosen as reasonable monthly production values for an ASM site. Exports normally take place in
+larger quantities (e.g. 25 tonnes for cassiterite), but it was deemed reasonable to keep the same values for consistency, in order to compare
+between the 4 chosen jurisdictions.
+28
+
+trigger estimated tax payments of USD $15,032, which amounts to 10% of the estimated sales value of a 3kg
+locally-produced export. These figures seem unreasonably high, and no doubt put into question the commercial
+viability of exporting gold from the country. As discussed in Section 2.2, refineries may be able to negotiate
+some sort of exemption from the new export levies. However, this would i) undermine the planned increase in
+government revenues from the sector and ii) consolidate gold exports into the hands of a powerful elite, risking
+entrenching existing alleged links with mineral smuggling from neighbouring countries.
+Table 6: Estimated tax payable on export of unprocessed gold or cassiterite
+Import From 1st % of export
+Country Mine site Export point Total
+point July 2021 value
+Gold (3kg)
+DRC (Ituri) $ 109 $ 6,691 $ 6,801 5%
+DRC (South Kivu) $ 14,90 $ 6,691 $ 21,59 15%
+Uganda $ 7,478 $ 128 $ 14,850 $ 22,457 15%
+Uganda (imported) $ 1,76 $ 128 $ 14,850 $ 16,74 11%
+Rwanda $ 67 $ 9,351 $ 9,419 6%
+Rwanda (imported) $ 2,52 $ 9,351 $ 11,875 8%
+Burundi $ 484 $ 4,513 $ 4,997 3%
+Cassiterite (1 tonne)
+DRC (Ituri) $ 550 $ 1,569 $ 2,120 8%
+DRC (South Kivu) $ 1,441 $ 1,569 $ 3,011 12%
+Uganda $ 1,056 $ 82 $ 2,506 $ 3,645 15%
+Uganda (imported) $ 531 $ 82 $ 2,506 $ 3,120 12%
+Rwanda $ 67 $ 1,573 $ 1,641 7%
+Rwanda (imported) $ 426 $ 1,573 $ 1,999 8%
+Burundi $ 150 $ 877 $ 1,02 4%
+DRC results differ significantly between South Kivu and Ituri. This is largely due to two taxes payable in South
+Kivu but not in Ituri: a 5% tax levied on the production of each site by SAEMAPE, the artisanal mining
+administration, and a further 5% levied on production for the rehabilitation of mine sites and mitigation of
+environmental impacts. The latter came into law this year, replacing a previous cost of $1 USD per ASM miner
+per year at a mine site, a value that represents a much smaller financial burden. It is clear that the levying of
+these taxes would far exceed what is commercially viable for the production of gold. Given the recent
+introduction of the environmental rehabilitation tax, our research was not able to ascertain to what extent it is
+levied in practice. However, compliance is likely very low. For the 5% levied by SAEMAPE, compliance is
+reported to differ by territory. Insufficient numbers of SAEMAPE and Division des Mines agents mean that a
+large amount of actual production likely goes unreported, and taxes remain uncollected.
+29
+
+Estimated import costs were also
+Uganda and Rwanda -import vs production
+calculated according to the same
+assumptions described above for $30,000 Rwanda (Export)
+Rwanda and Uganda (Burundi
+Rwanda (import)
+and DRC were excluded due to a
+$25,000
+lack of formal mineral imports).
+Rwanda (Mine
+Figure 8 estimates the relative
+site)
+costs of legally importing 3kg $20,000
+Uganda (Export
+(unprocessed) gold from Ituri into
+from 1st July
+Rwanda and Uganda. The impact 2021)
+$15,000 Uganda (Export)
+of the Rwandan system of paying
+royalties on all minerals –
+Uganda (Import)
+produced and imported – $10,000
+becomes clear, with elevated tax Uganda (mine
+costs for imported minerals. High site)
+$5,000
+costs and likely higher royalties DRC (Ituri)
+Export
+compliance in Rwanda, therefore,
+are likely to incentivise the DRC (Ituri) Mine
+$-
+site
+smuggling of gold from the DRC Uganda Uganda Rwanda Rwanda
+(imported (produced) (imported (produced)
+in order to avoid the payment of
+from Ituri) from Ituri)
+taxes in both countries.
+Figure 8: Relative costs of legal re-exports of gold from Rwanda and Uganda
+Conversely in Uganda imports
+have historically been cheap – importing from Ituri costs little more in terms of tax than local Ugandan
+production. This in theory could have incentivised formal trade by avoiding the Rwandan situation of high costs
+in both the producer and importer countries. However the reality is that some traders used the low import (and
+virtually no export) costs to smuggle gold from the DRC (thus avoiding formal tax altogether) to Uganda and
+then export it at almost no cost. This reality is reflective of the fact that misaligned regional fiscal regimes are
+not the only incentive for smuggling. Rwanda and Uganda’s fiscal regimes were very different, and yet levels of
+regional smuggling remained high, with reports of extensive illicit trade through both countries. From July
+2021, however, the implementation of high export levies on both processed and unprocessed minerals will
+make Ugandan exports the most expensive in the region. It is unclear to in what way these changes will i) be
+implemented or ii) disrupt existing illicit trade routes. Given the high levels of smuggling that already occur in
+Uganda and the region, strengthening chain of custody information and compliance for exports will be more
+critical than ever to stemming the flows of smuggled gold.
+INSTITUTIONS THAT LEVY TAX
+The number of taxes that need to be paid, and the number of institutions that levy tax on a particular good or
+service are part of the non-fiscal factors that can impact on tax payment compliance. This is true of the minerals
+sector in the Great Lakes region. Figure 9 shows a comparison of the number of entities that levy tax on a typical
+ASM gold supply chain in DRC, Rwanda, Uganda and Burundi. Ituri and South Kivu have been represented
+separately given the variations in their fiscal regimes for ASM.
+In Rwanda, the Rwanda Revenue Authority is the only tax collecting entity for artisanal and small-scale gold
+supply chains (for 3Ts the RMB also levies a small mineral traceability levy). In Uganda, the Uganda Revenue
+Authority collects 99% of taxes levied, with the Uganda Printing and Publishing Corporation collecting a small
+fee for the gazetting of mineral licenses. In Burundi, tax collection is split between the Mining Office (OBM),
+the revenue authority (OBR) and the environment office (OBPE).
+30
+
+Entities that levy tax on ASM in DRC, Uganda, Rwanda and Burundi
+OBR (Burundi)
+Burundi
+OBPE (Burundi)
+OBM (Burundi)
+Rwanda
+Rwanda Revenue Authority
+Uganda Revenue Authority (URA)
+Uganda
+Uganda Printing and Publishing
+Corporation (UPPC)
+Division des mines et Régie
+financière provinciale Sud Kivu
+DRC South Kivu SAEMAPE (DRC)
+Division des mines et Régie
+financière provinciale Ituri
+DRC Ituri DGDA (DRC)
+Tresor public
+DRC South Kivu (inc parafiscal at export) EAD/Province (DRC)
+CGEA (DRC)
+DRC Ituri (inc parafiscal at export) OCC (DRC)
+CEEC (DRC)
+0% 20% 40% 60% 80% 100%
+Figure 9: Entities that levy tax on ASM 3TGs production, import and export
+The DRC, however, has a plethora of entities collecting (official) tax along mineral supply chains. The bars ‘DRC
+South Kivu’ and ‘DRC Ituri’ below show the entities that are involved in collecting official tax revenues, as laid
+out in tax legislation, in Ituri and South Kivu. The bottom two bars, however, show the entities involved in
+collecting tax if the other parafiscal fees taken at the point of export are taken into account. These parafiscal
+fees at the point of export are not necessarily illegal, as they appear in various government department
+documents. Whilst they are not strictly part of the tax regime, they are obligatory payments at the point of
+export, and it is therefore important that they are considered. Figure 9 only takes into account parafiscal
+payments that are taken at the point of export. There are also numerous payments – formal, informal and
+legally ambiguous – that are commonly taken at other points along the supply chain. A 2017 report by civil
+society groups in Ituri mapped 46 different taxes and fees that were payable along the gold supply chain,
+constituting a significant barrier to legal trade ((CdC/RN), 2017). Civil society have reported that actors all along
+31
+
+the supply chains object to the numerous formal and informal taxes to which they are subjected (Bulongo,
+2019).
+Looking only at parafiscal fees at the point of export,
+$30,000
+this study shows that they do not add a huge amount to
+the total value of fees levied on the supply chain (see $25,000
+Figure 10). It is not necessarily the expense of the
+$20,000
+parafiscal fees (at the point of export) that poses the
+barrier to compliance, rather the number of fees levied $15,000
+at different points and by different institutions. This
+also creates confusion as to what is legal and what is $10,000
+illegal. Ituri, for example, has recently legalised in an
+$5,000
+Arrêté the payment of ‘frais techniques’ (administrative
+fees) alongside each tax and fee, clarifying what $-
+remains a legally ambiguous structure in South Kivu. Gold 3Ts Gold 3Ts
+Whilst this does not serve to reduce the number of taxes Ituri South Kivu
+paid or entities levying tax, transparency is the first step
+Fiscal Parafiscal at point of export
+towards removing the obstacles to tax payments along
+the supply chains. Figure 10: Value of parafiscal fees (point of export only) compared
+with total fees. Source: Present study findings
+It is clear, therefore, that there is an urgent need in the DRC for a simplification of the fiscal regime applicable
+to ASM 3TGs (and other minerals). One cheap and efficient solution (for both the state and supply chain
+stakeholders) would be the imposition of a single tax at the point of export that replaces all other variable taxes
+and fees payable for each mineral lot. This would serve to i) avoid the payment of small taxes and fees to many
+different entities, ii) clarify which taxes need to be paid for both supply chain actors and state entities, iii)
+facilitate the monitoring of tax compliance with one single proof of payment, iv) create stability in the sector
+by avoiding unexpected fees and taxes levied on supply chain actors that they didn’t know about and v) reduce
+the risk of parafiscality and facilitate identification of informal taxation.
+However, whilst simplification appears a logical solution, successful implementation relies on a number of
+parallel factors. Firstly, centralised collection of tax revenues relies on effective distribution of these revenues
+to the entities and services that require them. Uganda has seen an improvement in the redistribution of mining
+revenue to local governments in recent years (Natural Resource Governance Institute and UNDP, 2016), due in
+part to increased sensitisation of local governments. Whilst redistribution of mining sector revenues such as
+royalties in the DRC has not always been effective, it has improved slightly in recent years, in particular with the
+introduction of the 2018 Mining Code (Toroskainen, Malden and Okenda, 2020). In a country as large,
+geographically diverse and politically decentralised as the DRC, collecting revenue at provincial level and
+redistributing locally is likely to be the most logical approach, especially given the already existing system of
+taxation on mineral transfer between provinces to mitigate for the loss of mineral value that occurs when
+minerals are exported from a different province than where they are produced. Secondly, policy changes must
+be accompanied by an in-depth understanding of the political economy of taxation at the local level. For
+example, the levying of taxes by SAEMAPE at mine site level is important for many state agents to supplement
+revenues in the face of unpaid salaries. Issues like this would have to be assessed and rectified to avoid the risk
+of further entrenching parafiscality in the Congolese ASM sector. If this could take place, it would free up
+entities such as SAEMAPE to focus on monitoring and providing support to the ASM sector, which would in turn
+benefit supply chain stakeholders.
+32
+
+RECOMMENDATIONS
+This briefing paper has provided a high-level overview of the fiscal regimes of Uganda, Rwanda, Burundi and
+the DRC in order to shed light on the relationship between mineral taxation and illicit mineral trade in the Great
+Lakes Region. It provides an overview of the main fees and taxes associated with the production and trade of
+3TGs in each country, as well as an assessment of implementation. It has shown the huge losses that are
+accruing to governments – in particular from the ASM gold sector – even in relatively efficiently-governed and
+simplified fiscal environments in the region. It has looked at both the strengths and weaknesses of each fiscal
+regime with relation to incentivising mineral smuggling in the region, showing how the regimes compare to
+one another and highlighting the weak spots that might be incentivising smuggling, misdeclaration of mineral
+origins and low levels of tax compliance. However, it is important to note that it is unlikely that a country’s fiscal
+regime is the only – or even the primary – disincentive for formal trade of 3TGs in the Great Lakes Region. Illicit
+trade in high-value goods operate within complex networks of powerful individuals and groups, often linked
+with organised crime, and are therefore not triggered solely by unfavourable fiscal regimes in producer/transit
+countries.
+Against this backdrop, the table below puts forward concrete recommendations to the Madini project and
+associated actors for promoting fiscal policy changes in the region that better incentivise the formal trade of
+minerals within and beyond the region, maximise government revenues from the sector and facilitate tax
+compliance for supply chain actors. Whilst fiscal regimes may not be the primary cause of illicit mineral trade in
+the region, there are areas in which fiscal policy presents an obstacle to commercial viability to those who would
+like to operate formally but for whom current fiscal requirements are too burdensome. It is with these actors in
+mind that the below recommendations have been developed.
+33
+
+Recommendation Main actors
+1) Develop a more in-depth understanding of the fiscal environment in the DRC, to build on and complement the findings in this study and provide a
+further foundation for advocacy on the issue
+a) Conduct further research – as already planned – on taxes and fees levied along 3TG supply chains in the Supply chain actors, inc mine site actors,
+DRC. traders (of all levels), investors / financers,
+transporters, processors, aggregators and
+exporters (formal and informal)
+The research should focus on areas including:
+Civil society
+- Understanding to what extent the ‘fully legal’ taxes and fees are levied in practice. Are they being collected
+Customary authorities
+in all mining areas? Are they being collected by the right people? Are the correct amounts being collected?
+Upstream Due Diligence programmes
+How much production escapes taxation, and which taxes are least / most commonly paid? Provincial Ministries of Mines, Division des
+- Understanding to what extent parafiscal fees and levies are applied to supply chain stakeholders – who Mines, Police des Mines, CEEC, SAEMAPE
+levies informal taxes, how much is levied, what is the total fiscal burden on supply chain actors, how does
+this differ according to geographical area, to what extent is parafiscality opportunistic or
+entrenched/institutionalised, etc.
+An important topic to be covered in this research is the political economy of taxation in the project’s focus areas.
+Who currently benefits from informal taxation? To what extent will the project’s activities be disrupting these
+dynamics, and what might the implications of these disruptions be? From an advocacy point of view, who would be
+the ‘blockers’ and who would be the ‘champions’ of a simplified and more transparent fiscal regime for ASM? How
+can the support of the champions be leveraged to ensure long-term positive impact and sustainability of the
+project’s aims?
+b) Conduct a consultative review of the findings of the research described above at Provincial level. Provincial Ministries of Mines, Division des
+Mines, Police des Mines, CEEC, SAEMAPE
+Civil society
+Use the review as a chance to garner support for simplification, as well as understand better the incentives and
+Supply chain actors, esp aggregators and
+disincentives of different groups (and potential competition between them) to support a simplification of the fiscal
+exporters
+regime.
+2) Advocate for fiscal reform in the DRC
+a) Advocate for the simplification and clarification of the fiscal regime at Provincial level. Provincial Ministries of Mines
+i. Advocate for clarification of the legal basis of frais techniques in South Kivu, following the example Civil society
+Supply chain actors, esp aggregators and
+taken by the provincial government of Ituri this year.
+exporters
+34
+
+ii. Advocate for the clarification of other legally ambiguous taxes and fees, e.g. whether the droit de
+sortie is 0.5% or 1.5%.
+iii. Advocate for the harmonisation of fiscal regimes across Eastern DRC, to avoid situations in which
+it is much more expensive to produce legally in one province than in another (e.g. environmental
+rehabilitation fees in South Kivu)
+b) Advocate for a simplification and harmonisation of the fiscal regime at a national level National mining authorities
+i. There seems to be political will for this already. Start a dialogue with the new mining Provincial mining authorities
+Civil society
+administration to understand the barriers and opportunities for simplification.
+ICGLR
+ii. Advocate for less overlap between national regulations, provincial regulations and local
+East African Community – regional pressure
+government (ETD) regulations, e.g. cooperative set up fee
+(and contingencies on approval?)
+Due diligence programmes and international
+standards setters
+c) Base advocacy on inclusive dialogue with relevant actors Provincial Ministries of Mines, Division des
+i. In order to build trust among agencies (which is required if a more simplified tax collection system Mines, Police des Mines, CEEC, SAEMAPE
+ETDs
+is to work) begin dialogues that include all agencies involved with ASM supply chains, from the
+Customary authorities
+mine site level to the Provincial level. This should also include customary authorities.
+Supply chain actors inc mine site actors,
+ii. Look to link with likeminded actors such as the National Business Chamber at national and
+traders (of all levels), investors / financers,
+provincial levels (FEC Mines) in EDRC who can support advocacy efforts and provide greater transporters, processors, aggregators and
+knowledge about the difficulties of compliance in practice. exporters (formal and informal)
+Civil society
+d) Collaborate with actors who have already worked on the issue. FEC Mines in South Kivu, Ituri
+i. Collaborating with likeminded partners, such as the FEC described above as well as the provincial CPS in South Kivu and Ituri
+IMPACT / Just Gold
+monitoring committees (CPS) who will present a stronger collective voice to the GoDRC. Learn
+Zahabu Safi project
+from what worked and didn’t work from those who have advocated before.
+The Sentry
+ii. High-level DRC government officials have told The Sentry that they now recognize the issue and
+Peace Direct
+are working to lower taxes, coordinating with provincial governments. Due diligence programmes
+iii. IMPACT have been advocating for lower taxes, fiscal reform and harmonisation as part of their Other likeminded actors
+Just Gold project for the past 8 years.
+iv. The Zahabu Safi project is currently facing similar challenges and looking for solutions.
+v.
+3) Advocate for fiscal reform in the Great Lakes Region
+35
+
+a) Advocate for fiscal reform in Rwanda, Uganda, Burundi and Tanzania. Whilst Tanzania was not a specific In Rwanda, Uganda, Burundi and Tanzania:
+focus for this study, it is thought to be an important route for smuggled minerals from the Great Lakes o Ministry of mines
+o Revenue authority
+Region. The Madini project should also seek to better understand the flow of minerals through Tanzania
+o Ministry of Trade
+and the current incentives and barriers to formal mineral trade. Specific policy measures that will support
+ICGLR Secretariat
+and incentivise formal mineral trade within and from the Great Lakes region include, for example:
+i. Increased transparency of public reporting in mineral production and exports, disaggregated by
+mineral. Good and easy-to-access data is critical for enabling supply chain transparency, allowing
+for collaboration between actors on mineral flows and the identification of discrepancies that may
+reflect mineral smuggling. Information sharing should be improved both within and between GLR
+countries. The sharing of information on mineral trade, export and revenue collection between
+relevant agencies (geological survey, ministry of mines, revenue authorities, customs) in each
+country is essential for the obtaining of an accurate picture of (formal and informal) mineral
+production and trade in that jurisdiction. This understanding will in turn enable the facilitation of
+legal trade. The provision of accurate data on mineral production and trade internationally is also
+critical. One way of improving reporting may be through the regular sharing of disaggregated
+mineral export data with the United Nations Statistics Division (UNSD) for inclusion in the UN
+COMTRADE database. Another may be through the effective implementation of the ICGLR’s
+Mineral Tracking Database, which has been designed but is not yet operational. Another may be
+greater efforts to include ASM data in EITI reporting.
+ii. Promote value addition in the region by reducing barriers to legal re-exports of 3TGs, in particular
+gold. These barriers look different in each country. In Rwanda, for example, VAT is payable on all
+imports, causing cashflow problems for importers. A VAT exemption should be considered for
+mineral imports. Countries in the Great Lakes Region may also assess the merit of fical incentives
+for the trade of unprocessed minerals within the region in order to facilitate value addition in-
+region.
+iii. In order to increase state revenues from ASM, which are minimal across the region, prioritise
+expansion of the tax base rather than increasing tax rates. Each country has a significant ASM
+sector, which has the potential to provide important revenues to the state. State should focus on
+an inclusive expansion of the tax base, whereby the ASM sector is supported through a
+formalisation process whereby benefits can accrue both to supply chain actors (through taxes
+being channeled back into support to the sector at a local level) and the state (through increased
+36
+
+revenues). States could consider training and capacity building for revenue authority agents in
+mineral taxation and taxing informal sectors.
+iv. Promotion of cooperation between GLR member states in the form of bilateral trade, specifically
+agreements that aim to avoid the double-taxation of minerals that are traded within the region.21
+The DRC’s planned entry into the East African Community may facilitate the putting in place of
+these types of agreements.
+b) Advocate for increased collaboration and transparent communication between GLR states. A healthy and
+formal minerals trade through the GLR will benefit all states. Increased sharing of data, collaboration of
+between each country’s authorities including customs, mining police, border control, etc will enable a more
+transparency in mineral supply chains and better monitoring of regional mineral flows. This includes
+encouraging collaboration between the DRC, a major producer of informal ASM gold, and neighbouring
+countries to minimise discrepancies between export figures (out of DRC) and import figures (into
+neighbouring countries).
+c) Advocate to the ICGLR to promote the above reforms, including:
+i. Encouraging transparent and effective communication and collaboration among member states
+ii. Facilitate data sharing through implementation of the Mineral Tracking Database
+iii. Advocate for better inclusion of ASM who are often informal and unlikely to be able to shoulder
+the burden of onerous mineral fiscal regimes
+4) Advocate for a fiscal pilot for the Madini project
+a) Use the platform of dialogue built when advocating for simplification to approach the issue of a potential National mining and fiscal authorities
+fiscal pilot for the Madini project, in order to pilot a more simplified tax structure Provincial Ministries of Mines, Division des
+Mines, Police des Mines, CEEC, SAEMAPE
+Customary authorities
+This can only take place once the space for constructive dialogue has been opened. It may not happen in the Madini
+Supply chain actors, inc mine site actors,
+project’s lifetime, but can present a good opportunity for the continuation of this work into the future by supply
+traders (of all levels), investors / financers,
+chain actors. Conduct capacity building with project partners and supply chain actors to bolster their ability to
+transporters, processors, aggregators and
+continue advocating for this issue and similar issues after the Madini project is finished. exporters (formal and informal)
+b) Collaborate with other likeminded projects to a) strengthen advocacy for such a pilot and b) add scale to Fiscal simplification ‘champions’ identified
+the pilot if appropriate over course of project to support advocacy
+21 Some movement has already occurred here, with for example the signing of a double taxation avoidance agreement between the DRC and Rwanda earlier this year (AllAfrica 2021). The extent to which this applies
+to minerals is unclear, and more of such agreements at a regional level are needed to facilitate the legal trade of minerals within the region.
+37
+
+BIBLIOGRAPHY
+(CdC/RN), C. de C. de la société civile de l’Ituri sur les ressources naturelles (2017) Trop de taxes pour peu de
+recettes : rapport d’enquête sur les taxes perçues du secteur minier artisanal de l’or en Ituri en 2015.
+Barreto, M. L. et al. (2017a) Economic Contributions of Artisanal and Small-scale Mining in Rwanda: Tin, Tantalum
+and Tungsten.
+Barreto, M. L. et al. (2017b) Economic Contributions of Artisanal and Small-scale Mining in Uganda: Gold and Clay.
+Behalal, Z. et al. (2018) S/2018/531 - Final report of the Group of Experts on the Democratic Republic of the Congo.
+Biryabarema, E. (2020) ‘Uganda gold exports more than doubled to $1.2 bln last year | Reuters’, Reuters.
+Available at: https://www.reuters.com/article/ozabs-uk-uganda-gold-idAFKBN20Y1WA-OZABS (Accessed: 8
+June 2021).
+Bulongo, S. L. (2018) CAPTATION DE LA PRODUCTION DE L’OR ARTISANAL EN PROVINCE DE L’ITURI : Défis et
+stratégies.
+Bulongo, S. L. (2019) LES FUITES, LES CHARGES ET LE POTENTIEL FISCAUX DANS LE SECTEUR MINIER
+ARTISANAL EN PROVINCE DU SUD KIVU.
+Daily Monitor (2017) ‘Remove the royalty paid on gold – Museveni orders - Daily Monitor’, Daily Monitor,
+February. Available at: https://www.monitor.co.ug/uganda/business/commodities/remove-the-royalty-paid-
+on-gold-museveni-orders-1689188 (Accessed: 29 May 2021).
+EAC (2021) ‘DRC President to launch EAC Verification Mission to the country’, East African Community, 22 June.
+Available at: https://www.eac.int/press-releases/2118-drc-president-to-launch-eac-verification-mission-to-
+the-country (Accessed: 28 June 2021).
+Geenen, S., Stoop, N. and Verpoorten, M. (2021) ‘How much do artisanal miners earn? An inquiry among
+Congolese gold miners’, Resources Policy, 70, p. 101893. doi: 10.1016/j.resourpol.2020.101893.
+Geothals, K. (2019) ‘“Gold is a dirty business, even if I do say so myself” - De Standaard’, De Standaard, April.
+Available at: https://www.standaard.be/cnt/dmf20190503_04370790 (Accessed: 29 May 2021).
+Global Witness (2017) Under-mined: How corruption, mismanagement and political influence is undermining
+investment in Uganda’s mining sector and threatening people and environment. Available at:
+https://www.globalwitness.org/en/campaigns/oil-gas-and-mining/uganda-undermined/ (Accessed: 29 May
+2021).
+de Haan, J. and Geenen, S. (2016) ‘Mining cooperatives in Eastern DRC The interplay between historical power
+relations and formal institutions’, Extractive Industries and Society, 3(3), pp. 823–831. doi:
+10.1016/j.exis.2016.05.003.
+IMPACT (2020) The Intermediaries: Traders Who Threaten the Democratic Republic of Congo’s Efforts for Conflict-
+Free Gold. Available at: www.greencom.ca (Accessed: 7 April 2021).
+IPIS (2017) ‘Everything that moves will be taxed’: the political economy of roadblocks in North and South Kivu
+(2017) - IPIS. Available at: https://ipisresearch.be/publication/everything-moves-will-taxed-political-economy-
+roadblocks-north-south-kivu/ (Accessed: 7 April 2021).
+IPIS (2020) Interactive Web Map of ASM in the DRC. Available at:
+https://www.ipisresearch.be/mapping/webmapping/drcongo/v6/#-3/28/5/4/1/ (Accessed: 7 April 2021).
+IPIS and Ulula (2019) Assessing the impact of due diligence programmes in Eastern DRC: A Baseline Study.
+Available at: https://drive.google.com/file/d/1D6e9Xzgd9qT4SHo8ALZCSXHQGiWSrTv1/view (Accessed: 7
+April 2021).
+Katho, O. et al. (2021) The Just Gold Project: Lessons for the Future of Artisanal Gold in Democratic Republic of
+Congo Just GOLD PROJECT The The Just Gold Project: Lessons for the Future of Artisanal Gold in Democratic
+Republic of Congo. Available at: www.greencom.ca (Accessed: 27 September 2021).
+Lassourd, T. (2018) La fiscalité du nouveau code minier de la République Démocratique du Congo. Available at:
+https://www.mines-rdc.cd/fr/ (Accessed: 25 May 2021).
+Lassourd, T. and Okenda, J.-P. (2018) ‘Is the Democratic Republic of Congo’s New Mining Fiscal Regime Up to
+the Task? | Natural Resource Governance Institute’, Natural Resource Governance Institute. Available at:
+https://resourcegovernance.org/blog/democratic-republic-congo-new-mining-fiscal-regime-task (Accessed:
+23 November 2018).
+Lewis, D. and Hobson, P. (2020) ‘Race to refine: the bid to clean up Africa’s gold rush’, Reuters, 15 January.
+Available at: https://uk.reuters.com/article/uk-gold-africa-refineries-insight/race-to-refine-the-bid-to-clean-
+up-africas-gold-rush-idUKKBN1ZE0XJ (Accessed: 29 July 2020).
+Lezhnev, S. (2021) Conflict Gold to Responsible Gold: A Roadmap for Companies and Governments BRIEFING.
+Mahtani, D. et al. (2009) s/2009/603 - Final report of the Group of Experts on the Democratic Republic of the Congo,
+UN Security Council. Available at: https://undocs.org/s/2009/603 (Accessed: 30 May 2021).
+38
+
+Manishatse, L. J. (2019) ‘IWACU English News | The voices of Burundi – Only Burundi Central Bank to buy and
+sell gold’, lwacu. Available at: https://www.iwacu-burundi.org/englishnews/only-burundi-central-bank-to-buy-
+and-sell-gold/ (Accessed: 30 May 2021).
+Matthysen, K. et al. (2019) Mapping artisanal mining areas and mineral supply chains in eastern DRC (2019) - IPIS.
+Available at: https://ipisresearch.be/publication/mapping-artisanal-mining-areas-mineral-supply-chains-
+eastern-drc/ (Accessed: 1 June 2021).
+McCool, A. (2019) ‘Uganda’s gold boom leaves small-scale miners behind | Business and Economy | Al Jazeera’,
+AlJazeera, July. Available at: https://www.aljazeera.com/economy/2019/7/19/ugandas-gold-boom-leaves-
+small-scale-miners-behind (Accessed: 29 May 2021).
+Minister of Finance Planning & Economic Development (2021) The Mining (Amendment) Bill, 2021.
+Natural Resource Governance Institute and UNDP (2016) Natural Resource Revenue Sharing.
+Nelson Alusala et al. (2014) S/2014/42: Final report of the Group of Experts on the Democratic Republic of the
+Congo.
+Neumann, M. et al. (2019) Traceability in Artisanal Gold Supply Chains in the Democratic Republic of the Congo -
+Lesson Learned from the Kampene Gold Pilot Project (2019). Available at: www.bgr.bund.de.
+OECD (2020a) Revenue Statistics in Africa 2020 ─ Democratic Republic of the Congo. Available at:
+http://www.oecd.org/tax/tax-policy/oecd-classification-taxes-interpretative-guide.pdf (Accessed: 31 May
+2021).
+OECD (2020b) Revenue Statistics in Africa 2020 ─ Uganda. Available at: http://www.oecd.org/tax/tax-
+policy/oecd-classification-taxes-interpretative-guide.pdf (Accessed: 29 May 2021).
+Republic of Rwanda (2017) ‘7 Years Government Programme: National Strategy for Transformation (NST 1)’.
+Reuters (2019) ‘Burundi’s mineral exports overtake tea, coffee in hard currency earnings | Reuters’, Reuters.
+Available at: https://www.reuters.com/article/us-burundi-mining-idUSKCN1UP1EK (Accessed: 30 May 2021).
+Reuters (2021) ‘New law would allow Uganda to take stakes in private mining | Reuters’, Reuters. Available at:
+https://www.reuters.com/world/africa/new-law-would-allow-uganda-take-stakes-private-mining-2021-04-14/
+(Accessed: 22 June 2021).
+RMB (2021) ‘Explained: exploration, gold demand, performance of 3Ts during pandemic…’, Rwanda Mines,
+Petroleum and Gas Board. Available at:
+https://www.rmb.gov.rw/index.php?id=100&tx_news_pi1%5Bnews%5D=124&tx_news_pi1%5Bday%5D=16&
+tx_news_pi1%5Bmonth%5D=4&tx_news_pi1%5Byear%5D=2021&cHash=1599a55fb711f9ed060f5af834d0a33
+e (Accessed: 22 June 2021).
+Rwanda National Police (2017) ‘Marine police intercept 400kgs of untagged minerals’. Available at:
+https://www.police.gov.rw/media-archives/news-
+detail/?tx_news_pi1%5Bnews%5D=5660&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5
+D=detail&cHash=d2b7ee084e3153edb03522227054b7c9 (Accessed: 22 June 2021).
+Rwanda National Police (2020) ‘Nyaruguru: Over 360 kgs of smuggled minerals intercepted’. Available at:
+https://police.gov.rw/media-archives/news-
+detail/?tx_news_pi1%5Bnews%5D=15335&cHash=c3bed205151fa309b1407a0c6e2d58cc (Accessed: 22 June
+2021).
+Rwanda National Police (2021) ‘NGORORERO: Vehicle intercepted with 630kgs of smuggled minerals’.
+Available at: https://www.police.gov.rw/media-archives/news-detail/news/ngororero-vehicle-intercepted-
+with-630kgs-of-smuggled-minerals/ (Accessed: 22 June 2021).
+Schütte, P. (2019) ‘International mineral trade on the background of due diligence regulation: A case study of
+tantalum and tin supply chains from East and Central Africa’, Resources Policy, 62, pp. 674–689. doi:
+10.1016/j.resourpol.2018.11.017.
+Sofala and Betterchain (2019) The barriers to financial access for the responsible minerals trade in the GLR.
+Available at: www.sofalapartners.com (Accessed: 13 April 2021).
+The East African (2016) ‘Rwanda bans middlemen in minerals trade - The East African’. Available at:
+https://www.theeastafrican.co.ke/tea/business/rwanda-bans-middlemen-in-minerals-trade--1352928
+(Accessed: 22 June 2021).
+The Economist (2019) ‘Gold blush - How can Uganda export so much more gold than it mines?’, The Economist,
+23 May. Available at: https://www.economist.com/middle-east-and-africa/2019/05/23/how-can-uganda-
+export-so-much-more-gold-than-it-mines (Accessed: 29 July 2020).
+The Enough Project (2008) ‘Armed Groups’ Estimated Profits from trade in Tin, Tantalum, Tungsten and Gold’.
+Available at: http://www.enoughproject.org/files/publications/Armed Groups Profits - 3Ts and Gold 2008.xls.
+The Enough Project (2009) A Comprehensive Approach to Congo’s Conflict Minerals. Available at:
+https://enoughproject.org/files/Comprehensive-Approach.pdf (Accessed: 7 April 2021).
+39
+
+The Republic of Uganda (2021) The Mining (Amendment) Act, 2021.
+The Sentry (2018) The Golden Laundromat: The Conflict Gold Trade from Eastern Congo to the United States and
+Europe. Available at: https://cdn.thesentry.org/wp-
+content/uploads/2018/10/GoldenLaundromat_Sentry_Oct2018-final.pdf (Accessed: 1 May 2019).
+Toroskainen, K., Malden, A. and Okenda, J. P. (2020) DRC’s Mining Revenues: Increasing Accountability by
+Analyzing Payments to Governments Reports.
+Transparency International (2021) Corruption Perceptions Index 2020. Available at: www.transparency.org/cpi
+(Accessed: 30 May 2021).
+Transparency International Uganda et al. (2016) ‘Mining Act of Uganda 2003: Proposed Amendments
+Developed by a Civil Society Working Group’, (May), pp. 1–54. Available at:
+http://www.parliament.gov.zm/sites/default/files/documents/acts/The Mines and Minerals Act, 2015.pdf.
+Uganda Revenue Authority (2020) Annual Revenue Performance Report FY 2019/2020. Available at:
+https://www.ura.go.ug/openFile.do?path=//webupload//upload//download//staticContent//TOPMENU//9907//
+10192_RPR.pdf (Accessed: 23 June 2021).
+UN Security Council (2007) ‘SC/8987 - Sanctions Committee concerning Democratic Republic of Congo Adds
+Two Individuals’. Available at: https://www.un.org/press/en/2007/sc8987.doc.htm (Accessed: 29 May 2021).
+UNICEF (2017) Fiscal Space Profiles of Countries in Eastern and Southern Africa Case Study - Burundi Fiscal Space
+Analysis.
+VOA (2019) ‘Le commerce d’or confié à la Banque centrale, une décision critiquée’, Voice of America Afrique,
+November. Available at: https://www.voaafrique.com/a/burundi-le-commerce-d-or-confié-à-la-banque-
+centrale-une-décision-critique/5183604.html (Accessed: 30 May 2021).
+World Bank (2019a) GDP per capita (current US$) - Burundi | Data. Available at:
+https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BI&most_recent_value_desc=false
+(Accessed: 30 May 2021).
+World Bank (2019b) Rwanda Trade | WITS | Text. Available at:
+https://wits.worldbank.org/countrysnapshot/en/RWA/textview (Accessed: 22 June 2021).
+Zounmenou, D. et al. (2019) S/2019/469: Final report of the Group of Experts on the Democratic Republic of the
+Congo.
+Zounmenou, D. et al. (2020a) Final report of the Group of Experts on the Democratic Republic of the Congo.
+Available at: https://www.undocs.org/S/2020/482 (Accessed: 16 June 2020).
+Zounmenou, D. et al. (2020b) S/2020/482 - Final report of the Group of Experts on the Democratic Republic of the
+Congo. Available at: https://www.undocs.org/S/2020/482 (Accessed: 14 April 2021).
+40

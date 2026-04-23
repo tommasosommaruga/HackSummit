@@ -1,0 +1,1455 @@
+China’s Role in Supplying
+Critical Minerals for the
+Rodrigo Castillo
+Global Energy Transition
+Caitlin Purdy
+What Could the Future Hold?
+July 2022
+
+ABOUT THE LTRC PROJECT
+The Leveraging Transparency to Reduce Corruption project (LTRC)
+is a global action research initiative led by the Brookings Institution
+and Results for Development to reduce corruption along the
+natural resource value chain. LTRC takes a systems approach that
+is grounded in evidence, extensive stakeholder consultations, and
+fieldwork. Through research, knowledge brokerage, and testing of new
+tactics, LTRC aims to identify, co-develop, and inform strategies and
+interventions that complement and strengthen the efforts of diverse
+good governance and anti-corruption actors who engage with the
+extractives sector at the global, national, and subnational levels.
+ABOUT THE BROOKINGS INSTITUTION
+The Brookings Institution is a nonprofit organization devoted to
+independent research and policy solutions. Its mission is to conduct
+high-quality, independent research and, based on that research, to
+provide innovative, practical recommendations for policymakers and
+the public. The conclusions and recommendations of any Brookings
+publication are solely those of its author(s) and do not reflect the views
+of the Institution, its management, or its other scholars.
+ABOUT RESULTS FOR DEVELOPMENT
+Results for Development (R4D) is a leading nonprofit global
+development partner. R4D collaborates with change agents around
+the world—governments, civil society, and innovators—to create
+strong systems that support healthy, educated people. R4D combines
+global expertise in health, education, and nutrition with analytic rigor,
+practical support for decision-making and implementation, and access
+to peer problem-solving networks.
+
+Contents
+Executive Summary ...................................................................................................................................................2
+1 Introduction ........................................................................................................................................................4
+2 China’s Role in Critical Minerals Supply Chains .........................................................................................6
+3 Efforts to Reduce Dependence on China for Critical Minerals .............................................................9
+3.1 Political Challenges and Stakeholder Opposition to Onshore Mining Development ..........10
+3.2 Limited Investment in Mineral Refining and Smelting ...................................................................12
+3.3 Limited Cell Component and Battery Manufacturing Capacities ...............................................13
+4 Will China Tighten Due Diligence on Critical Minerals Supply Chains? .............................................15
+4.1 Responsible Business Developments in China ................................................................................15
+4.2 Evolving Responsible Sourcing Expectations in the U.S. and EU ...............................................17
+5 What Could the Future Look Like? ..............................................................................................................19
+High vs. Low Supply Chain Due Diligence by China ..............................................................................19
+High vs. Low Control of Supply Chains by China ....................................................................................20
+6 Conclusion .......................................................................................................................................................28
+About the Authors ...................................................................................................................................................30
+References .................................................................................................................................................................31
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 1
+
+Executive Summary
+The world faces major challenges in responsibly sourcing large quantities of minerals that
+are critical for the transition to low-carbon energy sources. Consumption of these critical
+minerals—most notably nickel, copper, lithium, and cobalt—is projected to rise, largely driven by
+their use in the renewable energy sector. Demand is expected to quadruple by 2040 under the
+International Energy Agency’s Sustainable Development Scenario, in which global action would
+limit the global temperature rise to well below 2°C, and it is projected to rise by six times under a
+net-zero scenario.1 Many governments, including the United States, European Union members,
+and China, seem to share the goal of increasing the supply and rate of production of the raw
+materials needed for the energy transition to address the challenge of global climate change.
+However, meeting this demand will be difficult—and producing these minerals in strict adherence
+to robust environmental, social, and governance criteria will be even more so.
+China is the dominant player in global mineral processing. This report analyzes how its strategic
+position in regard to critical minerals may evolve, to shed light on current and emerging
+challenges for the energy transition, given the country’s high level of engagement in global
+mineral supply chains.
+Two major factors are likely to influence dynamics around responsible sourcing of critical
+minerals for the energy transition. This first factor is China’s level of dominance across critical
+minerals supply chains. There is growing concern that a high level of dependence on China
+for these minerals and their derivative products may create energy security risks.2,3 Other
+governments, notably in the U.S. and Europe, have moved to build out their own critical minerals
+supply chains, creating uncertainty about whether China will maintain its dominant position. The
+second factor is the level of enforcement of due diligence requirements in China’s mineral sector
+and midstream and downstream industries (e.g., refiners or original equipment manufacturers) to
+make these supply chains “cleaner” and “greener.” Comprehensive, globally aligned due diligence
+requirements are needed to ensure that the sourcing of minerals needed for the energy transition
+does not cause or contribute to adverse social and environmental impacts. These two factors will
+likely shape the future of critical minerals supply chains.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 2
+
+A best-case scenario would be characterized by geographic diversification of critical minerals
+supply chains, coupled with globally aligned statutory due diligence requirements to make these
+supply chains cleaner and greener. This would see the U.S. and Europe making considerable
+investments in and successfully building out their critical minerals supply chains, from mining
+to battery manufacturing. It would also entail China instituting mandatory due diligence
+requirements on critical minerals sourcing and global coordination among major players,
+including Beijing, Washington, and Brussels, to align these requirements. This would ensure a
+stable supply of cleaner and greener critical minerals for the energy transition and minimize
+the risk of the energy transition being disrupted due to price volatility, geopolitical tensions, or
+logistical issues in supply chains.
+As things stand, this best-case scenario looks unlikely. Considerable investment would be needed
+to build out critical minerals supply chains in the U.S. and Europe. Current planning, including
+that undertaken by the Biden administration in the U.S., is a step in the right direction, but it is
+unclear whether it is commensurate with the scale of the challenge.
+Moreover, China shows few signs of moving toward mandatory due diligence requirements for
+critical minerals and their derivative products. It has taken some steps to strengthen due diligence
+in the past decade, but key standards, many of which are voluntary, remain unenforced. This
+means that broad transparency across critical minerals supply chains globally will be difficult to
+achieve, given the critical role of Chinese actors, particularly in the midstream.
+A worst-case scenario would see continued reliance on China for critical minerals and their
+derivative products. This would expose the energy transition to major geopolitical risks, as well
+as increase the risk that sourcing of critical minerals will cause or contribute to serious social or
+environmental harms.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 3
+
+1 Introduction
+This report from the Leveraging Transparency to Reduce Corruption project (LTRC) explores
+four potential scenarios for China’s role in critical minerals supply chains over the next 20
+years, considering two key factors that are likely to influence dynamics around sourcing of critical
+minerals for the energy transition: 1) the extent to which China retains a dominant position in
+these supply chains and 2) whether China’s mineral sector and midstream and downstream
+industries (e.g., refiners or original equipment manufacturers) move to make these supply chains
+“cleaner” and “greener” by tightening due diligence requirements. The report describes what each
+scenario could mean for the global energy transition, and specifically whether the world would
+have access to the stable and clean supply of critical minerals it would need to meet ambitious
+decarbonization goals.
+Minerals undergo a complex, multi-stage transformation for use in applications such as
+rechargeable electric batteries. First, raw minerals are mined from deposits. This mining activity,
+known as upstream operations, is heavily concentrated in a set of resource-rich countries. The
+minerals are then sold to traders or directly to smelters or refiners, mostly located in China.
+Chemical refining and processing, known as midstream operations, transform the minerals into
+fine particles with high purity levels and make them suitable for use in battery-grade products.
+In the late midstream stage, manufacturers use these refined products to manufacture major
+battery cell components—namely cathodes, anodes, and collectors. These cell components
+are then assembled by downstream actors into modules within battery packs, which are used
+in applications such as electric vehicles (EVs). For simplicity, we broadly refer to the products at
+the various stages of the process from smelting to the manufacturing of battery cells and their
+components as critical minerals products in this paper.
+As critical minerals move along the value chain, the companies that acquire them may undertake
+due diligence to assess whether they have been responsibly mined and processed. Due diligence
+refers to the process through which companies identify, prevent, mitigate, and account for
+how they address actual and potential adverse social and environmental impacts.4 International
+organizations and industry associations have set out several different due diligence schemes.
+In some jurisdictions, notably in Europe, governments are instituting mandatory due diligence
+requirements for companies.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 4
+
+Effective due diligence across critical minerals supply chains serves two main purposes. First, it
+supports efforts to ensure that the extraction and trade of these minerals has positive impacts
+on society and contributes to sustainable development. Second, it reduces the risk that their
+extraction and trade will contribute to social and environmental harms, including labor abuses,
+corruption, and conflict. In this paper, we use the terms cleaner and greener to describe critical
+minerals that have been subject to due diligence processes and are therefore less likely to have
+caused, contributed to, or been linked to adverse impacts. It is important to note that there are no
+perfectly “clean” or “green” critical minerals or critical minerals products. Rather, there is a wide
+spectrum, with minerals that cause major and multiple adverse impacts on one end and minerals
+that have been responsibly and sustainably mined and processed on the other. Mandatory,
+rigorous, and widespread due diligence is critical to ensuring that the energy transition—which will
+require large volumes of critical minerals—does not cause adverse impacts globally.
+China currently controls most global critical minerals refining, and its upstream control of
+raw commodities is also increasing. Crucially, it controls much of the world’s EV battery
+manufacturing, as well as the manufacturing of wind turbines, solar panels, energy storage, and
+electric transmission, among other applications. As things stand, the world is highly dependent
+on sourcing from China to advance the energy transition and meet decarbonization goals. The
+sheer influence and impact of a single player calls for an assessment of the risks and challenges
+it may pose for the energy transition, as well as potential pathways to address them in the critical
+minerals supply chain.*
+A consensus is growing about the risks to energy security posed by concentration of various
+stages of critical minerals supply chains. The International Energy Agency (IEA) has highlighted
+the high geographic concentration of production—including the high concentration of
+processing operations in China—as a key vulnerability for the energy transition.5 Other
+international organizations have also identified concentration of producers as a source of risk for
+the energy transition “should investments in production capacity not meet demand, or in case
+of potential geopolitical risk inside or between producer nations.”6 Similarly, the European Union
+and the United States have recognized dependence on China for critical inputs and technologies
+as a major reason to increase their mineral supply chain resilience.7
+The next section sets out China’s role in critical minerals supply chains. Section 3 explores the
+West’s bid to build out its own critical minerals supply chain to reduce Chinese dominance.
+Section 4 explores the question of whether China will tighten due diligence requirements on
+these supply chains. Section 5 undertakes a scenario analysis to consider how dynamics may
+evolve over the next 20 years.
+* A nonpartisan consensus has emerged among the U.S., EU, and many international forums, such as the IEA, that the concentra-
+tion of the critical minerals supply chain creates energy security risks in the context of the energy transition. We recognize that
+the Chinese government and the Chinese private sector may have a different perspective.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 5
+
+2 China’s Role in Critical
+Minerals Supply Chains
+China dominates the midstream and
+downstream of critical minerals supply
+chains but not upstream production.
+China is the dominant global player in refining strategic minerals. It refines 68% of nickel
+globally, 40% of copper, 59% of lithium, and 73% of cobalt.8,9 It is also a strategic player in
+later stages of the supply chain, such as manufacturing of battery cell components. It accounts
+for most of the global production of mineral-rich components for battery cells, including 70%
+of cathodes, which are the most important component and can account for half the cost of a
+manufactured cell, 85% of anodes, 66% of separators, and 62% of electrolytes10,11 Most notably,
+China holds 78% of the world’s cell manufacturing capacity for EV batteries, which are then
+assembled into modules that are used to form a battery pack. The country also hosts three-
+fourths of the world’s lithium-ion battery megafactories.12 This makes China the largest consumer
+of the minerals it refines.
+Given tight mineral supplies, actors ranging from manufacturers to refiners are now targeting
+mining projects as part of their investment strategies to secure raw minerals. Foreign investments
+and agreements on future demand for minerals, often in the form of joint venture and strategic
+cooperation agreements, show the strong dependency on China’s mineral processing operations
+and manufacturing capacities. For example, European and U.S. automakers have shown interest
+in collaborating with Chinese companies. Volkswagen recently announced that it will form a
+joint venture with Huayou Cobalt in southwestern Guangxi Province, China, and with Tsingshan
+Holding Group in Indonesia to secure nickel and cobalt supplies.13 Similarly, Ganfeng Lithium
+signed a long-term supply agreement with BMW and strategic cooperation agreements with
+Tesla and Volkswagen.14
+While China has a clear downstream competitive advantage, it does not dominate the upstream
+for critical minerals. Australia and Chile host more than 70% of global lithium extraction, and the
+Democratic Republic of the Congo (DRC) hosts nearly 70% of cobalt extraction. In the case of
+nickel extraction, Indonesia is the largest source, with more than 30% of the global share. For
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 6
+
+copper extraction, Chile and Peru, the two largest players, account for more than 40% of the
+global share.15 At a domestic level, China has recently invested in increasing its domestic mined
+lithium output, especially in Qinghai Province; but despite widespread government support
+and investments, the region has failed to significantly ramp up production, largely due to high
+waste-disposal costs.16,17 While Chinese mining companies like Zijin Mining are trying to speed
+up construction of other domestic mine sites, such as the Xiangyuan Lithium Polymetallic Mine
+in Hunan Province,18 China extracts less than 10% of the global market for both copper and
+lithium domestically.19 (This does not account for Chinese companies or partly Chinese-owned
+companies overseas.) China is by far the world’s leading producer and processor of rare earth
+elements (REEs), which are used in motor technologies for EVs and wind power technologies.
+(See Box 1.)
+With demand for critical minerals rapidly increasing, Chinese companies are striking new deals
+for minerals globally to secure raw mineral inputs for refining and battery manufacturing. This
+includes direct investments in mining projects and companies, part-equity-stake deals, and
+extended supply sales agreements with mining companies. In January 2022, BYD, one of the
+largest automakers in China, was awarded a contract to extract 80,000 metric tons of lithium
+in Chile over 20 years, although the contract has been suspended by a Chilean court.20 In 2018,
+China’s Tianqi Lithium purchased a 24% stake in SQM, one of only two major lithium producers
+in Chile.21 Huayou Cobalt, a Chinese company with smelters and refining facilities both inside
+and outside China, has vertically integrated by expanding into other stages of mineral supply
+chains, as evidenced by its recent purchase of a lithium mine in Zimbabwe.22 Similarly, Ganfeng
+Lithium, one of the major lithium producers and refiners, has acquired stakes in mining projects
+in Argentina, Ireland, Chile, and Australia. CATL, the world’s largest EV battery manufacturer,
+has acquired Canada-based Millennial Lithium, as well as stakes in an Australian lithium mining
+company and in copper-cobalt mines in the DRC. At the start of 2022, Suzhou CATH Energy
+Technologies entered into an agreement under which it will invest US$240 million in the
+Manono lithium and tin project in the DRC in a joint venture with AVZ Minerals, earning a 24%
+equity interest.23 Chinese companies have remained the largest source of foreign investment
+in the nickel sector in Indonesia—the world’s largest producer of nickel—and Chinese-backed
+companies own or have a financial stake in 15 of 19 cobalt-producing mines in the DRC.* 24
+* Chinese mining giants like Huayou Cobalt and China Molybdenum, which dominate cobalt mining in the DRC, have also in-
+creased investment in the nickel supply chain in Indonesia. See: Pattisson, P., & Firdaus, F. (2021, November 25). “Battery arms
+race”: How China has monopolised the electric vehicle industry. The Guardian. https://www.theguardian.com/global-develop-
+ment/2021/nov/25/battery-arms-race-how-china-has-monopolised-the-electric-vehicle-industry
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 7
+
+BOX 1. Rare Earth Elements
+Rare earth elements are the only strategic sector over which China has a substantial hold
+over mining activity. REEs include 17 metallic elements, four of which—neodymium,
+dysprosium, praseodymium, and terbium—are of particular relevance to clean energy
+technologies. Demand for these four elements is expected to rise dramatically (e.g.,
+neodymium is projected to triple under the IEA’s Sustainable Development Scenario). They
+play a particularly important role in motor technologies for EVs and wind power technologies
+and can more easily be substituted in the case of supply concerns or disruptions, according
+to Wood Mackenzie.25 The U.S. Department of Energy projects that “demand for rare earth
+elements for wind power alone could exceed the supply for all uses by 1.6 to 3.5 times
+over.”26 (REEs should not be mistaken for other strategic minerals, over which China has a
+significantly less dominant role across the entire supply chain.)
+China’s REE production increased at the beginning of this century and peaked at 95% of
+the global share by 2010. It has decreased in recent years, down to nearly 60% in 2019.27
+Other relevant producers include the U.S. and Myanmar, with just over 10% of global REE
+production each. Currently, MP Materials is the only significant REE producer in the U.S.28
+The company is minority owned by Shenghe Resources, a partly Chinese-state-owned
+company that is also the sole purchaser of its output.29 Due to the level of concentration of
+REE production and the lack of recycling pathways, efforts are ongoing to reduce REE use
+in EV motors to reduce exposure to REE export control risks.* New discoveries—including a
+potentially relevant discovery in Turkey in June 2022—may further reduce dependence on
+China for REEs in the long term if these deposits can be successfully developed. However,
+REE processing capacity remains concentrated in China.30
+* According to the IEA, pathways to reducing REE use in EV motors include: “(i) improving material efficiency in magnet production
+to obtain NdFeB magnets with less REE content but with similar performance; (ii) reducing the amount of NdFeB magnets in
+permanent-magnet synchronous motors; (iii) substituting permanent-magnet motors with REE-free motors.” See: International
+Energy Agency. (2021). The Role of Critical Minerals in Clean Energy Transitions. https://www.iea.org/reports/the-role-of-criti-
+cal-minerals-in-clean-energy-transitions
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 8
+
+3 Efforts to Reduce
+Dependence on China for
+Critical Minerals
+Concern is growing about China’s dominance in
+critical minerals supply chains, but efforts to reduce
+dependence on China face a range of challenges.
+Governments in the West, notably in the U.S. and Europe, are working to build out their own
+critical minerals supply chains to reduce dependence on China. This will be challenging and
+costly, however. They will need to significantly increase mineral production domestically or in
+allied countries, which will involve addressing conflicts over social and environmental impacts
+that have halted mining projects. The U.S., in particular, will likely have to update and amend its
+mining regulatory regime. Governments will also have to onshore or “friend-shore” smelting
+and refining capacity. The midstream part of the equation is likely to be the most challenging,
+complicated by high investment costs and market conditions. Finally, Western countries will need
+to build out cell component and battery manufacturing capacities.
+Western governments have laid out plans to reduce vulnerabilities and increase mineral supply
+chain resilience.31 Russia’s February 2022 invasion of Ukraine has added to the salience and
+urgency of these plans, underscoring that dependence on strategic rivals for critical resources is a
+vulnerability. Organizations including the IEA are increasingly calling attention to the geopolitical
+and energy security dimensions of critical minerals supply chains.32
+The Biden administration is focused on developing U.S. critical minerals supply chains and issued
+an executive order in February 2021 mandating a review of vulnerabilities in domestic supply
+chains. President Joe Biden invoked the Defense Production Act in April 2022 to fund the mining,
+processing, and recycling of lithium, nickel, cobalt, graphite, and manganese. The proposed
+Inflation Reduction Act of 2022 would incentivize investments across critical mineral supply
+chains.33 It would require a certain percentage of batter components (by value) to be assembled
+in the US, as well as a certain percentage of the battery minerals to come from a country with
+which the US has a free trade agreement or to be recycled in North America. These requirements
+gradually ramp up through 2027. This is likely to benefit Canada (the major North American
+miner) and Australia (a key producer of lithium). The act increases funds available for the
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 9
+
+midstream, including US$500 million to build critical minerals processing infrastructure as part
+the Defense Production Act, as well as additional tax credits for companies involved in critical
+minerals processing. It also provides grants and loans for new clean vehicle manufacturing
+facilities.34 Similarly, the European Battery Alliance aims to expand mineral refining and battery
+production capacities in the EU to reduce dependence on China.35
+Multilateral cooperation around critical minerals is also growing. In June 2022, the U.S.
+announced the Minerals Security Partnership (MSP), which has been dubbed “a metallic NATO.”
+MSP partners include Australia, Canada, Finland, France, Germany, Japan, the Republic of
+Korea, Sweden, the United Kingdom, the U.S., and the European Commission.36 It reflects a new
+strategic emphasis on friend-shoring, which U.S. Treasury Secretary Janet Yellen has described
+as a strategy in which a group of countries with shared values (e.g., liberal democracies) deploy
+policies that encourage companies to anchor supply chains within that group. The aim is to
+prevent strategic rivals from unfairly leveraging a market advantage in a key industry, such as
+critical minerals, to disrupt the economy of the U.S. or its allies. Japan and Korea are notable
+members because they have sizable capacities in the production of cell components outside of
+China and will likely be especially crucial to these friend-shoring efforts.
+EV and car manufacturing companies, along with other downstream actors in the U.S. and the EU,
+also have an important role to play in diversifying supply chains. They are increasingly pursuing
+strategies to secure long-term supplies of processed minerals and reduce reliance on China.
+These include expanding their operations to other parts of the supply chain (in what is known
+as vertical integration). General Motors’ deal with POSCO Chemical to establish a factory in
+Canada to process cathode active material is one example of this.37 EV manufacturers have also
+established direct sourcing deals and association strategies. For example, Liontown Resources, an
+Australian lithium miner, recently agreed to direct sourcing deals with Tesla, Ford, and LG Energy.38
+Reducing dependence on China for critical minerals is likely to be challenging. The following
+sections explore three key issues that will need to be addressed: political challenges and
+stakeholder opposition to onshore mining development (i.e., community opposition, institutional
+challenges, and government inertia), limited investment in mineral refining and smelting, and
+limited cell component and battery manufacturing capacities.
+3.1 Political Challenges and Stakeholder Opposition to Onshore
+Mining Development
+It is difficult to build out domestic critical minerals supply chains without domestic sources of
+raw minerals. In June 2022, the U.S. Department of the Interior announced that it would invest an
+estimated US$74 million across 30 states to better map areas with potential for critical minerals.39
+However, bringing new supplies online in the short term will be challenging. There is no single
+federal agency with authority over domestic mining, and the regulatory regime for mining in
+the U.S. is outdated. Moreover, existing projects in the pipeline face a range of political and
+stakeholder challenges.40
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 10
+
+For example, the U.S. holds about 4% of global lithium reserves but has just one producing lithium
+mine and is struggling to bring additional projects online. Lithium Americas’ Thacker Pass project
+in Humboldt County, Nevada, which would develop the largest known lithium resource in the
+U.S., reportedly faces staunch opposition from state environmental groups, Native American
+communities, and local ranchers.41 Lithium Americas received a permit from the U.S. Bureau of
+Land Management to develop the mine in January 2022 but has faced multiple legal challenges
+due to alleged negative social and environmental impacts and inadequate consultation with
+project-affected Native American communities.42 Similarly, ioneer’s Rhyolite Ridge Lithium-Boron
+Project has faced intense opposition from environmentalists who allege that the project threatens
+Tiehm’s buckwheat, a rare flowering plant listed by the Biden administration as endangered.43
+Domestic copper and nickel development in the U.S. has faced similar challenges. In January
+2022, the U.S. Department of the Interior canceled two mineral leases for Antofagasta’s Twin
+Metals copper and nickel project in northern Minnesota.44 President Barack Obama had moved
+to block the project, which is on the edge of the Boundary Waters (a large area of protected
+lakes and forests), but the mineral leases were reinstated by the Trump administration in 2019.
+The Interior Department determined that the leases were improperly reinstated and cited
+significant legal deficiencies in the renewal, including a violation of departmental regulations and
+an inadequate environmental analysis. In May 2022, the U.S. Environmental Protection Agency
+banned the disposal of mining waste in Alaska’s Bristol Bay watershed, which is likely the final
+nail in the coffin for Northern Dynasty’s controversial proposed Pebble copper project.45 The
+Resolution Copper project in Arizona, a joint venture owned by Rio Tinto and BHP, has faced
+legal challenges from Apache Stronghold, a nonprofit group comprising members of the San
+Carlos Apache tribe.46 The project sits on land that is of religious significance to the Apache, and
+the group argues that development of the mine would undermine their religious rights. The U.S.
+Court of Appeals for the Ninth Circuit ruled against Apache Stronghold in June 2022.47 The group
+has signaled its intention to appeal to the Supreme Court.
+Simultaneously, Congress is pursuing reforms to the General Mining Act of 1872, although
+these efforts have consistently encountered political roadblocks. In April 2022, House
+Natural Resources Committee Chair Raúl M. Grijalva (D-AZ) and Senator Martin Heinrich (D-
+NM) introduced the Clean Energy Minerals Reform Act, which would update the 1872 act to
+strengthen environmental protections, require the government to consult with Native American
+groups before permitting mines near tribal communities, and institute a royalty on mining on
+public lands. The bill has faced opposition from environmental groups, which want even stronger
+protections, as well as from moderate Democratic and conservative lawmakers who are opposed
+to the introduction of a royalty. It may be difficult to build the political consensus needed for
+meaningful mining reform, particularly given internal divisions among Democrats.
+The Biden administration is currently taking some steps to address these challenges related
+to political and stakeholder factors, but its efforts are not commensurate with the scale of the
+challenge. In February 2022, the Interior Department announced a new interagency working
+group on reforming hardrock mining laws, regulations, and permitting policies. The timeline for
+this reform and plans to successfully advance it through Congress, particularly in the context of
+Biden’s ongoing failure to advance a legislative agenda, is unclear. Moreover, the administration
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 11
+
+has been unwilling to advance controversial projects like Pebble and Twin Metals, which are likely
+needed to significantly increase domestic supply in the short term.
+Europe also faces opposition as it pushes to bring critical minerals projects online. Savannah
+Resources’ Mina do Barroso—which would be Europe’s first significant producer of spodumene,
+a hardrock form of lithium—has faced red tape and political delays in its Environmental Impact
+Assessment approval process.48 The project reportedly faces a high degree of local stakeholder
+opposition.49 In January 2022, the Serbian government canceled Rio Tinto’s Jadar lithium project
+amid protests over perceived environmental impacts.50
+3.2 Limited Investment in Mineral Refining and Smelting
+Even if the U.S. and EU were to dig more minerals out of the ground, many of these minerals
+would need to be shipped overseas for concentrating, refining, and smelting without significant
+increases in U.S. and European mineral refining and smelting capacity. The only notable mineral
+processing capacity outside of China is in Europe, but this is mostly limited to cobalt processing,
+mainly at plants in Finland. (Europe currently accounts for 20% of global cobalt processing.)
+The solution would be to build new refiners and smelters in the U.S., Europe, or other allied
+nations, such as those in the MSP, as part of a combined onshoring and friend-shoring effort.
+Some progress has been made in this direction. The UK has recently announced plans to build up
+its lithium refining capacities. Green Lithium has plans to build a lithium refinery with production
+capacity of 50,000 tons per year in the North of England, through an investment from Trafigura,
+one of the world’s biggest metal traders. Additionally, Livista Energy, another start-up, has
+secured funding to build a plant with an initial capacity of 30,000 tons per year, with the potential
+of increasing up to 60,000 tons per year. However, bringing new mineral refining and smelting
+capacity online is overall extremely difficult due to high investment costs and vulnerability to
+volatile or poor market outlooks.
+China’s domestic refining business has proven to be significantly more cost-competitive than
+refineries overseas, leading to refinery closures outside of China.51 Construction of refineries
+and smelters outside of China (many of which have been financed by Chinese investments) has
+proven costly and challenging. For example, China’s Tianqi Lithium’s lithium hydroxide plant in
+Kwinana, Australia, is only partly operational after US$700 million in investment and three years
+of construction.52 The plant was approved in 2016, but development was paused due to market
+conditions related to the low prices of lithium at the time, which were associated with high
+price volatility for battery metals.53 Chinese companies like Tianqi have benefited from financial
+support from China’s state-owned banks, such as CITIC Bank, which can channel government
+support for industries deemed strategic in order to resolve debt problems stemming from large
+investments at a time of low commodity prices.
+Smelters, refiners, and other types of processing infrastructure are susceptible to the same
+kinds of opposition as mining projects themselves, with stakeholders concerned about potential
+social and environmental impacts. This can create complications in permitting and approvals
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 12
+
+processes. The industrial processes required for battery metals refining and recycling tend to
+generate a large carbon footprint and other toxic emissions (especially in the case of nickel). This
+has led to opposition from communities hosting these industrial facilities. One example is the case
+of a planned lithium-ion battery recycling facility in New York by SungEel MCC in New York, which
+canceled its plans because of community concerns regarding the facility’s alleged toxic emissions.54
+3.3 Limited Cell Component and Battery Manufacturing Capacities
+The U.S has limited capacity to produce the cell components (cathodes, anodes, and collectors)
+needed for batteries and the batteries themselves. Europe hosts some manufacturers of cell
+components, crucially Germany’s BASF, Belgium’s Umicore, and Sweden’s Northvolt, but
+capacity is limited. Moreover, another major obstacle is that the U.S., Europe, and other Western
+countries lack investment in overall battery manufacturing capacities compared to China. Indeed,
+China’s heavy investment in EVs and battery storage has sometimes been characterized as
+overinvestment because it has generated significant excess capacity in some cases.55
+China currently dominates global battery production, accounting for 77% (250 GWh) of lithium-
+ion battery production in 2020. The U.S. accounted for 9% (42 GWh), and the EU accounted for
+6% (28 GWh).56 One reason for China’s dominance in the cell component markets is its low costs,
+which have been cited as a major reason behind offshoring of cell manufacturing to China.57
+A June 2022 paper by the Coalition for a Prosperous America projected that U.S. battery
+production will increase to around 320 GWh by 2025 but that this will barely cover rising
+demand and will therefore not significantly increase the country’s share of global production.58
+The outlook is somewhat more optimistic in Europe. This is in part due to strategies such as the
+European Battery Alliance, which aims to decrease reliance on batteries and other technologies
+from outside Europe and aspires to cover all of the industrial needs of car manufacturers in
+Europe by 2025 through an industrial plan that involves developing gigafactories across the
+continent. The EU is projected to account for 22% of global battery production by 2025.59
+The Biden administration is taking steps to build out cell component and battery manufacturing
+capacity, including providing investment for this purpose. Coupled with global supply chain distress
+over the past two years, this has prompted the private sector (notably automakers) to make some
+moves to onshore this production. For example, Redwood Materials has entered into an agreement
+with Korean battery materials maker L&F to use a new L&F factory in the U.S. to produce battery
+cathodes for 1 million EVs per year by 2025 and more than 5 million per year by 2030.60 In May
+2022, the Hyundai Motor Group announced plans to invest US$5.5 billion to build an EV and
+battery manufacturing plant in the state of Georgia.61 In July 2022, Panasonic announced plans for
+a US$4 billion EV battery plant in Kansas.62 These efforts are relatively nascent, however, because
+automakers have been reluctant to invest until relatively recently (with the exception of Tesla). In
+the longer term, it is unclear whether this investment will be commensurate with the scale of the
+challenge. Development efforts also face other challenges. For example, the industry has cited
+attracting skilled workers as a key obstacle to ramping up production.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 13
+
+The extent to which the U.S. and Europe can address these challenges will determine their ability
+to develop competitive critical minerals supply chains. It is important to note, however, that future
+demand for critical minerals is highly uncertain. An analysis of the determining factors is beyond
+the scope of this paper, but technological developments (e.g., new batteries with significantly
+reduced critical minerals requirements) and improvements in recycling (e.g., major process
+improvements in the recycling of tailings from processing, scrap used in manufacturing, and scrap
+from end-of-life products) may reduce the need for new upstream and midstream investments.
+Such developments are unlikely to entirely eliminate the need for such new investments, however.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 14
+
+4 Will China Tighten Due
+Diligence on Critical
+Minerals Supply Chains?
+Due diligence requirements on Chinese midstream
+actors—notably smelters and refiners—and
+downstream actors will be crucial to the development
+of responsible critical minerals supply chains globally.
+Awareness of responsible sourcing and compliance with environmental, social, and
+governance (ESG) standards has grown, and these factors are increasingly important and
+commercially material to actors across critical minerals supply chains globally.
+However, compliance with best practices in critical minerals supply chains requires end-to-end
+coordination, from the mining of raw materials to cell and battery pack manufacturing. Smelting
+and refining constitute a key stage in the supply chain for companies to track the conditions
+under which the mineral they purchase is extracted, handled, transported, and traded from the
+mine site through to local suppliers. As a result, smelters and refiners are more strategically
+positioned to demand due diligence and compliance with responsible sourcing practices and
+impose greater scrutiny than are cell manufacturers, pack manufacturers, or EV automakers.
+This section explores two key factors that may influence whether China moves to tighten due
+diligence requirements on critical minerals supply chains. The first is the evolving conversation
+in China about responsible business conduct. The second is external developments and
+expectations related to responsible sourcing among governments and private companies,
+particularly in the U.S. and Europe.
+4.1 Responsible Business Developments in China
+In the last two decades, China has introduced legislation and developed various industry
+guidelines for responsible business, such as the Company Law, which was first introduced in
+2006 to endorse the idea that companies have a social responsibility. In addition, the three main
+stock exchanges in China, in Shanghai, Shenzhen, and Hong Kong, have issued guidelines for
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 15
+
+responsible business reporting. As part of this effort, China has also taken important steps to
+tighten due diligence on mineral supply chains. These include:
+• CCCMC’s Guidelines for Social Responsibility in Outbound Mining Investment. The China
+Chamber of Commerce of Metals, Minerals & Chemicals Importers & Exporters (CCCMC),
+a unit within the Ministry of Commerce, issued its Guidelines for Social Responsibility in
+Outbound Mining Investment in October 2014. These called for Chinese mining companies
+undertaking outbound mining investment, cooperation, and trade to strictly “observe the UN
+Guiding Principles on Business and Human Rights during the entire life-cycle of the mining
+project” and to strengthen “the responsibility throughout the extractive industries value
+chain.”63 The Chinese government has also explicitly said that it expects Chinese mining
+companies to follow applicable local laws.64
+• CCCMC’s Due Diligence Guidance. In 2015, the CCCMC published its Chinese Due Diligence
+Guidelines for Responsible Mineral Supply Chains, which were based on the Organisation
+for Economic Co-operation and Development’s guidelines for responsible mineral supply
+chains.65 The CCCMC guidelines consist of five steps that companies must take to identify,
+address, prevent, and mitigate risks associated with their activities or sourcing decisions. They
+apply to all Chinese companies operating across mineral supply chains.66 The guidelines lay
+out two risk categories: 1) risks of conflict and human rights abuses associated with extracting,
+trading, processing, and exporting resources from conflict-affected and high-risk areas and
+2) risks associated with misconduct in environmental, social, and ethical issues (including but
+not limited to the fields of labor regulations, consultation mechanisms, and consent from
+Indigenous groups) throughout the supply chain.67 The influence of this guidance is unclear,
+however, particularly given its nonmandatory nature. Moreover, the actual influence and
+leverage that CCCMC has over its members is unclear. CCCMC does not have the power to
+supervise or implement the due diligence measures as an industry association.
+Despite having these standards, China’s enforcement of due diligence standards appears to
+be limited, especially given that many of these guidelines are voluntary.68 A 2021 report by
+Global Witness assessed due diligence by Chinese refiners and smelters for tin, tantalum,
+tungsten, and gold.69 The report concluded that due diligence enforcement was scarce and
+that more transparency and proactive demonstration of responsible business were needed
+from Chinese refiners. It also found that China’s participation in an industry-led program for
+responsible sourcing of minerals did not necessarily ensure that Chinese refiners would publish
+comprehensive due diligence information. The report recommends that China enact and enforce
+legislation that adapts and requires the application of these guidelines for refiners and smelters
+in order to prevent negative social, environmental, and governance impacts linked to Chinese
+companies in the mineral supply chain.
+Moreover, Chinese mining companies, which feed minerals to downstream operations, are
+perceived by some governments in resource-rich countries (perhaps unfairly) to be less
+committed to international best practice than their Western counterparts. The most serious
+recent allegations are about Chinese companies’ operations in the DRC, reportedly involving
+corruption70 and violations of human rights, including forced evictions, child labor, and other
+labor and human rights abuses through subcontracting models.71 In early 2022, a DRC court
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 16
+
+ruling removed China Molybdenum from leadership at the Tenke Fungurume copper-cobalt
+mine for six months. While the company has reportedly regained control of the mine,72 it
+stands accused of corruption and social and environmental performance issues, including
+underreporting of mineral reserves as a way to reduce annual payments, weak worker safety
+standards, and bribes to hide poor labor conditions.
+These issues are not unique to Chinese mining companies; many mining companies operating
+in the DRC have been accused of corruption and poor social and environmental standards.
+Moreover, the Chinese government has at times been critical of the performance of some
+Chinese mining companies abroad. When the DRC ordered six Chinese and Sino-foreign
+joint venture mining companies to suspend operations in 2021, the Chinese Foreign Ministry
+expressed support for the local ruling and announced that the companies would be sanctioned
+by the governments of Zhejiang, Jiangsu, and Fujian provinces.73 As of the publication of
+this paper, no public information was available about whether these companies were in fact
+sanctioned in this way or had any legal action taken against them.
+4.2 Evolving Responsible Sourcing Expectations
+in the U.S. and EU
+The evolution of responsible sourcing in the landscape in the U.S. and EU—in terms of emerging
+legal and regulatory standards, industry schemes, and downstream actors’ tolerance for
+reputational risk—will also likely have knock-on effects in China. For example, if new regulation
+or pressure from downstream companies in the US and Europe create market access issues
+for Chinese companies, creating legal, regulatory, and logistical obstacles to exporting critical
+minerals products to major markets, those companies may be incentivized to implement tighter
+due diligence mechanisms.
+Three key factors are at play here. First, due diligence requirements are rapidly evolving,
+particularly in Europe. In February 2022, the European Commission adopted a Proposal for a
+Directive on Corporate Sustainability Due Diligence. The directive requires large companies
+headquartered in the EU to conduct due diligence across their value chain, as well as to embed
+sustainability and human rights considerations into their business strategies, decision-making
+processes, and oversight mechanisms.74 The forthcoming EU battery regulation will impose a due
+diligence obligation on battery manufacturers specifically, requiring them to address risks around
+the sourcing, processing, and trading of raw materials, chemicals, and secondary raw materials.75
+Moreover, several jurisdictions have proposed or adopted mandatory due diligence legislation
+requiring more stringent corporate responses to human rights risks and adverse impacts in
+their supply chains. This includes Switzerland’s Conflict Minerals and Child Labor Due Diligence
+Legislation, France’s Corporate Duty of Vigilance Law, Germany’s Supply Chain Act, and Norway’s
+Transparency Act.
+Second, several industry schemes are focused on responsible sourcing. They include the London
+Metal Exchange’s responsible sourcing requirements,76 the Initiative for Responsible Mining
+Assurance,77 the Responsible Minerals Initiative,78 and the London Bullion Market Association
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 17
+
+Responsible Sourcing Programme.79 These initiatives, particularly the London Metal Exchange’s
+responsible sourcing requirements, do have an extraterritorial reach in China, but it is unclear
+what kinds of levers they would be willing to employ when it comes to sanctioning China-based
+companies for noncompliance with the standards.
+Third, the reputational risks for downstream actors relating to responsible sourcing are
+increasing. Several automakers (including Mercedes-Benz and Volkswagen) and technology
+companies recently came under fire after a report by Amnesty International revealed that their
+products were linked to cobalt mines in the DRC accused of serious human rights violations.
+In June 2022, The New York Times reported that the Xinjiang Nonferrous Metal Industry Group
+may have used coercive labor practices in its mines, smelters, and factories in Xinjiang (a region
+in the far west of China where leading human rights groups, including Amnesty International and
+Human Rights Watch, have accused China of crimes against humanity against Uyghur Muslims
+and other ethnic groups, including through forced labor transfer programs).80 Metals produced by
+the company have been exported to the U.S. and Europe, while some have gone to large Chinese
+battery makers, who then supply major U.S. entities downstream. If downstream actors become
+more sensitive to the reputational risks of being perceived as sourcing “tainted” minerals, they
+may put pressure on their Chinese suppliers to tighten due diligence requirements.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 18
+
+5 What Could the Future
+Look Like?
+The following scenarios illustrate how dynamics
+around critical minerals supply chains could
+evolve over the next 10 to 20 years.
+These scenarios consider the extent to which the U.S. and Europe might be able build out
+their own critical minerals supply chains to rival those of China and whether Beijing moves
+to “green” and “clean” these supply chains and tighten due diligence requirements. They also
+consider the extent to which the world might have supplies of cleaner and greener minerals to
+fuel the energy transition. Figure 1 presents a high-level overview of the scenarios.
+High vs. Low Supply Chain Due Diligence by China
+The horizontal axis considers the level of due diligence enforcement in China’s critical minerals
+supply chains. Particularly important will be the enforcement of due diligence standards for
+smelters and refiners, given their strategic point in the supply chain.
+A high-enforcement scenario assumes that China has clear statutory requirements for due diligence,
+with mechanisms to monitor and sanction smelting and refining companies for noncompliance.
+Specifically, this means that the Chinese government has enacted and enforces legislation mandating
+mineral supply chain due diligence that aligns with the CCCMC guidelines, including requiring
+companies to disclose a due diligence policy, undertake independent third-party audits, and publish
+annual reports detailing implementation of due diligence measures and steps taken to mitigate risks
+in the supply chain. This also means that other key stakeholders in China, such as the Shanghai Gold
+Exchange and major stock exchanges such as Shanghai, Shenzhen, and Hong Kong (government
+ministry of the state council and Securities and Futures Commission for Hong Kong), have instituted
+mineral supply due diligence guidelines that are mandatory for all their members.*81
+* It should be noted that the Shenzhen Stock Exchange and Shanghai Stock Exchange have issued guidelines for responsible busi-
+ness reporting and ESG impact information disclosure (in the case of Shanghai and Hong Kong). The stock market regulator in
+China also issued rules in 2017 requiring all listed companies to disclose ESG risks associated with their operations and in 2018
+added a chapter on responsible business to its Code of Corporate Governance for Listed Companies.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 19
+
+Conversely, a low-enforcement scenario assumes a continuation of the status quo, with most
+smelters and refiners falling short of standards for mineral supply chain due diligence.
+High vs. Low Control of Supply Chains by China
+The vertical axis considers the global share of upstream, midstream, and downstream critical
+minerals activities dominated by China. A low-concentration scenario assumes a substantial
+scale-up of capacity across the supply chain by other jurisdictions, including the U.S. and Europe.
+A high-concentration scenario assumes that China maintains a high level of control over critical
+minerals supply chains.
+FIGURE 1. Potential Scenarios for Critical Minerals Supply Chains*
+* Several factors outside the scope of this scenario analysis will materially affect how things evolve, of course, including overall
+levels of demand for critical minerals and their prices, and technological breakthroughs that reduce mineral requirements for key
+energy transition applications.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 20
+lortnoC
+fo
+leveL
+s’anihC
+High
+1Geopolitical and sustainability High 2 Beijing’s clean and green High
+Control Control
+risks imperil the energy transition monopoly
+Low High
+• Global critical minerals supply Enforcement • Global critical minerals Enforcement
+chains are dominated end to end supply chains are dominated
+by China, and the world is highly end to end by China, but the
+dependent on China for the inputs needed country has instituted rigorous and legally
+for decarbonization. binding due diligence requirements.
+Implications for the energy transition Implications for the energy transition
+• Premiums for a small supply of “cleaner” and • Potentially less price volatility, due to a
+“greener” critical minerals and derivative robust supply of “cleaner” and “greener”
+products, leading to price volatility critical minerals and derivative products
+• Likely supply chain disruptions due to • Positive effects for natural resource
+geopolitical tensions or logistical issues governance in resource-rich countries,
+• Higher risk of social and political conflict helping to bring more minerals to market
+around decarbonization efforts • Higher risk of supply chain disruptions due
+to geopolitical tensions or logistical issues
+4 Bifurcation of critical minerals Low 3 A virtuous circle of competition Low
+supply chains Control and sustainability Control
+Low High
+• Governments are able to Enforcement • The U.S. and Europe have Enforcement
+monetize resources despite successfully built out critical
+lower-than-anticipated demand and minerals supply chains to rival China.
+less mining activity globally, due to perceived
+• All players have instituted rigorous due
+low levels of political and stakeholder risk.
+diligence standards across the supply chain.
+Implications for the energy transition
+Implications for the energy transition
+• Higher risk of price volatility for critical minerals
+• The clear best-case scenario
+and derivative products
+• Lower risk of price volatility, due to an
+• Potential for aggressive moves by Western
+abundance of cleaner and greener minerals
+governments to limit the flow of Chinese critical
+and derivative products
+minerals and derivative products
+• Lower risk of supply chain disruptions due to
+geopolitical tensions or logistical issues
+China’s Enforcement of Supply Chain Due Diligence
+Low High
+
+SCENARIO 1: 1Geopolitical and sustainability High 2 Beijing’s clean and green High
+Control Control
+risks imperil the energy transition monopoly
+Geopolitical and Sustainability Low High
+• Global critical minerals supply Enforcement • Global critical minerals Enforcement
+chains are dominated end to end supply chains are dominated
+Risks Imperil the Transition
+by China, and the world is highly end to end by China, but the
+dependent on China for the inputs needed country has instituted rigorous and legally
+for decarbonization. binding due diligence requirements.
+In this scenario, global critical minerals supply
+Implications for the energy transition Implications for the energy transition
+chains are dominated end to end by China.
+• Premiums for a small supply of “cleaner” and • Potentially less price volatility, due to a
+Mineral smelting and refining and battery
+“greener” critical minerals and derivative robust supply of “cleaner” and “greener”
+cell manufacturing are highly concentrated products, leading to price volatility critical minerals and derivative products
+in China, while Chinese mining companies • Likely supply chain disruptions due to • Positive effects for natural resource
+geopolitical tensions or logistical issues governance in resource-rich countries,
+have expanded upstream control over critical
+• Higher risk of social and political conflict helping to bring more minerals to market
+minerals to feed downstream operations. around decarbonization efforts • Higher risk of supply chain disruptions due
+The Chinese government has not made any to geopolitical tensions or logistical issues
+moves to implement legally binding due
+diligence requirements on actors across the supply chain.
+This scenario assumes that efforts in the U.S. and Europe to build out domestic critical
+minerals supply chains have largely faltered, stymi 4 ed Bbifyu rscoactioianl oafn cdri tpicoall imticinaelr aolsp positionLo wto 3 A virtuous circle of competition Low
+supply chains Control and sustainability Control
+mining developments and insufficient midstream and downstream investment. CompLoawnies High
+• Governments are able to Enforcement • The U.S. and Europe have Enforcement
+and governments globally remain highly dependent onm Conheitnizee srees ocuorcmesp daenspiietes for the successfully built out critical
+lower-than-anticipated demand and minerals supply chains to rival China.
+inputs needed to achieve climate commitments involving decarbonization, especially
+less mining activity globally, due to perceived
+• All players have instituted rigorous due
+rechargeable batteries. low levels of political and stakeholder risk.
+diligence standards across the supply chain.
+Implications for the energy transition
+Implications for the energy transition
+What would this mean for the energy transitio• nH?ig her risk of price volatility for critical minerals
+• The clear best-case scenario
+and derivative products
+• Lower risk of price volatility, due to an
+This scenario would be clearly negative for the energ•y Ptroatennstiiatli ofonr a. gTghreess igvelo mboavle ss ubyp Wpelyst eornf “green”
+abundance of cleaner and greener minerals
+governments to limit the flow of Chinese critical
+and “clean” critical minerals for the energy transition would be insufficient, forcing difficult and derivative products
+minerals and derivative products
+decisions and tradeoffs. Key challenges in this scenario would include: • Lower risk of supply chain disruptions due to
+geopolitical tensions or logistical issues
+• Premium prices for a small supply of clean critical minerals. This scenario would make
+responsible sourcing challenging for companies across the supply chain, particularly
+downstream actors. Automakers and other companies could struggle to source enough
+“clean” and “green” critical minerals to bring enough product to market to meet demand,
+particularly if their sourcing were under greater scrutiny from regulators, civil society
+organizations, or consumers and it were challenging to source from China with a high
+degree of confidence that minerals and/or mineral products were not linked to abuses.
+This would likely be an acute risk for companies operating in jurisdictions with binding
+due diligence laws; they could face significant fines or other adverse regulatory action for
+abuses in their supply chains. Companies could therefore be willing to pay premiums for
+critical minerals sourced transparently in accordance with strict due diligence standards,
+leading to competition for a small share of the world’s clean critical minerals supplies. This
+could theoretically drive up the cost of the energy transition significantly.
+• Likely supply chain disruptions due to geopolitical tensions or logistical issues. This
+scenario presents a risk that exports of critical minerals products could be interrupted in
+the context of rising geopolitical tensions. The ongoing trade war between China and the
+U.S. underscores the potential for trade controls. Moving forward, geopolitical disputes—
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 21
+
+such as disputes stemming from China’s historic tensions with Taiwan and Hong Kong—
+could trigger disruptions in the form of sanctions, disrupted maritime transport, or, in an
+extreme scenario, military conflict. If China were to shut off the flow of mineral products
+to the U.S. and Europe, this would likely slow the pace of the energy transition and make
+key inputs, such as EV batteries, more costly.
+There is reason to be concerned. China has, for example, implemented export controls
+on REEs, in violation of international trade rules. In recent years, China has signaled new
+efforts to attain full control over these exports due to their use in the manufacture of
+military aircraft such as F-35 fighter jets. In October 2020, China passed a bill to allow
+export controls on items considered to be critical to the state’s interest and security,
+which it could apply to resources crucial to the energy transition. In 2021, China’s Ministry
+of Industry and Information Technology proposed draft controls on exports of REEs. In
+a worst-case version of this scenario, if China were to deem any or all critical minerals
+relevant to national security, this could spark a rapid implementation of export bans of raw
+and refined commodities in the event of trade disputes or geopolitical conflicts.
+Even in the absence of an escalation in geopolitical tensions, more benign logistical
+disruptions could affect the flow of mineral products from China to other markets. Port
+closures and container ship congestion at Chinese ports have unleashed waves of global
+supply chain shocks across commodities during the COVID-19 pandemic, leading to
+severe delays in export shipping and rising costs of containers.
+• Higher risk of social and political conflict around decarbonization efforts. In the
+absence of a sufficient supply of “clean” and “green” critical minerals to power the energy
+transition, the risk of social and political conflict around decarbonization efforts is much
+higher. The push for “degrowth”—the idea that the only way to address the climate crisis is
+to dramatically reduce levels of economic activity and significantly reduce the use of raw
+materials—is increasingly working its way into conversations about the energy transition.
+For example, the EU’s European Green Deal has faced intense criticism from civil society
+organizations along those lines. In June 2021, a global coalition of 180 community
+platforms, human rights and environmental organizations, and academics called on
+Brussels to abandon plans to expand what it termed “dirty mining” as part of its Green
+Deal and Green Recovery plans; Friends of the Earth Europe described the policy plans as
+a “desperate plunder for raw materials seemingly at any cost.” In the context of growing
+concern about the perceived negative environmental, social, and corruption impacts of
+mining large quantities of minerals, this idea will likely gain traction.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 22
+
+1SGeCopEolNiticAal RanIdO su s2ta:in ability High 2 Beijing’s clean and green High
+Control Control
+risks imperil the energy transition monopoly
+Low High
+B• eGliojbianl cgrit’sica lC mlineeraalns s uappnlyd G E r nf e orc e em n en t • Global critical minerals Enforcement
+chains are dominated end to end supply chains are dominated
+Mboy nChoinpa, oanldy th e world is highly end to end by China, but the
+dependent on China for the inputs needed country has instituted rigorous and legally
+for decarbonization. binding due diligence requirements.
+In this scenario, as in scenario 1, global critical
+Implications for the energy transition Implications for the energy transition
+minerals supply chains are dominated end
+• Premiums for a small supply of “cleaner” and • Potentially less price volatility, due to a
+“tgore eennedr” bcyrit iCcahl imnian.e Irta las sasnud mdeerisva tthivea t the U.S. and robust supply of “cleaner” and “greener”
+pEruodroucptes, lheaadvieng n too tp rsicuec vcoelaetidliteyd in building out critical minerals and derivative products
+• Ldikoemly seusptpicly ccrhiatiinc adils mrupintioenrsa dlsu es utop ply chains and • Positive effects for natural resource
+geopolitical tensions or logistical issues governance in resource-rich countries,
+• H th ig a h t e r t h ri e sk w of o s r o l c d ia r l e an m d a p i o n li s ti c h a i l g c h o l n y fl i d ct e pendent on helping to bring more minerals to market
+aCrohuinnda dfeocra rcbroitniiczaatli omn ienffeorrtasls products. However, • Higher risk of supply chain disruptions due
+in this scenario Beijing has made concerted to geopolitical tensions or logistical issues
+efforts to ensure that actors across the supply
+chain—including mining companies, smelters,
+refiners, and manufacturers—are subject to rigorous and legally binding due diligence
+4 Bifruercqautiiorne mof ecnrittisc atlh maitn aerrael sa ligned wLowith CCCMC standa3rdsA. vTihrteuo guos vciercrnlem ofe cnotm aplestoit ihono lds privLaowte
+supapnlyd c shtaaintes -owned Chinese mi C n o i n n tr g ol companies operatinangd a sbursotaainda btoili thy igh operating stan Co d n a tr r o d l s
+Low High
+• G in o v t e h rn is m s e c nt e s n ar a e r a io bl . e A to s things stEannfodrc,e mthenits scenario is the le • a s T t h l e ik U e .S ly . a o nd f E t u h r e op f e o h u a r v , e because iEfn fCorcheimneant
+monetize resources despite successfully built out critical
+lroewmer-atihnasn -tahnetic dipoatmed idneamnatn dp alanyd er across critical mineral supmpilnye rcahls asuinpsp,ly i tc hwaiinlsl thoa rviveal lCehsinsa i. ncentive
+less mining activity globally, due to perceived
+to tighten due diligence. • All players have instituted rigorous due
+low levels of political and stakeholder risk.
+diligence standards across the supply chain.
+Implications for the energy transition
+Implications for the energy transition
+What would this mean for the energy transition?
+• Higher risk of price volatility for critical minerals
+• The clear best-case scenario
+and derivative products
+This scenario would have mixed implications for the e• nLeorwgeyr rtirsak nofs pitriiocen v.o Tlahtileityy, dinuec tlou dane :
+• Potential for aggressive moves by Western
+abundance of cleaner and greener minerals
+governments to limit the flow of Chinese critical
+• Potentially less price volatility. Theoretically, there wanod udeldriv bateiv ea p rroodbuuctsst supply of “clean”
+minerals and derivative products
+• Lower risk of supply chain disruptions due to
+and “green” critical minerals, or minerals mined and processed in accordance with
+geopolitical tensions or logistical issues
+robust ESG standards, coupled with high transparency and traceability for transactions,
+responsible sourcing, and destinations of raw and refined materials. This would be positive
+for the entire supply chain, likely with at least some positive knock-on effects for natural
+resource governance in resource-rich countries; it would improve environmental and
+social performance and reduce risks of corruption, and, in turn, help bring more minerals
+to market. These dynamics could reduce the risk of price volatility.
+• Higher risk of supply chain disruptions due to geopolitical tensions or logistical issues.
+As in scenario 1, this scenario includes a risk that exports of critical minerals products
+could be interrupted in the context of rising geopolitical tensions or logistical challenges.
+This would potentially slow the pace of the energy transition and create price shocks.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 23
+
+1Geopolitical and sustainability High 2 Beijing’s clean and green High
+Control Control
+risks imperil the energy transition monopoly
+Low High
+• Global critical minerals supply Enforcement • Global critical minerals Enforcement
+chains are dominated end to end supply chains are dominated
+by China, and the world is highly end to end by China, but the
+dependent on China for the inputs needed country has instituted rigorous and legally
+for decarbonization. binding due diligence requirements.
+Implications for the energy transition Implications for the energy transition
+• Premiums for a small supply of “cleaner” and • Potentially less price volatility, due to a
+“greener” critical minerals and derivative robust supply of “cleaner” and “greener”
+products, leading to price volatility critical minerals and derivative products
+• Likely supply chain disruptions due to • Positive effects for natural resource
+geopolitical tensions or logistical issues governance in resource-rich countries,
+• Higher risk of social and political conflict helping to bring more minerals to market
+around decarbonization efforts • Higher risk of supply chain disruptions due
+to geopolitical tensions or logistical issues
+4 B S if C urc E at N ion A o R f cr I i O tica 3 l m : i n erals Low 3 A virtuous circle of competition Low
+supply chains Control and sustainability Control
+A Virtuous Circle of CoLomw petition High
+• Governments are able to Enforcement • The U.S. and Europe have Enforcement
+monetize resources despite successfully built out critical
+and Sustainability
+lower-than-anticipated demand and minerals supply chains to rival China.
+less mining activity globally, due to perceived
+• All players have instituted rigorous due
+low levels of political and stakeholder risk.
+In this scenario, U.S. and European efforts to diligence standards across the supply chain.
+Implications for the energy transition
+build out domestic critical minerals supply Implications for the energy transition
+• Higher risk of price volatility for critical minerals
+acndh daeinrivsa thivaev pero bduecetsn largely successful. China • The clear best-case scenario
+• Lower risk of price volatility, due to an
+• Proetemntaiailn fosr aag kgereys spivlea myeovre, sb buyt W Eeustreornp e and the
+abundance of cleaner and greener minerals
+governments to limit the flow of Chinese critical
+U.S. are both strong competitors, having and derivative products
+minerals and derivative products
+addressed the challenges set out in section • Lower risk of supply chain disruptions due to
+geopolitical tensions or logistical issues
+3 and having made significant investments
+across critical minerals supply chains from
+mining to manufacturing.
+The U.S. and Europe have achieved four key things in this scenario. First, they have
+significantly increased domestic mining. The U.S. has achieved broad, bipartisan political
+consensus that dramatically and urgently increasing domestic critical minerals output is
+a major national security priority. The Biden administration has permitted controversial
+projects—including the Pebble and Twin Metals projects—because it has deemed the
+potential costs of not bolstering critical minerals supplies to be too high. Bipartisan
+consensus has led to a coordinated effort between Congress and the executive branch to
+simplify and streamline the permitting process. Congress has meaningfully updated the
+General Mining Act of 1872, strengthening social and environmental protections and levying
+a royalty, which is lessening stakeholder conflict around mining. This has allowed subsequent
+administrations to more easily bring additional domestic mines online. Europe and MSP
+partners have also brought many new mines into production.
+Second, the U.S., Europe, and other MSP partners have made significant and highly
+coordinated investments in refining and smelting capacity domestically and within countries
+in the MSP. Tens of billions of dollars of capital have been deployed to build new smelters
+and refiners and thereby reduce dependence on China. The U.S. has been particularly crucial
+to this effort, deploying capital through a variety of mechanisms domestically and abroad
+(such as the Partnership for Global Infrastructure and Investment or the U.S. International
+Development Finance Corporation).
+Third, the U.S. and Europe have successfully developed thriving cell component and battery
+manufacturing sectors. These sectors have seen considerable investment, with EV makers
+onshoring this activity. This has been achieved through a combination of tax credits and
+other economic incentives to the private sector, clear regulation to streamline permitting
+and construction, and a national workforce development strategy. Direct cooperation and
+collaborations with MSP partners, including Korean and Japanese companies in the case of
+cathode and anode production, has also contributed to the success of this.
+Fourth, the U.S. and Europe have continued to invest in innovation to develop a clear
+advantage in mineral and battery recycling. This has provided an additional stream of critical
+minerals, further bolstering supply chains in the U.S. and Europe.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 24
+
+Against this backdrop, the world has continued to evolve toward mandatory due diligence
+and responsible sourcing requirements, with global coordination. Individual jurisdictions
+have aligned their regulatory regimes with these requirements to a high degree. The U.S.
+and Europe have developed supply chains in line with extremely robust ESG standards, with
+statutory requirements mandating supply chain due diligence that is aligned with the OECD
+Guidance. This, in turn, has motivated China to also implement due diligence to remain a
+competitive player.
+What would this mean for the energy transition?
+This is clearly the best-case scenario for the energy transition. Specifically, it would mean:
+• Lower risk of price volatility due to an abundant supply of cleaner and greener critical
+minerals. With several different major players in critical minerals supply chains, global
+coordination around regulatory regimes for responsible sourcing is more likely, as is
+alignment on statutory requirements between major jurisdictions, including the U.S., the
+EU, China, and potentially others. This would be positive for the sustainability aspects of
+the energy transition, generating a diverse supply of cleaner and greener minerals that
+could be sourced by downstream actors globally. With multiple major players mining and
+refining minerals in accordance with strict ESG standards, dirtier minerals could trade at
+steep discounts. This would create a clear commercial motive for all players to adhere
+to high standards. Moreover, responsible sourcing would lead to improved social license
+to operate, which would then lead to improved mining conditions and increased mineral
+supplies to international markets.
+• Lower risk of supply chain disruptions due to geopolitical tensions or logistical issues.
+With less concentration of critical minerals supply chains, Beijing would not be able to
+easily turn off the flow of critical minerals. In the event of escalating geopolitical tensions
+or logistical challenges, the U.S. and Europe would be much more resilient and would be
+able to easily draw on their own supplies of critical minerals and critical minerals products.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 25
+
+1Geopolitical and sustainability High 2 Beijing’s clean and green High
+Control Control
+risks imperil the energy transition monopoly
+Low High
+• Global critical minerals supply Enforcement • Global critical minerals Enforcement
+chains are dominated end to end supply chains are dominated
+by China, and the world is highly end to end by China, but the
+dependent on China for the inputs needed country has instituted rigorous and legally
+for decarbonization. binding due diligence requirements.
+Implications for the energy transition Implications for the energy transition
+• Premiums for a small supply of “cleaner” and • Potentially less price volatility, due to a
+“greener” critical minerals and derivative robust supply of “cleaner” and “greener”
+products, leading to price volatility critical minerals and derivative products
+• Likely supply chain disruptions due to • Positive effects for natural resource
+geopolitical tensions or logistical issues governance in resource-rich countries,
+• Higher risk of social and political conflict helping to bring more minerals to market
+around decarbonization efforts • Higher risk of supply chain disruptions due
+to geopolitical tensions or logistical issues
+SCENARIO 4: 4 Bifurcation of critical minerals Low 3 A virtuous circle of competition Low
+supply chains Control and sustainability Control
+Bifurcation of Critical Minerals Low High
+• Governments are able to Enforcement • The U.S. and Europe have Enforcement
+Supply Chains monetize resources despite successfully built out critical
+lower-than-anticipated demand and minerals supply chains to rival China.
+less mining activity globally, due to perceived
+• All players have instituted rigorous due
+low levels of political and stakeholder risk.
+In this scenario, as in scenario 3, U.S. and diligence standards across the supply chain.
+Implications for the energy transition
+European efforts to build out domestic critical Implications for the energy transition
+• Higher risk of price volatility for critical minerals
+mineral supply chains have been largely • The clear best-case scenario
+and derivative products
+successful. In practical terms, this means • Potential for aggressive moves by Western • Lower risk of price volatility, due to an
+abundance of cleaner and greener minerals
+significantly increased domestic mining, a governments to limit the flow of Chinese critical and derivative products
+minerals and derivative products
+highly coordinated effort to make substantial • Lower risk of supply chain disruptions due to
+geopolitical tensions or logistical issues
+investments in refining and smelting capacity
+domestically and within countries in the
+MSP, major expansion of domestic cell component and battery manufacturing sectors, and
+continuous investment in R&D to remain competitive.
+However, in this scenario, the U.S. and EU have tight due diligence requirements on critical
+minerals, but China does not. The result is two different streams of critical minerals globally:
+one sourced and then refined and processed in the U.S. and EU in accordance with strict
+due diligence regulations, and one sourced and then refined and processed in China without
+strict due diligence. This means critical minerals supplies that are bifurcated into “cleaner”
+and “dirtier.”
+What would this mean for the energy transition?
+This scenario would be negative for the energy transition, although not as bad as scenario 1.
+The key implications include:
+• Higher risk of price volatility for critical minerals and critical minerals products. The
+bifurcation of critical minerals supply chains would likely have price implications, with
+one potentially trading at a premium and the other at a discount. Depending on the
+percentage of the supply chain that the U.S. and EU ultimately control, this could force
+companies to choose between more expensive “cleaner” minerals and cheaper “dirtier”
+ones. This could drive up the cost of the energy transition, although the situation is
+unlikely to be as dire as that set out in scenario 1.
+• Aggressive moves by Western governments to limit the flow of Chinese critical minerals
+and critical minerals products. Governments in the U.S., Europe, and other countries
+could move to limit the flow of Chinese critical minerals, either due to significant
+geopolitical tensions (analogous to attempts to limit the flow of Russian oil and gas
+following its invasion of Ukraine) or due to growing concerns about social, environmental,
+or human rights abuses in the supply chain. This would likely exacerbate price volatility.
+The exact dynamics—and, specifically, how aggressively governments might move to
+force companies to use “cleaner” and “greener” critical minerals—would likely depend
+on the geopolitical climate and the extent of concerns about abuses in critical minerals
+supply chains. The U.S. and Europe could potentially move to institute stricter mandatory
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 26
+
+ESG requirements for critical minerals and critical minerals products specifically, along
+the lines of the Dodd-Frank legislation in the U.S.*
+In a more extreme version of this scenario, the U.S. and Europe could seek to take
+aggressive regulatory action to ban imports of critical minerals products. This would
+create a much more challenging legal and regulatory environment for companies
+that are crucial to the energy transition, including automakers. There is already some
+precedent for this. The Uyghur Forced Labor Prevention Act, signed into law by
+President Biden in December 2021, assumes that goods made in whole or in part in the
+Xinjiang region of China are produced with forced labor and therefore prohibited from
+importation into the U.S.82 The U.S. and Europe could also seek to target bad actors—
+including Chinese companies and individuals and their proxies—through targeted
+sanctions and prosecutions, potentially making it more difficult for Western companies
+to do business with Chinese actors along the value chain. There is also precedent
+for this. Israeli billionaire Dan Gertler was sanctioned by the Trump administration in
+2017 under the U.S. government’s Global Magnitsky Sanctions program for his alleged
+involvement in large-scale corruption in the DRC’s mining sector.83 In December 2022,
+The U.S. Treasury sanctioned a DRC national, Alain Mukonda, and 12 entities linked to
+him for allegedly providing support to Gertler, including opening bank accounts for him
+and making payments into proxy bank accounts for him.84
+Chinese government authorities could institute their own sanctions on restrictions on
+companies or individuals in the Europe and US in response. These kinds of actions would
+likely create turbulence across critical minerals markets.
+* Section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act requires that companies with
+tin, tantalum, tungsten, or gold in their products report to the Securities and Exchange Commission on their due
+diligence processes for these minerals.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 27
+
+6 Conclusion
+The clear best-case scenario for the energy transition is scenario 3, in which critical minerals
+supply chains are no longer concentrated in China and due diligence requirements on
+critical minerals and their derivative products are globally harmonized. The second-best, albeit
+suboptimal, scenario would be scenario 4, in which the U.S. and Europe have built out their own
+critical minerals supply chains but, given a lack of movement on due diligence requirements in
+China, global supplies are split into “cleaner” and “dirtier” minerals. Scenario 1, in which China
+retains a clear dominance but does not strengthen due diligence is the clear worst-case scenario.
+This would present a serious risk of disruption to the energy transition if rising geopolitical
+tensions or more benign logistical issues limit the flow of critical minerals products out of China.
+It would also increase the risk that the energy transition could cause or contribute to social
+and environmental harms through the mining and processing of critical minerals. In our view,
+scenario 2, in which China retains a clear dominance but makes moves to institute mandatory
+due diligence on critical minerals, is highly unlikely.
+To achieve either the best-case or second-best-case outcome, governments in the U.S. and
+Europe will need to build substantially on their existing commitments to build out their critical
+minerals supply chain. This would likely entail significant additional financial capital, ongoing
+innovation, and improvements to regulatory and permitting regimes. This by itself would be
+challenging, but especially given the current global context. In the wake of the COVID-19
+pandemic and Russia’s invasion of Ukraine, governments globally are facing myriad economic
+challenges, including high inflation, a commodity price shock and global energy crisis, and
+the looming threat of recession. Governments are not in the best position to be writing large
+checks, particularly for mining and smelting projects that may be tough sells to voters who are
+concerned about social and environmental impacts. Competing pressures may take time and
+attention away from the critical minerals agenda. Political polarization, especially in the U.S.,
+could make it difficult to achieve political consensus around how to most effectively build out
+these supply chains—especially where difficult tradeoffs may be required.
+As discussed in section 3, there is some reason for optimism. The Biden administration’s planning
+efforts around critical minerals supply chains are encouraging, and recent private-sector
+investments in battery manufacturing are a promising sign. However, this will be a long-term
+endeavor, and only time will tell if there is enough political will and financial backing to build on
+this momentum.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 28
+
+To achieve the best-case outcome, continued global engagement around due diligence and
+responsible sourcing would also be needed. China is unlikely to institute mandatory due diligence
+requirements, but this is not beyond the realm of possibility. A number of industry associations,
+including the Responsible Minerals Initiative, have been active in China for some time. Continued
+pressure and evolving due diligence requirements elsewhere globally, especially in Europe, could
+move the needle, especially if failure to do so creates market access issues.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 29
+
+About the Authors
+Rodrigo Castillo is a research associate for the Leveraging Transparency to Reduce Corruption
+initiative. His research focuses on critical minerals, climate trends, the geopolitics of the energy
+transition, and how these impact value chains in renewable technologies, infrastructure,
+extractive industries, and energy markets. He has been a consultant at the World Bank and has
+also worked at think tanks in the U.S. and Latin America. He holds a bachelor’s degree from
+Northwestern University.
+Caitlin Purdy is the senior program officer for the Leveraging Transparency to Reduce Corruption
+initiative. She focuses on complex political, social, and stakeholder issues in the mining and
+energy sectors, and has significant experience in assessing and managing risks for boards and
+C-suites at greenfield and brownfield investments and working with civil society to increase
+transparency and accountability around social and environmental impacts. She was previously
+a senior associate at Critical Resource. She holds master’s degrees from the London School of
+Economics and Pontificia Universidad Católica del Perú.
+ACKNOWLEDGMENTS
+LTRC is extremely grateful for the thoughtful and meticulous peer review contributed by
+Brad Brooks-Rubin, Dr. Zha Daojiong (Professor of International Political Economy, School of
+International Studies, Peking University), Luca Maiotti (OECD Centre for Responsible Business
+Conduct), and Louis Maréchal (OECD Centre for Responsible Business Conduct). This paper
+solely reflects the views of the authors. Any errors are those of the authors alone.
+This publication is made possible by support from the BHP Foundation. The findings,
+interpretations, and conclusions in this report are solely those of the authors and do
+not represent positions or policies of the BHP Foundation, its officers, employees, or
+other donors. Brookings is committed to quality, independence, and impact in all of its
+work. Activities supported by its donors reflect this commitment, and the analysis and
+recommendations are solely determined by the scholars.
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 30
+
+9 Copper shares correspond to IEA estimates:
+References International Energy Agency. (2021). The Role
+of Critical Minerals in Clean Energy Transitions.
+https://www.iea.org/reports/the-role-of-critical-
+minerals-in-clean-energy-transitions
+1 International Energy Agency. (2021). The Role
+of Critical Minerals in Clean Energy Transitions.
+10 Shares for cathodes and anodes correspond to IEA
+https://www.iea.org/reports/the-role-of-critical-
+estimates: International Energy Agency. (2022).
+minerals-in-clean-energy-transitions
+Global Supply Chains of EV Batteries. https://
+www.iea.org/reports/global-supply-chains-of-ev-
+2 Attwood, J., & Fuentes, V. (2022, February 1). In
+batteries
+Chile’s big mining shake-up, radical moves remain
+a long shot. Bloomberg. https://www.bloomberg.
+11 Ladislaw, S., Zindler, E., Nakano, J., Tsafos, N.,
+com/news/articles/2022-02-01/in-chile-s-big-
+Carey, L., Goldie-Scot, L., Lezcano, P., & Chase,
+mining-shake-up-radical-moves-remain-a-long-
+J. (2021). Industrial Policy, Trade, and Clean
+shot
+Energy Supply Chains. Center for Strategic and
+International Studies. https://www.csis.org/
+3 Lipton, E., & Searcey, D. (2022, February 28).
+analysis/industrial-policy-trade-and-clean-
+Chinese company removed as operator of cobalt
+energy-supply-chains
+mine in Congo. The New York Times. https://www.
+nytimes.com/2022/02/28/world/congo-cobalt-
+12 Pettitt, J. (2022, January 15). How the U.S.
+mining-china.html
+fell behind in lithium, the “white gold” of
+electric vehicles. CNBC. https://www.cnbc.
+4 Directorate for Financial and Enterprise Affairs.
+com/2022/01/15/how-the-us-fell-way-behind-
+(2017). OECD Due Diligence Guidance for
+in-lithium-white-gold-for-evs.html
+Responsible Business Conduct. Organisation for
+Economic Co-operation and Development. http://
+13 Goh, B., & Patton, D. (2022, March 21). Volkswagen
+mneguidelines.oecd.org/OECD-Due-Diligence-
+unveils Asian ventures to secure e-battery
+Guidance-Responsible-Business-Conduct.pdf
+materials supply. Reuters. https://www.reuters.
+com/business/autos-transportation/volkswagen-
+5 International Energy Agency. (2021). The Role
+china-says-will-form-ventures-with-huayou-
+of Critical Minerals in Clean Energy Transitions.
+cobalt-tsingshan-group-2022-03-21/
+https://www.iea.org/reports/the-role-of-critical-
+minerals-in-clean-energy-transitions
+14 Ganfeng Lithium. (2020, June 28). Ganfeng
+Lithium and BMW signed a “long-term supply
+6 Valckx, N., Stuermer, M., Seneviratne, D., & Prasad,
+agreement” to accelerate the progress of vehicle
+A. (2021, December 8). Metals Demand from
+electrification. http://www.ganfenglithium.com/
+Energy Transition May Top Current Global Supply.
+new_detail_en/id/15.html
+International Monetary Fund. https://blogs.imf.
+org/2021/12/08/metals-demand-from-energy-
+15 International Energy Agency. (2021). The Role
+transition-may-top-current-global-supply/
+of Critical Minerals in Clean Energy Transitions.
+https://www.iea.org/reports/the-role-of-critical-
+7 Erbach, G., & Merz, K. (2021, July). EU-US
+minerals-in-clean-energy-transitions
+Explainer: Resilient supply chains in the green
+transition. European Parliament. https://
+16 Green Car Congress. (2022, June 11). Benchmark
+www.europarl.europa.eu/RegData/etudes/
+Mineral Intelligence: Lithium oversupply
+ATAG/2021/696181/EPRS_ATA(2021)696181_
+not likely. https://www.greencarcongress.
+EN.pdf
+com/2022/06/20220611-benchmark.html
+8 Yeomans, J., & Harter, F. (2022, May 1). Who owns
+17 Forsythe, M., & Bradsher, K. (2021, December
+the Earth? The scramble turns critical. The Times.
+22). Why a Chinese company dominates electric
+https://www.thetimes.co.uk/article/who-owns-
+car batteries. The New York Times. https://www.
+the-earth-the-scramble-for-minerals-turns-
+nytimes.com/2021/12/22/business/china-catl-
+critical-jbglsgm02
+electric-car-batteries.html
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 31
+
+18 Zijin Mining Group Co., Ltd. (2022, June 29). 27 International Energy Agency. (2021). The Role
+Announcement in Relation to the Acquisition of Critical Minerals in Clean Energy Transitions.
+of the Xiangyuan Lithium Polymetallic Mine in https://www.iea.org/reports/the-role-of-critical-
+Dao County, Hunan Province. https://www. minerals-in-clean-energy-transitions
+zijinmining.com/upload/file/2022/06/29/
+f6d3361f56c7412e91e57a98459b3904.pdf 28 Tucker, T. (2022). Everything is Climate Now:
+New Directions for Industrial Policy from Biden’s
+19 International Energy Agency. (2021). The Role Supply Chain Reports. Roosevelt Institute.
+of Critical Minerals in Clean Energy Transitions. https://rooseveltinstitute.org/wp-content/
+https://www.iea.org/reports/the-role-of-critical- uploads/2022/05/RI_EverythingClimateNow_
+minerals-in-clean-energy-transitions IssueBrief_202205-2.pdf
+20 Carino Jr., D. (2022, January 17). Chilean appeals 29 Hui, M. (2021, February 19). A Chinese rare earths
+court orders suspension of lithium auction. S&P giant is building international alliances worldwide.
+Global Market Intelligence. https://www.spglobal. Quartz. https://qz.com/1971108/chinese-rare-
+com/marketintelligence/en/news-insights/latest- earths-giant-shenghe-is-building-global-alliances/
+news-headlines/chilean-appeals-court-orders-
+suspension-of-lithium-auction-68444196 30 Baraniuk, C. (2022, July 13). Turkey probably hasn’t
+found the rare earth metals it says it has. Wired.
+21 Swamynathan, Y., & Nicholson, M. (2018, May https://www.wired.co.uk/article/turkey-rare-
+17). China’s Tianqi Lithium to buy a quarter of earth-metals?utm_source=twitter
+Chile’s SQM for $4.1 billion. Reuters. https://www.
+reuters.com/article/us-tianqi-lithium-m-a-sqm- 31 The White House. (2022, February 22). FACT
+idUSKCN1II1I8 SHEET: Securing a Made in America Supply Chain
+for Critical Minerals. https://www.whitehouse.gov/
+22 Dzirutwe, M., & Daly, T. (2021, December 22). briefing-room/statements-releases/2022/02/22/
+China’s Huayou buys lithium mine in Zimbabwe fact-sheet-securing-a-made-in-america-supply-
+for $422 mln. Reuters. https://www.reuters.com/ chain-for-critical-minerals/
+business/chinas-huayou-buys-lithium-mine-
+zimbabwe-422-mln-2021-12-22/ 32 International Energy Agency. (2022, March 24).
+2022 IEA Ministerial Communiqué. https://www.
+23 Iannucci, E. (2022, February 16). AVZ waives iea.org/news/2022-iea-ministerial-communique
+conditions of $240m Manono deal. Mining Weekly.
+https://www.miningweekly.com/print-version/ 33 The Inflation Reduction Act, H.R. 5376, 117th
+avz-waives-conditions-of-240m-manono- Cong. (2022). https://www.democrats.senate.
+deal-2022-02-16 gov/imo/media/doc/inflation_reduction_act_
+of_2022.pdf
+24 Lipton, E., & Searcey, D. (2022, February 28).
+Chinese company removed as operator of cobalt 34 Leber, R. (2022, July 28). What’s in the “game
+mine in Congo. The New York Times. https://www. changer” climate bill nobody saw coming.
+nytimes.com/2022/02/28/world/congo-cobalt- Vox. https://www.vox.com/policy-and-
+mining-china.html politics/2022/7/28/23281757/whats-in-climate-
+bill-inflation-reduction-act
+25 Merriman, D. (2022, March 23). Rare earths:
+vital elements of the energy transition. Wood 35 BloombergNEF. (2022). Energy Storage Trade
+Mackenzie. https://www.woodmac.com/news/ and Manufacturing a Deep Dive. CSIS Energy
+opinion/rare-earths-vital-elements-of-the- Security and Climate Change Program. https://
+energy-transition/ csis-website-prod.s3.amazonaws.com/s3fs-
+public/Energy%20Storage%20Case%20Study%20
+26 Tucker, T. (2022). Everything is Climate Now: -%20BloombergNEF.pdf?KCOqvXlE3LM6AlBS.
+New Directions for Industrial Policy from Biden’s lyXF9LnQ7GTk5oc
+Supply Chain Reports. Roosevelt Institute.
+https://rooseveltinstitute.org/wp-content/ 36 U.S. Department of State. (2022, June 14). Minerals
+uploads/2022/05/RI_EverythingClimateNow_ Security Partnership. https://www.state.gov/
+IssueBrief_202205-2.pdf minerals-security-partnership/
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 32
+
+37 Foldy, B. (2022, January 03). GM, Volkswagen 47 Grzincic, B. (2022, June 27). Split appeals court
+build up their battery supply chains amid advances transfer of sacred Apache site to
+electric-vehicle push. The Wall Street Journal. copper miners. Reuters. https://www.reuters.
+https://www.wsj.com/articles/gm-volkswagen- com/legal/government/split-appeals-court-
+build-up-their-battery-supply-chains-amid- advances-transfer-sacred-apache-site-copper-
+electric-vehicle-push-11641205981?reflink=deskt miners-2022-06-27/
+opwebshare_twitter
+48 Jamasmie, C. (2022, July 06). Savannah Resources
+38 Nair, R., Ghosh, S. (2022, June 29). Australia’s shares hammered as Portugal lithium project
+Liontown inks lithium deal with Ford after Tesla, subject to further EIA step. Mining.com. https://
+LG agreements. Reuters. https://www.reuters. www.mining.com/savannah-resources-shares-
+com/business/autos-transportation/australias- hammered-as-portugal-lithium-project-subject-
+liontown-signs-5-year-lithium-supply-deal-with- to-further-eia-step/
+ford-motor-2022-06-28/
+49 Waldersee, V., Waldersee, D., Goncalves, S., &
+39 Jamasmie, C. (2022, June 23). US allots $74 million Melander, I. (2020, February 14). Portuguese
+to critical minerals mapping. Mining.com. https:// communities lock horns with lithium miners to
+www.mining.com/us-allots-74-million-to-critical- save their land. Mining.com. https://www.mining.
+minerals-mapping/ com/web/portuguese-communities-lock-horns-
+with-lithium-miners-to-save-their-land/
+40 Hume, N. (2022, February 25). Is there a new
+supercycle in metals and minerals? Financial 50 Sekularac, I. (2022, January 20). Serbia revokes
+Times. https://www.ft.com/content/975b92c0- Rio Tinto lithium project licences amid protests.
+8f70-48c2-8e50-f615db68228d Reuters. https://www.reuters.com/business/retail-
+consumer/serbian-government-revokes-rio-
+41 Jaskula, B. (2021, January). Lithium. U.S. tintos-licences-lithium-project-2022-01-20/
+Geological Survey. https://pubs.usgs.gov/
+periodicals/mcs2021/mcs2021-lithium.pdf 51 Islam, R. (Host). (2022, April 13). Cobalt Market
+Dynamics and the Energy Transition [Audio
+42 Xinhua. (2022, July 08). US largest lithium podcast episode]. In Tell Me How. World
+mining project faces strong resistance. Bank. https://www.worldbank.org/en/news/
+Global Times. https://www.globaltimes.cn/ podcast/2022/04/13/cobalt-market-dynamics-
+page/202207/1270091.shtml and-the-energy-transition
+43 Scheyder, E. (2021, June 03). U.S. to list Nevada 52 Bednarski, L. (2021). Lithium: The Global Race
+flower as endangered, dealing blow to lithium for Battery Dominance and the New Energy
+mine. Reuters. https://www.reuters.com/business/ Revolution. London: Hurst Publishers.
+environment/us-officials-list-nevada-flower-
+endangered-dealing-blow-ioneer-2021-06-03/ 53 Holman, J. (2021, August 23). IGO, Tianqi
+successfully produce first lithium hydroxide
+44 Tabuchi, H. (2022, January 26). Biden at Australia’s Kwinana refinery. S&P Global
+administration cancels mining leases near Commodity Insights. https://www.spglobal.
+wilderness area. The New York Times. https:// com/commodityinsights/en/market-insights/
+www.nytimes.com/2022/01/26/climate/ latest-news/energy-transition/082321-igo-tianqi-
+boundary-waters-copper-mining.html successfully-produce-first-lithium-hydroxide-at-
+australias-kwinana-refinery
+45 Davenport, C. (2022, May 25). Biden
+administration, settling a long feud, moves to 54 Department of Energy (DOE). (2022). Grid Energy
+block a mine in Alaska. The New York Times. Storage: Supply Chain Deep Dive Assessment.
+https://www.nytimes.com/2022/05/25/climate/ https://www.energy.gov/sites/default/
+pebble-mine-alaska-epa.html files/2022-02/Energy%20Storage%20Supply%20
+Chain%20Report%20-%20final.pdf
+46 Scheyder, E. (2022, June 27). U.S. court upholds
+Arizona land swap deal for Rio Tinto copper mine.
+Reuters. https://www.reuters.com/world/us/us-
+court-upholds-arizona-land-swap-deal-rio-tinto-
+copper-mine-2022-06-25/
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 33
+
+55 Weisenthal, J., & Alloway, T. (2022, April 18). 64 Reuters Staff. (2021, September 14). China
+Transcript: This Is the Challenge of Securing the backs Congo’s ban on 6 small Chinese mining
+Battery Supply Chain [Audio podcast episode]. In companies. Reuters. https://www.reuters.com/
+Odd Lots. Bloomberg. https://www.bloomberg. article/congo-mining-china-idUSL8N2QG3G2
+com/news/articles/2022-04-18/transcript-this-is-
+the-challenge-of-securing-the-battery-supply- 65 Organisation for Economic Co-operation and
+chain?srnd=oddlots Development. (2015, December 2). Chinese Due
+Diligence Guidelines for Responsible Mineral
+56 Yu, A., & Sumangil, M. (2021, February 16). Top Supply Chains. https://mneguidelines.oecd.
+electric vehicle markets dominate lithium-ion org/chinese-due-diligence-guidelines-for-
+battery capacity growth. S&P Global Market responsible-mineral-supply-chains.htm
+Intelligence. https://www.spglobal.com/
+marketintelligence/en/news-insights/blog/top- 66 China Chamber of Commerce of Metals, Minerals
+electric-vehicle-markets-dominate-lithium-ion- & Chemicals Importers & Exporters (CCCMC).
+battery-capacity-growth (2015). Chinese Due Diligence Guidelines for
+Responsible Mineral Supply Chains. https://www.
+57 Tucker, T. (2022). Everything is Climate Now: globalwitness.org/documents/18138/201512_
+New Directions for Industrial Policy from Biden’s Chinese_Due_Diligence_Guidelines_for_
+Supply Chain Reports. Roosevelt Institute. Responsible_Mineral_Supply_Chains_-_En_
+https://rooseveltinstitute.org/wp-content/ K83fxzt.pdf
+uploads/2022/05/RI_EverythingClimateNow_
+IssueBrief_202205-2.pdf 67 Idem.
+58 Mayoral, A. (2022). U.S. Challenges in EV Battery 68 Links, S., de Feijter, T., & Lammertink, J. (2021).
+Production. Coalition for a Prosperous America. Chinese Approaches to Overseas Responsible
+https://prosperousamerica.org/wp-content/ Business Insights from the DRC Cobalt Industry.
+uploads/2022/06/CPA-Batteries-Policy-Paper- Leiden Asia Centre. https://leidenasiacentre.nl/wp-
+Web-1.pdf content/uploads/2021/10/Chinese-Approaches-
+to-Overseas-Responsible-Business.pdf
+59 AFP, Reuters. (2022, March 12). EU plans millions of
+69 Global Witness. (2021). Digging for Disclosure.
+e-vehicle batteries, jobs by 2025. Deutsche Welle.
+https://www.globalwitness.org/en/campaigns/
+https://www.dw.com/en/eu-plans-millions-of-e-
+natural-resource-governance/digging-disclosure/
+vehicle-batteries-jobs-by-2025/a-56857936
+70 The Sentry. (2021). The Backchannel: State Capture
+60 Lienert, P. (2021, October 27). U.S. battery startup
+and Bribery in Congo’s Deal of the Century. https://
+Redwood Materials sets deal with Korea’s L&F.
+cdn.thesentry.org/wp-content/uploads/2021/11/
+Reuters. https://www.reuters.com/article/
+TheBackchannel-TheSentry-Nov2021.pdf
+redwood-lf-batteries-idCNL1N2RM2DQ
+71 Rights and Accountability in Development (RAID),
+61 Wayland, M. (2022, May 20). Hyundai to invest $5.5
+Centre d’Aide Juridico-Judiciaire (CAJJ). (2021).
+billion to build EVs and batteries in Georgia. CNBC.
+The Road to Ruin?: Electric Vehicles and Worker’s
+https://www.cnbc.com/2022/05/20/hyundai-to-
+Rights Abuses at DR Congo’s Industrial Cobalt
+invest-5point5-billion-to-build-evs-and-batteries-
+Mines. https://www.raid-uk.org/sites/default/
+in-georgia.html
+files/report_road_to_ruin_evs_cobalt_workers_
+nov_2021.pdf
+62 Kansas Office of the Governor. (2022, July 13).
+Kansas lands $4b, 4,000-job panasonic energy
+electric vehicle battery plant. https://governor. 72 Nyabiage, J. (2022, April 3). Chinese firm regains
+kansas.gov/kansas-lands-4b-4000-job- control of DR Congo copper mine after agreeing
+panasonic-energy-electric-vehicle-battery-plant/ to reach solution with government over royalty
+disputes. South China Morning Post. https://
+63 China Chamber of Commerce of Metals, Minerals www.scmp.com/news/china/diplomacy/
+& Chemicals Importers & Exporters (CCCMC). article/3172881/chinese-firm-regains-control-dr-
+(2015). Guidelines for Social Responsibility congo-copper-mine-after
+in Outbound Mining Investments (GSRM).
+Ministry of Commerce, People’s Republic 73 Reuters Staff. (2021, September 14). China
+of China. http://images.mofcom.gov.cn/ backs Congo’s ban on 6 small Chinese mining
+csr2/201812/20181224151850626.pdf companies. Reuters. https://www.reuters.com/
+article/congo-mining-china-idUSL8N2QG3G2
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 34
+
+74 Sterneberg, R., Coenraads, M., Hamster, J., 80 Swanson, A., & Buckley, C. (2022, June 6). Red
+Kovaleva, A., Hitchcock, T., & Exten-Wright, J. flags for forced labor found in China’s car battery
+(2022, February 24). European Commission supply chain. The New York Times. https://www.
+proposal for the Corporate Sustainability nytimes.com/2022/06/20/business/economy/
+Due Diligence Directive. DLA Piper. https:// forced-labor-china-supply-chain.html
+www.dlapiper.com/fr/france/insights/
+publications/2022/02/european-commission- 81 Links, S., de Feijter, T., & Lammertink, J. (2021).
+proposal-corporate-sustainability/ Chinese Approaches to Overseas Responsible
+Business Insights from the DRC Cobalt Industry.
+75 European Parliament. (2022, March 03). New EU Leiden Asia Centre. https://leidenasiacentre.nl/wp-
+rules for more sustainable and ethical batteries. content/uploads/2021/10/Chinese-Approaches-
+https://www.europarl.europa.eu/news/en/ to-Overseas-Responsible-Business.pdf
+headlines/economy/20220228STO24218/new-
+eu-rules-for-more-sustainable-and-ethical- 82 Fussell, N., McAllister, A., Sanchez, F., & Zales, M.
+batteries (2022, January 24). Breaking down the Uyghur
+Forced Labor Prevention Act for U.S. importers.
+76 The London Metal Exchange. (n.d.). Responsible Holland & Knight. https://www.hklaw.com/en/
+Sourcing. Retrieved July 13, 2022. https://www. insights/publications/2022/01/breaking-down-
+lme.com/Company/Responsibility/Responsible- the-uyghur-forced-labor-prevention-act-for-us-
+sourcing importers
+77 Initiative for Responsible Mining Assurance. 83 U.S. Department of the Treasury. (2018, June 15).
+(n.d.). Standard. Retrieved July 13, 2022. https:// Treasury Sanctions Fourteen Entities Affiliated with
+responsiblemining.net/ Corrupt Businessman Dan Gertler Under Global
+Magnitsky. https://home.treasury.gov/news/press-
+78 Responsible Minerals Initiative. (n.d.). Minerals Due releases/sm0417
+Diligence. Retrieved July 13, 2022. https://www.
+responsiblemineralsinitiative.org/minerals-due- 84 U.S. Department of the Treasury. (2021, December
+diligence/ 06). Treasury Targets Corruption Linked to Dan
+Gertler in the Democratic Republic of Congo.
+79 London Bullion Market Association. (n.d.). https://home.treasury.gov/news/press-releases/
+Responsible Sourcing. Retrieved July 13, 2022. jy0515
+https://www.lbma.org.uk/responsible-sourcing
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 35
+
+China’s Role in Supplying Critical Minerals for the Global Energy Transition 36

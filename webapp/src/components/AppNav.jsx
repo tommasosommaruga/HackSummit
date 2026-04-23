@@ -5,6 +5,7 @@ const NAV_ITEMS = [
   { id: 'chain',   icon: '⛓',  label: 'Supply Chain' },
   { id: 'scoring', icon: '◈',   label: 'Risk Scoring' },
   { id: 'trust',   icon: '◎',   label: 'Trust Score' },
+  { id: 'audit',   icon: '🔍',  label: 'Audit Dashboard' },
 ]
 
 export default function AppNav({ page, onNav }) {

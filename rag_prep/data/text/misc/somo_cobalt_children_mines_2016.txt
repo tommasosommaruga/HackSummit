@@ -1,0 +1,1908 @@
+No Golden Future
+Use of child labour in gold mining in Uganda
+Irene Schipper & Esther de Haan & Stephen Turyahikayo
+April 2016
+
+Colophon
+No Golden Future
+Use of child labour in gold mining in Uganda
+April 2016
+Authors: Irene Schipper & Esther de Haan Commisioned by:
+(SOMO) and Stephen Turyahikayo (CRSS)
+Layout: Frans Schupp
+Cover photo: Irene Schipper
+Photos: Irene Schipper, Stephen Stop Child Labour
+Turyahikayo, Esther de Haan
+ISBN: 978-94-6207-099-8
+Stichting Onderzoek Multinationale Centre for Research and Sustainable
+Ondernemingen Solutions (CRSS)
+Centre for Research on Multinational
+PO Box 257 – Entebbe, Uganda
+Corporations
+Center for Research and Sustainable
+Sarphatistraat 30
+Solutions (CRSS) is a not-for-profit organisa-
+1018 GL Amsterdam, The Netherlands
+tion based in Uganda. The CRSS consultant
+T: +31 (0)20 639 12 91
+team on this study has more than eight
+F: +31 (0)20 639 13 21
+years’ experience working with artisanal
+info@somo.nl – www.somo.nl
+and small-scale gold miners in Uganda. In
+The Centre for Research on Multinational addition, the team has more than five
+Corporations (SOMO) is an independent, years’ experience on conflict minerals
+not-for-profit research and network organi- initiatives in the great lakes region and has
+sation working on social, ecological and supported the implementation of Interna-
+economic issues related to sustainable tional Conference on the Great Lakes
+development. Since 1973, the organisation Region (ICGLR) regional initiative against
+investigates multinational corporations illegal exploitation of natural resources and
+and the consequences of their activities Organisation for Economic Co-operation
+for people and the environment around and Development (OECD) Due Diligence
+the world. Guidance.
+The content of this report is the sole
+responsibility of SOMO.
+
+No Golden Future
+Use of child labour in gold mining in Uganda
+SOMO
+Irene Schipper & Esther de Haan (SOMO)
+and Stephen Turyahikayo (CRSS)
+Amsterdam, April 2016
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Contents
+Summary ............................................................................................................... 5
+1 Introduction ..................................................................................................... 11
+1.1 Context ................................................................................................... 11
+1.2 Methodology ............................................................................................ 11
+2 Country background . .......................................................................................... 14
+2.1 Economy . ................................................................................................. 14
+2.2 Education . ................................................................................................ 15
+2.3 Child labour .............................................................................................. 16
+3 Artisanal and small-scale gold mining in Uganda .......................................................19
+3.1 The number of artisanal gold miners ................................................................ 19
+3.2 Production figures . ...................................................................................... 20
+3.3 Gold export .............................................................................................. 22
+4 Child labour in Uganda: Mubende gold mining . ........................................................ 25
+4.1 Gold mining in Mubende ..............................................................................25
+4.2 Field Research ........................................................................................... 26
+4.3 Occupational safety and health . ...................................................................... 37
+4.4 The local gold supply chain ........................................................................... 42
+4.5 Gold smuggling out of Uganda . ...................................................................... 43
+5 Government frameworks and other initiatives ..........................................................46
+5.1 The legal framework on mining . ...................................................................... 46
+5.2 Uganda’s legal framework for responding to child labour . ...................................... 47
+5.3 Initiatives on artisanal mining ......................................................................... 48
+5.4 Initiatives on child labour .............................................................................. 50
+6 Conclusions and recommendations ........................................................................ 52
+Recommendations .............................................................................................. 53
+Annex 1 List of Licensed Gold Dealers as of December 2015 .............................................. 55
+2
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Acronyms
+ASM Artisanal and small-scale mining
+ASMO Artisanal and small-scale mining organisation
+CAO Chief Administrative Officer
+CRSS Center for Research and Sustainable Solutions
+CSR Corporate Social Responsibility
+DGSM Directorate of Geological Survey and Mines
+ECO Ecological Christian Organisation Uganda
+GDP Gross domestic product
+GoU Government of Uganda
+ICGLR International Conference on the Great Lakes Region
+OECD Organisation for Economic Co-operation and Development
+MEMD Ministry of Energy and Mineral Development
+MoGLSD Ministry of Gender, Labour and Social Development
+NGO Non-governmental organisation
+RCM Regional Certification Mechanism
+SCL Stop Child Labour Coalition
+SMMRP Sustainable Management of Mineral Resources Project
+SOMO Centre for Research on Multinational Corporations
+UAE United Arab Emirates
+UBOS Uganda Bureau of Statistics
+UN GoE UN Group of Experts
+UNESCO United Nations Educational, Scientific and Cultural Organization
+UNICEF The United Nations Children’s Emergency Fund
+UPE Universal Primary Education
+URA Uganda Revenue Authority
+3
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Figure 1: Gold mining districts in Uganda
+South Sudan
+Uganda
+Rupa
+Moroto
+Democratic
+Republic
+of Congo
+Lake
+Albert
+Hoima
+Mubende Kampala Mayuge Bugiri Busia
+Namayingo
+Buhweju
+Busheny
+Kanunga Rukungiri
+Lake Victoria
+Kisoro Kabale
+Rwanda
+Tanzania
+Most important gold mining districts
+4
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Summary
+Child Labour in gold mining in Uganda
+Child labour is a significant social and economic problem in Uganda. The combination of an
+extremely young population, large numbers of vulnerable children and orphans, high levels of child
+poverty and a failing education system has pushed 51 per cent of all children aged between 5 and
+17 into work. Across the country, more than one in four children (26 per cent) are defined as child
+labourers.
+A large number of children work in Uganda’s gold mines. Researchers working on this report
+estimate that there are about 50,000 artisanal gold miners in Uganda – roughly 20 to 30 per cent
+of these are children. These estimates mean that 10,000 to 15,000 children are working alongside
+adults as artisanal gold miners. Part of these children still attend primary school periodically, as
+well as working in the mines. However, the research shows that very few of the children go on to
+secondary school. Researchers found that school-going children work during the school holidays
+and at the weekends, while the children that have already dropped out of school work on the mining
+sites throughout the year.
+The field study for this report took place during the school holidays. Researchers visited three mining
+sites in the Mubende District of Uganda. They observed that 70 to 80 per cent of the workers in the
+area where gold is washed (or ‘panned’) were children. In total the researchers saw around 1,000 to
+1,200 children working on the three visited sites. They interviewed 52 children aged between 7 and
+17 - 20 per cent of these interviewees was working full time and not attending school.
+Labour conditions
+The washing of the ground gold ore is typically done by children. They concentrate the ore using
+sluices or they pan the ore, standing in ponds. Children buy bags of ore themselves or they are hired
+by other miners to wash ore, but mostly they concentrate gold out of tailings – leftover materials.
+When working for themselves, they sell their gold to a buyer on the mining site. The children who
+still attend school work in the mine at the weekends and during holidays. During the holidays, they
+typically work five or six days per week, often starting work at around 7 am and finishing between
+3 pm and 6 pm in the afternoon. Among the ten interviewees who had dropped out of school, hours
+are also long – they generally work six days per week for up to 11 hours per day.
+The children earn relatively small amounts for these long hours of arduous work. The younger
+children (between 7 and 13) mention that, although they find gold every day, this could be as little
+as 0.05 grams and not often more than 0.1 grams. For this quantity they earn €1.09 to €2.31 per day
+(with the costs for the mercury already deducted).
+5
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Mercury is an important part of the process when it comes to washing gold. Researchers observed
+that children who wash the ore are concentrating the gold with mercury and come into direct
+contact with mercury on a regular basis. They rub the mercury into the sand containing the gold
+particles with their bare hands and several of the children stand in pools of water containing mercury.
+The buyers on the site burn the gold-mercury amalgam to evaporate the mercury in the presence
+of the children and without protecting themselves. Mercury is a hazardous substance and it is highly
+toxic. The children carry around small bottles of mercury and are not aware of this toxicity. They do
+mention, however, that when they have open wounds and come into contact with the mercury they
+can get sick and need to be treated at the clinic on the mining site.
+The children working at the mining site often suffer from other illnesses such as malaria and typhoid.
+The dust from the grinding of the stones and pollution from the cooking coals and the traffic is
+severe – causing coughs, respiratory diseases and headaches. When they suffer from open wounds,
+which happens easily at the rocky mining sites, they often get infections. Most of the children are
+also standing in the burning sun all day while working.
+In the mineshafts, other problems are common. Falling stones, caving in shafts and lack of oxygen
+can all cause severe or even fatal accidents. Mining shafts in the Mubende District could be up
+to 100 metres deep. Miners work without personal protection and the shafts are not properly
+supported. In March 2015, ten people were buried alive in a collapsed gold mine in Kitumbi
+sub-county. Mostly young men work in the mining shafts, it does occur however that also minors
+work there.
+Uganda gold mining
+The majority of Ugandan artisanal gold mining is unlicensed and the production is therefore not
+reflected in national statistics. The country’s industrial mines closed down in the 1970s and today
+practically all artisanal gold is mined and exported illegally, with the bulk going to the United Arab
+Emirates. On the basis of the researchers’ estimate of 50,000 artisanal gold miners, the artisanal
+production could be as high as 2.8 tonnes of gold per year.
+Uganda is also a transit country for gold mined in the Democratic Republic of Congo (DRC). Until
+2006 most of the legal gold exports from Uganda could be attributed to DRC gold. However,
+the gold export figures radically declined in 2007 when the United Nations (UN) imposed sanctions
+on Ugandan gold traders for buying gold from traders in the DRC. Export figures dropped from
+6.9 tonnes in 2006 to just 15 kilos in 2014 and 2015. Reports from the UN and the Organisation for
+Economic Co-operation and Development (OECD) concluded in 2015 that the sanctions have led
+to the situation that DRC gold is now smuggled from Uganda rather than declared.
+Regulatory framework
+The current mineral policies and legislation do not provide sufficient opportunities for the formalisation
+of artisanal gold mining. Instead artisanal mining sites have informal structures that regulate the
+6
+
+No Golden Future – Use of child labour in gold mining in Uganda
+mining, the lease of lands and settlements. Theoretically it is possible for artisanal gold miners to
+legalise their activities through location licences. In practice, however, the necessary procedures are
+beyond their reach. In 2015, for example, there were only 12 licence holders registered for artisanal
+and small-scale gold mining (ASGM) in Uganda. Currently policy-makers are reviewing the regulatory
+framework governing mining in Uganda and the formalisation of artisanal mining is one of the aims.
+Although the Mineral Policy of 2001 in Uganda intended to ban child labour in mining, this was
+never included in the country’s Mining Act or the mining regulations. However, Uganda did ratify the
+important International Labour Organization (ILO) and UN conventions pertaining to child labour and
+included these in national legislation such as the Employment Act, the National Constitution and the
+Children’s Act. Despite the laws child labour is currently on the rise across all regions in Uganda.
+The government of Uganda has different policies and action plans in place to eradicate child labour.
+Alongside government efforts, there have been projects by NGOs and donors to tackle child labour.
+There have also been projects on the improvement of conditions in artisanal mining, such as the
+Sustainable Management of Mineral Resources project of the World Bank and the Fairtrade Gold
+Project. The latter also included efforts to eliminate child labour in gold mining. However, more
+(combined) efforts are needed to tackle this issue at both national and international levels.
+Conclusions
+1. Use and magnitude of child labour in artisanal gold mining Uganda
+The children working in the artisanal gold mines of Uganda are subject to the worst form of child
+labour because it exposes children to hazardous substances and conditions. These children are
+risking their health and their future prospects – since the mining interferes with their education.
+A large number of children, about 10,000 to 15,000, work in the gold mines across Uganda
+(this number fluctuates depending on school holidays and the weather).
+There is a broadly shared awareness on the mining sites that children should not work in the
+gold mines during school term time and police chase children away now and then. However,
+children are still allowed to work on the mining sites during weekends and holidays and are risking
+their health. Besides the group of children combining work with school, there is also a consider-
+able number of children not going to school at all and working at the mining sites full time. National
+Uganda laws prohibit children to work younger than twelve, children younger than 14 are only
+allowed to do light work which does not affect the child’s education. All employment that is injurious
+for a child’s health, dangerous or hazardous is prohibited. These laws are clearly not observed.
+Although the majority of the children interviewed in the mining area of Mubende are still attending
+school and only work in weekends and holidays (16 weeks per year at least 5 days per week), they
+are still directly working with and exposed to mercury a large number of days a year. Nobody on the
+mining sites seems to be fully aware of the toxicity of mercury and no measures are taken to reduce
+the risks, neither for the children nor for the adults.
+7
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Root causes for child labour in mining
+To effectively tackle child labour in mining, actions need to offer alternatives and have impact on
+the main causes of child labour in artisanal gold mining in Uganda which is lack of decent work
+and income for adults, instable family situations, lack of awareness around child labour and the
+importance of education and the costs for and lack of sufficient schools and quality education.
+The main reason given for not attending school is the high costs involved. Although the fees are
+officially abolished money still has to be paid for lunches, school materials and uniforms, as well
+as for school development funds and examinations. All of the school-going children interviewed
+mentioned they were working to earn money for school fees, books and uniforms.
+Another reason for school absenteeism is the low quality of the education. This is partly due to
+shortage of good quality teachers and the high absence of teachers. The education officer of the
+Mubende District told that it was reported that 5 out of 8 teachers in Kitumbi Subcounty are working
+in the mines themselves. This corresponds with a World Bank report concluding that 60% of the
+Ugandan teachers are not teaching the children in school, either because they are absent (24 per
+cent), not in the class (29 per cent), or in the class but not teaching. In this situation being at school
+does not make a lot of sense for children, especially when they also can go to the mines and earn
+their own money and buy their own food and clothes. For the children interviewed this was clearly
+considered important and having a positive effect on their status and self-esteem.
+In Central Uganda, where Mubende District is located, around 60 per cent of the children face the
+challenge of poverty and difficult family situations. Eleven per cent of the children are orphans. This
+results in a high percentage of children working and missing out on school. Most children attend
+primary school – in Mubende District attendance is 80 per cent – but few will continue to secondary
+school (nationally only 16 per cent of children of secondary school age actually attend secondary
+school). Of the 80 per cent of children attending primary school in Mubende District, most children
+will not finish within seven years but will repeat years, or drop out of school for long periods. Fewer
+than 70 per cent will actually complete primary school.
+2. The supply chain from mines to point of export
+The artisanal gold miners in Mubende District, including children, sell their gold to on-site buyers.
+These gold buyers sell to other buyers in the country’s capital, Kampala. Uganda’s 2015 official gold
+export statistics show only 0.54 kg of gold originating from Mubende, which was exported to Korea.
+Researchers for this report estimate that 20 kilos of gold could be produced on the Rubali mining
+site alone per month. This production is not included in the official statistics, since it is produced
+without licences.
+The artisanal gold is smuggled out of the country without going through the designated channels.
+The destination of the gold is often said to be Dubai. UN Comtrade export statistics confirm
+significant gold export from Uganda to the United Arab Emirates; 1,937 kilos in 2014.
+8
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Recommendations
+Recommendation for downstream companies in the gold supply chain
+Companies in the gold supply chain, such as refineries, electronics companies, jewellery and
+banks, should take steps to ban mercury in (artisanal) mining.
+Move beyond the area of conflict minerals in your due diligence with regard to the gold used in
+your products; do not focus solely on gold sourced from the DRC and neighbouring countries
+but extend your policies to all countries producing (artisanal) gold.
+Companies must map – if possible, jointly – their entire gold supply chains including the artisanal
+gold supply, and share this information publicly.
+Companies have to know which countries, specific regions and suppliers they source gold from,
+carry out a risk assessment of all the countries and regions involved, and identify in which supply
+chains and at what specific points the company can use its influence to achieve a positive impact.
+The risks identified have to be mitigated through initiatives taken by companies together
+with other stakeholders. It is crucial to involve local organisations and initiatives in both risk
+assessment and remediation efforts.
+An engagement with actors within the supply chain, as well as other local actors, to work
+towards progressive improvement in the artisanal and small scale mining – including formaliza-
+tion and improving working conditions for adult workers -, is to be preferred over avoidance of
+artisanal mining.
+Work with and/or support local initiatives to get children from gold mine areas to school and to
+make sure that all children receive full-time quality education.
+Recommendations for CSO’s
+Initiatives on eliminating child labour in artisanal mining should be done in cooperation with
+other efforts on combatting child labour and improving the educational infrastructure and quality
+- either by the government and/or local or national NGOs, community based organizations and
+trade unions
+Social and communities empowerment programs are further encouraged in mining communities
+targeting all children including underprivileged children (i.e. orphans, children from poor families
+etc.) in these communities. The programs should focus on ensuring these children remain in
+school and that these children receive quality education.
+9
+
+No Golden Future – Use of child labour in gold mining in Uganda
+To the Ugandan Government
+Work with local stakeholders (local government, companies, mining cooperatives, mine owners,
+NGOs, unions, local child rights groups, etc.) to raise awareness about child labour, and set
+up programmes to prevent and remedy both this and other labour rights violations found in
+mining sites.
+Work with pan-African and/or regional African organizations (e.g. ECOWAS) to develop
+programmes that tackle child labour and improve working conditions for adult workers in gold-
+producing communities. Wherever possible, channel these efforts into the context of regular-
+ising illegal mining.
+Ensure an effective control of mines operating within the bounds of legality, and take action
+to tackle both money-laundering and the smuggling of gold to other countries.
+Take measures to abolish the use of mercury in gold mining
+Improve the education infrastructure and make sure that all children in mining areas receive
+full-time quality education without charging fees or paying other costs.
+Adopt legal provisions on small scale and artisanal mines, including attention to working
+conditions and child labour, that effectively prevent child labour in gold mines under 18 and
+provides decent working conditions for adults.
+Investigate the number and working conditions of children participating in mining and activities
+related to mining, and share these with the public, policy makers and other stakeholders. Involve
+all stakeholders in interventions on child labour in artisanal gold mining.
+10
+
+No Golden Future – Use of child labour in gold mining in Uganda
+1 Introduction
+1.1 Context
+Hivos, as coordinator of the Stop Child Labour Coalition (SCL), commissioned the Centre for
+Research on Multinational Corporations (SOMO) to conduct research on child labour in gold mining.
+The coalition partners1 are running a project called ‘Out of work and into school’, which supports the
+elimination of child labour by strengthening an area-based approach towards child labour free zones.
+Where possible, the partners seek the active participation of sustainability initiatives and companies.
+In the context of this project, the SCL Coalition wants to reach out to electronics companies and
+urge them to take action to combat child labour in their supply chains.
+This report contains the results of a field study in Uganda with a view to describing the specific
+conditions for child workers at artisanal gold mining sites. It is a follow up on the report Gold from
+children’s hands: Use of child-mined gold by the electronics sector, (November, 2015) which included
+a field study on the use of child labour in artisanal gold mines in Mali.2
+The objective of the research is two-fold: first, to determine the use and magnitude of child labour
+in the artisanal gold mining in Uganda; and second, to provide insight into the supply chain from the
+mines to the point of export. Although the main focus is on child labour, the report will also include
+other labour and social aspects to understand the interrelated (root) causes of child labour.
+1.2 Methodology
+This report documents findings of field research conducted in Uganda between 4 -10 December
+2015 and uses further information from relevant documentation and research reports
+The field research was conducted by Center for Research and Sustainable Solutions (CRSS),
+supported by researchers from SOMO. The field research took place in the Mubende District of
+Central Uganda. This is only one of several active artisanal gold mining areas in Uganda (see also
+the map in the beginning of the report). The Mubende artisanal gold mines were chosen as the main
+centre of this study as it is a relatively new and large mining area. There have been media reports
+about an influx of thousands of illegal miners here since 2013.3 The study involved key informant
+interviewees and interviews with children on mining sites in the Mubende District.
+1 The partners in the Dutch Coalition are the General Union for Education (Algemene Onderwijsbond – AOb), the Federation
+of Dutch Trade Unions (FNV Mondiaal), Hivos, ICCO-cooperation, Stichting Kinderpostzegels Nederland and the India
+Committee of the Netherlands (ICN).
+2 SOMO, ‘Gold from children’s hands’,<http://www.somo.nl/publications-en/Publication_4257?set_language=en>,
+(26 February 2016).
+3 Uganda losing millions in illegal gold mining, New Vision, 29 May 2013. <http://www.newvision.co.ug/new_vision/
+news/1321360/uganda-losing-millions-illegal-gold-mining > (26 February 2016).
+11
+
+No Golden Future – Use of child labour in gold mining in Uganda
+In total 52 children were interviewed at three mining areas, both as individuals as well as in focus
+groups. In addition at the mining sites health personnel from two clinics were interviewed, adult
+miners, on-site gold buyers, chiefs, community officers and the police. The children interviewed were
+between 7 and 17 years old. The names of the children are known by the researchers. However, in
+the report pseudonyms are used to provide them anonymity
+Key informants were identified prior to the study and included Mubende District local government
+officials and technical officials in the Directorate of Geological Survey and Mines (DGSM). The key
+informants interviewed during the study included:
+Zachary Baguma, Ag. Director, Geological Survey and Mines
+John Kennedy Okweling, Mines Inspector/ASM Focal Person
+Joseph Sebitosi, Senior Education Officer, Mubende District
+Baraza Benedict, Labour Officer, Mubende District
+District Population Officer, Mubende District
+Edward Senkusu, Community Development Officer, Bukuya Subcounty, Mubende District.
+According to Edward Senkusu, artisanal gold mining is spread across four sub-counties of Mubende.
+These include:
+Kitumbi subcounty with at least nine artisanal mining locations;
+Bukuya with two artisanal mining locations;
+Makokota with one artisanal mine location and;
+Butorogo with one artisanal mine location.4
+Based on the high number of artisanal gold mines, Kitumbi subcounty was chosen as a main location
+for the interviews with children. More specifically the Rubali artisanal mine was chosen as having the
+largest artisanal mining camp and a high concentration of artisanal mining operations. The three
+artisanal mine sites visited included Rubali, Luggingi I (also called ‘Kampala’ by the miners there)
+and Luggingi II. From 4-8 December 2015, the research team was at the Rubali artisanal mine.
+On 9-10 December 2015, the research team visited the other mining sites.
+On first arrival (i.e. 4 December 2015) at Rubali artisanal mines, the research team was faced with
+the situation that the local police had arrested some children from the mines the previous night.
+The research team could talk to the children at that time and also talked to several of these children
+at the mining site at a later stage in the research. Throughout the first day, the police were very
+active in the mines. Therefore, the research team used much of the first day at Rubali artisanal mine
+to build a relationship with the local community and more especially the children in the mines to
+ensure the purpose of the study was accepted and not compromised by the police actions. As a
+result, the children became the main contact in the community and led the research team to more
+surrounding artisanal mining sites and areas. The children welcomed the research team, took the
+lead in focus group discussions and participated freely in the study. The children were neither
+intimidated nor felt forced to participate in the study. A semi-structured questionnaire was used
+during the focus group discussions.
+4 Interview with Edward Senkusu, 4 December 2015.
+12
+
+No Golden Future – Use of child labour in gold mining in Uganda
+In general, the methodology was participatory and focused on:
+Understanding the child labour pattern in artisanal and small-scale gold mining in Uganda using
+Mubende District as a case study
+Researching the labour conditions of the children mining gold
+Mapping the local gold supply chain from the mines to the point of export.
+The report starts with a chapter that gives a short introduction on the economy, demographic
+factors, and the circumstances of children growing up in Uganda – focusing on the education
+patterns and the involvement of children in employment.
+Chapter 3 gives details about artisanal and small-scale gold mining (ASGM), as well as exports and
+import figures related to Uganda gold mining. Chapter 4 presents the outcomes of the field research
+conducted by SOMO and CRSS, describing the use and magnitude of child labour in the artisanal
+small-scale gold mining in the Mubende District, and giving an overview of the mining conditions
+at the three researched locations in Mubende: Rubali, Luggingi I and Luggingi II.
+In the last chapter (5), the legal framework on mining and on child labour is summarised. Initiatives
+that have taken place in Uganda on sustainable artisanal mining and tackling child labour are
+discussed. The report ends with conclusions and recommendations.
+13
+
+No Golden Future – Use of child labour in gold mining in Uganda
+2 Country background
+This chapter gives a short introduction to the economy, demographic factors and the circumstances
+of children growing up in Uganda, focusing on the education patterns and the involvement of
+children in employment.
+2.1 Economy
+Uganda is a land-locked country and covers 236,000 square kilometres. Uganda borders the
+Democratic Republic of Congo (DRC) to the West, Rwanda and Tanzania to the South, Kenya to the
+East and South Sudan to the North. 85 per cent of the total population lives in rural areas.
+Uganda’s Gross Domestic Product (GDP) was US$ 26.31 billion and represents 0.04 per cent of the
+world economy.5 Uganda has made significant economic progress in the last two decades. The national
+poverty rate fell to 19.7 per cent in 2012/13, from 24.5 per cent in 2009/106 and 56 per cent in 1992/93.7
+Despite the progress, almost one in every five people is still living on less than US$ 1 per day.8
+The economic growth of the country is challenged by demographic factors. In 2014, the total
+population was about 35 million people, of which 57 per cent was below the age of 18 (this is 20
+million children). Nineteen per cent of the population is aged between 0 and 4 years (6.6 million)
+and 23 per cent is aged between 5 and 12 (8 million).9 This makes Uganda’s population the second
+youngest in the world (after Niger)10 and it means that the proportion of the working-age population
+is relatively small compared to that of children. Good health and education systems are currently
+paramount to foster opportunities to developing a healthy and skilled workforce to make economic
+growth possible.11
+5 Trading Economics (2014). Uganda’s GDP 1960-2015, 22 December 2015.
+<http://www.tradingeconomics.com/uganda/gdp>.
+6 Ministry of Finance, Planning and Economic Development (2014). ‘Uganda Poverty Status Report 2014: Structural Change
+and Poverty Reduction in Uganda’, <http://www.ug.undp.org/content/uganda/en/home/library/human_development/
+TheUgandaPovertyStatusReport2014.html>.
+7 Ministry of Gender, Labour and Social Development (MoGLSD) and UNICEF, ‘Situation analysis of Children in Uganda, 2015’.
+8 Ministry of Finance, Planning and Economic Development, Population Secretariat (POPSEC), ‘The state of Uganda population
+report 2014’,< http://popsec.org/the-state-of-uganda-population-report-2014/ >.
+9 Uganda Bureau of Statistics (UBoS), Preliminary Results of the Population and Housing Census, 2014,
+<http://www.ubos.org/onlinefiles/uploads/ubos/NPHC/NPHC%202014%20PROVISIONAL%20RESULTS%20REPORT.pdf>.
+10 Uganda’s Demographic and Health Challenges Put Into Perspective With Newfound Oil Discoveries, April 26, 2012.
+<https://www.newsecuritybeat.org/2012/04/ugandas-demographic-and-health-challenges-put-into-perspective-with-
+newfound-oil-discoveries-part-one/>.
+11 POPSEC, ‘The state of Uganda population report 2014’.
+14
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Poverty
+In a report, published by the Ugandan Ministry of Gender, Labour and Social Development
+(MoGLSD) and UNICEF in 2015, the situation for children in Uganda is extensively analysed.
+The report concludes that Uganda faces widespread child poverty (that is, multiple deprivations
+when it comes to nutrition, health, water, education, shelter, sanitation and information). 4.4 million
+(22.1 per cent) of children live in income-poor households. While poverty is spread across the
+country, there are big disparities across the regions. Child poverty rates for 0–4 year olds are
+highest in West Nile and Karamoja, where 68 per cent of the youngest children experience multiple
+deprivations. In the Mubende District where the research took place (Central Uganda), 56-60 per
+cent of the children experience child poverty.12
+The findings of the MoGLSD/UNICEF report point out that 8 per cent of children are critically
+vulnerable, while 43 per cent are moderately vulnerable. As of 2014, only 60 per cent of children
+aged 0–4 years have birth registration papers and 11.3 per cent of the children are orphans.13
+2.2 Education
+Primary education
+Since the introduction of Universal Primary Education (UPE) programme in 1997, the number of
+children enrolling in primary school has tripled in Uganda. Compulsory school starts at six years of
+age and ends after seven years of primary education. The primary school enrolment has increased
+to 93.7 per cent in 2014 with no gender gap.14 However, enrolling in school is not the same as school
+attendance; 1.4 million 6–12-year-olds across the country are still not in school. In Karamoja, only half
+the primary-aged children are at school.15 Uganda has one of the highest percentages of primary
+school drop outs in the world, for both primary and secondary schools.
+The ‘survival rates’16 to Grade 5 are 63.4 per cent (67 per cent for boys and 59.9 per cent for girls),
+while the survival rate to Grade 7 is 32 per cent.17 This means that only one third of those who finish
+primary school have not experienced any delays (repeating years, often due to temporary dropping
+out of school). A percentage of 33 per cent18 is also reported by UNESCO, while the primary survival
+rate in Kenya is 84 per cent, in Tanzania 78 per cent and in Rwanda 81 per cent.19
+While the primary school enrolment rate is close to universal at 94 per cent, only 67 per cent
+of children are completing primary school.20
+12 MoGLSD and UNICEF, 2015.
+13 MoGLSD and UNICEF 2015, p. 8.
+14 MoGLSD and UNICEF, 2015, p. 52.
+15 MoGLSD and UNICEF 2015, p. 171.
+16 Survival rate being the number of children starting together in primary 1, progressing through the cycle with their peers still
+being together when finishing the primary cycle in primary 7.
+17 MoGLSD and UNICEF, 2015, p. 52.
+18 This specific percentage relates to the children who enrolled in 2006 and should have done their exams in February 2013.
+19 Christine Mbabazi Mpyangu (et all), “Out of school children study in Uganda”, March 2014, p. 4.
+15
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Although school fees were officially abolished at primary level in 1997 as part of the UPE programme,
+parents are still asked to contribute parent teacher association (PTA) fees and examination fees,
+and have to provide or buy lunch, pay for school materials, uniforms and school development funds.
+For poorer parents these costs are beyond reach. Financial constraints are the most prominent factor
+explaining the high drop-out rates.21
+Also the low quality of education provided in primary schools is playing a key role: in 2013 only one
+in five primary school teachers had achieved competency in English and Mathematics; in more than
+half of the country’s public schools, over 60 per cent of teachers were not in the classroom teaching.
+Of the latter, 24 per cent were absent from school, 29 per cent were in school but not in class, and
+6 per cent were in class but not teaching.22 Mubende’s District Education Officer said that teacher
+absenteeism is rampant across mining communities and this is attributed to their participation in
+artisanal gold mining. In Kitumbi Subcounty, at least 5 out of 8 teachers in total have been reported
+absent due to their participation in gold mining.
+Child labour is also a significant factor that leads to school dropouts. After reaching the age of 10
+and above, most children prefer making money rather than going to school. This is a country wide
+issue. In all regions of Uganda, children are engaged in activities in order to earn a living and when
+a child gets used to having money, they forget about school because they believe with or without
+school they can still have money. They see no use in struggling with school.23
+Secondary education
+Secondary school enrolment rates are much lower than primary school (93.7 per cent in primary
+vs. 24.1 per cent in secondary in 2014). School attendance is even lower, only 15.8 per cent of
+secondary school–age children are attending secondary school.24 School fees and other school-
+related expenses are even more problematic for secondary school than for primary school, as
+expenses are higher and as children get older many families consider their time would be better
+spent working than studying.25
+2.3 Child labour
+In Uganda both male and female children continue to play a traditionally important economic role
+in household livelihoods. Several statistics show that a large percentage of the children are working,
+although the presented data does not always match.
+20 MoGLSD and UNICEF, 2015, p. 52, with a reference to a report of the World Bank, 2013, p. 52 with a reference to Ministry
+of Education, Sports, Science and Technology (MoEST) Education and Sports Sector
+Fact sheet 2002–2014 (2014).
+21 Christine Mbabazi Mpyangu (et all), March 2014, p. 4.
+22 MoGLSD and UNICEF, 2015, p. 52, with a reference to a report of the World Bank, 2013.
+23 Christine Mbabazi Mpyangu (et all), March 2014, p. 15.
+24 MoGLSD and UNICEF, 2015, p. 173.
+25 Christine Mbabazi Mpyangu (et all), March 2014, p. 15.
+16
+
+No Golden Future – Use of child labour in gold mining in Uganda
+On the issue of child labour, the 2015 report by MoGLSD and UNICEF quotes two relevant studies,
+one indicating that 51 per cent of children aged 5–17 are working, of which 25 per cent are
+considered to be working in hazardous forms of work. This is an increase of 19 per cent overall and
+9 per cent for hazardous child labour from 2005 to 2010. Therefore the report concludes that child
+labour – including its most hazardous forms – is on the rise across all regions in Uganda.26,27
+The main reasons for working are to supplement family income, to pay school fees, to help in the
+household business, to replace an adult who is working away from home or who is sick, or to buy
+medication. Other factors include low quality of education, no interest in school (other skills are more
+highly valued), food insecurity and effects of war (particularly in Northern Uganda), the impact of
+HIV/AIDS and the high level of orphan-hood. Orphans are more vulnerable to child labour.28
+Being engaged in work is, however, not always seen as child labour. The Uganda National House-
+hold Survey 2009/10 used the following inclusion criteria to detect child labour: all children aged
+5-11 years who are working; all children aged 12-13 years who work for more than 14 hours in a
+week and all children aged 14-17 who work for more than 43 hours in a week. According to this
+study, 26 per cent of children in Uganda are child labourers.29 If we relate this percentage to the
+demographic figures of 2014 (see paragraph 2.1), we are talking about 3.5 million child labourers
+in absolute terms. And when we take the percentage of 51 per cent, which is the percentage of
+all children engaged in work as reported in the UNICEF report, we are talking about 6.7 million
+children.30 The ILO does see all activities of children engaged in mining as hazardous work, thus child
+labour. Artisanal gold mining is further seen as “Work which, by its nature or the circumstances in
+which it is carried out, is likely to harm the health, safety or morals of children” which is defined by
+the ILO as worst forms of child labour31.
+The report by the Uganda Bureau of Statistics (UBOS), based on household studies, shows that
+a higher percentage of children is working in rural areas compared to urban areas. For example,
+52 per cent of the children in Central Uganda (where Mubende is located) work versus 25 per
+cent of children in Kampala. Given the fact that 85 per cent of the population lives in rural areas,
+the average is more on the level of the rural areas: 51 per cent. Based on these figures, it can be
+calculated that out of the 20 million children in Uganda, 17 million live in rural areas and half of them
+(those older than five) are engaged in work (5.8 million). Statistics based on the UBOS study indicate
+that 0.3 per cent of the rural children are working in the sector called ‘other’, which includes mining
+26 MoGLSD and UNICEF, 2015, p. 55. (quoting; UBOS, 2010 and quoting: Walakira and Nyanzi, 2012: 65).
+27 The other study is indicating that almost 93 per cent of children in rural areas are believed to be engaged in commercial
+or subsistence agriculture (land tilling, sowing, weeding and harvesting) and fishing. Those children in plantation agriculture
+are suspected of working in the most hazardous conditions and risky forms of labour, as they are exposed to chemicals,
+heat, extra hours and harsh conditions (Walakira and Nyanzi, 2012: 65).
+28 Ministry of Gender, Labour and Social Development, ‘National Action plan on elimination of the worst forms of child
+labour in Uganda, 2012/13 - 2016/17’, May 2012, <http://www.unicef.org/uganda/NAP_Uganda_June_2012.pdf> and
+‘Walakira and Nyanzi’.
+29 UBOS 2010, ‘Uganda National Household Survey 2009/10’, <http://www.ubos.org/UNHS0910/unhs200910.pdf>.
+30 In 2014, 20 million of the population was below 18 years of age. The number of 0-4 years old was 6.6 million, meaning that
+13.4 million are children between 5 and 17. 51 per cent of 13.4 million is 6.7 million.
+31 ILO, Worst forms of Child Labour, <http://www.ilo.org/ipec/facts/WorstFormsofChildLabour/lang--en/index.htm>.
+17
+
+No Golden Future – Use of child labour in gold mining in Uganda
+and quarrying (and electricity and gas and water supply but this is not typical work that is done a lot
+in rural areas, so most will be mining). A figure of 0.3 per cent of 5.8 million children indicates that
+about 17,400 children are working in mining and quarrying when extrapolating the research statistics
+of 2011/2012.32 This is not exclusively related to gold mining, but does include artisanal gold mining.
+To make the picture more nuanced: most children of primary school age who are engaged in work
+combine this with going to school. After all, 67 per cent of children are completing primary school
+although often with much delay. After primary school most children stop going to school.
+32 UBOS, Understanding Children’s Work (UCW) Programme, ‘Understanding children’s work and youth employment outcomes
+in Uganda’, June 2014.
+18
+
+No Golden Future – Use of child labour in gold mining in Uganda
+3 Artisanal and small-scale gold mining
+in Uganda
+This chapter starts with a short introduction on artisanal and small-scale gold mining (ASGM), as well
+as detailing export and import figures related to Uganda gold mining.
+3.1 The number of artisanal gold miners
+Instances of gold in Uganda were first documented in Busia in 1932 and numerous small-scale
+mining activities began thereafter.33 Gold occurs in the Archaean greenstones and related sediments
+near Busia in the Southeast, in the Karagwe-Ankolean System in northern Kigezi District, in North
+Karamojaand the Moroto District in Karamoja, at the headwaters of the Mpongo River in Mubende
+Kisoga, and in Katagwe-Ankolena sediments in the Buhweju Plateau in the Southwest.
+Uganda’s mining industry thrived from 1955 to 1976. However, the political turmoil experienced in
+the 1970s led to the closure of most industrial mines and set the stage for the emergence of artisanal
+mining activities around communities that mostly depended on mining for a livelihood. Currently
+artisanal and small-scale mining (ASM) dominates the gold mining sector in Uganda; there are only
+four licences for large-scale mining issued by the Ugandan government.
+In 2008, at least 20,000 miners were said to be engaged in gold mining via artisanal mining. A UNEP
+study concludes that this level has increased by 20-40 per cent in 2009. This would mean that
+there were about 24,000 to 28,000 gold miners working in Uganda in 2009.34 A 2015 OECD study
+indicates that Ugandan gold production appears to be rising.35 The recent gold rushes also point in
+that direction. Growth of artisanal gold production is taking place in several African countries such as
+the DRC, Burkina Faso, Tanzania and Mali. Crop failures caused by droughts and wars, coupled with
+relatively high gold prices, have led to increased gold mining. Since 2013 prices have been falling
+back, but gold is still profitable for poor people to mine artisanally.36 Challenges for ASM in Uganda
+are related to lack of opportunities for formalisation, fair market access, affordable financing, organi-
+sation, appropriate technology and the issue of environmental pollution and child labour.
+Since 2013, Uganda has experienced several artisanal gold rushes mainly in the areas of Mubende,
+Mayuge, Namayingo, Bugiri and Karamoja. These gold rushes have attracted an influx of artisanal
+miners from neighbouring areas but also from neighbouring countries, as observed at Rubali artisanal
+gold mine during this study. According to the artisanal miners interviewed at Rubali, some of the
+33 Estelle Levin (2009). Scoping Study Report for Fairtrade Certified Artisanal Gold.
+34 UNEP, Uganda case study, June 2012, p. 7.
+35 OECD, Baseline study four: Gold trading and export in Kampala, Uganda, 2015, <http://www.oecd.org/daf/inv/mne/Gold-
+Baseline-Study-4.pdf>, (1 March 2016).
+36 SOMO, ‘Gold from children’s hands: use of child-mined gold by the electronics sector’, November 2015.
+<http://www.somo.nl/publications-en/Publication_4257?set_language=en>.
+19
+
+No Golden Future – Use of child labour in gold mining in Uganda
+miners are from countries such as Tanzania, Burundi and the DRC. Based on observations of gold
+mining activities at Rubali, Luggingi I and Luggingi II, the research team estimates there are up
+to 7,500 miners operating at these three locations of which Rubali is only two years old. In 2011,
+the non-governmental organisation (NGO) Ecological Christian Organisation (ECO) estimated
+the number of artisanal gold miners in Karamoja at 15,00037 including men, women and children.
+The authors of the 2011 ECO report expected the mining activities related to ASM (including gold)
+to escalate in Karamoja in the years to come. In 2014, Simon Nangiro, head of the Karamoja Miners
+Association, estimated that around 80,000 people in the region make a living panning for gold.38
+(In April 2011, he estimated the number at 20,000: 10,000 at the Rupa mining location alone and
+20,000 across Karamoja).39
+Therefore, considering that estimates in 2009 were around 28,000 artisanal gold miners and
+considering that Uganda has experienced several gold rushes since then (including Mubende District
+with up to 10,000 artisanal gold miners40 and Karamoja with 15,000 to 80,000), it is plausible to say
+that the current number can count up to 50,000 artisanal gold miners women, men and children,
+but could also be more.41 There never has been an effort to make a realistic estimate of the number
+of ASGM miners in Uganda. It has to be noted that gold mining is seasonal (mostly depending on
+the weather) and the number of miners therefore fluctuates considerably during the year. Also, gold
+miners go from one area to another.
+The given numbers of artisanal miners include women, men and children. It is a common sight to
+see children working on the mining sites. However, the number of children working in artisanal gold
+mining has not been researched yet systematically. A large-scale national household study indicated
+that 0.3 per cent of all children working in the rural regions are working in mining and quarrying (see
+section 2.3). On the basis of the authors’ calculations, this would concern theoretically approximately
+17,400 children working in mines. These are not only gold mines; in Uganda also silver, copper, iron
+ore, gemstones, limestone, cassiterite, tungsten and marble are mined artisanally.
+3.2 Production figures
+In Uganda the official statistics on gold production do not give a true impression of the actual gold
+production including artisanal mining.
+In 2006 and 2007, the country’s officially reported gold production was 0.022 (22 kg) and 0.025
+tonnes (25 kg), respectively; however, exports in the same years were reported at 6.9 (6,900 kg)
+37 ECO, 2011, ‘The mining and minerals sector in Karamoja region: Development opportunities and constraints’.
+38 Voice of America, ‘The Looming Battle for Uganda’s Gold’, 10 March 2014 <http://www.voanews.com/content/the-
+looming-battle-for-ugandas-gold/1868117.html>.
+39 Pulitzer Center, ‘After the Gold Rush: Is Mining the Future of Karamoja?’, <http://pulitzercenter.org/articles/uganda-karamoja-
+gold-mining-future>.
+40 With 7,500 at the three visited locations alone, in total there are 13 mining locations in Mubende District.
+41 Taking 28,000 in 2009 as a starting point, adding the 15,000 of Karamoja (which is the lowest estimate), and adding the
+estimated 10,000 in Mubende, which is developed after 2009, makes already 53,000 miners.
+20
+
+No Golden Future – Use of child labour in gold mining in Uganda
+and 3.57 tonnes (3,570 kg).42 While the linkages with gold smuggled from neighbouring DRC and
+exported through Uganda traders were already revealed in 2002 by the UN Group of Experts (UN
+GoE),43 still a substantial proportion of exported gold seems to be derived from in-country ASGM.
+For example, in 2008, unlicensed, informal ASGM production from over 17,000 miners was estimated
+at over 1.2 tonnes (1,200 kg).44
+Taking this number of 17,000 ASG miners as a starting point – who together can produce 1.2 tonnes
+(which is 70.5 grammes of gold per miner per year) – then 50,000 miners could theoretically produce
+3.5 tonnes of gold per year. However, the children in the field research only found 0.1 grammes per
+day on average. Their maximum will be closer to 1545 to 20 grammes per year. Therefore a more
+realistic estimation will be closer to 2.8 tonnes of gold per year.46
+During the field research in December 2015, the register of the Directorate of Geological Survey
+and Mines (DGSM) in Entebbe was visited. According to the license register, there are twelve formal
+small scale gold mines and four large scale mines in 2015 (see Table 1). These account for the official
+gold production statistics in Uganda.
+Table 1: Formal gold mining activities in Uganda
+Type Number Licence holder Entity Type District
+LL 0911 Nawata Mines Ltd. Company Mubende
+LL 0970 Charlotte Kanabahita Person Kisoro
+LL 0989 Busia United Small Scale Mining Association Association Busia
+LL 1039 George Onega Person Busia
+LL 1074 Majestic Minerals Limited Company Ibanda
+LL 1162 Nawata Mines Ltd. Company Mubende
+LL 1176 Oli Gold Muruli Limited Company Ibanda
+LL 1197 Rift Valley Minerals Limited Company Ibanda
+LL 1208 Sebabi Samuel Person Luwero
+LL 1210 Sikander Meghani Person Moroto
+LL 1223 Sikander Meghani Person Moroto
+ML 0886 Simba Mines and Mineral Resources Company Ibanda & Kamwenge
+ML 1129 Jan Mangal (U) Ltd Company Moroto
+ML 4063 AUC Mining (U) Limited Company Mubende
+ML 4128 Greenstone Resources Limited Company Busia
+ML 4603 Kisita Mining Co. Limited. Company Mubende
+Source: Directorate of Geological Survey and Mines, Entebbe, Uganda. Obtained during field research December 2015). LL stands
+for Location Lease which is only for artisanal miners and ML stands for Mining Lease which is meant for large scale mining.
+42 OECD, Baseline study four, 2015. Average annual recorded domestic gold production was 28 kg between 1994 and 2007.
+43 UN Security Council Report S/2002/1146).
+44 UNEP, Uganda case study, June 2012. This report cites from a study of Jennifer Hinton of 2009.
+45 15 Grammes would be 150 working days per year.
+46 Taking the average of 17.5 grammes for 12,500 children per year and 70 grammes for 37,500 adult miners per year.
+21
+
+No Golden Future – Use of child labour in gold mining in Uganda
+According to Mr. J. Okweling (Mines Inspector and ASM Focal Person at DGSM), the majority
+of artisanal mining activities in Uganda are unlicensed and their gold production is therefore not
+reflected in the annual mineral production statistics. In addition, there is no legal framework to
+accommodate such artisanal gold production.
+3.3 Gold export
+The official gold export statistics obtained from DGSM indicates that only 14.4 kg of gold was
+exported from Uganda in 2015 and 10 kg of this was imported from neighbouring countries i.e.
+DRC (9 kg) and South Sudan (1kg) (see Table 2). This means only 4 kg of gold exported was officially
+produced in Uganda.
+Table 2: 2015 Gold export statistics from Uganda
+Date Company Mineral Origin Destination Permit No. Quantity (KG)
+24 August 2015 Hajj fahad ibrahim lugobe Gold DR Congo Dubai 02660 9.50
+10 September 2015 Nikki rush mining group ltd Gold Karamoja Dubai 02668 1.00
+27 October 2015 Ys Gold Stones Uganda Ltd Gold Amudat Korea 02676 0.37
+5 November 2015 Kagera Mining (U) Ltd Gold Amudat Vietnam 02678 1.00
+20 November 2015 Kagera Mining (U) Ltd Gold Karamoja Dubai 02680 1.00
+20 November 2015 Ys Gold Stones Uganda Ltd Gold Mubende Korea 02683 0.54
+23 June 2015 Dahab For Trade Ltd Gold South Sudan 02657 1.00
+14.41
+Source: Directorate of Geological Survey and Mines, Entebbe, Uganda.
+The massive drop in the official gold export figures from 6.9 tonnes in 2006 to 161 kg in 2013, and
+to about 15 kg in 2014 and 2015, started in 2007 when the UN Security Council imposed sanctions
+on Ugandan gold traders (good for the majority of export) for buying gold from traders in the DRC
+tightly linked to militias. Since the 2011 change of rule by the Uganda Revenue Authority (URA),
+official gold re-exports have become rare. Due to the more stringent rules, Ugandan gold traders
+are required to produce supporting documentation to prove the origin of their gold. Prior to this
+they only had to declare the origin of the gold without proof. The 2013 increase in export taxes has
+provided a further incentive to smuggle, and is another reason why Uganda’s official exports have
+dropped so sharply. The tax rate for re-exported gold increased from 0.5 per cent to 1 per cent and
+the rate for domestic produced gold increased from 3 per cent to 5 per cent.47
+UN Comtrade statistics
+Although there is hardly any official gold production in Uganda, it is remarkable that the United
+Arab Emirates (UAE) does report gold imports from Uganda on the UN Comtrade database. In 2014,
+47 OECD, Baseline study four, 2015.
+22
+
+No Golden Future – Use of child labour in gold mining in Uganda
+the UAE reported 949 kg of gold imports from Uganda. In 2011, UAE imported 2,652 kg, in 2010
+3,366 kg and in 2009 1,633 kg.48
+Even more remarkably, Uganda reports to the UN Comtrade Database about gold exports to UAE
+and every year one other country.49 The amounts to these other countries (South Africa, Switzerland,
+Denmark and Saudi Arabia) are very small, varying from one kg to five kg. Uganda reported almost
+2 tonnes of gold export to UAE for 2014. The amounts reported by Uganda do not overlap with the
+amount reported by UAE.
+Table 3: Gold imports from Uganda, reported by United Arab Emirates to UN Comtrade
+Year Reporting country Commodity code Import from Net weight (kg)
+2014 United Arab Emirates 7108(13) Uganda 949
+2011 United Arab Emirates 7108(13) Uganda 2,652
+2010 United Arab Emirates 7108(13) Uganda 3,366
+2009 United Arab Emirates 7108(12) Uganda 1,633
+Source: UN Comtrade Database.
+Table 4: Gold exports from Uganda, reported by Uganda to UN Comtrade
+Year Reporting country Commodity code Export to Net weight (kg)
+2014 Uganda 7108(13) United Arab Emirates 1,937
+2014 Uganda 7108(12) South Africa 2
+2013 Uganda 7108(13) United Arab Emirates 84
+2012 Uganda 7108(13) United Arab Emirates 324
+2012 Uganda 7108(12) Switzerland 5
+2011 Uganda 7108(13) United Arab Emirates 219
+Source: UN Comtrade Database.
+7108 Gold, including unwrought, semi-manufactured, and powder form
+7108(11) Gold, powder form (non-monetary)
+7108(12) Gold, semi-manufactured form (non-monetary)
+7108(13) Gold, unwrought, (non-monetary)
+48 UN Comtrade Database, <http://comtrade.un.org/data/>, code 7108 contains the following products: gold, unwrought or in
+semi-manufactured forms, or in powder form. Figures of 2013 and 2012 are not available in the database, which means that
+UAE did not report gold imports from Uganda in these years. This does not automatically mean that UAE did not import gold
+from Uganda.
+49 The UN Comtrade database does not show which authority from Uganda is responsible for this reporting.
+23
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Conclusion
+Artisanal mined gold does not show up in the production statistics.. Based on calculations by the
+authors of the report, the ASGM production could be as high as 2.8 tonnes of gold per year, taking
+50,000 artisanal gold miners (of which 12,50050 children with a lower production) as a starting point.
+This amount is higher than the official national statistics and the amounts reported by both Uganda
+and the UAE to UN Comtrade.
+The UN Comtrade export statistics do show a significantly larger amount of gold being exported
+than the official national statistics report. The UN Comtrade statistics might include part of the illegal
+produced artisanal mined gold. The officially national reported export of gold from Uganda has
+significantly dropped to just 15 kilos per year since the more stringent controls on Ugandan gold
+trading were introduced through UN sanctions on exporting DRC gold in 2007 and the increase of
+taxes on gold since 2013.
+The trade statistics reported through UN Comtrade do not match; for 2014, the gold exports to
+the UAE as reported by Uganda is substantially higher than the imports reported by the UAE.
+50 Taking the average of 10,000 to 15,000 children working in the gold mines.
+24
+
+No Golden Future – Use of child labour in gold mining in Uganda
+4 Child labour in Uganda: Mubende gold
+mining
+4.1 Gold mining in Mubende
+At the start of 2013 a ‘gold rush’ occurred in Mubende, one of Uganda’s mineral rich areas, where
+locals have mined gold for decades. The gold rush attracted people from all over the country and
+from neighbouring countries such as Rwanda and the DRC.
+Now artisanal gold mining is spread across four of the sub counties of Mubende. One of the sub
+counties is Kitumbi, which has at least nine artisanal mining locations. Three of these locations were
+visited by the research team; Rubali, Luggingi I (also called ‘Kampala’) and Luggingi II.
+The Rubali artisanal mine was the largest location with huge mining camps and a high concentration
+of artisanal mining operations. Hard rock ore is found on the mountain and is collected in mining
+pits, which are on average 30 meter deep. The mountain hosted around 200 mining pits. The mining
+pits had narrow shafts without any safety measures to prevent workers from falling in. Most of the
+pits were in use and the miners worked in groups of 10 to 20 people to get the hard rock ore out of
+the ground.
+At Rubali the production processes of the gold mining looked organised in the way that the different
+stages of the gold extraction process were concentrated in one area as far as possible:
+the mining shafts were on the mountain;
+at the slope of the mountain the drying and the pounding took place;
+lower down there was the grinding;
+and then the sluicing and panning took place.
+The mining camp was separate from the production areas, which seems logical but that was not the
+case at the Luggingi locations where tents and ponds and mining shafts and grinding mills were all
+together on the same spot. At Rubali also surface mining took place, on different spots the soil was
+excavated.
+The mining location ‘Kampala’ was a popular camp in the sense that miners from surrounding camps
+prefer to spend their evening here, escalating the night population to double the day population.
+There were entertainment halls connected to digital television, lodges, restaurants, bars, a clinic, shops,
+areas of worship, including a mosque, and many deep mining pits (around 50, not all in use). As the
+camp Kampala is older than Rubali, the mining pits are much deeper: several of the pits were 100
+meter deep. One pit was just closed because it was too deep and becoming too dangerous to enter.
+Luggingi II was the smallest location with 13 pits of which only three were in operation. This location
+was the least organised in the sense that living and working was not separated, which creates
+dangerous and unhealthy situations.
+25
+
+No Golden Future – Use of child labour in gold mining in Uganda
+4.2 Field Research
+The field research conducted by SOMO and CRSS aimed to determine the use and magnitude of child
+labour in the artisanal small-scale gold mining in Uganda, with the Mubende District as a case study.
+Worldwide the use of children in artisanal gold mining is widespread; for the report ‘Gold from
+children’s hands’ focusing on Mali, SOMO drafted a list of 26 countries in Africa, Asia and South
+America where this worst form of child labour takes place. It is estimated that at least million children
+worldwide work in artisanal gold mining.51
+The researchers interviewed a total of 52 children on three artisanal mining sites and 13 adults (gold
+buyers, health providers, miners, chiefs and police). Government officials at the Mubende District
+Local Government and formal and informal leaders at the mining sites were also interviewed.
+The ages of the children interviewed working at the visited mining areas varied between 7 and 17:52
+Tabel 5: The ages of the children interviewed
+Age groups Number of children
+7-10 years old 12
+11-13 years old 24
+14-17 years old 16
+Total 52 children
+Most children interviewed by the researchers are working at the mine during the school holidays
+and at the weekends. At the time of the research, the holidays had just begun; starting in the
+second week of December until the third week of February. Due to the elections in the third week
+of February, this holiday was several weeks longer than in other years. Because of the holidays, the
+amount of children on the mining site was quite large. In the mining area where the processing of
+ore takes place, the typical job for children on this site, the majority of the miners were underage.
+It was estimated by the researchers that 70 per cent to 80 per cent of this work was done by child
+miners. In total the researchers saw around 1000 to 1200 children working on the three visited
+mining sites located in the Mubende District.
+The estimation of the researchers is that there are about 50,000 artisanal gold miners in Uganda.
+Based on the UBOS report (2014)53, the researchers have calculated that 17,400 children are working
+51 SOMO, ‘Gold from children’s hands. Use of child-mined gold by the electronics sector’, 2015,
+<http://www.somo.nl/publications-en/Publication_4257?set_language=en>.
+52 Although the children gave their age to the researchers it was clear that some of the children were pretending to be older
+than their biological age. As there is some supervision on the mining sites, by chiefs and police, especially regarding younger
+children who should be in schools, this is to be expected. Therefore the children are divided into age ranges.
+53 UBOS,2014, ‘Understanding children’s work and youth employment outcomes in Uganda’.
+26
+
+No Golden Future – Use of child labour in gold mining in Uganda
+in mining and quarrying. This is not exclusively gold mining, it also includes silver mining, copper,
+iron, gemstones and lime stones but the majority will be gold mining. It is realistic to assume 10,000
+to 15,000 are children working in gold mines (20 to 30 percent of all artisanal miners54).
+Mining methods
+At Rubali the hard rock mining takes place on the hill side and alluvial mining is concentrated in
+the swamp area at the valley bottom. Open pit mining is used to extract hard rock to the surface.
+The average gold operation starts with renting a small piece of land (from the landowners) – some
+plots as small as five square metres – and mobilising workers to dig a pit, create a tunnel and start
+looking for gold. Some of the pit owners sell the bags of ore and some decide to hire miners to
+extract the gold from the ore for them.
+A chain of production can look like this:
+Miners dig up the gold ore from the underground mining pits
+Middle men buy the rock ore from the mine and send it to the area where the bigger rocks are
+hammered with a ‘morter’ into smaller pieces and the ore is being dried on carpets in the sun.
+Then the dried gold ore is sent to the crusher to grind it into ore dust with a milling machine.
+The owner of the bag of ore passes the ore dust on to a group of children to do the ‘washing’
+(also called panning). The children have to buy mercury from the vendors to do the washing.
+The washing is done by using the sluices with carpets. The gold particles will stay behind in
+the carpets.
+The carpets are being washed out and the concentrated gold ore is ready for further
+concentration by panning
+After the ore dust is further concentrated after the panning it will be mixed with mercury to bind
+the gold. The mercury will stick to the gold particles forming a solid mercury-gold amalgan
+The mercury-gold amalgan is handed to the person who hired the children for the washing and
+he will take it to the on-site buyer.
+The on-site buyer will ‘burn’ the amalgam using a spoon and a burner to let the mercury
+evaporate into the air..
+Then the pure gold is sold to middle men who take it to the gold markets in Kampala.
+54 There are no estimations of percentages of child labour in ASGM in Uganda. The percentage is based upon observations on
+site and is consistent or lower than percentages from other countries in Africa such as in Mali the estimations made by HRW
+and ILO are 20 percent (Human Rights Watch 2011, A poisonous Mix. Child Labour, Mercury, and Artisanal Gold Mining in
+Mali) in Burkina Faso the estimation is between 30-50 percent children (Berne Declaration 2015, A Golden racket: the true
+source of Switzerland’s “Togolese” gold, September 2015, in DRC the estimation is 40% children in artisanal mining (World
+Vision, 2013, Child miners speak: Key findings on children and artisanal mining in Kambove DRC, March 2013).
+27
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Miners dig up the gold ore from
+the underground mining pits
+Bags with rock gold ore from the mining pits are for sale
+28
+
+No Golden Future – Use of child labour in gold mining in Uganda
+The bigger rocks of gold ore are pounded with a morter into smaller pieces
+The gold ore is dried in the sun
+29
+
+No Golden Future – Use of child labour in gold mining in Uganda
+In a mill the gold ore is being grinded into gold ore dust
+Sluicing the gold dust
+30
+
+No Golden Future – Use of child labour in gold mining in Uganda
+The concentrated ore dust is mixed with mercury to bind the gold
+The mercury-gold amalgam
+31
+
+No Golden Future – Use of child labour in gold mining in Uganda
+The on-site gold buyer burns the mercury-gold amalgam to evaporate the mercury
+When there is not enough water available on the site to use the sluices, or when miners cannot
+afford to use sluices, the washing of the ore dust takes place in ponds using the method of panning.
+During the field research there were no children identified who actually worked underground in the
+mining shafts. In all three mining sites that were visited in general children did not work in the mining
+shafts. One of the boys interviewed (see the life story of John) said that there are some children who
+work underground but it was not possible for him to locate them when they are working. Some of
+the children also expressed fear of dying as a reason not to be working in the mines as they know of
+miners who died there.
+Most children work on processing the ore:
+They work at the sluice boxes to concentrate the ore dust;
+They work for miners and others who have bought bags of gold ore;
+They will look for waste from the ore extraction, the tailings55 that are left behind by others
+or collect soil from where the ore has dried and pan these using mercury;
+They wash sacks used for sluicing;
+They dry the ore
+They buy bags of ore for about 50,000 Uganda shillings (€12.87) onwards, which is 10 basins
+of ore. The prices depend on the expected amount of gold per bag based on a test.
+55 Tailings, also called mine dumps, are the materials left over after the process of separating the valuable part from the
+uneconomic part of the gold ore.
+32
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Andrew, 14, Rubali gold mine
+“My name is Andrew and I am 14 years old. I started working
+in the mine in 2015 and came here alone. I work in the mine all
+the time except when I am sick or have gone back home to visit
+my parents. I work daily from 7am to 6pm. I work in the mine
+because there is no work I can do in my village and yet I need to
+get money to survive. I dropped out of school in primary four. My
+father never attended school and only my mother went to school
+for a brief period. In the mine, I work with tailings. I buy one gram
+of mercury at 1,000 Uganda Shillings. I like the work I do in the
+mine but I can leave if I get better work. I have not had problems
+working in the mine except for the occasional stone cuts, injuries and knocks to fingers
+and hands.
+The police mainly find us working to earn a living and arrest us. When we see them we hide.
+The children are working here in big numbers and come from different places. In the area
+where I am working, there are at least 50 children. When [the] police arrest us, sometimes
+they forgive us and other times we manage to escape and resume our work. There are no
+disabilities on my body that prevent me from working in the mine. The money I get for the
+gold is little and would want to earn much more. I will leave the mine when I have achieved
+my set target to buy a plot of land. In future, I want to become a businessman.”
+Except for three children that were selling sugarcane all other interviewed children were mining.
+Most of the children interviewed were active in gold panning. Except the child who was drying
+the ore and those who were selling sugarcane, all of the children work with mercury, one child
+interviewed was even selling mercury to other children.. Several interviewed children were standing
+in the pools from which they use the water for panning gold, using mercury. The children are paid
+either on the basis of piece rate or they work for themselves and will sell the gold directly to buyers
+on site.
+Hours of work
+Most of the children interviewed work 5 or 6 days per week, often starting around 7 am until
+between 3 and 6 pm in the afternoon. About 10 school-dropouts were interviewed, who work in
+general six long days per week; starting at 7 am until about 6 pm.
+Other children who work in the holidays and weekends work at least five days a week, sometimes 6,
+during the holidays. Generally starting around 7 am, they work until between 3pm and 6 pm. Several
+children mention they go to church on Sundays, while some children mention they have to do other
+work on Saturdays, such as helping on the fields.
+33
+
+No Golden Future – Use of child labour in gold mining in Uganda
+The school going children work outside school holidays mostly 1 day per week. Two girls interviewed
+(nine and 10 years old) mention for example that they will work in the holidays from Monday till
+Saturday from 7 am to 4 pm and during school terms they will work every Saturday.
+Although the majority of the children say they only work in the holidays and at the weekends, the
+total amounts of days working on the mining site over the year can be quite a lot. After all, the
+vacation periods over de whole year last about 16 weeks. Their working days are quite long. Several
+of the child miners mention they do take long breaks in between.
+Education
+Uganda’s education system has three distinct levels i.e. primary, secondary and tertiary institutions.
+All the children interviewed were in primary level and only one attended secondary school.
+The District Education Officer confirmed that child labour is a big problem around Mubende. He
+specifically attributes the poor school attendance in the communities to children participation in gold
+mining activities. In addition, teacher absenteeism is rampant across mining communities and this
+also attributed to their participation in artisanal gold mining. In Kitumbi subcounty, at least five out of
+eight teachers in total have been reported absent due to gold mining. The District Education Officer
+said he was worried about the future of the children currently taking part in artisanal gold mining.
+The Labour Officer indicates poverty as the main driver for children participating in gold mining.
+In some households children are (at times) the main providers. Parents who are farmers keep working
+on their land while their children go into gold mining. The farmers expect to get money after the
+harvest and the money children earn from gold mining will fill the gaps before harvesting. Although
+education is free, children are still expected to pay fees, buy their own books, uniforms and other
+school materials. Some parents are not able to provide these and children will work at the mining
+site to be able to pay.
+Statistics indicate that at least four out of every five children of primary school age (6–12 years) are
+attending primary school at national level (81 per cent). In Central Uganda where the Mubende
+District is located this percentage is almost the same (80 per cent, 2012 figure.)56 In total, 1.4 million
+children aged 6–12 years are not in school nationally.57
+The 2015/16 Mubende District quarterly performance report for Quarter 158 indicates that it was
+expected that 90,000 children would enroll in the 211 public schools in the district. However, 92,787
+pupils actually enrolled. And of the expected 2,091 teachers, only 1,874 teachers were actually on
+the pay list. This means that there were 2,787 more pupils than expected and 217 fewer teachers
+than anticipated. This fits in the picture drawn by earlier reports that there are not enough teachers
+resulting in classes that are too big. For the Mubende District it means 50 pupils per teacher.
+56 MoGLSD and UNICEF, Situation analysis of Children in Uganda 2015, p. 173.
+57 MoGLSD and UNICEF, Situation analysis of Children in Uganda 2015.
+58 Provided by the Statistics Office of the Local Government of Mubende District.
+34
+
+No Golden Future – Use of child labour in gold mining in Uganda
+James, 14, working at the Rubali gold mine
+“My name is James and I am 14 years old. I started working in the
+mine in 2011. I came to the mine with my father. My parents have
+11 children and they all attend school. I work in the mine daily
+during the school holidays. I work from 7am to 6pm and only rest
+three hours every day. The reason I work in the mine is to get
+money to help me start a sugar cane vending business. I use part
+of the money from mining to pay my school fees since my parents
+do not earn much and have to pay for my siblings in secondary
+school. During the school term, I only work in the mine on
+Saturdays and Sundays. On the mining site, I work with tailings.
+I fall sick with malaria at least once a year and flu every two weeks. I find gold every day and
+sell it to the buyers that are everywhere in the mine. I feel the buyers should increase on the
+price of gold because we put in a lot of effort to get the gold. On average, I get 0.1g to 0.6g
+of gold per day and the buyers currently offer 90,000 Uganda shillings per gramme of gold.
+My mother keeps for me the money I get from the gold. In the future, I would like to become
+a mechanic (motor vehicle engineer).”
+Furthermore, the performance report of the first quarter of 2015/16 shows that more pupils
+dropped out (left primary school without finishing) than anticipated: 64 instead of 50. Over the
+school year 2014/15, 544 pupils dropped out instead of the expected 200. This is 287 per cent
+more than expected.
+Related to the enrollment of secondary school students the situation is even more out of hand:
+instead of the expected 15,000 students more than 19,000 did enroll and there were 40 fewer
+teachers than expected (resulting in 53 students per teacher).
+Of the 52 children interviewed the majority were still attending school. Of those who had stopped
+their education, most did not finish primary school. Several children never attended school or had
+only a few years education. One group of eight young workers between 12 and 17 mentioned in
+the interview they do not attend school because their parents were not able to pay the fees.
+For example, Michael, one of the interviewed children, is 14 years old and has eight siblings.
+He is the 3rd born. In his family only one child goes to school. Ronald is 14 years old. He stopped
+education in the first class of the secondary school as his parents could not pay the fees. He is
+working at the mines to earn money to start his own sugarcane business.
+35
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Reasons for working in gold mining
+Most of the children are brought by their parents to the mines. Others come with other family, often
+siblings. Quite a substantial amount of children come alone to the mines. They live nearby or they live
+at the mine itself, either with their parents or alone. Some even come without their parents knowing.
+A 12-year-old boy tells the researchers for examples that his parents are farmers and allow him to
+come to the mines. He stays in the mining area Rubali with his grandmother. Several girls interviewed
+near Luggingi I mine mentioned they have grown up at the site and think of it as their home.
+One girl (13 years old) mentioned she lives with her father in the country’s capital Kampala during
+school days and goes to school and will work in the holidays with her mother in the mines.
+According to the children, their main reason for working in the mines is to earn money. Their parents
+cannot provide for them as they do not have enough money. Several children mentioned they come
+from large families. They earn money to contribute to the family income and to be able to buy
+clothes and food.
+The children who work during the holidays and weekends work in the mine to raise money to pay
+school fees, books, clothes and food. All of these children who are still going to school mention
+they partly work to pay the school fees. Several children who were asked about the school fees
+mentioned they have to pay between 18,000 and 25,000 Uganda Shilling (€ 4,93 and € 6,85)59 per
+term, thus three times per year.
+Most children mention that they love working in gold mining because they get money. “It doesn’t
+break me,” mentioned one 14-year-old boy. “I love the work I do because it helps to release some of
+the financial pressure on my parents.”
+During the study, only one under-age child who requested to remain anonymous expressed
+unhappiness about working in mines. He is not attending school and said he has no other choice
+except to work in the mine to earn a living. When asked what he wants to become later when he is a
+grownup he answered: “how can I become something when I am not going to school”.
+A 10-year-old girl mentions in the interviews: “I come to the mine field with my parents. The
+residential home is in Mubende. The money I earn I split in two: some of it used for school materials
+and the rest is used for family needs.” Two brothers of about seven and nine years old work in the
+holidays and during the rest of the year on Saturdays. On Sundays they go to church. They work in
+the mornings until 1 pm. They give their earnings to their mother, to buy them clothes and other
+items. They wash the ore with mercury, which they buy for 1,000 Uganda Shillings (€ 0.27), which
+lasts them two days. One 12-year-old boy said: “I work to buy school materials, and to help out my
+mother. Sometimes I buy my own clothes so my mother can save some money.”
+59 Currency converter <www.oanda.com> at 8 december 2015 (for all exchange rates in this chapter).
+36
+
+No Golden Future – Use of child labour in gold mining in Uganda
+John, 12, Rubali gold mine
+“My name is John and I am 12 years old. I started working in the
+mine in 2013 and came here alone. I work in the mine all the time
+except on Sundays and when I am sick. I like the work I do in the
+mine because it gives me the money I need to survive. I dropped
+out of to school in primary four. My father dropped out of school
+in primary three while my mother dropped out in senior one.
+I work from 7am to 4pm. In the mine, I work with tailings. I collect
+tailings that I concentrate using a sluice box that is lined with sisal
+carpets to trap the gold particles. The sisal carpets are washed
+in a basin to extract the concentrate. Mercury is added to the
+concentrate to separate the gold from other particles. The amalgam is squeezed in a hand-
+kerchief to extract the mercury. The amalgam is then burned leaving behind the gold. On a
+daily basis I carry and process 20-30 basins of tailings. The only problems I face are the stone
+cuts and injuries to my fingers and hands while working in the mine. The other challenge is
+the policemen who find us working to earn a living and arrest us. However, when we see them
+we hide. There are some children that work underground but I cannot find them now. I have
+no disabilities on my body and the only time I do not work is when I fall sick of malaria. When
+I fall sick of malaria and I have money, I buy drugs. In the future, I would like to become a
+livestock farmer.”
+Earnings
+In general the children find gold every day. The amounts they find differ. The older children (14 to
+17 years of age) will find on average between 0.1-0.5 g of gold per day. Which they can sell for
+about 9,500-47,500 Uganda Shilling (between € 2.44 and € 12.32). To achieve the higher amounts
+they need to buy their own backs of gold ore costing at least 50,000 Uganda Shilling (€12.87)
+Besides these costs they need to buy the mercury. This means that when they find more gold per
+day, their costs are also higher.
+The smaller children, below 13 years old will find on average 0.1 g, the smallest children sometimes
+not even 0.1 g per day (selling price 9,500 Uganda Shilling/€2.44), but on average only 0.05 g (4,700
+Uganda Shilling/ €1.22). They are often gathering tailings to pan which will not cost them money.
+The costs for the mercury however needs to be deducted from this amount (costs for mercury are
+about 500 Uganda Shilling per day,/€0.13) This means that they earn about €1.09 to €2.31 per day.
+The children feel this is not very much for the amount of work involved. They sell their gold to a
+buyer on site who will burn the gold, weigh it and pay them.
+Boys who were interviewed at the mining site Luggingi I (Kampala) said they work for others and will
+pan ore, which is paid per basin (2,000 Uganda Shilling or € 0.51). They do find gold every day but
+are not sure how much as they give it immediately to the person they work for. Also girls at Luggingi
+37
+
+No Golden Future – Use of child labour in gold mining in Uganda
+II mention they will get 2,000 Uganda Shilling per basin (€ 0.51), and 15,000 Ugandan Shillings
+(€3,86) for a whole sack. The earnings per day vary, they will earn between 2,000 and 20,000 Uganda
+Shillings (€ 0.51 and € 5.14). There is not always enough work for all the children on the mining site.
+When it rains heavily they cannot work.
+4.3 Occupational safety and health
+The mine shafts at Rubali are approximately 30 meter deep. Artisanal miners are working in and
+around these shafts without personal protection equipment. Medical records from a community clinic
+indicate head injuries and cuts are the common accidents that occur in the mine.
+The district labour officer has indicated the accident rate is high in artisanal gold mines with at least
+12 people having died while working in underground mine shafts in 2014. Although the death of
+people in the mines is not often documented, the labour office further indicated that at least one
+person has died every two weeks from an accident related to gold mining in the last three months
+prior to this study. In addition, at least four children have lost their lives from gold mining activities.
+According to the district labour office, whenever a death occurs, information on the victim is kept
+secret to avoid repercussions and to manage fear among the other miners. For example, when
+a miner dies underground, the phrase “a basin has collapsed” is used to keep the other miners
+uninformed about the death. However, no official reports were shared with the researchers to
+support the high death rate from gold mining activities.
+A newspaper article confirms the occurrence of fatal accidents: in March 2015, 10 people were
+buried alive by a collapsed gold mine at Kitumbi sub-county, in central Uganda’s Mubende District.
+The incident occurred when the victims were mining at close to 18 meter down. In the recent past,
+such incidents have also happened at Lujinji and Kamalenge gold mining sites in Mubende with
+a number of miners losing their lives.60 Also interviews with the staff of clinics at the mining sites
+confirm this. From the mining itself there are most often head wounds that have to be treated,
+sometimes in the hospital. Staff from one of the clinics mention there is about one severe accident
+per week at the mining site, most often caused by falling rocks in the mineshafts that cause severe
+head wounds. It also happens that the shafts cave in and people are buried. Some of the miners
+are using ventilators but, if they are too poor for that, it does happen that people suffocate in the
+mineshafts due to lack of oxygen. Children mention they get malaria several times a year. Other
+health problems reported by the children are headaches, cough and fevers. Children mention the
+dust as a large problem. This is dust from the grinding of the stones but also polluted air through the
+cooking on coals, and from the traffic. Staff of clinics at the mining site of Rubali see children coming
+to the clinic to be treated for severe malaria, typhoid, coughs from powder and dust from the
+machines, open wounds (people get accidents, cuts from rocks). They give antibiotics, fluids, stitch
+open wounds
+60 10 buried alive in Uganda gold mine tragedy, Africa Review, 10 March 2015.
+38
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Stephen, 12, Rubali gold mine
+“My name is Stephen and I am 12 years old. I started working
+in the mine in November 2015 and I like the work I do. I work
+in the mine during school holidays. I work throughout the week
+except on Sundays. I work from 7am to 11am and rest up to
+1pm. I resume work at 1pm and finish at either 5pm or 7pm. I am
+working in the mine to get money to eat at school. My mother is
+paying my school fees. During the school term, I don’t come to
+the mine because the school is far and I can’t go there and come
+to the mine as well. In the mine, I work with tailings. I have got
+injuries while washing ore resulting from cuts by sharp objects
+in the ore such as bottles, stones etc. I have not had any disabilities that stopped me from
+working in the mine. I only do not work when I am sick, mostly with malaria which happens
+many times in a year. I get gold every day and sell it to the buyers who are many in the mine.
+The price of the gold is set by the buyers and the prices changes every time the buyers are
+offered a low price in Kampala where they take the gold we sell to them. On average, I get
+0.1 g to 0.7 g gold per day and the buyers currently offer 90,000 Uganda Shillings per gram
+of gold. I wish the buyers could increase on the price they buy our gold. My mother keeps for
+me the money I get from selling my gold. I will leave the mine when the school term starts. In
+the future, I would like to become a teacher.”
+With only a few exceptions, all the interviewed children work directly with mercury. Many children
+carry around small bottles with mercury to be used for panning. A group of girls, who were inter-
+viewed standing in a pool of water while panning for gold with mercury, said that the biggest health
+problem is to have open wounds when you are working with mercury. Then you could get sick and
+would require treatment in a clinic, where your wound would have to be washed. They think that
+working with mercury is safe otherwise. One of the interviewed boys (12 years old) reported he once
+had an open wound that got very painful in contact with mercury. He got treated at the hospital for it.
+The personnel from the clinics who were interviewed mentioned that they do treat open wounds and
+do warn people about the dangers of mercury. People will not listen, however, as they come to the
+mines to earn money.
+Mercury
+Mercury is highly toxic for miners, communities and for the environment. It is the chemical of choice
+in artisanal and small-scale gold mining (ASGM) to extract the gold from rocks and sand through
+what is called mercury amalgamation where it binds with the gold particles. Mercury is used by
+39
+
+No Golden Future – Use of child labour in gold mining in Uganda
+miners as they can use it by themselves, they have easy access to it, can carry it, it binds with gold, it
+is relatively inexpensive.61
+In ASGM, open burning is used where miners apply heat to the amalgam through which the mercury
+is released into the atmosphere.62 ASGM is a major source of mercury release in the environment.
+According to the UN Industrial Development Organization (UNIDO), almost all of the mercury used
+in ASGM is released into the environment63 and they estimate the use of mercury in ASGM at more
+than 1,500 tonnes per year.64
+Mercury can be transported through the atmosphere and thus contaminate people and the
+environment as well as polluting the water. Dangers associated with mercury include nervous systems
+disorders, kidney damage, damage to foetuses and to small children. Mercury can have toxic effects
+on the digestive and immune systems, and can also damage lungs, skin and eyes.
+Minamata Convention
+The Minamata Convention on Mercury is a global treaty to protect human health and the
+environment from the adverse effects of mercury, part of which is the international regulation
+of the informal sector for artisanal and small-scale mining.65 “Each Party that has artisanal and
+small-scale gold mining and processing subject to this Article within its territory shall take steps
+to reduce, and where feasible eliminate, the use of mercury and mercury compounds in, and
+the emissions and releases to the environment of mercury from, such mining and processing.”66
+Uganda is one of the countries that has signed on to the Minamata Convention.
+The UN Environment Programme (UNEP) Global Mercury Partnership assists in the imple-
+mentation of the Minamata convention. They have currently 147 partners of which 27 are
+governments. Uganda is not one of its current partners.67
+61 Artisanal Gold Council (2015), Developing Baseline Estimates of Mercury Use in Artisanal and Small-Scale Gold Mining
+Communities: A Practical Guide Version 1.0, <http://www.unep.org/chemicalsandwaste/Portals/9/Mercury/Documents/
+ASGM/AGC%20Inventory%20Guide_v1_Oct2015.pdf> (29 February 2016).
+62 UNEP (2015), Developing a National Action Plan to Reduce, and Where Feasible, Eliminate Mercury use in Artisanal and
+Small Scale Gold Mining, Guidance document, UNEP, August 2015.
+63 <www.unido.org/en/what-we-do/environment/resource-efficient-and-low-carbon-industrial-production/watermanagement/
+mercury.html> 29 February 2016).
+64 UNEP (2015), Developing a National Action Plan to Reduce, and Where Feasible, Eliminate Mercury use in Artisanal and
+Small Scale Gold Mining, Guidance document, UNEP, August 2015.
+65 <http://www.mercuryconvention.org/Convention/tabid/3426/Default.aspx> (29 February 2016).
+66 UNEP (2013), Minamata Convention on Mercury, UNEP, October 2013, <http://www.mercuryconvention.org/Portals/11/
+documents/Booklets/Minamata%20Convention%20on%20Mercury_booklet_English.pdf> (29 February 2016).
+67 <http://www.unep.org/chemicalsandwaste/Mercury/GlobalMercuryPartnership/Partners/tabid/3437/Default.aspx>
+(29 February 2016).
+40
+
+No Golden Future – Use of child labour in gold mining in Uganda
+There are different initiatives such as the Minamata convention that all promote non-mercury
+gold extraction techniques and in cases where mercury seems difficult to eradicate safer working
+techniques. Mercury-free techniques do exist and this is by far the best option for miners, local
+communities and the environment. That said, the field research found children often at the end of
+the chain, collecting leftovers and panning them for the last bit of gold. Mercury-free techniques are
+a good alternative but it might be complicated to reach the part of the work that children are taking
+on. These techniques would obviously need different ways of working on the mining site and have
+to include a more holistic approach to improving the conditions for the miners including eradicating
+child labour from mining sites.
+Examples of techniques include: the concentration method that removes lighter particles; panning,
+which can produce high-grade concentrates or even directly recoverable gold; highly functioning
+sluicing to concentrate (although further methods of concentration are often needed). The gold has
+to be separated then through, for example, direct smelting.
+Artisanal miners’ living conditions and sanitation
+The artisanal gold miners and their families are accommodated in temporary tents made out of
+plastic and wooden materials. In addition, accommodation facilities are densely packed together
+and with an evident lack of sanitation facilities. It has also been observed that some children have
+no homes and sleep at the processing facilities.
+Mining site hassles
+Sometimes men will steal the tools of the children and beat them up. The police sometimes chase
+the children away. Several of the children interviewed in Rubali reported that they live at the mining
+site, sometimes with their parents. The police only chase children away during school days. Several
+children mentioned that they are allowed to work during holidays and at weekends
+In an interview with the police and the community officer, they confirm that they sometimes do send
+children away from the mining site, outside the school holidays. They add however that they cannot
+offer the children an alternative to make a living. Therefore they now and again arrest the children
+and send them away but they know that the children will come back the next day.
+During the first day of the field research, which happened to be the last day of the school year, the
+police did arrest eight boys, aged between 12 and 16, who were sleeping illegally at the mining site.
+In interviews with these boys they confirmed they live at the mining site and do not attend school.
+The researchers found them working again the next day. Also children interviewed in Luggingi I
+(Kampala) mentioned that they are allowed to work at the site outside school times but risk being
+chased away during school hours.
+Sonny, one of the children working permanently at the mining site is about 10 or 11 years old. He
+comes alone to the site without his mother knowing although his father knows he is here. If he is
+chased away from the site he will work in the fields for a while and will return later. He saves the
+money he earns to be able to go to school later on.
+41
+
+No Golden Future – Use of child labour in gold mining in Uganda
+David, 13, Rubali gold mine
+“My name is David and I am 13 years old. I started working in
+the mine in 2011. I came alone to the mine and my parents are
+at home. I go to school and work in the mine during holidays
+from 7am to 4pm. I rest at 4pm when I stop working. I work in the
+mine to get money to help my parents pay my school fees, buy
+books and I am also raising some capital to start a business.
+I pan ore for gold. I have not experienced any problems working
+in the mine except for the cuts from metal pieces in the ore or
+stone cuts while walking through the mine. I have not had any
+disabilities from mining that have prevented me from working
+except for the many times I fall sick of malaria. I get gold every day and sell it to the buyers
+that are everywhere in the mine. The buyers set the gold price. I am happy with the price at
+the moment although it sometimes changes. On average, I get 0.1 g gold per day and the
+buyers currently offer 90,000 Uganda Shillings per gram of gold. I leave the mine when the
+school term starts and work only on Saturdays during this period. In future, I would like to
+become a mechanic.”
+Future
+The children that continuously work at the mining site, without going to school, have had no education
+at all or dropped out at an early age. They mentioned they will only leave the mine when they can
+no longer find any gold. Also most of the children who work during the holidays and weekends are
+set to stay working on the mining site until there is no longer any gold to be found. They do dream
+of another future – ranging from becoming businessmen to teachers to car mechanics, geographers,
+farmers, doctors, pastors and even president. Several children said they want to be rich.
+4.4 The local gold supply chain
+The artisanal miners and mineral buyers at Rubali artisanal gold mine suggest there are at least 50
+on-site gold buyers who buy gold from this mining location. On a weekly basis, the gold buyers
+interviewed indicated their target is to buy at least 100 grams of gold each from the Rubali artisanal
+gold mine. Since there are 50 gold buyers, the research team estimates at about 5 kg of gold is
+produced per week and 20k g of gold per month from this artisanal gold mine alone.
+The price of the gold is set by the gold buyers, who tell the miners the price set depends on the
+dollar rate. At the time of the research, the gold buyers were offering between 90,000-95,000
+Uganda Shillings per gram of gold (€ 23.17 to €24.45).
+42
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Outside the mine, the gold buyers sell to other buyers in Kampala. The destination of this artisanal
+gold beyond Kampala is often said to be UAE. The 2015 official gold export statistics in Table 2
+show only 0.54 kg of gold originating from Mubende, which was exported to Korea. The Uganda
+mines officials further indicated there is possibility that artisanal gold is smuggled out of the country
+without going through the designated channels.
+Representatives of the gold industry and the governments interviewed for the OECD baseline study
+(2015) say that the Ugandan gold production appears to be rising but much of it is apparently being
+smuggled across Uganda’s Eastern border to Kenya.68 The statistics in the UN Comtrade Database
+seem to confirm that large quantities of gold are also exported to UAE (Dubai).
+There is no refinery in Uganda, small-scale laboratories are operated by a few gold buyers in
+Kampala, who smelt gold to increase purity prior to export.69
+Based on interviews with artisanal gold miners and mine officials, the gold supply chain from artisanal
+miners in Uganda is summarised in Figure 2.
+Figure 2: Artisanal gold supply chain in Uganda
+...unlicensed ...the gold is
+Artisanal miners ...mineral buyers in
+mineral buyers in the undeclared and
+extract gold the Uganda capital
+mining community smuggled out of
+and sell to... Kampala and...
+who sell to... the country.
+4.5 Gold smuggling out of Uganda
+As numerous studies, including reports of the UN GoE on the DRC have confirmed, Congolese gold
+has been exported, usually illegally and unrecorded, to Kampala for many years. In March 2007, two
+Ugandan companies were placed on the UN sanctions list for buying gold from traders in the DRC
+that were closely linked to militias. The Ugandan government has often been criticised, particularly
+by the UN GoE, for doing too little to stem the flow of smuggled gold from the DRC.
+The OECD baseline study on gold trading and export in Uganda that was published in May 2015
+studied the Ugandan government’s efforts to successfully stop this smuggling. They concluded that,
+over the last few years, the Ugandan government has tightened its regulatory requirements for gold
+traders and has taken steps to launch the implementation of the Regional Certification Mechanism
+(RCM) of the International Conference on the Great Lakes Region (ICGLR).
+68 OECD, 2015, p. 8.
+69 Solidaridad/ARM scoping study, p. 22.
+43
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Paige, 11, Rubali gold mine
+“My name is Paige and I am 11 years old. I am the fifth born in
+a family of six children. I started working in the mine in January
+2014. I came to the mine with my parents and one of them is
+working underground. I work in the mine only on Saturday and
+Sunday as I am at school during the week. I work in the mine from
+9am to 4pm. I am working to get money to buy the things I need
+for my personal use. I pan ore for gold. I have no disabilities on
+my body that have prevented me from mining. There is only
+one time a stone thrown to the surface by people working from
+underground that hit me and I got minor injuries. Other times,
+I do not work when I have either malaria or cough. I sell gold the gold to Wilson who is one
+of the mineral buyers in the area. I get gold worth 20,000 Uganda Shillings every day I work.
+I am happy with the money I get after selling my gold and the price does not change a lot.
+The school term is soon starting and I will leave the mine. In the future, I want to become
+a teacher.”
+In the future, gold officially exported from Uganda will need ICGLR certificates issued in the country
+where it was mined. The key finding of the OECD study is that this “apparently positive modification
+of the regulatory framework has reduced Uganda’s legal gold exports, but has not stopped the trade
+in smuggled Congo gold. The main difference is that the gold is now smuggled from Uganda rather
+than declared”. This has served to push the trade further underground. The study suggests that a
+larger impact would come from the Ugandan authorities introducing new measures to make it more
+difficult to smuggle gold from the country, particularly at Entebbe Airport, the only airport in the
+country with direct flights to international gold markets such as Dubai.70
+People interviewed for the OECD report indicated that, while some Congolese gold probably
+exits Uganda by road to Kenya along with smuggled production from eastern Uganda, most
+Congolese gold was probably being smuggled from Uganda by air through Entebbe Airport.
+Gold traders allege that the two best gold smuggling options at Entebbe Airport are via cargo
+or as hand luggage.71
+70 OECD, Baseline study four: Gold trading and export in Kampala, Uganda, 2015, <http://www.oecd.org/daf/inv/mne/Gold-
+Baseline-Study-4.pdf>, (1 March 2016).
+71 OECD,2015, p. 9.
+44
+
+No Golden Future – Use of child labour in gold mining in Uganda
+The January 2015 report of the UN GoE confirms that Ugandan gold traders continue to buy
+Congolese gold, which is smuggled into the country.72 The UAE has long been a destination of this
+gold and still is, despite the measures the government of UAE undertook at the end of 2013.
+In September 2014, the UN GoE documented the willingness of jewellers in the gold souk of Dubai’s
+Deira district to buy gold from the DRC without asking questions about its origin and without
+requesting proof that export taxes had been paid.73 Jewellers say that they can purchase gold from
+the DRC without any difficulty; they needed only an identification card and a document from the
+customs at Dubai airport, which, they said, were not difficult to obtain. A representative of one
+Dubai refinery told the Group that customs officers did not ask where the gold came from or where
+it would be sold.
+The UN GoE concludes that the measures continue to fall short of the recommendations made by
+the Group in 2010 to ensure due diligence and traceability of gold. In September 2014, the UAE
+authorities said that only consolidated statistics per country were available, which shows the impos-
+sibility for Dubai importers to know the specific mines that the gold is imported from.74
+72 See the Letter dated 26 November 2014 from the Group of Experts on the Democratic Republic of Congo, (S/2015/19),
+paragraphs 204 - 209.
+73 See the Letter dated 26 November 2014 from the Group of Experts on the Democratic Republic of Congo, (S/2015/19),
+paragraph 210.
+74 Ibid.
+45
+
+No Golden Future – Use of child labour in gold mining in Uganda
+5 Government frameworks and other
+initiatives
+In this chapter the legal framework on mining and on child labour is summarised. Initiatives that have
+taken place in Uganda on sustainable artisanal mining and tackling child labour are listed.
+5.1 The legal framework on mining
+The mineral sector falls under the Ministry of Energy and Mineral Development (MEMD), with the
+Directorate of Geological Survey and Mines (DGSM) being responsible for the administration and
+management of the sector.
+Currently ASM is covered by the Mineral Policy, which was put in place in 2001, the Mining Act, 2003
+and the attendant mining regulations established in 2004. The Mining Act regulates the ownership
+and control of all minerals, and provides for the acquisition of mineral rights. In order to operation-
+alise the Mining Act, regulations were introduced in 2004. They contain procedures for acquiring the
+various licences like: mining lease, export/movement permits, mineral dealer’s licence etc.
+Historically artisanal mining was viewed negatively (i.e. as disorganised and ineffectual) by
+government and the public (‘they work like chickens’) and the value of the sector for the country
+has long been ignored. This has resulted in a Mineral Policy and legislation that does not suffi-
+ciently provide opportunities for formalisation of the ASGM sector and in the minerals trade, while
+in fact ASM dominates the mining industry in Uganda.75 There is currently no legal framework to
+accommodate artisanal gold production and therefore regulation does not exist formally; there are
+no official production figures or export figures. Technically it is possible for artisanal gold miners to
+legalise their activities through a location licence. This licence is valid for up to two years, but may
+be renewed for further periods of up to two years at a time. In practice, however, the procedures are
+not within reach for artisanal miners. Therefore only a few licences are issued (see the Table 1:
+Formal gold mining activities in Uganda).
+At the moment (2015-2016), Uganda is reviewing its legal and regulatory framework governing
+mining activities. Particular emphasis has been placed on improving the situation for artisanal and
+small-scale miners through creating an appropriate legal framework that facilitates formalisation
+of their mining operations. Part of the pressure to do this comes from the 2005-2010 World Bank
+project (and others) called the Sustainable Management of Mineral Resources Project (SMMRP).
+This project is aimed at improving artisanal and small-scale mining in Uganda. The renewal of the
+mining act is also meant to make Uganda more attractive for international foreign investors and
+therefore also other laws that have impact on the mining sector are due to be revised (tax laws
+and land laws).76
+75 Aidenvironment, Appendix 7C: External evaluation of Extending Fairtrade Gold to Africa project: Uganda Case, August 2015.
+76 Business Week, ‘Uganda to review mining laws’, <http://www.busiweek.com/index1.php?Ctp=2&pI=1553&pLv=3&>.
+46
+
+No Golden Future – Use of child labour in gold mining in Uganda
+The Mining Policy (2001) did lay the foundation for the protection of children against mining
+hazards and prohibits children from entering mining facilities and participating in mining activities:
+“Government shall repeal the restrictive practices which prohibit women from working underground
+and prohibit children from entering mining facilities and participating in mining activities”.
+The strategy to achieve this was to put in place and enforce regulations against child labour
+exposure to mining activities. However, these regulations are not part of the mining regulations.
+The legal framework to address child labour is discussed in the next paragraph.
+5.2 Uganda’s legal framework for responding to child labour
+Uganda has ratified important international conventions:
+Including the Minimum Age of Employment, 1973, (No. 138); the Worst forms of Child Labour
+Convention, 1999, (No. 182);
+The United Nations Convention on the Rights of the Child (UNCRC) 1989; The Optional Protocol
+to the CRC on Combating the
+Use of Children in Armed Conflict; The Optional Protocol on the Sale of Children, Child
+Pornography, and Child Prostitution; and
+The African Charter on the Rights and Welfare of Children.
+To fulfil the commitments of International Labour Organization (ILO) Convention 182 on the
+prohibition of the worst forms of child labour, the Government defined the types of hazardous work
+for children. The government has developed relevant national laws for the protection of the rights
+of children, including child labour:
+The National Constitution: Article 34 (4) of the Constitution provides for the protection
+of children against social and economic exploitation. It further prohibits the employment
+of children in work that is likely to be hazardous or interfere with their education or is harmful
+to their health or physical, mental, spiritual, moral, and /or social development.
+Employment Act No. 6 of 2006 prohibits employment of children in any work, which is
+dangerous or injurious to the child’s health. Sec.32 (1) of the Act states that, “a child under the
+age of twelve shall not be employed in any business, undertaking or work place”. Clause 2 of
+the same section states that, “a child under age of fourteen years shall not be employed in any
+business, undertaking or workplace, except for light work carried out under supervision of an
+adult aged over eighteen years, and which does not affect the child’s education”. Furthermore,
+Sec.32 (4) prohibits the employment of a child in any employment or work that is injurious to
+his or her health, dangerous or hazardous or otherwise unsuitable. Sec.32 (5) prohibits the
+employment of children at night (7.00 pm to 7.00 am).
+The Children’s Act Cap 59 adopts the principles of the international and regional instruments on
+the rights of the child that Uganda has ratified. Regarding the employment of children, Section
+109 of the Act states that no child shall be employed or engaged in any activity that may be
+harmful to his or her health, education, mental, physical and/or moral development.77
+47
+
+No Golden Future – Use of child labour in gold mining in Uganda
+5.3 Initiatives on artisanal mining
+Sustainable Management of Mineral Resources Project
+The 2005-2010 World Bank78 Sustainable Management of Mineral Resources Project (SMMRP)
+is among the first concrete interventions aimed at improving artisanal and small-scale mining
+in Uganda. At least 1,000 artisanal and small-scale miners in 17 strategic mining areas received
+intensive training on technical aspects of mining. The key outputs of this initiative include a small-
+scale miner’s handbook in form of a simplified practical guide and a national strategy in support
+of ASM advancement in Uganda. It is only since the inception of this project that the government
+has encouraged the formation of artisanal mining associations. The SMMRP project helped set up
+regional mining offices under DGSM, providing mechanisms for government to interact with
+artisanal miners. Currently, in the Busia District the regional mines office is seldom used.79
+FairTrade Gold Project
+Fairtrade Gold and Precious Metals (hereafter ‘Fairtrade gold’) is the only non-agricultural product
+introduced by Fairtrade International.80 At launch in 2011, four artisanal and small-scale mining
+organisations (ASMOs) were certified in Bolivia, Colombia and Peru, supplying Fairtrade certified
+gold, silver and platinum to international markets. The Fairtrade gold project was extended to East
+Africa (starting in May 2012 until July 2015) with the objective of improving livelihoods and working
+conditions among ASM communities by piloting the application of the Fairtrade Standard for Gold.
+Uganda was one of the countries chosen for a pilot, alongside Kenya and Tanzania.
+Implicitly the Fairtrade project has built on SMMRP, which trained miners who are current members
+of the Artisanal Small Scale Mining Organisations (ASMOs) in Busia. Since 2011, artisanal gold miners
+in the Siyanyonja and Busitema areas of Busia District have benefited from technical support and
+training aimed at promoting responsible gold mining practices. Through the Fairtrade gold project,
+significant improvements in organisational abilities, elimination of child labour and the establish-
+ment of formal and strong artisanal associations have taken place. As a result of this intervention,
+the artisanal gold miners in Busia have become more advanced in their mining practices compared
+to their counterparts in Mubende.81
+In August 2015, an external evaluation report of the Fairtrade project in Uganda was published.
+The awareness-raising on child labour in mining carried out by the Fairtrade project was seen as very
+important. There was consensus among stakeholders that, in order to effectively tackle child labour
+in mining, actions need to have impact on the root causes of child labour in mining (absenteeism
+77 Christine Mbabazi Mpyangu (et all), March 2014, p. 80.
+78 Funded by the World Bank, African Development Bank, Nordic Development, and the GOU.
+79 AidEnvironment, 2015.
+80 The Fairtrade gold programme was established in 2009 in partnership with the Alliance for Responsible Mining (ARM), with
+whom the joint ‘Fairtrade and Fairmined’ Standard and corresponding consumer label was launched in 2011. The Fairtrade
+and Fairmined partnership ended in 2013, with both organisations committing to continue with standalone certification and
+labelling schemes, <http://www.fairtrade.net/fileadmin/user_upload/content/2009/vacancies/TERMS_OF_REFERENCE_-_
+External_Evaluation_of__Extending_Fairtrade_Gold_to_Africa_.pdf>.
+81 Aidenvironment, Appendix 7C: External evaluation of Extending Fairtrade Gold to Africa project: Uganda Case, August 2015.
+48
+
+No Golden Future – Use of child labour in gold mining in Uganda
+from school, household poverty) and should be carried out in cooperation with other projects
+tackling child labour.82
+Irish Aid
+Irish Aid completed a baseline assessment of ASM (including ASGM) in Northeastern Uganda’s
+Karamoja Region in 2011. This Assessment was prepared by ECO Research Team comprised of
+among others Jennifer Hinton. A report on gold mining in the Karamoja District by Ecological
+Christian Organisation (ECO) was published in 2011.83
+In 2014, Human Rights Watch published a report about the same region entitled “How Can We
+Survive Here?” The Impact of Mining on Human Rights in Karamoja, Uganda.84
+CSR initiative of Rakai Resources Ltd
+A Canadian company, Rakai Resources Ltd., developed a corporate social responsibility (CSR)
+initiative to help artisanal miners. The company did this with their Abim project partnered with
+Salama SHIELD Foundation (SSF), an Ontario-headquartered charity.
+Rakai-SSF initiatives are addressing children, young adults and women in artisanal mining. Jointly
+with Canada’s International Resource and Development Institute (CIRDI), Rakai and SSF are
+advancing education allowing ASM miners both formal mining skills and alternative, legitimate
+career opportunities outside the sector.85
+NGOs active in Uganda on mining
+There are few lobbying bodies to advocate on behalf of the artisanal miners. EWAD is one of the
+few established NGOs working with artisanal miners. Other NGOs are the Ecological Christian
+Organisation Uganda (ECO-Uganda), supporting artisanal miners in Karimoja, and the National
+Association of Professional Environmentalists (NAPE) based in western region (NAPE is affiliated
+with Friends of the Earth – FoE).86
+In 2015, ECO-Uganda together with ActionAid organised a conference about the use of mercury.
+During the conference, miners asked the government to regulate the use of mercury in gold
+mining. The miners believe that formalisation of small-scale and artisanal miners will not only fetch
+government more revenue in terms of licence fees and taxes, but also regulate the use of mercury
+and other environmentally-unfriendly mining practices.87
+82 AidEnvironment, Appendix 7C: External evaluation of Extending Fairtrade Gold to Africa project: Uganda Case Study,
+August 2015.
+83 <https://thisisafrica.files.wordpress.com/2011/12/mining-sector-report-karamoja-region.pdf>.
+84 <http://www.hrw.org/sites/default/files/reports/uganda0214_ForUpload.pdf>.
+85 Rakai Resources: Africa’s Golden CSR Moment Shines in Uganda, Engineering and Mining Journal, February 2015
+86 AidEnvironment, Appendix 7C: External evaluation of Extending Fairtrade Gold to Africa project: Uganda Case Study,
+August 2015.
+87 The Observer (Kampala), ‘Uganda: Miners, Govt Decry Poor Disposal of Mercury in Mining’
+<http://allafrica.com/stories/201503250402.html>
+49
+
+No Golden Future – Use of child labour in gold mining in Uganda
+5.4 Initiatives on child labour
+There are several initiatives to address child labour by the government in Uganda, as well as NGO
+and donor programmes. The national policy framework for child labour is as follows:
+The National Development Plan (2010/2011-2014/15) highlights strategies aimed at promoting
+access to education and skills development and consequently addressing child labour.
+The National Child Labour Policy (2006): The objective of the Child Labour Policy is to integrate
+child labour concerns into national, district and community development programmes, establish
+legal, legislative and institutional frameworks for tackling the Worst Forms of Child Labour
+(WFCL), and to stimulate collective and concerted mobilisation against child labour at all levels
+The National Action Plan for the Elimination of Child Labour (2012/13-2016/17): developed in
+2012 by the Ministry of Gender, Labour and Social Development, with support from ILO/IPEC
+and input from national stakeholders, the National Action Plan (NAP) for Elimination of the
+Worst Forms of Child Labour aims at operationalising the National Child Labour Policy (2006).
+The Orphans and Other Vulnerable Children’s (OVC) Policy: With the overarching goal of
+attaining “full development and realization of rights of orphans and other vulnerable children”,
+the main thrust of the OVC policy is to reduce vulnerability of OVCs, ensuring social inclusion
+of marginalised groups, and ensuring participation of OVCs and their families. The OVC policy
+mentions working children as one vulnerable category and highlights education and child
+protection as some of the key priority policy strategies.
+National Social Sector Programme Plan for intervention (NSPPI-2) for Orphans and other
+Vulnerable Children: NSPPI-2 is designed to target particularly the critically and moderately
+vulnerable children who constitute 51 per cent of the child population in Uganda.88
+Concrete actions are:
+The Busia District is identified by the Ministry of Gender, Labour and Social Development
+as a ‘hot spot’ of child abuse and exploitative labour (especially in mining and fishing).
+CaRNaC is a network of 40 organisations working with children, advocacy/empowerment.
+The ‘Stop Child Exploitation’ section of CaRNaC started working in Tiira Village very close
+to the ASMO mines after a broadcast on MTV about how children are affected by mining.
+88 Christine Mbabazi Mpyangu (et all), March 2014, p. 82.
+50
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Between 2010 and 2015 US Agency for International Development (USAID) provided
+Uganda with US$ 22.9 million for a project called Strengthening Uganda’s National Response
+for Implementation of Services for Orphans and other Vulnerable Children (SUNRISE OVC),
+with Busia being a target district (including Sikuda and Buteba sub-counties, the ASMO
+communities). At district-level, a multi-pronged approach is being taken forward by the
+Departments of Education, Probation and Community Development with NGO partners such
+as World Vision.
+Sikuda and Buteba sub-counties, have by-laws on child protection and para-social workers are
+appropriately trained.89
+89 AidEnvironment, Appendix 7C: External evaluation of Extending Fairtrade Gold to Africa project: Uganda Case Study,
+August 2015.
+51
+
+No Golden Future – Use of child labour in gold mining in Uganda
+6 Conclusions and recommendations
+1. Use and magnitude of child labour in artisanal gold mining Uganda:
+The children working in the artisanal gold mines of Uganda are subject to the worst form of child
+labour because it exposes children to hazardous substances and conditions. These children are
+risking their health and their future prospects – since the mining interferes with their education.
+A large number of children, about 10,000 to 15,000, work in the gold mines across Uganda (this
+number fluctuates depending on school holidays and the weather).
+There is a broadly shared awareness on the mining sites that children should not work in the
+gold mines during school term time and police chase children away now and then. However,
+children are still allowed to work on the mining sites during weekends and holidays and are risking
+their health. Besides the group of children combining work with school, there is also a consider-
+able number of children not going to school at all and working at the mining sites full time. National
+Uganda laws prohibit children to work younger than twelve, children younger than 14 are only
+allowed to do light work which does not affect the child’s education. All employment that is injurious
+for a child’s health, dangerous or hazardous is prohibited. These laws are clearly not observed.
+Although the majority of the children interviewed in the mining area of Mubende are still attending
+school and only work in weekends and holidays (16 weeks per year at least 5 days per week), they
+are still directly working with and exposed to mercury a large number of days a year. Nobody on the
+mining sites seems to be fully aware of the toxicity of mercury and no measures are taken to reduce
+the risks, neither for the children nor for the adults.
+Root causes for child labour in mining
+To effectively tackle child labour in mining, actions need to offer alternatives and have impact on
+the main causes of child labour in artisanal gold mining in Uganda which is lack of decent work
+and income for adults, instable family situations, lack of awareness around child labour and the
+importance of education and the costs for and lack of sufficient schools and quality education.
+The main reason given for not attending school is the high costs involved. Although the fees are
+officially abolished money still has to be paid for lunches, school materials and uniforms, as well
+as for school development funds and examinations. All of the school-going children interviewed
+mentioned they were working to earn money for school fees, books and uniforms.
+Another reason for school absenteeism is the low quality of the education. This is partly due to
+shortage of good quality teachers and the high absence of teachers. The education officer of the
+Mubende District told that it was reported that 5 out of 8 teachers in Kitumbi Subcounty are working
+in the mines themselves. This corresponds with a World Bank report concluding that 60% of the
+Ugandan teachers are not teaching the children in school, either because they are absent (24 per
+cent), not in the class (29 per cent), or in the class but not teaching. In this situation being at school
+does not make a lot of sense for children, especially when they also can go to the mines and earn
+52
+
+No Golden Future – Use of child labour in gold mining in Uganda
+their own money and buy their own food and clothes. For the children interviewed this was clearly
+considered important and having a positive effect on their status and self-esteem.
+In Central Uganda, where Mubende District is located, around 60 per cent of the children face the
+challenge of poverty and difficult family situations. Eleven per cent of the children are orphans. This
+results in a high percentage of children working and missing out on school. Most children attend
+primary school – in Mubende District attendance is 80 per cent – but few will continue to secondary
+school (nationally only 16 per cent of children of secondary school age actually attend secondary
+school). Of the 80 per cent of children attending primary school in Mubende District, most children
+will not finish within seven years but will repeat years, or drop out of school for long periods. Fewer
+than 70 per cent will actually complete primary school.
+2. The supply chain from mines to point of export
+The artisanal gold miners in Mubende District, including children, sell their gold to on-site buyers.
+These gold buyers sell to other buyers in the country’s capital, Kampala. Uganda’s 2015 official gold
+export statistics show only 0.54 kg of gold originating from Mubende, which was exported to Korea.
+Researchers for this report estimate that 20 kilos of gold could be produced on the Rubali mining
+site alone per month. This production is not included in the official statistics, since it is produced
+without licences.
+The artisanal gold is smuggled out of the country without going through the designated channels.
+The destination of the gold is often said to be Dubai. UN Comtrade export statistics confirm
+significant gold export from Uganda to the United Arab Emirates; 1,937 kilos in 2014.
+Recommendations
+Recommendation for downstream companies in the gold supply chain
+Companies in the gold supply chain should take steps to ban mercury in (artisanal) mining.
+Move beyond the area of conflict minerals in your due diligence with regard to the gold used
+in your products; do not focus solely on gold sourced from the DRC and neighbouring countries
+but extend your policies to all countries producing (artisanal) gold.
+Companies must map – if possible, jointly – their entire gold supply chains including the artisanal
+gold supply, and share this information publicly.
+Companies have to know which countries, specific regions and suppliers they source gold from,
+carry out a risk assessment of all the countries and regions involved, and identify in which supply
+chains and at what specific points the company can use its influence to achieve a positive impact.
+The risks identified have to be mitigated through initiatives taken by companies together
+with other stakeholders. It is crucial to involve local organisations and initiatives in both risk
+assessment and remediation efforts.
+53
+
+No Golden Future – Use of child labour in gold mining in Uganda
+An engagement with actors within the supply chain, as well as other local actors, to work towards
+progressive improvement in the artisanal and small scale mining – including formalization and im-
+proving working conditions for adult workers -, is to be preferred over avoidance of artisanal mining.
+Work with and/or support local initiatives to get children from gold mine areas to school and
+to make sure that all children receive full-time quality education.
+Recommendations for CSO’s
+Initiatives on eliminating child labour in artisanal mining should be done in cooperation with other
+efforts on combatting child labour and improving the educational infrastructure and quality – either
+by the government and/or local or national NGOs, community based organizations and trade unions
+Social and communities empowerment programs are further encouraged in mining communities
+targeting all children including underprivileged children (i.e. orphans, children from poor families
+etc.) in these communities. The programs should focus on ensuring these children remain in
+school and that these children receive quality education.
+To the Ugandan Government
+Work with local stakeholders (local government, companies, mining cooperatives, mine owners,
+NGOs, unions, local child rights groups, etc.) to raise awareness about child labour, and set
+up programmes to prevent and remedy both this and other labour rights violations found in
+mining sites.
+Work with pan-African and/or regional African organizations (e.g. ECOWAS) to develop
+programmes that tackle child labour and improve working conditions for adult workers in gold-
+producing communities. Wherever possible, channel these efforts into the context of regular-
+ising illegal mining.
+Ensure an effective control of mines operating within the bounds of legality, and take action to
+tackle both money-laundering and the smuggling of gold to other countries.
+Take measures to abolish the use of mercury in gold mining
+Improve the education infrastructure and make sure that all children in mining areas receive
+full-time quality education without charging fees or paying other costs.
+Adopt legal provisions on small scale and artisanal mines, including attention to working
+conditions and child labour, that effectively prevent child labour in gold mines under 18 and
+provides decent working conditions for adults.
+Investigate the number and working conditions of children participating in mining and activities
+related to mining, and share these with the public, policy makers and other stakeholders. Involve
+all stakeholders in interventions on child labour in artisanal gold mining.
+54
+
+No Golden Future – Use of child labour in gold mining in Uganda
+Annex 1
+List of Licensed Gold Dealers
+as of December 2015
+MDL No. Holder Date of Grant Address Commodity
+0551 apex infra projects ltd 5/12/2015 plot 30 by pass kampala precious metals
+0552 consolidated services ltd 5/12/2015 plot 32 jinja road kla precious metals
+0553 alis trading (u) ltd 5/12/2015 plot 5 3rd floor williamst precious metals
+0554 hipoint limited 5/12/2015 ntinda kampala industrial minerals
+0554 krol ira and gevogyan vruyr 5/18/2015 buziga hill makindye kla precious stones
+0556 krol ira and gevogyan vruyr 5/18/2015 buziga hill makindye kla precious metals
+0557 britop uganda ltd 5/18/2015 britop building kyegegwa t/c industrial minerals
+0558 afford (u) ltd 5/27/2015 station house jinja rd industrial minerals
+0559 parrots enterprises ltd 5/28/2015 arrow complex b23 ben kiwanuka precious stones
+street
+0560 mubende trust gold buyers 6/2/2015 kassanda mubende precious metals
+and traders ass
+0561 masereka joachem 6/5/2015 margharita street kasese industrial minerals
+0562 knowlex investment ltd 6/8/2015 old kira rd bukoto kla precious metals
+0563 navasir trading company ltd 6/11/2015 plot 3A2 &3A3 forest mall precious metals
+0564 novasir trading company ltd 6/19/2015 plot 3A2 &303 sportlane forest precious stones
+mall kla
+0565 semutooke properties ltd 6/22/2015 plot 1 block 497 busiro county precious metals
+0566 kroona metals and investments ltd 6/24/2015 plot 420 muwanga crescent munyonyo precious metals
+0568 shreesha metals and minerals (u) ltd 7/10/2015 mutungo parish precious metals
+0569 sunbird resources ltd 7/13/2015 plot 9 yusuf lule road precious metals
+0570 african gold refinery ltd 13 August 2015 plot 41 jinja road kampala precious metals
+0571 birfa group ltd 17 August 2015 plot 32 lumumba avenue nakasero precious metals
+0572 hajji fahad ibrahim lugobe 19 August 2015 bandari rise bugolobi precious metals
+0573 golden orb minerals E.A ltd 26 August 2015 plot 13/15 kiira road kla precious metals
+0574 archan jewellers ltd 31 August 2015 plot 6 acacia mall precious stones
+0575 archan jewellers ltd 31 August 2015 plot 6 acacia mall precious metals
+0477 pure minerals uganda ltd 13 February 2015 plot 3 kimathi avenue precious metals
+0478 ki3r minerals 13 February 2015 plot 549 block 11 weraga road base metals
+kabowa
+0479 seahorse international ltd 16 February 2015 plot 2 mbarara industrial minerals
+0480 somdian ltd 19 February 2015 plot 111 bukoto street precious metals
+0481 rwenzori agro company ltd 23 February 2015 p.o. box 523 kasese industrial minerals
+0482 hillmarks ltd 23 February 2015 kasese industrial minerals
+0483 lwasa traders (u) ltd 24 February 2015 plot 12 ben kiwanuka street kampala precious metals
+0484 2M capital traders ltd 3 March 2015 plot 9 luthuri drive bugolobi industrial minerals
+0485 capital minerals ltd 3 March 2015 plot 1&3A nakolongo virat alloys base metals
+0486 gulmoher infrastructure ltd 5 March 2015 plot 5 kanjokya street kla precious metals
+55
+
+No Golden Future – Use of child labour in gold mining in Uganda
+MDL No. Holder Date of Grant Address Commodity
+0487 hima cement ltd 6 March 2015 hima town base metals
+0488 kigezi industries (u) ltd 10 March 2015 plot 27 katuna rd kabale industrial minerals
+0489 tororo cement ltd 10 March 2015 tororo cement factory industrial minerals
+0490 wagagai ltd 18 March 2015 kasenyi nkumba parish industrial minerals
+0491 ruth potter 18 March 2015 kiwatule kampala precious metals
+0492 quantum satis revival ltd 18 March 2015 plot 22 bunyonyi drive bugolobi precious metals
+0493 namukupa hardware enterpries (u) ltd 20 March 2015 mutebi building katwe kampala base metals
+0494 yuvesta agents ltd 20 March 2015 plot 19B bandari rise bugolobi base metals
+kampala
+0495 drito global corporation ltd 24 March 2015 6th floor workers house precious metals
+0496 royal transit ltd 13 April 2015 plot 4 parliament avenue industrial minerals
+0497 kipande investment ltd 20 April 2015 shop 2 maluku road mbale precious metals
+0498 ZS1 enterprises ltd 23 April 2015 plot 17A nile avenue jinja industrial minerals
+0499 SSSR ltd 27 April 2015 plot 3 sports lane lugogo precious metals
+0399 steel rolling mills ltd 5 January 2015 plot 86/90 5th street industrial area base metals
+0400 amina longok 5 January 2015 acholi inn moroto town industrial minerals
+0327 lujiji mining & processing co. ltd 7 January 2015 plot 635/636 sir apollo kagwa road precious metals
+kampala
+0328 dahab trade ltd 8 January 2015 plot 4A pilkington road kampala precious metals
+0329 all sane pit ltd 12 January 2015 plot 55 bandari rise kampala base metals
+0330 kyoburunga annet 14 January 2015 najjanankumbi base metals
+0332 roger mugambwa 16 January 2015 kabale industrial minerals
+0333 kamwe trading company ltd 19 January 2015 forest mall kampala industrial minerals
+0334 byaruhanga william & family 19 January 2015 kabale central market base metals
+investments
+0335 kagera mining company (u) ltd 27 January 2015 block 255 mwanga road kampala precious metals
+0336 montreal group (u) ltd 27 January 2015 plot 66 kira road kampala precious metals
+0337 mineral exodus international ltd 28 January 2015 plot 4 tufnell drive kampala precious metals
+0340 nikki rush mining group ltd 2 February 2015 plot 20&26 block 15 kabalagala precious metals
+0341 nikki rush mining group ltd 2 February 2015 plot 20&26 block 15 kabalagala base metals
+0342 equipment investments ltd 4 February 2015 plot 34 kyadondo road kampala precious metals
+0343 abdul amin muhammad 5 February 2015 entebbe manyago precious metals
+0344 westcorp mining ltd 5 February 2015 naguru kampala precious metals
+0345 YS goldstone uganda ltd 9 February 2015 plot 1 workers house pilkington road precious metals
+5th floor
+0347 industrial minerals ltd 9 February 2015 plot 9&36-46 off kasese-mbarara road industrial minerals
+0348 treasure highland caves ltd 9 February 2015 plot 58 kanjokya street kampala precious metals
+0349 euro group africa ltd 11 February 2015 plot 66A kira road kampala precious metals
+0350 york stones (u) ltd 11 February 2015 piida road mityana town base metals
+0577 mazoori trading company ltd 3 September 2015 kamwokya kampala precious metals
+0578 pavlov import and export ltd 4 September 2015 buziga kampala precious metals
+0579 custom mineral logistics international 8 September 2015 mpondwe lhubiriha town council precious metals
+0581 souther minerals ltd 10 September 2015 plot 18 kar drive kololo precious metals
+0582 navtan gold ltd 11 September 2015 plot 41 kira road kamwokya kampala precious metals
+0584 florence mugote 28 September 2015 p.o. box 1431 jinja plot 10/11 yusuf precious stones
+lule lane
+56
+
+No Golden Future – Use of child labour in gold mining in Uganda
+MDL No. Holder Date of Grant Address Commodity
+0585 golden mining agency ltd 28 September 2015 p.o box 11189 kampala plot 100 precious metals
+ggaba road kampala
+0586 mineral solutions (u) ltd 28 September 2015 p.o box 9203 kampala plot 40 bombo precious metals
+road
+0587 shiram jewellers 30 September 2015 shop no. 11 kololo kisementi kampala precious metals
+0588 kgrg mineral international ltd 2 October 2015 1st floor 39A lumumba avenue kla precious metals
+uganda
+0589 k.b. finance (u) ltd 5 October 2015 p.o.box 8115 klabhatia chambers industrial minerals
+parliamentary avenue
+0590 greenstone resources ltd 8 October 2015 p.o. box 300 busia precious metals
+0591 shayona holdings ltd 13 October 2015 plot 1 swaminarayan close precious metals
+wankulukuku nalukolongo kla
+0592 adamawa investment (u) ltd 13 October 2015 p.o. box 27433 kla mutundwekabawo precious metals
+zone lubaga div
+0593 jimpexx mining company ltd 23 October 2015 plot 1001 gaba road kla precious metals
+0594 tarkshya ltd 23 October 2015 plot 59 kira road kla precious metals
+0595 sonetrans ltd 26 October 2015 plot 30 kla rd green towers precious metals
+0596 chemines ltd 2 November 2015 plot 113 wavamuno road munyonyo precious metals
+kla
+0597 asma strategies and logistics (u) ltd 6 November 2015 plot 107 buganda rd afri courts precious metals
+building ground florr kla
+0598 abbarci mining company ltd 11 November 2015 plot 170 bombo road kawempe precious metals
+kampala
+57
+
+No Golden Future
+Use of child labour in gold mining in Uganda
+A large number of children work in Uganda’s artisanal gold mines. Of all the
+artisanal gold miners in Uganda, between 20 to 30 per cent are children.
+Some children (periodically) attend primary school whilst still working in the
+mines to pay for their education, clothes and books. Many other children
+work in the mines throughout the year and some even live on the mining
+sites. Gold mining is arduous work even for adults, but for children the
+conditions are even more unsafe, unhealthy and the exposure to hazardous
+and toxic chemicals, including mercury, can lead to life-long health problems.

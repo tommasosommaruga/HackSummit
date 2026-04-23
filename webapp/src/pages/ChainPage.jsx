@@ -13,15 +13,16 @@ import { loadSupplyChain } from '../lib/loadSupplyChain.js'
 import './MapPage.css'
 
 const CHAIN_TYPE_VISIBLE = {
-  deposit:      true,
-  project:      true,
+  mine:         true,
   refinery:     true,
   magnet_maker: true,
   oem:          true,
   reseller:     true,
 }
 
-const CHAIN_TYPES = ['deposit', 'project', 'refinery', 'magnet_maker', 'oem', 'reseller']
+// deposit/project in graph data → remapped to 'mine' for ChainPage display
+const CHAIN_TYPES_DATA  = ['deposit', 'project', 'refinery', 'magnet_maker', 'oem', 'reseller']
+const CHAIN_TYPES       = ['mine', 'refinery', 'magnet_maker', 'oem', 'reseller']
 
 export default function ChainPage() {
   const [graph, setGraph]     = useState(null)
@@ -45,9 +46,12 @@ export default function ChainPage() {
       nodeIds.add(e.to_id)
     }
 
-    const nodes = graph.nodes.filter(n =>
-      nodeIds.has(n.id) && n.geocoded && CHAIN_TYPES.includes(n.type),
-    )
+    const nodes = graph.nodes
+      .filter(n => nodeIds.has(n.id) && n.geocoded && CHAIN_TYPES_DATA.includes(n.type))
+      .map(n => (n.type === 'deposit' || n.type === 'project')
+        ? { ...n, type: 'mine' }
+        : n
+      )
 
     const st = {}
     for (const t of CHAIN_TYPES) st[t] = 0
@@ -123,7 +127,7 @@ export default function ChainPage() {
         <div className="legend-v2">
           <div className="legend-title">Supply Chain</div>
 
-          {(['deposit', 'project', 'refinery', 'magnet_maker', 'oem']).map(key => {
+          {CHAIN_TYPES.filter(k => k !== 'reseller').map(key => {
             const cfg = NODE_TYPES[key]
             const n = stats[key] || 0
             if (!n) return null
@@ -188,12 +192,16 @@ export default function ChainPage() {
             )}
 
             <div className="dv2-grid">
-              {selected.company    && <Field k="Company"    v={selected.company}    span={3} />}
-              {selected.chinese_name && <Field k="中文"     v={selected.chinese_name} span={3} />}
-              {selected.ticker     && <Field k="Ticker"     v={selected.ticker}  />}
-              {selected.ownership  && <Field k="Ownership"  v={selected.ownership}  span={2} />}
-              {selected.capacity   && <Field k="Capacity"   v={selected.capacity}   span={3} />}
-              {selected.products   && <Field k="Products"   v={selected.products}   span={3} />}
+              {selected.company    && <Field k="Company"      v={selected.company}      span={3} />}
+              {selected.chinese_name && <Field k="中文"       v={selected.chinese_name} span={3} />}
+              {selected.ticker     && <Field k="Ticker"       v={selected.ticker}  />}
+              {selected.ownership  && <Field k="Ownership"    v={selected.ownership}    span={2} />}
+              {selected.pstatus    && <Field k="Status"       v={selected.pstatus}      span={3} />}
+              {selected.deposit_type && <Field k="Type"       v={selected.deposit_type} span={3} />}
+              {selected.commodities  && <Field k="Commodities" v={selected.commodities} span={3} />}
+              {selected.ree_grade  && <Field k="REE grade"   v={selected.ree_grade}    span={3} />}
+              {selected.capacity   && <Field k="Capacity"     v={selected.capacity}     span={3} />}
+              {selected.products   && <Field k="Products"     v={selected.products}     span={3} />}
               {selected.smelting_quota_t_reo_2024 != null && (
                 <Field k="Smelt quota 2024" v={`${selected.smelting_quota_t_reo_2024.toLocaleString()} t REO`} span={3} />
               )}
@@ -234,6 +242,11 @@ function Field({ k, v, span = 1 }) {
   )
 }
 
+function asDisplay(n) {
+  if (!n) return n
+  return (n.type === 'deposit' || n.type === 'project') ? { ...n, type: 'mine' } : n
+}
+
 function ChainList({ title, edges, byId, fromEnd, onPick }) {
   const valid = edges.filter(e => byId.get(e[fromEnd]))
   if (!valid.length) return null
@@ -241,10 +254,11 @@ function ChainList({ title, edges, byId, fromEnd, onPick }) {
     <div className="dv2-chain">
       <div className="dv2-label">{title}</div>
       {valid.map(e => {
-        const n = byId.get(e[fromEnd])
+        const raw = byId.get(e[fromEnd])
+        const n = asDisplay(raw)
         return (
           <button key={e.id} className="chain-row" onClick={() => onPick(n)}>
-            <span style={{ color: colorForNode(n) }}>{NODE_TYPES[n.type].icon}</span>
+            <span style={{ color: colorForNode(n) }}>{NODE_TYPES[n.type]?.icon}</span>
             <span className="chain-name">{n.name}</span>
             <span className="chain-mat" style={{ color: MATERIAL_COLORS[e.material] || '#9ca3af' }}>
               {e.material}

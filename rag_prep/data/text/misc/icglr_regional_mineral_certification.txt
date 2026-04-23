@@ -1,0 +1,1793 @@
+Special report on the
+“The ICGLR Regional Initiative against the
+Illegal Exploitation of Natural Resources
+(RINR) and other Certification Mechanisms in
+the Great Lakes Region:
+Lessons Learned and Best practices”
+Table of contents
+1
+
+© United Nations Economic Commission for Africa 2013
+Sub-Regional Office for Eastern Africa
+Kigali, Rwanda
+www.uneca.org/sro-ea
+All rights reserved.
+Materials in this publication may be friendly quoted or reprinted. Acknowledgement is requested, together with
+a copy of the publication. Reproduction for commercial purposes is forbidden.
+Disclaimer
+This report is the result of the analysis of a study commissioned by the United Nations Economic Commission
+for Africa, Eastern Africa Sub-region Office (UNECASRO-EA) . However, the report does not purport to
+represent the views or the official policy of the institution or of any SRO-EA member country.
+2
+
+_Toc347911670
+1. INTRODUCTION ......................................................................................................... 5
+2. MINERAL CERTIFICATION IN THE GREAT LAKES REGION: A CONSTANT CHALLENGE ..... 7
+3 ICGLR’S REGIONAL INITIATIVE AGAINST THE ILLEGAL EXPLOITATION OF NATURAL
+RESOURCES (RINR).......................................................................................................... 12
+3.1 Introduction ................................................................................................................ 12
+3.2 Governance of RINR .................................................................................................... 12
+3.3 The six tools of RINR .................................................................................................... 13
+3.3.1 Regional Certification Mechanism (RCM) ................................................................................... 13
+3.3.2 Harmonisation of National Legislations ..................................................................................... 16
+3.3.3 Regional Database on Mineral Flows ......................................................................................... 17
+3.3.4 Formalisation .............................................................................................................................. 17
+3.3.5 EITI Peer Learning Mechanism ................................................................................................... 18
+3.3.6 Whistle-blowing Mechanism ...................................................................................................... 18
+3.4 Status of implementation by ICGLR member States against the six tools ....................... 18
+3.4.1 General implementation ............................................................................................................. 18
+3.4.2 Implementation progress by country (see Annex 1) ................................................................... 21
+3.4.3 Major achievements and success factors ................................................................................... 22
+3.4.4 Challenges .................................................................................................................................. 23
+4 COMPARING THE RINR WITH OTHER CERTIFICATION SCHEMES AND INITIATIVES ...... 25
+4.1 The Kimberley Process Certification Scheme (KPCS) ..................................................... 25
+4.2 The OECD Due Diligence Guidance ............................................................................... 28
+4.3 The Dodd-Frank Act ..................................................................................................... 29
+4.4 The Fairtrade and Fairmined (FT/FM) standard for gold from ASM............................... 29
+4.5 The World Gold Council Conflict-free Gold (CFG) standard ............................................ 31
+4.6 The ITRI Tin Supply Chan Initiative (iTSCi) ..................................................................... 33
+4.7 BGR’s Certified Trading Chains (CTC) and analytical fingerprint technology ................... 34
+4.8 Conflict-Free Smelter Program (CFS) ............................................................................ 35
+4.9 The Extractive Industries Transparency Initiative (EITI) ................................................. 36
+5 CONCLUSION AND WAY FORWARD .......................................................................... 38
+6 REFERENCES ............................................................................................................ 41
+7 ANNEX 1- IMPLEMENTATION OF THE 6 TOOLS- COUNTRY BY COUNTRY ANALYSIS .... 46
+3
+
+Table of figures
+Figure 1: Democratic Republic of Congo and Adjoining countries .............................................................. 7
+Figure 2: Minerals Supply Chain ............................................................................................................................. 10
+Figure 3: Minerals Supply Chain by Mechanisms ............................................................................................. 11
+Figure 4: Great Lakes Mineral Flows in the Congo Region ........................................................................... 16
+Figure 5: ICGLR Monitoring of Great Lakes Mineral Flows .......................................................................... 17
+4
+
+1 INTRODUCTION
+Several African countries are endowed with considerable amounts of mineral resources.
+These resources play a crucial role in the economy, as they account for a significant share of
+exports. Indeed, mineral resource exports contribute to merchandise exports in almost half of
+Africa’s 54 countries.
+While the exploitation of mineral resources should have a positive effect on economic growth
+as it provides sufficient financial resources for building economic infrastructure and human
+capital, it has not been the case for most African countries. Poor performance in mineral
+economies has been linked, inter alia, to the disenfranchisement and conflict about the
+resources; poor legal and regulatory frameworks and weak institutional capacity, including
+for negotiation of mineral agreements; illicit financial flows that are lost by Africa through
+transfer pricing and other mechanisms used by private companies; and the negative impact
+that resource rents have on the workings of political institutions, as they create political
+incentives for discretionary or non-transparent management of public expenditure.
+The link between natural exploitation and conflict is well documented. Natural resources
+driven conflicts have been fuelled by grievances on access to rights, perceptions of unfair
+distributions of benefits, disenfranchised groups or by pure economic reasons: the business of
+war. Classic cases include the role played by diamonds to sustain conflicts in Angola, Sierra
+Leone and Liberia, and similarly gold, diamonds, coltan and other minerals in the case of DR
+Congo. Several mechanisms have been established to curb this link. Chiefly among them, the
+Kimberley Process, which is meant to improve traceability in the diamond industry and
+eliminate the flow of conflict diamonds. In the Great Lakes region, which is most frequently
+cited as an example of the resource curse , the most important framework is the Regional
+Initiative against the Illegal Exploitation of Natural Resources in the Great Lakes Region
+(RINR), being coordinated by the International Conference on the Great Lakes Region
+(ICGLR).
+“Conflict minerals” are ores that, when sold or traded, have played key roles in helping to
+fuel conflict and extensive human rights abuses, since the late 1990s, in the Democratic
+Republic of the Congo (DRC). The main conflict minerals are the so-called “3TGs”: ores of
+tantalum and niobium, tin, tungsten; gold; and their derivatives. Diverse international efforts
+to break the link between mineral trade and conflict in the Great Lakes region have been
+proposed or are under way. Key initiatives include government and industry-led mineral
+tracking and certification schemes. These are designed to monitor trade in minerals to keep
+armed groups from financially benefitting from this commerce, in compliance with firm-level
+and/or industry due diligence policies that prohibit transactions with armed groups.
+Recognizing that the key problem is the missing linkage between the supply chain of natural
+resource and the formal economy of the ICGLR member States, and the fact that the
+exploitation and trade within the region are frequently conducted illegally, the ICGLR RINR
+seeks to redress these issues through a comprehensive approach including an elaborate
+Regional Certification Mechanism (RCM).
+The Special report on the implementation of the ICGLR RINR will start by analyzing
+certification processes in general and their challenges; focus on the ICGLR RINR and
+highlight the progress made as well as achievements and success factors; flag any issues and
+5
+
+challenges that may have arisen that prevent its implementation; and make comparative
+analysis with other certification mechanisms and initiatives.
+The Special Report will seek to:
+- Analyze certification processes and their challenges
+- Update on achievements and success factors as well progress made in the
+implementation of the RINR in member States
+- Flag any issues and challenges that hamper its implementation
+- Offer a comparative analysis with other existing initiatives (the Kimberley Process
+Certification Scheme, the OECD Guidance, the Dodd Frank Act, the FairTrade
+Fairmines standard, the Conflict free Gold Standard, the ITRI itSci, the Certified
+Trading Chains, the Conflict free Smelter (CFS), the EITI)
+- Draw lessons learned and best practices
+- Propose solution and way forward
+- Acquire feedback from various stakeholders after its being presented during 17th ICE
+in Kampala, Uganda
+- Discuss the issue with experts, practitioners and other stakeholders during an Ad-hoc
+Experts Group Meeting (AEGM) organized in Kampala, Uganda.
+The overall expected results are:
+- Enhanced understanding of certification mechanisms through analysis of supply
+chains of mineral resources to prevent their links to conflict
+- Awareness creation on the ICGLR RINR
+- Improved knowledge on best practices and lessons learnt through comparative
+analysis with other certification mechanisms and initiatives
+- Increased partnership and collaboration with ICGLR
+6
+
+2 MINERAL CERTIFICATION IN THE GREAT LAKES REGION: A
+CONSTANT CHALLENGE
+Minerals such as tin, tantalum, tungsten and to a lesser degree gold1 (3TGs), that are major
+inputs for smartphones, laptops and other products2, are most significantly sourced from the
+DRC and the Great Lakes Region of Africa. These minerals are mostly mined by artisanal
+and small scale miners whose livelihoods very much depend on these mineral supply chains.
+Unfortunately, these minerals also contribute to the financing of DRC’s continuous armed
+conflict and have been labeled ‘conflict minerals’. The conflict in the DRC has been one of
+the most tragic of the last few decades. It has been estimated that total loss of life in the
+region has exceeded 5 million. There are a number of issues driving the conflict, but one of
+the most discussed is the role that the mineral trade, particularly with regards to the 3TG,
+plays in financing conflict. Figure 1 shows the map of DRC and adjoining countries and some
+figures for global production of the 3 TGs.
+Figure 1: Democratic Republic of Congo and Adjoining countries
+Source: A.T. Kearney Analysis. June 2012
+1 US Geological Survey, 2010; Bawa, 2010.
+2 ICT industry consumes over 50%-60% of tantalum, up to 26% of tin, and 9% of gold (Burt, 2011; Vodafone,
+2012.)
+7
+
+Following its resolution 1291 (2000), in June 2000 the UN Security Council (UNSC) first
+established the Panel of Experts to investigate the illegal exploitation of DRC’s natural
+resources and identify any potential links between natural resources and the ongoing conflict
+in eastern DRC.3 In 2003, the Panel issued its final report concluding that: "The flow of arms,
+exploitation and the continuation of the conflict are inextricably linked."4
+Tracing and tracking the provenance and the supply chains of these minerals is essential as
+they can be used to fuel conflicts and could lead to massive displacements, and instability. If
+their provenance and ‘routes’’ are not transparent, it could also trigger boycott from
+consumers and loss of investor confidence, deterring the people to actually benefit from these
+resources in a sustainable manner. Mining itself is not inherently unsustainable if it is
+responsibly managed. A regional solution is important as conflict minerals are mined in one
+country and exported through another. There is thus need for a comprehensive mineral
+tracking and a certification mechanism.
+A relatively new creation in the aftermath of globalization, certification is the result of the
+desire of global consumers to ensure that the products they use in their daily life conform to
+certain ethical and environmental standards, even if the supply of raw materials and
+manufactured products has moved overseas beyond the reach of their own domestic
+legislation. In recognition of the power and influence that public and consumers have,
+producers of these products are aware and conscious that they have to fill this market
+demand. Indeed there is emergence of booming new markets for “ethically-certified”
+products. Certification is therefore by nature a voluntary agreement between consumers and
+producers, without consideration on where they physically live in the world. While
+consumers agree to seek out or limit their consumption to some specific products that meet
+their standard, producers agree to meet that same agreed upon standard. Both sides agree
+upon an independent auditor to verify that the standard is being met, rendering it beneficial to
+both sides.
+Producers stand to gain from this arrangement. Certification systems could be considered by
+producers as another form of risk mitigation in brand management. Indeed, producers could
+gain more secure market access - an advantage in the marketplace over competitors that are
+not certified - and often a price premium, willingly paid by consumers in recognition of the
+added value of the product. In addition, certification systems reduce transaction costs for
+providing assurance of corporate social and environmental accountability. Consumers gain in
+terms of satisfaction of knowing that their daily purchasing decisions are supporting the
+moral, ethical and environmental standards to which they subscribe. While certification
+processes were initially driven by the Civil Society Organizations (CSOs) and educated
+consumers, it has gained support in the private sector and the development agencies as a way
+to promote Corporate Social Responsibility (CSR) in developing countries.
+Where sanctions aim to use economic forces to influence behavior by withdrawing from the
+market, certification offers interested buyers (consumers and companies) a mechanism
+whereby they can selectively purchase only those materials that meet a certain standard, be it
+for origin, method of production or social and environmental impact. Where conflict is the
+major issue, a certificate of origin guarantees the buyer that, at a minimum, proceeds from the
+purchase of the material will not be used to finance or benefit belligerent armed groups.
+3 United Nations Security Council, 2003-2005
+4
+Report of the Panel of Experts on the Illegal Exploitation of Natural Resources and Other Forms of Wealth in the
+Democratic Republic of Congo, S/2003/1027, October 23, 2003. Paragraph 59, p. 19.
+8
+
+This is the case of the Kimberley Process. Other certification schemes go beyond origin and
+guarantee the conditions under which a product is produced. The Fair Labor Association
+(FLA) originated out of allegations that garment manufacturers in developing countries were
+employing exploitative practices in the manufacture of textiles and garments destined for
+retail in developed countries. The FLA certifies that garments and textiles were manufactured
+in a manner that respects workers’ rights. In the same vein, the Forest Stewardship Council
+(FSC) certification guarantees that the wood products in question were produced in ways
+respecting environmental sustainability.
+A mineral certification scheme modeled on these lines would guarantee not just the origin
+and traceability of the minerals but also certify that the conditions under which they were
+mined and traded had met certain standards. Certification of mineral origin and traceability
+would enable to link these standards to specific mine sites. This kind of certification would
+help buyers curtail the supply of tainted conflict minerals, to exclude violation of broad
+international standards (child labor for example) in their supply chain. In doing so, they
+would positively choose ethical minerals, sourced and produced in ways that contributed to
+the peaceful economic and social development of the Great Lakes region.
+While acknowledging and focusing efforts on a broader range of CSR issues, many NGOs,
+companies, governments, and consumers have expressed concern about and focused much
+attention on the link between natural resource extraction and conflict. The extraction and
+trade of minerals (including diamonds), timber, and oil are thought to have directly or
+indirectly financed warring groups and violence or other human rights abuses in areas such as
+Sierra Leone, Côte d’Ivoire, Cambodia, Angola, and Liberia. Since 1996, the Democratic
+Republic of the Congo (DRC) has been a focus of international concern, with a history of
+governance challenges and large mineral deposits believed to be contributing to violence
+perpetrated by rebel groups as well as the Congolese army.
+Many minerals originating in conflict regions such as the DRC, including gold, tin, tantalum,
+and tungsten, end up in products such as computers, cell phones, and other personal
+electronics, as well as in many other products like jewellery, airplanes and automobiles.
+Greater awareness of these issues on the part of the public and end-use industries such as
+electronics has prompted a closer investigation of their supply chains. However, these
+companies face significant challenges due to a lack of transparency and complex structure
+and relationships in particular metals supply chains.
+The complexity of conflict minerals becomes apparent when looking at a communications
+company as an example. The company would need to filter through 35 manufacturers, 60 to
+80 parts suppliers, more than 1,000 commodity parts suppliers, and an unknown number of
+distributors to get to all of its sources. Since only very small quantities of conflict minerals
+are typically integrated into any given product, traceability is even more difficult. For
+example, a 2 kilogram laptop contains 10 grams of tin, 0.6 grams of tantalum, 0.3 grams of
+gold, and 0.0009 grams of tungsten. Smelters, where metals of diverse origins come together
+to be processed, have been identified as the crucial traceability point. Fortunately, the number
+of smelters within the overall supply network is still manageable.5 (see Figure 2 for an
+illustration of the minerals supply value chain).
+5 A.T. Kearney. 2012. Conflict Minerals: Yet Another Supply Chain Challenge. June.
+http://www.atkearney.com/paper/-/asset_publisher/dVxv4Hz2h8bS/content/conflict-minerals-yet-another-
+supply-chain-challenge/10192.
+9
+
+Figure 2: Minerals Supply Chain
+Artisanal Mine/ Local Industrial Elecronics
+Smelter End User
+Mining Processor Exporter Producer Industry
+Minerals typically lose their provenance (or traceability) as they move through the supply
+chain from mine to product. Transparency can be challenged due to one or more of the
+following typical supply chain characteristics and processes: mixing of ore, particularly
+during trading and prior to smelting; the smelting or refining process, where ore is processed
+to obtain the target metal, with a smelter often drawing from different sources; and/or re-
+melting, re-processing or recycling of metals. While there have been tremendous advances
+with regards to certification, there still remains some difficulties verifying sources that enter
+the supply chain from mines that are illegal or part of the informal economy. With these
+sources, a paper trail can be difficult to establish and verify, and many question the credibility
+of record-keeping related to these sources. In regions such as the Great Lakes, supply chain
+tracking mechanisms are likely to be necessary with regard to informal, artisanal and small-
+scale sources. Some positive examples of relevant mechanisms include those developed by
+the Association for Responsible Mining.6
+This means that, while end-use companies have the potential to establish and have confidence
+in sources for some percentage of the metals in their products, they cannot assert 100%
+sourcing certainty about individual metals or the product as a whole without significant
+alterations and/or assurance mechanisms in their supply chains. Success requires confidence
+in supply chain relationships and new strategies, such as direct sourcing, or innovations, such
+as minerals tagging or fingerprinting. A number of efforts are underway, and many of these
+were undertaken in consultation with local civil society leaders and Congolese mineral trade
+exports. In particular, an effort called PROMINES involving the Congolese government, the
+World Bank, and industry has made great strides towards improving transparency and
+accountability.
+Currently, the ICGLR, the ITRI, the OECD, and the SEC are all pursuing traceability
+regulations and schemes, sometimes in consultation with one another and sometimes without
+doing so. Other schemes include MONUSCO’s creation of trading centers, and the German
+government’s BGR program. The problem is compounded in that traceability is possible with
+some commodities (eg, diamonds), but extraordinarily difficult with others (namely, gold).
+As shown in Figure 3 below, most mechanisms focus on the upstream side (from mine to
+smelter) with a few focussing on the downstream side (from smelter to end users). The risk
+areas where the audits should focus are indicated in yellow and include where the mines are
+processed at the mine site; when they are with the local exporter, and particularly at the
+smelters.
+6 Alliance for Responsible Mining, 2010. Fairtrade and Fairmined Gold: Information for business and
+designers. At www.fairtrade.org.uk/press_office/default.aspx.
+10
+
+Figure 3: Minerals Supply Chain by Mechanisms
+Source: BGR
+11
+
+3 ICGLR’S REGIONAL INITIATIVE AGAINST THE ILLEGAL
+EXPLOITATION OF NATURAL RESOURCES (RINR)
+3.1 Introduction
+The ICGLR was founded in 2006 against the backdrop of the war in the DRC (2002-2006)
+with the assistance of the African Union, the United Nations, and bilateral partners. The
+ICGLR’s main objective is to enhance regional security, stability and Development. Its
+activities are coordinated from a Secretariat established in 2007 in Bujumbura, Burundi.
+The ICGLR is a political platform, which has the task to harmonise views, actions and
+politics concerning regional challenges amongst the member States. In the Dar-Es-Salaam
+Declaration, the Heads of State and Governments of the ICGLR agreed to seal a Pact on
+Security, Stability and Development. The Pact confirms the determination and commitment
+of member States to “transform the Great Lakes Region into a space of sustainable peace
+and security for States and people, political and social stability, shared growth and
+development”.7
+Following this commitment, the ICGLR “Regional Initiative against the Illegal Exploitation
+of Natural Resources” (RINR) was launched in 2009, which particularly aims at breaking the
+link between mineral revenues and rebel financing. The RINR outlines specific actions
+needed to translate the Great Lakes region’s rich mineral resources from a source of conflict
+into a catalyst for development.
+On 15 December 2006, the eleven member States of the ICGLR signed the Protocol on the
+Fight against the Illegal Exploitation of Natural Resources. The Protocol provides the legal
+basis for the implementation of the RINR. The Lusaka Declaration, signed on 15 December
+2010, specifies six complementary tools, which will comprise a regional control mechanism
+aimed at eradicating the main source of funding for violent conflict in the region.
+The six tools are:
+1. the creation of a regional certification mechanism for natural resource supply chains,
+2. the harmonization of national legislation in member states,
+3. the construction of a regional database on mineral flows,
+4. the formalization of the artisanal mining sector,
+5. the promotion of the Extractive Industries Transparency Initiative (EITI) peer learning
+mechanism, and
+6. the establishment of a whistle-blowing mechanism.
+3.2 Governance of RINR
+A Regional Steering Committee, comprising technical experts from all ICGLR Member
+States, has been charged with the steering of all activities within the RINR since September
+2009.
+7 ICGLR. 2006. Pact on Security, Stability and Development in the Great Lakes Region. December.
+https://icglr.org/IMG/pdf/Pact_on_Security_Stability_Development-S.pdf.
+12
+
+Its suggestions on policies and technical guidelines are to be approved at a later stage by the
+Regional Inter-Ministerial Committee as well as the ICGLR Summit. Meanwhile, the ICGLR
+Secretariat is collecting and managing the data provided by member States and acts as an
+exchange platform on issues concerning the Initiative.
+While the constitutive meeting of the Steering Committee of the Regional initiative against
+the illegal exploitation of natural resources was held in Gisenyi (Rubavu), Rwanda in
+September-October 2009, the second meeting was held in Bujumbura, Burundi in April 2010;
+the third in Nairobi in September 2010; the fourth in Resha, Burundi in April 2011; the fifth
+in Bujumbura, Burundi in April 2011; and the sixth and seventh in Bujumbura in May and
+November 2012, respectively.
+This Special report draws extensively from the minutes of these Steering Committee
+meetings, which were graciously shared by ICGLR/GIZ.
+3.3 The six tools of RINR8
+Approved by the ICGLR member States, the RINR operates with six specific tools designed
+by the ICGLR Conference Secretariat.
+3.3.1 Regional Certification Mechanism (RCM)9
+The RINR is primarily established to track the chain of custody of four selected natural
+resources, namely cassiterite, wolframite, coltan and gold, also referred to as ‘conflict
+minerals’. The RCM aims at guaranteeing that neither mine site nor channels of trade within
+the country and the region are in predatory control of armed groups or criminal networks.
+8 ICGLR website. http://www.icglr.org.
+9 Blore, Shawn and Smilie, Ian. 2010. An ICGLR-based tracking and certification for minerals based in the
+Great Lakes Region of Central Africa. March.
+13
+
+The guiding principles are (i) transparency i.e. data on mineral flows would be made public
+as it enhances the role of civil society as an oversight body; (ii) the burden of proof fails
+primarily on exporters and secondly on the governments, which means that responsibility to
+follow procedures and sanctions for non-compliance both fall on industry; (iii) mandatory
+third party audits, which implies the recruitment of auditors by the ICGLR Audit committee
+which includes representatives from government, industry and Non-Governmental
+Organizations (NGOs) and that would issue substantive, automatic penalties for non-
+compliance; (iv) to adapt existing current systems as much as possible and not to reinvent the
+wheel if credible systems are already in place; and (v) design for adaptability, so that the
+mechanism stays present with time and incorporates relevant and best practice standards as
+much as possible.
+The ICGLR RCM Manual, which sets out the standards and procedures for chain of custody
+systems and certification in-region, was informed by BGR’s Certified Trading Chains (CTC)
+and the OECD Due Diligence Guidance, and also integrates lessons learned from industry-led
+chain of custody systems, including iTSCi.10 It “seeks to promote the mineral sector’s role in
+the peaceful economic and social development within the member States of the Great Lakes
+Region by establishing common regional standards for transparency… working conditions,
+environmental performance and community consultation.”
+RCM works by designating certain circumstances and/or outcomes of production as red-,
+yellow- or green-flags. A red-flag “means a violation of one of the system critical criteria of
+either the standards or procedures for mine site inspection and approval … or a violation of
+one of the system-critical criteria for Third Party Audits.” 11
+Implementation of the RCM relies on four main system elements: (i) Chain of custody
+tracking from mine site to export; (ii) Regional tracking of mineral flows via ICGLR
+database; (iii) Regular independent third-party audits; and (iv) an Independent Mineral Chain
+Auditor.
+a) Chain of custody tracking from mine site to export (upstream)
+The task of tracking from mine site to export (upstream) is entrusted to national governments
+before export. They ought to be able to trace national production from mine to export. They
+should also be able to trace minerals imported and then re-exported. It is the duty of the
+governments to also review the chain of custody of documents before export with a view to
+establishing that minerals can be tracked from mine site to exporter (producer countries) or
+border post to exporting countries (reprocessing countries). An ICGLR certificate will be
+issued to countries exports that have the appropriate chain of custody documents. This
+certificate will be the evidence that there is compliance throughout the region.
+b) Regional tracking of mineral flows via ICGLR database (see Section 3 below)
+c) Regular independent third-party audits
+A major innovation from existing certification mechanisms, the independent third party
+audits are conducted independently of government, industry and civil society. They will
+provide additional assurance that the chain of custody procedures have been adequately
+followed by all participants in the mineral chain.
+10 Some of these certification schemes will be reviewed in detail in Chapter 4 of this report.
+11 ICGLR Certification Manual. 2011.
+14
+
+As thee are regular audits they will reinforce credibility and legitimacy of the ICGLR system
+for all parties concerned including end users, consumers, civil society and the international
+community.
+In order to acquire the ICGLR certificate, this ‘dual –key system’ requires that participants do
+not only have to prove that they follow proper chain of custody but also pass regular third
+party audits. Otherwise, they would be classified as ‘non-compliant’, and the consequences
+with regards to the market will be significant.
+While an Audit Committee works within ICGLR, it is independent. It will be composed of
+members of government, industry and civil society in equal numbers. The role of the Audit
+committee is to accredit auditors; sets audit terms of reference for audits; determines scope
+and frequency of audits; commissions auditors; receives finished results; publishes them and
+recommends further action. The auditors will be accredited by the ICGLR Audit Committee
+and paid for by the exporting company which may pass on parts of these costs to its suppliers.
+Since the number of members of the Audit Committee is limited, it may be useful to have a
+rotating system that allows all member States to be represented over time. The audits focus
+on the exporter who is responsible for his own compliance and the one of his suppliers. The
+auditing report is shared with the respective exporting company, the member States and the
+ICGLR Secretariat.
+d) Independent Mineral Chain Auditor.
+The independent mineral chain auditor’s function is to analyse and monitor the data from the
+ICGLR database and look for discrepancies and anomalies. He is able to initiate further
+investigation, issue reports, suggest sanctions and/or solutions. The Auditor has the authority
+to declare a participant non-compliant should he find non-compliance of a participant. The
+Mineral Chain Auditor’s appointment is structured to provide full independence and freedom
+of action. As the last action in the process of certification, the Independent Mineral chain
+Auditor can react to unforeseen situations and close loopholes that were not foreseen when
+the system was created. He/she is to be appointed by the Executive Secretary on the basis of
+a list of candidates proposed by the member States. The Steering Committee of the RINR
+recommended that the Independent Mineral Chain Auditor be hosted by the ICGLR
+Conference Secretariat and that its office be permanent. Figure 4 below shows hoe the
+minerals flow from the DRC and how they can be traced.
+15
+
+Figure 4: Great Lakes Mineral Flows in the Congo Region
+Source: Shawn Blore and Ian Smilie. 2010.
+An additional element for the RCM is the Analytical Finger Printing (AFP). The AFP)
+project is a joint program of the ICGLR and BGR within the German Cooperation. The
+overall goal of this project is the development and application of traceability and monitoring
+mechanisms for mineral production and trade. This will contribute to the implementation of
+the Regional Certification Mechanism. In order to achieve this objective, the AFP works in
+three steps namely the sample preparation laboratories and storage, central analytical
+laboratory and database management. The Analytical Fingerprinting (AFP) project is
+integrated into the RINR as an additional element to reinforce the credibility of the Regional
+Certification Mechanism after being approved by the Regional Committee in November
+2011.
+A study was undertaken to figure out where the AFP should be housed and according to the
+study it is best suited at the Southern and Eastern African Mineral Centre (SEAMIC) based in
+Dar-es-Salaam, Tanzania. Member States unanimously agreed that the Analytical
+Fingerprinting laboratory be located in Tanzania within the SEAMIC Center and recommend
+that this decision is presented to the Regional Interministerial Committee for consideration.
+3.3.2 Harmonisation of National Legislations
+Domestication of the legal provisions of the Protocol into the national legislation of the
+member States is essential as stipulated in §22 of the Protocol. Moreover, the harmonisation
+approach comprises the identification of key differences between legal frameworks governing
+the mineral sector in the different member States. The RINR facilitated this process by
+consulting its member States and drafting a model law which will accelerate the process of
+domestication.
+16
+
+3.3.3 Regional Database on Mineral Flows
+The creation of a regional database showing the production and trade of selected primary
+commodities in the Great Lakes Region is another very crucial tool. The availability and
+disclosure of this data will allow for the depiction of regional trade patterns and is also aimed
+at building trust among the member States. The regional database is hosted at the ICGLR
+Secretariat in Bujumbura, Burundi. It is envisaged that data on regional mineral flows will be
+transmitted to ICGLR on a monthly basis. For each participant, analysis will be undertaken
+on the data provided and inquire if exports match imports. In case of a difference, the
+participant will be given a chance to explain and correct. If it is unable to rectify the
+correction, the participant will be declared non-compliant. To ensure transparency and
+accountability, all data and the analyses will be made available for public access. Figure 5
+shows where the data are collected and gives a holistic picture of monitoring through data
+acquisition.
+Figure 5: ICGLR Monitoring of Great Lakes Mineral Flows
+Source: Shawn Blore and Ian Smilie. 2010.
+3.3.4 Formalisation
+The objective of this tool is to encourage the formalisation of artisanal mining to improve
+taxation systems, to provide of extension services and capacity building. It aims at improving
+regulations, particularly in terms of simplifying registration and accounting requirements thus
+increasing productivity. This will in turn increase transparency and thereby help reducing
+fraud. This applies to extraction, processing and trading within the member States.
+17
+
+3.3.5 EITI Peer Learning Mechanism
+During the last few years the number of ICGLR member States endorsing the standards of the
+Extractive Industries Transparency Initiative (EITI) has been constantly increasing and
+several more member States have signalled their intent to implement the EITI. As the
+experience of more advanced countries is very valuable to newcomers, the ICGLR is a
+suitable forum for the facilitation of a peer learning mechanism. Additionally, it is envisaged
+that mineral volumes, represented by financial revenues recorded by EITI, are balanced with
+the physical mineral volumes traded, recorded by the ICGLR Regional Database. The ICGLR
+also calls upon the EITI for the extension of the initiative to cover small scale mining in the
+informal sector.
+3.3.6 Whistle-blowing Mechanism
+The implementation of a whistle-blowing mechanism aims at capitalising on the knowledge
+of individuals witnessing or participating in illicit mineral activities. A web-based platform
+will provide a possibility to anonymously report such confidential information which would
+then be followed up by an independent mineral chain auditor (refer to Tool I: Regional
+Certification Mechanism).
+3.4 Status of implementation by ICGLR member States against the six
+tools
+3.4.1 General implementation
+3.4.1.1 Mineral traceability and Certification scheme
+With regards to mineral traceability and certification scheme, its implementation is
+undergoing a number of processes. During the second meeting of the Steering Committee of
+the RINR in 2010, the document on tracking and certification mechanism of mines in the
+Great Lakes Region was presented by Partnership Africa Canada (PAC), and in 2010, it was
+recommended to adopt the certification system with a gradual implementation over a period
+of one to two years in order to ensure that all participating parties familiarise and adapt
+themselves to the new regulations In 2011, a certification manual was developed and
+updated. Steps are being taken for the accreditation of auditors and the conduction of pilot
+audits.
+The ICGLR Certification Manual was revised in the spirit of the ICGLR Heads of State to
+fully harmonise it with other schemes in place. First, the standards of the ICGLR
+Certification Mechanism were harmonised with the OECD Due Diligence Guidance.
+Accordingly, mine sites that engage in conflict and child labour will be marked with a red
+flag which stands for immediate disengagement. Mines marked with a yellow flag will be
+accorded a period of 6 months to show improvement. Exporters who are marked with a green
+flag receive an ICGLR certificate which is valid for 12 months. Second, the ICGLR audits
+will serve the requirements of the CTC and OECD schemes. This means that there will be
+only one audit for all schemes which covers the entire regional chain of custody from mine
+site to export.
+18
+
+Thirdly, the traceability system in the ICGLR Regional Certification Mechanism is to a large
+extent similar to the iTSCi scheme which is already in place in some of the member States
+and is recognized as a valid traceability scheme for the RCM. However, the iTSCi scheme
+often regards ITRI as the owner of the collected data whereas the ICGLR assigns full
+ownership to its member States. It is therefore recommended that member States negotiating
+agreements with ITRI ensure that they have full ownership of their tracking data.
+In November 2011, member States adopted the Certification Manual as amended by the 5th
+meeting of the ICGLR Steering Committee and welcomed its harmonization with the OECD
+Due Diligence Guidance for responsible supply chains of minerals from conflict-affected and
+high-risk areas in accordance with the Lusaka Declaration. While member States renewed
+their commitment to implement the Certification Mechanism as soon as possible, they agreed
+upon the possibility of extending the deadline of December 15th, 2012 for the
+implementation of the Certification Mechanism. The member State seeking extension should
+formally communicate this to the ICGLR Secretariat.
+On 28-30 October 2012 in Kigali, Rwanda, a regional Audit Committee was established. The
+Bureau is composed of a Chair from Rwanda; Vice-chair from Kenya and a Rapporteur from
+the DRC. The function of the Independent Mineral Chain Auditor should be operationalised
+as quickly as possible for the certification mechanism to be implemented in full swing.
+3.4.1.2 Harmonization of national policies/domestication of the Protocol
+Article 22 of the Protocol of the regional Initiative against the Illegal Exploitation of Natural
+Resources in the Great Lakes Region recommends the harmonization of the legislation of
+member States. The provisions of the Protocol can be grouped along three basic themes:
+sovereignty, criminalization and cooperation. These central themes must be analyzed
+carefully and together in order to achieve sound domestication of both global and specific
+provisions. The domestication process could be achieved in four main stages. First, States
+shall review their legislation in order to identify gaps existing between national laws and the
+Protocol. Then the parties would organize workshops and consultations with the concerned
+services and agencies. A legislation model could then be adopted with a view to be used for
+regional harmonization. The final stage will be a legislative process for the adoption of the
+defined laws, the procedure which depends on national provisions.
+In June 2012, a technical workshop was held in Kampala, Uganda with experts in the
+respective fields of legislation and natural resources aimed at following up on the process of
+legal harmonization and domestication of the ICGLR Protocol on Natural Resources. The
+workshop provided an exchange platform on how the respective member States can
+incorporate the ICGLR Protocol in their respective domestic legislations, so that the regional
+obligations may become applicable and enforceable in the countries concerned. Member
+States contributed by identifying their respective needs in terms of national legislation and
+domestication of the Protocol. The participants discussed the draft “model law” to
+domesticate the Protocol and developed proposals on how to refine the existing draft and
+allow for all member States’ needs to be respected and reflected in their legislation.
+The recommendations of the workshop were integrated into the “model law” draft version.
+The “model law” also made reference to the Regional Certification Mechanism without
+introducing specific legislation.
+The model law is now serving as a template for member States to incorporate regional
+obligations into their domestic laws. Some member States (eg: Uganda and Burundi) already
+took the necessary steps to begin harmonizing their legislation.
+19
+
+3.4.1.3 Creation of an information exchange system (Regional database)
+In 2009, the need for more systematic data collection and analysis, on a regular basis, in
+order to fight the illegal exploitation of Natural Resources was underlined and paved the way
+for the creation of the ICGLR database with statistics on the production and trade of mineral
+resources.
+The Data Base System is hosted in the ICGLR Secretariat.
+There are six types of databases which are either owned by the member States or the ICGLR:
+- Member States database of exporters;
+- ICGLR database of exporters;
+- national mine site database;
+- regional mine site database;
+- Member States mineral tracking database;
+- ICGLR mineral tracking database.
+The regional database will be managed by the ICGLR and derives its data from the member
+States, including the flow of data from mines, mineral processors, comptoirs and smelters to
+the ICGLR Regional Mineral Tracking Database. (See Figure 5 above).
+The Regional Committee recommended that member States establish three national databases
+(Mine Site Database, the Mineral Tracking Database and Exporters Database) with the
+assistance of the ICGLR Secretariat.
+In 2011, major steps taken for the development of this tool encompass missions in Burundi,
+Rwanda and the DRC to inform government officials on the use of the data sheet. Although
+the database already comprises some data on production and trade, the use of similar excel
+sheets, which were developed with support from Partnership Africa Canada, will ensure that
+in the future the data submitted by member States is consistent and can be used for analytical
+purposes. Data is already being submitted by the member States, focusing on statistics of
+production and exports for the 4 minerals.
+3.4.1.4 Whistle blowing mechanism
+The Whistle Blowing Mechanism attempts to capitalise on the knowledge of individuals and
+thus reinforce the Certification Mechanism. By enacting the Protocol, the member States
+agreed to protect persons who, in good faith, provide information on illegal activities. The
+Mineral Chain Auditor follows up on information provided by the Whistle Blowing
+Mechanism.
+A stock taking mission took place in some member States (Burundi, DRC, Rwanda and
+Kenya) in August 2011 to consult with national law enforcement authorities and
+anticorruption commissions, which will be pivotal actors for a successful implementation of
+the regional whistle-blowing mechanism. The results of the fact-finding mission demonstrate
+the overall support for the mechanism by member States and recommend starting with a first
+phase focusing on the Eastern part of the DRC. Currently, an extension of the pilot zone in
+Burundi is also under way.
+20
+
+Based on experience from this first phase, the tool will then be extended to other areas and
+countries.
+It was noted that closer regional cooperation in law enforcement and similar activities, such
+as an effective sensitization of the civil society and the monitoring of financial flows through
+Financial Intelligence Units in the member States, was necessary and critical in order to
+successfully implement the whistle-blowing mechanism. Moreover, the report points out that
+the mechanism may possibly be integrated in existing structures. As the verification and the
+processing of whistle-blower information is closely related to the Independent Mineral Chain
+Auditor’s (IMCA) overall mandate, an approach would be to utilize these exiting structures to
+avoid duplication and increase the credibility of the system.
+In 2012, a number of consultancies have been commissioned to deal with crucial aspects in
+the preparatory phase for the mechanism’s pilot project in DRC’s Kivu provinces. A scoping
+mission to DRC to consult the relevant authorities in DRC which will be operating the
+mechanism as well as design the content of the training modules took place in August. In
+addition, efforts have been made to obtain a phone number for the SMS platform from a local
+phone operator (possibly AIRTEL or Vodacom).
+Given the recognition that a good knowledge of the risks that might jeopardize the success of
+the whistle blowing project is necessary, a consultant has been commissioned to carry out a
+risk analysis in the target areas for the pilot project and propose risk mitigation measures. The
+whistle blowing mechanism is expected to be launched beginning of January 2013, with prior
+focus on DRC and Burundi.
+3.4.1.5 Formalisation of ASM
+Member States are requested to formalize the artisanal mining industry and ensure it delivers
+tangible benefits to the miners through building their capacities and transforming their social
+economic livelihoods. They have made significant progress on this from as the country by
+country analysis shows (See Annex1- Implementation of the 6 tools- country by country).
+3.4.2 Implementation progress by country (see Annex 1)
+As shown in Annex 1, which was compiled from the various RINR Steering Committee
+meeting reports, progress has been uneven among ICGLR member States and against the
+various tools.
+With regards to formalisation of ASM, all countries have made some progress, in particular
+in the creation and recognition of cooperatives. For mineral traceability and certification,
+implementation is taking place in DRC and Rwanda in 2012. Additional implementation of
+the ICGLR RCM is envisaged in Burundi and Uganda in the near term (next two years).
+Eventually, the system is intended to be applied to all ICGLR member States. Indeed,
+Rwanda is implementing the iTSCi traceability scheme and the Certified Trading Chains
+(CTC) project. In DRC, mineral traceability is being implemented in several mineral
+territories of the country in collaboration with ITRI. Both DRC and Rwanda are going to
+deliver their first certificates soon.
+21
+
+Specifically for EITI, at the end of November 2012, Burundi announced its willingness to
+join the initiative. This marks an opportunity for the ICGLR to start with the implementation
+process of this tool. It is to be noted that the Republic of Congo, DRC, the CAR, Zambia and
+Tanzania have already joined the EITI.
+3.4.3 Major achievements and success factors
+Despite being a relatively new initiative, the RINR has already achieved some remarkable
+successes in its fight against the illegal exploitation of natural resources in the Great Lakes
+Region. The Regional Certification Mechanism is in place and a certification manual, which
+provides a practical guide for its implementation has been developed and approved by the 11
+Heads of State.
+Another important step was the elaboration of a ‘model law’ which will make it easier for
+ICGLR member States to domesticate the legal provisions of the Protocol into national
+legislation. In that regard, member States are cooperating in their fight against mineral fraud
+with reference to the Lusaka Declaration and they are in the process of including the RINR
+into their legal framework. Also worth mentioning is the test version of a database which has
+already started to gather data on the production and exports of selected natural resources.
+Another achievement is the set up of the Regional Audit committee as the third independent
+parties. A notable achievement is also the decision to set up a laboratory for the Analytical
+Fingerprinting in SEAMIC, in Tanzania.
+The visibility of ICGLR has increased and the ICGLR has reached unanimous political
+support and the commitment of its member States to implement the six tools of the RINR.
+The initiative has enabled dialogue between the various countries and helped alleviate the
+tensions, mistrust and deep antagonisms amongst them. It has also given recognition to the
+ICGLR as the key stakeholder for issues of mineral governance in the Great Lakes Region.
+The fact that ICGLR has been able to mobilise considerable external support for the RINR
+from a variety of partners is a positive sign and has accelerated the implementation of the
+various tools of the RINR, especially trainings and workshops in a number of areas.
+The external success factors for the RINR include the fact there is increasing demand for
+minerals and metals with the advent of emerging economies such as China and India in the
+market and the global commodities boom; that awareness creation and sensitisation of the
+public for conflict minerals have led to action by industry and international legislation (the
+Dodd-Frank Act) through heightened consumer responsibility and NGO campaigns; and that
+the ICGLR has become the African regional organization mandated to specifically address
+conflict minerals.
+Another success factor for the RINR is that it is strategically focused on a narrowly defined
+issue (conflict resources, specifically on four minerals). It also strategically combines a
+political process to create dialogue and build confidence with a technical approach (i.e.
+development of the six tools, with external technical input). Another success factor is that
+RINR builds on existing initiatives such as the ITRI, CTC and the KPCS; and applies lessons
+learned from the precedent initiatives.
+22
+
+Moreover, the governance structure of RINR, which includes the establishment of a formal
+platform between all member States through the Regional Committee enables close and
+regular consultations with the member States as well as cooperation with a number of
+stakeholders including governments, intergovernmental organisations (OECD), private sector
+(ITRI) as well as civil society. ICGLR gained credibility as it is integrated in the international
+network. The steering structure is in itself a success factor as the Regional Committee is
+composed of qualified experts from all member States and their regular meetings creates
+dialogue and co-ownership; and guarantees follow-up on the development of the six tools.
+RINR’s communication strategy which includes informing major stakeholders about the
+initiative; participating in key meetings; and actively seeking media coverage through regular
+articles, is another success factor.
+3.4.4 Challenges
+ Institutional and operational structure
+One of the main challenges of the ICGLR RINR is that it has quickly moved from a
+conceptual framework to one that needs to be implemented on the ground. What the Lusaka
+Declaration implies in practice is that the role of the ICGLR Secretariat has been inflated to
+not only coordinate and facilitate political processes but to also guide and oversee
+implementation of the RINR. This has implications not only for the operational structure as
+the Secretariat will need to be recalibrated and restructured to meet the current needs. As
+expectations from member States increase towards the ability of the ICGLR to deliver, it
+requires a high level of coordination between member States and the ICGLR Secretariat for
+an effective outcome and coherent implementation on the ground. The ICGLR Secretariat
+needs to attribute paramount importance to the RINR. It should also step up and enhance
+regular communication flows between the Secretariat and the member States at the national
+level. The separate special unit that is envisaged with staff dedicated solely on the RINR
+might be a good idea but given the political nature of the Secretariat, in order to have the buy-
+in of member States, there needs to be prior approval from the relevant organs of the ICGLR
+as it implies a change in the original structure.
+ Multiplicity of donors within the RINR
+While the growing interest of donors for the RINR is laudable, the multiplicity of
+interventions at various levels requires greater ability to coordinate to obtain optimal results.
+As it stands, strategic coordination of the various sources of funding might not be optimal.
+ Lack of ownership by ICGLR Secretariat
+Related to the previous challenge of multiplicity of donors is the lack of ownership of the
+RINR by the Secretariat. Given the growing number of donors, each with their own priorities
+and set of agenda, the ICGLR Secretariat might not be empowered to be effective on the
+ground. With regards to management of resources, while the ICGLR Secretariat is allocated a
+certain amount each year, the ICGLR Secretariat may only be able to develop tools but
+necessarily to implement them.
+23
+
+There is lack of technical and human resources in the ICGLR Secretariat that are specifically
+dedicated to RINR. In addition, for the Secretariat to be able to manage considerable amounts
+of funds independently, it should comply with Internationally accepted Accounting Principles
+which includes the use of International Accounting Standards and International Financial
+Reporting Standards. Both these imply capacity development of the ICGLR Secretariat. The
+self financing study that is currently being undertaken is a step in the right direction for
+ownership and sustainability in the long term. The case of the Shamva project in Zimbabwe
+illustrates well how a solely externally supported initiative that lacks ownership ends up
+being unsustainable. (See Box 1).
+Box 1: The Shamva Mining Project in Zimbabwe
+The Shamva mining centre in Zimbabwe was built to provide local small-scale gold miners with
+access to mechanised and more efficient minerals processing. Additional services included assistance
+with blasting; advice on geology, mining methods, law, marketing and environment; and equipment
+hire. The project resulted in increased productivity, safer and less environmentally damaging methods
+and increased incomes for miners. While it was publicized as an example of what-to-do to facilitate
+access to appropriate technology and equipment and develop mining skills of small-scale miners,
+failed to operate in a sustainable manner, due to hasty disengagement of its main funding agency,
+mismanagement and lack of institutional support.
+Source: ECA. 2002. Compendium of Best Practices in Small Scale Mining in Africa.
+http://new.uneca.org/Portals/15/CrossArticle/1/Documents/Compendium-
+on_best_practices_in_smallsacle.pdf.
+ Multitude of transparency initiatives on minerals in the Great Lakes region
+As there are several initiatives on the ground, sometimes competing with each other since
+they have the same objectives, it requires proper coordination to avoid fatigue from artisanal
+small scale miners, traders and other participants in the supply chains as questionnaires,
+surveys and requirements of all the initiatives could quickly become cumbersome if not well
+coordinated and well managed.
+ Communication on the RINR
+Despite the positive image and coverage the RINR is getting, it is still relatively unknown
+compared to other schemes such as the Kimberley Process or the EITI. There is need to
+improve the communication on the RINR and also the monitoring of progress.
+24
+
+4 COMPARING THE RINR WITH OTHER CERTIFICATION SCHEMES
+AND INITIATIVES
+As discussed above, the ICGLR RINR built on previous initiatives and incorporated lessons
+learned and best practices. A quick review will be made of some of these
+mechanisms/initiatives in order to draw lessons learned and best practices and forge a way
+forward.
+4.1 The Kimberley Process Certification Scheme (KPCS)
+The KPCS is a joint government, industry and civil society initiative to stem the flow of
+conflict diamonds, which are defined as rough diamonds used by rebel movements to finance
+wars against legitimate governments. The trade in these illicit stones has fuelled conflicts in
+countries such as Angola, Côte d’Ivoire, the DRC and Sierra Leone. KPCS imposes
+requirements on its members to enable them to certify shipments of diamonds as ‘conflict
+free’.
+The KP is an import-export certification scheme which requires participating governments to
+certify the origin of rough diamonds, and put in place effective controls to prevent conflict
+stones from entering the supply chain. Participant countries must enact domestic legislation
+to implement the scheme, and can only trade rough diamonds with other members. This
+creates a strong incentive for countries that want to produce, trade, or process uncut stones to
+join. The KP’s technical provisions are implemented by governments, but its tripartite
+structure means that non-governmental organisations and the diamond industry hold official
+status as observers and take part, along with member states, in all working groups and
+decision making processes.
+4.1.1 Achievements, successes and strengths of KPCS
+In the past ten years, the Kimberley Process has had some notable achievements, including
+pioneering a tripartite approach to solving international problems, and helping some of the
+countries that were worst-hit by diamond-fuelled wars to increase their official diamond
+revenues. The UN General Assembly 64th session Resolution notes that the implementation
+of the KPCS has had a positive impact in reducing the opportunity for conflict diamonds to
+play a role in fuelling armed conflict. It further notes that the KPCS would help to protect
+legitimate trade and ensure that the effective implementation of the relevant resolutions on
+trade in conflict diamonds.12
+The Kimberley Process has been successful in addressing some issues regarding participant
+non-compliance with the KPCS. Most significant is the case of the Republic of Congo
+(ROC), which was removed from the KP in 2004 after a review mission, concluded that the
+country was not complying with KPCS minimum requirements. In 2007, after re-establishing
+and demonstrating compliance, the ROC was readmitted to the KP.
+12U.N. General Assembly, 64th Session. Resolution adopted by the General Assembly. 64/109 The role of diamonds in
+fuelling conflict: breaking the link between the illicit transaction of rough diamonds and armed conflict as a contribution to
+prevention and settlement of conflicts (A/RES/64/109) http://www.un.org/depts/dhl/resguide/r64.shtml.
+25
+
+According to Shawn Blore and Ian Smillie (one of the first researchers to document the
+existence of conflict diamonds and a participant in the original KP negotiation process who is
+now one of the most vocal critics of the KPCS), “The KP is the most extensive and – despite
+certain significant shortcomings – the most successful system currently in place for certifying
+the origins of high value natural resources, and the only scheme in place with a track record
+of addressing conflict situations.” 13 At the most basic level, the fact that the KPCS exists at all
+is its greatest strength.
+Another strength of the KPCS is the stipulation that participants can only engage in rough
+diamond trade with other KP participants. Any country with a rough diamond business
+(production, trade, or consumption) must, almost of necessity, join the KP so that its diamond
+business can continue to function. Additionally, once a state becomes a KP participant, it is
+bound by the KPCS rules. Nearly every country that has joined the KP has had to pass new
+laws in order to meet the KPCS minimum standards and enforce the KPCS at home.
+Although the KPCS itself is not a legally binding international treaty, its enforceability is
+actually enhanced by the fact that each participant has made its provisions legally binding
+within its own borders. One of the greatest strengths of the KP is that it can evolve. At each
+annual plenary, participants can discuss and make changes to how the KP works. This is
+beneficial because it allows the KP to address its weaknesses and improve its effectiveness.
+4.1.2 Challenges and weaknesses of KPCS
+The Global Witness (2006), while acknowledging the fact that KPCS controls have reduced
+significantly the market for illicit diamonds, notes that in Côte d’Ivoire, the revenue from
+diamond production had provided income to rebel movements. There is also strong evidence
+that diamonds from Liberia, which remained under UN sanction, were being smuggled into
+bordering Kimberly participant countries. Serious problems in the DRC were also reported.14
+In addition, member governments have repeatedly failed to deal effectively with problem
+cases such as Zimbabwe, Côte d’Ivoire and Venezuela. Despite the existence of the
+Kimberley Process, diamonds are still fuelling violence and human rights abuses. Although
+the scheme makes it more difficult for diamonds from rebel-held areas to reach international
+markets, there are still significant weaknesses in the scheme that undermine its effectiveness
+and allow the trade in blood diamonds to continue. The KP’s definition of “conflict diamond”
+leaves out several important factors. Conflict diamonds, according to the KP, are rough
+diamonds used by rebel movements or their allies to finance conflict aimed at undermining
+legitimate governments. This definition has two critical flaws: the focus on who is doing the
+violence and the focus on rough diamonds. The fact that a diamond is only a conflict
+diamond if it is used by rebel groups or their allies does not account for government-
+sponsored violence that is financed by diamonds. Second, the definition of conflict diamonds
+only mentions rough diamonds, not cut and polished ones. This loophole creates the
+possibility that conflict diamonds could still reach the international market after they have
+been cut and polished.
+13 Blore, Shawn and Smilie, Ian. 2010. An ICGLR-based tracking and certification for minerals based in the
+Great Lakes Region of Central Africa. March.
+14Global Witness, 2006, ‘An Independent Commissioned Review Evaluating the Effectiveness of the Kimberley Process’,
+Global Witness
+http://www.globalwitness.org/media_library_get.php/272/1277890630/GW%20Commissioned%20Report%20on%20KP.pd
+f.
+26
+
+Consensus based decision-making is another weakness of the KP. It means that any state can
+veto decisions with which they disagree. While it may lend legitimacy to decisions and
+reduces major disagreements, decisions made by consensus often represent the lowest
+common denominator. Another weakness of the KPCS is that it does not have a ‘house’. The
+current rotating system of KP Chairs undermines the continuity and follow-up on issues as
+well as sustainability. Internal controls are also among the weaknesses of the KPCS.
+Although the KPCS requires participants to establish a system of internal controls designed to
+eliminate the importing or exporting of conflict diamonds, what these internal controls should
+consist of is not explicitly stated. Instead, the KPCS has recommendations that participants
+are encouraged to follow when creating their internal controls. This can result in extremely
+weak internal controls. Finally, although the KP has provisions that require countries to face
+penalties for noncompliance, decisions about penalties for noncompliance are generally ad
+hoc rather than based on a predetermined set of rules that delineates which penalties should
+be given for different levels of noncompliance. Furthermore, because KP decisions are made
+by consensus, penalties for noncompliance can be blocked by political allies of noncompliant
+participants, allowing them to entirely escape accountability for their infractions.
+4.1.3 Lessons learned from KPCS
+One of the major lessons learned from the KPCS is that there is need to have a clear purpose
+besides a short term focus on conflict. The linkages between natural resources, conflict and
+wider governance and human rights issues should be addressed simultaneously for a better
+impact and outcome. Another lesson learned is that the system should be flexible enough to
+adapt to new conditions that were unforeseen at the time the KPCS was conceived.
+With regards to administration, the main lessons learned are the need for more rigorous
+internal controls and for tracking to cover the entire supply chain, from mine site to end user.
+In addition, decision-making should be open, inclusive and free of political interference as
+transparency is vital for building trust and for credibility. The need for a Secretariat is also
+another lesson learned as not having one implies weak administration, poor data collection,
+poor management and research. However, a top-down management will also make the system
+cumbersome so there is need to find a solution in the middle.
+Concerning operations, there is need to make sure that the areas where production is taking
+place is free from any ‘conflict’ activity, including rebels, militias, or government sponsored
+military activities. The need to track from mine site is reiterated and the need for data starting
+from production at mine sites and trade figures cannot be overemphasized. Another lesson
+learned is the importance of an independent third-party auditing, including supply chain
+monitoring. There is also need for credible sanctions for non-compliance. Sanctions should
+include de-certification. Without this sanction, there is no incentive to follow the rules, and
+system will not function.
+27
+
+4.2 The OECD Due Diligence Guidance
+The OECD Due Diligence Guidance for Responsible Supply Chain Management of Minerals
+for Conflict Affected and High Risk Areas provides good practice guidelines to businesses
+from OECD member States operating in conflict areas. The objective of the guidance is to
+help companies respect human rights and avoid contributing to conflict through their mineral
+sourcing practices. The Guidance is also intended to support transparency in mineral supply
+chains and sustainable corporate engagement in the mineral sector with a view to enabling
+countries to benefit from their natural mineral resources and prevent the extraction and trade
+of minerals from being a source of conflict, human rights abuses, and insecurity.15 It covers
+the three Ts (tin, tantalum and tungsten) and gold. The Five-Step Framework was also
+incorporated into UNSC1952/2010 on DRC. It is applicable for any upstream and
+downstream company “sourcing minerals or metals from conflict-affected and high-risk
+areas, and is intended to cultivate transparent, conflict-free supply chains and sustainable
+corporate engagement in the minerals sector”.16
+Integration of the OECD Due Diligence Guidance in companies supply chain management
+systems will enable downstream users to source from conflict-affected and high risk areas
+(and in particular the Great Lakes Region) knowing that due diligence has been conducted in
+line with recommendations developed through a multi-stakeholder process. Downstream
+companies are not required to map the factual circumstances of the upstream supply chain,
+but the Guidance does ask them to identify the smelters in their supply chain and evaluate
+their due diligence practices to ensure they are in line with the recommendations in the
+OECD Guidance. Conformance with the OECD Due Diligence Guidance means that
+operators sourcing from conflict-affected and high-risk areas have instituted management
+systems, identified and mitigated conflict and (the most serious) human rights risks and that
+smelters have been audited on their performance and reported on this regularly. The
+Guidance’s focus is primarily on risks such as human rights abuses and conflict, as stipulated
+in its 3Ts supplement while the Gold Supplement also encourages upstream companies that
+are carrying out Step 2 (identifying and assessing risks in the supply chain) to “map the
+factual circumstances” of present and possible risks.
+The OECD Due Diligence Guidance is non-binding and has been endorsed, by 34 OECD
+countries plus Brazil, Argentina, Peru, Lithuania, Latvia, Morocco and Romania, the 11
+ICGLR countries and the UN Security Council in two Resolutions on DRC. In addition to
+being endorsed by the ICGLR Heads of State, the Due Diligence Guidance
+Recommendations have been integrated into the Government of DRC’s legal framework and
+the other ICGLR States are set to follow DRC’s lead. Country adherents to the downstream
+recommendations commit to “actively promote the observance of the Guidance by companies
+operating in or from their territories and sourcing minerals from conflict-affected or high-risk
+areas”, and “take measures to actively support the integration into corporate management
+systems” of the OECD Due Diligence Guidance. However, the implementation of OECD
+Due Diligence Guidance is conducted on a voluntary basis for most countries, and companies
+are not obliged to implement it.
+15 The OECD Due Diligence Guidelines for Responsible Supply Chains of Minerals from Conflict-Afflicted and High Risk
+Areas, http://www.oecd.org/document/36/0,3746,en_2649_34889_44307940_1_1_1_1,00.html.
+16 OECD 2011, p. 52.
+28
+
+Adhering countries are expected to promote its observance in companies operating in or from
+their territories and sourcing minerals from conflict-affected and high-risk areas. In addition,
+companies operating in countries which are not signatories are also choosing to implement it,
+according to the OECD; for example, about 15% of the downstream participating companies
+are based outside of OECD member countries, including companies headquartered in
+China.17
+4.3 The Dodd-Frank Act
+The Dodd Frank Act, which was signed into law by President Obama on 21 July 2010, is a
+set of a comprehensive financial regulatory reform bill entitled the Dodd-Frank Wall Street
+Reform and Consumer Protection Act (“Dodd-Frank”). It represents an act of good faith of a
+home country government to improve transparency. A provision on conflict minerals is
+contained in Section 1502 of the Act and imposes legal obligations with regard to due
+diligence measures by companies that trade on US Exchanges and are implicated in the
+supply-chains of tin, tantalum, tungsten and gold, the four main metals extracted from eastern
+Democratic Republic of Congo (DRC) or an adjoining country ores. Companies must report
+to the US Securities and Exchange Commission (SEC) on the due diligence conducted on the
+source and chain of custody of these ‘conflict minerals’, provide an independent audit of this
+report, and make further information available such as “description of the facilities used to
+process the minerals, country of origin and the efforts to determine the mine or location of
+origin with the greatest possible specificity.” All requested information must be published on
+the company’s website. The SEC’s rules on how to apply section 1502 of the Dodd-Frank
+Act were finalized on 22nd August 2012.
+The Dodd-Frank Act was introduced as a way of ensuring greater transparency. It is a
+forceful signal to all companies operating in the area that they have to be very transparent
+about their dealings regarding ‘conflict minerals’ in DRC and neighboring countries. One of
+the main criticism of the Dodd-Frank Act is that it has eliminated legitimate trade in the DRC
+and neighbouring countries, given that the burden placed upon the industry to comply to the
+Act has effectively acted as a de-facto embargo on minerals from the region.18
+Notwithstanding their good intention, in enacting legislative measures such as the Dodd-
+Frank Act, it is important that home countries have a complete understanding of the potential
+impacts (positive and negative) and unintended consequences of the implementation of these
+measures; deploy necessary resources to help host countries build the necessary capacity and
+enforce the measures, as well as alleviate the negative impacts.
+4.4 The Fairtrade and Fairmined (FT/FM) standard for gold from ASM
+The Fairtrade/Fairmined Standard ( FT/FM) was first published by the Alliance for
+Responsible Mining (ARM) and the Fairtrade Labelling Organization (FLO) in March 2010.
+The FT/FM) for artisanal gold allows gold to be judged as ‘sustainable’.
+17 OECD 2011c. In addition, Brazil, Malaysia and the 11 countries of the Great Lakes Region actively
+participated in the OECD-ICGLR joint consultation. The ICGLR endorsed the Guidance after the Nairobi
+meeting in September 2010. Please see OECD, 2010 for more details.
+18Weiss, Paul, “the Dodd-Frank Act Requirements Relating to Conflict Minerals and Mining and Resource
+Extraction Companies”, September 2010, http://www.paulweiss.com/files/upload/27Sep10CM.pdf.
+29
+
+The vision for FT/FM, in harmonization with that of the Alliance for Responsible Mining, is
+for “ASM to be a formalised, organised and profitable activity that is technologically
+efficient, socially and environmentally responsible; the sector’s development takes place
+within a framework of good governance, legality, participation and respect for diversity; it
+seeks to make an increasing contribution to improved workplace conditions, local
+development, poverty reduction and social justice within … countries, stimulated by growing
+consumer demand for sustainable minerals and ethical jewellery”.19 The Fairtrade and
+Fairmined standard gives miners clear guidance on what labour, organisational,
+environmental and traceability requirements they have to fulfil for their metals to be
+considered as Fairtrade and Fairmined. In return, the miners are guaranteed a fair price for
+their gold and they receive the Fairtrade premium of 10% (15% for Ecological Gold extracted
+without the use of toxic chemicals), which is to be reinvested in improving their businesses
+and social development. 20
+The FT/FM Standard is for use by artisanal and small-scale gold producers only and is
+presently only applicable to Latin America; however, programmes are being developed in
+Sub-Saharan Africa. Currently, mines in Peru, Colombia and Bolivia are certified with the
+FT/FM Standard. This includes sourcing from conflict-affected zones in Colombia. The
+FT/FM gold Standard “is designed to cover only existing, conflict free, community based,
+permanent and seasonal ASM.” While it was not expressly designed for carrying out chain of
+custody of conflict minerals supply chains, it does allow operators to work in conflict-
+affected areas provided they comply with minimum performance criteria relating to the
+principle that “the Standard will not support organizations involved with armed conflict in
+any way, including financing conflict or the use of revenue to engage in activities that
+facilitate the purchasing of arms.”21 It is expressly oriented at improving the development
+gains for communities where gold is mined artisanally.22 The ARM/FLO environmental
+standards are more rigorous than those of any other Standard oriented at ASM.
+Despite some critiques that the FT/FM standards are not detailed or comprehensive, it is
+vitally important to note that the FT/FM standard goes beyond any other standard that seeks
+to support artisanal and small-scale miners to mine in ways that is not only responsible but
+developmental. However, it is unlikely that a majority of artisanal gold miners will ever be
+able to achieve FT/FM certification as it sets a very high standard which requires
+formalization and enabling market and legal frameworks. That said efforts are emerging to
+support the Artisanal and Small-scale Gold Mining (AGSM) sector’s move towards models
+of production and trade that are closer to FT/FM’s performance criteria in a quest for
+continual improvement of the ASGM sector. ARM and FLO have ambitious plans to increase
+the supply of Fairtrade gold to 300 kg by the end of 2011, partly through trebling the number
+of certified producer organizations to nine. Gold miners in the DRC and the Great Lakes
+Region could soon be FT/FM certified, as ARM, Solidaridad and Fairtrade are working to
+bring miners in Kenya, Tanzania, Ghana and Uganda to compliance and exploring
+opportunities in Mongolia and West Africa. Whilst FT/FM gold is primarily available in the
+jewellery market, it is entirely conceivable that ICT sector companies that wished to promote
+the ethical credentials of a product might be permitted by FLO and ARM to use FT/FM gold
+in products and label them as such.
+19 The FairTrade Labelling Organization and the Alliance for Responsible Mining, 2010, p. 4
+20 Alliance for Responsible Mining. Annual report. 2010.
+21 ARM/FLO 2010.
+22 The Fair Trade Foundation and the Alliance for Responsible Mining, 2010. Fair Trade Foundation and
+Alliance for Responsible Mining, 2010, p. 12.
+30
+
+Depending on the partnership resource, market demand and opportunities to work with
+artisanal and small scale miners producing other products, ARM/FLO would consider
+development of additional standards beyond gold. Pending interest from the tin, tantalum and
+tungsten industry and the ICT sector, the development of FT/FM standards – and eventually
+mines and trading chains - for the 3Ts could be possible, especially further to ARM and the
+Fair Trade International Standards Unit’s recent announcement that the ARM/FLO standard
+will be undergoing review in 2012 with a specific objective of developing “a more generic
+system to facilitate standards development of ASM of other minerals in the future.”23
+4.5 The World Gold Council Conflict-free Gold (CFG) standard
+The World Gold Council (WGC) is the market development organization for the gold
+industry. Working within the investment, jewellery and technology sectors, as well as
+engaging in government affairs, the World Gold Council’s purpose is to provide industry
+leadership, whilst stimulating and sustaining demand for gold. Based in the UK with
+operations in India, the Far East, Europe and the US, the World Gold Council is an
+association whose 24 members comprise the world’s leading gold mining companies,
+representing about 70% of global corporate gold production. WGC wishes to contribute to the
+exclusion of gold that fuels conflict from the market whilst working from the premise that
+“disinvestment or withdrawal by responsible operators may make it more difficult to stabilise
+a conflict situation or to achieve post-conflict reconstruction”.24 The Conflict free gold
+standard is designed to be applicable to armed conflicts globally and responds both to the
+requirements of Section 1502 of the US Dodd-Frank Act and of the emerging OECD gold
+supplement to their Guidance on the Responsible Sourcing of Minerals from Conflict-
+Affected and High Risk Areas.
+4.5.1 Achievements25
+The World Gold Council published the Conflict-Free Gold Standard in October 2012, the
+culmination of almost three years work involving leading gold miners and refiners and an
+intensive and innovative consultative process across five continents and involving over 100
+stakeholder organisations. Two of the eight roundtables were held in Africa – one in
+Johannesburg under the auspices of the South African Institute of International Affairs and
+one in Dar-es-Salaam, Tanzania, jointly hosted with the ICGLR and GIZ. Thus, unlike with
+Dodd-Frank (and to an extent the OECD process) there has been substantive African
+involvement in developing the Standard. Moreover, unlike the US legislation, the Conflict-
+Free Gold Standard is global in scope rather than focusing on and, in the eyes of some,
+stigmatizing African minerals. It is early days to comment on success, since implementation
+will not start until January 2013. However, a significant achievement is the support that the
+World Gold Council and its Members have been able to secure for the Standard from
+governments, the gold supply chain and civil society. All have been involved in its
+development and have welcomed the Standard’s introduction, believing it to be credible and
+workable. The Standard is based on well-respected, international benchmarks like the UN
+Guiding Principles on Business and Human Rights.
+23 Fairtrade Labelling Organization and the Alliance for Reponsible Mining, 2012.
+24 Chatham House, 2011.
+25 Received from World Gold Council, Corporate Communications. December 2012.
+31
+
+Importantly, the Standard has not been developed in isolation from other initiatives but links
+with them. Notably, it is intended to act as an ‘industry programme’ to operationalise the
+OECD’s Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-
+Affected and High-Risk Areas, and it has been developed to ensure it is complementary to
+other industry-led initiatives, such as the London Bullion Market Association’s (LBMA’s)
+Responsible Gold Guidance. Thus the Standard is a means by which gold miners operating in
+a conflict-affected or high risk area can reassure local, national and international stakeholders
+that they are operating responsibly and provide the foundation for the due diligence that
+refiners will need to conduct on their gold supplies.
+4.5.2 Success criteria
+The key success criteria will be the progressive elimination from the supply chain of gold of
+gold that fuels conflict or funds illegal armed groups. By following the Standard, gold miners
+can assess their operations and provide assurance that they do not cause, support or benefit
+unlawful armed conflict, nor contribute to serious human rights abuses, or breaches of
+international humanitarian law. The Standard is designed to increase trust and transparency in
+the gold supply chain, and provides confidence that responsibly undertaken gold mining is an
+important source of social and economic development. Implementing companies will be
+required to report on their implementation and these disclosures will be subject to
+independent assurance. All of the World Gold Council Members have committed to the
+implementation of the Standard.
+Although the Standard is, in principle, available for use by any gold mining entity, in reality
+its requirements are likely to be challenging for most ASM groups. However, given the
+importance of mines working in the formal sector for newly-mined gold supply, being able to
+provide assurance that these large-scale operations are not fuelling conflict or funding illegal
+armed groups is a significant gain in maximising the proportion of gold production that can
+be shown to be ‘conflict free’. This may, in turn, help to underpin new investment since it is
+essential for any producer, looking to operate a mine in a high risk or conflict-affected zone,
+to be able to satisfy the due diligence requirements of downstream producers.
+4.5.3 Challenges
+The gold supply chain is uniquely complex and diverse, with gold mined in over 90
+countries, on a variety of scales from large professional mines, to small groups mining
+artisanally. Moreover, recycled gold accounts for over a third of global gold supply and has
+an important ongoing role to play in the gold supply chain. Gold’s high value and portability
+also make it susceptible to smuggling. This complexity brings challenges with it.
+Once gold is delivered to a refinery, the refiner will typically mix gold from a number of
+different sources, making it impossible thereafter to trace the source of specific
+consignments. Statements provided by the mine operator that demonstrate conformance with
+the Conflict-Free Gold Standard can be used by refiners as part of their due diligence
+practices. Refiners that know with certainty that all the gold entering the refinery can be
+shown to be ‘conflict-free’ can be assured that all gold leaving the refinery is ‘conflict-free’.
+This is the approach taken by the London Bullion Market Association’s Responsible Gold
+Guidance and other industry-led approaches that cover gold refiners.
+32
+
+All the initiatives to improve the traceability of gold and to require complex due diligence
+will also increasingly raise the bar which ASM producers will have to surmount if they are to
+continue to have access to the mainstream gold market. The danger exists that this production
+will increasingly be diverted in to informal or illegal channels. Which is why, in the case of
+the DRC, the World Gold Council is working with others through the Public-Partnership
+Alliance, to support projects to prevent the marginalisation of legitimate ASM producers and
+to promote increasing formalisation within a properly defined legal framework.
+4.6 The ITRI Tin Supply Chan Initiative (iTSCi)
+The ITRI Tin Supply Chan Initiative (iTSCi) is a joint initiative between ITRI and the
+Tantalum-Niobium International Study Centre (TIC). It was initiated in 2009 and first piloted
+in DRC (North and South Kivu) in 2010. It encompasses large, medium and small
+enterprises, co-operatives and artisanal mine sites. “It is designed for use by industry, but
+with oversight and clear roles for government officials.”26 It “takes into account the
+recommendations of the UN Security Council (UNSC), in particular the Group of Experts of
+the DRC (UNGoE) to expand due diligence to include criminal networks, as well as armed
+groups and to include violations of the asset freeze and travel ban on sanctioned individuals
+and entities.” iTSCi covers tin, tantalum and tungsten, but not gold and treats the OECD Due
+Diligence Guidance as one of its normative documents.
+iTSCi is a chain of custody and due diligence system that includes independent and third
+party risk assessment and independent third party audits for protection against human rights
+abuses including the worst forms of child labour.” iTSCi envisages including “additional
+social and environmental standards relating to the process and production methods for pre-
+smelter mineral extraction processing and trade … at a later stage.” iTSCi’s policy stresses
+that minerals mined in protected areas cannot be included in the scheme, without however
+offering a method of verification. A number of stakeholders has welcomed the scheme
+including public officials participating in its implementation as they were able to accomplish
+their tasks better due to the capacity and relationship building that is undertaken in the
+context of iTSCi.
+The positive impact of iTSCi is documented in the 2011 report of the UN GoE: “The
+Initiative has also helped to build Democratic Republic of the Congo Government capacity in
+the mining sector, to safeguard the livelihoods of miners at tagged mining sites and,
+according to some North Katanga civil society activists, to reduce corruption among State
+officials in the mining sector.” iTSCi works through the operationalization of three
+components: (1) Chain of custody tagging and monitoring of mineral origin, (2) Independent
+third-party risk assessment of mine sites, transportation routes, companies and the macro-
+level situation to identify and manage conflict-related risks, and (3) Independent third-party
+audit of all operators joining iTSCi, operators such as ASM who cannot become iTSCi
+members, and also the system data.
+26 ITRI, 2012. “itSCi”. [Webpage.]
+https://www.itri.co.uk/index.php?option=com_zoo&view=frontpage&Itemid
+33
+
+4.6.1 Challenges
+There is a gap between demand for iTSCi and the initiative’s capacity to rapidly scale up its
+operations. iTSCi identified in early 2011 that “limited funding, huge capacity building
+needs, the geographical and logistical challenge posed by the location of mine sites, the
+inadequacy of local infrastructure (e.g. electricity and telephone black-outs) in DRC” as the
+major constraints. iTSCi is the programme preferred by upstream supply chain actors in that
+it provides a Chain of Custody assurance of the 3Ts in line with what is required under the
+OECD Diligence Guidance and initiatives such as the CFS for the ASM sector. However,
+until iTSCi is able to expand throughout the entire region, or the ICGLR’s Regional
+Certification Mechanism (RCM) is properly rolled out, tin, tantalum and tungsten miners
+around the Great Lakes Region will have few options but to market their minerals either for
+far inferior prices to buyers whose downstream supply chain is not oriented at countries
+requiring supply chain due diligence, or through fraud and smuggling.
+iTSCi’s development has been overseen by international actors, but local actors such as
+comptoir and negociant associations and local, provincial and national authorities have had
+important roles in determining how it would work. Local organizations are responsible for
+implementation in DRC and in Rwanda with Pact (an iNGO) and Channel Research (iTSCi’s
+independent third-party Risk Assessor and Auditor) providing support. Government officials
+have an important role in the process in that they are the ones carrying out the tagging, and
+logging of the data. Local and provincial level stakeholder committees (comités de pilotage)
+also have major roles to ensure that the initiative is implemented in a way that is sustainable
+and realistic taking into consideration the operating environment.
+4.7 BGR’s Certified Trading Chains (CTC) and analytical fingerprint
+technology
+The Certified Trading Chains (CTC) scheme of the German Federal Institute for Geosciences
+and Natural Resources (BGR) was developed in 2008 and then piloted at a number of larger
+mines in Rwanda in September 2009 by BGR and the Rwanda Geology and Mines Authority.
+Mine sites certified as “CTC-compliant” under the CTC scheme can be judged as ‘ethical’
+and towards ‘sustainable.’ It is more in keeping with triple bottom line expectations because
+it incorporates more social and environmental considerations than the OECD Due Diligence
+Guidance or iTSCi. The CTC system is government led, in cooperation with national
+authorities, Rwanda and DRC. The process has involved input from multiple stakeholder
+groups, bringing perspectives from different geographies, scales, supply chain tiers and
+sectors. CTC can be applied to tin, tantalum, tungsten and gold supply chains and is presently
+being implemented only in Rwanda and DRC under a co operation agreement between each
+of these governments and the government of Germany.
+CTC aims to improve “supply chain due diligence and good governance in the artisanal and
+small-scale mining sector” in Rwanda and DRC. CTC contains “twenty certification
+standards on mineral origin and traceability, mining conditions, and supply chain due
+diligence elements based on OECD and other integrity instruments, adapted to practical
+applicability within the central African ASM”. 27
+27 BGR, 2011a, p. 1.
+34
+
+Whereas iTSCi, the OECD Due Diligence Guidance and Conflict-free Smelter are concerned
+with chain of custody and risk management of the most serious human rights abuses and
+benefits to illegal armed groups, CTC also considers labour and working conditions, the
+behaviour of security forces, community consultation and development and environmental
+protection.
+BGR has also developed an analytical fingerprint (AFP) technology that is “a combination of
+analytical evaluation methods to independently track the origin of tantalum (coltan) ore
+concentrates produced in Central Africa.”This analytical fingerprint is an optional exercise to
+verify chain of custody and is envisaged to be integrated into the International Conference on
+the Great Lakes’ Region’s (ICGLR) Regional Certification Mechanism (RCM). The AFP is
+very useful for downstream users who wish to confirm that their minerals are conflict-free as
+it allows for positive mineralogical confirmation of origin for mines where BGR has been
+able to gain a sample. However, the cost of using the technology means its application is
+intended for extraordinary circumstances, rather than as a normal course of action.
+BGR has worked closely with ICGLR to incorporate CTC and AFP into their Regional
+Certification Mechanism. This means that all mineral supply chains across the Great Lakes
+Region for the 3TG will need to conform to CTC standards embedded in RCM and classified
+as red or yellow flag indicators by ICGLR, if they are to receive ICGLR export certificate.
+However, other CTC standards (on environment, working conditions and community
+development) have been classified as “Progress Criteria” by ICGLR and will hence simply be
+monitored, rather than enforced through ICGLR RCM. According to BGR, three CTC
+compliant mines in Rwanda will be part of an ICGLR pilot in 2012.
+4.8 Conflict-Free Smelter Program (CFS)
+The Conflict-Free Smelter Program (CFS) “is a voluntary program in which an independent
+third party evaluates a smelter’s procurement activities and determines if the smelter
+demonstrated that all the materials they processed originated from DRC conflict-free
+sources.”28 The CFS was developed by the Electronic Industry Citizenship Coalition (EICC)
+and the Global e- Sustainability Initiative (GeSI) in 2009. The CFS is global in scope, and
+can be applied to smelters and refiners all over the world. The CFS is being progressively
+implemented across tin, tantalum, tungsten and gold smelters and refiners, and some
+supportive documents are in development. CFS audits have already been conducted.
+It is primarily an audit that verifies the origin of a smelter’s input streams and includes a mass
+balance calculation to ensure inputs, outputs and stocks balance (taking into account a 10%
+margin for loss/gain of mass). Where the minerals have been sourced from or passed through
+specific countries (e.g., those of the Great Lakes Region or where there is evidence of
+smuggling or transit of conflict mineral), the CFS auditor must verify that the smelter or
+refiner demonstrates they conform to the OECD Due Diligence Guidance, and that the
+smelter has suitably responded to any identified risk that the minerals may have contributed
+to conflict in DRC.
+28 EICC and GeSI, 2011c. EICC®-GeSI Conflict-Free Smelter (CFS) tools and resources.
+www.conflictfreesmelter.org/.
+35
+
+Smelters can show conformance with the OECD Due Diligence Guidance either by
+individually having their sources assessed against the Guidance by an independent third party
+or by using an assessed-conformance scheme, such as iTSCi, to do this for them.
+The CFS seeks to provide companies with a method to comply with the Dodd-Frank Act. The
+CFS interprets Dodd Frank Act requirements in a conservative manner to work with the
+scenario that the SEC is working in absolute to deliver ‘conflict-free’ minerals rather than
+‘conflict-managed’ ones. Consequently, in so far as the OECD is not yet aligned with the
+Dodd-Frank Act, there remain issues of compliance to the Dodd-Frank Act that are not
+compatible with the OECD Due Diligence Guidance, thus preventing full harmony.
+4.9 The Extractive Industries Transparency Initiative (EITI)
+The negative impacts of resource abundance on growth and sustainable development in
+general have been dealt with in depth and width in academia, policy circles and increasingly
+also in civil society campaigns since Auty presented the resource curse thesis in 1993. In
+parallel, transparency and the notion of multi-stakeholder governance have evolved to global
+norms setting the normative context of the Extractive Industries Transparency Initiative
+(EITI). The EITI was announced 2002 by the British government at the World Summit on
+Sustainable Development in Johannesburg. The EITI sets a standard for transparency
+requiring its participants to disclose revenues generated in oil, gas and mining. This applies
+both to the operating companies’ payments to national governments as well as to
+governments’ revenues received from the respective extractive industries. The two data sets
+can then be compared and assessed in terms of their congruity588. Revealing discrepancies in
+the numbers identify possible corruption. By eliminating traditional obscurity in financial
+transactions in the oil, gas and mining sector the EITI seeks to deprive public officials and
+private business of the possibility to further engage in corrupt practices. Subsequently – in
+theory – financial resources that would have been wasted through non transparent avenues
+and acts of corruption now can potentially be used to enhance sustainable development.
+It is not easy to capture fully the impact of EITI. The potential of transparency as an
+instrument to reduce corruption has been subject to debate. The EITI not only emerged in
+parallel to other sustainability governance schemes in the mineral resource sector such as the
+Kimberley Process Certification Scheme. The Kimberley Process initially even served as a
+blueprint when designing the EITI. The EITI differs from the Kimberley Process in the sense
+that the EITI targets developmental objectives beyond purely security related issues.
+The EITI, which was launched in 2002, aims to strengthen governance by improving
+transparency and accountability in the extractive sector. The EITI is a coalition of
+governments, companies, civil society groups, investors and international organizations. EITI
+developed a standard for monitoring which is verified through a validation process. EITI is a
+voluntary process and EITI compliance is monitored by the global civil society coalition
+Publish What You Pay (PWYP). PWYP campaigns for transparency in the payment, receipt
+and management of revenues from the oil, gas and mining industries.
+36
+
+Opinions expressed by a number of stakeholders suggest that the EITI has had a positive
+impact. According to the EITI Secretariat, in Liberia, EITI is seen as a strong indication that
+the government is committed to accountability and through the EITI process suspicion and
+mistrust are being reduced. In Nigeria, EITI is perceived as both an instigator of civic
+interrogation of public servants and as curbing social unrest as it directed youthful energies
+from resorting to violence to engaging in public debate. In Cameroon, it has helped improve
+the management and monitoring capacity of the relevant government agencies and in Gabon,
+it has provided a platform for civil society to point at challenges in the development and
+management of natural resources. In Ghana, it has helped local communities to engage with
+companies involved in natural resource extraction.29
+However, governance indicators do not show a clear improvement in EITI countries as
+opposed to non-EITI countries for corruption perception, while there is improvement in
+business climate and voice and accountability.30
+29 EITI, 2010, Impact of EITI in Africa: Stories from the ground’ EITI Secretariat.
+http://eiti.org/files/EITI%20Impact%20in%20Africa.pdf.
+30 Aaronson S., 2008, ‘Can Transparency in Extractive Industries Break the Resource Curse?’ VoxEU.org
+http://voxeu.org/index.php?q=node/1395.
+37
+
+5 CONCLUSION AND WAY FORWARD
+Certification Main features Main implementers Good practices
+mechanism/
+Initiative
+1. ICGLR RCM 1. Chain of custody tracking from 1. Member States; Burden of proof falls primarily
+mine site to export. 2. ICGLR ; harmonized with on exporters, secondly on
+2. Regional tracking of mineral flows national-level Governments, in order to
+via ICGLR database. databases; place less
+3. Regular independent third-party 3. An ICGLR- demands on resource-
+audits. supported/sanctioned tripartite stretched governments in the
+4. Independent mineral chain auditor Audit Committee oversees the GLR; Mandatory third-party
+(IMCA). region’s audits audits,
+(pool of accredited auditors; applying the trust, but check
+ToRs for audits; receives and principle; Adapt current
+reviews audit reports, etc.); systems
+4. IMCA political backing and ; and 5) Design for
+admin support of ICGLR, but adaptability, so that
+independent the mechanism stays present
+with time and incorporates
+relevant and best practice
+standards as much as possible
+2. Kimberley Multi-partner initiative (Government, Governments tripartite approach;
+Process CSOs, Industry) Can only trade with another
+Primarily addressing conflict KP member; evolving;
+diamonds
+3. OECD Due 5 steps: Companies (upstream and Enhance transparency in the
+Diligence 1. Management systems, downstream) entire supply chain
+Guidance 2. Risk assessment,
+3. Risk mitigation,
+4. Independent third-party audits,
+5. Annual reporting.
+4. Dodd-Frank Act Section 1502 Imposes legal Companies registered with SEC Ensuring greater transparency
+obligations on due diligence on dealings with conflict
+measures on companies that trade on minerals emanating DRC and
+US exchanges for the 3TGs from DRC neighbouring countries
+and adjoining countries
+5. FairTrade/ Fair Allows artisanal gold to be labelled ASM Rigorous environmental
+Mined ASM Gold ‘sustainable’’; labour, organisational, standards; oriented towards
+environmental and traceability improving development gains
+requirements for ASM communities
+6. World Gold 1. Supports responsible mining WGC members and other substantive African
+Council’s Conflict practices.198 companies involved in the involvement in developing the
+Free Gold 2. Oriented at complying with Section extraction of gold. Standard; is global in scope
+1502 of DFA. rather than focusing on
+standard
+3. In line with the OECD DDG, African minerals; links with
+standards in development on how other industry led initiatives
+companies should (OECD Guidance, etc)
+commission a third-party audit and
+handle recycled gold.
+7. ITRI’s iTSCi 1. Combined tracking/tracing Upstream companies (from Government officials are the
+(through bag tagging, documentation, mine to smelter) and national ones carrying out the tagging,
+38
+
+and data management governments supported by iTSCi and logging of the data. Local
+and analysis), Programme Operators. and provincial level
+2. Independent third-party risk stakeholder committees also
+assessment, have major roles to ensure
+3. Independent third-party audits, that the initiative is
+4. Publication of findings of risk implemented in a way that is
+assessments and audits sustainable and realistic
+8. BGR’s Certified Third party assurance of “trading Mining companies with Includes 5 principles:
+Trading Chains chain traceability, transparency, and government support traceability; fair working
+the ethical quality of conditions, Security and
+mineral production” human rights; community
+Standards organized into 5 universal development; environment.
+principles but to be customized to the Development of the Analytical
+particularities of different national Fingerprinting technology
+contexts.
+9. Conflict free CFS is an audit that does: Primary and Secondary Smelters Downstream entities – from
+Smelter program 1) Material analysis 2) Business and Refiners local exporter to End user
+(CFS) process review (demonstration of
+management systems, e.g., conflict
+minerals policy, 100% documentation
+of chain of custody; and reasonable
+identification of origin).
+10.EITI Coalition of governments, civil Governments and Companies Improved governance through
+society, investors, industry capacity building ,
+representatives and international management and monitoring;
+organisations; civic engagement in natural
+Has a monitoring system; resource management;
+Concentrates on revenue flows engagement of local
+communities and mining
+companies
+As can be seen from this table, while the ICGLR RINR has positively built on other existing
+mechanisms and has for the most part incorporated some of the lessons learned, it can still
+draw from the best practices of other initiatives. To address sustainable development issues, it
+should for instance integrate the CTC scheme and the FT/MN which have higher
+environmental and working conditions standards, like it is already doing with CTC but
+extended to all countries of the ICGLR.
+The tripartite approach pioneered by the Kimberley process is also a good practice to emulate
+and the ICGLR RINR should use CSOs more systematically. In that regard, the set up of a
+whistle blowing mechanisms where CSOs will play a big role is a welcome initiative that we
+think will be very successful if handled well.
+A way forward for ICGLR RINR will be to review its operational structure and undertake
+some recalibrating and retooling including developing and increasing capacity at all levels to
+address the challenges of actually implementing some of the activities on the ground; have a
+strategy and a clear action plan how to use the resources allocated from the various donors to
+enable better coordination; seriously consider self financing schemes to have stronger
+ownership of the Initiative and for its sustainability; continue working very closely with
+already existing mechanisms and proactively integrate them into the Initiative to avoid
+39
+
+duplication of efforts and resources and to surmount the perceived ‘’certification fatigue’’
+from a number of stakeholders; and substantially improve communication on the RINR to
+make it an internationally renowned initiative like the Kimberley Process and the EITI. More
+specifically, the ICGLR should give more importance to the RINR; it should hasten
+implementation of its tools with the countries that are already ready, i.e. it should keep things
+moving forward with available resources; it should quickly set up the function of the
+Independent Mineral Certification Auditor as it is its novelty and will also be used for the
+review of data assembled by the ICGLR database; and finally accelerate the rate of
+communication with the member States and acquire a means to regularly communicate with
+them at the national level.
+40
+
+6 REFERENCES
+Aaronson S., 2008, ‘Can Transparency in Extractive Industries Break the Resource Curse?’
+VoxEU.org http://voxeu.org/index.php?q=node/1395.
+Alliance for Responsible Mining. Annual report. 2010.
+Alliance for Responsible Mining, 2010. Fairtrade and Fairmined Gold: Information for
+business and designers. At www.fairtrade.org.uk/press_office/default.aspx.
+Alliance for Responsible Mining, 2011. About us.
+www.communitymining.org/index.php/en/about-us.
+A.T. Kearney. 2012. Conflict Minerals: Yet Another Supply Chain Challenge. June.
+http://www.atkearney.com/paper/-/asset_publisher/dVxv4Hz2h8bS/content/conflict-minerals-
+yet-another-supply-chain-challenge/10192.
+BGR, 2010. Analytical fingerprint (AFP) for tantalum (“coltan”), tin, and tungsten ores.
+www.bgr.bund.de/EN/Themen/Min_rohstoffe/CTC/Downloads/AFP_update.pdf?__blob=pu
+blicationFile&v=2.
+BGR, 2011a: Newsletter 03/2011: Mineral certification: Certified Trading Chains (CTC) and
+the Analytical Fingerprint (AFP).
+www.bgr.bund.de/EN/Themen/Min_rohstoffe/CTC/Downloads/newsletter_03_2011.html?nn
+=1572670
+BGR, 2011b. The Certified Trading Chains certification system. node_en.html,.
+Blore, Shawn and Smilie, Ian. 2010. An ICGLR-based tracking and certification for minerals
+based in the Great Lakes Region of Central Africa. March.
+Blore, Shawn and Ian Smillie, 2011. Taming the Resource Curse: Implementing the ICGLR
+Certification Mechanism for conflict-prone minerals. Partnership Africa Canada.
+www.pacweb.org/Documents/icglr/PAC_Report_on_ICGLR_RCM-03-2011-eng.pdf.
+Chatham House, 2011. World Gold Council: Conflict-free Gold Standards. Stakeholder
+Consultative Round Table, Chatham House. 15 September 2011. London: Chatham House.
+EICC and GeSI, 2011c. EICC®-GeSI Conflict-Free Smelter (CFS) tools and resources.
+www.conflictfreesmelter.org/.
+41
+
+EITI, 2010, Impact of EITI in Africa: Stories from the ground’ EITI Secretariat.
+http://eiti.org/files/EITI%20Impact%20in%20Africa.pdf.
+Fairtrade Foundation, 2012. Fairtrade Foundation to certify African gold. 13 March 2012.
+Retrieved from:
+www.fairtrade.org.uk/press_office/press_releases_and_statements/march_2012/fairtrade_fou
+ndation_to_certify_african_gold.aspx
+Fairtrade Foundation and ARM, 2011. World’s first fairtrade and fairmined certified gold to
+tackle poverty faced by miners and their families. [press release.] 14 February 2011.
+www.fairtrade.org.uk/press_office/press_releases_and_statements/february_2011/worlds_firs
+t_fairtrade_and_fairmined_certified_gold_to_tackle_poverty_faced_by_miners_and_their_fa
+milies.aspx.
+Fairtrade Labelling Organization and the Alliance for Responsible Mining, 2010.Fairtrade
+and Fairmined Standard for Gold from Artisanal and Small-scale Mining, Including
+Associated Precious Metals. 15 March 2010.
+Fairtrade Labelling Organization, 2011. Fairtrade Trade Standard, Version 01.05.2011.
+www.fairtrade.net/fileadmin/user_upload/content/2011-12-29_GTS_EN.pdf.
+Global Witness, 2006, ‘An Independent Commissioned Review Evaluating the Effectiveness
+of the Kimberley Process’, Global Witness
+http://www.globalwitness.org/media_library_get.php/272/1277890630/GW%20Commissione
+d%20Report%20on%20KP.pdf.
+Global Witness, 2011 Congo’s minerals trade in the balance Opportunities and obstacles to
+demilitarisation
+www.globalwitness.org/sites/default/files/library/Congo's%20minerals%20trade%20in%20th
+e%20balance%20low%20res.pdf
+International Conference on the Great Lakes Region. 2006. Pact on Security, Stability and
+Development in the Great Lakes Region. December.
+https://icglr.org/IMG/pdf/Pact_on_Security_Stability_Development-S.pdf
+International Conference on the Great Lakes Region. 2009. Constitutive Meeting of the
+Committee against the illegal exploitation of natural resources. October.
+International Conference on the Great Lakes Region. 2010. Second Meeting of the Steering
+Committee of the Regional Initiative against the Illegal Exploitation of Natural Resources.
+April.
+International Conference on the Great Lakes Region. 2010. Third Meeting of the Steering
+Committee of the Regional Initiative against the Illegal Exploitation of Natural Resources.
+September.
+42
+
+International Conference on the Great Lakes Region. 2011. Fourth Meeting of the Steering
+Committee of the Regional Initiative against the Illegal Exploitation of Natural Resources.
+April.
+International Conference on the Great Lakes Region. 2011. Fifth Meeting of the Steering
+Committee of the Regional Initiative against the Illegal Exploitation of Natural Resources.
+November.
+International Conference on the Great Lakes Region. 2012. Sixth Meeting of the Steering
+Committee of the Regional Initiative against the Illegal Exploitation of Natural Resources.
+May.
+International Conference on the Great Lakes Region – The Six Tools of the RINR. Retrieved
+https://icglr.org/IMG/pdf/THE_SIX_TOOLS_OF_THE_RINR.pdf
+International Conference on the Great Lakes Region The ICGLR Regional Initiative against
+the Illegal Exploitation of Natural Resources (RINR) Illegal Exploitation of Natural
+Resources in the Great Lakes Region Retrieved from https://icglr.org/spip.php?article94
+International Crisis Group, 2001. Scramble for the Congo, Anatomy of an ugly war.
+International Telecommunications Union (ITU). 2012. Greening ICT supply chains –
+Survey on conflict minerals due diligence initiatives. March.
+ITRI, 2012. “itSCi”. [Webpage.]
+https://www.itri.co.uk/index.php?option=com_zoo&view=frontpage&Itemid=60.
+Moore, Brigit. 2011. The Kimberley Process: An Evaluation of its Effectiveness and an
+Assessment of its Replicability in the Democratic Republic of the Congo. American
+University. http://www.american.edu/sis/ipcr/upload/THE-KIMBERLEY-PROCESS-An-
+Evaluation-of-its-Effectiveness-and-an-Assessment-of-its-Replicability-in-the-DRC.pdf.
+OECD, 2010. “ICGLR-OECD Consultation on responsible supply chain management of
+conflict minerals.” 29-30 September 2010 – Nairobi, Kenya. [webpage.]
+www.oecd.org/document/41/0,3746,en_2649_34889_45793897_1_1_1_1,00.html.
+OECD, 2011a. OECD OECD Due Diligence Guidance For Responsible Supply Chains of
+Minerals from Conflict- Affected and High-Risk Areas, OECD Publishing.
+http://dx.doi.org/10.1787/9789264111110-en.
+OECD 2011b. OECD guidelines for multinational enterprises. Paris: OECD.
+OECD, 2011c. Upstream pilot implementation of the OECD Due Diligence Guidance For
+Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas:
+Baseline Report on the Supplement on Tin, Tantalum, and Tungsten.
+www.oecd.org/dataoecd/34/48/49079882.pdf
+OECD, 2011d. Downstream pilot implementation of the OECD Due Diligence Guidance for
+Responsible Supply chains of minerals from Conflict-Affected and High-Risk Areas. Baseline
+43
+
+Report on the Supplement on Tin, Tantalum, and Tungsten. Retrieved on 17 December 2011
+from www.oecd.org/dataoecd/34/48/49079882.pdf.
+OECD, 2011e. OECD Work on Conflict-Free Mineral Supply Chain & the U.S. Dodd Frank
+Act. www.oecd.org/dataoecd/56/59/48889405.pdf.
+OECD, 2012. OECD Due Diligence Guidance for Responsible Supply Chains of Minerals
+from Conflict-Affected and High-Risk Areas: Supplement on Gold.”
+http://www.oecd.org/document/60/0,3746,en_2649_34893_49137660_1_1_1_1,00.h
+tml.
+Report of the Panel of Experts on the Illegal Exploitation of Natural Resources and Other
+Forms of Wealth in the Democratic Republic of Congo, S/2003/1027., October 23, 2003.
+Resolve, 2010a. Tracing a path forward - A study of the challenges of the supply chain for
+target metals used in electronics.
+http://eiccgesi.resolv.wikispaces.net/Tracing+a+Path+Forward+-
++A+Study+of+the+Challenges+of+the+Supply+Chain+for+Target+Metals+Used+in+Electro
+nics
+Resolve, 2010b. Tracing conflict-free minerals” [webpage]. Dated 6 April 2010. Retrieved
+www.resolv.org/blog/tracing-conflict-free-minerals/
+The OECD Due Diligence Guidelines for Responsible Supply Chains of Minerals from
+Conflict-Afflicted and High Risk Areas,
+http://www.oecd.org/document/36/0,3746,en_2649_34889_44307940_1_1_1_1,00.html.
+U.N. General Assembly, 64th Session. Resolution adopted by the General Assembly. 64/109
+The role of diamonds in fuelling conflict: breaking the link between the illicit transaction of
+rough diamonds and armed conflict as a contribution to prevention and settlement of conflicts
+(A/RES/64/109) http://www.un.org/depts/dhl/resguide/r64.shtml.
+United Nations Security Council, 2003-2005. Repertoire of the practice of the Security
+Council Supplement 2000-2003. Chapter V: Subsidiary organs of the Security Council.
+Retrieved on 18 December 2011 from
+www.un.org/en/sc/repertoire/00-03/00-03_05.pdf#page=26.
+US Congress, 2010. Dodd-Frank Wall Street Reform and Consumer Protection Act.
+www.sec.gov/about/laws/wallstreetreform-cpa.pdf.
+Vircoulon, Thierry, 2011b. Behind the problem of conflict minerals in DR Congo:
+Governance. For International Crisis Group. www.crisisgroup.org/en/regions/africa/central-
+africa/dr-congo/behind-the-problem-of-conflictminerals- in-dr-congo-governance.aspx.
+Vodafone, 2012. Conflict Minerals.
+www.vodafone.com/content/index/about/sustainability/being_responsibleethicalandhonest/re
+sponsible_supplychain/conflict_minerals.html .
+Weiss, Paul, “the Dodd-Frank Act Requirements Relating to Conflict Minerals and Mining
+and Resource Extraction Companies”, September 2010,
+44
+
+http://www.paulweiss.com/files/upload/27Sep10CM.pdf.
+World Gold Council, 2012 “Conflict-free standards.” [Webpage].
+www.gold.org/about_gold/sustainability/conflict_free_standards/.
+45
+
+7 ANNEX 1- IMPLEMENTATION OF THE 6 TOOLS- COUNTRY BY COUNTRY ANALYSIS
+Mineral Harmonization of Creation of an Whistle EITI Formalisation of
+Certification and national information blowing ASM
+traceability scheme policies/domesticati exchange system mechani
+on of the Protocol (Regional database) sm
+Burundi A new Mining Code is Burundi has transmitted The EITI process has Conduct of
+being finalized and takes data to the ICGLR been initiated Sensitization and
+into consideration the Secretariat to feed into the through the 2nd information missions
+ICGLR Protocol and the database. (Apr 2011) vice-presidency for artisanal miners
+project of model law (April office (Apr 2011) (April 2011)
+2011) -A map of the
+A ministerial ordinance on artisanal sites in the
+certification is in effect country is
+since March 2011 available.(April
+-The ICGLR National 2011)
+Coordination Mechanism Sensitizations
+has committed an workshops were also
+independent study to organised with
+ensure that the Protocol s artisanal miners in
+has sufficiently been taken Ngozi, Cibitoke and
+into account in the Mabayi (Nov 2011)
+elaboration of the Mining 35 cooperatives
+Code. have been created
+and recognized.
+Central The CAR has passed a The CAR handed in to In line the compliance of Artisanal miners are
+African revision of its Mining Code ICGLR the statistics with the the CAR with the EITI being organized in
+Republic gathered on gold and set-up of a standards has been cooperatives.
+diamond. The statistics of whistle- confirmed. The CAR has
+(CAR)
+2009 have also been made blowing (Apr2011) established a
+available. mechanis management
+46
+
+m, the unit tasked with the
+mineral mapping of artisanal
+brigades mines and map
+have been digitalisation
+strengthen
+ed in order
+to better
+deal with
+illegal
+exploitatio
+n of
+natural
+resources.
+Rep of has developed a The drafting of an In regards to the database, In the EITI process, the counting of
+Congo certification template ordinance for the the Republic of Congo the Republic of artisanal miners and
+and conducted a study, in implementation of the plans to cooperate with Congo has made a the subsequent
+partnership ICGLR Protocol on the BGR to develop a country lot of progress: it has establishment of
+with UNDP, to identify Fight against mine sites map. produced its cooperatives are
+the capacity Illegal Exploitation of third EITI report for planned.
+requirements for Natural Resources is in 2010 and will soon There will also be a
+certification. progress. (Nov 2011) publish the fourth capacity building
+The introduction of the one by August 2011. programme for ASM
+RCM on the other side with World Bank and
+has been delayed UNDP.
+DRC The DRC has developed a For the legal The DRC has shared The DRC is also the creation of
+strategy in 4 steps: harmonisation, contact statistical data with the working on artisanal
+1. Assessment of mine has been taken with ICGLR Secretariat compliance with EITI exploitation zones is
+sites in security terms Forum of standards. The ongoing as the
+and mapping on the basis Parliamentarians. DRC has stated it has second EITI report creation of ASM
+of this information; already transmitted data will include cooperatives. At this
+2. Traceability; As for the harmonisation, many times to ICGLR the comptoirs and end, Promines
+3. Stakeholder it will depend on the draft Secretariat. In order to the cassiterite project will give
+engagement and drawn by ICGLR, as the avoid lack of data issue, production. support to
+monitoring & evaluation; government is currently data on mine sites such as The DRC reported Saesscam.
+4. Coordination. revising large parts of the those under Ministry and that the overall Maniema is the next
+The system of mineral mining legislation. those of Katanga have minerals’ production targeted province
+47
+
+traceability is being been given. Additionally, is expected to under the
+implemented in several data on production, decrease due to the traceability scheme
+mineral territories of the producers with license and international and Nyabibwe site at
+country in collaboration GPS pressure. South Kivu whose
+with coordinates of sites have labelling operation
+ITRI. (Nov 2011) also been given to the the second EITI will be financed by
+No untagged mineral ICGLR Secretariat. report for 2008 and the New Kingdom of
+shall leave the country 2009 period has the
+and already over 90% of been validated. Netherlands.
+mineral exports are
+tagged in the province of
+Katanga. Additionally, in
+order to deal with
+smuggling and issues on
+traceability, pilot
+committees are being set
+up to control if mining
+operators comply with
+the ICGLR
+certification manual and
+OECD due diligence
+scheme. The first regional
+certificate is supposed to
+be
+issued soon. (May 2012)
+Kenya Kenya is currently formalisation was
+implementing its new addressed by
+constitution and the holding a
+revision exercise of the stakeholder’s
+Mineral and Mining bill is meeting to sensitize
+at cabinet level. and
+The situation complicates encourage the
+the implementation of the artisanal miners to
+six tools in their case. The work in
+timings are cooperatives.
+not in resonance.
+48
+
+Zambia Zambia is in the process Zambia has adhered
+of collecting mineral to the EITI process.
+samples in order to The first report was
+establish the published in January
+fingerprinting system. 2011.
+This process is however After the review of
+hindered by a lack of its next
+trained personnel which report, it is expected
+requires the CS’ that Zambia
+assistance in capacity becomes fully
+building. compliant.
+To bring forward the
+RCM, the South African
+company MET TRACK has
+been contracted. In
+June, a trial run shall start
+in a cassiterite mine.
+Uganda The Uganda mining act is A database system on Uganda The promotion of
+being reviewed and will be artisanal mines was put in passed a the formalisation of
+enacted soon (Nov 2011) place and is operational. whistle- small-scale mining
+Uganda has submitted blowing resulted in the
+data to the regional protection creation of 18
+database. law that cooperatives.
+For the regional database, will Artisanal small-scale
+the new system ICGLR support miners were trained
+template is being used, the and cooperatives
+but understaffing prevents implement were given grants
+faster progress ation of The formalisation
+the process is going on
+whistle- and some artisanal
+blowing miners have
+mechanis acquired their
+m. license as a first
+result.
+Rwanda Since December 2010, In regards to the
+49
+
+Rwanda is implementing EITI, Rwanda
+the iTSCi traceability reported that a
+scheme with 8 consultant has been
+companies and exporters recruited to prepare
+operating in the country. recommendations in
+78 people were hired to view of Rwanda´s
+specifically deal with the participation in this
+mineral tagging system initiative.
+and ensure that
+governmental
+representatives are
+present at every
+producing entity.
+Currently, 80 to 90% of
+the production is tagged.
+Rwanda is also
+implementing the
+Certified Trading Chains
+(CTC) project. In this
+framework, 4 companies
+were subjected to
+external auditing, which
+led to the certification of
+2 companies. Following
+the ministerial decree
+passed in March 2011 ,
+all minerals imported to
+Rwanda have to be
+traceable.
+In order to comply with
+the ITRI scheme, more
+than one hundred people
+were recruited.
+In terms of cooperation
+with other countries,
+Rwanda has recently
+50
+
+(Nov 2011) handed back
+81.34 tonnes of
+cassiterite and coltan to
+the DRC, where it was
+originating from.
+Tanzania Tanzania has adopted a A team dedicated to For the database, two Tanzania is in the 69 cooperatives
+new Mining Act, Tanzania review regulations was statisticians have been process of have been formed.
+is going to introduce a formed in April 2012. recruited by the Ministry completing the
+certificate of origin for Tanzania recently to deal with compilation of remaining five For the ASM sector,
+tanzanite. This avenue reviewed its mining Act, minerals data and one of criteria before it is the legal framework
+will be used to introduce so harmonization cannot them has been designated admitted as which recognises
+certification of the 4 be done immediately to link with ICGLR Compliant Member ASM as legitimate
+selected minerals in the and shall await the next Secretariat and is of EITI. They are activities is already
+framework of the ICGLR review. expecting directions from currently compiling in place. The
+RCM the ICGLR Secretariat. the second EITI remaining challenge
+Tanzania will issue its Report which will in formalization is
+first certificate by the address the the demarcation of
+end of 2013 remaining five mining sites, as the
+criteria. latter are spread all
+over the country,
+and working in other
+peoples areas.
+------------------------------------------
+51

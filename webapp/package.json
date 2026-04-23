@@ -5,29 +5,33 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:all": "concurrently -n \"API,Vite\" -c \"cyan,magenta\" \"node server/chat.js\" \"vite\"",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.90.0",
     "@deck.gl/aggregation-layers": "^9.3.1",
     "@deck.gl/core": "^9.3.1",
     "@deck.gl/extensions": "^9.3.1",
     "@deck.gl/layers": "^9.3.1",
     "@deck.gl/mapbox": "^9.3.1",
     "deck.gl": "^9.3.1",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
     "fuse.js": "^7.3.0",
     "leaflet": "^1.9.4",
     "maplibre-gl": "^5.23.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-leaflet": "^4.2.1",
-    "recharts": "^2.12.7",
     "supercluster": "^8.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.1",
+    "concurrently": "^9.2.1",
     "vite": "^5.3.4"
   }
 }

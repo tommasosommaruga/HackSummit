@@ -1,0 +1,2400 @@
+Illicit Financial Flows: Concepts,
+Measurement, and Evidence
+Matthew Collin
+Thereisagrowingconsensusthatthepresenceof illegalandharmfulcross-borderfinancial
+flows is one of the factors impeding economic and human development. In recent years, a
+newconceptualframeworkfordescribingthese“illicit”financialflows(IFFs)hasemerged
+thatcombinesissuesrangingfromcross-bordermoneylaunderingtotaxevasion.Thisar-
+ticlesummarizesandclarifiesrecentempiricalworkinthisarea.Threetypesof studiesare
+considered and critiqued: (i) methods of measuring IFFs, (ii) constructed risk indicators,
+and(iii)forensicstudiesthataimtouncoverinstanceswhereillicitflowshaveoccurred.The
+articlediscussesthelimitationsof allthreeapproachesandproposeswaysinwhichthere-
+searchagendaonIFFscouldbereasonablyadvanced,giventhehiddennatureof thesubject.
+JELCodes:K42,H26
+Keywords:illicitfinancialflows,taxevasion,moneylaundering.
+1 Introduction
+Severaltrilliondollarscrossinternationalborderseveryday(Mallaby2016).Much
+of thismovementisperfectlylegitimate,partof theordinaryworkingsof theglobal
+financialsystem.Yetsomeof themoneyisconsideredtobeeitherillegalorharmful
+becauseof thewayitwasgenerated,transferred,orused.Theseinternationaltrans-
+fershavecometobeknownas“illicitfinancialflows”(IFFs),aconceptwhichcom-
+binesseveral—occasionallydisparate—activitiesrangingfromillegalcapitalflightto
+internationalmoneylaunderingtotaxevasion.
+By their very nature, IFFs are usually hidden from sight and therefore difficult
+to measure. Global estimates—fraught with error—are of the order of magnitude
+of $1–1.5 trillion a year.1 While these estimates appear to have been largely sta-
+ble or even decreasing over time relative to overall economic activity, international
+TheWorldBankResearchObserver
+©TheAuthor(s)2019.PublishedbyOxfordUniversityPressonbehalf of theInternationalBankforReconstructionand
+Development/THEWORLDBANK.Allrightsreserved.Forpermissions,pleasee-mail:journals.permissions@oup.com
+doi:10.1093/wbro/lkz007 35:44–86
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+attentionandconcernaroundIFFshasbeenincreasing.Multilateralinitiatives,such
+astheAddisAbabaActionAgendaaroundFinancingforDevelopmentandtheSus-
+tainableDevelopmentGoals,haveresultedinrenewedfervorforraisinggovernment
+revenue in developing countries, a process that is seen as being threatened by the
+prevalence of IFFs. Connected to this is a slowly mounting effort to curb interna-
+tional tax evasion and excessive tax avoidance, made particularly salient by recent
+eventssuchastheMossackFonsecaleaks.Independently,thepastdecadeandahalf
+hasseengrowingconcernwithinternationalmoneylaunderingandterroristfinanc-
+ing,leadingtoglobalinitiativestocurbthesepracticesledbyinstitutionssuchasthe
+FinancialActionTaskForce(FATF).
+With the exception of work on tax evasion and crime, mainstream development
+economicresearchhaslargelyfailedtocoherentlyengagewithattemptstoestimate
+IFFs,despitethegrowingattentionfrompolicymakers.Thisisinpartduetotheamor-
+phousnatureof IFFs,bothintheirdefinitionandintheirmeasurement.Despitethis,
+thereareseveralreasonstobelievethatIFFsareparticularlyrelevantfordeveloping
+andemergingeconomies.
+Thefirstof theseisthefactthat,becauseof poor-qualityinstitutionsandlowca-
+pacity, manyof these countrieslackthe apparatus to eitherdetectIFFsor curbthe
+practicesthatgiverisetothem.Forexample,governmentsof poorercountriesareless
+likelytobecompliantwithinternationalanti-money-launderingstandardssetbythe
+FATF; see fig. 1(a). They are also less likely to have successfully negotiated bilateral
+tax-informationexchangeagreementsorsigneduptomultilateralagreementsthat
+canbeusedbyauthoritiestoexchangeinformationusefulfortrackingdowninterna-
+tionaltaxevasioncases.Developingandemergingeconomiesarealsomorelikelyto
+sufferfromcorruptionandinformality,whicharepotentialdriversof illicitflows.As
+thisarticlewillhighlight,theempiricalevidencebaseunderlyingtheeffectivenessof
+someof theinstitutionsisstillnascent,buttheabsenceof suchinstitutionssuggests
+thatdevelopingcountriesarenobetterequippedtodealwiththeproblem.
+ThesecondreasonisthatthedamagethatIFFscandotodevelopingandemerg-
+ingeconomiesispotentiallygreater.Forone,ascanbeseeninfig.1(b),developing
+countriesstruggletoraisethesameproportionof theirnationalincomeintaxrev-
+enueasrichercountries.Thereisnotenoughevidencetoindicatethattheshareof
+revenue lost to IFFs is higher in developing countries, but as many of these coun-
+triesalreadystruggletomaintainbasicsocialservices,functioninginstitutions,and
+aviablesocialcontract,revenuelosseswillbemoredamagingtothem(OECD2014;
+Gaspar, Jaramillo, and Wingender 2016). In addition to these harms, IFFs also po-
+tentiallygiverisetonegativeimpactsthroughtheunderlyingactivitiesthatgenerate
+them,suchasviolentcrimeassociatedwithdrugtrafficking,governmentdecisions
+distortedbycorruptpractices,oroutrightkleptocracy/statecaptureof resources.2
+Finally,developingcountriesaredisproportionatelylikelytobepunishedbyinter-
+nationalinstitutionsforfailingtodeterillicitflows.Forexample,emergingeconomies
+45
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+Figure 1. Developing Countries have Weaker Anti-IFF Institutions and Potentially Face Worse
+HarmfromIFFs
+Source: FATF compliance data were taken from scores on Mutual Evaluation Reports (https://www.fatf-
+gafi.org/publications/mutualevaluations/) and from FATF’s high-risk and non-cooperative jurisdictions list
+(https://www.fatf-gafi.org/publications/high-riskandnon-cooperativejurisdictions/). The exchange-of-information
+data were obtained from the OECD’s exchange-of-information portal (http://www.eoi-tax.org). The tax-to-GDP
+ratiosarefromUNU-WIDER’sGovernmentRevenueDataset(UNU-WIDER2018),andthedataonGDPpercapita
+andtheWorldGovernanceIndicatorControlofCorruptionarefromtheWorldBank’sOpenDataPortal.
+Note: IFF = illicit financial flow. The graphs show the cross-sectional relationships of (a) anti-IFF institutions
+(compliance with international standards, exchange-of-information agreements, and levels of corruption) and
+(b)IFF-relatedoutcomes(taxrevenueandgreylistingbytheFATF)withthelogofGDPpercapita.
+46 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+are at higher risk of being added to the FATF’s “greylist” of countries that are not
+making enough effort to improve anti-money-laundering institutions; see fig. 1(b).
+This greylisting, which calls on regulators and banks to enact stricter procedures
+whendealingwithlistedcountries,hasthepotentialtodosignificantdamage:Collin,
+Cook,andSoramäki(2016)foundthatthevolumeof internationalpaymentflowsto
+greylistedcountriesdecreasedbyapproximately10percent.
+Thegoalof thisarticleistogiveanoverviewof theissueof IFFs,discusspopular
+academicandpolicy-orientedmethodsof quantifyingtheseflows,elucidatehowthe
+methodsarerelatedtoeachother,andsuggestpotentialwaystoadvancetheresearch
+agenda.Section2discussesissuesaroundthedefinitionof,compositionof,andpolicy
+efforts to fight IFFs. Section 3 covers various methods for measuring specific types
+of IFFsandIFFsinaggregate.Section4describesconstructedindicesof theriskof
+IFFsandreviewsstudiesinthefieldof “forensic”economicsthathavebeenusedto
+discover the contexts in which IFFs are likely to happen. Section 5 details ongoing
+policyeffortstocurbillicitflowsandafewof thewaysinwhichthoseeffortsarebeing
+measured.Section6discusseswaysinwhichresearchonIFFsmightprogress,and
+Section7concludes.
+2 Defining and Classifying Illicit Financial Flows
+In his book Capitalism’s Achilles heel: Dirty money and How to Renew the Free-Market
+System,Baker(2005)defined“dirtymoney”asmoneythatisillegallyearned,moved,
+or used. The most widely cited definition3 of IFFs involves just a minor tweak of
+Baker’sdefinition:anillicitfinancialflowisdirtymoneythatcrossesaninternational
+border.
+This definition implies that a flow can be classified as illicit if either its origin
+(source), the method used for moving it across a border (channel), or its eventual
+useisillegal.Takingintoaccountwhetherthesourceorchannelislegal,fig.2dis-
+playshowasetof differenttypesof internationalfinancialflowswouldbeclassified
+as IFFs.4 For simplicity, this figure leaves out the third dimension: the use of these
+fundswhentheyreachtheirdestination.5CommonsourcesofIFFsdescribedbyBaker
+(2005) include (i) corrupt proceeds, which include money stolen from the state or
+funds acquired through abuse of state power, (ii) criminal proceeds, which include
+drugmoneyandindividualtaxevasionortaxfraud,and(iii)commercialproceeds,
+whichincludemultinationaltaxortariff evasion.
+These sources of illicit flows should be distinguished from the channels used to
+transferthem.Insomecases,thechannelsthemselvesareillegalduetoafailureto
+report the existence of assets or their transfer, or because they actively circumvent
+government policy on the transfer of resources, such as capital controls. Channels
+commonlythoughtof asbeingillicitincludeallformsof cross-bordermoneylaunder-
+ing.Thisincludescashsmugglingandtrade-basedmoneylaundering,accomplished
+47
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+Figure2.Classificationof ChannelsandSourcesof IllicitFinancialFlows
+Source:Author’sclassificationofillicitfinancialflowsaccordingtotheirsourcesandchannels.
+Note:Thefigureillustratestheauthor’sclassificationofvariouscombinationsof sourcesandchannelsof financial
+flowsaseitherlicitflowsorthenarrowandbroaddefinitionsofillicitflows.
+byobscuringthetruepriceorquantityof goodsbeingexportedorimported.Some-
+timesthesourceandchannelof anIFFarehardtodisentangle.Forexample,aperson
+maytransfertheirassetstoa“taxhaven,”ajurisdictionthatdoesnotsharebenefi-
+cialownershiportaxpayerinformationwiththeperson’staxauthoritybackhome,
+inanefforttoevadetaxation.Inthiscase,theflowcouldbeconsideredillicitbecause
+theactivitythatgaverisetoitinvolvestheintentiontoevadetaxorbecausemoving
+moneytotaxhavensregardlessof thepurposemightbeconsideredbysometobeuse
+of anillicitchannel.
+Otherdefinitionsof IFFsgobeyondflowsthatexplicitlybreakthelaw.Theseinclude
+morenormativeorconsequentialistdefinitionswhichtakeintoaccountwhetherthe
+flows are within the spirit of the law or the impact they can have on an economy.
+Forexample,Cobham(2014)arguesthatIFFsshouldalsoincludesociallydamaging
+48 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+flows that are not necessarily illegal, such as aggressive profit-shifting by multina-
+tionalcorporationsandotherformsof taxavoidance.Sometakethedefinitioneven
+further:BlankenburgandKhan(2012)considerillicit(capital)flowstoincludeany
+cross-borderflowsthathaveanegativeeffectonaneconomy,eitherdirectly(e.g.,via
+lost tax revenue) or indirectly (e.g., by eroding institutions). These definitions often
+relyontheideathattheword“illicit”shouldalsocapturethesociallyundesirableas
+wellastheexplicitlyillegal.Bohoslavsky(2016)referstothisasthe“broad”defini-
+tionof IFFs,asopposedtothe“narrow”definitiondescribedatthebeginningof this
+section.
+Whilethenarrowdefinitionismoreorlessobjectiveinnature,thebroaddefinition
+suffersfrombeinglargelysubjective:whetherornotaflowissociallyundesirablecan
+bedebatedandjudgeddifferentlybydifferentparties.Bycontrast,thenarrowview
+canoccasionallyleadtouncomfortableclassifications,suchaswhenlegalmoneyis
+movedoutof acountrytoavoidexpropriationbyanautocraticregimeorflowsthat
+leadtoeconomicinstability.
+Assuch,thisarticlewilllargelybeconcernedwiththenarrowdefinitionof IFFs
+basedaroundillegality,whichhastheadvantageof beingconcrete.However,given
+theattentionthatcorporatetaxavoidancehasreceivedintheIFF-relatedliterature,
+itwillalsoincludeestimatesordiscussionsof estimatesof thesephenomena,asthey
+arecloselyrelated.Toreflectthis,fig.2includestransferpriceabuse,6 themanipu-
+lationof intra-subsidiarytransactionsbymultinationalsinordertoshiftprofitsbe-
+tween countries, as a potential channel of IFFs. In addition to this, “aggressive tax
+avoidance” has been included as an illicit source under the broad definition to ac-
+count for any aggressive or undesirable behavior of firms or individuals that could
+leadtoareductionintheirtaxobligations.
+CertainflowsmaynotbeconsideredIFFsatthetimetheyweremovedabroad.For
+example,atransferof moneytoanoverseastaxhavenmaynotbreakanydomestic
+laws until the owner fails to declare the wealth or subsequent interest to their do-
+mestictaxauthority.Also,theinclusionof “use”inthecategorizationof IFFscanbe
+problematicfortheirmeasurement,asmoneythathascrossedabordermaynotbe
+usedforanillegalpurposeuntilsometimeafteritstransfer.7
+Also,fundsthatareconsideredIFFsmaynothaveactuallybeentransferredinthe
+traditionalsense.Valuemaybecreatedinonejurisdictionastheresultof illegalbe-
+haviorinanother.Forexample,if acompanybribesagovernmentofficialbydeposit-
+ingfundsinanaccountintheofficial’snameinataxhaven,thiscouldbeconsidered
+anillicitoutflow.Ageneralizationof RaymondBaker’sdefinitiontoaccountforthese
+indirecttransfersmightincludeanymoneythatisgeneratedinonejurisdictionasa
+resultof illegalactivityinanotherjurisdictionbyanentitywhohasacontrollingin-
+terestinthatmoneyafterithasbeengenerated.Thus,illicitflowsmightalsoinclude
+valuethatiscontrolledacrossbordersbythosewhogeneratedthatvalueillegally(or
+useitforanillegalpurpose).Theymightalsoincludefinancialinstrumentswhichat
+49
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+firstglancedonotappeartoinvolveatransferof money(e.g.,equityorsecurities)and
+thetransferof non-monetaryassets(e.g.,preciousstonesorpaintings).
+Many studies refer to illicit flows as being hidden by definition (OECD 2014;
+Financial Transparency Coalition 2015) or implicitly assume this by attempting to
+measureonlyunreportedinternationalflows,butthisneednotbethecase.Money
+that has been generated through illegal activity may be moved out of a country
+throughanentirelylegitimatechannelandheldinatransparentmanner,especially
+if ithasbeenlaunderedpriortocrossingaborder.
+3 Measuring Illicit Flows
+Bytheirverynature,IFFsaredifficulttomeasureandevenhardertoaggregate.There
+arethreemainchallengesinestimatingIFFs.Thefirstisameasurementissue.Asthe
+truevalueof illicitflowstoandfromaneconomyisnevertrulyobserved,mostmeth-
+odsproduceaconstructedestimate,whichwilldeviatefromthetrueestimatebyan
+errortermof unknownsizeanddirection.Theseestimatesareoftenindexedovertime
+andbythedirectionortypeof flow.Theyarelikelytobeunbiasedif themeasurement
+erroristrulyrandom,althoughif thereisahighdegreeof noiseinthedata,itcanbe
+difficulttodeterminewhetherobservedchangesovertimearemeaningful.
+However,inpractice,theerrortermofanIFFestimateislikelytocontainmorethan
+justnoise.Forexample,if theerrortermisnotcenteredatzerothenestimatesof IFFs
+willbebiasedupordown,evenif changesovertimewouldstillcontainmeaningful
+information.Worse,if theerrorassociatedwithanIFFestimateisspuriouslycorre-
+latedwithothercharacteristicsthatchangeovertime,thentrendsinIFFestimates
+willbedifficulttointerpret.Thus,theproblemof estimatingIFFs—measuringanun-
+observed,latentvariable—isverysimilartothatof measuringtheinformaleconomy
+(FreyandWeck-Hanneman1984).Unsurprisingly,manyof themethodsdescribed
+herecloselymirrorbothdirectandindirectmethodsusedintheeconomicsliterature
+tomeasureinformality(MedinaandSchneider2018).
+The second challenge in estimating IFFs comes from the fact that most methods
+of estimatingspecifictypesof IFFsareoverlappinginnature:theyaremeasuringin
+partthesamesourceorchannel.Thismakesconstructinganaggregatefiguresum-
+mingalltypesof IFFsparticularlychallenging—perhapsevenfruitless.Section6will
+discusshowdifferentmeasurescanbemoremeaningfullyaggregated.
+Thefinalchallengeisthatmeasuresof IFFsaregoingtofavortypesof illicitflows
+thatcanbemoreeasilymeasuredorforwhichmeasuresaremorelikelytobecon-
+structed.Thereforeitisdifficulttomakedefinitivestatementsastowhethercertain
+sourcesorchannelsof IFFsaremoreprevalent,astherelativeimportanceof asource
+orchannelinglobalestimatesmaybedrivenmerelybytherelativedemandfororsup-
+plyof thoseestimates.Forexample,theproceedsof grandcorruptionmayactually
+makeupalargeproportionof globalIFFsbutappearsmallerrelativetotaxevasion
+50 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+because the latter is easier to model. This can also make changes in IFFs over time
+oracrosscertaindimensions—suchasGDP—hardtointerpret,astheymayreflecta
+shiftinillicitactivityfromthingsthataremoreeasilymeasuredtothosethatarenot.
+Howthisshouldaffectconsiderationsaboutlumpingmeasuresof IFFstogetherwill
+bediscussedinsection6.
+Therestof thissectionwillreviewpopular,data-drivenmethodsthatresearchers
+haveusedtoestimateIFFs,examinewhatestimateshaveactuallybeenproduced,and
+discusstheirrelativestrengthsandweaknesses.8
+Balance-of-Payments Methods
+One of the most common ways of estimating illicit flows relies on methods devel-
+opedinthecapitalflightliterature.Researchersoftenusemacroeconomicidentities,
+specificallybalance-of-paymentstatistics,todeterminewhencapitalisshiftingover-
+seas.The“sources-and-usesmethod”isbasedonthefactthatacountry’sbalance-
+of-payment identity must hold: sources of capital inflows (net increases in foreign
+debtandforeigndirectinvestment,FDI)shouldonlyexceedtheusesof capitalinflows
+(thecurrentaccountdeficitandchangesinreserves)whencapitalismovingoverseas
+(JohannesenandPirttilä2016).Thesumof thenetchangeindebt,FDI,currentac-
+countsurplus,andchangeinreservesisthenusedasanempiricalestimateof capital
+flight.
+To better distinguish between ordinary capital flight and that which is hidden
+fromofficialstatistics(andhencepresumablyillicit),researchershavebeguntorely
+onmorenarrowlydefinedmeasuresof deviation.The“hot-money-narrowmethod”
+focuses only on the net errors and omissions (NEOs) entry in balance-of-payment
+statistics, and occasionally also on flows of short-term capital. The underlying ar-
+gumentisthatbecauseNEOsareunexplained,theyaremorelikelytocapturehidden
+flows.VariousattemptstoestimateaggregateIFFsusevariationsofeitherthesources-
+and-usesmethodorthehot-money-narrowmethod,butallareconceptuallysimilar
+(Ndikumana and Boyce 2008; Kar and Cartwright-Smith 2010; Kar and Spanjers
+2015;UNECA2015).
+Estimates using the hot-money-narrow method have typically involved substan-
+tialsums:thenonprofitorganizationGlobalFinancialIntegrity(GFI)estimatesthat
+in2015,roughly$342billionleftdevelopingcountries,anincreaseonpreviousyears
+(Salomon2019),althoughthisisonlyafractionof theirtotalestimateof IFFs(most
+of whichconsistof trade-basedestimates,tobediscussednext).Henry(2012)esti-
+matesannualIFFsof roughlythesamemagnitudeandalsousesthesources-and-uses
+methodtoproduceestimatesof thetotalstockof hiddencapitalheldoverseas.Fol-
+lowingthisapproach,heestimatesthatupto$9.3trillioninunrecordedwealthhas
+been generated from a group of 139 lower and middle-income countries since the
+1970s.
+51
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+Criticismsofthehot-money-narrowapproachfallintotwocategories:reasonswhy
+the flows it captures might not be illicitand reasons why it might not be capturing
+anything at all. Researchers have pointed out that short-term capital, which is in-
+cludedinsomehot-money-narrowcalculations(albeitnotGFI’s),largelyconsistsof
+commercialcredit,whichisnotusuallythoughtof aseitherbeingcapitalflightorat
+risk for being an illicit flow. Thus the hot-money-narrow method may lead to over-
+counting or false positives. Others have pointed out that NEOs, which make up the
+bulk of hot-money estimates, are largely going to be driven by compilation errors
+in capital accounts, incomplete measurement, or inadequate currencyconversions
+(Schneider2003).Therefore,large-scaleestimatesmaybesignificantlymadeupof
+noiseinthedata,makingitimpossibletoknowpreciselyhowmuchcapitalhasleft.
+Finally,methodsbasedonbalance-of-paymentstatisticswillprovideanetestimate
+of capitalflightorillicitflows(JohannesenandPirttilä2016).Inflowsandoutflows
+arelikelytohavedifferenteffectsonalocaleconomy,andthereiscurrentlynocon-
+sensusonwhethertheseflowsshouldbenettedoutoraddedup(Nitsch2016).
+Ascanbeseeninfig.3(insection4),illicitoutflowsasapercentageof tradevol-
+umesmeasuredusingGFI’svariantof thehot-money-narrowmethodareweaklyin-
+creasingwithacountry’sincome,suggestingthattotheextentthatthehot-money-
+narrow method is picking up meaningful variation in IFFs, they are likely to be an
+emergingcountryphenomenon.
+Trade Gap Analyses
+Althoughitsintellectualoriginsarehalf acenturyold(Bhagwati1964),themethod
+of usingtradedatatoestimateordetectillicitbehaviorhasrisentoparticularpromi-
+nenceinthepast15years,largelyduetotheworkof GFIinderivingglobalestimates
+ofIFFs.Theconceptisfairlysimple:afteraccountingforshippingandinsurancecosts,
+thedeclaredpriceandquantityof anexportfromonecountryshouldmatchthede-
+claredpriceandquantitywhenthatshipmentreachesitsdestinationandisrecorded
+as an import. The only legitimate deviation between the two records should come
+fromshippingandinsurancecosts(whichtypicallygounrecordedinaggregatetrade
+statistics)oranerrorinrecordingtheimport/exportvalueorquantity.
+AsdescribedbyBhagwati(1964),theremaybeincentivestoeitherunder-orover-
+reportthevalue(orquantity)of anexportorimport.Forexample,if anagentwished
+toquietlymovemoneyoutof Malawi,theycouldover-invoiceanimportedshipment
+of mobile phones from the United States by $100,000, paying the difference to an
+intermediarythattheyownoutsideof Malawi.Therearevariousincentivesascribed
+toover-/under-reportingexports/imports,whichinclude:
+(1) over-invoicing imports—retaining money abroad, avoiding capital controls (by
+obtainingexcessforeignexchange),reducingtaxableprofit;
+52 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+secidnIdnaserusaeMFFIsuoiraVneewtebnoitalerroC.3erugiF
+)8102(namcuZdna,nesennahoJ,retæsdatslA,REGrof)7102(srejnapSdnanomolaS,NMHrof)7102(srejnapSdnanomolaSmorfatadnodesabsisylanas’rohtuA:ecruoS
+.PDGNLrofknaBdlroWehtdna,ISFrof)6102(krowteNecitsuJxaT,LESABrof)7102(RACI,EROHSFFOrof
+.)atipacrepPDG(goltsniagaroerusaemrehtonatsniaga)sFFI(swofllaicnanfiticillirof)erusaemksiraro(erusaemnoitamitsenafotolprettacsehtswohshparghcaE:etoN ssorgehtgnisuderusaem4102niswofltuoticilli=REG;edartlatot
+foegatnecrepasadohtemworran-yenom-tohehtgnisuderusaem4102niswofltuoticilli=NMH
+ISF;)”retteb“sirewol(erocsxednILMAlesaB=LESAB;PDGfoegatnecrepasahtlaewerohsffolatot=EROHSFFO;edartlatotfoegatnecrepasadohtemslasrevergnidulcxe serusaemhtiw,serusaemfonoitanibmocelbissopyreveswohserugfiehT.)srallod1102tnatsnocniatipacrepPDG(gol=PDGNL;erocsycercesxednIycerceSlaicnaniF=
+.hparghcaenihtiwdetsilerasnoitalerrocesiwriaP.sixalatnozirohehtotdengissapotehtgnoladetsilesohtdnasixalacitrevehtotdengissagniebedistfelehtgnoladetsil
+53
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+(2) under-invoicingimports—evadingcustomsduties;
+(3) over-reportingexports—takingadvantageof exportcredits;
+(4) under-invoicingexports—avoidingexporttariffs,retainingmoneyabroad,avoid-
+ingcapitalcontrols(byobtainingexcessforeignexchange).
+Note that for a source country, only (1) over-invoicing imports and (4) under-
+invoicingexportshavethepotentialtobedrivenbythedesiretosecretly(orillicitly)
+moveorretainmoneyabroad.Theothertwoarelikelytobedrivenbythedesireto
+avoid paying tariffs, which, while it deprives one country of potential tax revenue,
+does not necessarily involve the transfer of resources abroad. However, GFI’s esti-
+matesconsiderboth(2)and(3)aspotentialsignsof illicitinflows.
+Toquantifytotaltrade-basedIFFs,GFI’s“grossexcludingreversals”(GER)method
+examinesmirroredstatistics(i.e.,whatcountryAdeclaresithasexportedtocountry
+BandwhatcountryBdeclaresithasimportedfromcountryA)betweendeveloped
+countries and developing countries, under the assumption that values reported to
+customsofficialsintheformerarelikelytobetrue.GERdoestakeintoaccountthat
+therewillbeanaturaldiscrepancybetweenthetworeportedvaluesduetoshipping
+andinsurancecosts,whichitassumestobe6percentof thevalueof theexportwhen
+actual data on these costs are not available.9 In light of the incentiveslisted above,
+after correcting for shipping costs, the GER method assumes that any deviation in
+mirroredtradestatisticsthatindicatesanover-invoicedimportoranunder-invoiced
+exportisanillicitfinancialoutflow.Notethatthe6percentassumptionisinvariant
+withrespecttothedistancetheexportistraveling,soitislikelytoleadtoadeclaration
+of under-invoicing(afalsepositive)whenthedistanceleadstoahighershippingcost,
+andviceversa.
+Tocomeupwithcountryandglobalestimates,GFIfirstusestheGERmethodto
+sumupthetotalamountof IFFsduetotrade-basedmoneylaunderingbetweeneach
+developingcountryandthesetof richercountrycounterparts.10 Itdoesthisusing
+bothaggregatedatafromtheIMF’sDirectionof TradeStatisticsdatabaseand,inits
+mostrecentrelease,commodity-specificdatafromtheUN’sCOMTRADEdatabase.It
+then uses this sum to calculate the share of the country’s trade that involves illicit
+transactionsandmultipliesthatsharebyaggregateestimatesof thecountry’strade
+toarriveatanaggregatevalueforillicitoutflows.Summingcountry-levelestimates
+resultsinaglobalestimateof trade-basedmoneylaundering.GFI’slatestestimates
+of trade-basedmoneylaunderingexceedthoseobtainedviathehot-money-narrow
+approach by a significant margin: GFI’s estimates put the total amount of money
+thatleftdevelopingcountriesduetomis-invoicingatroughly85percentof thetotal
+($598–807 billion a year) in 2015 alone (Salomon 2019). Besides GFI, several re-
+searchoutfitsandnon-governmentalorganizationshaveproducedsimilarfiguresfor
+individualcountries,groupsof countries,andspecificproductcategories(Nicolaou-
+Manias2016).
+54 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+These methods have come under heavy criticism from those who point to more
+innocentreasonswhytheremightbeadeviationinmirroredtradestatistics:errors
+inrecordingpricesoramounts,differencesbetweencountriesincategorizingprod-
+ucts, differences in reporting rules or transparency, and deviations between actual
+shipping and insurance costs and the fixed 6 percent assumption used in the GER
+method(JohannesenandPirttilä2016;Nitsch2016).Manyof thesamecriticshave
+alsoquestionedtheGERassumptionthattradestatisticsfromrichcountriesaremea-
+suredwithout(oratleastwithless)error.Becauseof theselegitimatecriticisms,ag-
+gregatesbasedontradegapsarelikelytobebothimpreciseandover-inflated.Others
+havepointedoutthattheGERmethodwillnotappropriatelyaccountforre-exporting
+via, for example, bonded warehouses. GFI does correct its figures for re-exports be-
+tween China and Hong Kong,11 but this issue is still likely to plague other bilateral
+estimates(Forstater2016).
+Theseconcernsarenotpurelytheoretical,astherehavebeensomehigh-profileex-
+amplesof theGERmethodleadingtosubstantialoverestimatesof IFFs.Mostnotable
+wasareportreleasedbytheUnitedNationsConferenceonTradeandDevelopment
+(UNCTAD)in2016whichclaimedthat67percentof goldexportsfromSouthAfrica
+weremis-invoiced,resultinginIFFsof nearly$80billionbetween2000and2014.
+Itwaslaterrevealedthatmuchof thediscrepancywasduetoadeviationinthere-
+portingstandardswhichpreventedgoldexportsfrombeingcorrectlyrecordedinthe
+COMTRADEdatabase(Forstater2017a;Eunomix2017).
+ThecorrelationbetweenGERestimatesof illicitoutflows(asashareof totaltrade)
+andthelogof percapitaGDPis0.07(seefig.3insection4),indicatingthatif this
+methodispickinguptrade-basedmoneylaundering,itisequallyanissueinpoorand
+emergingeconomies.
+Trade Price Deviation Analyses
+There is a separate line of research that estimates illegal capital flight based on de-
+viations of exports/imports from some reasonable range of prices, rather than us-
+ingmirrortradestatistics.Zdanowicz(2009)examinesUSexportsandimportsand
+concludesthattransfersforwhichthepriceexceedssomedistributionalmargin(e.g.,
+50percentof theaveragepriceortheupper/lowerquartile)areplausiblytheresultof
+illicitbehavior.Usingthisformof analysiscombinedwithdataoncorporatetaxrates,
+ChristianAid(2009)calculatedthatdevelopingcountriesarelosingupto$160bil-
+lionayearduetotrademis-pricing.
+Thedifficultywiththisapproachisthatitconceptuallyconflatestwotypesoftrans-
+fers:trademis-invoicing(over-/under-invoicingatoneendof thetransferandreport-
+ingtruthfullyattheotherend)andtransfermis-pricing(wherethepriceisreported
+correctlyatbothendsof thetransactionbutisdistortedtoaffectthelocationwhere
+55
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+profitsarereported).12 Anunusuallylowexportpricecouldbeduetoanartificially
+lowtransferprice,oritmightbeduetounder-invoicing.
+Given that estimates of IFFs obtained with this method will be increasing in the
+price variance within a given product category, it is difficult to know what propor-
+tionof theseestimatesaredrivenbynaturaldeviationsinpriceandwhichestimates
+areactuallydrivenbysomeformof illicitflow.Aswithtradegapanalyses,errorsin
+thedatawilloftenmanifestasphantomillicitflows.Forstater(2015)notesthatprice
+outliersintradedata(suchasabucketpricedat$973whichhasbeenusedbymany
+nonprofitsasanexampleof mis-pricing)arelikelytobepartiallyexplainedbymis-
+takesinrecordingeitherthevalueorthequantityof theshipment.Similarly,goods
+thatareof higher/lowerqualitythanorotherwisedifferentiatedfromtheintended
+classificationmaybemistakenlyflaggedasbeingpricedhigher/lowerthanthenorm.
+Despitetheselimitations,analyzingextremedeviationsintradepricesislikelyto
+beausefultoolinforensicapproachestodetectingillicitbehaviorusedbyinterested
+partiessuchascustomsagents.Usingtradepricedeviationsasariskindicatortodrive
+auditingdecisionsmaymakemoresensethanusingthemtoestimateaggregateIFFs.
+Transfer Price Analyses
+Taxauthoritiestypicallyenforcetransferpriceregimesbycomparingfirm-leveldata
+ontransferpriceswithsomereasonablecomparator(usuallythepricesetforthesame
+productfortransfersbetweenunrelatedparties)orbycalculatingtheprofitmargin
+of transactionsforanentireenterprise.Theformerapproachisknownasthearms-
+length principle: that related firms should transfer goods at the same price as they
+wouldhaveif theyhadbeenunrelated,andthatsignificantdeviationsinthetransfer
+priceareasignof attemptedprofit-shifting.
+These analyses require micro-level data on the transfer price decisions of firms,
+decisionsthataretypicallyavailableonlytothefirmsthemselvesortotaxauthori-
+ties.Researchersoftenlookforevidenceof transferpricingandprofit-shiftingusing
+publicly available or purchasable data, which typically contain information about
+a multinational’s cross-border operations, revenues, and profits, but often does not
+includetransferpricingdecisions.However,exceptionsexist,suchastheUSCensus
+BureauLongitudinalFirmTradeTransactionsDatabase,whichwasusedbyBernard,
+Jensen, and Schott (2006) to determine that US exporters systematically set lower
+prices when exporting to related parties than when exporting to unrelated firms.
+Recently, researchers have begun to use similar data sources to produce estimates
+of the revenue loss from tax-motivated transfer mis-pricing (Vicard 2015; Cristea
+andNguyen2016;Liu,Schmidt-Eisenlohr,andGuo2017;Daviesetal.2018;Wier
+2018).Theseestimatesarelargelyobtainedbyfirstcalculatingthedeviationinthe
+arms-length price observed when a firm transacts with related parties and then
+observing how that deviation changes when the transacting firms face different
+56 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+corporatetaxrates.Theresultingestimatesof theresponseof thedeclaredpricesto
+differentialtaxratesarethenusedtocalculatehowmuchextrarevenuewouldhave
+resulted if there were no tax incentives to misreport. These estimates, which cur-
+rentlycoveronlydevelopedcountries,rangefromlessthan0.5percentfortheUnited
+Statestoroughly2.5percentforFrance(Wier2018).Thisworkalsofitsintoawider
+forensicliteratureinvestigatingthedeterminantsof corporateprofit-shifting,which
+willbediscussedlater.
+International Portfolio and Deposit Data
+Insteadof estimatingcross-borderflows,Zucman(2013)attemptedtoestimatethe
+overallstockvalueof wealththatisheldoffshore.Whilemoneyheldoverseasisnot
+necessarilyof illicitorigin,itsunreportednaturemightindicateasubstantialriskthat
+a law has been broken. Zucman’s estimation strategy relies on the fact that unre-
+portedwealthdrivesawedgeininternationalportfoliostatistics:becauseownersof
+hiddenfinancialassetsdonotdeclarethem,theassetpositionof sourcecountrieswill
+besystematicallyunder-reported.Becausetaxhavensrecordliabilitiesontheirbooks
+correctly(althoughtheultimatesourceof aliabilitywillusuallynotberecorded),this
+willleaveagapbetweenaggregateworldwidereportedassetsandliabilities.
+Zucman(2013)usesaggregateinternationalinvestmentpositiondata.13Assum-
+ingthatgapsintheglobalaggregatesof portfolioliabilitiesandassetsrepresenthid-
+den securities, the aggregate value is combined with reported data on cross-border
+depositsprovidedbytheBankof InternationalSettlements(BIS)toyieldanestimate
+thatapproximately8percentof householdfinancialwealthisheldoverseas,withno
+morethanafifthof thatbeingreportedinthesourcecountries.
+One potential criticism of Zucman’s method is that, similar to the balance-of-
+paymentestimatesdiscussedabove,itreliesondeviationsinaggregatedatathatcould
+also be explained by measurement error. To support the main result with more de-
+tailed evidence, Zucman used bilateral portfolio data taken from the IMF’s Coordi-
+natedPortfolioInvestmentSurveytoshow,foralimitedgroupof countries,thatbi-
+lateralestimatesof unreportedwealtharelargestforcountriesrecognizedtobetax
+havensandareminimalotherwise.Inamorerecentstudy,Alstadsæter,Johannesen,
+andZucman(2018)usedupdatedBISbilateralbankingstatisticstoallocatethees-
+timates of offshore wealth to each country in the world. As can be seen in fig. 3
+(section 4), these estimates suggest that offshore wealth is roughly proportional
+to country income, with lower-, middle-, and upper-income countries maintaining
+roughlythesamesharesof theirnationalincomeinoffshoretaxhavens.
+Deviations from Traditional Gravity Models of Financial Flows
+Another method for estimating illicit flows is based on an empirical model that
+predicts cross-border flows and attempts to estimate an “illicit premium,” the
+57
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+additional amount that is sent to a certain jurisdiction solely because of its attrac-
+tiveness in terms of hiding illicit funds. An example of this can be found in Pérez,
+Brada, and Drabek (2012), which estimates a variation of a gravity model that
+predicts FDI from transition economies to the rest of the world. After controlling
+for source and destination characteristics that would normally be expected to pre-
+dict FDI, the authors found that the designation of a destination jurisdiction as
+a “jurisdiction of primary concern” by the US State Department’s International
+Narcotics Control Strategy Report (INCSR) predicts a higher share of FDI; this ex-
+tra share is assumed to be a direct estimate of FDI directed toward the purpose of
+facilitatingIFFs.
+Thesemodelsareattractivebecausetheyareeasytoestimategivenanymeasure
+of bilateralflow.However,theypotentiallysufferfromanomittedvariableproblem.If
+thechosenmeasureof attractivenessissystematicallycorrelatedwithunobservable
+characteristics that predict FDI but have nothing to do the “illicit premium,” then
+these models will lead to an overstatement of the level of illicit finance. Because of
+these limitations, most gravity model estimates of the attractiveness of destination
+countriesastaxhavensormoneylaunderingcentersdonotattempttocalculateac-
+tualamounts(e.g.,RoseandSpiegel2007).
+Bottom-up Methods of Estimating Money Laundering
+In addition to estimation based on macro-data on bilateral flows, changes in the
+current account, or trade data, there are a few methods of estimating IFFs that
+rely on aggregating data on crime to produce a national-level measure of money
+laundering. These methods vary in the sophistication of the aggregation approach
+used.
+TheWalkerModel
+Walker’smodelof moneylaunderingispartof aclassof “constructed”moneylaun-
+dering estimates. To generate these estimates, researchers first estimate or assume
+a relationship between observed indicators of crime (e.g., estimates of drug pro-
+ceeds,nationalcrimesurveys,corruptionindicators,andsuspicioustransactionre-
+ports) and the amount of money laundering in a country. The estimates are often
+educated guesses or based on expert surveys and are rarely derived from true esti-
+matesof moneylaundering.Onceanestimatedrelationshipbetweenobservedcrime
+statisticsandmoneylaunderingisestablished,atotalamountforacountrycanbe
+calculated.
+Walker’s (1999) variation on this approach was to also estimate the share of
+laundered money that is sent abroad, which is presumed to be related to a coun-
+try’s rating on the Transparency International Corruption Perceptions Index, with
+58 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+the most corrupt countries sending 70–80 percent of laundered money abroad
+and the least corrupt sending nothing abroad. To determine where in the world
+laundered money would be sent, Walker defined the attractiveness of a destination
+countryasafunctionof severalobservablecharacteristics(suchasGNPpercapita
+and measures of bank secrecy and anti-money-laundering effort), parameters that
+are impossible to verify. Discounting this measure of attractiveness by the distance
+betweenthesourceanddestinationcountries,Walkerthenusedittoestimatemoney
+launderingflowsbetweenallcountriesintheworld,whichcouldbesummedtopro-
+duceaglobalestimateof IFFs.Themaincritiqueof suchmodelswasthatmanyof
+the choices of parameters seemed arbitrary, despite attempts by some (e.g., Walker
+1999; Walker and Unger 2009) to triangulate the results using other estimates
+of IFFs.
+In an attempt to generate empirical estimates of the parameters in the Walker
+model, Ferwerda et al. (2013) estimated an empirical gravity model with the same
+structure as the Walker model but using estimates from the trade price deviation
+method of estimating money laundering flows used in Zdanowicz (2009). The pa-
+rameterestimatesinthatexercisedeviatedwildlyfromtheoriginalWalkerestimates,
+anditisunknownwhetherthisisbecausetheestimatesinFerwerdaetal.(2013)are
+closertothetruthorbecausebothmethodsareflawed.
+StructuralModelsof MoneyLaundering
+Avoidingtheadhocnatureof theWalkermodel,otherresearchershaveattempted
+tomodeltherelationshipbetweenexistingdataonthesourcesof illicitfinanceand
+theflowsthemselvesinamorerigorousfashion.Inarecentarticle,Villa,Misa,and
+Loayza (2016) created a model to describe the Colombian economy made up of a
+licitsectorandanillicitsector,thelattercomprisingboththecocainemarket(which
+has market value) and common crime (which does not). In the model a propor-
+tion of savings from the illicit economy is laundered back into capital investment.
+Fromthisstructuralmodeltheauthorsderivedaseriesof equationsthatcanbeesti-
+matedusingexistingdataontheilliciteconomy,allowingthemtoestimateboththe
+amountof undetectedillicitincomeandthestockof launderedassetsasashareof
+ColombianGDP.Theanalysisisconfinedtomoneylaunderinginabroadsense,mak-
+ing it difficult to determine what proportion of illicit income eventually leaves the
+country.
+Studies such as these that rely on economic theory and structural modeling do
+haveanadvantageoveradhocmethodssuchastheWalkermodelinthattheycare-
+fullyconsidertheequilibriumeffectsof changesintheilliciteconomy.However,these
+modelsarealsobasedonassumptionsthataredifficulttotestempirically,makinges-
+timatesbasedonthemodelsequallyhardtoverify.
+59
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+4 Predicting Illicit Flows
+Facedwiththedifficulty(orimpossibility)of preciselycalculatingillicitflows,many
+researchershaveinsteadtriedeithertoconstructindicatorsthatproxyfortheexpo-
+sureof acountrytoillicitflowsortoempiricallyidentifythecorrelatesof IFFs.
+Indices Indicating the “Risk” of Illicit Flows
+Insteadof attemptingtomeasureillicitflowsdirectly,someresearchershaveturned
+toconstructingindicesthatreflecttheexposureajurisdictionmighthavetoIFFs.To
+dothis,theyassumethatthereisanempiricalrelationshipbetweenunobservedillicit
+flowsandasetofobservablecharacteristicsofagivencountry.Asactualdataonillicit
+flowsareunavailable,thisrelationshipisusuallyanassumedone.Frequently,sucha
+constructedindexisalinearcombinationof theobservablecharacteristicsandtypi-
+callytakestheformof acompositeindex.Inthiscontext,theindexisnotexpressedin
+meaningfulunitsandisnotconsideredtobeanactualestimateof illicitflows.Rather,
+itistreatedasaquantitythatisthoughttobemeaningfullycorrelatedwithactual
+IFFsorwiththeprobabilitythatthoseflowsexceedsomearbitrarythreshold.Thus
+the term “risk” in this context is not used in the economic sense (i.e., variation or
+deviationfromexpectations)butratherintheprobabilisticsense.
+Onedifficultywiththisapproachisinchoosingafunctionalformthataccurately
+reflects the direction of the true relationship between observed characteristics and
+IFFs.Mostimportantly,exposuretoIFFs(ortheriskof IFFs)shouldbemonotonically
+increasing with the value of an index. If this relationship holds, then a ranking of
+countriesbasedontheindexwillbeequivalenttoarankingbasedonthetruevalue
+of IFFs.Butbecausethefunctionalformof theindicesisoftenadhoc,itisdifficultto
+knowhowoftenthemonotonicrelationshipholdsinpractice.
+FinancialSecrecyIndex
+The Financial Secrecy Index (FSI) is a product of the Tax Justice Network. It is in-
+tendedtomeasureboththelevelof financialsecrecyavailableinagivenjurisdiction
+andthescaleof financialactivitybasedthere.Itreflectsacarefulreviewof theregu-
+latory,legal,andtaxsituationsinapproximately100countries,coveringfourmain
+attributes:beneficialownershiptransparency,regulationof corporatetransparency,
+efficienttaxandfinancialregulation,andcompliancewithinternationalstandards
+around tax and anti-money-laundering (AML). These qualitative assessments are
+usedtocompilea“secrecyscore,”whichisnormalizedtorangefromzeroto100.To
+calculatetheoverallindex,theproportionof globalfinancialservicesexportedfrom
+thejurisdictioninquestion,referredtoasa“globalscaleweight,”istransformedand
+thenmultipliedbyatransformedsecrecyscore.14 ThustheFSIisbothameasureof
+60 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+the financial secrecy afforded by moving money to a jurisdiction and a measure of
+howmuchmoneysitsinthatjurisdiction.
+Whileinfamoussmallislandtaxhavenstypicallyhavethehighestsecrecyscores
+(ascanbeseeninfig.3,middle-incomecountriestendtohavehighersecrecyscores),
+oncetheglobalscaleweightisapplied,largeeconomiessuchastheUSA,Germany,
+Japan,andtheUKendupnearthetopof theranking.Whilethesecrecyscorecan
+bethoughtof asameasureof theriskthatamarginaldollarsenttothatjurisdiction
+ishidden,thefullFSIcanbethoughtof asameasureof theriskthatadollarfloat-
+ingaroundintheglobaleconomyishiddeninthatjurisdiction.Thismightmakethe
+secrecyscorecomponentof theFSImoreusefulingaugingIFFrisk,asitiseasierto
+inferthatadollarsentfromadevelopingcountrytoacountrythathasahighsecrecy
+scoreisinfactatriskof beinghidden.
+TheFSIdoesnotmeasureillicitcashdirectly,onlythecharacteristicsthatwould
+makeholdingcashinajurisdictionattractivefromasecrecystandpoint.Thusitcan
+be thought of as a country risk indicator largely for illicit financial inflows. How-
+ever, unusual levels of cross-border transfers to countries that have a high secrecy
+scoremightthemselvesbesuspicious.AlthoughtheFSIdoesnotdistinguishbetween
+sourcesandchannelsof IFFs,thefactthatmostcountriesscoringhighontheFSIare
+consideredtobe“taxhavens”suggeststhattaxevasionisastrongmotiveformov-
+ingmoneytotheselocations.Empirically,theFSIiscorrelatedwithothertaxhaven
+measures:ananalysisof dataleakedfromthePanamanianlawfirmMossackFonseca
+revealedthatanincreaseof onestandarddeviationinacountry’sFSIwasassociated
+witha90percentincreaseinthenumberof entitiesfromthecountrynamedinthe
+PanamaPapers(Collin2016).
+TheBaselAnti-Money-LaunderingIndex
+The Basel AML Index is a product of the International Centre for Asset Recovery
+(ICAR), based at the Basel Institute for Governance. Running since 2012, it is an
+annual assessment and ranking of countries based on their “risk regarding money
+laundering/terrorismfinancing”thatcovers149countries.Theindexisacomposite
+of about14publiclyavailableindicators,whicharedividedintofivebroadcategories:
+(i)moneylaunderingorterroristfinancerisk;(ii)corruptionrisk;(iii)financialtrans-
+parency and standards; (iv) public transparency and accountability; and (v) politi-
+calandlegalrisk.ICARaggregatestheseindicatorsintoasingleindexusingweights
+basedonexpertassessment.15Theresultisbothanindexandaranking,whichICAR
+updatesandreleaseseveryyear.
+TheBaselAMLIndex’scompositenaturemakesitdifficulttodiscernwhatexactly
+isbeingmeasured.Thereisasubstantialamountof conceptualoverlapbetweencom-
+ponents,asmanyof themaredesignedtomeasuresimilarfactors.Becauseneither
+the index nor the underlying subindices have even been calibrated against actual
+61
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+measuresoffinancialcrimeormoneylaundering,changesinillicitflowscannotread-
+ilybeinferredfromchangesintheindex.
+Oneattractivefeatureof theBaselAMLIndexisitspartialrelianceonsubindices
+thatmeasuregovernmentpolicy,suchastheFSIand,tolesserextent,theresultsof
+Mutual Evaluation Reports produced by members of the FATF. However, a number
+of the subindices are based on subjective expert assessments of a country, such as
+Transparency International’s Corruption Perceptions Index. Many of these indica-
+tors(suchastheCorruptionPerceptionsIndex)arenotdirectmeasurementsof AML-
+relatedpolicies,butinsteadaremeasuresof environmentsoractivitiesthatarelikely
+toresultinstolenorillicitmoney(evenif thatmoneyneverleavesthejurisdictionin
+question). As with many of these other indicators, the Basel AML Index is likely to
+beacompositemeasureof theriskof illicitoutflows,illicitinflows,andillicitfinance
+thatdoesnotleavethecountry.
+Unsurprisingly, the Basel AML Index is strongly correlated with a country’s per
+capitaincome(fig.3),asitscomponentsarelargelymeasuresof institutionsthattyp-
+icallyvarywithincome.
+CorrelationsbetweenIndicesandIFFOutcomes
+Figure 3 displays bilateral correlations between the FSI’s secrecy score, the Basel
+AMLIndex,andthreeof themainIFFoutcomesdescribedintheprevioussection—
+GFI’shot-money-narrow measure,itsGER measure,16 andrecentcountry-leveles-
+timates of offshore wealth by Alstadsæter, Johannesen, and Zucman (2018). The
+FSI’s secrecy score and the Basel AML Index are strongly correlated by construc-
+tion (as the former is an input into the latter); neither display a particularly strong
+correlation with measured IFFs. In the case of the secrecy score, there is a moder-
+atecorrelationof 0.31withthehot-money-narrowmeasureof illicitoutflows.This
+is somewhat less intuitive as financial secrecy should be a determinant of illicit in-
+flows (the correlation between the secrecy score and the hot-money-narrow mea-
+sure of inflows, not shown, is 0.27). The fact that these indices of illicit flows are
+only weakly correlated with popular measures of IFFs suggests that either the in-
+dicesarenotparticularlyusefulatpredictingIFFs,orthemeasuresthemselvesshould
+be treated with caution. None of the illicit outcomes themselves are highly corre-
+lated, indicating that they either are measuring different concepts or are all very
+noisy.
+Forensic Studies of Illicit Flows
+Bothaggregateestimatesof IFFsandindicesaredifficulttoverifyastheyarerarely
+tested against actual data on illicit flows. In the absence of certainty regarding
+these methods, a growing “forensic” literature aims to identify specific instances
+62 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+where there is likely to have been an increase in IFFs. These methods have the
+advantage of not relying solely on estimates that might be prone to error, in-
+stead focusing on how these estimates change across different economic actors or
+contexts.
+Moststudiesinthisforensicliteratureestimatearelationshipbytakinganestimate
+oraproxyforIFFsandregressingitonaseriesof observablecharacteristics(orex-
+ogenousshocks)that arethought tobe correlatedorcausallylinkedtoillicitflows.
+If a particular characteristic is found to have a significant impact on the measure
+of IFFs,andthateffectissuggestedbytheory,thentherearetwoways—depending
+on one’s priors—to interpret the result. The first is that if the theoretical relation-
+ship between the characteristic in question and the latent value of IFFs is believed
+tobetrue,thentheresultcanbeinterpretedasindicatingthattheestimateof IFFs
+containsmeaningfulinformation.Forexample,theorysuggeststhatthecapacityof
+a country’s customs administration will affect the level of trade mis-invoicing. If a
+studythenfindsanegativecorrelationbetweenacross-countrytrade-gapmeasure
+andaproxyforacountry’squalityof customsadministration,thenonewaytointer-
+pretthefindingisthatthetrade-gapmeasureismeaningfullypickingupvariationin
+trademis-invoicing.
+The second interpretation is that if one’s prior was that the measure of IFFs
+(e.g.,thetrade-gapmeasure)picksupmeaningfulvariationinIFFs(e.g.,trademis-
+invoicing),thencorrelationwithagivencharacteristic(e.g.,customsadministration
+quality)providesempiricalvalidationastowhichcharacteristicspredictIFFs.Forex-
+ample,if one’smeasureof IFFsisfoundtoincreaseafteranunexpectedwindfallin
+naturalresourcerents,butonlyincountrieswithweakinstitutions,thenthismight
+containinformationonwhereIFFsarelikelytobeoccurring.
+Disconcertingly,thesetwointerpretationsaresomewhatcompeting:theyrequire
+priorseitheraboutthetheoreticalrelationshipbetweenthemeasureof IFFsandthe
+characteristics being regressed on or about the validity of the IFF measure in the
+firstplace.Furthermore,bothinterpretationsrelyonanimportantidentificationas-
+sumption:thatthevariouscharacteristicsbeinginvestigatedareuncorrelatedwith
+measurement error in the estimate of IFFs. For example, countries lacking institu-
+tional capacity might struggle both to detect illicit behavior and to produce error-
+proof statisticsthatcanbeusedinIFFestimates.Despitetheseconcerns,theforensic
+approach can still be used to identify candidate characteristics for future investiga-
+tion.
+Therestof thissubsectionwilldescriberecentstudiesthatfitintothisclassof re-
+search.Thesehavebeencategorizedroughlyaccordingtotheoriginsof illicitflows
+andthechannelsthattheycantake.However,manyof thestudiescovermorethan
+onesourceorchannelof illicitflows.Table2summarizesthemainresultsof these
+studies,includingroughlywhichsourcesandchannelsof IFFstheycover.
+63
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+Table1.DifferentMethodsof QuantifyingIllicitFinancialFlowsandTheirRoughClassification
+Closest
+definition
+Estimationmethod Flow Channels Sources ofIFFs
+Balanceofpayments Allunrecorded,unaccounted Anyformal Anysource Narrow
+methods(sourcesand capitalflows channel
+uses,hot-money-narrow,
+etc.)
+Internationalportfolioand Transfersofassetsoverseas Wiretransfer Anysource Narrow
+depositdata thatremainundeclaredto
+(source)taxauthorities
+Tradegapanalyses Moneymoved(orretained) Trade-based Anysource Narrow
+abroadduetomis-invoicing money
+laundering
+Transferpriceanalyses Profitsshifteddueto Transfer Corporate Broad
+aggressivetransferpricing mis-pricing profits
+Tradepricedeviation Combinationoftradegapand Combinationof Anysource Broad
+analyses transferpriceanalyses tradegapand
+transferprice
+Gravitymodeldeviations Moneysenttoajurisdiction Wiretransfer Anysource Narrow
+solelyforitssecrecy
+Walkermodel Moneygeneratedillegally(or Anychannel Anyillegal Narrow
+illegallywithheldfromstate) source
+thatcrossesaborder
+Structuralmodels Estimatesofillicitfinancethat Anychannel Anyillegal Narrow
+islaundered source
+Source:Author’ssummaryandelaborationofestimationmethods,alongwithassessmentoftheirappropriateclas-
+sification.
+Note:Thistablelistsvariousmethodsofestimatingillicitfinancialflows(IFFs),thetypesofflows,sources,andchan-
+nelstheylikelymeasure,andthemostappropriatedefinitionofIFFstheymeasure,asdeterminedbytheauthor.
+TradeGapsandTradeMisinvoicing
+Thereisalargeeconomicliteratureonthedeterminantsof trademis-invoicing.One
+component focuses on how measures of the trade gap change as the incentives to
+evade increase. Fisman and Wei (2004) found that the evasion gap between Hong
+Kong exports and Chinese imports is positively correlated with Chinese tax rates.
+SimilarstudieshavebeenconductedinIndia(Mishra,Subramanian,andTopalova
+2008),inKenya,Mauritius,andNigeria(BouetandRoy2012),andcross-nationally
+(Kellenberg and Levinson 2019), all yielding similar results. Vézina (2015) found
+that trade discrepancies in exports of natural resources are more likely to occur
+whenexportcontrolsareinplace.Yang(2008)foundthateffortstocurbtariff eva-
+sion in the Philippines reduced evasion gaps but were displaced by other forms of
+tariff evasion, such as importing into an special export-processing zone with tariff
+64 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+srotcaFksiRdnasecruoS,slennahCFFIdnaseidutScisneroFneewtebskniL.2elbaT
+setoN
+secruoS
+slennahC
+emoctuO
+defiitnedirotcafksiR
+ydutS
+gniciovni-simedartdnaspagedarT
+gnoKgnoHnosexattropmI
+noisaveffirat/xaT
+yenomdesab-edarT
+=etarxatniesaercni%1
+sexattropmI
+)4002(ieWdnanamsiF
+anihCotstnempihs
+)LMBT(gnirednual
+pagedartniesaercni%3
+aidnI
+noisaveffirat/xaT
+LMBT
+spagedartrehgiH
+,nainamarbuS,arhsiM )8002(avolapoTdna
+senippilihP
+noisaveffirat/xaT
+LMBT
+spagedartrehgiH
+senozgnissecorptropxE
+)8002(gnaY
+eporuEnretsaEotynamreG
+secruoslaitnetopllA
+LMBT
+pagedartniesaercni%3.1
+stcudorpdetaitnereffiD
+osicraNdnakicrovaJ
+)3002–2991(
+)8002(
+srentrapedartdnaanihC
+llayllaitnetop;noisaveffirat/xaT
+LMBT
+pagedartrehgiH
+setarffiraT•
+anizéVdnaonnutoR
+sFFIfosecruosrehto
+htiwrentrapgnidarT•
+)2102(
+foegatnecreptnacfiingis
+scinhte-oc
+dna,suitiruaM,ayneK
+LMBT
+)2102(yoRdnateuoB
+airegiN
+rofrehgihstceffe;labolG
+LMBT
+)%05–63(spagedartrehgiH
+slortnoctropxE
+)5102(anizéV
+seirtnuoctpurrocerom
+rehgihdahtahtesohtdna
+laicfifosmotsucfoslevel
+trepxEFEW(sebirb
+)0102,yevruSnoinipO
+aisinuT
+tpurroc;noisaveffirat/xaT
+LMBT
+spagedartrehgiH
+smrfidetcennocyllacitiloP
+dna,idadhgaB,srekjiR
+rehtollayllaitnetop;sdeecorp
+)5102(dnallabaR
+sFFIfosecruos
+labolG
+tpurroc;noisaveffirat/xaT
+LMBT
+spagedartrehgiH
+sexatrosffirattropmi/tropxE•
+nosniveLdnagrebnelleK
+rehtollayllaitnetop;sdeecorp
+sdradnatsgnitiduarooP•
+)9102(
+sFFIfosecruos
+noitpurroC•
+tnemeergaedartafokcaL•
+65
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+deunitnoc.2elbaT
+setoN
+secruoS
+slennahC
+emoctuO
+defiitnedirotcafksiR
+ydutS
+htuoSdnaeuqibmazoM
+llayllaitnetop;noisaveffirat/xaT
+LMBT
+spagedartrehgiH
+setarffiraT•
+)6102(arieuqeS
+acirfA
+sFFIfosecruosrehto
+smotsucotstnemyapebirB•
+slaicfifo
+ASS
+tpurroc;noisaveffirat/xaT
+LMBT
+spagedartrehgiH
+setarffiraT•
+dna,azodneM,ukroW
+rehtollayllaitnetop;sdeecorp
+htobni(noitpurrocfosleveL•
+)6102(rewuohleiW
+sFFIfosecruos
+)gniviecerdnagnidnes
+labolG
+llayllaitnetop;noisaveffirat/xaT
+LMBT
+spagedartrehgiH
+noisseccaOTWfokcaL
+osicraNdnakicrovaJ
+sFFIfosecruosrehto
+noitaulavsmotsuc(
+)7102(
+)stnemeerga
+gnirednualyenomdnathgifllatipaclagellI
+ailamoS
+mosnar(sdeecorplanimirC
+gnidulcni,llA
+foserusaemdesab-etilletaS
+cimonocedetcepxenU
+)2102(dnaltrohS
+)yenom
+srefsnartetamitigel
+nihtworgcimonoce
+tnempoleved
+saeradleh-etarip
+sknabnaissuR
+llayllaitnetop;sdeecorplanimirC
+refsnartetamitigeL
+yenomfosetarrehgiH
+foegatnecrephgihekamsknaB
+vokaytiMdnahkynrehC
+sFFIfosecruos
+otstessa/yenomfo
+,segrahcgnirednual
+xatotstnemyap
+)7102(
+nevahxata
+noisavexatdetamitse
+snoitcidsirujycerces/nevah
+ytreporpYN/nodnoL
+secruosticilgnidulcni,llA
+gnidulcni,llA
+latipacfostnuomarehgiH
+ksirlacitiloP
+dnaazniradaB
+ecruoslaitnetoplla,tekram
+srefsnartetamitigel
+ytreporpsaesrevootthgifl
+)8102(iarodamaR
+seirtnuoc
+stekram
+ailamoS
+mosnar(sdeecorplanimirC
+gnidulcni,llA
+saeranisecirpytidommoC
+nisesaercnidetcepxenU
+dna,iksnolbaJ,revilO
+)yenom
+srefsnartetamitigel
+ilamoShtiwdetaicossa
+secirpytidommoc
+)7102(sgnitsaH
+ycraip
+)esubagnicirprefsnartdna(gnicirprefsnart,gnitfihstfiorP
+slanoitanitlumnaeporuE
+xatroecnadiovaxatevisserggA
+esubaecirprefsnarT
+stfiorpdetroperrewoL
+etaroprocrehgih;sexattropmI
+neveaLdnaagniziuH
+noisave
+rehtootevitaler(setarxat
+)8002(
+lanoitanitlumhtiwseirtnuoc
+)ecneserp
+66 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+deunitnoC.2elbaT
+setoN
+secruoS
+slennahC
+emoctuO
+defiitnedirotcafksiR
+ydutS
+xatroecnadiovaxatevisserggA
+esubaecirprefsnarT
+stfiorpdetroperrewoL
+royraidisbusdetalersahmriF
+)2102(ledeiRdnatseuF
+noisave
+nevahxatanitnerap
+xatroecnadiovaxatevisserggA
+esubaecirprefsnarT
+stfiorpdetroperrewoL
+royraidisbusdetalersahmriF
+)5102(starPdnayksnaJ
+noisave
+nevahxatanitnerap
+modgniKdetinU
+xatroecnadiovaxatevisserggA
+esubaecirprefsnarT
+stfiorpdetroperrewoL
+gnixatfometsyslairotirreT
+,rholnesiE-tdimhcS,uiL
+noisave
+stfiorpngierof
+)7102(ouGdna
+seirtnuocgnipoleveD
+xatroecnadiovaxatevisserggA
+esubaecirprefsnarT
+stfiorpdetroperrewoL
+setarxatetaroprocrehgiH
+dna,vølsrøT,nesennahoJ
+noisave
+seirtnuocrehtootevitaler(
+)7102(reiW
+)ecneserplanoitanitlumhtiw
+desab-nacirfAhtuoS
+xatroecnadiovaxatevisserggA
+esubaecirprefsnarT
+stfiorpdetroperrewoL
+setarxatetaroprocrehgiH
+)8102(reiW
+seiraidisbus
+noisave
+seirtnuocrehtootevitaler(
+)ecneserplanoitanitlumhtiw
+htlaewneddihdnanoisavexatetavirP
+tahtstseggusecnedivE
+rehtoyllaitnetop,noisavexaT
+forefsnartetamitigeL
+erohsffofoslevelrehgiH
+foegnahcxelaretalibafokcaL
+namcuZdnanesennahoJ
+ylegralsIOElaretalib
+secruos
+xataotstessa/yenom
+nevahxatanidlehhtlaew
+ytaert)IOE(noitamrofni
+)4102(
+htlaewerohsffoecalpsid
+yllaitnetop,nevah
+aotgnidaelnahtrehtar
+slennahcrehto
+noitairtaper
+tahtstseggusecnedivE
+rehtoyllaitnetop,noisavexaT
+forefsnartetamitigeL
+erohsffofoslevelrehgiH
+IOEfokcaL
+)5102(aeroG
+ylegralsIOElaretalib
+secruos
+xataotstessa/yenom
+nevahxatanidlehhtlaew
+htlaewerohsffoecalpsid
+yllaitnetop,nevah
+aotgnidaelnahtrehtar
+slennahcrehto
+noitairtaper
+67
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23 June
+2021
+
+deunitnoC.2elbaT
+setoN
+secruoS
+slennahC
+emoctuO
+defiitnedirotcafksiR
+ydutS
+tahtstseggusecnedivE
+rehtoyllaitnetop,noisavexaT
+forefsnartetamitigeL
+erohsffofoslevelrehgiH
+noxatgnidlohhtiwfokcaL
+dnaaizilaG-anauraC
+ylegralsexatgnidlohhtiw
+secruos
+xataotstessa/yenom
+nevahxatanidlehhtlaew
+htlaewderalcednu
+)6102(aizilaG-anauraC
+htlaewerohsffoecalpsid
+yllaitnetop,nevah
+aotgnidaelnahtrehtar
+slennahcrehto
+noitairtaper
+saesrevoninoitcuderllarevO
+rehtoyllaitnetop,noisavexaT
+forefsnartetamitigeL
+erohsffofoslevelrehgiH
+foegnahcxecitamotuafokcaL
+)6102(naitramO
+htlaewderalcednu
+secruos
+xataotstessa/yenom
+nevahxatanidlehhtlaew
+noitamrofni
+yllaitnetop,nevah
+slennahcrehto
+dna,yawroN,kramneD
+rehtoyllaitnetop,noisavexaT
+forefsnartetamitigeL
+raeppaotytisneporprehgiH
+htlaewfoslevelhgiH
+,nesennahoJ,retæsdatslA
+nedewS
+secruos
+xataotstessa/yenom
+srepaPamanaPehtni
+)9102(namcuZdna
+yllaitnetop,nevah
+esabatad
+slennahcrehto
+lanoitacoLSIBnoseileR
+etatsfotfeht,noisavexaT
+forefsnartetamitigeL
+redrob-ssorcniesaercninA
+ecruoserlarutanhgiH•
+)7102(.latenesrednA
+;scitsitatSgniknaB
+secruoser
+xataotstessa/yenom
+xatnistisopedgniknab
+stner)muelortep(
+ybnevirdsiemoctuo
+yllaitnetop,nevah
+snevah
+nasiyrtnuocecruoS•
+seicarcotua
+slennahcrehto
+ycarcotua
+rehtoyllaitnetop,noisavexaT
+forefsnartetamitigeL
+erohsffofoslevelrehgiH
+smargorpytsenma,IOEfokcaL
+)8102(.latenesennahoJ
+secruos
+xataotstessa/yenom
+nevahxatanidlehhtlaew
+yllaitnetop,nevah
+slennahcrehto
+aibmoloC
+rehtoyllaitnetop,noisavexaT
+forefsnartetamitigeL
+raeppaotytisneporprehgiH
+fokcal/sexathtlaewniesaercnI
+dnazeléV-oñodnoL
+secruos
+xataotstessa/yenom
+srepaPamanaPehtni
+ytsenma
+)8102(ahcehcaM-alivÁ
+yllaitnetop,nevah
+esabatad
+slennahcrehto
+.noitacfiissalcs’ydutshcaefotnemssessas’rohtuahtiwrehtegot,seidutsdeticehtfoyrammuss’rohtuA:ecruoS
+otdesuerusaememoctuoeht,sefiitnediydutsehttaht)sFFI(swofllaicnanfiticillihtiwdetaicossasrotcafksireht,elcitraehtnidessucsidydutshcaestsilelbatehT:etoN
+.noitamrofnicfiiceps-txetnocynadna,derevoceratahtsecruosdnaslennahcylekileht,sFFIrofyxorp
+68 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+exemptions.JavorcikandNarciso(2008)determinedthatevasionismoreresponsive
+whenthetaxedproductsaredifferentiatedandhenceharderforcustomsofficialsto
+gaugewhetherthepricehasbeenunderstatedoroverstated.
+Corruptionisalsofoundtobeapredictorof evasiongaps(Worku,Mendoza,and
+Wielhouwer2016; Kellenbergand Levinson 2019). Sequeira (2016) found a simi-
+larconnectionbetweentariff rates,bribepaymentstocustomsofficials,andevasion
+gapsintheMozambiquetoSouthAfricatradecorridor.JavorcikandNarciso(2017)
+showedthatevasiongapsarereducedbythecustomsvaluationagreementsimposed
+byWTOaccession.
+Thereisaconnectedlineof researchshowingthattradegapsaremorelikelyfor
+certaintypesof economicactors.RotunnoandVézina(2012)foundthatthesemi-
+elasticitybetweentariff ratesandmissingexportsishigherbetweenChinaandcoun-
+tries where a higher percentage of the population is ethnically Chinese, suggesting
+that trade along these routes is more likely to be subject to abusive practices. Mis-
+pricingcouldalsobemorefrequentamongfirmsthatarelesslikelytobesubjectto
+scrutinybythestate:Rijkers,Baghdadi,andRaballand(2015)foundthatpolitically
+connectedfirmsinTunisiaweremorelikelytoengageinunder-invoicing.
+IllegalCapitalFlightandMoneyLaundering
+Inaningeniousstudyof Russianbanks,ChernykhandMityakov(2017)usedcentral
+bank data to construct an “exposure index” based on the proportions of payments
+that banks make to tax havens in a year. They found that bank exposure to less
+scrupulous tax havens is correlated with an increase in an index of tax evasion,
+constructedusingthedeviationbetweenanemployee’sofficialsalaryandthevalue
+of their car. Moreover, they found that firms which are more closely connected to
+banksusingtaxhavensalsoscorehigheronthetaxevasionindex.Banksthatengage
+morereadilywithtaxhavensarealsomorelikelytosubsequentlyfacemoneylaun-
+deringchargesorhaveacriminalinvestigationbroughtagainsttheirtopmanagers,
+suggesting that some of the transactions that these banks had made are likely to
+havebeenillicit.
+Researchershavealsoattemptedtodetectcapitalflightbylookingforchangesin
+the prices of assets that are likely to be in high demand by people who are moving
+theirmoneyoutof acountry.Forexample,BadarinzaandRamadorai(2018)found
+that when a country’s political risk goes up, there is a concurrent rise in the price
+of realestateinneighborhoodsinNewYorkandLondonthathavearelativelylarge
+shareof residentsfromthatsamecountry.Theinterpretationisthatpoliticalinsta-
+bilityleadspeopletostashtheirmoneyinsafeassets(e.g.,property)inareaswhere
+they have pre-existing connections and that the increased demand for such assets
+leads to the observed increase in prices. As with many studies of this type, it is im-
+possible to tell whether this capital flight is actually illicit. A significant amount of
+(presumably foreign-owned) property in cities such as London is purchased via
+69
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+anonymous offshore shell corporations, arrangements that are significantly more
+likelytocomeundercriminalinvestigation(TransparencyInternational2016).
+Several studies have attempted to find evidence of laundered or illicit assets
+withinthe context of Somali piracy, although these do not strictlyqualifyas cross-
+borderIFFs.Shortland(2012)investigatedhowsatellite-basedmeasuresof economic
+growthshowthatgeographicareasconnectedtoSomalipirategroupsseeimprove-
+mentsinlocaleconomicconditions.Similarly,Oliver,Jablonski,andHastings(2017)
+investigatedhowransomdisbursementscoincidewithchangesincommodityprices
+inareasof Somaliaassociatedwithpiracy.
+PrivateTaxEvasionandHiddenWealth
+Agrowingstrandof literaturefocusesonidentifyingwhathappenstohiddenwealth
+whendestinationcountriesareforcedtorevealinformationaboutitssourceorown-
+ership.UsingdatafromtheBankof InternationalSettlements(BIS)locationalbank-
+ingstatistics(bilateraldataontheamountof depositsincountryAheldbyresidents
+of countryB),JohannesenandZucman(2014)investigatedtheimpactof thesigning
+of bilateralexchangeof information(EOI)treatiesoncross-borderwealthheldintax
+havens.Theyfoundthatbilateraltreatiestendtoreduceoffshoredepositsinsigna-
+torycountriesbutthatthiseffectislargelycounterbalancedbyashiftof depositsto
+taxhavenswhichhavenotsigneduptoanEOItreaty.Whileitisimpossibletoknow
+what share of such shifting wealth is illicit (e.g., part of a tax avoidance scheme),
+thebehavioralresponsetotheintroductionof atreatysuggeststhatitisnonnegligi-
+ble.Likewise,bilateraleffortstocrackdownonunreportedwealth,suchastheUSA-
+initiateddrivethatbeganinthelate2000s,havebeenshowntohaveanimpacton
+reportedwealth(Johannesenetal.2018).
+Similarly,theresultsof studiesusingothermeasuresof indirectwealth—suchas
+officialstatistics(Gorea2015)orleakeddatafromtaxhavens(Caruana-Galiziaand
+Caruana-Galizia2016)—suggestthatstandardbilateralEOItreatiesorlargerinitia-
+tivessuchastheEUTaxandSavingsDirectivedisplace,ratherthanreduce,hidden
+wealth. However, unpublished work by Omartian (2016) using data leaked as part
+of theMossackFonseca/PanamaPapersscandalsuggeststhatadoptionof theOECD
+Common Reporting Standard, which requires automatic exchange of information,
+doesleadtoareductioninassetsheldoffshore.
+The recent high-profile leaks of sensitive data from banks and law firms have
+also been used to examine whether or not the risk of cross-border tax evasion in-
+creaseswithwealth.Inarecentstudy,Alstadsæter,Johannesen,andZucman(2019)
+matched detailed data leaked from HSBC Switzerland and from Mossack Fonseca
+to estimate the incidence of undeclared wealth and use of offshore shell compa-
+niesacrossthewealthdistributioninDenmark,Norway,andSweden.Theyfounda
+sharpincreasein(presumed)taxevasion(95percentof theSwissaccountswerenot
+70 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+declared)anduseof shellcompaniesbytheultra-rich,behaviorthathadnotbeende-
+tectedinrandomizedauditsbytheScandinavianauthorities.Usingasimilarmethod,
+Londoño-VélezandÁvila-Machecha(2018)foundthatoffshoreentitiesconnectedto
+ColombiantaxpayersincreasedaswealthtaxesinColombiagrew,andthatafteran
+individualopensupanewoffshoreentitythetotalvalueof assetstheydeclaretothe
+taxauthorityfellbynearly11percentonaverage.
+The release or acquisition of information itself can lead to changes in behavior,
+as tax evaders anticipate future enforcement when tax authorities gain access to
+confidentialinformation.BethmannandKvasnicka(2016)foundthatvoluntarydis-
+closuresof wealthbyresidentsof theGermanstateof NorthRhine-Westphaliain-
+creasedafterlocaltaxauthoritiespurchasedconfidentialdataonSwissbankaccount
+holders.
+Hiddenwealthhasalsobeenshowntobecorrelatedwithnaturalresourcerents.
+UsingBISdata,Andersenetal.(2017)showedthatanincreaseinpetroleumrents
+(drivenbyincreasesintheglobaloilprice)leadstoanincreaseinwealthheldintax
+havensbycitizensof autocratic,oil-producingcountries.
+Profit-ShiftingandTransferPricingAbuse
+Whileitisdifficulttouseaggregatedatatoestimatefinancialflowsdrivenbytrans-
+ferpricingabuse,economistshavebeensuccessfulinusingeconometricmethodsto
+detectbehaviorconsistentwithtransferpricingabuseandaggressiveprofit-shifting.
+Usingdetailedmicro-dataonEuropeanmultinationals,HuizingaandLaeven(2008)
+foundthatcompaniesreportfewerprofitsinjurisdictionswherethetaxrateishigher
+thantheratesotheraffiliatesface.Johannesen,Tørsløv,andWier(2017)extended
+thisanalysistoaglobalsetof multinationals,findingthatevidenceof profit-shifting
+ishigheramongdevelopingcountries.
+As there is evidence that tax havens allow firms to efficiently avoid taxes
+(BennedsenandZeume2015),multinationalswithconnectionstotaxhavensmaybe
+morelikelytoengageinprofit-shifting.FuestandRiedel(2012)andJanskyandPrats
+(2015)havebothfoundevidenceinanumberof developingcountriesthatmultina-
+tionalswithsuchconnectionsreportfewerprofitsandpaylesstax.
+Thetypeoftaxregimethatacountryhasinplaceinfluencesthepropensityofcom-
+paniestoengageinprofit-shifting.Liu,Schmidt-Eisenlohr,andGuo(2017)foundevi-
+denceof transferpricingamongUK-basedmultinationalfirmsusingmethodssimilar
+tothoseof theaforementionedstudies,buttheyalsofoundthattherelationshipbe-
+tweenrelativetaxratesandprofit-shiftingbecamestrongerwhentheUKauthorities
+movedfromaworldwidetoaterritorialsystemof taxingforeignprofits.
+Evidence of profit-shifting is not in itself sufficient evidence that abusive trans-
+fer pricing practices are at play, but it does suggest that corporations are rationally
+arranging their operations in a way that minimizes their tax burden in high-tax
+jurisdictions. To investigate this hypothesis, researchers typically combine the
+71
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+methods used by Huizinga and Laeven (2008) and Johannesen, Tørsløv, and Wier
+(2017)withdataonactualorimputedtransferprices,asdescribedaboveinthesub-
+sectionontransferpriceanalyses(Bernard,Jensen,andSchott2006;Vicard2015;
+CristeaandNguyen2016;Liu,Schmidt-Eisenlohr,andGuo2017;Daviesetal.2018;
+Wier2018).
+5 Current Policy Efforts to Curb IFFs
+The expansive definition of IFFs has given rise to quite a large and diverse set of
+policy efforts to fight these flows. This section briefly covers some of the domestic
+andinternationaleffortsonthisfront,includingsomemethodsusedtomeasurethe
+efforts.
+Fighting the Sources of Illicit Flows
+Thefirstsetof policyeffortscanbroadlybethoughtof asattemptstostoptheillegal
+activitiesthatgiverisetoIFFs.Thisincludesworkonfighting“standard”crimessuch
+asdrugandpeopletrafficking,violentcrime,theft,andterrorism.Thesecrimesare
+typicallydealtwithbylocallawenforcementagencies,althoughinternationalorga-
+nizationssuchastheUnitedNationsOfficeonDrugsandCrimeandthemyriadmul-
+tilateral counter-terrorism groups play a major role in coordinating efforts around
+curbingcriminalactivitieswithacross-borderelement.
+Domestictaxevasioncanbeanotherprecursortoillicitflows.Effortstoincreasedo-
+mestictaxcomplianceincludeadoptingoradjustingspecifictaxregimesinorderto
+encouragecompliance,suchasintroducingoradjustingvalue-addedtax(Pomeranz
+2015),encouragingvoluntarycompliance(LuttmerandSinghal2014),andbroader
+endeavors to increase tax administrations’ ability to detect tax evasion (Keen and
+Slemrod2017)throughriskassessmentsandaudits.However,whentaxevasionor
+avoidanceisinherentlycross-border(asitwouldbewhenundeclaredwealthisearn-
+inginterestoverseasorwhenacorporationusesabusivetransferpricingtechniques),
+the tax authority will be limited by its ability to obtain taxpayer information from
+overseas.
+Corruption can also be a source of IFFs, and international conventions such as
+theUNConventionAgainstCorruption,theOECDAnti-briberyConvention,andthe
+USA’s Foreign Corrupt Practices Act have been used to establish norms and best
+practices around preventing corrupt practices. Many countries around the world
+haveestablishedanti-corruptionoffices,whicharegovernmentagenciesspecifically
+tasked with examining and investigating government corruption, although their
+efficacy is likely to be context-specific. Specific interventions have typically focused
+onincreasingtransparencyconcerningpoliticians’financesandconflictsof interest
+72 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+as well as the financial decisions made by governments (Djankov et al. 2010). In
+areaswherethereisaperceptionof increasedriskof corruption,suchasthenatural
+resources and mining sectors, initiatives such as the Extractive Industries Trans-
+parencyInitiativehaveattemptedtoshedmorelightonthecontractssignedbetween
+governmentsandtheprivatesectoraswellastheflowof subsequentrevenues.
+Making the Formal Financial Sector More Hostile to IFFs
+When illicit activity cannot be staunched, the formal financial sector is a common
+conduit for the resulting flows. The large banking scandals involving money laun-
+dering and sanctions violations in recent years suggest that this remains a sizable
+problem(Collin,Cook,andSoramäki2016).Asaresult,policymakershavefocused
+onmakingthefinancialsectorasinhospitableforIFFsaspossible.Theseeffortscome
+mainlyintheformof AMLregulations,forwhichcommonstandardsarenowsetby
+theFATF.TheFATFhasproduced40recommendationsof actionsforgovernmentsto
+take,suchastoimplementinternationalAMLconventions,tomakemoneylaunder-
+ingitself acrime,topromotedue-diligenceeffortsinthepublicandprivatesectors,
+toestablishspecialinstitutions(knownasfinancialintelligenceunits)tofightmoney
+laundering, and to increase cooperation between law enforcement agencies in dif-
+ferentjurisdictions(FinancialActionTaskForce2012).17Theseactionsalsoinclude
+putting pressure on the financial sector or related industries to report suspicious
+transactionstoauthoritiesandtocollectandsharebeneficialownershipinformation
+when it is requested. There has been near-universal adoption of FATF standards
+across the globe, although many jurisdictions are not fully compliant with the 40
+recommendations.18
+In the following, three ways in which AML institutions or underlying risks are
+commonly measured—by the FATF, by the US State Department, and by countries
+themselves—willbedetailed.
+FATFMutualEvaluationReports
+To judge how countries are performing against its recommendations, the FATF
+facilitatesareviewof eachcountry’seffortinfightingmoneylaundering.Members
+of what are called “FATF-style regional bodies” are subject to mutual evaluations
+everyfivetotenyears.Overan18-monthprocess,expertgroupsassesstheextentto
+whichcountriesarecompliantwithFATF’srecommendations.Countriesareratedas
+non-compliant,partiallycompliant,largelycompliant,orcompliant.Muchlikethe
+FSI,FATF’sMutualEvaluationReports(MERs)arelikelytobereasonableestimates
+of how conducive a country is for money launderers. However, to date there has
+beennoattempttolinkFATFratingstoanyindicatorsof moneylaundering(actual
+orconstructed).Furthermore,theinfrequencyof MERsandfollow-upreportingand
+thelackof anyconsolidateddatabaseof MERresultsmakeitdifficulttoconstructa
+73
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+usefultime-varyingmeasureof riskfromthisexercise.FinallyMERscanbethought
+of as assessments of overall money laundering risk, including the risk of internal
+money laundering, which does not qualify as an IFF under standard definitions.
+However,flowseitherenteringorleavingcountriesthatscorepoorlyonMERsmight
+beconsideredatriskforbeingillicitflows.
+Withregardtothechannelsof IFFs,theFATFrecommendationsarelargelyfocused
+onensuringthatboththefacilitatorsof cross-borderfinancialtransactions(mainly
+banks)andthemethodsusedforthosetransactions(e.g.,wiretransfersandmoney
+orders)aresecureandnotatriskof abuse.However,manyFATFrecommendations
+dealwithacountry’soverallabilitytodetectandaddresssuspiciouscross-borderac-
+tivity,whichislikelytoaffectallpotentialIFFchannelstosomedegree.Intermsof
+sources of IFFs, the FATF recommendations have a keen focus on criminal money
+laundering,terroristfinancing,andmoneyhandledbythoseinpoliticalpower,but
+theyhavethepotentialtoaffectallpotentialsourcesof IFFs.
+It is unclear whether lack of compliance with FATF standards, as measured by
+MERs,islikelytobeastrongpredictorof actualillicitbehavior.WhileFATF-compliant
+countries tend to be more prosperous (see fig. 1) and less corrupt, this tells us very
+little about their actual propensity for IFFs. What little evidence there is suggests
+that national FATF compliance may not strongly affect the decisions of the private
+sector when it comes to dodgy behavior: a study by Findley, Nielson, and Sharman
+(2014) found that when approached, corporate service providers in countries that
+scoredwellonMERswerejustaslikelytoofferoffshoreserviceswithouttherequired
+due-diligencechecksas those in countrieswith low scores.Furthermore, countries
+thatscorewellonMERsappearmorelikelytomakeuseof offshoreshellcorporations
+basedintaxhavens,evenaccountingfordifferencesinincome(Collin2016).
+InternationalNarcoticsControlStrategyReports
+EveryyeartheUSDepartmentof StateproducesanInternationalNarcoticsControl
+StrategyReport(INCSR),whichcontainsanexpert(thoughlargelydesk-based)as-
+sessment of countries’ susceptibility to money laundering abuse. This includes an
+assessment of 23 actions (mainly laws and regulations) and designation of a sub-
+setof countriesas“jurisdictionsof primaryconcern.”Aswithpreviousexercises,it
+ishardtodiscernhowcloselytheINCSRassessmentsarecorrelatedwithunderlying
+illicitflows.WhileINCSRsarelargelyfocusedontheproceedsof drugtraffickingas
+asourceof IFFs,the23actionstheyassess,similartotheFATF’srecommendations,
+arelikelytoaffectallpotentialsourcesandchannelsof IFFs.
+NationalRiskAssessments
+TheFATFrequirescountriestoidentifyandassessthemoneylaunderingandterror-
+istfinancingriskthattheyface.NationalMoneyLaunderingandTerroristFinancing
+74 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+Risk Assessments (NRAs) are comprehensive expert assessments of the degree to
+which an economy risks abuse by either money launderers or terrorist financiers.
+Althoughcountrieshavebeenperformingthesekindsof assessmentsforanumber
+of years,recentFATFguidanceconcerningthestructureandformatof NRAshasled
+toanincreaseintheiruse.AspertheFATFguidelines,NRAsconsidercountry-level
+risks to be a function of three factors: the underlying threat of money laundering,
+thevulnerabilityof theeconomytomoneylaunderingabuse,andtheconsequences
+thatmoneylaundering(orterroristfinancing)mighthaveonthecountry.Countries
+undergoing an NRA exercise typically form an “expert team” or “working group,”
+comprising experts from relevant agencies who assess these three factors using
+all available information and data. Many developing countries use a standardized
+toolkitdesignedandsupportedbytheWorldBanktoconducttheseriskassessments.
+At present, NRAs are conducted too infrequently and idiosyncratically to produce
+comparablecross-countrydataonIFFrisk.
+Helping Governments Detect and Track Down IFFs
+International borders create a substantial information asymmetry problem for tax
+authoritiesandfinancialintelligenceunits.Itcanbedifficult,forinstance,foratax
+authoritytodeterminewhetheraspecifictaxpayerholdsuntaxedassetsoverseasor
+if thesubsidiaryof amultinationalcorporationisreportingthemajorityof itsprofits
+inanoffshorefinancialcenter.Similarly,if ananti-corruptionagencywantstoknow
+whether a local politician is the true owner of a shell corporation that just bought
+property in London, it will be unable to find answers without assistance from the
+Britishauthorities.
+To overcome the asymmetry problem, there have been recent efforts to increase
+information sharing between relevant government agencies (sometimes referred to
+as“competentauthorities”).Taxauthoritiescanformbilateralandmultilateralar-
+rangements with other competent authorities for the purpose of sharing informa-
+tion,eitherbyrequestinginformationonspecifictaxpayers(knownasexchangeof
+information on request, or EOIR) or through the automatic receipt of information
+onallrelevanttaxpayersonaregularbasis(knownasautomaticexchangeof infor-
+mation, or AEOI). A recent addition has been the move to require parent multina-
+tional companies to file country-by-country reports (CBCR) in their home jurisdic-
+tion, detailing aggregate information on the profits, tax payments, and operations
+of their subsidiaries in every jurisdiction of operation. The creation and prolifera-
+tionof standardsandlegalframeworksforAEOI,EOIR,andsharingCBCRarepro-
+moted by initiatives such as the Global Forum on Transparency and Exchange of
+InformationforTaxPurposesandtheOECDBaseErosionandProfitShiftingaction
+plan.
+75
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+Finally,whenillicitflowsthatinvolvestolenassetsaredetectedexpost,repatriating
+lostrevenueorgovernmentresourcescanbelegallydifficult.Programssuchasthe
+StolenAssetRecoveryInitiative(StAR),acollaborationbetweentheUnitedNations
+OfficeonDrugsandCrimeandtheWorldBank,assistcountriesinrequestinglegal
+assistancefromotherjurisdictionstofreezeandrepatriatestolenassets.
+Manyof thepoliciesdescribedherehavenotyetbeensubjecttocarefulempirical
+investigation,althoughsomeof themhavebeenexaminedintheforensicliterature
+discussedearlier.
+6 Reconciling and Advancing Research on IFFs
+Despite the considerablenumber of studiesdealingwith IFFs, rigorousresearchon
+thetopicisstillinitsinfancy.Thissectiondiscussesafewdirectionsinwhichthere-
+searchmightprogressif itistobecomemorecoherentandusefulfordetectingand
+fightingIFFs.
+Efforts to Verify the Scale and Scope of Actual IFFs
+Thethreebroadapproachessurveyedhereshareasimilarlimitation:alackof data
+on the underlying phenomenon. Without reliable, representative data on actual il-
+licit activity, the estimates will inevitably contain an unverifiable amount of error,
+whichwilllimittheirusefulnessfordeterminingthescaleof illicitflowsandiniden-
+tifying areas of urgency. Refinements to existing methods might help to reduce the
+error. For example, recent revisions to GFI’s methodology have led to a reduction
+intheirglobalestimatesof IFFs.However,theserefinementscancarrywiththema
+falsesenseof precision;withouttheabilitytocalibrateorcomparetheestimateswith
+actual numbers, the effects of methodological improvements will always be in the
+abstract.
+ItwouldthenseemthatuncoveringbetterdataonactualIFFsshouldbeapriority.
+Onamicroscale,randomizedauditscouldplayarole.Foranypopulationthatcould
+be contaminated by IFFs (e.g., taxpayers, exports, or financial transactions), a ran-
+domizedauditcanuncoverthetrueamountthatwasillicit,aswellastheunderlying
+characteristics that predict it. For example, Alstadsæter, Johannesen, and Zucman
+(2019) combined randomized audits and leaked tax haven data to determine that
+highlevelsof wealthpredictgreaterlevels(andproportions)of taxevasion.
+Therearelimitstothisapproach;auditsareexpensiveandcancoveronlyspecific
+populations in specific contexts. Those wishing to quickly verify global estimates
+of IFFs will not find this approach satisfactory. The process would be slowed down
+evenfurtherbythefactthatrandomizationomitsanyriskcriteriathatinvestigators
+might have used to select their audit sample, and so may be an inefficient way to
+detect illicit behavior.19 Finally, while audits are considered to reveal the “truth”
+76 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+in many contexts, they are less likely to pick up cross-border activity (Alstadsæter,
+Johannesen, and Zucman 2019). Despite these limitations, combining estimates
+of IFFswithactualauditdatacouldbeausefulwaytogainunderstandingof how
+robusttheestimationmethodsreallyare.
+InadditiontocarefullytargetedattemptstoverifyIFFestimates,moreworkcould
+be done to compare existing estimates (or construct new ones) using proprietary
+or government-generated data sources. Governments and multilateral institutions
+gather and control many sources of data that are pertinent to the study of illicit
+flows, ranging from crime data to suspicious transactions reports to more detailed
+tradeandfirmdata.Suchdatacouldbeusedtoimproveupontheforensicmethods
+andevidencepresentedearlierinthearticle.Therefinementprocessislikelytocon-
+tinueinthepiecemealwayithassofar,butmoregainsmaybeachievedwithamore
+concerted effort by governments and multilateral organizations to share and link
+data.
+The Dashboard Approach to Illicit Financial Flows
+AggregatingIFFsintoasinglenumbermaynotmakemuchsense.Asdiscussedear-
+lier,certaintypesof flowsmaybeeasiertomeasure,ortheremaybemoredemandfor
+measuringthem.Estimatescansometimesconflatesourcesandchannelsordouble
+count.Thiscouldmakecertainproblemsseemworsethanotherssolelybecausethey
+aremorereadilymeasured.Whilehavingasingleglobalnumbermayseemdesirable
+fromtheperspectiveof trackingprogress,suchnumberscanconveyafalsesenseof
+precisionandmakeitmoredifficulttounderstandwhetherpolicyeffortsareactually
+havinganimpactonillicitflows.Instead,researchandmeasurementworkwouldbe
+morefruitfulif a“dashboard”approachtoIFFsistaken(Ravallion2011),suchthat
+effortstomeasuredifferentsourcesandchannelsarebothconsideredandimproved
+uponseparately.
+Taking Lessons from the Impact Evaluation
+AlthoughresearchonIFFsisgrowinginscopeandsophistication,thefocushasbeen
+largelydescriptivesofar.Eventheforensicresultsaresomewhatlimitedintheirability
+tocausallyconnectchangesinpoliciestoreductionsinestimatesof IFFs.Thisisoften
+aconsequenceof thescaleof thesestudies—causalidentificationforcross-country
+studiesisadifficultproblem.Ignoringtheissueof noiseinIFFestimates,manyof the
+studies involving risk factors fall victim to the Lucas (1976) critique that even if a
+changeinariskfactorisassociatedwithachangeintheoutcomeof interest,policies
+whichaffectthatriskfactormaynotleadtoactualchangesintheoutcome.
+Carefully designed impact evaluations, particularly those that rely on experi-
+mental or quasi-experimental methods, could help shed more light on the policies
+77
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+that are most effective at fighting IFFs. This approach is already becoming more
+popularinareascloselyassociatedwithIFFs,includingtaxcompliance(Hallsworth
+2014; Pomeranz 2015; Carrillo, Pomeranz, and Singhal 2017), corruption (Olken
+2007), and regulatory compliance (Duflo et al. 2013). The concern that changes
+in certain characteristics seen in many forensic studies may also lead to changes
+in the measurement error of IFFs was discussed above. A further benefit of re-
+lying on rigorous, well-identified studies is that they more often focus on very
+specificpolicychanges,whicharelikelytohaveamoredirecteffectontheoutcome
+of interest.
+Turning to Structural Methods
+Where causal or direct estimates are difficult or impossible to obtain, the IFF re-
+searchagendamaybenefitfromtechniquesdevelopedinotherareasconcernedwith
+estimating unobserved, latent phenomena. As discussed previously, there are al-
+readysimilaritiesbetweenIFFresearchandtheliteratureonmeasuringtheinformal
+economy. Indirect structural methods such as the “multiple indicators, multiple
+causal”(MIMIC)approach,whicharepopularinthelatterliterature,mightbothal-
+lowfortheconstructionof meaningfulestimatesandsolvetheinterpretationprob-
+lemposedinthesectiononforensicstudies.However,withoutcalibrationwithactual
+underlying data, structural methods for estimating latent variables will not escape
+criticism(Feige2016;Kirchgässner2017).
+Opening up Methods and Data to Verification and Replication
+To date, although most estimates of the volume of IFFs are available to the public,
+the underlying data and code used to calculate them are not. Given that economic
+researchisfacingareplicationcrisissimilarto,albeitlessseverethan,thatof other
+social sciences (Chang and Li 2017), opening the data and code up to the public
+could have a number of benefits. Many estimates, especially those involving the
+manipulation of detailed bilateral trade data, entail substantial fixed costs for any
+researcherswishingtocalculatenewfiguresorreplicateolderones.Recentworkby
+Nitsch(2016)hassuggestedthatsmallchangestounderlyingassumptionscanhave
+largeimplicationsfortheresultingestimates.Sometimes,asinthecaseof UNCTAD’s
+study on gold exports from South Africa, the resulting revision to estimates can be
+substantial (Forstater 2017a). As assumptions are difficult to investigate without
+the source data and code, estimates often enter the public debate before they have
+been externally verified. Increasing the transparency around these calculations
+mightalsomakeiteasierforresearcherstodiscusswaystoimprovethemforfuture
+iterations.
+78 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+Looking at the Impact of IFFs on Source and Destination Countries
+Themajorityof thestudiesdiscussedinthisarticleattempttoeithermeasureIFFsor
+examinetheirdeterminants.Aslaidoutintheintroductionof thisarticle,thereasons
+thateconomistsandpolicymakersshouldbeconcernedwithIFFsstemfromtheirpo-
+tentialnegativeimpactsonbothsendingandreceivingeconomies.Asmeasurement
+of IFFsimproves,anaturalnextstepwillbetoexaminethesenegativeimpacts,which
+atthisstagearelargelytheoretical.Currentestimateshavemostlyfocusedonlosttax
+revenue due to base erosion and profit-shifting (Crivelli, De Mooij, and Keen 2016;
+CobhamandJansky2018)orinterestonundeclaredwealth(Zucman2013).There
+isconsiderableroomforfurtherresearchonothernegativeimpacts,suchasmarket
+distortionsdrivenbyincomingillicitflows,distortionsinpolicymakingduetoincom-
+pleteinformationonfinancialflows,andwhetherornotunderlyingcriminalactivi-
+tiesareelasticwithrespecttotheabilitytochannelill-gottengainsoverseas.
+7 Conclusion
+Manywillfindtheterm“illicitfinancialflows”tobearbitraryandoverlybroad.How-
+ever,thisconceptcanstillbeusefulforbroadlyclassifyingcross-borderflowsthatde-
+serve further attention from researchers and policymakers. As IFFs represent a di-
+verse,disparategroupof activitiesandflows,itwouldmakesensetobreakthedefini-
+tiondownintospecific,manageableproblemsandlinesof inquiry.
+Thisarticlehasattemptedtosurveythecurrentstateof thinkingaboutthedefini-
+tionof IFFsandtopresentandcritiquemethodsof measuringandinvestigatingsuch
+flows.Whilethisreviewisnotfullycomprehensive,itshouldneverthelessbeindica-
+tiveof theempiricalstateof knowledgearoundtheissueof IFFs.Finally,thearticle
+hassuggestedsomepotentialwaysforwardfortheIFFresearchagenda,largelyrely-
+ingonabottom-upapproachtovalidatingestimatesandconsideringspecifictypes
+of flows.Whiletop-downestimatesmightbemoreusefulforgarneringattentionto
+andsupportfortheissue,bottom-upapproachescanpotentiallyyieldmoreeffective
+policiesfordealingwithillicitflows.
+Notes
+MatthewCollinisDavidM.RubensteinFellowattheBrookingsInstitution,Washington,DC;email:
+mcollin@brookings.edu. This article was written while the author was a Young Professional in the
+WorldBank’sGlobalTaxTeam.HewouldliketothankJoelTurkewitz,PeterReuter,andMarijnVerho-
+evenfortheirsupport,discussions,andsuggestions,aswellasMayaForstater,BobRijkers,Pierre-Louis
+Vézina,participantsatthe2ndZurichConferenceonPublicFinanceinDevelopingCountries,andtwo
+anonymousreviewersfortheirhelpfulfeedback.Allerrorsandallviewsexpressedinthisarticlearethe
+author’sown.
+79
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+1. SalomonandSpanjers(2017)estimatesillicitflowsfromdevelopingcountriestohavebeennearly
+$1trillionin2014.InarecentreportfortheUnitedNationsOfficeonDrugsandCrime,Pietschmann
+andWalker(2011)estimatedtotalmoneylaunderingtobeapproximately$1.5trillionayearasof2009,
+althoughitisnotclearwhatproportionofthiswouldqualifyasillicitflowsunderprevailingdefinitions.
+2. Othernegativeconsequencesmightincludeincreasesininequalitydrivenbyuntaxedoffshore
+wealth,marketdistortionsdrivenprimarilybythedemandforillicitflowstoremainhidden,suchasreal
+estatebubblesortaxhavenservices,andfinallydistortionsinofficialstatisticsandlackof government
+influenceoverfinancialflows,bothof whichcanimpedemacroeconomicforecastingandplanning.
+3. Thisisthedefinitionfollowedbythenon-governmentalorganizationGlobalFinancialIntegrity,
+theInternationalMonetaryFund,andtheWorldBank.
+4. Theuseof“sources”and“channels”aswaysofcharacterizingIFFswasdevelopedbyPeterReuter.
+5. AflowwillalsoqualifyasanIFFif itsultimateuseisillegal.Themostcommonlycitedillicituse
+of cross-borderfundsisterroristfinancing.
+6. “Abuse”inthiscontextisoftenill-defined,butacommonmetriciswhetherornotatransaction
+betweensubsidiariesdeviatesfromthearms-lengthprinciple—thatrelatedfirmsshouldtransfergoods
+atthesamepriceastheywouldhaveif theyhadbeenunrelated.
+7. Onewayof restrictingtherangeof fundsthatmightbeclassifiedasIFFsduetoillegalusewould
+betoconsideronlyfundstransferredforthesolepurposeof thatuse.
+8. Theworkingpaperof JohannesenandPirttilä(2016)providesausefulsummaryof methodsfor
+estimatingvariousformsof capitalflightorIFFs.
+9. GFIupdatedthismarkupfrom10percentto6percentfollowingupdatestotheOECDInterna-
+tionalTransportandInsuranceCost(ITIC)database.
+10. Untilitsmostrecentpublication,forasubsetofcountrieswithlackofdatacoverageoridiosyn-
+craticerrorsintheirbilateralstatistics,GFIusedglobalcomparisonsratherthanbilateralones(Forstater
+2017b).
+11. ThischangewasmadeaftercriticismbyKesslerandBorst(2013).
+12. TheGERmethoddiscussedearliermightalsopickuptransfermis-pricingwhenexportsorim-
+portsareroutedthroughmarketinghubs.
+13. Zucman(2013)usesaconstructeddataset,namelythe“ExternalWealthofNations”produced
+byLaneandMilesi-Ferretti(2007). √
+14. TheformulaisFSI=(SecrecyScore)3×3 ofGlobalScaleWeight.
+15. Inreality,theweightingishighlysubjectiveandsomewhatarbitrary.Theauthornotesthathe
+hastwicebeenpartof anexpertpanelthatreviewstheAMLIndexonanannualbasis.
+16. TheresultshereuseGERandhot-money-narrowresultspublishedbytheGFIin2017(Salomon
+andSpanjers2017),asthisisthelatestyearinwhichGFIreleasedbothitsGERandhot-money-narrow
+calculationsatthecountrylevel.
+17. Since2014,theFATFhasincludedindicatorsintendedtocapturetheeffectivenessof AMLin-
+stitutions,ratherthanfocusingsolelyontechnicalcompliance.
+18. Forthe46countriesthathavebeenassessedagainstthe2012FATFstandards,theaveragecoun-
+tryhadaratingof“mostlycompliant”or“compliant”foronly24outofthe40technicalrecommenda-
+tions(author’scalculation).
+19. Asecondapproachmightinvolveusingexistingestimatesof IFFsandtheirriskindicatorsas
+thecriteriaforauditdecisions.Forexample,recentresearchontradegapsinMadagascarhassuggested
+thatwithdetaileddata,specificproductsorfirmscouldbetargetedforfurtherinvestigationbycustoms
+officials(Chalendard,Raballand,andRakotoarisoa2019).
+References
+Alstadsæter,A.,N.Johannesen,andG.Zucman.2018.“WhoOwnstheWealthinTaxHavens?Macro
+EvidenceandImplicationsforGlobalInequality.”Journalof PublicEconomics162(June):89–100.
+80 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+——.2019.“TaxEvasionandInequality.”AmericanEconomicReview109(6):2073–103.
+Andersen,J.J.,N.Johannesen,D.D.Lassen,andE.Paltseva.2017.“PetroRents,PoliticalInstitutions,
+andHiddenWealth:EvidencefromOffshoreBankAccounts.”Journalof theEuropeanEconomicAsso-
+ciation15(4):818–60.
+Badarinza,C.,andT.Ramadorai.2018.“HomeAwayfromHome?ForeignDemandandLondonHouse
+Prices.”Journalof FinancialEconomics130(3):532–55.
+Baker,R.W.2005.“Capitalism’sAchillesHeel:DirtyMoneyandHowtoRenewtheFree-MarketSys-
+tem.”Hoboken:JohnWiley&Sons.
+Bennedsen,M.,andS.Zeume.2015.“CorporateTaxHavensandShareholderValue.”InProceedings.
+AnnualConferenceonTaxationandMinutesof theAnnualMeetingof theNationalTaxAssociation,vol.
+108,1–62.Washington,DC:NationalTaxAssociation.
+Bernard,A.B.,J.B.Jensen,andP.K.Schott.2006.“TransferPricingbyUS-BasedMultinationalFirms.”
+NBERWorkingPaperNo.12493,NationalBureauof EconomicResearch,Cambridge,MA.
+Bethmann,D.,andM.Kvasnicka.2016.“InternationalTaxEvasion,StatePurchasesof Confidential
+BankDataandVoluntaryDisclosures.”DiscussionPaperSeriesNo.1603,InstituteofEconomicRe-
+search,KoreaUniversity,Seoul.
+Bhagwati,J.1964.“OntheUnderinvoicingof Imports.”OxfordBulletinof EconomicsandStatistics27
+(4):389–97.
+Blankenburg,S.,andM.Khan.2012.“GovernanceandIllicitFlows.”InDrainingDevelopment?Con-
+trollingFlowsof IllicitFundsfromDevelopingCountries,editedbyP.,Reuter,21–68.Washington,DC:
+WorldBank.
+Bohoslavsky,J.P.2016.“FinalStudyonIllicitFinancialFlows,HumanRightsandthe2030Agendafor
+SustainableDevelopmentoftheIndependentExpertontheEffectsofForeignDebtandOtherRelated
+InternationalFinancialObligationsof StatesontheFullEnjoymentof AllHumanRights,Particu-
+larlyEconomic,SocialandCulturalRights.”A/HRC/31/61,UnitedNationsHumanRightsCouncil,
+Geneva,Switzerland.https://digitallibrary.un.org/record/831668/.
+Bouet,A.,andD.Roy.2012.“TradeProtectionandTaxEvasion:EvidencefromKenya,Mauritius,and
+Nigeria.”Journalof InternationalTrade&EconomicDevelopment21(2):287–320.
+Carrillo,P.,D.Pomeranz,andM.Singhal.2017.“DodgingtheTaxman:FirmMisreportingandLimitsto
+TaxEnforcement.”AmericanEconomicJournal:AppliedEconomics9(2):144–64.
+Caruana-Galizia,P.,andM.Caruana-Galizia.2016.“OffshoreFinancialActivityandTaxPolicy:Evi-
+dencefromaLeakedDataSet.”Journalof PublicPolicy36(3):457–88.
+Chalendard,C.,G.Raballand,andA.Rakotoarisoa.2019.“TheUseof DetailedStatisticalDatainCus-
+tomsReforms:TheCaseof Madagascar.”DevelopmentPolicyReview37(4):546–63.
+Chang,A.C.,andP.Li.2017.“APreanalysisPlantoReplicateSixtyEconomicsResearchPapersThat
+WorkedHalf of theTime.”AmericanEconomicReview107(5):60–4.
+Chernykh,L.,andS.Mityakov.2017.“OffshoreSchemesandTaxevasion:TheRoleof Banks.”Journal
+of FinancialEconomics126(3):516–42.
+Christian Aid. 2009. “False Profits: Robbing the Poor to Keep the Rich Tax-Free.” Report, March
+2009, Christian Aid, London, UK. https://www.christianaid.ie/sites/default/files/2017-08/false-
+profits-robbing-the-poor-to-keep-rich-tax-free-march-2009.pdf.
+Cobham, A. 2014. “The Impacts of Illicit Financial Flows on Peace and Security in Africa.” Dis-
+cussion Paper, Tana High Level Forum on Peace and Security in Africa, Addis Ababa, Ethiopia.
+https://www.africaportal.org/documents/12549/IFFs_and_Security_1.pdf.
+Cobham,A.,andP.Jansky.2018.“GlobalDistributionof RevenueLossfromCorporateTaxAvoidance:
+Re-estimationandCountryResults.”Journalof InternationalDevelopment30(2):206–32.
+81
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+Collin,M.2016.“ThePanamaPapersandtheCorrelatesof HiddenActivity.”CenterforGlobalDevelop-
+ment(blog),April15.https://www.cgdev.org/blog/panama-papers-and-correlates-hidden-activity/.
+Collin,M.,S.Cook,andK.Soramäki.2016.“TheImpactofAnti-MoneyLaunderingRegulationonPay-
+mentFlows:EvidencefromSWIFTData.”CGDWorkingPaperNo.445,CenterforGlobalDevelop-
+ment,Washington,DC.
+Cristea,A.D.,andD.X.Nguyen.2016.“TransferPricingbyMultinationalFirms:NewEvidencefrom
+ForeignFirmOwnerships.”AmericanEconomicJournal:EconomicPolicy8(3):170–202.
+Crivelli,E.,R.DeMooij,andM.Keen.2016.“BaseErosion,ProfitShiftingandDevelopingCountries.”
+FinanzArchiv:PublicFinanceAnalysis72(3):268–301.
+Davies,R.B.,J.Martin,M.Parenti,andF.Toubal.2018.“KnockingonTaxHaven’sDoor:Multinational
+FirmsandTransferPricing.”Reviewof EconomicsandStatistics100(1):120–34.
+Djankov,S.,R.LaPorta,F.Lopez-deSilanes,andA.Shleifer.2010.“DisclosurebyPoliticians.”American
+EconomicJournal:AppliedEconomics2(2):179–209.
+Duflo,E.,M.Greenstone,R.Pande,andN.Ryan.2013.“Truth-TellingbyThird-PartyAuditorsandthe
+ResponseofPollutingFirms:ExperimentalEvidencefromIndia.”QuarterlyJournalof Economics128
+(4):1499–545.
+Eunomix. 2017. “A Review of the UNCTAD Report on Trade Misinvoicing, with a Full Coun-
+terfactual on South African Exports.” Final Report, June 5, Eunomix Research, Johannesburg,
+South Africa. https://www.mineralscouncil.org.za/industry-news/media-releases/2017/send/29-
+2017/471-independent-review-of-the-unctad-report-final.
+Feige, E. 2016. “Reflections on the Meaning and Measurement of Unobserved Economies: What
+Do We Really Know about the ‘Shadow Economy’?” Journal of Tax Administration 2 (1),
+http://jota.website/article/view/69.
+Ferwerda,J.,M.Kattenberg,H.-H.Chang,B.Unger,L.Groot,andJ.A.Bikker.2013.“GravityModelsof
+Trade-BasedMoneyLaundering.”AppliedEconomics45(22):3170–82.
+FinancialActionTaskForce.2012.“InternationalStandardsonCombatingMoneyLaunderingand
+theFinancingof Terrorism&Proliferation:TheFATFRecommendations.”FATFRecommendations
+2012,FinancialActionTaskForce/OECD,Paris,France.
+FinancialTransparencyCoalition.2015.“IllicitFinancialFlows:Overviewof Concepts,Methodologies
+andRegionalPerspectives.”Reportof aMentoringWorkshoponIllicitFinancialFlowsorganized
+bytheCenterforBudgetandGovernanceAccountabilityandFinancialTransparencyCoalition,Fi-
+nancialTransparencyCoalition,Washington,DC.https://financialtransparency.org/reports/illicit-
+financial-flows-overview-of-concepts-methodologies-and-regional-perspectives/.
+Findley,M.G.,D.L.Nielson,andJ.C.Sharman.2014.GlobalShellGames:ExperimentsinTransnational
+Relations,Crime,andTerrorism.Cambridge,UK:CambridgeUniversityPress.
+Fisman,R.,andS.-J.Wei.2004.“TaxRatesandTaxEvasion:Evidencefrom‘MissingImports’inChina.”
+Journalof PoliticalEconomy112(2):471–96.
+Forstater,M.2015.“CanStopping‘TaxDodging’byMultinationalEnterprisesClosetheGapinDevel-
+opmentFinance?”CGDPolicyPaperNo.69,CenterforGlobalDevelopment,Washington,DC.
+——.2016.“IllicitFlowsandTradeMisinvoicing:AreWeLookingUndertheWrongLamppost?”CMI
+InsightNo.5,Chr.MichelsenInstitute,Bergen,Norway.
+——.2017a.“GapsinTradeDataDoNotEqualCriminalMoneyLaundering.”CenterforGlobalDevelop-
+ment(blog),January6.https://www.cgdev.org/blog/gaps-trade-data-criminal-money-laundering.
+——. 2017b. “Illicit Financial Flows and Trade Misinvoicing: Time to Reassess.” Center for
+Global Development (blog), September 1. https://www.cgdev.org/blog/illicit-financial-flows-and-
+trade-misinvoicing-time-reassess.
+82 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+Frey,B.S.,andH.Weck-Hanneman.1984.“TheHiddenEconomyasan‘Unobserved’Variable.”Euro-
+peanEconomicReview26(1–2):33–53.
+Fuest,C.,andN.Riedel.2012.“TaxEvasionandTaxAvoidance:TheRoleof InternationalProfitShift-
+ing.”InDrainingDevelopment?ControllingFlowsof IllicitFundsfromDevelopingCountries,editedbyP.,
+Reuter,109–42.Wasington,DC:WorldBank.
+Gaspar,V.,L.Jaramillo,andM.P.Wingender.2016.“TaxCapacityandGrowth:IsThereaTipping
+Point?”IMFWorkingPaperNo.16/234,InternationalMonetaryFund,Washington,DC.
+Gorea,D.2015.“CatchMeIfYouCan:USTaxTreatiesandShiftsinOffshoreInvestments.”Unpublished
+manuscript.https://sites.google.com/site/goreadenis/ofc_revision_v2.pdf.
+Hallsworth,M.2014.“TheUseofFieldExperimentstoIncreaseTaxCompliance.”OxfordReviewofEco-
+nomicPolicy30(4):658–79.
+Henry,J.S.2012.“ThePriceof OffshoreRevisited.”Report,July.TaxJusticeNetwork,Chesham,UK.
+https://www.taxjustice.net/cms/upload/pdf/Price_of_Offshore_Revisited_120722.pdf.
+Huizinga, H., and L. Laeven. 2008. “International Profit Shifting within Multinationals: A Multi-
+CountryPerspective.”Journalof PublicEconomics92(5):1164–82.
+ICAR.2017.BaselAMLIndex2017.Anti-MoneyLaunderingIndex6thEdition.Basel:International
+CentreforAssetRecovery,BaselInstituteonGovernance.
+Jansky,P.,andA.Prats.2015.“InternationalProfit-Shiftingoutof DevelopingCountriesandtheRole
+of TaxHavens.”DevelopmentPolicyReview33(3):271–92.
+Javorcik,B.S.,andG.Narciso.2008.“DifferentiatedProductsandEvasionofImportTariffs.”Journalof
+InternationalEconomics76(2):208–22.
+——.2017.“WTOAccessionandTariff Evasion.”Journalof DevelopmentEconomics125(March):59–
+71.
+Johannesen,N.,P.Langetieg,D.Reck,M.Risch,andJ.Slemrod.2018.“TaxingHiddenWealth:The
+Consequencesof USEnforcementInitiativesonEvasiveForeignAccounts.”NBERWorkingPaper
+No.24366,NationalBureauof EconomicResearch,Cambridge,MA.
+Johannesen, N., and J. Pirttilä. 2016. “Capital Flight and Development.” WIDER Working Paper
+No. 95/2016, United Nations University World Institute for Development Economics Research
+(UNU-WIDER),Helsinki,Finland.
+Johannesen,N.,T.Tørsløv,andL.Wier.2017.“AreLessDevelopedCountriesMoreExposedtoMulti-
+nationalTaxAvoidance?”WIDERWorkingPaperNo.10/2016,UnitedNationsUniversityWorld
+InstituteforDevelopmentEconomicsResearch(UNU-WIDER),Helsinki,Finland.
+Johannesen,N.,andG.Zucman.2014.“TheEndofBankSecrecy?AnEvaluationoftheG20TaxHaven
+Crackdown.”AmericanEconomicJournal:EconomicPolicy6(1):65–91.
+Kar,D.,andD.Cartwright-Smith.2010.“IllicitFinancialFlowsfromAfrica:HiddenResourceforDevel-
+opment.”GlobalFinancialIntegrityReport,March26,GlobalFinancialIntegrity,Washington,DC.
+https://gfintegrity.org/report/briefing-paper-illicit-flows-from-africa/.
+Kar, D., and J. Spanjers. 2015. “Illicit Financial Flows from Developing Countries: 2004–2013.”
+Global Financial Integrity Report, December 8, Global Financial Integrity, Washington, DC.
+https://gfintegrity.org/report/illicit-financial-flows-from-developing-countries-2004-2013/.
+Keen,M.,andJ.Slemrod.2017.“OptimalTaxAdministration.”JournalofPublicEconomics152(August):
+133–42.
+Kellenberg,D.,andA.Levinson.2019.“MisreportingTrade:Tariff Evasion,Corruption,andAuditing
+Standards.”Reviewof InternationalEconomics27(1):106–29.
+Kessler, M., and N. Borst. 2013. “Did China Really Lose $3.75 Trillion in Illicit Financial
+Flows?”ChinaEconomicWatch(blog),January10.https://www.piie.com/blogs/china-economic-
+watch/did-china-really-lose-375-trillion-illicit-financial-flows.
+83
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+Kirchgässner,G.2017.“OnEstimatingtheSizeof theShadowEconomy.”GermanEconomicReview18
+(1):99–111.
+Lane,P.R.,andG.M.Milesi-Ferretti.2007.“TheExternalWealthof NationsMarkII:RevisedandEx-
+tendedEstimatesof ForeignAssetsandLiabilities,1970–2004.”Journalof InternationalEconomics
+73(2):223–50.
+Liu,L.,T.Schmidt-Eisenlohr,andD.Guo.2017.“InternationalTransferPricingandTaxAvoidance:
+EvidencefromLinkedTrade-TaxStatisticsintheUK.”FRBInternationalFinanceDiscussionPaper
+No.1214,FederalReserve,Washington,DC.
+Londoño-Vélez,J.,andJ.Ávila-Machecha.2018.“CanWealthTaxationWorkinDevelopingCountries?
+Quasi-ExperimentalEvidencefromColombia.”Unpublishedmanuscript.https://eml.berkeley.edu/
+saez/course/londono-wealth2018.pdf.
+Lucas,R.E.1976.“EconometricPolicyEvaluation:ACritique.”Carnegie-RochesterConferenceSerieson
+PublicPolicy1:19–46.
+Luttmer,E.F.,andM.Singhal.2014.“TaxMorale.”Journalof EconomicPerspectives28(4):149–68.
+Mallaby,S.2016.“GlobalizationResets:TheRetrenchmentinCross-BorderCapitalFlowsandTrade
+MayBeLessDireThanItSeems.”Finance&Development53(4):6–10.
+Medina,L.,andF.Schneider.2018.“ShadowEconomiesAroundtheWorld:WhatDidWeLearnOver
+theLast20Years?”IMFWorkingPaperNo.18/17,InternationalMonetaryFund,Washington,DC.
+Mishra,P.,A.Subramanian,andP.Topalova.2008.“Tariffs,Enforcement,andCustomsEvasion:Evi-
+dencefromIndia.”Journalof PublicEconomics92(10):1907–25.
+Ndikumana,L.,andJ.K.Boyce.2008.“NewEstimatesofCapitalFlightfromsub-SaharanAfricanCoun-
+tries:LinkageswithExternalBorrowingandPolicyOptions.”PERIWorkingPaperSeriesNo.166,
+Universityof MassachusettsAmherst,PoliticalEconomicResearchInstitute,Amherst,MA.
+Nicolaou-Manias, K. 2016. “Trade Mispricing for Five African Countries.” GEG Africa Policy Brief-
+ing, October, Global Economic Governance Africa. http://www.gegafrica.org/publications/trade-
+mispricing-for-five-african-countries.
+Nitsch,V.2016.“TrillionDollarEstimate:IllicitFinancialFlowsfromDevelopingCountries.”Darmstadt
+DiscussionPapersinEconomicsNo.227,UniversityofDarmstadt,DepartmentofEconomics,Darm-
+stadt,Germany.
+OECD.2014.IllicitFinancialFlowsfromDevelopingCountries:MeasuringOECDResponses.Paris,France:
+OrganisationforEconomicCo-operationandDevelopment.
+Oliver,S.,R.Jablonski,andJ.V.Hastings.2017.“TheTortugaDisease:ThePerverseEffectsof Illicit
+ForeignCapital.”InternationalStudiesQuarterly61(2):312–27.
+Olken,B.A.2007.“MonitoringCorruption:EvidencefromaFieldExperimentinIndonesia.”Journalof
+PoliticalEconomy115(2):200–49.
+Omartian, J. 2016. “Tax Information Exchange and Offshore Entities: Evidence from the Panama
+Papers.”Unpublishedmanuscript.http://dx.doi.org/10.2139/ssrn.2836635.
+Pérez,M.F.,J.C.Brada,andZ.Drabek.2012.“IllicitMoneyFlowsasMotivesforFDI.”Journalof Com-
+parativeEconomics40(1):108–26.
+Pietschmann,T.,andJ.R.Walker.2011.“EstimatingIllicitFinancialFlowsResultingfromDrugTraf-
+fickingandOtherTransnationalOrganizedCrimes.”ResearchReport,October,UnitedNationsOf-
+fice of Drugs and Crime, Vienna, Austria. https://www.unodc.org/documents/data-and-analysis/
+Studies/Illicit_financial_flows_2011_web.pdf.
+Pomeranz,D.2015.“NoTaxationwithoutInformation:DeterrenceandSelf-EnforcementintheValue
+AddedTax.”AmericanEconomicReview105(8):2539–69.
+Ravallion,M.2011.“MashupIndicesof Development.”WorldBankResearchObserver27(1):1–32.
+84 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+Rijkers,B.,L.Baghdadi,andG.Raballand.2015.“PoliticalConnectionsandTariff EvasionEvidence
+fromTunisia.”WorldBankEconomicReview31(2):459–82.
+Rose,A.K.,andM.M.Spiegel.2007.“OffshoreFinancialCentres:ParasitesorSymbionts?”Economic
+Journal117(523):1310–35.
+Rotunno,L.,andP.-L.Vézina.2012.“ChineseNetworksandTariff Evasion.”WorldEconomy35(12):
+1772–94.
+Salomon, M. 2019. “Illicit Financial Flows to and from 148 Developing Countries: 2006–2015.”
+Global Financial Integrity Report, January 28, Global Financial Integrity, Washington, DC.
+https://gfintegrity.org/report/2019-iff-update/.
+Salomon, M., and J. Spanjers. 2017. “Illicit Financial Flows to and from Developing Coun-
+tries: 2005–2014.” Global Financial Integrity Report, May 1, Global Financial Integrity, Wash-
+ington, DC. https://gfintegrity.org/report/illicit-financial-flows-to-and-from-developing-countries-
+2005-2014/.
+Schneider,B.2003.“MeasuringCapitalFlight:EstimatesandInterpretations.”ODIWorkingPaperNo.
+194,OverseasDevelopmentInstitute,London,UK.
+Sequeira,S.2016.“Corruption,TradeCosts,andGainsfromTariffLiberalization:EvidencefromSouth-
+ernAfrica.”AmericanEconomicReview106(10):3029–63.
+Shortland,A.2012.“TreasureMapped:UsingSatelliteImagerytoTracktheDevelopmentalEffectsof
+SomaliPiracy.”AfricaProgrammePaperNo.2012/01,ChathamHouse,London,UK.
+TaxJusticeNetwork.2016.“FinancialSecrecyIndex2015:Methodology.”NotesandReports,June
+2,TaxJusticeNetwork,Chesham,UK.https://www.financialsecrecyindex.com/Archive2015/Notes
+andReports/FSI-Methodology.pdf.
+TransparencyInternational.2016.“CorruptionatYourDoorstep.”Report,March,TransparencyIn-
+ternational UK, London, UK. https://www.transparency.org.uk/publications/corruption-on-your-
+doorstep/.
+UNECA. 2015. “Illicit Financial Flows: Report of the High Level Panel on Illicit Financial Flows
+from Africa.” Report commissioned by the AU/ECA Conference of Ministers of Finance, Plan-
+ning and Economic Development, United Nations Economic Commission for Africa (UNECA),
+Addis Ababa, Ethiopia. https://www.uneca.org/sites/default/files/PublicationFiles/iff_main_
+report_26feb_en.pdf.
+UNU-WIDER. 2018. “Government Revenue Dataset.” Accessed August 15, 2018. https://www.
+wider.unu.edu/project/government-revenue-dataset.
+Vézina,P.-L.2015.“IllegalTradeinNaturalResources:EvidencefromMissingExports.”International
+Economics142(August):152–60.
+Vicard,V.2015.“ProfitShiftingthroughTransferPricing:EvidencefromFrenchFirmLevelTradeData.”
+BanquedeFranceWorkingPaperNo.555,BanquedeFrance,Paris,France.
+Villa,E.,M.A.Misa,andN.V.Loayza.2016.“IllicitActivityandMoneyLaunderingfromanEconomic
+GrowthPerspective:AModelandanApplicationtoColombia.”PolicyResearchWorkingPaperNo.
+7578,WorldBank,Washington,DC.
+Walker,J.1999.“HowBigisGlobalMoneyLaundering?”JournalofMoneyLaunderingControl3(1):25–
+37.
+Walker,J.,andB.Unger.2009.“MeasuringGlobalMoneyLaundering:TheWalkerGravityModel.”
+Reviewof Law&Economics5(2):821–53.
+Wier,L.2018.“Tax-MotivatedTransferMispricinginSouthAfrica:DirectEvidenceUsingTransaction
+Data.”WIDERWorkingPaperNo.123/2018,UnitedNationsUniversityWorldInstituteforDevel-
+opmentEconomicsResearch(UNU-WIDER),Helsinki,Finland.
+85
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021
+
+Worku, T., J. P. Mendoza, and J. L. Wielhouwer. 2016. “Tariff Evasion in Sub-Saharan Africa: The
+Influenceof CorruptioninImportingandExportingCountries.”InternationalTaxandPublicFinance
+23(4):741–61.
+Yang,D.2008.“CanEnforcementBackfire?CrimeDisplacementintheContextof CustomsReformin
+thePhilippines.”Reviewof EconomicsandStatistics90(1):1–14.
+Zdanowicz, J. S. 2009. “Trade-Based Money Laundering and Terrorist Financing.” Review of Law &
+Economics5(2):855–78.
+Zucman, G. 2013. “The Missing Wealth of Nations: Are Europe and the US Net Debtors or Net
+Creditors?”QuarterlyJournalof Economics128(3):1321–64.
+86 TheWorldBankResearchObserver,vol.35,no.1(2020)
+Downloaded
+from
+https://academic.oup.com/wbro/article/35/1/44/5685424
+by
+International
+Monetary
+Fund
+user
+on
+23
+June
+2021

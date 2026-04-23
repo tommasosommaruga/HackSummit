@@ -1,0 +1,847 @@
+FAST FACTS CONTENT GUIDANCE
+Battery Passport
+Content Guidance
+Achieving compliance with the EU Battery Regulation
+and increasing sustainability and circularity
+ID: 010101010
+BATTERY G & In e C F M f P n a o o e a A r r o r n b m a t S u o p l a f n r S B a t i i n a c o P t t t n t u O e r r e R y r T M & C a & e C t i ffi r e o R c r m e u c ia s l i p e a l o s o r n u i s c t r i y c y ti e on
+S D u u p e p D ly i l C ig h e a n i c n e P & e D rf u o r r a m b a il n it c y e ...
+B C a o tt n e te ry n t P G as u s id p a o n rt ce
+A E s c U u h s i B t e a a v i tt i n n e a g r b y c i l o R it m e y g p a u l n i l a a d n t i c c o i e r n c w a u n i l t a d h r i i t t n y h c . e reasing
+Version 1.1 /
+December 2023 THEBATTERYPASS.EU
+
+THEBATTERYPASS.EU
+QUESTION 1
+What is a digital battery passport and from when will it be required? ......................................... 3
+QUESTION 2
+For which batteries will the digital battery passport be required? .................................................. 5
+QUESTION 3
+Who is responsible for the digital battery passport,
+and when do they need to take action? .............................................................................................................. 9
+QUESTION 4
+Which information will be requested for the battery passport
+and who will have access to it? .............................................................................................................................. 12
+QUESTION 5
+What value does the battery passport unlock? ........................................................................................... 16
+QUESTION 6
+How are circularity aspects considered for the battery passport? ................................................ 18
+QUESTION 7
+What supply chain due diligence information is included in the battery passport? ........ 20
+QUESTION 8
+Which performance and durability data attributes are in scope
+of the battery passport? ............................................................................................................................................... 22
+QUESTION 9
+How is the battery carbon mfootprint calculated
+and where can I find detailed guidance? .......................................................................................................... 25
+QUESTION 10
+How will remaining uncertainties regarding the battery passport be addressed? ............. 27
+Further reading:
+Battery Passport Content Guidance
+and supporting documents
+2
+
+FAST FACTS CONTENT GUIDANCE
+QUESTION 1
+What is a digital battery passport
+and from when will it be required?
+The EU is introducing digital product passports (DPP) as part of its
+broader regulatory ambition towards sustainability with the first being
+required for batteries from 2027.
+DPPs are included in the EU’s new Eco-design for Sustainable Products
+Regulation (ESPR), which entered into force in July 2024. These passports are
+digital records of a product that collect data along its entire lifecycle.
+The information held in a DPP helps manufacturing and end-of-life processes
+to be more sustainable and circular. It also supports consumers in making
+informed choices. DPPs are key to advancing the European 'Twin Transition,'
+aiming for a more sustainable, circular, and digital economy.
+The battery passport is the first DPP to be introduced in Europe and will be
+a detailed digital record of a battery's materials, components, and lifecycle.
+This requirement comes from the EU Battery Regulation and will be mandatory
+starting in February 2027.
+3
+
+THEBATTERYPASS.EU
+The battery passport will be the first of a series of digital product passports
+to be launched in the European Union
+Objectives of DPPs
+Provide transparency Shift from linear Create a level
+to impact decisions to circular economies playing field
+DPPs in the ESPR
+The Eco-design for Sustainable Products Regulation (ESPR) includes the requirement that
+„products can only be placed on the market or put into service if a digital product passport
+is available“.
+The Digital Battery Passport
+Article 77 of the EU Battery Regulation mandates for batteries an
+„electronic record (battery passport)“ from 18 February 2027.
+4
+
+FAST FACTS CONTENT GUIDANCE
+QUESTION 2
+For which batteries will the digital
+battery passport be required?
+The EU Battery Regulation outlines its requirements
+for different battery categories.
+According to Article 77(1), the battery passport will be mandatory from
+February 2027 for batteries placed or put into service on the EU market
+including:
+• Electric vehicle (EV) batteries.
+• Light means of transport (LMT) batteries, such as e-bikes and e-scooters.
+• Industrial batteries with a capacity above 2 kWh, such as those used in
+industrial activities, communication infrastructure or energy storage.
+Further details on how the Battery Regulation defines different batteries are
+shown on the back.
+5
+
+THEBATTERYPASS.EU
+Electric vehicle, light means of transport, and industrial batteries with
+a capacity above 2 kWh will be in scope for the EU battery passport
+Battery Battery
+Battery categories
+categories weight
+Provide electric power for the traction to hybrid or electric vehicles
+> 25 kg
+• of categories L (Regulation (EU) No 168/2013), if larger than 25 kg, or
+(category L)
+Electric vehicle • of categories M, N or O (Regulation (EU) 2018/858)
+(EV) battery
+Provide electric power for traction to wheeled vehicles that can be powered
+by the electric motor alone or by a combination of motor and human power
+≤ 25 kg
+Light means including type-approved vehicles of category L (Regulation (EU) No 168/2013),
+of transport e.g., e-bikes and e-scooters
+(LMT) battery
+• Designed specifically for industrial uses, or
+• intended for industrial uses after being subject to preparing for repurpose
+or repurposing, or ≤ 25 kg
+• any battery above 5 kg that is not an LMT, EV or SLI battery
+• Industrial uses include (Recital 15)
+Industrial
+battery1 – i ndustrial activities – e nergy storage in private or domestic
+– c ommunication environments
+infrastructure – g eneration and distribution of electric energy
+– a gricultural activities – traction in other transport vehicles incl. rail,
+waterborne, aviation or off-road machinery
+Sub-category: Stationary battery energy storage system
+• Industrial battery with internal storage
+• specifically designed to store and deliver electric energy from and into the
+grid or store and deliver electric energy to end-users, regardless of where
+and by whom this battery is being used
+1) Only industrial batteries above 2 kWh within scope of battery passport
+6
+
+THEBATTERYPASS.EU
+Industrial batteries are characterised in different sub-categories
+and a broad range of applications, with varying market conditions
+and processes affecting the use cases
+Battery category
+Batteries Battery passport:
+Within scope
+Out of scope
+Portable SLI LMT EV Industrial batteries
+Designed/repurposed¹ for
+industrial use / > 5 kg and
+no other battery category
+Industrial batteries with Industrial batteries with
+capacity > 2 kWh capacity ≤ 2 kWh
+Other industrial batteries
+Used for traction and/or
+other purposes
+Stationary battery energy
+storage systems Batteries with
+Industrial battery
+Deliver electric energy external storage
+sub-category
+to grid or end-users + (Redox-Flow)
+internal storage
+Electric
+Heavy
+logistics
+machinery,
+solutions,
+e.g.
+e.g.
+excavator
+forklifts
+Time Standby/
+shifting UPS, Non-road
+Major Peak Forklifts dominate
+and e.g. transport,
+applications² shaving industrial traction
+arbitrage hospital e.g. rail
+batteries market³
+trading UPS
+Grid-scale UPS =
+Industrial-scale Uninterruptible
+Small-scale (Home Storage Power Supply
+= only major B2C application
+for industrial batteries)
+1) A number of industrial batteries may be repurposed batteries (e.g. a former EV battery is repurposed into an industrial
+battery). However, repurposing used industrial batteries is a less likely scenario.
+2) Market conditions and processes (e.g. servicing processes) can vary among industrial batteries applications, resulting in an
+impact on the applicability of the overall use case assessment.
+3) cf. Global Market Insights Report (2023)
+7
+
+THEBATTERYPASS.EU
+Overview of the hierarchy of battery definitions
+Battery
+Pack Module Cell
+Major general Grouping of batteries based
+characteristics on production
+Battery category
+Discern different use categories
+(e.g., EV, industrial…) Battery model
+All batches and individual batteries within
+a model share the same technical characteristics
+Battery chemistry
+Active materials in anode, cathode,
+and electrolyte
+Battery Battery Battery
+batch batch batch
+Internal vs. external storage Consistently manufactured group of batteries within
+Energy stored within the battery or a model, identifiable by a batch identification code
+in one or more external devices (e.g.,
+redox flow)
+Rechargeable vs non-rechargeable Particular / individual batteries
+(Not) designed to be electrically
+recharged Singular battery, identifiable by product serial
+number with an individual use phase
+8
+
+FAST FACTS CONTENT GUIDANCE
+QUESTION 3
+Who is responsible for the
+digital battery passport, and when
+do they need to take action?
+The economic operator who places the battery on the market or
+puts it into service is responsible for meeting the battery passport
+requirements. This can be either the manufacturer or the importer.
+The term ‘manufacturer’ refers to any natural or legal person that
+manufactures a battery or has a battery designed or manufactured and
+markets that battery under its own name or trademark or puts it into service
+for its own purposes. The ‘importer’ is established within the EU and places a
+battery on the market from a third country. The economic operator is explicitly
+allowed to authorise another operator “to act on their behalf”.
+For example, if an EU-based car manufacturer buys battery cells and
+assembles them into an electric vehicle battery, they are considered the
+manufacturer and thus the economic operator responsible for the battery
+passport.
+The main responsibilities for the battery passport include creating a new
+battery passport, as well as updating and storing the information within it.
+9
+
+THEBATTERYPASS.EU
+Either the “manufacturer” or “importer” are responsible for the battery passport
+Fulfils definition
+of EV battery
+or LMT battery Yes Battery put into No Battery placed Online Online seller
+Start service? (for on the market established in
+or industrial
+own purpose) on- or offline? the EU?
+battery above
+2 kWh
+No battery
+passport
+needed
+10
+No
+Manufacturer /
+Importer1
+Yes Offline
+Battery placed
+Battery
+on market from
+marketed to EU
+in- or outside
+Customers?
+EU?
+No
+Yes
+Inside Outside Yes No
+rerutcafunaM retropmI / rerutcafunaM 2retropmI yrettab
+oN
+dedeen
+tropssap
+1) Battery Pass understanding, not clearly defined in Battery Regulation
+2) Depending on who is targeting EU consumers
+
+THEBATTERYPASS.EU
+Core responsibilities for the battery passport comprise the issuing of
+a (new) battery passport as well as updating and storing the information
+Mining Refining Precursor and CAM Battery cells and
+modules
+Cfrroema ttehde bNyo aurnt Psrhoojepct Recycling Cfrroema ttehde bNyo suann Pdrroaject pass B p a o tt rt e c r e y a ses Su ( p S p t l a y ti c c h d a a in ta d ) ata Battery pack
+to exist
+Cfrroema ttehde bNyo Iunne sP rSoimjeocets
+Preparation for Battery Putting into service
+recycling passport Placing on the market
+e.g., dismantling
+New battery passport
+R P re e r - e m u p s a a e n r a u ( t i f n i a o c 2 n t n u f d o r l i r i n f e g ) R In e cl - . u m s a e intenance 2nd life U ( s D e y p n h a a m se ic d d a a ta ta) 1st life Cfrroema ttehde bNyo Eurns iPnroject R In U e cl - p . u m d s a a e i t n e tenance P Pl u a tt c i i n n g g i o n n t o t h s e e r m vi a c r e k et
+and repair and repair
+Update
+Putting into service Remanufacturing
+Placing on the market Preparation for re-use
+New battery passport Repurposing
+Incl. preparation
+New battery passport Putting into service for repurposing
+Placing on the market
+1) Treatment of manufacturing and processing waste as well as collection and transport can occur between all activities
+within the value chain
+11
+
+FAST FACTS CONTENT GUIDANCE
+QUESTION 4
+Which information will be
+requested for the battery passport
+and who will have access to it?
+The EU Battery Regulation requires a wide range of data attributes to
+be included in the battery passport. For EV batteries alone, Article 77
+and Annex XIII outline around 80 mandatory data attributes covering
+the entire battery lifecycle.
+The Battery Pass consortium has organised the data attributes into seven
+content clusters along the battery life cycle:
+1. General battery and manufacturer information
+2. Compliance, labels, certifications
+3. Battery carbon footprint
+4. Supply chain due diligence
+5. Battery materials and composition
+6. Circularity and resource efficiency
+7. Performance and durability
+The data attributes can be related to the battery model or specific to the
+individual battery. For the technical implementation, they can also be
+differentiated by as “static” (unchanging or not changing often) or “dynamic”
+(changing often over time).
+12
+
+THEBATTERYPASS.EU
+In addition, data is differentiated by the actors who can access it, allowing data confidentiality.
+For this purpose different groups are defined for restricted data access:
+Access groups : Battery categories :
+Public All batteries below
+Persons with a legitimate interest EV batteries (if BMS is used1)
+Notified bodies, market surveillance authorities LMT batteries (if BMS is used1)
+Persons with a legitimate interest and Industrial batteries incl. stationary energy
+Commission storage systems2 > 2 kWh
+Stationary battery energy storage systems
+> 2 kWh
+Topic Subtopic
+Identifiers and product data (if applicable)
+Battery passport identifier (recommended) Date of putting battery into service
+(where appropriate)
+Battery identifier
+Operator identifier and information
+Warranty period of the battery
+(recommended) Battery Warranty period of the battery
+Manufacturer identifier and information Battery mass
+Manufacturing place Battery status
+Manufacturing date
+Symbols, labels and documentation of conformity
+Separate collection symbol Meaning of labels and symbols
+Symbols for cadmium and lead EU declaration of conformity
+Carbon footprint label Results of test reports proving compliance
+Extinguishing agent
+13
+ataD
+citatS
+• the “general public”
+• “ notified bodies, market surveillance authorities and the [European] Commission”
+• “ any natural or legal person with a legitimate interest”. Particularly the last category will
+be specified further by the European Commission through an Implementing Act due latest
+by August 2026.
+You can find a detailed overview of the information held in the battery passport by battery
+categories and access groups below. Please note that this overview has been updated to
+reflect the names and characteristics of the data attributes as included in the DIN DKE Spec
+99100 (to be published in Autumn 2024), and therefore differs from Figure 13 shown in the
+Battery Passport Content Guidance (p.61).
+Battery passport information by battery categories and access groups
+
+THEBATTERYPASS.EU
+Topic Subtopic
+Battery carbon footprint (if applicable)
+Overall battery carbon footprint per Carbon footprint of distribution lifecycle
+functional unit stage
+Carbon footprint of raw material acqui- Web link to public carbon footprint study
+sition and pre-processing lifecycle stage
+General battery and manufacturer
+Carbon footprint of main product information
+production / manufacturing lifecycle stage
+Absolute battery carbon footprint
+Carbon footprint performance class (recommended)
+Supply chain due diligence
+Information of due diligence report Supply chain indices (recommended)
+Third-party assurances of recognised
+schemes (recommended)
+Battery materials and composition
+Battery chemistry Hazardous substances
+Critical raw materials Impact of substances on environment,
+human health, safety, persons
+Materials used in cathode, anode and
+electrolyte
+Circularity and resource efficiency
+Dismantling information: Manuals for the E-mail address of sources for spare parts
+removal and the disassembly of the battery
+pack
+Web address of sources for spare parts
+Circularity
+Part numbers for components
+Safety measures information
+Postal address of sources for spare parts
+Pre-consumer recycled content share of Post-consumer recycled content share of Recycled &
+Ni/Co/Li/Pb Ni/Co/Li/Pb renewable
+content
+Renewable content share
+Information on the role of end-users in Information on the separate collection, Role of
+contributing to waste prevention the take back, collection points and end-user
+preparation for re-use, preparation for in waste
+Information on the role of end-users in repurposing and treatment available for prevention
+contributing to separate collection of waste batteries and
+waste batteries collection
+Performance & Durability
+Rated capacity Remaining capacity
+Capacity fade Remaining usable battery energy
+Capacity,
+(recommended)
+Certified usable battery energy energy and
+(recommended) State of certified energy (SOCE) voltage
+Minimal, nominal and maximum voltage, State of charge (SoC)
+with temperature ranges when relevant
+14
+ataD
+citatS
+ataD
+cimanyD
+
+THEBATTERYPASS.EU
+Topic Subtopic
+Performance & Durability (cont'd) (if applicable)
+Original power capability Where possible, remaining power
+capability
+Power fade
+Power
+Maximum permitted battery power
+Capability
+Ratio between nominal battery power and
+battery energy (recommended)
+Initial round trip energy efficiency Where possible, remaining round trip
+energy efficiency Energy
+Where applicable, round trip energy
+round trip
+efficiency fade Current self-discharge rate
+efficiency,
+Round trip energy efficiency at 50% of E volution of self-discharge rate Self-
+cycle life (recommended) discharge
+Initial self-discharge rate
+Internal battery resistance (cell & pack)
+Internal
+I nternal resistance increase (pack; cell/
+Resistance
+module recommended)
+Expected lifetime in calendar years N umber of full charging and discharging
+cycles
+Commercial warranty period
+E xpected lifetime: Number of charge-
+Capacity throughput
+Battery
+discharge cycles Energy throughput
+lifetime
+Cycle-life Reference test
+C-rate of relevant cycle-life test
+Capacity threshold for exhaustion
+T emperature range idle state (lower Temperature information
+boundary)
+T ime spent charging during extreme Temperature
+T emperature range idle state (upper temperatures conditions
+boundary)
+Time spent in extreme temperatures
+N umber of deep discharge events
+(recommended for EV, industrial)
+Negative
+N umber of overcharge events (recommended) events
+Information on accidents
+1) BMS limitation: Data specified for all battery categories must be reported regardless of BMS use
+2) Category listed as part of entire battery passport scope. No data attribute applies solely to this battery category
+Please refer to the DIN DKE Spec 99100 text and the Excel document “Battery Passport Data Longlist” for more information.
+15
+ataD
+citatS
+ataD
+cimanyD
+
+FAST FACTS CONTENT GUIDANCE
+QUESTION 5
+What value does the digital
+battery passport unlock?
+With the battery passport, transparency is created by making
+comprehensive data available to different actors along the battery life
+cycle. It is not only a regulatory compliance tool benefitting market
+surveillance authorities. By closing existing information asymmetries,
+the battery passport will unlock major value to industry and society
+alike.
+Based on the respective data, informed decisions can be taken, processes be
+improved, and circular business models enabled – all together leading to an
+increase in economic value as well as a reduction in negative environmental
+and social impacts.
+To learn more, read ‘The Value of the EU
+Battery Passport’, published in April 2023.
+thebatterypass.eu
+The Value of the
+EU Battery Passport
+Version 0.9
+An exploratory assessment
+of economic, environmental
+and social benefits
+April 2024
+Full document Executive Summary
+16
+
+THEBATTERYPASS.EU
+Battery Pass will be releasing a further publication on the expected value of the EU battery
+passport in late 2024. This will include further analysis on specific considerations for light
+means of transport (LMTs), an assessment of the required implementation efforts, and a
+synthesis of the benefits of the battery passport and outlook on Digital Product Passports
+(DPPs) in general.
+Direct use cases of the battery passport mainly unlock value along the
+downstream value chain
+Value of the passport: Potential additional value beyond regulatory compli ance pending conditions beyond
+regulatory requirements (see “potential” use cases)
+Direct value add along several dimensions (environmental, social and economic)
+Precursor and
+Mining Refining CAM production
+Cfrroema ttehde bNyo aurnt Psrhoojepct
+Cfrroema ttehde bNyo suann Pdrroaject
+Recycling BATTERY PASS Cells and modules
+“More efficient recycling” No- SZ41621956 manufacturing
+“Simplified residual value determination” Cfrroema ttehde bNyo Iunne sP rSoimjeocets Cfrroema ttehde bNyo Puent ePrro vjaenct Driel
+Collection Pack assembly and integration
+“Precise risk assessment for transport” “Reliable communication of ESG data”
+“Simplified residual value determination” Cfrroema ttehde bNyo Vuenc Ptroorjsetcatll Cfrroema ttehde bNyo Eurns iPnroject
+Re-use, remanufacture or repurpose Usage
+“Informed purchasing decisions” “Informed purchasing decisions”
+“Eased servicing” “Eased servicing”
+“Simplified residual value determination” “Simplified residual value determination”
+“Streamlined trade of used and waste batteries “Streamlined trade of used and waste batteries
+through marketplaces” through marketplaces”
+17
+
+FAST FACTS CONTENT GUIDANCE
+QUESTION 6
+How are circularity
+aspects considered for
+the battery passport?
+The information requirements of the battery passport are aimed at
+boosting repurposing efforts as well as the efficiency of collection,
+dismantling and recycling of batteries and the recovery of raw materials.
+The battery passport requires four types of circularity information:
+1. Recycled and renewable content: The battery passport must specify the
+recycled content share of cobalt, lithium, lead, and nickel, as well as the
+renewable content share. The Battery Pass consortium also recommends
+calculating and declaring pre- and post-consumer shares.
+2. Materials and composition: To support second-life uses, the battery
+passport must include information on the general and detailed composition
+of the battery (with restricted data access), hazardous substances, as well
+as key symbols and their meaning.
+3. Removability / replaceability: Information on how to dismantle batteries,
+details about spare parts and suppliers, and safety measures must be
+included to help manage used or waste batteries.
+4. End-of-life information: The battery passport must provide information on
+the separate disposal of waste batteries, as well as details on take-back
+and collection points to improve collection rates.
+18
+
+THEBATTERYPASS.EU
+Overview of battery passport circularity information
+Battery materials and composition
+Recycled and Cfrroema ttehde bNyo Iunne sP rSoimjeocets • General and detailed composition
+renewable content
+BATTERY PASS • Hazardous substances and their impact
+• R ecycled content share No- SZ41621956 • Key symbols and their meaning
+of cobalt, lithium, nickel
+• R enewable content share
+End-of-life information Dismantling information
+• I nformation on separate • Dismantling information (manual
+disposal of waste batteries for the battery removal and
+• I nformation on end-user role in manual for the disassembly)
+waste collection and prevention • Information on spare parts and
+• I nformation on take-back suppliers
+• I nformation on collection points • Part numbers of components
+• Safety measures
+19
+
+FAST FACTS CONTENT GUIDANCE
+QUESTION 7
+What supply chain due
+diligence information is included
+in the battery passport?
+For the battery passport, the EU Battery Regulation requires economic
+operators to publicly share the information in their due diligence
+reports. The Battery Pass consortium recommends aligning this
+report with the due diligence requirements of other regulations and
+considering whether key parts of the report should be presented as
+individual data points, rather than just a PDF link.
+The regulation only mandates the due diligence report for the battery
+passport. However, the Battery Pass consortium further explored the content,
+potential harmonisation with other legislation and additional voluntary supply
+chain due diligence information for the battery passport.
+As a result, Battery Pass recommends including additional voluntary
+information in the report. This could involve third-party supply chain
+assurances, supply chain indices like those developed by the Global Battery
+Alliance, as well as information about the origins of the battery materials.
+For further information,
+see also section 6.4
+of the Battery Passport
+Content Guidance.
+20
+
+THEBATTERYPASS.EU
+Information of the due diligence report is the only mandatory
+battery passport data point for responsible supply chains
+The due diligence report
+The due diligence report, made available via the battery passport, shall provide documentation
+on three main elements (based on the 5-step OECD framework):
+Annual report on due diligence policies
+(Art. 52)
+Economic operator’s Third-party verification of
+Risk management plan
+management system battery DD policies
+(Art. 50)
+(Art. 49) (Art. 51)
+21
+
+FAST FACTS CONTENT GUIDANCE
+QUESTION 8
+Which performance and durability
+data attributes are in scope
+of the battery passport?
+The battery passport requires information on around 40 different
+performance and durability data attributes. These include information
+on battery energy/capacity, power, resistance, and the number of
+charge and discharge cycles. It also requires reporting on temperature
+conditions and negative events the battery encounters during its use.
+The battery passport separates data into static (pre-use) and dynamic (in-use)
+categories.
+• Static data points provide information about the battery model and
+are mostly publicly available.
+• Dynamic data points pertain to individual batteries and are accessible only
+to persons with a legitimate interest.
+The EU Battery Regulation also distinguishes some of the requirements by
+the different battery categories such as electric vehicles, stationary battery
+storage systems and LMT batteries.
+22
+
+THEBATTERYPASS.EU
+Please note that the list of data attributes below has been updated to reflect the information
+as included in the DIN DKE Spec 99100 (to be published in late 2024), and therefore differs
+from Figure 13 shown in the Battery Passport Content Guidance (p.61).
+Access groups : Battery categories :
+Public All batteries
+Interested persons EV batteries (if BMS is used)
+LMT batteries (if BMS is used)
+Industrial batteries incl. stationary ESS > 2 kWh
+Stationary BEES > 2 kWh
+Topic Subtopic
+Performance data attributes
+Rated capacity Remaining capacity
+Capacity fade Certified usable battery energy
+(recommended) Capacity,
+Certified usable battery energy
+energy and
+(recommended) State of certified energy (SOCE)
+voltage
+Minimal, nominal and maximum voltage, State of charge (SoC)
+with temperature ranges when relevant
+Original power capability Where possible, remaining power
+capability
+Power fade
+Power
+Maximum permitted battery power Capability
+Ratio between nominal battery power and
+battery energy (recommended)
+Initial round trip energy efficiency Where possible, remaining round trip
+energy efficiency
+Where applicable, round trip energy Energy
+efficiency fade Current self-discharge rate round trip
+(recommended) efficiency
+Round trip energy efficiency at 50% of
+Self-
+cycle life Evolution of self-discharge rate
+discharge
+(recommended)
+Initial self-discharge rate
+Internal battery resistance (cell & pack)
+Internal resistance increase (pack; cell/ Internal
+module recommended) Resistance
+23
+ataD
+citatS
+Around 40 performance and durability data attributes are required for the Battery
+Passport, while detailed descriptions are falling short in the Battery Regulation
+aattaaDD
+cciimmaannyyDD
+
+THEBATTERYPASS.EU
+Topic Subtopic
+Durability data attributes
+Expected lifetime in calendar years Number of full charge-discharge cycles
+Commercial warranty period Capacity throughput
+Expected lifetime in number of charge- Energy throughput
+discharge cycles Battery
+lifetime
+Cycle-life reference test
+C-rate of relevant cycle-life test
+Capacity threshold for exhaustion
+Temperature range idle state Temperature information
+(lower boundary)
+Time spent charging during extreme Temperature
+Temperature range idle state temperatures conditions
+(upper boundary)
+Time spent in extreme temperatures
+Number of deep discharge events
+(voluntary for EV, industrial )
+Negative
+Number of overcharge events
+events
+(recommended)
+Information on accidents
+24
+ataD
+citatS
+aattaaDD
+cciimmaannyyDD
+
+FAST FACTS CONTENT GUIDANCE
+QUESTION 9
+How is the battery carbon
+footprint calculated and where
+can I find detailed guidance?
+The carbon footprint of a battery is calculated by collecting data on
+activities such as energy use and materials and then multiplying these
+by their respective emissions factors. These figures are combined to create
+carbon footprints for each production process of the material or component.
+The carbon footprint must be calculated for four stages of the battery’s lifecycle:
+1. Raw material acquisition and pre-processing,
+2. Manufacturing,
+3. Distribution,
+4. End-of-life and recycling.
+For the Manufacturing and Distribution stages, the draft Delegated Act
+establishing the methodology for the calculation and verification of the carbon
+footprint of EV batteries requires using company-specific activity data. For
+‘most relevant processes’ in the other stages, secondary data may be used,
+but the Battery Pass consortium recommends using company-specific data.
+While the EU Delegated Act must be complied with, the Global Battery Alliance
+GHG Rulebook and the Battery Pass Carbon Footprint Rules provide guidance on
+how to measure carbon footprints for each production step in the lifecycle stages.
+25
+
+THEBATTERYPASS.EU
+Company-specific activity data are required for the Manufacturing and
+Distribution stages in the battery carbon footprint declaration
+Legend: Primary activity data voluntary for most relevant processes as per draft delegated act for EV batteries
+carbon footprint section 2.3 and 2.3.1 (EU COM 2024)
+Primary activity data mandatory as per draft delegated act for EV batteries carbon footprint section 2.3
+and 2.3.1 (EU COM 2024)
+Raw material Manufacturing Distribution End-of-life and
+acquisition and stage stage recycling stage
+pre-processing stage
+Primary activity data Primary activity data mandatory Primary Primary activity data
+voluntary for ‘most activity data voluntary for ‘most
+relevant processes’ voluntary relevant processes’
+for ‘most
+relevant
+processes’
+26
+]noitalugeR
+rep
+epocs
+fo
+tuO[
+esU
+Battery Pass Carbon
+Footprint Rules
+EU Commission Draft Global Battery Alliance (included in GBA
+Delegated Act GHG Rulebook Rulebook v2.0)
+pCAM CAM
+production production
+Mining
+and Anode
+refining active Anode Electrode Module Collection Recycling
+active and cell and Distribu-
+material and and
+material manufac- battery tion
+precursor dismantling Disposal production turing assembly
+production
+Other cell Other battery
+components components
+production manufac-
+(e.g. elec- turing (e.g.
+trolyte) housing)
+Cradle-to-grave: The calculation shall comply with the “Commission Delegated Regulation
+supplementing Regulation (EU) 2023/1542 (…) by establishing the methodology for the
+calculation and verification of the carbon footprint of electric vehicle batteries”
+Cradle-to-Grave: GBA GHG Rulebook v2.0 including Battery Pass CF Rules
+‘Company-specific dataset’ means (…) a company-specific process, where all the activity data are company-specific, and which relates to a
+specific battery model produced in a specific production plant;
+‘Most relevant processes’: pCAM, anode active material precursors, electrolyte slat and precursors, copper, aluminium, steel, battery recycling
+(section 2.3 and 2.3.2 of EU COM 2024).
+EU COM (2024): Batteries for electric vehicles – carbon footprint methodology
+
+FAST FACTS CONTENT GUIDANCE
+QUESTION 10
+How will remaining uncertainties
+regarding the battery passport
+be addressed?
+The EU Battery Regulation will be supplemented with further
+methodological development – especially through around 50 Delegated
+and Implementing Acts. Some of these will be published by the
+European Commission (EC) by a certain date, others can be adopted
+under certain circumstances at the EC’s discretion.
+The Acts, known as the Secondary Legislation, will complete the Battery
+Regulation in detail; ensuring uniform conditions, calculations and
+verifications. Others will amend the Regulation based on market developments
+or technical and scientific progress. Topics covered concern, among others:
+1. Carbon footprint (CF): Delegated Acts to establish the CF methodology,
+performance classes and threshold as well as Implementing Acts that
+specify the formats of these
+2. Circularity: Delegated Acts to specify methodology for recycled content
+3. Performance and durability: Delegated Acts to establish minimum values
+for electrochemical performance
+4. Battery passport access: Implementing Acts to specify access rights
+5. Reporting to the Commission: Implementing Act to harmonise format of
+data and information to be reported
+27
+
+THEBATTERYPASS.EU
+Learn more about the Secondary Legislation
+following the EU Battery Regulation in this overview
+In addition, the Ecodesign for Sustainable Products Regulation (ESPR) describes further
+details on technical aspects of DPP implementation (including the Battery Passport).
+Standardisation efforts for DPPs – being carried out by CEN-CENELEC in JTC24 – are ongoing
+in the context of the ESPR, which entered into force in July 2024. The details of these
+technical specifications on the ‘operating system’ of DPPs include e.g. data carriers and data
+exchange and are thus crucial for the implementation.
+A digital product passport (DPP) consists of data and a system
+DPP Data DPP System (addressed in ESPR)
+DPP data sector specific for: Harmonized technical system for all DPPs:
+· Batteries BATTER SD G&ICFnY u uo eafM p o e n or Pa p rebtD mn l rA pyoa i u l al ir S C fn g tai Bi henoSca an ntt tP ic ut n e e rOer yrRT M&C&eP& I ffi e iarCR D Drctecf o u euo : ism r r e lroa ia 0 mn ap burl cio1 irs atylcsy in 0 tei cy t1i e o0n101 . 0 ..
+· · · T E C e l o e x n c t s i t l t r e r o s u n c ic ti s o n Materials B IV Ror C ne e fu r cc t s l oye a h io a lcs l e nal ib f 1 tt n‘oD r .o1 gr r i a ’ / s b c t tliD ai e o rf e il nebc c o w u e uc r mi ltyt ai hc b n o y t e lin ten rh ’ g 2e sa 0 tG tn F 2 ah l d 3oge be‘ o a ECsl n a B dro a b- tt oo e D fn L t rB - y l F A i a p f o o a l e ltt o i a at nt r n pn ec rd a e ii g r nn y t lA i P t stta t ssrpibo BA ru T t TE t R SD G&ICFnY ou uaef e Mopr o e nbt Pa p re pDomn l rA yrna i uil al ni S C f g taB ti he oSca an nttP ic ut n e e rOer yrRT M&C&eP& I ffi e iarCR D Drctecf o u euo : ism r r e lroa ia 0 mn ap burl cio1 irs atylcsy in 0 tei cy t1i e o0n101 . 0 .. Data Storage Data Carrier Trust/Security/
+IVne rcsoiollna b1.o1r a/t iDoenc wemithb etrh 2e0 G2l3obal Battery Alliance Identifier Sovereignty/
+Access
+→ Defined in different regulations and secondary
+legislation (e.g., the Battery Regulation with
+further information available in the Battery Pass
+Content Guidance)
+Data Exchange IT Services/ Workflows and
+APIs Data Processing
+28
+
+THEBATTERYPASS.EU
+Further reading:
+Battery Passport Content Guidance and supporting documents
+Content Data Attribute Carbon Footprint EOL Allocation
+Guidance Longlist Rules Analysis
+CONSORTIUM LEAD
+CONSORTIUM PARTNERS
+*under subcontract
+This project receives funding from the German Federal Ministry for Economic Affairs and
+Climate Action by resolution of the German Bundestag under grant agreement No BZF335.

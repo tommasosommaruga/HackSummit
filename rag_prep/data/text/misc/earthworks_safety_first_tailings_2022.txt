@@ -1,0 +1,2013 @@
+Safety First
+Guidelines for Responsible
+Mine Tailings Management
+V2.0 MAY 2022
+1
+
+Safety First
+Guidelines for Responsible
+Mine Tailings Management
+V2.0 MAY 2022
+Report available at earthworks.org/safety-first and miningwatch.ca/safety-first
+AUTHORS
+This report was written by Earthworks (Jan Morrill, Paulina Personius, and Payal
+Sampat), MiningWatch Canada (Ugo Lapointe, Jamie Kneen, and Rodrigue Turgeon),
+and London Mining Network (Richard Harkinson), with contributions from Dr. Ann
+Maest (Buka Environmental), Dr. David Chambers (Center for Science in Public
+Participation), Dr. Steven Emerman (Malach Consulting), and Dr. Bruno Milanez
+(Grupo Política, Economia, Mineração, Ambiente e Sociedade/Universidade Federal de
+Juiz de Fora). — This report was written using publicly available data and interviews, and feedback
+from regional consultation workshops held by the authors with communities affected by tailings. The
+information contained herein is believed to be accurate but does not purport to be complete.
+ACKNOWLEDGMENTS
+Thank you to Cathal Doyle, Emily Greenspan, Gavin Mudd, Lisa Sumi, Cindy Charleyboy,
+Loretta Williams, Catherine Coumans and Andrés Ángel (Scientific Advisor at AIDA) for
+reviewing this document. Thank you to all the participants in the regional consultation
+workshops, especially our co-organizers Joám Evans Pim, Isabel García Vila, Andrés
+Ángel, Marta Inês Romero, Tchenna Maso, Paul Robson, Jaybee Garganera, Merah
+Johansyah, Hassen Lorgat, Laura Pitkanen, and Sayokla Williams, as well as Catherine
+Coumans, Claudia Mueller Hoff, Jim Kuipers, Adan Olivares Castro, and Paul Robinson,
+for reviewing or providing input on the second version of this document.
+COVER PHOTOS AND DESIGN
+Cover photo: Workers from the Brazilian Ministry of Environment survey the catastrophic damage after the
+collapse of the Vale tailings dam in Brumadinho, Brazil, in 2019. Minas Gerais, Brazil. By IBAMA from Brazil.
+Contributors and Endorsement pages photo: Tailings dam at the Red Chris mine operated by Imperial
+Metals, British Columbia, Canada. By Garth Lenz ©Garth-Lenz-1486 (courtesy of Salmon Beyond Borders).
+Graphic Design by CreativeGeckos.com
+TO CITE THIS REPORT
+Morrill, J., Chambers, D., Emerman, S., Harkinson, R., Kneen, J., Lapointe, U., Maest, A., Milanez,
+B., Personius, P., Sampat, P., and Turgeon, R. (2022), Safety First: Guidelines for Responsible Mine
+Tailings Management, Earthworks, MiningWatch Canada and London Mining Network, XY pages.
+TO ENDORSE
+To endorse Safety First: Guidelines for Responsible Mine Tailings Management
+or to provide comments on the guidelines please email info@earthworks.org or submit
+comments or endorsements through this form.
+Earthworks • 1612 K St., NW, Suite 904 Washington, D.C., USA 20006
+earthworks.org • 202.887.1872
+MiningWatch Canada • 508-250 City Centre Avenue • Ottawa, ON K1R 6K7 Canada
+miningwatch.ca • 1 (613) 569-3439 • 1 (613) 569-5138 FAX
+London Mining Network • Finfuture • 225-229 Seven Sisters Road • London N4 2DA
+londonminingnetwork.org • +44 (0) 7903 851695
+
+Organizations endorsing these recommendations
+A Community Voice – Louisiana – United States DECOIN – Ecuador
+A2 Rosewood Strong Community – United States Denver Justice and Peace Committee (DJPC) – United States
+Action for Ecology & People Emancipation (AEER) – Indonesia E-Tech International Inc – United States
+ACWA / Earth Island Institute – United States “EcoLur” Informational NGO – Armenia
+African Resources Watch (Afrewatch) – Regional-Africa Earthjustice – United States
+AfrosRD – Dominican Republic Earthworks – United States
+AGHAM-Advocates of Science and Technology for the People – Eau Secours – Canada
+Philippines
+Ecologistas en Acción – Spain
+AIDA – Latin America
+Environmental Defender Law Center – United States
+Alianza Centro Americana Frente a la Minería (ACAFREMIN) –
+European Center for Constitutional and Human Rights (ECCHR) –
+Central America
+Germany
+Alyansa Tigil Mina (ATM) – Phillippines
+European Environmental Bureau – Belgium
+Amazon Watch – United States
+Fair Mining Collaborative – Canada
+Amnesty International – United Kingdom
+Federation for a Sustainable Environment – South Africa
+Andrew Lees Trust – United Kingdom
+Fondation Rivières / Rivers Foundation – Canada
+Arizona Mining Reform Coalition – United States
+Freshwater Future – United States
+Arkansas Valley Conservation Coalition (AVCC) – United States
+Friends of Buckingham – United States
+Armenian Environmental Front – Armenia
+Friends of the Earth Canada – Canada
+Assembly of Masses and Basic Sectors for Unity and Harmony-
+Friends of the Earth Norway – Norway
+Initiatives for Normalization and Advancement for Human Security
+(AMBUH-INAH) – Philippines Fundação Montescola – Spain
+B.C.E.N., C.E.N. Mining caucus and toxics caucus – Canada Global Justice Clinic (Does not represent NYU School of Law –
+United States
+Bank Information Center – United States
+Goa Foundation – India
+BAYAY SIBUYANON INC. – Philippines
+Goenchi Mati Movement – India
+BC Mining Law Reform Network – Canada
+Great Basin Resource Watch – United States
+Bench Marks Foundation – South Africa
+Greencastle community voices – Ireland
+Bismarck Ramu Group – Papua New Guinea
+GRUFIDES – Peru
+Canadian Environmental Law Association – Canada
+Grupo de Estudos e Pesquisas Socioambientais da Universidade
+CATAPA – Belgium
+Federal de Ouro Preto (GEPSA/UFOP) – Brazil
+Concerned Citizens of Quesnel Lake – Canada
+Grupo de Pesquisa e Extensão Política, Economia, Mineração,
+Center for Environmental Concerns – Philippines Inc. – Philippines Ambiente e Sociedade (PoEMAS) – Brazil
+Center for Global Nonkilling – United States Homa - Centro de Direitos Humanos e Empresas – Brazil
+Center for Science in Public Participacion – United States Inclusive Development International – United States
+Centre for Applied Legal Studies, University of Witwatersrand – IndustriALL Global Union – Switzerland
+South Africa
+Information Network for Responsible Mining – United States
+Centro de Reflexión y Acción Social Padre Juan Montalvo –
+IRPAD/Afrique – Mali
+Dominican Republic
+Instituto Socioambiental – Brazil
+Centro de Saberes para a Sustentabilidade – Spain
+Justiça nos Trilhos – Brazil
+Coalition to SAVE the Menominee River, Inc. – United States
+Kamloops Area Preservation Association (KAPA) – Canada
+Comisión Intereclesial de Justicia y Paz – Colombia
+Kamloops Moms for Clean Air – Canada
+Comité citoyen de protection de l’esker – Canada
+London Mining Network – United Kingdom
+Comité por los derechos humanos en America Latina – Canada
+Lynn Canal Conservation – United States
+Communities Against Mining (CAM) – Ireland
+Malach Consulting – United States
+Concerned Citizens of Charles City County – United States
+Mesa Nacional Frente a la Minería Metálica – El Salvador
+Corporación Geoambiental Terrae – Colombia
+MIICO – Tanzania
+Conselva, Costas y Comunidades A.C. – Mexico
+Mining Impact Coalition of Wisconsin – United States
+Conservation Colorado – United States
+Mining Justice Action Committee – Canada
+Conservation NW – United States
+Mining Watch Romania – Romania
+CooperAcción – Peru
+MiningWatch Canada – Canada
+Campbell River Environmental Committee (CREC) – Canada
+Movimento dos Atingidos e das Atingidas por Barragem (MAB) – Brazil
+Cultural Survival – International
+Naturvernforbundet – Norway 3
+David Suzuki Foundation – Canada
+continued
+
+Organizations endorsing these recommendations
+Northeast Ohio Black Health Coalition – United States Individuals
+Northern Alaska Environmental Center – United States
+Andre Oliveira Sawakuchi – Instituto de Geociências da Universidade
+Observatoire d’Etudes et d’Appui à la Responsabilité Sociale et de São Paulo
+Environnementale, OEARSE – Democratic Republic of the Congo
+Andrew Hopkins – Australian National University
+Okanogan Highlands Alliance – United States
+Cathal Doyle – Middlesex University
+Oxfam America – United States
+Cristiana Losekann – Universidade Federal do Espírito Santo
+Patagonia Area Resource Alliance – United States
+Daniela Campolina Vieira – Grupo de Pesquisa Educação Mineração
+Pax Christi International-Latin America and Caribbean Program – e Território - Universidade Federal de Minas Gerais
+Colombia
+Dr. Robin Broad – American University
+Pembroke Clean Water – United States
+Felipe Fayer Mansoldo – Universidade Federal de Juiz de Fora
+PODER (Project on Organizing, Development, Education and
+Gavin Mudd – Independent Academic Expert
+Research) – Mexico
+Joám Evans Pim – Åbo Akademi University
+Progressive Leadership Alliance of Nevada – United States
+John Cavanagh – Global Economy Project, Institute for Policy Studies
+Project HEARD (Hub for Environmental Activists and Rights
+Defenders) – Netherlands Karine Gonçalves Carneiro – Universidade Federal de Ouro Prieto
+Projet Resistaction - Centr’ERE, UQAM – Canada Manoela Carneiro Roland – Universidade Federal de Juiz de Fora
+Quebec Meilleure Mine – Canada Marcos Antonio Pedlowski – North Fluminense State University
+Radio Emergency Communication Operations Network (RECON Phil. Martha Priscylla Monteiro Joca Martins – Université de Montréal
+Inc.) – Philippines
+Mbalenhle Mpanza – University of Johannesburg
+Regroupement Vigilance Mines de l’Abitibi et du Témiscamingue
+Tatiana Ribeiro de Souza – Universidade de Ouro Prieto
+(REVIMAT) – Canada
+Tchenna Fernandes Maso – Universidade Federal de Juiz de Fora
+Richwood Advisory Council – United States
+William Sacher – Universidad Andina Simón Bolívar
+Rivers Without Borders – United States
+Rock Creek Alliance – United States
+Indigenous Communities
+Save Our Cabinets – United States
+Save our Seas and Shores Coalition – Canada and Tribal Nations
+Save Our St Vrain Valley, Inc. – United States
+Luutkudziiwus – Gitsxan Nation
+Save The Scenic Santa Ritas – United States
+Nuxalk Nation – Nuxalkulmc
+Sibuyanon Against Mining – Philippines
+Sierra Club – United States
+Silver Valley Community Resource Center – United States
+Society for Threatened Peoples – Switzerland
+SOS Grenville sur la rouge – Canada
+Southeast Alaska Conservation Council – United States
+To endorse Safety First: Guidelines for Responsible Mine
+Southeast Alaska Indigenous Transboundary Commission (SEITC) –
+Tailings Management, email us: info@earthworks.org
+United States
+Southwest Research and Information Center – United States
+St. Mary’s River Association – Canada
+Sulamesi Wildlife Foundation – Papua New Guinea
+The Friends of the Stikine Society – Canada
+The Mining Observatory (Observatório da Mineração) – Brazil
+Transport & Environment – Belgium
+Unidos em Defesa de Covas do Barroso – United Kingdom
+Union of British Columbia Indian Chiefs – Canada
+vetoNu – Sweden
+Vida e Ria ou Minaria – Spain
+Wilderness Committee – Canada
+Wildsight – Canada
+Wisconsin Resources Protection Council – United States
+Yukon Conservation Society – Canada
+4
+
+Contents
+Contents ....................................................................................................................................5
+Executive Summary .................................................................................................................6
+Summary of Guidelines ....................................................................................................................................... 8
+Introduction ...........................................................................................................................10
+Scope .......................................................................................................................................15
+Examples of long-term environmental impacts.......................................................................................... 15
+Guidelines ...............................................................................................................................18
+1. Make safety the guiding principle in design, construction, operation, and closure ................ 18
+2. Consent of affected communities ....................................................................................................... 18
+3. Ban new tailings facilities where inhabited areas are in the path of a tailings dam failure ... 21
+4. Ban upstream dams at new mines and close existing upstream facilities ................................ 22
+5. Any potential loss of life is an extreme event and design must respond accordingly ........... 24
+6. Mandate the use of Best Available Technology for tailings, in particular filtered tailings ...... 25
+7. Implement rigorous controls for safety ............................................................................................. 27
+8. Ensure a detailed evaluation of the dam foundation and of the tailings properties .............. 29
+9. Appropriate monitoring systems must be in place to identify and mitigate risk ..................... 30
+10. Ensure the independence of reviewers to promote safety .......................................................... 31
+11. Towards safer closure with no credible failure modes .................................................................. 32
+12. Addressing financial risks, including securities for site closure and proper
+insurances for accidental spills ............................................................................................................ 33
+13. Grievance procedures and whistleblowers ...................................................................................... 35
+14. Emergency preparedness and response .......................................................................................... 36
+15. Information regarding mine safety must be made publicly available......................................... 38
+16. Ensure access to independent technical assistance ...................................................................... 39
+17. Accountability for risk, minimizing the consequences of failure, preventing failure,
+and the consequences of failure must primarily rest with the board of directors ................. 40
+Next Steps ...............................................................................................................................42
+Glossary ...................................................................................................................................44
+Endnotes .................................................................................................................................52
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 5
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Executive Summary
+The 2019 mine tailings dam collapse near Brumadinho, Brazil, killed 272 people and decimated
+houses and buildings for kilometers before flowing into the Paraopeba River. The catastrophe
+stunned the world but should not have come as a surprise. Tailings facilities, which contain the
+processed waste materials generated from mining metals and other materials, are failing with
+increasing frequency and severity.
+At present, industry standards and governmental regulations still do not go far enough to
+adequately protect communities and ecosystems from tailings failures. The design, construction,
+operation and closure of tailings facilities require significant changes to protect people and the
+environment.
+Tailings facilities can fail in many ways and with varying degrees of severity. While this document
+outlines guidelines aimed at preventing catastrophic failures, the authors recognize that chronic
+contamination can sometimes be equally disastrous for communities and the environment.
+The primary goals of tailings management must be to ensure that public and environmental safety
+are the determinative factors governing the operation of tailings disposal systems and to achieve
+zero tolerance for human harm or fatalities. It is important to recognize the interconnected
+relationship between people and the natural environment; protecting ecological resources is an
+extension of human safety. While operating companies must aim to minimize environmental harm
+everywhere, it must be the goal of every mining operation to at least limit environmental harm to
+within the mine site.
+Operating companies must commit to making safety the primary consideration in tailings facilities
+and dam design, construction, operation, closure and post-closure, and the primacy of safety must
+be independently verified. If a regulatory agency, an operating company or another party charged
+with overseeing the safety of a tailings facility determine that loss of life could occur as a result of a
+The Doce River, polluted from the Samarco tailings spill, runs through a
+hydro-electric power plant in July 2016. Minas Gerais, Brazil. Photo: Júlia Pontés.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 6
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+tailings dam failure, the dam must be designed to withstand the most extreme meteorological and
+seismic events theoretically possible at a given location.
+Prior to permit approval and over the life of the mine, operating companies must demonstrate the
+meaningful engagement, participation and consent of potentially affected communities for any
+tailings facility, including the right of communities to say ‘no’ to facilities. The self-determination of
+all affected communities must be respected, particularly for Indigenous communities, and they
+must be allowed to determine what consultation mechanism is used and who is allowed to
+participate in the consultation process.
+The use of upstream dams and all tailings facilities built on uncompacted tailings must be banned.
+Additionally, dams must not be built in close proximity to communities or upgradient from mining
+infrastructure, such as other dams or where workers are likely to be present. Tailings must never
+be discharged into bodies of water (rivers, streams, lakes, oceans, etc.), regardless of the challenges
+associated with other disposal methods.
+The design, construction, operation and closure of a tailings facility must be subject to the best
+available technologies and practices. The Best Available Technology for tailings disposal is the use
+of filtered tailings, which reduces the probability and consequences of failure. Nevertheless, such
+technologies must also be subjected to strict social and environmental licensing processes. The
+disposal of filtered tailings improves the safety of closed facilities.
+Operating companies must document the results of a detailed characterization of the dam
+foundation and the tailings material properties, with special attention to clay content, liquefaction
+potential, and the presence of brittle tailings. An Engineer of Record must submit an annual report
+verifying that dam operations and construction adhere to the approved dam design.
+Tailings facilities must be monitored, inspected, maintained and reviewed in perpetuity, or until
+there are no credible (physically possible) failure modes. Without perpetual oversight, the failure of
+a tailings dam is inevitable. Given that operating companies will not exist long enough to
+accomplish perpetual monitoring, inspection, maintenance and review, the operating companies’
+ability to eventually eliminate all credible failure modes must be a key consideration during the
+permitting process. If a tailings facility is proposed in a location where the consequences of failure
+are too great, the facility must not be built.
+Worst-case tailings failure scenarios must consider the loss of all tailings at full tailings facility
+buildout, and the results must be made public prior to permitting. Modeled failure scenarios must
+also be annually updated. Emergency and evacuation drills related to the catastrophic failure of
+tailings facilities must be held on an annual basis, and their planning and execution must include
+participation from affected communities, workers, local authorities and emergency management
+personnel. Communities must have access to independent technical experts of their choosing to
+assist them in evaluating the potential for and consequences of a catastrophic tailings failure at the
+time the facility is proposed and throughout the life of the facility.
+A culture of safety and responsibility must be upheld at the highest level within a corporation. The
+board of directors must be held accountable for its actions (or lack thereof). The board of directors
+must bear the primary responsibility for the safety of tailings facilities, including the consequences
+of dam failures, and demonstrate that the company has the necessary financial assurance to cover
+the implementation of closure and post-closure plans, and adequate public liability insurance to
+cover the full costs of all failures, including catastrophic failures.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 7
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+The safest tailings facility is one that is not built. To avoid the long-term liability of mine waste
+facilities and their social and environmental impacts, we must reduce the volume of tailings
+produced and the overall demand for primary raw materials and new mining. A permanent above-
+ground tailings facility should be a last resort. Over the past 40 years, ore grades — the
+concentration of the metal or mineral of value — have declined on average by half for many
+commodities, effectively doubling the volume of mine waste generated for each unit of valuable
+material produced. Current trends suggest an additional 2- to 10-fold increase in the demand for
+many commodities, particularly those needed for energy transition technologies, by 2060. These
+trends are not sustainable. In order to transition away from fossil fuels in a way that is sustainable,
+just and equitable, we need to reduce the need for new mining and the amount of mine waste
+produced, while using the best standards and practices for any new mining activity.
+SUMMARY OF GUIDELINES
+• Make safety the guiding principle in design, construction, operation and closure of tailings
+facilities.
+• Ban new tailings facilities in locations that would not allow for timely assisted evacuation of
+inhabited areas in the event of dam failure.
+• Ban upstream dams at new mines and close existing upstream dams.
+• Design dams to avoid any potential loss of life, which must be considered an extreme event.
+• Mandate the use of best available technology for tailings facilities, including the use of
+filtered tailings, and implement rigorous controls for safety, including after mine closure.
+• Demonstrate understanding of local conditions and tailings characteristics with robust
+monitoring systems.
+• Develop appropriate emergency preparedness/response plans.
+• Ensure the independence of reviewers to promote safety and transparency.
+• Address financial risks, including proper financial assurance and insurance.
+• Attempt to eliminate all credible failure modes to have safer facility closures.
+• Establish grievance procedures, whistleblower protection, and community-based safety
+oversight for potentially affected communities.
+• Obtain consent from potentially affected communities and guarantee the right to say ‘no’ to
+proposed or expanded tailings facilities.
+• Make information regarding mine safety publicly available in relevant languages.
+• Offer affected communities access to independent technical experts.
+• Require corporate boards of directors assume full responsibility for the risks (including
+financial risks) and the consequences of tailings facility failures.
+To understand how and why failures occur, we must understand the scope of the issue. A global
+inventory of the thousands of active and abandoned tailings disposal facilities does not exist, nor is
+there a complete registry of tailings dam failures. Compiling and sharing this information, publicly
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 8
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+and transparently, is essential. An independent international agency, such as a United Nations-
+endorsed agency, in collaboration with civil society, States, and operating companies, must drive
+the process to collect information on tailings dams and tailings dam failures worldwide, and share it
+with the public to reduce the risks associated with these sites and promote the protection of
+human health and the environment.
+This international agency must be able to provide guidance and transparency on tailings
+management worldwide to protect the health and safety of people and the environment. It must be
+a well-resourced agency capable of efficiently analyzing global standards, investigating failures,
+collecting and disclosing site-level data, responding to grievances and making publicly available
+recommendations. The governance structure for this agency must be a multi-stakeholder body that
+includes affected communities, Indigenous Peoples, labor, and civil society organizations. It must
+ensure a co-equal decision making process that includes all stakeholders, without undue influence
+by the sector that is being monitored. It must provide secure access to a grievance mechanism for
+community or worker reports and whistleblower complaints.
+Language
+This document uses the word “must” to indicate an action or guideline that is required. The word
+“should” is used when the action or guideline is optional or unattainable at this time.
+The authors chose to use tailings disposal instead of tailings storage throughout the document. The
+term storage implies that tailings are temporarily stored until another use is identified. The authors
+use disposal to indicate that tailings are a waste material without a guaranteed secondary use.
+Aerial view of mine waste, Catalão, Goiás, Brazil. Photo: Júlia Pontés.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 9
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Introduction
+In January 2019, a dam at the Córrego do Feijão mine owned by Vale in Brumadinho, Brazil,
+collapsed, releasing about 9.7 million cubic meters of tailings. The mine waste traveled eight
+kilometers over land,1 killed over 272 people,2 destroyed houses and buildings, and eventually
+flowed into the Paraopeba River.
+The Brumadinho catastrophe stunned the world, including the mining industry and investors, but
+should not have come as a surprise. It came on the heels of massive tailings dam collapses in 2014,
+at Imperial Metals’ Mount Polley gold-copper mine in British Columbia, Canada, and in 2015 at the
+Samarco iron mine in Mariana, Brazil, a joint venture owned by Vale and BHP Billiton. The failure of
+the Samarco mine killed 19 people and sent tailings nearly 700 kilometers down the Rio Doce to
+the Atlantic Ocean. After the Mariana catastrophe, Vale’s CEO vowed “never again.” And yet, three
+years later, the dam at their Córrego do Feijão Mine collapsed.3
+As tailings facilities fail with increasing frequency and severity,4 new regulations and standards have
+emerged in an effort to reign in dangerous practices and prevent future disasters. After the
+Brumadinho failure, investor intervention spearheaded by the Church of England, led to the swift
+rollout of the Global Tailings Review (GTR), co-convened by the International Council on Mining and
+Metals (ICMM), Principles for Responsible Investment (PRI) and the United Nations Environment
+Programme (UNEP). According to its website, the GTR sought “to establish an international
+standard for the safer management of tailings storage facilities.”5 The Global International Standard
+on Tailings Management (GISTM) was released in 2020.6
+Current industry standards, including the GISTM, do not go far enough to adequately protect
+communities and ecosystems from the consequences of tailings failures. They often lack clear and
+A fjord outside Kirkenes in Norway’s northeastern corner, has filled up with tailings after decades of mining
+companies dumping waste in the harbor. Kirkenes Harbor, Finnmark, Norway. Photo: WikiCommons.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 10
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+mandatory technical guidelines to move away from technologies and practices that present the
+greatest risk, as is done in other high-risk industries, such as aviation and long-distance pipelines.
+Significant changes must be made to current practices in design, construction, operation, and
+closure of tailings facilities. As climate change exacerbates the risk and consequences of failures,
+this has only become more urgent. The following document outlines guidelines for safety, respect
+for affected communities, and corporate accountability that must be incorporated into any tailings
+standard or regulations.
+Mine tailings are the waste that remains after the metals or minerals of economic value have been
+removed from ore using physical and/or chemical separation methods. Tailings consist of
+processed rock or soil, water, and possibly other mining products, including blasting chemicals
+(ammonia, nitrate), trace quantities of chemicals used in the separation process (e.g., petroleum
+byproducts, cyanide, caustic agents), and metals and other constituents leached from the rock or
+soil (e.g., copper, cadmium, lead, zinc, iron, arsenic, aluminum, manganese, sulfate). Tailings can be
+backfilled in underground mine workings or exhausted open pits, but in general, tailings are held in
+a permanent surface impoundment behind a dam that is constructed from other mine wastes.
+While this document mandates the use of filtered tailings in new tailings facilities, the authors
+recognize that there are existing tailings facilities that do not use filtered tailings and, for this
+reason, also provide guidance for tailings ponds.
+Catastrophic tailings dam failures have most often occurred at iron and aluminum mines, but many
+failures have also occurred at gold, copper, uranium, and other types of mines – including both
+open pit and underground mines. In addition to catastrophic failures, slower releases of
+contaminants can occur by seepage from the impoundment, windblown tailings, and an
+overtopping of the dam that does not result in a catastrophic release of tailings and tailings water.
+Catastrophic and slower releases from tailings facilities have long-term adverse effects on
+groundwater, surface water, soils, vegetation, and communities.
+This document recognizes that the safest tailings facility is the one that is never built. A permanent
+above ground tailings facility must be a last resort. We must instead find ways to reduce the
+amount of tailings produced and the overall demand for primary raw materials to avoid the long-
+term liability of mine waste sites and their social and environmental impacts. World production has
+already increased 2- to 10-fold for various commodities over the last 40 years.7 During the same
+period, ore grades have declined on average by half for many of those commodities, effectively
+doubling the volume of mine waste generated for each unit of valuable material produced.
+According to the World Bank and Australia’s Institute for Sustainable Futures, demand for metals,
+specifically for the energy transition, is set to explode between now and 2050, with anticipated
+increases of 300 to 8000 percent for certain metals, depending on the scenario.8,9
+Clearly, these trends are not sustainable. If virgin extraction to source metals and other raw
+materials, including those needed to support energy transition technologies, is needed, best
+standards and practices must be enforced. As a society, and particularly for countries in the Global
+North, we also need to actively find ways to reduce the overall demand for raw materials by
+redesigning our cities and transportation systems to reduce dependence on single family vehicle
+ownership, and shifting away from some of the current raw material uses. Research shows that
+material recycling and demand reduction strategies can help us build a future that is less reliant on
+extraction and is more just and equitable for mining-affected communities and ecosystems.10
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 11
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+To reduce the amount of tailings produced, and stored aboveground, it’s important to:
+1. Reduce the demand for metals and minerals by shifting away from disposable consumption
+and overconsumption.
+2. Reduce the demand for new mines or expansion of existing mines by implementing circular
+economy solutions and minerals recycling, re-processing existing tailings, and deriving
+metals from other unconventional sources such as contaminated waters and other wastes.
+3. Obtain commodities with the minimum production of tailings.
+4. Maximize the conversion of tailings into useful and/or marketable products.
+5. Maximize the use of tailings for the construction of mine infrastructure with proper
+safeguards in place to avoid contaminant leaching.
+6. Maximize the backfilling of tailings into exhausted open pits or underground mine
+workings.a
+This document is not intended to replace regulations or serve as a standalone comprehensive
+standard. However, any standard, regulation, or guidance document that is not protective of
+people, property and the environment, as outlined in this document, is insufficient. Additionally,
+there may be circumstances under which a tailings facility can meet all the guidelines in this
+document but must not be built or allowed to continue in operation.
+Ultimately, protective tailings regulation must fall to the regulators charged with public safety. In
+many places, protective tailings regulations either do not exist or are not adequately enforced. Too
+frequently governmental agencies are unable, because of limited resources or technical expertise,
+a Currently California, U.S. and New Caledonia have requirements for backfilling open-pit mines. In Quebec, Canada it is
+mandatory to submit a cost-benefit analysis of backfilling open-pit mines, while guidance from British Columbia, Canada states
+that backfilling should be maximized in mine design and operations.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 12
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+or unwilling, because of political pressure, corruption or the undue influence of the mining industry,
+to enact and/or enforce regulations that prioritize safety. It is important to acknowledge the
+pervasive problem of “regulatory capture” in mining oversight, in which the mining industry directly
+or unduly influences decisions made by regulators.11, This can take the form of lobbying, and/or
+political contributions and “revolving doors” between regulators and mining operators, as well as a
+lack of clarity between public interest and corporate interests in public policy.12 In some
+jurisdictions, regulatory agencies charged with the oversight of safety in mining activities are funded
+wholly by the industry itself.
+Furthermore, while voluntary standards and third-party certification schemes can be instrumental
+in advancing best practice and technology, they are not substitutes for governmental regulations,
+monitoring, and enforcement.
+Governmental regulators must ensure their independence from the mining industry, uphold their
+commitment to public safety in tailings permitting and monitoring, and enforce financial or other
+types of sanctions and corrective actions for regulatory violations. Throughout this document, the
+authors often refer to the need for independent technical assistance, and independent or third-
+party reviews of mining operations. This is to create mechanisms for oversight beyond operating
+companies and their direct employees, and to address the distrust that many mining-affected
+communities feel toward operating companies. The authors hope the revised version of Safety First
+will empower civil society groups, frontline communities, Indigenous Peoples, labor unions,
+academic researchers, and NGOs to take a more active role in tailings management and the
+enforcement of safer tailings disposal practices. At the same time, Safety First highlights the need
+for transparent regulatory agencies that can operate without undue influence from the mining
+industry.
+Safety First was originally released in 2020 to address the need for more protective tailings
+management. After its release, the authors received feedback on the guidelines from frontline
+community, Indigenous, NGO, academic, and technical experts. In light of this feedback, the authors
+held a series of regional workshops to hear from mining-affected communities, local NGOs, and
+Indigenous Peoples about their experiences with tailings and to receive their comments on the
+guidelines. The workshops were held in four languages and included over 200 participants from
+five continents. The authors also solicited and received written comments.
+These comments helped inform the 2022 version of Safety First. The authors would like to thank all
+the community members, organizations, academics, and scientists who provided invaluable
+feedback on the original version of the guidelines and helped us create a stronger, more
+community-centered revised document. The Safety First guidelines are not final and will be
+regularly updated to reflect changes in tailings design, management, regulation, and best practices.
+The authors hope this document can be one step toward proactively protecting the interests of
+frontline communities in tailings management.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 13
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+The 2015 collapse of the tailings dam at the Samarco mine,
+owned by Vale and BHP, created a flash flood of tailings that
+covered houses in the town of Bento Rodrigues, Brazil. Minas
+Gerais, Brazil. Photo: Rogério Alves/TV Senado.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 14
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Scope
+Tailings facilities can fail in many ways and with varying degrees of severity. A tailings failure is an
+unintended or uncontrolled release of materials, including tailings, water or dust, from a tailings
+disposal facility. This document outlines guidelines aimed at preventing catastrophic failures,
+defined as failures that constitute a rapid shock, and that happen without warning (even if they
+could have been foreseen).13,b Sudden failures are not the only type of tailings failure, and failures
+that occur more slowly or over a longer period of time can also have disastrous impacts. While this
+report does not attempt to comprehensively address all tailings failures, such as chronic
+environmental contamination, the authors recognize that such impacts represent serious public
+and environmental health concerns for many communities living in the vicinity of tailings sites.
+For each aspect of tailings management, the authors have based the guidelines on the most
+conservative criteria (most protective of people, property and the environment) from among the
+existing guidance documents and regulations. Safety First sometimes draws from guidance for
+water-retention dams, if they are more conservative than existing tailings dam guidance. Operating
+companies must identify, prevent and mitigate any environmental and public health impacts in
+addition to taking steps to prevent sudden catastrophic failures.
+EXAMPLES OF LONG-TERM ENVIRONMENTAL IMPACTS
+WATER CONTAMINATION: Ongoing and periodic water contamination caused by leaching, seeping,
+spills, pipeline leaks, or overtopping of tailings disposal facilities. At the San Finx mine in Galicia,
+Spain, an average of approximately 50,000 liters of water contaminated with mine waste are
+released per hour into a nearby river, leading to cadmium, copper and zinc concentrations that are
+above maximum allowable levels kilometers downstream.14
+ Prevention measures: Tailings facilities must use multiple mechanisms, including liners,
+covers, and stormwater run-on and run-off controls, to minimize seepage from the facilities
+and infiltration to groundwater to the greatest extent possible. Treatment systems for water
+collected from tailings facilities must adequately reduce toxic metal contaminants without
+using off-site dilution.
+DUST EMISSIONS: Fugitive dust emissions from tailings disposal facilities lead to air pollution,
+causing health issues, like respiratory problems, and environmental contamination of vegetation,
+soil, wildlife, and surface water. In South Africa gold mines in the Witwatersrand region have dust
+fallout that is high in silica and uranium concentrations. This dust has led to adverse respiratory
+health effects in local communities.15,16
+ Prevention measures: Operating companies must undergo concurrent reclamation with
+covers to minimize dust production.
+b For example, the Mount Polley dam disaster could have been foreseen if the foundation had been properly characterized.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 15
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+AQUEOUS TAILINGS DISPOSAL: Every year, mining companies dump 220 million metric tons of
+mine waste directly into oceans, rivers and lakes.17 This practice smothers river beds, seabed floors
+and coral reefs, decimates fish populations in freshwater and marine environments, and floods
+wetlands and forests. Since 2012, the Ramu nickel mine in Papua New Guinea has dumped millions
+of metric tons of tailings into the ocean. A study of the area found elevated levels of heavy metals
+“much above the allowed limits” in agricultural soils, beach sands, and water from the river and sea,
+including drinking water and food.18
+ Prevention measure: Tailings must never be discharged into bodies of water (rivers, streams,
+lakes, oceans, etc.), regardless of the challenges associated with more protective disposal
+methods.
+While environmental, health and safety effects warrant protective guidelines and effective long-
+term monitoring and mitigation measures, addressing the full range of remediation options for all
+types of tailings failures is beyond the scope of this document.
+Operating companies are responsible for the perpetual care of a tailings facility until there are no
+credible failure modes. Operating companies may avoid using the word “dam” in an attempt to skirt
+tailings dam safety requirements. However, it is important to note that these guidelines apply to any
+engineered structure that contains mine tailings, regardless of the terminology used by the operating
+company to describe the engineered structure. In particular, the guidelines in Safety First apply to:
+1. Conventional tailings impoundments;
+2. Waste dumps that store a mixture of tailings, ore reject material,c and/or waste rock;
+3. Filtered tailings facilities (with or without the admixture of ore reject and/or waste rock);
+4. Tailings that are stored in exhausted open pits that employ dikes, berms or similar
+structures, and;
+5. The structural zones (containment structures) of tailings disposal facilities, including the
+structural zones of filtered tailings facilities
+RELEVANCE TO OTHER MINE FACILITIES
+Mine facilities that do not contain tailings, such as waste rock, heap leach, and dump leach facilities,
+also have inherent risks. Heap and dump leach facilities are commonly used in gold and copper
+mining, respectively. The material in heap and dump leach facilities is initially considered ore but
+becomes waste after the application of cyanide or acid ceases – and the spent materials typically
+remain on the surface in perpetuity. Surface waste rock facilities are common at nearly all mines,
+although mixing waste rock into tailings impoundments has become more common recently. The
+potential for these facilities to leach contaminants during and after their active lives and to become
+physically unstable presents an ongoing risk to downstream and downgradient communities and
+the environment. A major landslide associated with the waste rock pile caused failure of the
+Bellavista Mine cyanide heap leach facility in 2007 and resulted in closure of the mine, groundwater
+c Ore rejects are the gravel-sized materials that remain after a process that separates lower-grade from higher-grade ore
+fragments prior to mineral processing for extraction of the commodity of value. The purpose of ore reject technology is to avoid
+the creation of excessive tailings from low-grade ore fragments.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 16
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+contamination near the community of Miramar,19 and is an example of the kind of adverse impacts
+that can occur at these types of facilities from slope instability.20
+The 2015 collapse of the tailings dam at the Samarco mine, owned by Vale and BHP, created a flash flood of
+tailings that covered the town of Bento Rodrigues, Brazil. Minas Gerais, Brazil. Photo: Rogério Alves/TV Senado.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 17
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Guidelines
+1. Make safety the guiding principle in design, construction,
+operation, and closure
+Given the hazardous nature of mine tailings, the fundamental goal of tailings management
+must be to “ensure that public safety, environmental safety, and economic safety are the
+determinative factors in governing what tailings disposal system will be implemented.”21
+Specifically, tailings management must ensure zero harm to people and zero tolerance for
+human fatalities. It is important to recognize that mining is a fundamentally destructive
+industry, meaning that a goal of zero harm to the environment is impossible to achieve.
+Nevertheless, operating companies must do all that they can to minimize environmental
+harm everywhere. In particular, they must limit any environmental harm that inevitably
+occurs to within the mine site.d
+Safety must be evaluated by independent third-parties, such as an Independent Tailings
+Review Board, to ensure that cost reduction is not prioritized at the expense of people and
+the environment. Operating companies must document that, at all points of design,
+operation, closure, and post-closure of tailings facilities, protecting human and
+environmental health and safety is the primary concern. Taking lessons from the 2014
+Mount Polley mine disaster in Canada, and citing the Independent Expert Engineering
+Investigation and Review Panel,22 the 2017 UNEP-GRID Arendal rapid response assessment
+on tailings disposal also made safety its first recommendation: “Safety attributes should be
+evaluated separately from economic considerations, and cost should not be the determining
+factor.”23 If a mining project is uneconomic due to the costs of a safe tailings disposal system,
+then it is uneconomic — costs and risks must not be transferred to the environment,
+communities or host governments.
+2. Consent of affected communitiese
+Consent must be achieved through an ongoing dialogue over the life of the mine for both
+proposed and existing facilities. The First Nations Mining and Energy Council states that,
+“consent is simple — it is the right to say yes, the right to say no, or the right to say yes with
+conditions.”24 Consent can be given or withheld at distinct stages of a project, including
+exploration.25 Operating companies must ensure the meaningful engagement, participation,
+and consent of all affected communities for any tailings facility.
+All engagement must be conducted in local languages and align with the cultural norms and
+communication styles of any affected communities and stakeholders. Engagement must
+begin as early as possible, before any exploration has taken place and as part of the mine
+d A mine site is the area of surface disturbance necessary to conduct a mining operation. This includes extraction, processing,
+and waste disposal facilities, and roads. A mine site does not necessarily include the entire area as defined by the mine permit
+or claim.
+e This guideline applies to both affected and potentially affected communities, including Indigenous, Afro-Descendant, Traditional,
+First Nation, Aboriginal, Adivasi, Janajati and non-Indigenous communities.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 18
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+permitting process. For existing mines, permits and licenses must be reviewed by relevant
+regulatory agencies and consent must be sought.26
+Consent must be obtained through culturally appropriate processes, time frames and
+mechanisms that are determined by the Indigenous Peoples or affected communities. These
+may include customary decision-making processes, local democratic processes and local
+governance mechanisms, or other processes such as referenda.
+For Indigenous Peoples, the United Nations recognizes that Free, Prior and Informed
+Consent (FPIC) must be in place in order for a mine to be developed, operated, and closed.
+The rights of Indigenous Peoples are human rights and are indivisible from their cultural,
+territorial and self-governance rights.27 Indigenous People hold title on their lands by virtue
+of their occupation and stewardship of those lands prior to colonization and continuing to
+the present day. Indigenous laws have always existed and governed Indigenous lands.28
+Therefore, Indigenous Peoples have both self-governance rights as distinct, self-determining
+peoples with specific decision-making processes, laws, practices, and institutions, and
+collective territorial, self-governance, and cultural rights. Indigenous and Afro-Descendant
+Peoples are increasingly documenting their governance rules for consultations and Free,
+Prior and Informed Consent (FPIC) in the form of Autonomous FPIC Protocols for which they
+demand compliance by all external actors.29 An FPIC process cannot be carried out where
+Indigenous or Tribal Peoples are living in voluntary isolation, such as uncontacted tribes in
+the Amazon.30
+Indigenous Peoples and affected communities must be afforded the opportunity to establish
+land-use plans and “no-go zones.”31 This acknowledges that certain areas must never be
+considered for tailings disposal, no matter how the tailings facility is designed, monitored or
+operated. “No-go zones” may include potentially affected areas located in the zone of
+influence of tailings facilities (e.g. sacred sites) that would not allow for the construction of a
+facility. In some cases, Indigenous governmental bodies may have their own standards,
+requirements, and monitoring and inspection systems for mining operations. In these
+After a rigorous Environmental, Social and Cultural Impact Assessment led by local Indigenous protocols, the
+Stk'emlupsemc Te Secwepemc Nation rejected in 2017 a large tailings facility proposed by the company KGHM
+near their sacred Pipsell site area. Pipsell, Secwepemc Territory, British Columbia, Canada.
+Photo: Stk'emlupsemc Te Secwepemc Nation (SSN).
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 19
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+instances, operating companies must comply with any directives made by relevant
+Indigenous governmental bodies.32
+In accordance with the UN Declaration on the Rights of Indigenous Peoples, Indigenous
+People have the right to self-identify with an Indigenous community that accepts them as a
+member.33 An operating company must respect any community that self-identifies as
+Indigenous and respect their right to establish no-go zones and autonomous FPIC protocols,
+regardless of whether or not they have obtained legally recognized status as Indigenous.34
+Consent must be free of external manipulation, coercion or extortion. Indigenous Peoples
+and affected communities must be assured the right to say no to a tailings disposal facility
+without fear of potential backlash from local government, police or military forces, interested
+third-parties, and/or the operating company.f Given the power asymmetries that often exist
+between operating companies and communities, Indigenous Peoples and affected
+communities must be permitted to decide who is allowed to be present and participate in a
+consultation process.35 This means that they may choose to hold consultation processes in
+which representatives from the operating company, national or local government, or police
+forces are not permitted to participate or be present.36 The community can also choose how
+they will communicate the results of the consultation process to their government, relevant
+regulatory agencies, and the operating company. This helps ensure that consent is freely
+given.
+Operating companies must provide a transparent risk analysis identifying and evaluating the
+geographic area and inhabited areas that could be affected by all proposed tailings facilities
+to all affected stakeholders.37 The study must include, but not be limited to, both positive
+and negative impacts on affected communities and ecosystems, including chronic pollution,
+and labor and economic impacts.38 It must also include an assessment of the outcomes
+where no mine or tailings facility is built. The study must be provided sufficiently in advance
+so as to give communities ample time to understand and analyze the proposed project. The
+time frame is dependent on the decision-making processes of the affected stakeholders, but
+consultation must be “sought sufficiently in advance of any authorization or commencement
+of activities, at the early stages of a development or investment plan, and not only when the
+need arises to obtain approval from the community.”39 The study must evaluate the impacts
+of all proposed facility designs and sites, and must be updated anytime a tailings facility’s
+design is changed, expanded, or closed. Due to the ability of tailings to travel hundreds of
+kilometers and impact extensive areas in the event of a failure, the impact study must be
+based on the most comprehensive definition of affected people and area, with special
+consideration to any impacted watersheds.
+Affected communities must have access to independent technical or other expert advice
+from the earliest stages of exploration, through monitoring and closure plans.40 Affected
+communities must be able to select the experts in order to ensure they are trusted (See
+Guidelines 16).
+f The right to say no to a tailings facility and provide freely given consent was a commonly expressed concern by communities in
+the 2021 consultation process.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 20
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+If the representatives of affected communities or Indigenous Peoples clearly communicate,
+at any point during engagement with the operating company, that they do not wish to
+proceed with consent-related discussions, the company must recognize that it does not
+have consent, and must cease to pursue any proposed activities affecting the rights or
+interests of affected communities. The company may approach affected communities or
+Indigenous Peoples to renew discussions only if and when invited to do so by the
+communities’ representatives.
+Operating companies must document and report all steps taken towards community
+consent and/or FPIC. In some jurisdictions, there may be public agencies that mediate or
+supervise contact with Indigenous People. In these cases, operating companies must follow
+established protocols for contacting and obtaining consent from Indigenous People.
+Documentation on the consent process and FPIC must be made publicly available and filed
+with state agencies, however any public disclosures of FPIC or community consent must be
+approved by Indigenous Peoples and affected communities before their release. The
+operating company must document and make public how any feedback received was
+incorporated and addressed.
+3. Ban new tailings facilities where inhabited areas are in the path of
+a tailings dam failure
+The most effective way to minimize risk to people is to prevent the construction of new
+tailings facilities where there is a population living or working in close proximity, downstream,
+or down gradient from the facility. Operating companies must not build infrastructure in
+which workers are likely to be present—offices, cafeterias, warehouses—in the zone of
+influence. The zone of influence is the “area that would be significantly affected in case of a
+[tailings facility] failure and should be categorized as a risk zone.”41 New tailings facilities
+must not be constructed if the operating company cannot ensure the safe and timely
+assisted evacuation of any population that lives in the zone of influence.
+The location and safety of a tailings facility must not only contemplate the impact to human
+lives in the case of a failure, but the environmental and economic impacts as well. Affected
+communities must be able to define no-go zones, or zones where a tailings facility is not
+permitted due to environmental, cultural or economic factors (See Guideline 2). Tailings
+facilities must not be constructed in a location where a failure would materially impact public
+water supplies or critical habitats, or near protected ecological resources. Additionally,
+tailings must never be deposited in bodies of water, such as rivers, streams, oceans, etc.
+Because tailings can flow for up to hundreds of kilometers during a failure, specific
+consideration of all downstream communities, ecosystems, cultural, sacred and touristic
+sites, and areas of economic production must be undertaken in the determination of
+potentially affected areas. It is important to recognize the interconnected relationship
+between people and the natural environment; protecting ecological resources is an
+extension of human safety.
+The construction of new dams and the expansion of existing dams is banned in legislation in
+Ecuador and Minas Gerais, Brazil if there are settlements within 10 kilometers downstream
+along the course of the valley or if projections indicate that a flood from a tailings failure
+might reach nearby communities in less than 30 minutes. In Minas Gerais, the distance can
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 21
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+be increased to 25 kilometers, depending upon the population density and the natural and
+cultural heritage of the area.42 Although these geographic and temporal limits are better
+than no regulation, they do not necessarily ensure safe evacuation in every situation.
+Therefore, the minimum distance between communities and new dams must be defined on
+a case-by-case basis. This distance must be calculated based on the time it would take to
+evacuate the entire community with the support of a rescue team and the time it would take
+for a tailings flood to reach the community, with a safety buffer built into the calculation. The
+time it takes for a tailings flood to reach a community must be calculated based on a dam
+break study conducted for the specific tailings disposal facility.
+When existing facilities are too close to communities to ensure safe evacuation, operating
+companies must negotiate with communities to close the tailings facility. While it is
+imperative that operating companies do all that they can to quickly close unsafe tailings
+facilities, in the case where a safe closure is not possible in a timely manner and no other
+solutions are available (see Guideline 11 for details on safe closure), the operating company
+must offer a package of voluntary resettlement. Involuntary resettlement must not be
+allowed under any circumstance. In many cases, however, resettlement that is called
+“voluntary” can be highly problematic and lead to forced relocation and inadequate
+compensation. Voluntary resettlement must be carried out in a manner that aligns with best
+practices and the highest international resettlement standards. Voluntary resettlement can
+only occur with the consent of affected communities (see Guideline 2), it must provide fair
+and appropriate compensation for loss of land and other assets, as well as security of tenure
+in the new location, and must result in improved livelihoods and standards of living for those
+who are resettled.43,44,45
+Communities must have access to independent technical experts throughout the
+resettlement process (see Guideline 16). Any voluntary resettlement process must include
+collective and individual resettlement options.
+4. Ban upstream dams at new mines and close existing
+upstream facilities
+Because of the demonstrated risk associated with upstream dam construction,46,47,48
+upstream dams must not be built at any new facilities. Upstream construction is especially
+problematic in areas with moderate or high seismic risk, or in wet climate areas with net
+precipitation (more precipitation than evaporation), especially as weather events become
+increasingly severe with climate change. The structural zone of a filtered tailings stack must
+not be constructed on top of uncompacted or lightly-compacted filtered tailings. If it is, it
+would be an upstream dam and must be prohibited.
+The construction of new upstream tailings dams has already been banned in Brazil,49 Chile,50
+Peru,51 and Ecuador.52 It is theoretically possible to safely construct and operate an
+upstream tailings dam under the limited conditions of low seismicity, low precipitation and
+highly-trained personnel. Even under those limited conditions, a very influential tailings
+industry paper, with many antecedents, has argued that there are ten rules for upstream
+dams and not a single one can be violated without substantial risk of failure.53 There is broad
+consensus within the engineering community, especially in high-risk industries such as
+aviation and pipelines, that engineered structures should be robust, with multiple back-ups
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 22
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+and defense mechanisms. The need to obey ten rules with no margin for error does not
+constitute a basis for safe design.
+In comparison to upstream dams, centerline and downstream dams are much less
+vulnerable to all mechanisms of dam failure. A downstream or centerline raise constructed
+on top of an existing upstream dam or on top of uncompacted tailings still constitutes an
+upstream dam.g According to the International Commission on Large Dams (ICOLD) bulletin
+181, variations on centerline dams include modified upstream or modified downstream
+dams.54 In some jurisdictions where upstream dams have already been banned, operating
+companies have used the concept of “modified centerline” to avoid the prohibition. What
+these operating companies call a modified centerline design must be considered an
+upstream dam because it still includes construction of the dam on top of uncompacted
+tailings. Operating companies must correctly identify upstream construction to regulatory
+agencies.
+Expansion of existing upstream tailings facilities must cease, and these facilities must be
+safely closed as soon as possible. This includes dams where companies have been approved
+for permits that have not begun or are just beginning construction. The deadline for safe
+closure must depend on engineering and the safety of affected communities, rather than
+economic considerations (see Guideline 11 for safe closure specifications).
+Source: Grid
+g The Riotinto Mine in Spain, operated by Atalaya Mining, can provide an example of this type of construction.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 23
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+5. Any potential loss of life is an extreme event and design must
+respond accordingly
+If an operating company, regulatory agency, or independent third-party identifies any
+potential loss of life as a result of a tailings dam failure, the dam must be designed to
+withstand the Probable Maximum Flood (PMF), which is the largest flood that is theoretically
+possible at a given location, and the Maximum Credible Earthquake (MCE), which is the
+largest earthquake that is theoretically possible at a given location.55 Where the failure of a
+tailings dam would have no potential for the loss of human life, the facility must be designed
+to withstand a 10,000-year flood and a 10,000-year earthquake.
+In the United States, the U.S. Army Corps of Engineers and the U.S. Bureau of Reclamation
+have guidelines for water-retention dams that require dams are able to withstand the
+Probable Maximum Flood and Maximum Credible Earthquake when there is potential loss of
+life in the event of a dam failure. Considering that there are currently no federal guidelines in
+the U.S. for tailings dams, U.S. federal guidelines for water-retention dams must apply to
+tailings dams. The U.S. Federal Emergency Management Agency (FEMA) has three Hazard
+Potential Classifications, which are Low, Significant and High. High Hazard Potential means
+“probable loss of life due to dam failure or misoperation.” These regulations clarify that
+“probable loss of life” means “one or more expected.”56 A dam in the High Hazard Potential
+category must be designed for the PMF. In addition, the U.S. Army Corps of Engineers
+(USACE) has four categories of dam safety standards. The strictest, “Standard 1 applies to
+the design of dams capable of placing human life at risk or causing a catastrophe, should
+they fail.”57 For Standard 1, “structural designs will be such that the dam will safely pass an
+IDF [Inflow Design Flood] computed from probable maximum precipitation (PMP) occurring
+over the watershed above the dam site.”
+Additionally, according to FEMA (2005), High Hazard Potential dams must be designed for
+the Maximum Credible Earthquake (MCE). Similarly, USACE guidelines from 2016 state, “for
+critical features, the MDE [Maximum Design Earthquake] is the same as the MCE.”58 All
+modeling and design for floods must take climate change into account — this applies for
+both closed and operating facilities.
+Freeport McMoran’s Gasberg mine in West Papua dumps tailings waste into the Otomin and Ajkwa rivers. Photo: Earthworks.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 24
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+6. Mandate the use of Best Available Technology for tailings,
+in particular filtered tailings
+All new mines that create tailings must begin with an analysis of the best available
+technology (BAT) for tailings disposal. Best available technologyh and practices in tailings
+management will continue to change, but tailings BAT was specified by the Mount Polley
+Independent Expert Engineering Investigation and Review Panel (the “Mount Polley Report”)
+in the following way:
+"While best practices [BAP] focus on the performance of the tailings dam, best available
+technology (BAT) concerns the tailings deposit itself. The goal of BAT for tailings management
+is to assure physical stability of the tailings deposit. This is achieved by preventing release of
+impoundment contents, independent of the integrity of any containment structures. In
+accomplishing this objective, BAT has three components that derive from first principles of
+soil mechanics:
+1. Eliminate surface water from the impoundment.
+2. Promote unsaturated conditions in the tailings with drainage provisions.
+3. Achieve dilatant conditionsi throughout the tailings deposit by compaction.”59
+The British Columbia Mining Code Guidance asserts, “Physical stability is of paramount
+importance, and options that require a compromise to physical stability should be
+discarded.”60 Reducing the water content in a tailings facility increases safety because it
+reduces both the probability and consequences of a tailings dam failure. When tailings are
+sufficiently filtered, they have a moisture content similar to that of a moist soil. Filtered
+tailings can be compacted in the tailings facility, which reduces the likelihood of liquefaction.
+The initial disposal of filtered tailings facilitates an eventual safe closure. Tailings placed by
+conventional methods, i.e. slurry, thickened, and paste tailings, can be drained after
+placement, but this approach does not reduce the water content as low as filtering the
+tailings (See Guideline 11 for more discussion of safe closure). Nevertheless, filtered tailings
+do not eliminate all risks. Because they still require a structural zone (which is a type of dam)
+for containment,61 they must be treated as an engineered tailings facility (i.e. tailings dam)
+from a regulatory standpoint. The structural zone of a tailings facility must not be placed on
+top of a non-structural zone, such as uncompacted or lightly compacted tailings (See
+Guideline 4).
+h When Best Available Technology is capitalized in the document it refers to BAT as it was specified in the Mount Polley Report.
+When best available technology is not capitalized it refers to best available technology and practices more generally, without
+explicit reference to the Mount Polley Report.
+i Tailings in a dilatant state are less likely to liquefy because they will tend to expand, rather than contract, in response to
+disturbance.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 25
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+The Mount Polley Report recommends that:
+ “For existing tailings impoundments. Constructing filtered tailings facilities on existing
+conventional impoundments poses several technical hurdles.…j Attempting to retrofit
+existing conventional tailings impoundments is therefore not recommended …
+reliance instead (should be) on best practices during their remaining active life.
+ For new tailings facilities. BAT should be actively encouraged for new tailings facilities
+at existing and proposed mines. Safety attributes should be evaluated separately
+from economic considerations, and cost should not be the determining factor.
+ For closure. BAT principles should be applied to closure of active impoundments so
+that they are progressively removed from the inventory by attrition. Where
+applicable, alternatives to water covers should be aggressively pursued.”62
+The Mount Polley Report goes on to say, “Filtered tailings technology embodies all three BAT
+components” and “[t]here are no overriding technical impediments to more widespread
+adoption of filtered tailings technology.” All three BAT components must be incorporated
+into tailings disposal. While filtered tailings are considered Best Available Technology, filtered
+tailings can still fail and their use is not an excuse to ignore other aspects of tailings safety.
+Additionally, best available technology includes reducing the amount of tailings stored above
+ground as much as possible. The BC Mining Code Guidance recommends minimizing the
+surficial footprint of tailings facilities and maximizing in-pit or underground backfill.63
+The use of subaqueous tailings disposal to prevent acid mine drainage can no longer be
+regarded as a best practice. The Mount Polley Report emphasized, “It can be quickly
+recognized that water covers run counter to the BAT principles … The Mount Polley failure
+shows why physical stability must remain foremost and cannot be compromised.”64
+Although subaqueous disposal of potentially acid generating tailings has been shown to
+effectively decrease acid-generation potential (AGP) in some cases, leaching can continue
+even after submergence, especially if oxidation and acid generation have already begun.65,66
+Filtered tailings reduces the amount of entrained water, but any leachate produced must be
+collected and often requires long-term treatment.67 The design of filtered tailings facilities
+must include an effective drainage system, as well as the water management infrastructure
+for preventing the rewetting of the tailings by precipitation or surface runoff. If there are
+existing tailings facilities that use drainage ponds, they must be located a safe distance from
+the tailings facilities to prevent the failure of one structure from impacting the stability of the
+other structure. If long-term water treatment is required, a cover or other design that will
+eliminate or minimize infiltration must be utilized.68
+j While there are examples of successful filtered tailings facilities constructed on top of conventional tailings impoundment, there
+are also examples where this has led to failure. For this reason, the authors agree with the Mount Polley Report and do not
+recommend it.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 26
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+7. Implement rigorous controls for safety
+The design, construction, operation, and closure of any tailings facility must be subject to
+best available technologies and practices. An annual report must verify that dam operations
+and construction adhere to the approved final dam design. If a feature of the design was
+approved by a regulatory agency, all requested changes to that design must be submitted to
+the same regulatory agency for approval. Any deviation from the original design must be
+justified, documented, and evaluated by an Independent Tailings Review Board (ITRB).
+As a guidance for safe operation and closure, a conservative Factors of Safety (FoS), meaning
+the FoS that is the most protective of people, property and the environment, must be
+established and enforced for all tailings dams. When calculating FoS, single input values must
+be avoided and a range of values, methods, and/or models must be applied to assess the
+various possible FoS values (static and pseudo-static). For operation and closure of a tailings
+dam, a static FoS of 1.5 (in non-earthquake conditions), and pseudo-static FoS of 1.1 (in
+response to the design earthquake, which establishes that even during the strongest seismic
+acceleration theoretically possible, the dam will still have 10% more shear resistance than is
+necessary to avoid failure), is presently viewed as conservative.
+The ICMM Tailings Management: Good Practice Guide notes that, “FoS is not a measurable
+value; it is an outcome based on inputs which are derived by the designer based on site
+data, laboratory testing, and modeling.”69 For this reason, the guide describes many
+limitations to the use of FoS and cautions against overreliance on FoS leading to
+complacency in tailings facility design and monitoring.
+Although the FoS is still included in many regulations and guidelines, it is a poor predictor of
+the annual probability of failure.70 In order to more accurately identify risk, dam designs
+The Mount Polley (Imperial Metals) 2014 tailings spill in British Columbia created a 100 m wide flow path for over 10 km
+downstream before dumping 24 billion litres of mine tailings and other debris into Quesnel Lake, in the Fraser River
+watershed, home to one of the largest salmon runs in North-America. Secwepemc Territory, British Columbia, Canada.
+Photo: Chris Blake, Quesnel River Watershed Alliance.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 27
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+and evaluations must consider the annual probability of failure, in addition to the FoS.
+Annual probabilities of failure have been relied upon in many industries, such as aviation and
+aerospace, since the Second World War. For tailings dams where failure would not result in
+the potential loss of human life, an acceptable annual probability of failure would be 0.01%
+(equivalent to design for a 10,000-year earthquake or 10,000-year flood). For tailings dams
+where failure would result in the potential loss of human life, an acceptable annual
+probability of failure must be no greater than 0.001%.k
+The annual probability of failure must be periodically calculated by the operating company.
+The annual probability of failure and the methodology used to reach it must be published
+both as a technical document, and as a document that affected communities can access and
+understand. Risk analysis used to calculate the annual probability of failure must consider
+more than just the maximum credible precipitation or seismic events.
+The slope of the outer embankment of the tailings dam must be low enough to keep the
+annual probability of failure due to piping (also called internal erosion) below an acceptable
+level. New outer embankments must be constructed with slopes 1V:5H or less, and
+additional fill must be added to existing outer embankments with a slope steeper than 1V:5H
+in order to reduce the slope to 1V:5H, as per guidance from the USACE.71 A proposal to
+construct or maintain an outer embankment steeper than 1V:5H must be justified in writing
+to both regulators and the public. The justification cannot be based solely on economic
+considerations, but must demonstrate that, for a particular design, failure by internal erosion
+is still sufficiently unlikely even with a steeper slope. In all instances, a dam slope must not be
+steeper than 1V:2H. Regardless of the outer embankment slope, any new upstream dams
+must be banned and existing upstream dams must be safely closed in a timely manner.
+The water management infrastructure prevents overtopping of the supernatant tailings
+pond. For tailings dams where failure could result in loss of life, the water management
+infrastructure, including, for example the beach, the required freeboard, spillways, internal
+drains, and diversion canals, must be sufficiently conservatively designed so that the tailings
+pond will not reach the dam crest even during the PMF. Otherwise, the water management
+infrastructure must ensure that the tailings pond will not reach the dam crest even during a
+10,000-year flood. Maximum credible event calculations, such as the PMF, cannot rely solely
+on historical data and must consider changes produced by climate change. The operating
+company must provide documentation in Dam Safety Reviews (DSRs), overseen by a
+qualified engineer, that show that the entire system of water management of the tailings
+facility is capable of resisting either the PMF or the 10,000-year flood, depending on its
+consequence classification.
+k This annual probability of failure derives from the statement from the USACE Hydrologic Engineering Center’s 2003 Application
+of paleohydrology to Corps flood frequency analysis: RD 47 on page 34 that says “the PMF [Probable Maximum Flood] does not
+incorporate a specific exceedance probability, but is generally thought to be well beyond the 10,000 year recurrence interval.”
+In other words, the PMF has an annual probability of exceedance significantly less than 0.01%. It also derives from the
+statement by FEMA’s 2005 Federal guidelines for dam safety—Earthquake analyses and design of dams: FEMA-65 on page 75
+that says “for high-hazard potential dams, movement of faults within the range of 35,000 to 100,000 years BP is considered
+recent enough to warrant an ‘active’ or ‘capable’ classification.” In other words, the MCE (Maximum Credible Earthquake) could
+be as rare as a 100,000-year earthquake (annual probability of exceedance of 0.001%).
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 28
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+8. Ensure a detailed evaluation of the dam foundation and of the
+tailings properties
+Prior to permitting approval, operating companies must provide relevant regulatory agencies
+a detailed engineering evaluation of the dam foundation, and a physical and chemical
+characterization of the tailings, with special attention to tailings clay content, brittleness and
+susceptibility to liquefaction. The characterization of the underlying geology must be
+conducted before the dam and the impoundment are constructed. The failure of the Mount
+Polley dam was related in part to the presence of an unstable glaciolacustrine layer
+underlying the dam.
+The 2019 Brazilian Brumadinho Dam I failure was caused in part because the dam stored
+brittle tailings,72 so all tailings must be evaluated for contractive or brittle behavior. The
+structural zone of a tailings dam must not include contractive or brittle tailings due to their
+increased risk of failure by liquefaction.
+Tailings and tailings supernatant and pore water must be characterized and the results used
+to estimate the likelihood and consequence of a potential dam failure. The geochemical
+characteristics of the supernatant and pore water of a tailings facility, as well as the tailings
+themselves can affect the consequences of a dam failure and control the extent and
+recoverability of ecosystems. As acid generation and contaminant leaching potential
+increase, the consequences associated with dam failure increase. Tailings and tailings water
+must be sampled and the results reviewed, considering potential environmental risk, at least
+every three years, or when there is a substantial change in the ore deposit being processed
+or the processing methods.
+Because tailings with high acid generation or a contaminant leaching potential increase the
+severity of consequences in the event of a failure, tailings with those geochemical
+characteristics must be designed to withstand the PMF and the MCE. Tailings facilities must
+be designed to withstand the 10,000-year flood or the 10,000-year earthquake only when
+the tailings are non-potentially acid generating with low contaminant leaching potential and
+there is no potential for loss of human life. The GARD Guide provides state-of-the-art
+recommendations for tailings geochemical characterization methods and interpretation of
+the results (for design criteria related to potential loss of life refer to Guideline 5).73 Scanning
+Electron Microscope (SEM) and other mineralogic and geochemical techniques must be used
+for tailings characterization during mining and after mining ceases, especially at iron ore
+mines, or where iron-ore tailings are used for dam construction. As more is learned from
+past failures, best practice characterization methods must be regularly updated to ensure
+that the most relevant and comprehensive approaches are incorporated in tailings
+management and assessment guidance.
+The abandoned Panguna mine, Bougainville, Papua New Guinea. Photo: Damian Baker.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 29
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+9. Appropriate monitoring systems must be in place to identify and
+mitigate risk
+Tailings facilities must have appropriate monitoring systems in place to identify and mitigate
+risk. Tailings facilities must also have a clearly defined Adaptive Management Plan (AMP)
+linked to tailings monitoring results that encompasses a complete set of predictions and pre-
+planned actions.74 The AMP is a way to rigorously implement the Observational Method, and
+the two terms are often used interchangeably. The Observational Method must be applied
+only under the oversight and concurrence of an Independent Tailings Review Board and
+there must be a system in place to respond to the observations.l
+The AMP must include:
+ Numeric and measurable expected performance criteria based on predictions of
+engineering behavior.
+ Numeric trigger levels related to monitoring results that will identify risks before they
+occur, such as piezometer readings, supernatant pool characteristics, tailings and
+tailings water chemistry, and other characteristics.
+ Mitigation measures designed for each performance criterion or trigger aimed at
+avoiding a catastrophic or other type of facility failure.
+ An evaluation of the effectiveness of the measures taken.
+ Reporting responsibilities for the operating company and responses by the
+regulatory agency and to relevant stakeholders.
+ An annual AMP report for the tailings facility that reviews any triggers met or
+exceeded, mitigation actions taken, the effectiveness of the actions, and any AMP
+modifications needed. The report and its raw data must be made public, and a
+meeting must be held to explain the results to any affected communities and other
+interested stakeholders.
+l The Observational Method must not be used for the prevention of liquefaction because liquefaction tends to occur without
+warning, i.e. with no time to make relevant observations (see Jefferies, M and K. Been. 2016. “Soil Liquefaction: A Critical State
+Approach”(2nd ed.). CRC Press. 690 p.). For the avoidance of liquefaction, all appropriate preventive actions must be carried out
+from the outset of the project.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 30
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+10. Ensure the independence of reviewers to promote safety
+There must be an independent evaluation of all aspects of the design, construction,
+operation, and maintenance—including during closure and rehabilitation—of tailings and
+other mine waste facilities, regardless of the projected consequences of failure of the mine
+waste facility, by a group of competent, objective, third-party reviewers (e.g., an Independent
+Tailings Review Board).75 The competence of reviewers must include demonstrated
+experience and skill engaging with communities, including rural and Indigenous
+communities, in a meaningful way. An ITRB provides ongoing advice on tailings operations
+that complement periodic DSRs. The ITRB must not be used exclusively as a means for
+obtaining regulatory approval.76
+The independence of those performing reviews is essential for safety. The operating
+company must not be able to influence decisions made by the ITRB, and its members must
+not be dismissed or terminated during a review in an attempt to influence the outcomes or
+as an intimidation tactic. Any fees paid to the ITRB must be independent of the conclusions
+reached during the review.
+In order to ensure objective reviews, the ITRB should be contracted through public
+procurement by local regulatory agencies and compensated by the operating company
+through those agencies. ITRBs must have a mandate to protect communities and the
+environment.77 ITRBs must be obligated to engage with all stakeholders, and must have an
+accessible way to receive third-party information from whistleblowers and civil society.
+Every jurisdiction should have a regulatory agency with the expertise and capacity to appoint
+independent reviewers to ITRBs. However, this has not been prioritized in many jurisdictions.
+When operating companies appoint their own reviewers, ITRB members, as individuals or as
+representatives of organizations, must not have a financial conflict with the mine being
+reviewed. Financial conflicts include but are not limited to direct financial interest
+(employment, contracts, stock, etc.),78 and personal or family connections to the mine or
+operating company that could incur any kind of benefits. Reviewers must sign a disclosure
+declaration about past and present personal and economic relationships between the
+operating company/commissioning party and the reviewer, as well as a personal declaration
+by the specific reviewer that no incompatible parallel contracts or negotiations exist with the
+The 2015 collapse of the tailings dam at the Samarco mine, owned by Vale and BHP, created a flash flood of tailings
+that covered the town of Bento Rodrigues, Brazil. Minas Gerais, Brazil. Photo: Bruno Milanez.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 31
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+operating companies whose facilities are under review. These declarations must include a
+fine for misrepresentation. Operating companies must not hire the same independent
+reviewers for multiple projects simultaneously or for subsequent reviews for three years
+prior to and after a review is completed.79 Reviewers must not be dependent on a single
+operating company for the majority of their income.
+The report and recommendations of the ITRB, the response of the operating company, and
+the subsequent response of the ITRB must be provided to the local regulatory agency and
+any communities affected by the tailings facility. The operating company must also publicly
+disclose the recommendations, as well as its rationale for any non-acceptance or inaction.
+Additionally, operating companies must conduct an independent DSR yearly. An
+Environmental Social Impact Assessment (ESIA) must be carried out for every mining
+operation that includes a tailings disposal facility. The ESIA must be scientifically credible,
+respectful of local and Indigenous knowledge, have a transparent methodology, and be
+made publicly available. The authors of the ESIA must be subject to the same requirements
+for independence as the ITRB.
+11. Towards safer closure with no credible failure modes
+It is imperative that the reclamation and closure of tailings facilities be a factor in their initial
+design and siting. The failure of a tailings facility is inevitable, because no engineered structure
+can survive indefinitely without ongoing monitoring, inspection, and maintenance. This leaves
+the “reduction of failure consequences as the only effective strategy for risk reduction during
+closure.”80 A tailings facility is safely closed when deposition of tailings has ceased and all
+closure activities have been completed so that the facility requires only routine monitoring,
+inspection and maintenance in perpetuity or until there are no credible failure modes.
+If the consequences of failure at some future time are unacceptable, the tailings facility must
+not be built in that location. Currently, there is no technology to ensure that an active tailings
+facility can be closed in such a way so as to withstand the PMF or MCE indefinitely without
+perpetual monitoring, inspection, and maintenance.
+Operating companies must not be allowed to declare bankruptcy or sell to junior companies to
+avoid closure monitoring and liability (for additional details on closure costs see Guideline 12).
+Given that operating companies will not exist long enough to accomplish perpetual
+monitoring, inspection, maintenance, and review, the operating company’s ability to
+eventually eliminate all credible failure modes must be a key consideration during the
+permitting process. If a regulatory agency does not believe an operating company can carry
+out perpetual care and financial responsibility, or eliminate all credible failure modes, they
+must not approve the facility. Operating companies must prove they have successfully
+eliminated all credible failure modes to the relevant regulatory agencies.
+Operating companies must provide transparent documentation of the estimated cost of the
+cleanup of a mine site, including closure and reclamation, and all monitoring and
+maintenance. Cleanup must be self-funded from financial resources, which must be
+demonstrably large enough to ensure sufficient funding in perpetuity (See Guideline 12).
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 32
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+12. Addressing financial risks, including securities for site closure and
+proper insurances for accidental spills
+Operating companies must have the necessary financial assurance to cover the full cost of
+closure and post-closure plans. The purpose of financial assurance is to ensure that there is
+a source of funds available to local regulators if the operating company fails to perform
+adequate reclamation activities, including necessary closure and postclosure maintenance.
+All existing facilities must have financial assurance in place. For new facilities, financial
+assurance must be secured during the permitting process and before construction begins.
+Any sale or transfer of ownership of the tailings facility must be conditional on the new
+operating company retaining such financial assurance. Because of the relatively low rate-of-
+return on investments that are typically utilized by the public agencies that assure long-term
+financial stability, post-closure financial assurance value calculations must be run for a
+minimum of 300 years.
+Financial assurance must be independently guaranteed, reliable, and readily liquid to ensure
+that funds will be available in the event of bankruptcy by the operating company.81 This
+means that all required funding must be immediately available upon request of the
+regulatory agency, and there must be no limitations on the use of funds for mine-related
+cleanup activities. Financial assurance must undergo review by third-party analysts, using
+accepted accounting methods, at least every three years or whenever there is a material
+change either to the tailings facility or to the social, environmental, and local economic
+context.82 Unless the financial assurance is updated annually, the cost for inflation until the
+next financial review must also be included in the financial assurance calculation.
+Destruction from the 2019 Minas Gerais tailings dam collapse near Brumadinho, Brazil. Photo: IBAMA Brazil.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 33
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Additionally, operating companies must have public liability insurance to cover economic,
+social and environmental damages from sudden, accidental, or gradual pollutant releases
+including waste dump and tailings dam failures. The amount must be sufficient to financially
+compensate for harm to people, property, and natural resources that may occur, on or off
+the mine, including after closure of the tailings facility. Insurance or pooled assurance for
+unintentional hazardous spills is already required for many industries in certain jurisdictions,
+including for tankers, offshore drilling, nuclear energy production and pipelines.83 The State
+of Maine requires “proof of comprehensive general liability insurance for the site for sudden
+and accidental occurrences” and “[n]on-sudden occurrence insurance may be required by
+the Department on a case by case basis and, and shall be required whenever there are land
+disposal units, land storage units, or mine waste units.”84 As per Guideline 11, tailings
+facilities must be monitored, inspected, and maintained in perpetuity or until there are no
+credible failure modes. Therefore, operating companies must have public liability insurance
+in perpetuity.
+An analysis of public liability resulting from the tailings facility failure must be updated on a
+yearly basis and made publicly available. It must be based on the worst-case outcomes
+derived from dam break studies, which must account for a complete loss of tailings at full
+tailings facility buildout during a failure. Assessments of previous catastrophic tailings dam
+failures indicate that financial responsibilities can exceed U.S. $32 billion.85,86
+Operating companies must not be allowed to self-bond or use parent or corporate
+guaranteesm for mine closure, financial assurance or public liability insurance.87,88
+Safety risks are not separate from financial risks. It is of paramount importance that
+operating companies be able to pay for the safest technologies and practices. In addition to
+financial assurance and insurance mechanisms, financially risky operations must be
+identified and fully considered as part of tailings safety prior to permitting and throughout
+the mining lifecycle.
+As stated by in the Mount Polley Report: “Future permit applications for a new TSF should be
+based on a bankable feasibility that would have considered all technical, environmental,
+social and economic aspects of the project in sufficient detail to support an investment
+decision, which might have an accuracy of ±10%–15% ... [including] a detailed evaluation of
+all potential failure modes and a management scheme for all residual risk [and a] detailed
+cost/benefit analyses of BAT tailings and closure options so that economic effects can be
+understood, recognizing that the results of the cost/benefit analyses should not supersede
+BAT safety considerations.”89,90
+m According to the U.S. EPA, a corporate guarantee is when an operating company ensures another company will provide
+coverage for closure and post-closure costs (https://www.epa.gov/hwpermitting/financial-assurance-requirements-hazardous-
+waste-treatment-storage-and-disposal).
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 34
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+13. Grievance procedures and whistleblowers
+Independent grievance procedures must be established and made available in a culturally
+appropriate manner to all employees, contractors, suppliers, regulators, and affected
+community members. The system for reporting and filing grievances must be available in
+multiple formats, such as online, by mail, in person, etc. All pertinent information and
+documentation related to the grievance procedure must be provided in relevant
+languages.91 All grievance mechanisms must adhere to the effectiveness criteria outlined in
+Principle 31 of the United Nations Guiding Principles on Business and Human Rights, which
+stipulates that they be: (a) legitimate, (b) accessible, (c) predictable, (d) equitable, (e)
+transparent, (f) rights-compatible, (g) a source of continuous learning, and (h) based on
+engagement and dialogue.92 Rights holders must have decision-making power in the design
+and operation of grievance mechanisms. Operating companies must not use non-disclosure
+agreements to prevent individuals from openly filing and/or pursuing a complaint. Remedy
+for complaints must be adequate, effective, and prompt, and may include one or more of the
+following: an apology, guarantees of non-repetition, restitution, rehabilitation, financial or
+non-financial compensation, and punitive sanctions.93
+Grievance mechanisms must be functionally independent from the project’s operating
+company, for example, it may be run by a third-party trusted by the rights holders for whom
+it is intended. Grievance mechanisms must allow the complainants confidentiality and
+anonymity, if requested. Complainants must be provided the funds necessary to access
+independent forms of support (e.g. legal, technical or medical) in all phases of engagement
+with the procedure, including during the initial filing of the complaint (see Guideline 16).
+Additionally, a settlement through the operational level grievance procedures must not
+require the complainant(s) to sign legal waivers prohibiting them from civil legal action at a
+future date. There must be a clear, established time frame within which grievance
+mechanisms are resolved. There must be regular, timely and clear communication with the
+complainant in their relevant language throughout all steps of the grievance process. The
+operating company must publish the number of grievances received annually, the nature of
+the grievances, as well as any official decisions or resolutions.94
+Whistleblower protection best practices must apply to all workers as well as vendors,
+contractors and auditors.95 Mine workers have the right to refuse unsafe work, and must be
+allowed to stop their tasks at any time if they identify imminent risk to health and safety
+without suffering any punishment, as is already stipulated in Brazilian regulation.96
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 35
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+14. Emergency preparedness and response
+Emergency preparedness and response plans, or emergency action plans, related to
+catastrophic failures of tailings facilities must be discussed and prepared together with all
+potentially affected communities, mine workers, agricultural producers and businesses
+downstream of the flow of a potential failure, and in collaboration with first responders and
+relevant government agencies.97,98
+In the case of a sudden failure, the operating company is responsible for taking all steps
+necessary to save lives and provide appropriate humanitarian aid. The operating company
+must provide all needed resources and support to local and national governments and first
+responders during and after a failure. The operating company must assume the entirety of
+the costs of indemnification, remediation, and reclamation for a failure, including any
+additional damages incurred during remediation and reclamation efforts.
+The full scope of indemnification, remediation, and reclamation criteria must be determined
+through a participatory process subject to the approval of affected communities, agricultural
+producers, and businesses, and made publicly available. Discussions with affected
+communities to establish identification criteria must begin before construction of a tailings
+disposal facility, undergo periodic updates, and continue in the event of a failure. Affected
+communities must have access to independent technical assistance at every stage of this
+process (see Guideline 16).
+Community members standing on a mine waste pile at the Porgera mine in Papua New Guinea. Photo: Porgera Alliance.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 36
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Worst-case tailings failure scenarios must consider the loss of all tailings at full tailings facility
+buildout, and the results must be made public prior to permitting. Failure model scenarios
+must also be annually updated to account for changes in the material consequences of a
+dam break due to social, economic or environmental changes in areas surrounding or
+downstream of the facility. Worst-case scenarios must model the complete loss of stored
+tailings and water, as occurred, for example, in the failure of the tailings dams at the
+Xiangjiang Wanji mine in China, the Church Rock uranium mill and the Buffalo Creek coal
+plant in the United States, and the El Soldado mine in Chile.
+Emergency and evacuation drills related to catastrophic failure of tailings facilities must be
+held on an annual basis, and their planning and execution must include participation from
+affected communities, workers, local authorities, and emergency management. Emergency
+and evacuation drills can be traumatizing for communities. Special care must be given during
+planning so that communities are able to access the information they need for their safety,
+while ensuring they are not negatively impacted by the process.99
+Tailings facilities must not be constructed where there are facilities that present
+considerable evacuation challenges in the zone of influence, including, but not limited to, jails
+or prisons, hospitals, and assisted-living or elder care facilities (See Guideline 3). Even if
+operating companies carry out training and emergency drills, certain social groups (the
+elderly, small children, people with disabilities, etc.) require special assistance. Based on the
+goal of zero harm to people, companies must ensure that trained professional support will
+be provided during an emergency and will reach all affected populations in a timely manner.
+Contamination of the Paraopeba River after the 2019 tailings dam collapse near Brumadinho, Brazil. Photo: Maria Otávia Rezende.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 37
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+15. Information regarding mine safety must be made publicly available
+Operating companies must make all information relevant to the safety and stability of tailings
+facilities publicly available, including the name, exact location, ownership, date of initial
+operation, footprint, and height. Information related to tailings disposal facilities must be
+made publicly available during the design stage and must be updated on a regular basis over
+the life of the mine.
+Operating companies must immediately publicly disclose the date, location, amount of
+tailings released, and impacts on surrounding areas following any tailings failure.
+Safety practices must be considered non-competitive. Industry association guidelines related
+to tailings safety must be freely available. While some operating companies assert that
+revealing information about tailings facilities presents a national security risk, there is no
+evidence for these claims and the authors reject this argument.
+Relevant information that must be publicly available includes, but is not limited to:
+ Dam Safety Reviews (DSRs)
+ Consequence or hazard classification and decisions made by the board of directors
+or corporate management to approve the classification
+ Environmental Impact Assessments (EIAs) or Environmental Social Impact
+Assessments (ESIAs)
+ Design, maintenance, and monitoring documents (Design Basis Report,
+Construction Record Report, Construction vs. Design Intent Verification Report,
+(Annual Tailings Facility Performance Report, Deviance Accountability Report, etc.)
+ Documentation of stability of the facility, including a record of past stability issues
+ Closure and reclamation plans
+ Dam break studies and assessments of social, economic, and environmental
+impacts
+ Environmental monitoring and Social Management System summaries and reports
+ Independent Tailings Review Board reports
+ Adaptive Management Plan reports
+ Impact and mitigation plans for affected communities, including compensation and
+indemnification criteria
+ Documentation of FPIC and any community consent processes (the information
+divulged must be approved by the affected communities)
+ Complaints and grievance procedures
+ Emergency Preparedness and Response Plans
+ Documentation of financial assurance and public liability insurance (including
+insurance estimates)
+ Reports that are required by and filed with governmental agencies.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 38
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Governments and regulators must also make all information relevant to the safety and
+stability of tailings facilities publicly available, including but not limited to environmental
+baseline studies on ground stability, geology, watersheds, fault lines, etc; all documents
+related to permitting and monitoring; and all information related to emergency
+preparedness and response.
+This information must be made available by operating companies and regulators at no
+charge, as soon as possible, in one or more languages as necessary, in an accessible format,
+and in plain language whenever possible to afford adequate access for all interested
+stakeholders. This must also include all raw data obtained, input parameters used, and any
+updates to the models and simulations carried out as part of continued environmental
+monitoring. Proprietary software should be avoided in favor of commercial or freely available
+software.
+Operating companies and regulators must respond to all stakeholder requests for
+information regarding the tailings facility to the fullest extent possible in formats and
+languages that are understandable to all stakeholders. If requests are not met in full, or in a
+timely manner, the company must provide written justification to those filing the requests.
+16. Ensure access to independent technical assistance
+Resources are unequally distributed between operating companies and affected
+communities; affected communities often do not have the same level of financial, technical,
+and logistical support that is available to operating companies. Many regulatory bodies are
+also out-resourced by operating companies. Too often, affected communities are forced to
+depend on operating companies to provide information about the scope, impacts, and
+potential consequences of tailings disposal facilities. Operating companies can withhold,
+misinterpret, or falsify information, and affected communities may not have the internal
+capacity to analyze documents to identify errors and/or omissions. Therefore, in order for
+affected communities and Indigenous Peoples to exercise their rights to access information,
+participate, and consent, they often require independent technical assistance at various
+stages of the life of a tailings facility.
+Operating companies must fund access to independent technical assistance for affected
+communities and Indigenous Peoples. Experts must be trusted and chosen by the affected
+communities, Indigenous Peoples or individuals. The scope of services provided must
+encompass the full range of assistance needs, including, but not limited to, technical, legal,
+medical, social, and economic support. Operating companies must fully fund these
+services.100 Communities must have the ability to change independent experts or choose
+new experts at any time over the life of the mine, if the experts do not demonstrate the
+necessary competencies for working with affected communities.
+Affected communities and Indigenous Peoples must be offered access to independent
+technical assistance during the earliest stages of the lifecycle of the mine, starting with
+exploration, through monitoring and closure, and specifically during any consultation or FPIC
+processes (Guideline 2). Additionally, communities may request technical assistance to
+analyze and interpret publicly available information (Guideline 15). If a rights holder decides
+to use the grievance mechanism to file a complaint, they must have access to independent
+forms of support (e.g. legal, technical or medical) in all phases of engagement with the
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 39
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+procedures (Guideline 13). If an operating company proposes a voluntary resettlement
+agreement, communities must have access to independent technical assistance throughout
+the agreement process (Guideline 3).
+In the event of a tailings dam failure, operating companies must pay for independent
+technical assistance for affected communities to address collective and individual
+remediation, reconstruction, and compensation needs. Technical assistance is a critical tool
+for communities to understand the scope and impacts of a tailings facility failure, as well as
+to advocate for their collective rights. The technical experts hired must be able to clearly
+articulate the impacts and importance of the failure for affected and/or Indigenous
+communities.
+Access to technical experts chosen by affected communities and funded by the operating
+company after dam failures is mandated in mining legislation in Minas Gerais, Brazil.101 For
+example, after the 2015 Fundão tailings dam failure, the community of Barra Longa selected
+13 independent technical experts in agriculture, law, architecture, urban planning,
+psychology, engineering, and social services to help determine the scope and extent of
+reparations and indemnification criteria. While accountable to the community and
+individuals affected by the failure, the experts were paid by the mining company through a
+foundation established for remediation and indemnification.102
+17. Accountability for risk, minimizing the consequences of failure,
+preventing failure, and the consequences of failure must primarily
+rest with the board of directors
+The corporate board of directors, as the body that is ultimately responsible for the well-
+being of the operating company, must bear the primary responsibility for the safety of
+tailings facilities, including the consequences of dam failures.103 A push for profit
+maximization creates a tendency for operating companies to prioritize production over all
+other considerations, including safety considerations.104 Liability for tailings dam failures
+must extend to the corporate board of directors.
+The board of directors must have the capacity and tools to guarantee that safety
+considerations are not sacrificed at the expense of production. The board must proactively
+ensure that safety extends throughout the entire operating company by approving policies
+and budgets that identify and mitigate the risks posed by tailings disposal facilities and that
+prioritize safety, including in staff performance evaluations. The board of directors must take
+an active role in identifying and signing off on safety risks related to tailings disposal facilities
+where human lives could be at stake or severe environmental damage could occur.
+The Control of Major Accident Hazards (COMAH) Competent Authority in the United
+Kingdom, the intragovernmental regulatory body that inspects major hazard enterprises,
+suggests that at least one board member have an appropriate competence level on major
+hazard risk to advise the board and senior leadership team on relevant issues.105 Operating
+companies must ensure that the board of directors includes at least one member with
+expertise in tailings disposal facility failure risks.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 40
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Additionally, the board of directors must be responsible for approving and overseeing the
+implementation of company procedures to ensure that no employee or contractor is
+participating in, promoting or facilitating bribery. For example, facilitation payments to
+government officials to fast-track tailings facility permits must be prohibited, and there must
+be zero tolerance for any bribery by mine employees or contractors of auditors, consultants,
+and government officials.
+Destruction from the 2019 tailings dam collapse near Brumadinho, Brazil. Photo: Maria Otávia Rezende.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 41
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Next Steps
+The safest tailings facility is the one that is never built. It is imperative that we find ways to reduce
+overall demand for primary raw materials; our current consumption levels, especially in the Global
+North, are unsustainable. Implementing strong standards and best practices for tailings disposal is
+a necessary stopgap for frontline communities already dealing with the impacts or threat of unsafe
+tailings facilities, however research shows that we can build a future that is less reliant on extraction
+and generates less mine waste.106 This document aims to provide a tool that helps frontline and
+Indigenous communities, civil society, States, regulators, and operating companies prevent
+catastrophic tailings failures, nevertheless the guidelines contained here must be implemented
+alongside transformative changes that move us away from an extractive economy.
+Worldwide, there are many thousands of tailings disposal facilities and dams, some under the
+responsibility of private corporations, others under the responsibility of States. Because there is
+currently no global inventory of tailings disposal facilities, including the thousands of abandoned
+facilities, there is an urgent need for a transparent assessment, in which the results are made publicly
+available in a global tailings database. Ecosystems, livelihoods, and human lives are at stake.
+This inventory must include all relevant information regarding the safety of tailings disposal facilities
+(See Guideline 15). In 2020, GRID-Arendal launched The Global Tailings Portal in collaboration with
+the Investor Mining and Tailings Safety Initiative to catalog voluntary disclosures and publicly
+available data on tailings disposal facilities.107 While it is an important step towards the creation of a
+comprehensive registry, the portal must continue to expand in scope of facilities and depth of
+information collected. There are also a number of national registries, including ones in Brazil,108 the
+United States,109 Chile,110 Mexico,111 Spain.112
+Mount Polley Mine tailings dam failure, 2014. Photo: Courtesy of IRMA.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 42
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+The database must also include a registry of dam failures. It is essential to better understand how
+and why each failure occurred in order to prevent them in the future. The work being compiled by
+the Center for Public Participation database can serve as a model for this type of documentation
+and analysis.113
+An independent international agency, such as a United Nations-endorsed agency, in collaboration
+with responsible States, operating companies, and civil society, must drive this process, collect
+information on tailings dams and tailings dam failures worldwide, and share it with affected
+communities in order to de-risk tailings facilities and support the creation of proper emergency
+action plans.
+It is crucial that United Nations agencies and international partners, including States, industry, labor
+representatives, civil society organizations, and independent experts, establish or endorse a
+credible, transparent, and independent international agency capable of certifying safe tailings
+disposal worldwide. This must be a well-resourced agency capable of efficiently updating global
+standards, investigating failures, and making publicly-available recommendations. This agency must
+not rely solely on industry experts, must include broad State or civil society engagement, and must
+be accountable to the public and affected communities. The governance structure for this agency
+must be a multi-stakeholder body that includes affected communities, Indigenous Peoples, labor,
+and civil society organizations. It must ensure a co-equal decision making process that includes all
+stakeholders.
+The polluted Doce River after the 2015 Samarco mine tailings dam failure. Minas Gerais, Brazil. Photo: Júlia Pontés.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 43
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Glossary
+Adaptive Management
+A structured, iterative process of robust decision-making in the face of uncertainty, with an aim
+to reduce uncertainty over time via system monitoring. It includes the development of
+management practices based on clearly identified outcomes, and monitoring to determine if
+management actions are meeting desired outcomes. If outcomes are not being met, the
+process requires development and implementation of management changes to ensure that
+outcomes are met or re-evaluated. Adaptive Management is similar to the Observational
+Method (see definition below), and sometimes the terms are used interchangeably.
+Source: Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible Mining IRMA-
+STD-001, Glossary of Terms.
+Affected Community
+A community that is subject to actual or potential impacts from a project. Impacts include, but
+are not limited to, socioeconomic, environmental, and public health or safety impacts, impacts
+to cultural, touristic or sacred sites, and risk of intimidation, violence or coercion.
+Source: Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible Mining IRMA-
+STD-001, Glossary of Terms. IRMA Standard Adapted from IFC. IFC Policy & Performance Standards and
+Guidance Notes. Glossary of Terms.
+Brittle Tailings
+Tailings that exhibit substantial (> 40%) strength loss or strain-softening in response to an
+exceedance of the peak or yield strength.
+Source: Adapted from Bishop, A.W., 1967. Progressive failure with special reference to the mechanism
+causing it. Proceeding of the geotechnical conference, Oslo, Sweden.
+Board of Directors
+The ultimate governing body of the Operator typically elected by the shareholders of the
+Operator. The Board of Directors is the entity with the final decision-making authority for the
+Operator and holds the authority to, among other things, set the Operator’s policies, objectives,
+and overall direction and oversee the firm's executives. As the term is used here, it
+encompasses any individual or entity with control over the Operator, including, for example, the
+owner or owners. Where the State serves as the Operator, the Board of Directors shall be
+understood to mean the government official with ultimate responsibility for the final decisions
+of the Operator.
+Source: Adapted from the Global Tailings Review, 2020. Global Industry Standard on Tailings Management.
+25 p.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 44
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Catastrophic Tailings Failure
+A tailings facility failure that results in material disruption to social, environmental and local
+economic systems. Such failures are a function of the interaction between hazard exposure,
+vulnerability, and the capacity of people and systems to respond. Catastrophic events typically
+involve numerous adverse impacts, at different scales and over different timeframes, including
+loss of life, damage to physical infrastructure or natural assets, and disruption to lives,
+livelihoods, and social order.
+Source: Global Tailings Review, 2020. Global Industry Standard on Tailings Management. 26 p.
+Centerline Construction
+The centerline raising method is a compromise between the upstream and downstream
+methods in many respects. As a result, it shares to a degree the respective advantages of the
+two methods, while mitigating their disadvantages. … Initially, a starter dike is constructed, and
+tailings are peripherally spigotted from the dike crest to form a beach. Subsequent raises are
+constructed by placing fill onto the beach and onto the downstream slope of the previous raise.
+The centerlines of the raises are coincident as the embankment progresses upward, giving rise
+to the method’s name.
+Source: Source: Vick, S. G., 1990. Planning, Design, and Analysis of Tailings Dams. 77 p.
+Contaminant Leaching Potential
+The potential for tailings samples to release contaminants based on short- and long-term leach
+tests. The potential for adverse water quality effects from a tailings dam breach can also be
+determined from the quality of supernatant and pore fluids in the impoundment. If leach test
+results or tailings do not exceed water quality standards (e.g., aquatic life criteria), the
+contaminant leaching potential would be considered low; if concentrations exceed standards
+by 1 to 10 times, the potential would be intermediate; and if concentrations exceed standards
+by more than 10 times the potential would be high.
+Source: The International Network for Acid Prevention (INAP), 2009. Global Acid Rock Drainage Guide
+(GARD Guide).
+Credible Failure Mode
+A physically possible sequence of events that could potentially end in tailings dam failure.
+According to the GISTM, “the term ‘credible failure mode’ is not associated with a probability of
+this event occurring.”
+Source: Global Tailings Review, 2020. Global Industry Standard on Tailings Management. 27 p.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 45
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Dam Break Study
+Also called an inundation study or dam-breach or failure-consequence analysis, a dam break
+study assumes a failure of the tailings facility and estimates its impact. The analysis must be
+based on credible failure modes. The results should determine the physical area impacted by a
+potential failure, flow arrival times, depth and velocities, duration of flooding, and depth of
+material deposition. The Breach Analysis is based on scenarios which are not connected to
+probability of occurrence. It is primarily used to inform emergency preparedness and response
+planning and the consequence of failure classification. The classification is then used to inform
+the external loading component of the design criteria.
+Source: Global Tailings Review, 2020. Global Industry Standard on Tailings Management. 26 p.
+Dam Safety Review
+A periodic and systematic process carried out by an independent qualified review engineer to
+assess and evaluate the safety of a dam or system of dams (or in this case a tailings facility)
+against failure modes, in order to make a statement on the safety of the facility. A safe tailings
+facility is one that performs its intended function under both normal and unusual conditions;
+does not impose an unacceptable risk to people, property or environment; and meets
+applicable safety criteria.
+Source: Global Tailings Review, 2020. Global Industry Standard on Tailings Management.
+Downstream Construction
+A method of dam construction in which the centerline of the dam is shifted downstream with
+subsequent raises, resulting in a core inclined in the downstream direction. This method
+requires that the structural fill be placed in the downstream shell during raising to support the
+inclined core.
+Source: Klohn Crippen Berger, 2017. Study of tailings management technologies: Report to Mining
+Association of Canada and Mine Environment Neutral Drainage (MEND) Program, MEND Report 2.50.1, 164 p.
+Facilitation Payments
+Facilitation payments are sums of money paid to get preferential treatment for something the
+receiver is otherwise still required to do — for example, paying an official to speed up, or
+“facilitate,” an authorisation process.
+Source: Responsible Jewelry Council, 2019. Code of Practices Guidance. 105 p.
+Factor of Safety (FoS)
+The lowest ratio of available shear resistance along a potential plane of failure to the activating
+shear forces along the same plane, as considered over all possible failure surfaces.
+Source: Canadian Dam Association, 2013. Dam safety guidelines 2007 (2013 edition).
+Filtered Tailings
+Tailings dewatered such that they behave like a moist soil; achieved by thickening followed by
+vacuum or pressure filtration.
+Source: Klohn Crippen Berger, 2017. Study of tailings management technologies: Report to Mining Association
+of Canada and Mine Environment Neutral Drainage (MEND) Program, MEND Report 2.50.1, 164 p.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 46
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Free, Prior and Informed Consent (FPIC)
+Consent based on: engagement that is free from external manipulation, coercion and
+intimidation; notification, sufficiently in advance of commencement of any activities, that
+consent will be sought; full disclosure of information regarding all aspects of a proposed project
+or activity in a manner that is accessible and understandable to the people whose consent is
+being sought; acknowledgment that the people whose consent is being sought can approve or
+reject a project or activity, and that the entities seeking consent will abide by the decision.
+Source: Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible Mining IRMA-
+STD-001, Glossary of Terms.
+Grievance
+A perceived injustice evoking an individual’s or a group’s sense of entitlement, which may be
+based on law, contract, explicit or implicit promises, customary practice, or general notions of
+fairness of aggrieved communities.
+Source: Ruggie, J., 2011. Guiding Principles on Business and Human Rights.
+Grievance Mechanism
+Any routinized, State-based or non-State-based, judicial or non-judicial process through which
+mining-project related complaints or grievances, including business-related human rights
+abuses, stakeholder complaints, and/or labor grievances, can be raised and remedy can be
+obtained.
+Source: Ruggie, J., 2011. Guiding Principles on Business and Human Rights.
+Independent
+In order for an individual, institution, mechanism or agency to be considered independent it
+must be objective, impartial, consistent, transparent and accountable to all stakeholders. It also
+requires that payment for services, funding of work, long-term financial stability and the
+potential for future contracts do not depend on outcomes or conclusions that are favorable to
+an operating company or the mining industry.
+Source: Adapted from The Organisation for Economic Co-operation and Development, Creating a Culture of
+Independence: Practical Guidance against Undue Influence.
+Independent Review
+The Mining Association of Canada defines independent review as “independent evaluation of all
+aspects of the design, construction, operation, maintenance of a tailings or other mine waste
+facility by competent, objective, third-party review on behalf of the operating company/mine
+owner.” In addition to the MAC’s definition, independent review must demonstrate financial
+independence from the operating company/mine owner (see above definition of independence).
+Source: Adapted from Mining Association of Canada, 2017. A Guide to the Management of Tailings
+Facilities.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 47
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Indigenous Peoples
+An official definition of “[I]ndigenous” has not been adopted by the United Nations system due
+to the diversity of the world’s [I]ndigenous [P]eoples. Instead, a modern and inclusive
+understanding of “[I]ndigenous” includes peoples who: identify themselves and are recognized
+and accepted by their community as [I]ndigenous; demonstrate historical continuity with pre-
+colonial and/or pre-settler societies; have strong links to territories and surrounding natural
+resources; have distinct social, economic or political systems; maintain distinct languages,
+cultures and beliefs; may form non-dominant groups of society; and resolve to maintain and
+reproduce their ancestral environments and systems as distinctive peoples and communities.
+In some regions, there may be a preference to use other terms such as: [T]ribes, [F]irst
+[P]eoples/[N]ations, [A]boriginal, ethnic groups, Adivasi and Janajati. All such terms fall within
+this modern understanding of “[I]ndigenous.”
+Source: Adapted from Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible
+Mining IRMA-STD-001, Glossary of Terms.
+Internal Erosion (see Piping)
+Inundation Study (see Dam Break Study)
+Maximum Credible Earthquake (MCE)
+The largest earthquake magnitude that could occur along a recognized fault or within a
+particular seismotectonic province or source area under the current tectonic framework.
+Source: FEMA ((U.S.) Federal Emergency Management Agency), 2005. Federal guidelines for dam safety—
+Earthquake analyses and design of dams: FEMA-65, 75 p.
+Meaningful Engagement
+Described by the United Nations (UN), The World Bank, the International Finance Corporation
+(IFC), the Organization for Economic Cooperation and Development (OCED), the Inter-American
+Bank, amongst other international and multilateral organizations and agencies, as a process
+whereby project proponents not only have an obligation to consult and listen to stakeholder
+perspectives, but also have an obligation to take their perspectives into account. Meaningful
+engagement involves understanding and addressing structural and practical barriers to the
+active participation of diverse groups of people, for example: women, ethnic minorities, people
+who live in remote areas, and/or different language groups. Access to relevant information that
+can be reasonably understood by the external party and transparent communication is a
+precondition of meaningful engagement. Affected communities must have a say in what
+meaningful engagement looks like for them.
+Source: Global Tailings Review, 2020. Global Industry Standard on Tailings Management.
+Mine Site
+A mine site is the area of surface disturbance necessary to conduct a mining operation. This
+includes extraction, processing, and waste disposal facilities, and roads. A mine site does not
+necessarily include the entire area as defined by the mine permit or claim.
+Source: Modified definition created by the authors.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 48
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Modified Centerline Construction
+Modified centerline construction is similar to conventional centerline construction, but with the
+contact between the compacted fill and the tailings sloping slightly upstream. Since modified
+centerline construction still involves constructing a portion of the dam on top of the
+uncompacted tailings, it must be considered a variant of upstream construction, similarly
+subject to the cautions and restrictions associated with upstream-type dams presented in this
+document.
+Source: Adapted from J.P. Haile & K.J. Brouwer, Knight Piesold Ltd, Modified Centreline Construction of
+Tailings Embankments, 3rd International Conference on Environmental Issues and Waste Management in
+Energy and Mineral Production, August, 1994. Perth, Australia; and Independent Expert Engineering
+Investigation and Review Panel, 2015. Report on Mount Polley Tailings Storage Facility Breach, Province of
+British Columbia.
+Observational Method
+A project management method in which observed performance from instrumentation data is
+used for implementing preplanned design features or actions in response. According to the
+Mount Polley Report, the Observational Method is useless without a way to respond to the
+observations. The Observational Method is similar to Adaptive Management (see definition
+above), and sometimes the terms are used interchangeably.
+Source: Independent Expert Engineering Investigation and Review Panel, 2015. Report on Mount Polley
+Tailings Storage Facility Breach.
+Operating Company
+Any person, corporation, partnership, owner, affiliate, subsidiary, joint venture, or other entity,
+including any State agency, that operates or controls a tailings facility.
+Source: Global Tailings Review, 2020. Global Industry Standard on Tailings Management. 30 p.
+Piping (also called Internal Erosion)
+A phenomenon where seeping water progressively erodes or washes away soil particles, leaving
+large voids (pipes) in the soil. These voids simply continue to erode and work their way
+backward under the structure, or they may collapse. Either way, if piping is not stopped
+promptly, failure is imminent. The critical place for piping is usually right at the corner of the toe
+of a dam.
+Source: R.D. Holtz, Kovacs, W.D., and Sheahan, T.C., 2011. An Introduction to Geotechnical Engineering, 2nd
+ed., Pearson, 863 p.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 49
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Potentially Acid Generating (PAG)
+An indication, based on laboratory testing, that the mine sample could produce acid drainage
+under field conditions. Samples are considered PAG if the neutralizing-potential (NP) to acid
+production potential (AP) ratio (NP:AP) is <1 and non-PAG if NP:AP is >2. Samples with NP:AP
+between 1 and 2 have an uncertain potential to generate acid (GARD Guide, Section 5.4.16;
+INAP, 2009). Site-specific and mineralogic evaluations and longer-term testing are needed to set
+appropriate ratios. Safety factors may be needed to address limitations in sampling, material
+handling, or prediction (INAP, 2009). Conservative non-PAG ratios ranging from 1.3 to 5 have
+been recommended by some practitioners (Maest et al., 2005).
+Source: Adapted from The International Network for Acid Prevention (INAP), 2009. Global Acid Rock
+Drainage Guide (GARD Guide), and Maest, A.S. and J.R. Kuipers (primary), C.L. Travers, and D.A. Atkins
+(contributing). 2005. Predicting Water Quality at Hardrock Mines: Methods and Models, Uncertainties, and
+State-of-the-Art. Earthworks, Washington, DC.
+Probable Maximum Flood
+The flood that may be expected from the most severe combination of critical meteorologic and
+hydrologic conditions that is reasonably possible in the drainage basin under study.
+Source: FEMA ((U.S.) Federal Emergency Management Agency), 2013. Selecting and accommodating inflow
+design floods for dams: FEMA-94, 38 p.
+Stakeholders
+Persons or groups who are directly or indirectly affected by a project, such as rights holders, as
+well as those who may have interests in a project and/or the ability to influence its outcome,
+either positively or negatively.
+Source: Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible Mining IRMA-
+STD-001, Glossary of Terms Adapted from IFC, 2007. Stakeholder Engagement: A Good Practice Handbook
+for Companies Doing Business in Emerging Markets.
+Structural Zone
+The containment structure of a tailings disposal facility. In a filtered tailings facility, “typically, the
+filtered tailings form the containment structure (‘structural zones’) and uncompacted tailings,
+which can have a lower solids content, can be placed in the interior” (ICOLD, 2021). The
+structural zone of a filtered tailings facility serves the same function as a dam.
+Source: ICOLD (International Commission on Large Dams), 2021. Tailings dam design—Technology update:
+ICOLD Bulletin 181, 97 p. Klohn Crippen Berger, 2017. Study of tailings management technologies: Report
+to Mining Association of Canada and Mine Environment Neutral Drainage (MEND) Program, MEND Report
+2.50.1, 164 p.
+Tailings
+Tailings are the materials left after the extraction of metals or minerals of interest from ore.
+Source: Dougherty and Schissler, 2020. SME Mining Reference Handbook, 2nd Edition, p. 513
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 50
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Tailings Dam
+A structure or embankment that is built to retain tailings and/or to manage water associated
+with the disposal of tailings, and includes the content of the structure.
+Source: Adapted from Guidelines on Tailings Dams, Planning, Design, Construction, Operation and Closure,
+Australian National Committee on Large Dams, ISBN: 978-0-9808192-4-3, May 2012; and Klohn Crippen
+Berger, 2017. Study of tailings management technologies: Report to Mining Association of Canada and
+Mine Environment Neutral Drainage (MEND) Program, MEND Report 2.50.1, 164 p.
+Tailings Dam Failure
+A tailings dam failure can generally be defined as the inability of the dam to meet its design
+intent, whether in terms of management, operational, structural or environmental function,
+resulting in potential loss of life, loss to the stakeholders, or adverse environmental effects.
+Source: Canadian Dam Association Tailings Dam Breach Analysis (2022).
+Upstream Construction
+A method of dam construction in which the centerline is translated upstream, over the tailings
+beach, with subsequent raises. This method requires that material placed in the upstream
+direction is well-drained and compacted or that it settles naturally to an adequate density.
+Source: Klohn Crippen Berger, 2017. Study of tailings management technologies: Report to Mining Association
+of Canada and Mine Environment Neutral Drainage (MEND) Program, MEND Report 2.50.1, 164 p.
+Voluntary Resettlement
+Voluntary land transactions (i.e., market transactions in which the seller is not obliged to sell
+and the buyer cannot resort to expropriation or other compulsory procedures sanctioned by
+the legal system of the host country if negotiations fail) that lead to the relocation of willing
+sellers.
+Source: Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible Mining IRMA-
+STD-001, Glossary of TermsGlossary of Terms.
+Worker
+All non-management personnel including outsourced workers and contractors.
+Source: Adapted from Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible
+Mining IRMA-STD-001, Glossary of Terms.
+Zone of Influence
+The zone of influence is the area that would be significantly affected in case of a TSF failure and
+should be categorized as a risk zone.
+Source: Atif, I., et al., 2020. “Modelling and analysis of the Brumadinho tailings disaster using advanced
+geospatial analytics.” In the Journal of Southern African Institute of Mining and Metallurgy. 405 p.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 51
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+Endnotes
+1 Darlington, S. et al., 2019. Tidal Wave of Mud, New York Times.
+2 Robertson, P. et al., 2019. Report of the Expert Panel on the Technical Causes of the Failure of Feijão Dam I. 12 p.
+3 Robson, Paul. 2017. “The River is Dead: The Impact of the Catastrophic Failure of the Fundão Tailings Dam.” London
+Mining Network. 5 p.
+4 Bowker, L.N. and Chambers, D.M., 2015. The Risk, Public Liability, and Economics of Tailings Storage Facility Failures.
+5 Global Tailings Review. https://globaltailingsreview.org/.
+6 Global Tailings Review, 2020. Global Industry Standard on Tailings Management.
+7 Mudd, G., 2019. Mining & Its Growing Environmental Impacts.
+8 Hund,K, et al., 2020. Minerals for Climate Action: The Mineral Intensity of the Clean Energy Transition. World Bank Group.
+9 Dominish, E., et al., 2019, Responsible Minerals Sourcing for Renewable Energy. Report prepared for Earthworks by the Institute
+for Sustainable Futures, University of Technology Sydney.
+10 Dominish, E., et al., 2021. Reducing new mining for electric vehicle battery metals: responsible sourcing through demand
+reduction strategies and recycling. Report prepared for Earthworks by the Institute for Sustainable Futures, University of
+Technology Sydney.
+11 Marshall, J., 2018 Tailings dam spills at Mount Polley and Mariana: Chronicles of Disasters Foretold CMP, CCPA–BC Office, PoEMAS
+(Grupo Política, Economia, Mineração, Ambiente e Sociedade), the Wilderness Committee. 10 p.
+12 Marshall, J., 2018 Tailings dam spills at Mount Polley and Mariana: Chronicles of Disasters Foretold CMP, CCPA–BC Office,
+PoEMAS (Grupo Política, Economia, Mineração, Ambiente e Sociedade), the Wilderness Committee. 10 p.
+13 Hopkins, A. and Kemp, D. 2021. Credibility Crisis: Brumadinho and the Politics of Mining Industry Reform. (CCH Australia).
+14 Álvarez-Iglesias, et al., 2020. “Assessment and timing of the anthropogenic imprint and fisheries richness in marine sediments
+from Ría de Muros (NW Iberian Peninsula).” Quaternary International 566-567. 337–356 p.
+15 Mpanza, M. et al., 2020. “Dust Deposition Impacts at a Liquidated Gold Mine Village: Gauteng Province in South Africa.“ Int J Environ
+Res Public Health. 2020 Jul; 17(14): 4929.
+16 Iyaloo, S. et al. 2020. “Respiratory Health in a Community Living in Close Proximity to Gold Mine Waste Dumps, Johannesburg, South
+Africa.” Int J Environ Res Public Health. 2020 Apr; 17(7): 2240.
+17 Moore, Ellen. 2018. Dumping by the Numbers.
+18 Swiss Association for Quality and Environmental Management. 2020. Ramu NiCo Impacts Fact Sheet by SVQ Updated 20 01 2020.
+19 Earthworks, Miramar.
+20 Braun, T., 2020. Rumble in the Jungle - Untangling the Roles and Liabilities After a Waste Rock Heap Leach Failure.
+21 University of Victoria Environmental Law Centre, 2019. Waste Disposal & Management. BC Mining Law Reform.
+22 Independent Expert Engineering Investigation and Review Panel, 2015. Report on Mount Polley Tailings Storage Facility Breach.
+23 Roche, C., et al., 2017. Mine Tailings Storage: Safety Is No Accident: A UNEP Rapid Response Assessment. United Nations
+Environment Programme and GRID-Arendal. 11 p.
+24 BC First Nations Mining and Energy Council, 2021. Indigenous Sovereignty: Consent For Mining On Indigenous Lands. 24 p.
+25 Food and Agricultural Organization of the United Nations (FAO), 2016. Free Prior and Informed Consent: An indigenous peoples’
+right and a good practice for local communities.
+26 BC First Nations Mining and Energy Council, 2021. Indigenous Sovereignty: Consent For Mining On Indigenous Lands. 35 p.
+27 Doyle, C. and Cariño, J., 2013. Making Free Prior & Informed Consent a Reality Indigenous Peoples and the Extractive Sector. 3 p.
+28 BC First Nations Mining and Energy Council, 2021. Indigenous Sovereignty: Consent For Mining On Indigenous Lands. 16 p.
+29 Doyle C., et al., 2019. Free Prior Informed Consent Protocols as Instruments of Autonomy: Laying Foundations for Rights
+Based Engagement. Infoe, FPP, Middlesex University.
+30 Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible Mining IRMA-STD-001. Glossary of Terms.
+Chapter 2.2.
+31 Food and Agricultural Organization of the United Nations (FAO), 2016. Free Prior and Informed Consent: An indigenous peoples’
+right and a good practice for local communities.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 52
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+32 BC First Nations Mining and Energy Council, 2021. Indigenous Sovereignty: Consent For Mining On Indigenous Lands. 40 p.
+33 UN General Assembly, 2007. UN Declaration on the Rights of Indigeneous Peoples (A/RES/61/295).
+34 UN General Assembly, 2007. UN Declaration on the Rights of Indigeneous Peoples (A/RES/61/295).
+35 Doyle C., et al., 2019. Free Prior Informed Consent Protocols as Instruments of Autonomy: Laying Foundations for Rights
+Based Engagement. Infoe, FPP, Middlesex University.
+36 WoMin, 2022. What is the Right to Say NO?
+37 CAFTA DR and U.S. Country EIA, 2011. EIA Technical Review Guidelines: Non-Metal and Metal Mining.
+38 Food and Agricultural Organization of the United Nations (FAO), 2016. Free Prior and Informed Consent: An indigenous peoples’
+right and a good practice for local communities.
+39 Food and Agricultural Organization of the United Nations (FAO), 2016. Free Prior and Informed Consent: An indigenous peoples’
+right and a good practice for local communities. 15 p.
+40 Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible Mining IRMA-STD-001. Chapter 2.2.
+41 Atif, I., et al., 2020. “Modelling and analysis of the Brumadinho tailings disaster using advanced geospatial analytics.” In the
+Southern African Institute of Mining and Metallurgy. 405 p.
+42 Assembleia Legislativa de Minas Gerais, 2019. Lei 23291, De 25/02/2019. Art 12.1०- Art 12.3०.
+43 Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible Mining IRMA-STD-001, 61 p.
+44 The International Finance Corporation, 2012. “Performance Standard 5 Land Acquisition and Involuntary Resettlement.”
+45 Niobec, 2012. Guidelines and Best Practices for a Harmonious Acquisition and Compensation Process.
+46 Franks, D.M., et al., 2021. “Tailings facility disclosures reveal stability risks,” Nature Scientific Reports, vol. 11. 7 p.
+47 ICOLD (International Commission on Large Dams) and UNEP (United Nations Environment Programme), 2001. Tailings dams
+risk of dangerous occurrences—Lessons learnt from practical experiences. Bulletin 121, 146 p.
+48 Canadian Dam Association, 2019. Application of dam safety guidelines to mining dams (2019 edition), 61 p.
+49 Brazil, 2019. Resolution Nº 13, August 8, 2019.
+50 Chile, 2007 Decreto Supremo Nº 248: Reglamento Para La Aprobación De Proyectos De Diseño, Construcción, Operación Y Cierre De
+Los Depósitos De Relaves.
+51 Perú, 2014. Decreto Supremo N° 040-2014-EM: Reglamento de Protección y Gestión Ambiental para las Actividades de Explotación,
+Beneficio, Labor General, Transporte y Almacenamiento Minero.
+52 Ministerio de Energía y Recursos No Renovables, 2020. ACUERDO Nro. MERNNR-MERNNR-2020-0043-AM.
+53 Martin,T.E., McRoberts, E.C., Davies, M.P., 2002. A Tale of Four Upstream Tailings Dams. Association of State Dam Safety
+Officials. 25 p.
+54 ICOLD (International Commission on Large Dams), 2021. Tailings dam design—Technology update: ICOLD Bulletin 181, 97 p.
+55 Federal Emergency Management Agency (FEMA), 2005. Federal Guidelines for Dam Safety Earthquake Analyses and Design of
+Dams.
+56 Federal Emergency Management Agency (FEMA), 2013. Selecting and Accommodating Inflow Design Floods for Dams.
+57 U.S. Army Corps of Engineers (USACE), 1991. Inflow design floods for dams and reservoirs: Engineer Regulation ER 1110-8-
+2(FR). 10 p.
+58 U.S. Army Corps of Engineers (USACE), 2016. Earthquake design and evaluation for civil works projects: Engineer Regulation. ER
+1110-2-1806, 28 p.
+59 Independent Expert Engineering Investigation and Review Panel, 2015. Report on Mount Polley Tailings Storage Facility Breach.
+121 p.
+60 British Columbia Ministry of Energy and Mines, 2016. Guidance Document Health,Safety and Reclamation Code for Mines in
+British Columbia v1.0. 12 p.
+61 Klohn Crippen Berger, 2017. Study of tailings management technologies: Report to Mining Association of Canada and Mine
+Environment Neutral Drainage (MEND) Program, MEND Report 2.50.1.
+62 Independent Expert Engineering Investigation and Review Panel, 2015. Report on Mount Polley Tailings Storage Facility Breach.
+121 p.
+63 British Columbia Ministry of Energy and Mines, 2016. Guidance Document Health,Safety and Reclamation Code for Mines in
+British Columbia v1.0. 12 p.
+64 Independent Expert Engineering Investigation and Review Panel, 2015. Report on Mount Polley Tailings Storage Facility
+Breach.124 p.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 53
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+65 Newman, C. P., et al., 2019. “Aqueous Geochemistry and Limnology of the Sleeper Pit Lake, Nevada, USA: Evidence for Long-
+Term Subaqueous Solute Generation in Mine Pit Lakes.” Journal of Geoscience and Environment Protection, 07(03), 64–81 p.
+66 The International Network for Acid Prevention (INAP), 2009. Global Acid Rock Drainage Guide (GARD Guide). Section 6.6.7.
+67 The International Network for Acid Prevention (INAP), 2009. Global Acid Rock Drainage Guide (GARD Guide). Section 6.6.8.
+68 Davies, M., 2018. “Filtered Dry Stacked Tailings-The Fundamentals“ Tailings and Mine Waste 2011. 7 p.
+69 International Council on Mining & Metals (ICMM), 2021. Tailings Management: Good Practice Guide. 91 p.
+70 Vick, S.G., 2002. Degrees of belief—Subjective probability and engineering judgment. ASCE Press, Reston, Virginia, 455 p.
+71 U.S. Army Corps of Engineers (USACE), 2000. Design and construction of levees: Manual No. 1110-2-1913. 164 p.
+72 IMNE (International Centre for Numerical Methods in Engineering), 2021. Computational analyses of Dam I failure at the
+Corrego de Feijao mine in Brumadinho—Final Report—August 2021. Report prepared for Vale S.A., 561 p.
+73 The International Network for Acid Prevention (INAP), 2009. Global Acid Rock Drainage Guide (GARD Guide). Chapters 4 and 5.
+74 National Research Council, 2006. Geological and Geotechnical Engineering in the New Millennium: Opportunities for Research and
+Technological Innovation. Washington, DC: The National Academies Press.
+75 Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible Mining IRMA-STD-001, Glossary of Terms.
+76 Independent Expert Engineering Investigation and Review Panel, 2015. Report on Mount Polley Tailings Storage Facility Breach.
+130 p.
+77 Bellringer, Carol, 2016. An Audit of Compliance and Enforcement of the Mining Sector. Office of the Auditor General of British
+Columbia.
+78 Montana, 2021. Montana Code Annotated 2021. Title 82. Minerals, Oil, And Gas Chapter 4. Reclamation Part 3. Metal Mine
+Reclamation.
+79 Diário Oficial do Estado de Minas Gerais. 2021. Regulamenta dispositivos da Lei nº 23.291, Artículo 10.
+80 Vick, S.G., 2014. “The use and abuse of risk analysis.” Tailings and Mine Waste ‘14 Proceedings of the 18th International
+Conference on Tailings and Mine Waste, Keystone, Colorado, USA, October 5 – 8, 2014, 49-56 p.
+81 Dion, J., 2019. Mining Risk and Responsibility: How putting a price on risk can help British Columbia reduce it. Report prepared for
+the First Nations Energy and Mining Council.
+82 Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible Mining IRMA-STD-001. 72 p.
+83 Dion, J., 2019. “Reducing the Risk of Mining Disasters in BC: How financial assurance can help.” Report prepared for the First
+Nations Energy and Mining Council. 12 p.
+84 Maine Department of Environmental Protection, 2017. “Chapter 200: Metallic Mineral Exploration, Advanced Exploration and
+Mining.” 56 p.
+85 Brígido, Carolina, March 25, 2022. “CNJ costura maior acordo ambiental do mundo para compensar estragos da Mariana.”
+CNN Brasil.
+86 Bowker, L.N. and Chambers, D.M., 2015. The Risk, Public Liability, and Economics of Tailings Storage Facility Failures.
+87 Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible Mining IRMA-STD-001. 72 p.
+88 Maine Department of Environmental Protection, 2017. “Chapter 200: Metallic Mineral Exploration, Advanced Exploration and
+Mining.” 56 p.
+89 Independent Expert Engineering Investigation and Review Panel, 2015. Report on Mount Polley Tailings Storage Facility Breach.
+90 For further details on financial risk criteria, see the last section of MiningWatch Canada’s submission to the Global Tailings
+Review, December 2019.
+91 The Institute for Multi-Stakeholder Integrity (MSI Integrity), 2017. The Essential Elements of MSI Design.
+92 United Nations Office of the High Commissioner, 2011. United Nations Guiding Principles on Business and Human Rights. 33 p.
+93 Federal Institute for Sustainable Development, 2018. Toolbox for Operational-Level Grievance Mechanisms.
+94 The Institute for Multi-Stakeholder Integrity (MSI Integrity), 2017. The Essential Elements of MSI Design.
+95 G20 Anti-Corruption Action Working Group, 2010. G20 Anti-Corruption Action Plan: Protection of Whistleblowers.
+96 Brazil, 2001. Norma Regulamentadora da Mineração, Portaria DNPM 237/2001.
+97 Initiative for Responsible Mining Assurance, 2018. IRMA Standard for Responsible Mining IRMA-STD-001, Chapter 4.1.
+98 Gabelhouse, Timothy, 2015. Awareness and preparedness for emergencies at local level: A Process For Improving Community
+Awareness And Preparedness For Technological Hazards And Environmental Emergencies. Ed. 2. United Nations Environment
+Programme.
+99 O Lábaro, 2022. “Moradores de Paracatu participam de formação sobre os direitos das pessoas atingidas por barragens”.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 54
+earthworks.org/safety-first | miningwatch.ca/safety-first
+
+100 Souza, Tatiana and Karine Carneiro, 2019. “The Right Of The Affected People To Independent Assistance: The Case Of Barra
+Longa (MG)” Revista Sapiência: Sociedade, Saberes e Práticas Educacionais. V.8, N.2. 199 p.
+101 Assembleia Legislativa de Minas Gerais, 2021. Lei 23795 de 15/01/2021.
+102 Souza, Tatiana and Karine Carneiro, 2019. “The Right Of The Affected People To Independent Assistance: The Case Of Barra
+Longa (MG)” Revista Sapiência: Sociedade, Saberes e Práticas Educacionais. V.8, N.2. 205 p.
+103 Mining Association of Canada, 2019. A Guide to the Management of Tailings Facilities VERSION 3.1. 20 p.
+104 Hopkins, A., 2020. “Addressing The Organisational Weaknesses That Contribute To Disaster” Towards Zero Harm – A
+Compendium Of Papers Prepared For The Global Tailings Review. 142 p.
+105 Control of Major Accident Hazards (COMAH), 2019. Major Hazard Leadership Intervention Tool. 5 p.
+106 Seas at Risk, 2021. Breaking free from mining: A 2050 blueprint for a world without mining – on land and in the deep sea.
+107 https://tailing.grida.no/about.
+108 Brazilian National Mining Agency. https://app.anm.gov.br/sigbm/publico.
+109 https://nid.usace.army.mil/#/.
+110 https://www.sernageomin.cl/datos-publicos-deposito-de-relaves/.
+111 https://geomaticaportal.semarnat.gob.mx/arcgisp/apps/webappviewer/index.html?id=95841aa3b6534cdfbe3f53b3b5d6edfa.
+112 http://igme.maps.arcgis.com/home/webmap/viewer.html?webmap=e5631cfafb2c409ca2ff6fcff70950c5.
+113 http://www.csp2.org/tailings-dam-failures-from-1915.
+SAFETY FIRST: Guidelines For Responsible Mine Tailings Management V2.0 55
+earthworks.org/safety-first | miningwatch.ca/safety-first

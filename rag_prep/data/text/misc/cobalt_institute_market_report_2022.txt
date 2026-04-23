@@ -1,0 +1,1466 @@
+Cobalt Market
+Report
+2 022
+May 2023
+
+TABLE OF CONTENTS
+1 | Foreword 02
+2 | Executive Summary 03
+3 | Geopolitical spotlight 05
+4 | Demand: EV demand growth offsets sluggish portable electronics market 13
+5 | Supply: Indonesia joins the DRC as a major driver of supply 22
+6 | Prices: A tale of two halves for cobalt prices in 2022 32
+7 | Outlook: Robust market outlook despite short term weakness 39
+8 | List of Figures 42
+9 | Abbreviations and definitions 43
+Benchmark Mineral Intelligence was commissioned
+by The Cobalt Institute to prepare the 2022 Cobalt
+Market Report, summarising the key trends in the cobalt
+market across demand, supply, prices and geopolitics.
+This was prepared using Benchmark’s Quarterly Cobalt
+Forecast and the Cobalt Price Assessment which is
+published every two weeks. In addition, Benchmark’s
+Recycling and ESG reports have also been referenced.
+1
+May 2023 Cobalt Market Report 2022
+
+1 | FOREWORD:
+“COBALT IS PART OF THE SOLUTION TO A GREEN AND JUST
+ENERGY TRANSITION”
+– CAROLINE BRAIBANT, INTERIM DIRECTOR GENERAL,
+HEAD OF SCIENTIFIC AND REGULATORY AFFAIRS, COBALT INSTITUTE
+In the context of growing demand for critical minerals and increased geopolitical activity to achieve security
+of supply, cobalt is considered as part of the solution to achieving green, equitable and just energy transition.
+The publication of the Cobalt Institute’s “Cobalt Market Report” – the most comprehensive market overview
+to date – provides an in-depth analysis of the trends driving the demand for this unique commodity. The
+Cobalt Institute publishes this report to make the supply chain data accessible to everyone and to help
+underpin a broader approach to transparency.
+For the first time, the report looks at the market trends through the prism of the policy environment. Legislative
+initiatives such as the US Inflation Reduction Act and the EU Critical Raw Materials Act can change the
+future of cobalt as governments aim to secure access to critical raw materials, whilst ensuring the longevity
+of domestic industries and lifting living standards.
+2022 was a turbulent year for cobalt demand: market conditions have weakened and the price environment
+was challenging. In the longer term, demand for cobalt is expected to outpace supply, lifting prices and
+supporting a new wave of investment.
+Indonesia became the second largest cobalt producer in 2022, and has the potential to increase cobalt
+supply by 10 times by 2030, with new projects being announced on a regular basis.
+On the demand side, the EV sector became by far the largest cobalt consumer and now accounts for 40%
+of total cobalt demand. To 2030, global cobalt demand is set to double, driven by battery applications in EVs.
+All cobalt stakeholders – industry, governments, civil society – should build on this momentum to use
+cobalt’s potential to achieve the green and just energy transition and make a cleaner world a reality.
+2
+May 2023 Cobalt Market Report 2022
+
+2 | EXECUTIVE SUMMARY
+2022 WAS A TALE OF TWO HALVES FOR THE COBALT MARKET
+The first four months of the year were characterised by a strong price environment with prices in April
+reaching close to the last peak in 2018. However, market conditions quickly unravelled as supply chain
+constraints eased, cobalt supply growth continued and demand stumbled, particularly for portable
+electronics. As a result, cobalt metal prices halved from the April peak to year end.
+After becoming the largest end use sector for cobalt in 2021, EVs gained further ground in 2022 and
+now account for 40% of total cobalt market end use demand. EVs alone supported 86% of annual
+demand growth whilst the traditional, non-battery applications accounted for just 6% of growth (with a
+28% share of 2022 demand). Total cobalt demand rose 13% y/y in 2022 to 187 kt.
+Nickel-cobalt-manganese (NCM) chemistries became the largest driver of cobalt demand, above
+all other end-use markets. 2022 was the first year in which lithium cobalt oxide (LCO) demand was not
+the primary driver of cobalt demand from battery applications. Weakness in the portable electronics
+markets was a major theme for cobalt in 2022 – LCO cathodes are the most cobalt-intensive of the major
+chemistries and account for close to 80% of the portables market.
+Mined supply grew faster in 2022 than in 2021 (21% vs 14% y/y) and approached 200 kt, alongside
+easing supply chain constraints. The DRC remained the major supplier, with a 73% share, and contributed
+70% of annual growth. Indonesia became the second largest producer in 2022, due to the rapid
+development of domestic nickel-cobalt mines and high pressure acid leach capacity, overtaking established
+producers including Australia and the Philippines. With 5% of 2022 supply, it remains a long way behind
+the DRC, despite supporting 20% of global annual growth; although long term growth potential is high.
+Cobalt is expected to remain a key raw material for the entire battery supply chain, despite the
+persistent theme of substitution of cobalt in battery applications. Multiple cell formulations (mostly
+NCM and lithium iron phosphate, LFP) will support the major end-use sectors, with no single battery cell
+technology expected to dominate. Nickel-cobalt chemistries will maintain a large share of demand and a
+number of recent announcements from major downstream players also reinforces cobalt’s key position
+in the energy transition.
+Demand is forecast to rise by more than 200 kt to 2030 with the market size doubling relative to 2022 and
+approaching 400 kt – this demand story shows a strong outlook for cobalt despite some efforts to reduce
+material intensity.
+On the supply side, the DRC will continue to play a major role and will contribute 44% of growth to
+2030. This will be closely followed by Indonesia’s rapidly growing cobalt and nickel markets – the
+country has the potential to support 37% of mined supply growth to 2030 as supply increases 10-fold.
+3
+May 2023 Cobalt Market Report 2022
+
+Secondary cobalt supply from recycling has provided minimal volumes to date (5% of total supply in
+2022) but is expected to support 15% in 2030 and more than 40% by 2040.
+Market conditions have weakened substantially since the price peak in 2022. This dynamic will likely
+remain through to 2024, as a plentiful and growing supply surplus maintains pressure on prices. In the
+longer term, demand for cobalt will outpace supply, lifting prices and supporting a new wave of
+supply side investment.
+The policy environment has changed markedly in the last 12 months with the Inflation Reduction Act
+(IRA) in the US and the Critical Raw Materials Act (CRMA) in the EU being announced for these major
+lithium-ion battery growth markets. Both will change the future of cobalt and other battery raw materials
+markets as policies aim for a greater proportion of demand to be met by regional supply.
+4
+May 2023 Cobalt Market Report 2022
+
+3 | GEOPOLITICAL SPOTLIGHT
+FOR MANY COMMODITY MARKETS, THE GEOPOLITICAL LANDSCAPE IS
+COMPLEX, AND IT IS NO DIFFERENT FOR COBALT, OR THE LITHIUM-ION
+BATTERY VALUE CHAIN AS A WHOLE. THIS SECTION PROVIDES AN OVERVIEW
+OF THE MOST IMPORTANT CONSIDERATIONS FOR THE COBALT MARKET, BOTH
+THROUGH THE DEVELOPMENTS OF 2022 AND ALSO KEY POLICY DRIVERS
+EVOLVING IN 2023.
+3.1 | THE IMPORTANCE OF THE USA’S INFLATION REDUCTION
+ACT FOR THE ENTIRE BATTERY SUPPLY CHAIN
+To advance the US’ transition to cleaner energy over the next decade and beyond, in August 2022, US
+President Joe Biden signed into law the Inflation Reduction Act (IRA). The IRA has wide-reaching impli-
+cations for the battery supply chain. The Act stipulates that a certain percentage of the value of critical
+minerals in a battery be mined or processed in the US or in a country with which it has a Free Trade Agree-
+ment (FTA), in order to qualify for the credits, as defined below. In addition, batteries must not contain
+components that are manufactured or assembled by a foreign entity of concern (FEOC) as well as critical
+minerals that are extracted, processed, or recycled by a FEOC – the Internal Revenue Service (IRS) will
+further clarify on the definition of FEOC in future guidance(s).
+The policy continues to evolve, however in the latest guidance, the Treasury Department and the IRS
+propose to identify the countries with which the United States has FTAs in effect for purposes of Section
+30D of the IRA.
+The US already has comprehensive FTAs with 20 countries – Australia, Bahrain, Canada, Chile, Colombia,
+Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Israel, Jordan, South Korea, Mexi-
+co, Morocco, Nicaragua, Oman, Panama, Peru, and Singapore.
+The Treasury Department and the IRS also propose to include additional countries as FTA partners for the
+purposes of the IRA credits. Japan, for example has recently concluded a Critical Minerals Agreement
+(CMA) with the US containing robust obligations to help ensure free trade in critical minerals. In a similar
+way, the US and the European Union (EU) are in discussions on a targeted critical minerals agreement
+for the purpose of enabling relevant critical minerals extracted or processed in the EU to count toward
+requirements in Section 30D (clean vehicle tax credits) of the IRA.
+China dominates processing of critical battery raw materials – regionalised supply chains particularly
+in North America and Europe need to be developed, requiring significant investment and cooperation.
+Securing and/or localising the cathode value chain for North America will require policy support in the
+form of guarantees, tax credits and subsidies. The IRA along with other pieces of US legislation have
+created demand and supply side incentives for stimulating the whole battery metal value chain towards
+onshoring of manufacturing in the US market. Since the IRA was announced, there have been a number
+5
+May 2023 Cobalt Market Report 2022
+
+of significant announcements, such as LG committing $5.5 billion on a battery plant in Arizona, $3.6 billion
+from Tesla for an expansion in Nevada, Ford investing $3.5 billion in an EV battery plant and General
+Motors planning a new battery plant with Samsung SDI, both in Michigan. Tesla has also announced that
+it will focus on expansions in the US following the IRA.
+The most notable parts of the IRA are as follows (available funding is based on the latest official estimates
+and is subject to change):
+The Clean Vehicle Credit to incentivize the flow of raw materials and cell components to the
+USA as automotive OEMs seek to meet supply chain conditions. A tax credit of up to $7,500 per
+passenger vehicle is available, with $3,750 if critical minerals are sourced from North America and
+compliant countries and $3,750 if battery components are sourced from North America.
+The Advanced Manufacturing Production Credit to incentivize the mid and downstream stages
+of the US lithium-ion battery (LiB) supply chain (active material, cell and module production in the
+US). For critical minerals and battery active materials, a 10% production tax credit is available. For
+batteries – $35/kWh for cells and $10/kWh for modules.
+The Advanced Energy Project Credit for the build out of energy storage projects. It includes
+a 6% base tax credit with up to 30% (+10%) of additional credits available.
+For cobalt, similar to other critical battery raw materials, the IRA is likely to re-shape global supply chains,
+with compliant countries benefitting from the proposed incentives. Based on current guidance, FTA
+countries and Japan (and potentially the EU) are likely to be the biggest beneficiaries – of the major cobalt-
+producing countries, Australia, Canada, Morocco and Finland are in this category and they accounted for
+just 7% of global mined output in 2022.
+The chart below clearly shows the gap between supply from the US and compliant countries and regional
+demand in 2025. It is likely that origination rules, and specifics around the location of refining primary
+units, will need to relax further to allow US companies to satisfy requirements for cobalt (and other
+minerals), particularly in the mid to long term. Countries such as Australia and Canada are likely to benefit
+from accelerated project development to fill the gap, although the supply pipeline is currently limited.
+Major cobalt producers that are not currently listed as compliant under the IRA include the DRC, Indonesia,
+Madagascar and the Philippines (with a combined 82% of mined cobalt in 2022). Cobalt units from these
+countries are likely to be required for refining feedstock in the US or other compliant countries.
+6
+May 2023 Cobalt Market Report 2022
+
+Figure 1: Mined & refined cobalt supply in 2025, compared to North American demand
+300,000 Others
+EU
+200,000
+Compliant countries
+NNoorrtthh AAmmeerriiccaann
+USA
+ccoobbaalltt ddeemmaanndd
+100,000 ffrroomm bbaatttteerriieess
+0
+Mined Refined
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+3.2 | THE EU’S APPROACH – THE CRITICAL RAW MATERIALS ACT
+Since the announcement of the IRA, the EU has been under pressure to clarify its position on supply chain
+localisation, particularly as the IRA could starve ex-North America regions of investor appetite and the
+capital required to rapidly develop their own LiB supply chains. The EU’s response came in March 2023 as
+it pledged to substantially increase mining and mineral processing of critical raw materials this decade, as
+part of plans to build a European clean energy economy and reduce reliance on China.
+The proposed Critical Raw Materials Act (CRMA) aims, by 2030, for at least 10% of the EU’s annual
+consumption of strategic raw materials to be met by European mining, and at least 40% of its processed
+minerals demand. At least 15% of the mineral consumption should come from European recycling and
+the EU proposes that no more than 65% of Europe’s demand will come from any single non-EU country.
+Another important aspect is the classification of strategic projects to speed up permitting processes and
+the assessment of a project’s environment footprint.
+Cobalt is listed as a strategic and critical raw material alongside other important battery metals. Currently
+Europe only accounts for 2% of mined and 12% of global refined cobalt – based on the size of known
+reserves and current development plans, this share is unlikely to change markedly in the mid to long term.
+Given that only 10% of the EU’s consumption is aiming to come from mining in the region, and there
+is limited supply growth potential, it is likely that the existing major players (the DRC and Indonesia)
+will remain key suppliers. Investment will be required (alongside accelerated permitting) to achieve the
+CRMA’s objectives – it is most likely at the refined, rather than mining, stage of the supply chain by
+bringing cobalt sulphate production closer to the growing end use markets, as the mid and downstream
+sector develops. Given a relatively straightforward logistics route, new European refining capacity would
+likely rely on DRC feedstock.
+7
+May 2023 Cobalt Market Report 2022
+
+Europe’s ability to meet these targets will depend, in part, on the broader regulatory environment it creates.
+For example, it is currently proposing an Occupational Exposure Limit for cobalt that could have a major
+effect on the economic viability of all cobalt refining and recycling facilities in the EU. A low exposure limit
+could offset the benefits of the CRMA and redirect funding out of the EU, where the beneficiaries might
+be countries with less strict regulation, such as the US or UK, or refining to remain within China.
+Figure 2: European mined & refined cobalt operations & projects expected to be in operation
+by 2030
+kt, mined Co 6,100 Mined cobalt operation Project
+4,900 Refined cobalt operation Project
+Operating
+Possible
+KKeevviittssaa
+2020 2025 2030
+KKookkkkoollaa ((UUmmiiccoorree && JJeerrvviiooiiss )) TTaallvviivvaaaarraa && TTeerrrraaffaammee
+HHaarriiaavvaallttaa,, NNoorrnniicckkeell
+NNiikkkkeellvveerrkk,, GGlleennccoorree
+UUmmiiccoorree
+SSiibbaannyyee--SSttiillllwwaatteerr
+kt, refined Co 22,100 22,100
+MMaazziiddaaggii
+Operating
+CCaallddaagg NNiikkeell
+Probable GGoorrddeess
+2020 2025 2030
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+3.3 | THE RELATIONSHIP BETWEEN THE DRC & CHINA
+China has been a key player in cobalt mining in the DRC since the Sino-Congolaise des Mines (Sicomines)
+agreement was signed in 2007 – the majority of operations in the DRC are now fully or partially Chinese-owned.
+In recent times, however, the relationship has become more complicated. In 2021, President Tshisekedi
+accused the previous government of signing lopsided contracts with mining companies, particularly those
+in China, and indicating that he wanted these to be renegotiated. The DRC is also under pressure from the
+International Monetary Fund (IMF) to address contract concerns as a condition of further credit support.
+8
+May 2023 Cobalt Market Report 2022
+
+In March 2022, a temporary administrator was appointed by the DRC courts to operate CMOC Group
+Ltd’s (CMOC) Tenke Fungurume Mining (TFM) operation. In July 2022, TFM was banned from exporting
+cobalt or copper by the administrator, following a dispute about CMOC incorrectly declaring reserves at
+the world’s second largest cobalt-producing mine, thus impacting royalty payments to Gécamines. The
+dispute highlights the DRC Government’s commitment to addressing concerns about prior agreements
+with mining companies, seemingly particularly those agreed with Chinese companies. It has set a
+precedent for negotiations with other miners operating in the DRC, with Sicomines now in discussions
+as well.
+The export ban lasted for 10 months until late April 2023 when CMOC and Gécamines reached an
+agreement. Exports are expected to resume in late April with a large volume of stockpiles understood to
+be on site – we estimate this to be more than 16 kt of cobalt. It is likely to take at least a year to clear the
+backlog.
+TFM accounted for 13% of the DRC’s and 10% of global production in 2022 and the outcome of the
+prolonged dispute had the potential to fundamentally change the dynamics of the global cobalt market.
+At the same time as these ongoing disputes, in January 2023, the USA signed a Memorandum of
+Understanding (MOU) with the DRC and Zambia on electric vehicle battery value chains as part of a
+broader effort to improve cooperation and opportunities in Africa and reduce reliance on China for critical
+minerals. President Biden hosted more than 40 African leaders in December 2022 and a number of senior
+US officials have visited Africa since then. Most recently, Vice President Kamala Harris, the highest-ranking
+official to date, undertook a week long tour of Africa, including a visit to Zambia. The EU had been less
+visible in the DRC, but most recently, following a visit to the DRC from high level officials in March 2023,
+the EU has invested EUR 50 million into the DRC’s critical minerals sector and infrastructure projects. This
+forms part of the EU’s Global Gateway Initiative in response to China’s Belt and Road Initiative.
+3.4 | INDONESIAN MARKET SHARE BUILDING – CHINESE
+INVESTMENT & ESG CONSIDERATIONS
+As discussed later in this report, Indonesia is a key growth market for cobalt (and nickel) – supply has
+the potential to increase by more than 10 times to 2030 and account for a third of global growth. There
+are two key areas to consider as part of this thematic – Chinese investment and ESG considerations.
+LEVEL OF CHINESE INVESTMENT
+All four of the high pressure acid leach (HPAL) facilities currently operating or planning to start in 2023 are
+run by Chinese-Indonesian companies – PT Lygend, Huayue Nickel & Cobalt, PT QMB and PT Huayu. As
+such, the majority of these mixed hydroxide precipitate (MHP) volumes are destined for China. Despite
+initial industry scepticism, the ramp up of HPAL operations in Indonesia has been successful and faster
+than expectations. Much of this is due to the expertise of the Chinese processing companies involved
+and the efficiency of the supply chain between Indonesia and China, providing access to equipment,
+spare parts and other input materials.
+9
+May 2023 Cobalt Market Report 2022
+
+Other smaller cobalt volumes, as a by-product of nickel matte, are produced by Jinchuan, a Chinese
+company, as well as others.
+The dominance of China in Indonesia poses risks for the wider market, similar to the dominance of DRC
+production. This is particularly the case with developing policy from the US and Europe to reduce reliance
+on China across the Li-ion value chain and push for greater diversification of supply. With 75% of cobalt
+refining already in China, a rising share of intermediate material from Chinese-Indonesian projects risks
+moving further away from a greater degree of self-sufficiency for other markets. It remains unclear if
+Indonesian cobalt will eventually be IRA- compliant.
+Investment in Indonesian HPAL capacity remains very limited from companies outside of China and
+Indonesia, with only BASF and Eramet announcing a project to date – due to start in 2026. Other
+companies such as LG Energy Solutions, Volkswagen and EcoPro have announced projects, although
+these all involve Chinese partner(s).
+The current outlook indicates that a large proportion of Indonesia’s cobalt and nickel expansions will be
+from Chinese-Indonesian companies which risks the success of the IRA and the EU’s CRMA.
+ESG CONSIDERATIONS
+With production ramping up so rapidly in Indonesia and the country growing in importance for the future
+of the cobalt and nickel markets (and the wider battery value chain), there are increased concerns about
+the adherence to environmental standards, particularly for waste treatment, and safety at operations,
+with a number of major accidents being reported. Indonesian cobalt is of high biodiversity concern,
+with average species richness and rarities of 73% and 95% respectively. With increasing scrutiny from
+the wider industry, some of these aspects are likely to improve, and the involvement of major Western
+companies should also support adherence to higher operating standards as ESG-compliance is critical
+for these organisations.
+Benchmark’s life cycle assessment (LCA) has analysed emissions factors of the main cobalt production
+routes. The major route to cobalt sulphate, from mining in the DRC to refining in China, has been compared
+to the emerging Ni-Co HPAL route in Indonesia. Modelled routes are not based on primary data for a
+single site, and as such assumptions (such as for fuel usage / grid mix / process emissions, etc) have
+been made.
+HPAL demonstrates higher global warming potential (36 kg of carbon dioxide equivalent, CO2eq, against
+10 kg CO2eq), and also has a higher impact in acidification and eutrophication burdens – see figure
+below. Because of the low volume of cobalt produced in HPAL (primary nickel route), more materials
+and more energy are consumed to produce the same quantity of cobalt due to the lower ore grade in
+Indonesia. The global warming potential could be improved in future if Indonesia can reduce their reliance
+on coal and diesel fuel sources and transition to a larger share of renewable energy sources.
+A $20 bn fund was announced at the 2022 G20 summit to accelerate Indonesia’s shift to renewable
+energy. The Just Energy Transition Partnership (JETP) is likely to help cobalt and nickel producers to
+reduce the carbon footprint of their products.
+10
+May 2023 Cobalt Market Report 2022
+
+Impact Global warming potential Terrestrial acidification Freshwater eutrophication
+categories (x10 ° kg CO eq/kg) (x10-1 kg SO eq/kg) (x10-3 kg Peq/kg)
+2 2
+Data: Benchmark Mineral Intelligence – Cobalt ESG Report & LCA analysis.
+Note: CO2 = carbon dioxide, SO2 = sulphur dioxide, P = phosphorous, eq = equivalent.
+For both the DRC and Indonesian HPAL routes, electricity and production direct emissions are the main contributors to the Global
+Warming Potential (GWP). These will vary from site-to-site and our model is an average and includes the country-level electricity mix.
+Limestone is a common material in both routes and is responsible for CO2 emissions in the chemical reaction of these processes.
+Electricity contribution to GWP varies from a 20% share in HPAL to 26% for the DRC-China route.
+serugif
+noissimE
+Figure 3: Global cobalt LCA analysis – summary of key metrics (2023 basis)
+Cobalt contained in Cobalt Sulphate Heptahydrate (DRC / China – Benchmark)
+Cobalt metal (HPAL – Benchmark)
+Environmental credit (HPAL – Benchmark)
++251%
+45
+36.29
+40
+35
+30
++275%
+25
+17.28
+20 +1,477%
+15 13.81
+10.35
+10
+5 4.61
+0.88
+0
+-0.52
+-5
+-3.53
+-10 -6.11
+3.5 | RUSSIA’S POSITION IN THE COBALT MARKET
+Since Russia’s invasion of Ukraine in February 2022, flows of Russian cobalt (and nickel) have been
+disrupted due to a combination of self-sanctioning by end users and impacts on logistical routes. The
+overall market impact has been muted, however, due to Russia (specifically Nornickel) not being a large-
+scale cobalt producer – in 2022, Nornickel accounted for 2% of mined and 1% of refined globally supply,
+with a similar share in 2021.
+Some sales to existing contract customers have continued but there has been reports of larger volumes
+of cobalt and nickel sales to China, using a combination of LME prices and Shanghai Futures Exchange
+prices in yuan.
+11
+May 2023 Cobalt Market Report 2022
+
+Figure 4: Geopolitical risk matrix for the cobalt market
+Risk matrix
+Source: Benchmark Mineral Intelligence. Note: categories are based on the level, or significance, of potential impact to the cobalt market,
+rather than being positive or negative.
+tcapmi
+tekram
+fo
+doohilekiL
+3.6 | GEOPOLITICAL SUMMARY & RISK MATRIX
+The risk matrix below provides a summary of the geopolitical aspects discussed in this section and
+comments on the likelihood and level of potential impact to the cobalt market.
+IRA: re-shaping of supply chains, particularly benefitting the USA, FTA countries and Japan on
+the supply side.
+CRMA: refined capacity in Europe likely to benefit more than mining.
+DRC & China relationship: potential for disputes with other operators, impacting mined supply.
+Indonesia:
+Level of Chinese investment: large, and growing, share of new
+supply development may impact IRA targets unless other trade/IRA- compliance measures
+are introduced. Diversification of investment is required.
+ESG considerations: rising awareness and scrutiny should improve compliance – this will
+be necessary for Western end users otherwise alternative sources will be required, with
+limited supply growth elsewhere, except from the DRC.
+Russia: market has already adjusted to reduce the risk of potential sanctions.
+Level of potential impact to the cobalt market
+Negligible Minor Moderate High Significant
+Very
+CRMA IRA
+likely
+Indonesia-
+Likely Chinese
+investment
+Indonesia- DRC & China
+Possible Russia
+ESG relationship
+Unlikely
+Very
+unlikely
+12
+May 2023 Cobalt Market Report 2022
+
+4 | DEMAND: EV DEMAND GROWTH
+OFFSETS SLUGGISH PORTABLE
+ELECTRONICS MARKET
+4.1 | OVERVIEW OF DEMAND IN 2022
+2022 was a turbulent year for cobalt demand. The year started positively with momentum from 2021 and
+strong EV market growth, however widespread COVID- 19 lockdowns in China from March 2022 created
+significant disruption across the Li-ion battery supply chain, on both the supply and demand side.
+EV and consumer electronics demand suffered and lithium iron phosphate (LFP) cathodes continued to
+gain market share in China, both setting the tone for much of the rest of the year. Despite this weakness
+in the second half, cobalt demand maintained annual growth (+13%), albeit weaker than 27% y/y in 2021.
+Total cobalt demand rose to 187 kt in 2022, up 21 kt from 2021. Battery applications now account for
+72% of cobalt demand, up from 55% in 2018 and 70% in 2021.
+Figure 5: Demand share of cobalt end use sectors in 2022, %
+40% EV Data: Benchmark Mineral Intelligence –
+Cobalt Forecast.
+30% Portables
+9% Super Alloys Note: ‘Others’ includes hard facing,
+4,295 t; magnets, 3,431 t, and other
+5% Hard metals
+applications including energy storage,
+3% Catalysts tyres, soaps and paint driers.
+3% Ceramics/Colours
+10% Others
+The EV sector was the strongest performer, contributing 86% of overall cobalt demand growth and rising
+33% y/y. After becoming the largest end use sector for cobalt in 2021, EVs gained further share of demand,
+rising to 40% of the total market. The portable electronics sector also contributed to this dynamic as it
+was the only sector to see no growth in overall demand in 2022.
+Figure 6: Cobalt demand growth by sector, tonnes of cobalt
+250,000 EV
++13% y/y
+200,000 Portables
+27%
+150,000 13% 4% Super Alloys
+6%
+100,000 Other
+Data: Benchmark
+50,000
+Mineral Intelligence –
+0 Cobalt Forecast.
+2018 2019 2020 2021 2022
+13
+May 2023 Cobalt Market Report 2022
+
+Albeit from a low base, the energy storage sector was the best performer y/y in 2022 – cobalt demand
+grew 61% y/y; although this contributes only 2% of total demand currently.
+The traditional end uses, including super alloys, saw growth rates of 2-3% y/y, contributing 6% to overall
+annual demand growth (1.3 kt combined). Despite the rapid growth of Li-ion battery applications, the
+traditional end uses still account for 28% of overall cobalt demand. Super alloys is the largest of these
+sectors with 9% market share.
+Figure 7: Share of total cobalt demand by sector, %
+EVs Portables Super Alloys Other
+50%
+40%
+40%
+30%
+20%
+10%
+0%
+2018 2019 2020 2021 2022
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+4.2 | EV MARKET
+After being neck and neck in 2021, the EV sector is now by far the largest cobalt consumer after pulling
+ahead of portable electronics – it now accounts for 40% of total cobalt demand, with this share continuing
+to rise. Demand from the sector reached 74 kt in 2022, up 33% y/y from 56 kt in 2021.
+Global EV sales grew by more than 3.8 million units in 2022, larger than the entire global market in 2020,
+to 10.3 million units. BEVs supported close to 80% of overall EV sales growth, with total EV penetration
+rates rising to 13%, up from 8% in 2021.
+14
+May 2023 Cobalt Market Report 2022
+
+Figure 8: Global passenger & light duty vehicle EV sales, millions of units
+15 BEV
+PHEV
+10
+EV% (RHS)
+5
+0
+Data: Rho Motion.
+snoilliM
+15%
+10%
+5%
+0%
+2018 2019 2020 2021 2022
+Global EV sales grew 59% y/y, down from 102% y/y in 2021, however, maintaining very strong growth
+rates despite market headwinds, including China’s COVID-19 lockdowns (EV production fell 33%
+m/m in April 2022 during the first month of lockdown and NEV sales declined 38% m/m), inflation and
+rising cost of living pressures, high battery raw material costs, semiconductor shortages and broader
+macroeconomic factors.
+China continued to lead the charge in the global EV market, contributing 75% of global market growth,
+as sales exceeded 6 million units, close to doubling from 2021. Sales were particularly strong later in the
+year before the end of subsidies. EV penetration averaged more than a quarter of the total passenger
+vehicle market in 2022, with this share even higher later in the year. Chinese NEV exports are also
+increasing quickly, indicating rising demand for Chinese EVs internationally. This trend reflects China’s
+dominance in battery components and the region’s ability to scale supply to meet surging demand.
+In Europe and North America, growth rates could not match 2021 but maintained strong momentum,
+rising 15% and 38% y/y, respectively. Penetration rates remain much higher in Europe, now above 20%,
+compared to 7% in North America.
+Figure 9: Growth in total EV sales by major region, y/y %
+Global China North America Europe
+150%
+102%
+100%
+59%
+53%
+50%
+0%
+2020 2021 2022
+Data: Rho Motion. Note: passenger & light duty vehicles only.
+15
+May 2023 Cobalt Market Report 2022
+
+4.3 | PORTABLE ELECTRONICS
+Portables battery demand has grown steadily in recent years and accelerated in 2020 (+22% y/y), as
+the COVID-19 pandemic significantly increased purchasing of portable devices, particularly laptops and
+tablets, and power tools. However, much of this demand was pulled forward and has slowed substantially
+since.
+Portable electronics demand continued to stumble in 2022 which was a key theme for the cobalt market
+– it was the only sector where cobalt was flat y/y. This sector is important for cobalt, as 77% of portables
+demand is for lithium cobalt oxide (LCO) cathodes which have the highest cobalt intensity of the major
+chemistries and more than 4 times as much cobalt as nickel-cobalt-manganese (NCM) 622 on a kg/kWh
+basis.
+In fact, 2022 was the first year in which LCO was not the largest driver of cobalt demand from batteries,
+as it was overtaken by NCM. LCO’s overall share has fallen quickly in recent years as the EV sector has
+dwarfed portable electronics – 94% of cobalt demand from batteries was from LCO in 2015, falling to
+46% in 2022.
+Figure 10: Share of cobalt demand from batteries by chemistry, %
+100%
+LCO
+BEV
+NCM
+80%
+PHEV
+NCA
+NEV share
+60%
+40% 2.21
+20%
+0%
+2015 2016 2017 2018 2019 2020 2021 2022
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+Cobalt demand for portables was flat y/y in 2022, with LCO demand falling by 8% y/y on a MWh
+basis. Market weakness was exacerbated by rising cost of living pressures forcing consumers to curb
+expenditure; supply chain constraints (exacerbated by the war in Ukraine) put further pressure on the
+sector. According to the International Data Corporation (IDC), a market intelligence firm for consumer
+electronics, global smartphone shipments declined 11.3% y/y in 2022. Laptop and tablet markets were
+also under pressure throughout the year. As a result, several consumer electronics manufactures have
+been forced to downgrade their production targets after a fall in shipments in 2022, with Apple reporting
+in Q4 that production of the iPhone 14 would be 3 million units lower than previous guidance.
+16
+May 2023 Cobalt Market Report 2022
+
+Figure 11: Annual LCO demand, y/y %
+30% 2288%%
+20%
+12%
+10%
+0%
+-8%
+-10%
+2018 2019 2020 2021 2022
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+4.4 | CATHODE CHEMISTRY TRENDS
+The NCM cathode chemistries are now the major driver of cobalt demand from batteries as LCO demand
+remains weak. Within NCM, mid-nickel maintains the largest share of cathode demand (in MWh), at 27%.
+To benefit from higher energy densities, the sector continues to transition towards higher nickel and lower
+cobalt intensities in NCM – from 2020 to 2022, the share of low-nickel fell 18% points, mid- nickel rose
+9% and high-nickel rose 19%, whilst LFP gained 14%. High-nickel (811+) is expected to gain the largest
+share from 2023 onwards. Despite the declining intensity, cobalt remains key for safety and stability –
+cobalt containing chemistires represented 63% of cathode demand in 2022.
+Figure 12: Share of cathode demand by chemistry, %
+100%
+BEV LCO
+80% PHEV
+NEV share
+NCA
+60%
+LFP
+2.21
+40%
+Low-Ni
+Mid-Ni
+20%
+High-Ni
+0%
+2018 2019 2020 2021 2022
+17
+May 2023 Cobalt Market Report 2022
+
+100% Co-containing
+No cobalt
+80%
+60%
+40%
+63%
+20%
+0%
+2018 2022
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+The cobalt industry continues to face pressure despite its importance in the battery supply chain due to:
+Cost – as the most expensive battery raw material on a unit basis
+Efforts to increase energy density – lower cobalt intensities in higher nickel NCM chemistries
+Responsible sourcing and ESG – particularly from the DRC and Indonesia.
+NICKEL-COBALT CHEMISTRIES TO REMAIN A CRITICAL PART OF THE EV SECTOR
+The view of cathode demand is predominantly based on original equipment manufacturer (OEM)
+statements of intent regarding cell technology roadmaps. To date, for EV applications, there has been a
+clear preference for nickel-preference for nickel- cobalt-manganese (NCM)/nickel-cobalt-aluminium oxide
+(NCA) cathodes, moving towards higher nickel NCM grades over time. Broadly, preferences are split into
+high-performance applications, which suit high-nickel NCM chemistries (e.g. NCM712+, but more likely
+NCM811+), or preferences for cycle life, safety and cost, but lower energy density and lower driving
+range, such as LFP. For energy storage, the long term outlook favours LFP due to safety and cycle life.
+No single battery cell technology is expected to prevail, and outlook shows that multiple cell formulations
+(mostly NCM and LFP) and formats will support the major end-use sectors. High-performance EVs will
+continue to favour nickel-rich cathodes, such as NCM811+, due to superior energy densities. Demand
+for low-nickel chemistries is expected to shrink, whereas the mid-nickel market will continue to grow.
+Regional preferences will vary, with Ni-Co chemistries to remain dominant in Europe and North America,
+and LFP in China.
+LFP technology has improved relative to NCM over the last few years, but possible improvements to
+come are likely to be equally applicable to NCM – this is a key factor against a comprehensive switch from
+NCM to LFP. OEM production cycles are typically at least 6-7 years which also limits the rate at which
+major change in technologies can occur.
+18
+May 2023 Cobalt Market Report 2022
+
+Figure 13: Cathode capacity installations in China by chemistry, GWh
+45 350
+40
+300
+35
+250
+30
+25 200
+20 150
+15
+100
+10
+50
+5
+0 0
+2020 2021 2022
+NCMA / NCA LFP
+Data: CAAM/CABIA, Benchmark Mineral Intelligence.
+02-naJ 02-rpA 02-luJ 02-tcO 12-naJ 12-rpA 12-luJ 12-tcO 22-naJ 22-rpA 22-luJ 22-tcO
+A number of Western OEMs have expressed their interest in LFP, particularly for standard-range EVs,
+including Tesla, VW, Stellantis and Ford. However, outside of China, there remains very little LFP cathode
+capacity in the pipeline – only 6% of LFP capacity is forecast to be outside of China by 2030. This will also
+limit a widespread technology shift in Western markets, particularly considering developing policy around
+sourcing of batteries and raw materials.
+High-manganese, cobalt free chemistries (e.g., LMNO, NMx, NCM307) are being developed and may be
+a viable alternative, but are likely to account for only a small proportion of total battery demand by 2030,
+and primarily for EV applications. We remain relatively conservative of new chemistries in the medium
+term due to the long duration of development and lead time for commercialisation.
+This transition in cathode technologies, both within the Ni-Co chemistries and the cobalt-free formula-
+tions (namely LFP) caused the weighted average cobalt intensity in the battery sector to fall to 0.16 kg/
+kWh in 2022, down from 0.59 in 2015 and 0.24 in 2021. However, despite this trend, cobalt demand
+continues to see strong annual growth with a robust outlook (discussed later in the report) supported
+primarily by the EV sector.
+LFP gained 10% share of global cathode demand in 2022, primarily driven by China where LFP’s share
+is rising quickly due to large capacity additions since mid-2021. LFP capacity rose 269% y/y in 2021
+and 164% y/y in 2022, compared to 100% and 124%, respectively, for NCM/NCA. In 2022, 61% of new
+additions were for LFP capacity, compared to 42% in 2020.
+The primary driver of LFP demand growth is the EV sector, accounting for 80% of total LFP demand in
+2022. Energy storage is also gaining share, up to just under 20% in 2022 from 9% in 2021.
+19
+May 2023 Cobalt Market Report 2022
+
+4.5 | DOWNSTREAM ACTIVITY REINFORCES THAT COBALT
+REMAINS A KEY BATTERY METAL
+Cobalt remains a key part of the energy transition in Li-ion battery applications. In addition to the key
+demand trends discussed above, we have identified a number of key announcements from major players
+in the downstream in 2022 which emphasise that cobalt remains a critical battery raw material:
+March: VW signs MOU with Huayou and Tsingshan to secure nickel and cobalt supply – first
+Western OEM to invest directly in the upstream in Indonesia.
+April: Glencore signed multi-year deal with General Motors (GM) for cobalt from Murrin Murrin.
+April: LG Energy Solutions investing $9 billion in battery supply chain in Indonesia.
+June: Managem signed multi-year deal with Renault.
+July: Ford involved in Pomalaa HPAL project with Vale & Huayou.
+July: Subsidiary of CATL (Sichuan CATL) secured 25% stake of CMOC. This is in addition
+to the 25% stake acquired in the Kisanfu project in 2021.
+October: Stellantis signs MOU with GME Resources for future nickel and cobalt volumes
+from development project in Western Australia.
+October: GM secures equity in Queensland Pacific Metals.
+4.6 | SPOT MARKET DEMAND & OTHER COBALT-CONSUMING
+SECTORS
+Purchasing on the spot market was volatile during 2022 as the market was influenced by a number of key
+events (specifics on pricing trends will be discussed in more detail in Section 6):
+High prices at the start of the year, particularly in Q1, reduced spot market activity.
+In March, demand was stronger outside of China, particularly from the continued recovery in the
+aerospace sector as travel activity trended back towards pre-COVID levels.
+As the war in Ukraine started, increased purchasing was seen for alternative supply sources as
+Russian volumes faced potential sanctions.
+Due to extended COVID-19 lockdowns in China from March, there was a slowdown in Chinese
+purchasing – inventories rose which meant there was a delay in further purchasing post-lockdown.
+Prices started to turn from May onwards as negative sentiment built in the market and end users
+delayed purchasing until prices fell further from the peak.
+20
+May 2023 Cobalt Market Report 2022
+
+Macroeconomic headwinds (e.g. inflation) impacted a number of cobalt- consuming sectors
+throughout the year. Despite this, the super alloy sector performed well in the second half as
+robust aerospace and military demand helped to support metal consumption despite bearish
+sentiment permeating throughout the market.
+Rising energy costs, particularly in Europe stemming from the war in Ukraine, impacted demand
+from energy-intensive end markets such as the industrial and ceramics sectors.
+Demand for super alloys from the medical, aerospace, and military sectors remained robust later
+in the year, whilst energy-intensive industries showed some signs of improvement given lower-
+than-expected gas prices.
+Despite pressure on a number of the traditional cobalt-consuming sectors in 2022, the metal
+market remained relatively tight throughout the year given strong demand from the aerospace,
+military, and medical sectors. Demand is expected to remain relatively steady given the maturity
+of most metal-consuming markets.
+21
+May 2023 Cobalt Market Report 2022
+
+5 | SUPPLY: INDONESIA JOINS THE DRC
+AS A MAJOR DRIVER OF SUPPLY
+5.1 | KEY SUPPLY - SIDE EVENTS IN 2022
+January: Trafigura announced financing of $600 million with Chemaf for the Mutoshi project in
+the DRC.
+February: first shipment of MHP from Huayue HPAL in Indonesia.
+April: Glencore (Murrin Murrin, Australia) signed multi-year supply deal with GeneralMotors (GM).
+April: extensive flooding in Durban, South Africa worsened cobalt supply chain constraints.
+Glencore declared force majeure.
+July: subsidiary of CATL (Sichuan CATL) secured 25% stake of CMOC. In addition to the 25%
+stake acquired in the Kisanfu project in 2021.
+July: DRC government bans exports from CMOC’s Tenke Fungurume in due to an ongoing
+dispute over royalty payments.
+August: Tesla signed long term NCM supply agreement with Huayou and CNGR - nickel and
+cobalt from Indonesia.
+August: QMB HPAL starts production in Indonesia.
+November: PT Vale Indonesia and Huayou sign Definitive Cooperation Agreement to develop
+Pomalaa project in Indonesia.
+December: ERG and Gecamines restart production at Boss Mining.
+5.2 | OVERVIEW OF MINED SUPPLY IN 2022
+Global mined cobalt supply rose close to 198 kt in 2022, up 21% y/y (+34 kt), compared to 14% y/y in
+2021. The major producers are the DRC and Indonesia, accounting for a combined 78% of output in
+2022, and 89% of y/y growth.
+Figure 14: Share of mined cobalt supply in 2022, %
+73% DRC
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+5% Indonesia
+Note: ‘ROW’ includes (in descending order) Russia,
+3% Australia Madagascar, Canada, Papua New Guinea, Turkey,
+New Caledonia, Morocco, Zambia, Finland, China, USA,
+3% Philippines
+Mexico and South Africa.
+3% Cuba
+13% ROW
+22
+May 2023 Cobalt Market Report 2022
+
+The DRC maintained a steady share of 73% of production and contributed 70% of annual growth
+(+24 kt). Indonesia became the second largest producer, overtaking established producers including
+Australia, the Philippines and Cuba. Having produced minimal volumes prior to 2021, Indonesia’s rise has
+been fast owing to existing mining expertise in the country from other commodities and the successful
+construction and ramp up of HPAL capacity, producing cobalt and nickel, from Chinese-Indonesian
+companies. Indonesia accounted for 20% of global mined supply growth in 2022 (+6.8 kt). Additions
+elsewhere were limited to small volumes at existing operations in Australia (3% of global growth) and the
+Philippines (1%).
+Figure 15: Growth in mined supply by major country in 2022, tonnes of cobalt
+250,000
+1,100 1,094 816 671 197,791
+200,000 23,836 6,760
+163,514 3% 3% 2% 2%
+20%
+150,000
+7700%%
+100,000
+50,000
+0
+a
+2 0 2
+1
+D R
+C
+n d o n e si
+a
+d a g a s c
+ar
+A u str ali
+a
+C al e d o
+ni
+R O
+W
+2 0 2
+2
+I M a w
+e
+N
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+5.3 | KEY PRODUCERS IN THE DRC
+Glencore remained the largest producer in the DRC in 2022, despite a reduction in output at Katanga
+(Kamoto Copper Company, or KCC). The mine’s output dropped by 8% y/y following a number of
+setbacks including geotechnical constraints and power supply issues. However, Mutanda’s output almost
+quadrupled as mining resumed after the restart of processing stockpiles in 2021. The ramp up was faster
+than guidance indicated as volumes were prioritised to offset losses at Katanga. Overall, Glencore’s
+production increased by 10 kt – Mutanda alone supported 49% of the country’s annual growth.
+The other major producer in the DRC, CMOC, endured a difficult 2022 as exports were banned from their
+TFM operation from July onwards as their royalties dispute with the DRC government and Gécamines
+escalated. An agreement was reached in late April 2023 with exports expected to resume. CMOC reported
+in their 2022 annual results that cobalt inventory volumes rose 25% in 2022, and the conversion of cobalt
+production to sales fell from 92% in 2021 to 62% in 2022. We estimate that there is more than 16 kt of
+stockpiles (cobalt contained) at TFM.
+Geopolitical considerations are discussed in more detail in Section 3.
+23
+May 2023 Cobalt Market Report 2022
+
+Figure 16: CMOC’s reported cobalt metrics
+250,000 Production
+62% Sales
+200,000
+9922%%
+Inventory volume
+150,000
++25% y/y
+100,000
+50,000
+0
+FY21 FY22
+Data: CMOC Annual Reports, Benchmark Mineral Intelligence – Cobalt Forecast.
+Elsewhere for CMOC, construction at the Kisanfu (KFM) mining project continued with production
+expected to start from mid-2023 onwards. In July 2022, the Sichuan subsidiary of CATL purchased a
+25% share of CMOC, following CATL’s investment in 25% of the Kisanfu project in 2021.
+In January 2022, Trafigura announced financing of $600 million with Chemaf for the Mutoshi project which
+has been under development for a number of years. Previously this was being trialled for a proposed
+formalisation of the artisanal and small scale mining (ASM) sector but the operation has now been fully
+mechanised instead. It has yet to start production but the ramp up is expected to begin in 2023.
+Eurasian Resources Group’s (ERG) Metalkol Roan Tailings Reclamation (RTR) operation continued
+to increase output, rising to 18 kt in 2022. In December, ERG and Gécamines restarted production at
+Boss Mining.
+Production from the ASM sector accelerated in late 2021 and early 2022, supported by strong prices.
+However, as prices began to unravel from May onwards, ASM supply tailed off in the second half and has
+now fallen by more than 50% from the peak.
+ESG CONSIDERATIONS FOR THE COBALT SECTOR IN THE DRC
+Environmental challenges for cobalt mining in the DRC are not widely discussed by the market, however
+after many years of poor mining standards, the country’s industry faces a number of issues, including
+water impacts, waste (tailings) management, biodiversity risks and air pollution. The Central Zambezian
+Miombo Woodland Ecoregion is one of two major ecoregions in the DRC – 70% of these woodland
+environments are in the Katanga region, key for cobalt mining, posing high biodiversity risk to the area,
+yet only one third of operating miners and converters have reported on biodiversity monitoring strategies
+put in place by the company.
+Social impacts remain in the spotlight which has helped to see progress in addressing some of the main
+issues, such as child labour and human rights, with a number of international organisations partnering
+with governments and industry to develop and monitor projects, mostly relating to artisanal communities.
+Security and working conditions remain key topics as well as the safeguarding of women inside and
+24
+May 2023 Cobalt Market Report 2022
+
+outside of the workplace – only 35% of operating cobalt miners and converters have gender-related
+policies in place.
+Governance topics including due diligence, whistleblower policies, code of conduct disclosures,
+subcontractor use, responsible sourcing and tax transparency remain important. Transparency should be
+highlighted in general as, for example, 48% of producers (on a volume basis) do not produce publicly-
+accessible ESG reports. However, 58% of operating miners and 74% of operating converters disclose
+they have whistle-blower polies in place with similar proportions employing a code of conduct and
+responsible sourcing policies.
+5.4 | INDONESIA – THE NEW GROWTH MARKET FOR COBALT
+Indonesia is currently a focal point for both the cobalt and nickel markets as large volumes of new capacity
+are developed – cobalt production in the country has the potential to increase by more than 10 times by
+2030 and 14 times by 2040, with new projects being announced on a regular basis. To demonstrate this,
+10 Indonesian cobalt and nickel projects were tracked in early 2021, up from just 4 in early 2020, with
+this rising to 42 projects as of early 2023. Production to 2030, which could contribute more than a third of
+global growth, now has the potential to be almost double that in our forecasts from early 2022.
+Figure 17: Number of Indonesian Co-Ni projects in Benchmark’s supply database
+50
+40 42
+40
+39
+30 32
+25
+20
+10
+2022 Q1 2022 Q2 2022 Q3 2022 Q4 2023 Q1
+0
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+In 2020, Indonesia produced less than 1 kt of cobalt – this increased to 9.5 kt in 2022. PT Halmahera
+Persada Lygend (PT Lygend) continued to ramp up in 2022, with the Phase 2 expansion also starting,
+after first production in 2021 as the country’s first HPAL operation. It produced 2.8 kt of cobalt in 2022,
+38% of Indonesia’s annual production.
+Huayue Nickel & Cobalt was the second HPAL to commission, with the first shipment in February,
+producing 2.4 kt in its first year in 2022 (25% of Indonesia’s total) followed by PT QMB, producing 1.6 kt
+after starting production in August. In 2023, PT Huayu in Weda Bay is expected to commission as the 4th
+HPAL in Indonesia.
+25
+May 2023 Cobalt Market Report 2022
+
+With the rise of HPAL capacity in Indonesia, sourced from domestic ore feedstock, MHP containing both
+cobalt and nickel has quickly become the dominant intermediate product – 80% of total production in
+2022. Prior to 2021, Indonesia only produced cobalt as a by-product of nickel matte production. New
+cobalt supply will come from matte in future, however this accounts for only 7% of potential additions to
+2030 – 93% is from MHP via the HPAL route. Several projects have already announced major capacity
+expansions, such as PT Lygend committing to a 50% increase in cobalt output and Huayue doubling
+initial planned capacity, indicating confidence in the technology and production route.
+Figure 18: Share of Indonesia’s cobalt production by intermediate product (MHP and matte)
+10,000 Mixed Ni/Co precipitate (MHP)
+8,000
+80% Cobalt in matte
+6,000
+4,000
+2,000
+63% Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+0 Note: MHP = mixed hydroxide precipitate.
+2020 2021 2022
+5.5 | OVERVIEW OF REFINED SUPPLY IN 2022
+Refined cobalt supply maintained robust growth in 2022, increasing 8% y/y by 12 kt, to 165 kt.
+As the major global refiner, maintaining a ~75% share in recent years, China contributed 97% (+12 kt) of
+growth, with Africa (Madagascar and the DRC) accounting for 18% (+2.2 kt). Despite being the second
+largest growth market, Africa only accounts for 4% of global output. The second largest region, Europe,
+only increased output marginally and lost overall market share, as the cobalt industry remains reliant on
+China for refining.
+Figure 19: Growth in refined supply by region in 2022, tonnes of cobalt
+200,000
+11,800 2,200 1,100 350 -3,320 165,000
+152,870
+150,000
+100,000
+50,000
+0
+2022
+2021 China Africa North Europe ROW
+America
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+26
+May 2023 Cobalt Market Report 2022
+
+With end users increasingly using refined chemicals (cobalt sulphate and other salts) for battery
+applications, chemical refining accounts for 80% of total refined production. Chemical supply grew 7%
+y/y in 2022 (+7.5 kt) compared to 14% y/y for metal (+3.7 kt).
+China dominates chemical refining with 91% of global production in 2022, whereas the ROW is the major
+metal producer, with a 66% share. The largest metal refiners excluding China include Canada, Norway
+and Australia (64% combined share).
+Figure 20: Refined capacity by type and region in 2021 and 2022, tonnes of cobalt
+200,000
+ROW 66%
+150,000
+Global Metal
+Global Metal ROW China
+100,000
+Global Global
+China
+Chemical Chemical
+50,000 91%
+81%
+0
+2021 2022 2022 chemical 2022 metal
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+Table 1: Share of global refined production by country, %
+Share of global refined production
+Country
+2021 2022
+China 74% 76%
+Finland 10% 10%
+Canada 4% 4%
+Norway 2% 2%
+Australia 2% 2%
+Madagascar 1% 2%
+DRC 1% 1%
+Morocco 1% 1%
+Russia 1% 1%
+ROW 4% 1%
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+27
+May 2023 Cobalt Market Report 2022
+
+In China, 80% of sulphate capacity is integrated with downstream precursor active material (PCAM) ca-
+pacity, including Huayou, Shenzhen GEM, CNGR and others. The share has steadily increased in recent
+years. However, integrated capacity is significantly lower outside of China with only Umicore in Belgium
+currently integrated with PCAM.
+5.6 | SUPPLY CHAINS EVENTUALLY EASE PRESSURE ON COBALT
+Supply chain constraints were a major theme for the cobalt market in 2021 but eased through 2022
+despite several key, global events. Early in 2022, supply chains were still gradually recovering post-
+COVID but faced new challenges from the start of the war in Ukraine in February and widespread
+lockdowns in China in April and May. In addition, major flooding in the KwaZulu-Natal Province and
+at the port of Durban in South Africa (the primary port used to ship DRC cobalt hydroxide to China) in
+April threatened to further extend the impacts on cobalt, with Glencore even declaring force majeure
+on some of their contracts during this period, as most shipments stopped through April and May.
+Despite this, freight routes recovered relatively quickly into the second half of the year and
+world container rates, a proxy for freight dynamics for cobalt, declined through most of 2022.
+They have recently returned to levels last seen in early 2020, before the COVID-19 pandemic.
+Drewry’s World Container Index was around $10,000 in early 2022, just below the peak of $10,400
+in September 2021, but fell to around $2,000 by the end of 2022. It was $1,800 as of March 2023.
+Chinese imports of cobalt intermediates also recovered in 2022, following 2 years of turbulent market
+conditions. Intermediates are primarily composed of hydroxide from the DRC (with small volumes of
+concentrates) and increasingly MHP from Indonesia. After no growth in 2021, Chinese imports rose 14%
+y/y in 2022, supported by 20% growth in DRC cobalt production.
+However, we still estimate that stocks remain high across the industry and there will be increasingly large
+volumes of cobalt for export from CMOC’s TFM operation now that the dispute with Gécamines has been
+resolved.
+Figure 21: Imports of cobalt hydroxide and concentrate into China compared to DRC
+production, y/y % change
+25% China imports
+20% DRC production
+14%
+15%
+10%
+5%
+-4%
+0%
+-0.1%
+-5%
+2020 2021 2022
+Data: Benchmark Mineral Intelligence.
+28
+May 2023 Cobalt Market Report 2022
+
+In addition to the traditional feedstock of hydroxide, and declining volumes of concentrate, MHP imports
+into China are rising steadily as new HPAL capacity in Indonesia ramps up. Shipments started in July
+2021 (PT Lygend) and increased further through 2022, as Huayue Nickel & Cobalt and PT QMB both
+commissioned new capacities. In Q4 2022, MHP made up close to 20% of cobalt imports into China.
+Figure 22: China cobalt imports by source, tonnes of cobalt
+40,000 MHP (% share)
+16% Concentrates
+19%
+30,000
+11% Hydroxide
+18%
+0% 12% 10%
+20,000 0%
+10,000
+0
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2021 2022
+Data: China Customs data, Benchmark Mineral Intelligence.
+5.7 | RECYCLING REMAINS A SMALL SHARE BUT WILL RISE
+IN IMPORTANCE
+The electrification of transport and energy storage, as part of the wider energy transition, has brought the
+LiB supply chain into the spotlight. Governments around the world are committing to the phasing out of
+ICE vehicles, and widespread adoption of electric vehicles (EVs).
+Demand for the critical materials required for LiBs is skyrocketing and forecast supply is expected to fall short
+of demand. Recycling materials from end of life (EOL) batteries and process scrap, the two distinct sources,
+presents an opportunity to plug this gap – the categories of scrap are explained further in the figure below.
+In addition to the role of recycling in the supply of materials, ESG concerns with the upstream mining
+sector have boosted interest in attaining recycled materials for battery manufacturing. A rush for “green”
+materials has resulted in downstream consumers auditing their suppliers in attempts to secure the most
+sustainable materials.
+Sourcing battery grade chemicals required for cell manufacturing via recycled materials facilitates this and
+reduces the need for mining virgin material, reducing stress on local environments and finite resources.
+29
+May 2023 Cobalt Market Report 2022
+
+Figure 23: Sources of battery scrap
+Cell Production Module Production Pack Assembly
+Electrode Cell Cell
+manufacture assembly finishing
+Portable electronics Stationary Storage Electric Vehicles
+Inevitable production line losses LIBs reach EOL
+1 2
+Process scrap pool EOL scrap pool Hoarded / abandoned
+Landfilled Idle
+Data: Benchmark Mineral Intelligence – Recycling Forecast.
+The total volume of recyclable material in 2022 was approximately 48 GWh – by 2040, this is forecast to
+reach over 2,948 GWh. In the short-term, scrap from the production of cells (process scrap) will account
+for the majority of this recycling feedstock. In 2022, process scrap accounted for 74% of the total scrap
+pool, with only 26% from EOL sources.
+A significant shift in the proportion of scrap from OEL versus process scrap is not expected until at least
+the mid-2030s, when EOL batteries will comprise the majority of the scrap pool.
+Figure 24: 2022 battery scrap pool composition, %
+100%
+80%
+74%
+60%
+40%
+20%
+26%
+0%
+End of life (EOL) scrap pool Process scrap pool
+Data: Benchmark Mineral Intelligence – Recycling Forecast.
+30
+May 2023 Cobalt Market Report 2022
+
+Traditionally, recycling technologies have favoured the recovery of cobalt- and nickel-rich chemistries.
+This is due to the relatively low recovery rates for lithium, given the limitations of dominant technologies
+such as pyrometallurgy, as well as the value of each mineral on a unit basis (cobalt is the highest
+value of the battery metals).
+Scrap volumes still remain relatively low and as such secondary volumes only account for around 5% of
+total cobalt supply, with this share only rising marginally in recent years. In 2022, secondary production
+of cobalt totalled 9.3 kt (relatively even split of process and EOL sources) compared to 178 kt of primary
+production. However, with the total scrap pool expected to increase by 60 times to 2040, the share of
+secondary production has the potential to rise to 41% of total cobalt supply.
+Figure 25: Share of secondary volumes relative to primary production, tonnes of cobalt & %
+250,000 5%
+200,000 4%
+150,000 3%
+100,000 2%
+50,000 1%
+0 0%
+2015 2016 2017 2018 2019 2020 2021 2022
+Primary Process scrap EOL Secondary, % (RHS)
+Data: Benchmark Mineral Intelligence – Recycling Forecast.
+31
+May 2023 Cobalt Market Report 2022
+
+6 | PRICES: A TALE OF TWO HALVES FOR
+COBALT PRICES IN 2022
+6.1 | COBALT HYDROXIDE
+Cobalt hydroxide pricing had a positive start to 2022, rising consistently throughout Q1, following a
+strong second half of 2021. Prices reached their highest mark since May 2018 in April 2022, as limited
+supply and a rising underlying metal price drove up prices.
+Throughout early-2022, logistical issues were a major driver of pricing, particularly in the hydroxide
+market, with high shipping costs and limited container availability symptomatic of the start of the year.
+These factors were compounded by delays at Chinese ports, given COVID-19 precautions, and limited
+trucking capacity in the DRC, leading to significant shipping delays of 2-3 months.
+As a result, hydroxide producers in the DRC fell behind on their long-term obligations, reducing the
+amount of material available to purchase on the spot market. Meanwhile, demand for hydroxide was
+relatively robust given growing battery demand and the post-COVID aerospace sector recovery. As such,
+hydroxide was trading at an average of $76,145/t during April, its highest level in 2022.
+Despite stringent Chinese COVID-19 lockdowns starting in April, prices continued to rise as hydroxide
+supply was further restricted by major flooding at Durban port, impacting operations for most of the
+month. However, as demand declined due to the lockdowns and the port became operational again,
+prices began to retreat.
+From May to late August, prices decrease m/m as limited demand and negative sentiment plagued
+the market. Despite significant EV battery production growth during this period, consumers opted to
+work through existing raw material inventories over purchasing additional hydroxide in the negative price
+environment. Conversely, demand from the consumer electronics industry, historically the largest demand
+sector for cobalt, was severely limited in 2022 as sales dropped off sharply following particularly robust
+demand during the COVID- 19 pandemic.
+Meanwhile, growing volumes of cobalt contained in MHP entered the market as Indonesian HPAL projects
+ramped up production, with Indonesian cobalt supply increasing by over 200% y/y in 2022.
+Notably, exports from CMOC’s TFM operation were blocked from late-July due to a royalties dispute between
+the Chinese mining company and Gécamines. However, despite TFM being the second largest cobalt
+producing mine in the world, the impact on prices was marginal given weak limited demand for hydroxide.
+Prices were briefly supported in late-August as the underlying metal price increased due to perceived
+alloy grade tightness in the US and speculative buying, however hydroxide prices began to retreat soon
+after the tightness subsided in September.
+32
+May 2023 Cobalt Market Report 2022
+
+Prices declined for the rest of the year, decreasing by 17.4% in Q4, accelerating at years end with demand
+decreasing further in preparation for limited EV sales in Q1 2023, given the usual annual Q1 slowdown
+and the end of Chinese government EV subsidies. Furthermore, the spot market was particularly quiet in
+the lead up to the Christmas break and Chinese New Year celebrations.
+Figure 26: Cobalt hydroxide prices in 2022, $/tonne (CIF Asia)
+80,000
+Prices in April close to previous peak in 2018
+60,000
+40,000
+20,000
+0
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Data: Benchmark Mineral Intelligence – Cobalt Price Assessment.
+As discussed elsewhere, although battery sector cobalt demand increased y/y, growth was slowed by
+higher shares of low cobalt and cobalt-free cathode chemistries This contributed to the weaker than
+expected demand and soft pricing conditions for much of 2022.
+From early-year highs in April, hydroxide prices retreated by 64.9% to the end of the year. Large inventories,
+limited consumer electronics demand, and significant supply growth in the DRC and Indonesia were all
+major contributors to the negative pricing. With all these factors expected to continue into 2023, there are
+few signs of a significant shift likely for hydroxide pricing in the near-term.
+Various projects in the DRC are anticipated to ramp up production in 2023, whilst increasing volumes of
+cobalt contained in MHP continue to flow out of Indonesia. Demand from the EV and LCO sectors show
+little-to-no signs of improvement, suggesting 2023 may be another tough year for hydroxide pricing.
+33
+May 2023 Cobalt Market Report 2022
+
+6.2 | COBALT METAL
+Cobalt metal prices experienced significant positivity in early-2022, as logistical issues in Africa limited
+feedstock availability, constraining metal production and increasing refining costs. Improving demand
+from major cobalt-consuming sectors, such as the EV market and aerospace industry, plus the ongoing
+bull run continuing over from 2021, facilitated positive sentiment throughout the market. Prices reached
+their highest mark since the 2018 cobalt price rally during Q1, averaging $38.08/lb ($83,941/t) in March.
+Prices continued to rise on optimistic market fundamentals in April, reaching the 2022 peak with
+transactions recorded as high as $40.20/lb ($88,626/t). However, as prices approached the $40/lb mark,
+the rally lost momentum with Chinese metal producers selling their material into the international market at
+a discount. Moreover, stringent COVID-19 lockdown measures began in April, souring market sentiment
+and reducing Chinese demand significantly.
+Following April, prices retreated consistently month-on-month through to September, despite Chinese
+COVID-19 lockdowns ending in early-June. A significant market surplus and limited cobalt demand from
+the battery industry, facilitated bearish sentiment, driving down prices.
+Although limited purchasing occurred in the negative pricing environment, Chinese metal refiners
+continued to take advantage of the significant price arbitrage between the international and Chinese
+metal price, selling into the international market and creating downwards pressure on prices. During this
+period, metal prices retreated by 34.5% to an average of $24.25/lb ($53,462/t) in August.
+In late-August, metal prices did experience some positivity as industrial action at Glencore’s Nikkelverk
+refinery created the perception of alloy grade metal tightness in the US. This was intensified by the 25%
+import tax which cuts off the US from the Chinese market. As such, prices increased by 6.2% m/m in
+September with trading activity also picking up following the seasonal summer slowdown. Moreover,
+rumours that the Chinese State Reserve Bureau (SRB) were purchasing metal helped to close the arbitrage
+between the international and Chinese metal price.
+However, the price positivity was not to last and as the perceived tightness abated, prices continued their
+downwards trajectory in October. During late-Q3, it became clear cobalt demand from the consumer
+electronics industry, historically the largest cobalt demand sector, was down significantly following strong
+consumer electronic sales during the COVID-19 pandemic. This contributed significantly to the limited
+battery demand and overall bearish sentiment in 2022.
+It is also important to note that throughout most of 2022, cobalt metal demand was relatively robust
+causing the market to be tight in comparison to the chemicals market. Alloy demand was strong from a
+post-COVID-19 aerospace industry recovery and military demand increased as a reaction to the Russia-
+Ukraine War. Despite this, there was a negative price environment for much of 2022 given the weak
+battery demand and oversupply in the large chemical market. Other smaller, energy intensive, cobalt
+consuming sectors struggled with rising energy costs for much of the year, also dampening demand.
+34
+May 2023 Cobalt Market Report 2022
+
+Consequently, cobalt metal price ended the year falling to nineteen-month lows of $20.50/lb ($45,195/t)
+on average in December, with negative sentiment, limited battery demand, and a quiet spot market being
+symptomatic of Q4 2022. Despite a relatively tight metal market, the metal price retreated 49% from 2022
+highs in April to December, with no signs of the bear run easing by year end.
+Figure 27: Average quarterly cobalt metal prices in 2022, $/tonne (EXW Europe)
+81,277
+78,779
+57,724
+50,449
+Q1 Q2 Q3 Q4
+Data: Benchmark Mineral Intelligence – Cobalt Price Assessment.
+Looking ahead to 2023, the market oversupply is anticipated to grow with increasing volumes of cobalt
+hydroxide and MHP flowing into the market. Sizeable inventories are expected to consume much of the
+existing cobalt demand from the battery industry, limiting upwards price movement. However, the metal
+market remains tight, preventing prices from crashing, and both the NCM and LCO markets are expected
+to recover to some extent in 2023, supporting prices later in the year.
+6.3 | COBALT SULPHATE
+Early-2022 marked a period of positive pricing for the cobalt sulphate market, with prices increasing m/m
+throughout Q1. A tight intermediate market, given logistical delays between the DRC and China, drove
+rising feedstock costs, in turn pushing up sulphate prices.
+Prices recorded gains of 23% on average in Q1 despite limited demand from downstream consumers.
+Spot demand from precursor and cathode production was relatively constrained in early-2022 with cus-
+tomers unwilling to purchase sulphate in the high price environment. As such, the price increase was pri-
+marily attributed to rising intermediate (primarily hydroxide, but also MHP) costs. By March 2022, average
+sulphate transactions concluded at the RMB 119,500/t ($18,881) mark, their highest level since the 2018
+cobalt price rally.
+35
+May 2023 Cobalt Market Report 2022
+
+Figure 28: Average quarterly cobalt sulphate prices, $/tonne (EXW China)
+20,000 ++2233%%
+15,000
+10,000
+5,000
+0
+Q4 2021 Q1 2022
+Data: Benchmark Mineral Intelligence – Cobalt Price Assessment.
+However, the bull run was not to last as the market began to turn heading into April 2022. Stringent
+COVID-19 lockdown measures in China significantly reduced demand from downstream consumers.
+As such, sulphate prices consistently fell throughout Q2, with much of the Chinese battery value chain
+shutting down in April and May.
+The lockdowns also reduced Chinese sulphate production by as much as 50% in May, however prices
+continued to retreat highlighting the lack of demand during this period. Notably, during Q2 there was
+an increase in sulphate produced using black mass (from recycling) as a feedstock, creating further
+downward pressure on pricing given the lower cost of recycled material.
+Despite the stringent Chinese COVID-19 lockdowns ending in early-June, reviving the battery market,
+downstream demand for cobalt sulphate did not recover. Prices continued to fall, and sizeable sulphate
+inventories offset the need to procure additional material, with consumers opting to wait for more
+favourable prices over restocking. As such, sulphate transacted at an average of RMB 88,000/t ($13,112)
+in June.
+The downward trend continued for the majority of 2022 as bearish sentiment entrenched itself in the
+sulphate market. From 2022 highs in March, prices collapsed by 62.8% to the end of the year with limited
+demand, large inventories, and a quiet spot market key themes for the second half of the year.
+During late-August and September 2022, sulphate prices did experience some positivity as consumers
+reacted to the rising cobalt metal price during this period. Speculation over the cobalt market reaching a
+pricing floor, due to alloy grade metal tightness, drove purchasing during this time. However, when this
+metal tightness abated, prices resumed their downward trajectory, and continued to retreat for the rest
+of 2022.
+The price decrease accelerated in December when purchasing declined further in anticipation of reduced
+EV sales in Q1 2023, due to seasonal factors, such as the Spring Festival, and the end of Chinese
+government EV subsidies. Consequently, prices reach annual lows at the end of the year with sulphate
+trading at an average price of RMB 52,000/t ($7,488) in December.
+36
+May 2023 Cobalt Market Report 2022
+
+Figure 29: Cobalt metal and sulphate prices in 2022, $/tonne
+Co metal, EXW Europe Co sulphate (100% basis), EXW China, exc. VAT
+100,000
+80,000
+60,000
+40,000
+20,000
+0
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Data: Benchmark Mineral Intelligence – Cobalt Price Assessment.
+Looking ahead to 2023, sulphate prices are anticipated to find some support when battery production
+increases in Q2 and consumers move to restock after months of inventories being run down. However, if
+intermediate costs remain low, sulphate producers will feel less pressure to increase their prices due to
+relatively low production costs.
+6.4 | EVOLVING PRICING STRUCTURES
+The growth of the battery market in recent years has facilitated a shift in cobalt market pricing as tradi-
+tional mechanisms become less relevant to the overall market. The cobalt metal spot price has historically
+been the primary reference price for the cobalt market, with hydroxide transactions using a payable to
+the metal price.
+However, the growth of the battery market has resulted in metal production constituting a smaller share of
+the cobalt market. Given hydroxide is the primary feedstock for cobalt sulphate refining, there has been
+significant growth in the chemicals market over the last decade, whilst the mature metal market’s growth
+has been marginal.
+Consequently, metal production accounts for approximately 18% of the cobalt market currently. Of this,
+only 10-15% is traded on the spot market, revealing that the metal reference price represents a minority
+share of the cobalt market. Moreover, as the EV battery industry continues to expand, whilst demand from
+metal consuming sectors remains relatively flat, this share will decrease further.
+With chemical and metal market fundamentals diverging over the last year, given the relatively tight metal
+market and the intermediate oversupply, the metal price has often failed to represent the overall market
+balance. As such, alternative pricing methods are emerging in the hydroxide market, which avoid refer-
+encing the metal price.
+37
+May 2023 Cobalt Market Report 2022
+
+Recently, hydroxide has been regularly transacted using a fixed dollar price to avoid the use of the metal
+reference. Alternatively, particularly in China, although recently elsewhere as well, hydroxide prices have
+been calculated using a cobalt sulphate formula. This uses the sulphate price minus the assumed refining
+costs for hydroxide to sulphate production.
+In future, we expect that cobalt in MHP from Indonesia will start to influence pricing trends, however
+currently it is not impacting the pricing of DRC hydroxide.
+38
+May 2023 Cobalt Market Report 2022
+
+7 | OUTLOOK: ROBUST MARKET OUTLOOK
+DESPITE SHORT TERM WEAKNESS
+Since the price peak in April 2022, which approached the previous high in 2018, the cobalt market has faced
+rising pressure. From April to December, cobalt metal prices fell 50% and have continued to fall in early 2023 –
+down 60% from April 2022 to the end of March 2023. Following supply deficits in 2020 and 2021, supporting
+prices, the market has now shifted into surplus which is expected to persist until at least the mid-2020s.
+COBALT DEMAND SET TO DOUBLE BY 2030
+Despite weak market conditions persisting since April 2022, medium to long term fundamentals remain
+robust for the cobalt market. To 2030, demand is forecast to rise by 108% over 2022, to close to 388 kt
+(rising at a compound annual growth rate, CAGR, of 10%). This would see the cobalt market more than
+doubling in size relative to 2022.
+The dominant driver of demand is the EV sector which will contribute 89% of growth to 2030, followed by
+energy storage (3%) and super alloys (2%). Once a key driver of cobalt demand, growth in the portable
+electronics market has slowed as the market matures – demand is forecast to rise at just 1% CAGR to
+2030. The share of total demand will change markedly over this period as EVs rise from 40% in 2022 to two
+thirds of the market by 2030. Portables’ market share will fall by half over this period. Battery applications
+combined will account for 84% of cobalt demand in 2030, compared to traditional applications which will
+fall from a share of 28% to 16%.
+Figure 30: Share of total cobalt demand in 2022 and 2030, % 2022 2030
+80%
+60%
+40%
+20%
+0%
+EV Portables Super Alloys ESS Other
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+39
+May 2023 Cobalt Market Report 2022
+
+Despite the rising share of LFP, cobalt-containing cathode chemistries (NCM, NCA and LCO) will remain as
+the preferred technology choice for battery applications – accounting for 59% of total cathode demand in
+2030. NCM chemistries for EV applications will remain the major driver, shifting to higher nickel and lower
+cobalt intensities over time. LFP’s share will rise further relative to 2022, reaching a 39% share in 2030,
+although we do not anticipate a widespread switch away from cobalt-containing chemistries (as discussed
+in Section 4.5).
+DRC TO REMAIN AS THE LARGEST PRODUCER WITH
+INDONESIA A GROWING FORCE
+Global cobalt supply, both primary and secondary, will surpass 200 kt in 2023 and has the potential to more
+than double to 2030. On a weighted basis, base case forecast indicates total cobalt supply will rise to 318
+kt (+122 kt from 2022,+6.2% CAGR).
+Primary production will remain the key driver, however secondary supply from recycling will support a third
+of overall supply growth. The share of secondary supply will rise to 15% by 2030, up from 5% in 2022, as
+recycling capacity expands and larger volumes of battery scrap become available.
+The DRC accounted for 73% of mined cobalt supply in 2022 and will remain the dominant producer,
+although this share will fall to 57% by 2030. Indonesia is the second largest market by some margin and will
+quickly catch up with the DRC as a major driver of growth. From 2022 to 2030, Indonesia has the potential
+to increase cobalt supply by 10 times, compared to the DRC’s output rising by two thirds.
+Despite not producing any MHP prior to 2021, the rapid development and build out of HPAL capacity
+in Indonesia has meant that cobalt in MHP is quickly becoming a key part of the global market. 93% of
+Indonesia’s potential cobalt growth to 2030 will come from MHP, with the remainder from matte.
+Figure 31: Share of potential* mined supply growth from 2022-30, %
+44% DRC
+37% Indonesia
+6% Australia
+13% Rest of World
+Data: Benchmark Mineral Intelligence – Cobalt Forecast.
+Note: * Not weighted by probability of project development.
+40
+May 2023 Cobalt Market Report 2022
+
+PRICES TO REMAIN SUBDUED IN SHORT TERM UNTIL MARKET
+REQUIRES ADDITIONAL SUPPLY IN LATE 2020S
+Supply will outpace demand in the short term, prolonging the market surplus that began in 2022 until at
+least the mid-2020s. After averaging $31/lb (cobalt metal, EXW Europe) in 2022, and peaking above $40/
+lb, we expect prices to average around $18/lb through 2023, at a similar level to prices in late March.
+With the market remaining in a small surplus and weak sentiment persisting, metal prices are expected
+to remain below $20/lb and hydroxide payables around 60-65% due to a surplus of intermediates – both
+hydroxide from the DRC and increasingly MHP from Indonesia. Despite the surplus, metal supply will
+remain relatively tight which will prevent prices seeing further falls.
+In the longer term, we expect the market to shift into a structural deficit from the mid to late 2020s as
+supply growth slows and demand continues to rise rapidly. Demand growth of 10% CAGR is forecast
+to 2030, compared to 6% for supply. With additional supply required to fill the widening forecast deficit,
+cobalt prices will move higher to incentivise investment.
+41
+May 2023 Cobalt Market Report 2022
+
+8 | LIST OF FIGURES
+Figure 1: Mined & refined cobalt supply in 2025, compared to North American demand 07
+Figure 2: European mined & refined cobalt operations & projects expected to be in operation by 2030 08
+Figure 3: Global cobalt LCA analysis – summary of key metrics (2023 basis) 11
+Figure 4: Geopolitical risk matrix for the cobalt market 12
+Figure 5: Demand share of cobalt end use sectors in 2022, % 13
+Figure 6: Cobalt demand growth by sector, tonnes of cobalt 13
+Figure 7: Share of total cobalt demand by sector, % 14
+Figure 8: Global passenger & light duty vehicle EV sales, millions of units 15
+Figure 9: Growth in total EV sales by major region, y/y % 15
+Figure 10: Share of cobalt demand from batteries by chemistry, % 16
+Figure 11: Annual LCO demand, y/y % 17
+Figure 12: Share of cathode demand by chemistry, % 17
+Figure 13: Cathode capacity installations in China by chemistry, GWh 19
+Figure 14: Share of mined cobalt supply in 2022, % 22
+Figure 15: Growth in mined supply by major country in 2022, tonnes of cobalt 23
+Figure 16: CMOC’s reported cobalt metrics 24
+Figure 17: Number of Indonesian Co-Ni projects in Benchmark’s supply database 25
+Figure 18: Share of Indonesia’s cobalt production by intermediate product (MHP and matte) 26
+Figure 19: Growth in refined supply by region in 2022, tonnes of cobalt 26
+Figure 20: Refined capacity by type and region in 2021 and 2022, tonnes of cobalt 27
+Figure 21: Imports of cobalt hydroxide and concentrate into China compared to DRC production, 28
+y/y % change
+Figure 22: China cobalt imports by source, tonnes of cobalt 29
+Figure 23: Sources of battery scrap 30
+Figure 24: 2022 battery scrap pool composition, % 30
+Figure 25: Share of secondary volumes relative to primary production, tonnes of cobalt and % 31
+Figure 26: Cobalt hydroxide prices in 2022, $/tonne (CIF Asia) 33
+Figure 27: Average quarterly cobalt metal prices in 2022, $/tonne (EXW Europe) 35
+Figure 28: Average quarterly cobalt sulphate prices, $/tonne (EXW China) 36
+Figure 29: Cobalt metal and sulphate prices in 2022, $/tonne 37
+Figure 30: Share of total cobalt demand in 2022 and 2030, % 39
+Figure 31: Share of potential* mined supply growth from 2022-30, % 40
+42
+May 2023 Cobalt Market Report 2022
+
+9 | ABBREVIATIONS & DEFINITIONS
+GENERAL
+ASM: artisanal and small-scale mining.
+Cobalt chemical: refined chemicals containing cobalt, in the form of cobalt sulphate for batteries,
+and other specialty products.
+Cobalt metal: refined metal products in the form of briquettes, cathodes, broken cathodes and rounds.
+CAGR: compound annual growth rate, %.
+DRC: Democratic Republic of the Congo.
+EOL: end of life material for recycling.
+HPAL: high pressure acid leaching process for cobalt and nickel refining. kt: kilotonnes, equivalent
+to 1,000 metric tonnes.
+Li-ion or LiB: lithium-ion battery, the current dominant battery technology. MHP: mixed hydroxide
+precipitate containing cobalt and nickel.
+m/m: month on month change.
+OEM: original equipment tmanufacturer, e.g. automotive company.
+RHS: right hand size, typically for a chart axis. y/y: year on year change.
+CATHODE CHEMISTRIES
+LCO: lithium cobalt oxide
+LFP: lithium iron phosphate (no cobalt)
+NCA: lithium nickel cobalt aluminium oxide
+NCM: lithium nickel cobalt manganese oxide. Typically referred to with the ratio of each metal e.g. 622
+contains a 6:2:2 ratio of nickel to cobalt to manganese.
+BEV: BATTERY ELECTRIC VEHICLE
+BEV: battery electric vehicle.
+EV: electric vehicle.
+ICE: internal combustion engine, powered by either petrol of diesel.
+NEV: new energy vehicle is a term typically used in China to describe battery electric (BEV), plug-in hybrid
+(PHEV) and fuel cell (FCEV) electric vehicles.
+43
+May 2023 Cobalt Market Report 2022
+
+Contact us if you have any questions
+Phone: +44 1483 578877
+Email: ci@cobaltinstitute.org
+Web: www.cobaltinstitute.org
+Cobalt Institute @CobaltInstitut
+Harry Fisher
+Project Manager, Consultancy
+hfisher@benchmarkminerals.com
+Caspar Rawles
+Chief Data Officer
+crawles@benchmarkminerals.com
+www.benchmarkminerals.com
+18 Jeffries Passage, Guildford, GU1 4AP UK

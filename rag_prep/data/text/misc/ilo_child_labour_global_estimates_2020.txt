@@ -1,0 +1,3106 @@
+CHILD LABOUR
+GLOBAL ESTIMATES 2020, TRENDS AND THE ROAD FORWARD
+© UNICEF/UNI123128/Khan
+
+Copyright © International Labour Organization and United Nations Children’s Fund 2021
+This is an open access work distributed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/
+by/4.0/). Users can reuse, share, adapt and build upon the original work, as detailed in the License. The International Labour Office (ILO) and the United
+Nations Children’s Fund (UNICEF) must be clearly credited as the owners of the original work. The use of the emblems or logos of the ILO and UNICEF
+is not permitted in connection with users’ work.
+Suggested citation. International Labour Office and United Nations Children’s Fund, Child Labour: Global estimates 2020, trends and the road forward,
+ILO and UNICEF, New York, 2021. License: CC BY 4.0.
+Translations – In case of a translation of this work, the following disclaimer must be added along with the attribution: This translation was not created
+by the International Labour Office (ILO) or the United Nations Children’s Fund (UNICEF) and should not be considered an official ILO or UNICEF
+translation. The ILO and UNICEF are not responsible for the content or accuracy of this translation.
+Adaptations – In case of an adaptation of this work, the following disclaimer must be added along with the attribution: This is an adaptation of an
+original work by the International Labour Office (ILO) and the United Nations Children’s Fund (UNICEF). Responsibility for the views and opinions
+expressed in the adaptation rests solely with the author or authors of the adaptation and are not endorsed by the ILO or UNICEF.
+UNICEF photographs – UNICEF photographs are copyrighted and are not to be reproduced in any medium without obtaining prior written permission.
+Permissions may be granted upon request for one-time use in a context that accurately represents the real situation and identity of all human beings
+depicted. UNICEF photographs are not to be used in any commercial context; content may not be digitally altered to change meaning or context;
+assets may not be archived by any non-UNICEF entity. Requests for permission to reproduce UNICEF photographs should be addressed to UNICEF,
+Division of Communication, 3 United Nations Plaza, New York 10017, USA (email: nyhqdoc.permit@unicef.org).
+ILO ISBN: 978-92-2-034878-9 (print); 978-92-2-034879-6 (web PDF)
+UNICEF ISBN: 978-92-806-5239-0 (print); 978-92-806-5240-6 (web PDF)
+The designations employed in ILO and UNICEF publications, which are in conformity with United Nations practice, and the presentation of material
+therein do not imply the expression of any opinion whatsoever on the part of the ILO or UNICEF concerning the legal status of any country, area or
+territory or of its authorities, or concerning the delimitation of its frontiers.
+The responsibility for opinions expressed in signed articles, studies and other contributions rests solely with their authors, and publication does not
+constitute an endorsement by the ILO or UNICEF of the opinions expressed in them. Reference to names of firms and commercial products and
+processes does not imply their endorsement by the ILO or UNICEF, and any failure to mention a particular firm, commercial product or process is not a
+sign of disapproval.
+United Nations Children’s Fund (UNICEF) International Labour Office
+Data and Analytics Section Fundamental Principles and Rights at Work (FUNDAMENTALS)
+Division of Data, Analytics, Planning and Monitoring Route des Morillons 4, 1211 Geneva, Switzerland
+3 United Nations Plaza, New York, NY 10017, USA Telephone: + 41 (0) 22 799 6862
+Telephone: +1 212 326 7000 Email: childlabour@ilo.org
+Email: data@unicef.org
+Acknowledgements
+This report has been jointly prepared by the ILO and UNICEF. Members of the core team included Federico Blanco (ILO), Claudia Cappa (UNICEF),
+Michaëlle De Cock (ILO), Lorenzo Guarcello (ILO) and Scott Lyon (ILO). The statistical work, including the development of the methodology and
+estimates, was conducted by Roger Gomis (ILO) and Chinmay Sharma (independent consultant) under the supervision of Steven Kapsos (ILO).
+Data preparation and analysis were carried out by David Bescond (ILO), Federico Blanco (ILO), Evangelia Bourmpoula (independent consultant),
+Claudia Cappa (UNICEF), William Cole (independent consultant), Lorenzo Guarcello (ILO), Munkhbadar Jugder (UNICEF), Donika Limani (independent
+consultant), Yves Perardel (ILO), Nicole Petrowski (UNICEF) and Mabelin Villarreal-Fuentes (ILO).
+Many ILO and UNICEF colleagues provided valuable inputs and comments, in particular Christina Behrendt (ILO), Assefa Bequele (ILO, retired),
+Florence Bonnet (ILO), Joanne Bosworth (UNICEF), Caroline Chaigne-Hope (ILO), Sumaira A. Chowdhury (UNICEF), Francesco d’Ovidio (ILO), Monica
+Darer (UNICEF), Kirsten Di Martino (UNICEF), John Dombkins (ILO), Ruth Graham Goulder (UNICEF), Valeria Gruppo (UNICEF), Melanie Jeanroy (ILO),
+Josiah Kaplan (UNICEF), Muhammad Rafiq Khan (UNICEF), Aniruddha Kulkarni (UNICEF), Henrik Moller (ILO), Ian Orton (ILO), Brigid Kennedy Pfister
+(UNICEF), Victor Hugo Ricco (ILO), Dominic Richardson (UNICEF), Eshani Ruwanpura (UNICEF), Ben Smith (ILO), Ramya Subrahmanian (UNICEF),
+Philippe Vanhuynegem (ILO), Wongani Grace Taulo (UNICEF), Cornelius Williams (UNICEF), Thomas Wissing (ILO) and Alexandra Yuster (UNICEF).
+Gratitude goes to colleagues from ILO and UNICEF country offices for sharing relevant material.
+Funding to this report is partly provided to the ILO by the United States Department of Labor under cooperative agreement number
+IL‐30147‐16‐75‐K‐11 (MAP16 project) (GLO/18/29/USA); and by the Government of France under the framework of the Entr’Alliance project
+(GLO/20/60/FRA).
+One hundred per cent of the total costs of the MAP16 project is financed with federal funds, for a total of 22,4 million dollars.
+This material does not necessarily reflect the views or policies of the United States Department of Labor or the Government of France, nor does
+mention of trade names, commercial products, or organizations imply endorsement by the United States Government or the Government of France.
+The production of the report was coordinated by Claudia Cappa (UNICEF). The report was edited by Gretchen Luchsinger, Lois Jensen and Tina
+Johnson (Words for the World), fact-checked by Isabel Jijon and designed by Era Porth (independent consultants).
+
+euqaH/179831INU/FECINU
+© 3
+
+enyoMeL/5272820NU/FECINU
+©
+4
+
+CONTENTS
+Executive summary 6
+Introduction 14
+Current levels and trends 20
+Global and regional overview 21
+Profile of children in child labour 28
+Characteristics of child labour 37
+Child labour and education 47
+Child labour, national income and state fragility 50
+The impact of COVID-19 54
+The road forward 60
+Annex 72
+Statistical tables 74
+Overview of the methodology 79
+Endnotes 83
+5
+
+Executive summary
+ulgoziyeF/063460NU/FECINU
+©
+6
+
+Executive summary
+7
+
+Child Labour: Global estimates 2020, trends and Global progress against child labour has
+the road forward takes stock of where we stand stagnated since 2016. The percentage of children
+in the global effort to end child labour. Published in child labour remained unchanged over the four-
+in the United Nations International Year for the year period while the absolute number of children
+Elimination of Child Labour by the International in child labour increased by over 8 million. Similarly,
+Labour Organization (ILO) and the United Nations the percentage of children in hazardous work was
+Children’s Fund (UNICEF), co-custodians of target almost unchanged but rose in absolute terms by
+8.7 of the Sustainable Development Goals (SDGs), 6.5 million children.
+the report describes the scale and key characteristics
+The global picture masks continued progress
+of child labour today, and changes over time.
+against child labour in Asia and the Pacific,
+In line with child labour estimates produced by and Latin America and the Caribbean. In both
+the ILO every four years since 2000, the 2020 regions, child labour trended downward over the
+calculations are based on the extrapolation of last four years in percentage and absolute terms.
+data from national household surveys. The new Similar progress in sub-Saharan Africa has proven
+estimates use more than 100 household surveys elusive. This region has seen an increase in both the
+number and percentage of children in child labour
+covering two thirds of the world’s population of
+since 2012. There are now more children in child
+children aged 5 to 17 years.
+labour in sub-Saharan Africa than in the rest of the
+What the report tells us is alarming. Global progress world combined. Global child labour goals will not
+against child labour has stalled for the first time be achieved without a breakthrough in this region.
+since we began producing global estimates two
+Continued progress was registered over the last
+decades ago. In addition, without urgent mitigation
+four years among children aged 12 to 14 and
+measures, the COVID-19 crisis is likely to push
+15 to 17. Child labour in both age groups declined
+millions more children into child labour.
+in percentage and absolute terms, continuing
+These results constitute an important reality check a consistent downward trend seen in previous
+in meeting the international commitment to end estimates. Child labour rose among young children
+child labour by 2025. If we do not muster the will aged 5 to 11, however, after the 2016 global
+and resources to act now on an unprecedented estimates signalled slowing progress for this age
+scale, the timeline for ending child labour will group. There were 16.8 million more children aged
+stretch many years into the future. 5 to 11 in child labour in 2020 than in 2016.
+The COVID-19 crisis threatens to further erode
+GLOBAL ESTIMATES
+global progress against child labour unless
+urgent mitigation measures are taken. New
+AND TRENDS
+analysis suggests a further 8.9 million children will
+be in child labour by the end of 2022 as a result of
+Child labour remains a persistent problem in the
+rising poverty driven by the pandemic.
+world today. The latest global estimates indicate
+that 160 million children – 63 million girls and 97 Yet the predicted additional rise in child labour is by
+million boys – were in child labour globally at the no means a foregone conclusion. The actual impact
+beginning of 2020, accounting for almost 1 in 10 of will depend on policy responses. Two additional
+all children worldwide. Seventy-nine million children scenarios demonstrate the huge influence of social
+– nearly half of all those in child labour – were in protection coverage on child labour in the near
+hazardous work that directly endangers their health, term. Where social protection coverage is allowed
+safety and moral development. to slip, a significant further increase in child labour
+8
+
+could occur by the end of 2022. A rise in social • Child labour is frequently associated with
+protection coverage, on the other hand, could more children being out of school. A large share of
+than offset the impact of COVID-19 on child labour, younger children in child labour are excluded
+returning us to progress on the issue. from school despite falling within the age range
+for compulsory education. More than a quarter of
+Other key results from the 2020 global estimates
+children aged 5 to 11 and over a third of children
+include:
+aged 12 to 14 who are in child labour are out of
+• Involvement in child labour is higher for boys school. This severely constrains their prospects
+than girls at all ages. Among all boys, 11.2 per for decent work in youth and adulthood as well
+cent are in child labour compared to 7.8 per cent as their life potential overall. Many more children
+of all girls. In absolute numbers, boys in child in child labour struggle to balance the demands
+labour outnumber girls by 34 million. When the of school and child labour at the same time,
+definition of child labour expands to include which compromises their education and their
+household chores for 21 hours or more each right to leisure.
+week, the gender gap in prevalence among boys
+and girls aged 5 to 14 is reduced by almost half. THE ROAD FORWARD
+• Child labour is much more common in rural
+The 2020 ILO-UNICEF global estimates indicate
+areas. There are 122.7 million rural children in
+a critical juncture in the worldwide effort against
+child labour compared to 37.3 million urban
+child labour. Global progress has ground to a halt
+children. The prevalence of child labour in rural
+over the last four years after having already slowed
+areas (13.9 per cent) is close to three times
+considerably in the four years before that. The
+higher than in urban areas (4.7 per cent).
+ongoing COVID-19 crisis threatens to further erode
+• Most child labour – for boys and girls alike – past gains. While there are nearly 86 million fewer
+continues to occur in agriculture. Seventy per children in child labour now than when we began
+cent of all children in child labour, 112 million measuring global levels in 2000, recent trends
+children in total, are in agriculture. Many are suggest we are falling far behind on the collective
+younger children, underscoring agriculture as an commitment to end child labour in all its forms by
+entry point to child labour. Over three quarters of 2025. In this United Nations International Year for
+all children aged 5 to 11 in child labour work in the Elimination of Child Labour, we must act with
+agriculture. renewed urgency to put progress back on track.
+• The largest share of child labour takes place Immediate steps are needed to avoid falling
+within families. Seventy-two per cent of all further behind during the ongoing COVID-19
+child labour and 83 per cent of child labour crisis. The pandemic has clearly heightened the
+among children aged 5 to 11 occurs within risk of child labour, above all through a sharp rise
+families, primarily on family farms or in family in poverty that may increase families’ reliance on
+microenterprises. Family-based child labour child labour, and through school closures that
+is frequently hazardous despite common deny families the logical alternative to sending
+perceptions of the family as offering a safer work children to work. To reduce these risks, expanded
+environment. More than one in four children income support measures for families in situations of
+aged 5 to 11 and nearly half of children aged vulnerability, through child benefits and other means,
+12 to 14 in family-based child labour are in work will be critical. So too will back-to-school campaigns
+likely to harm their health, safety or morals. and stepped-up remedial learning to get children
+9
+
+back in the classroom and help them make up for Special attention should address the heightened
+lost learning once there, when conditions permit. risk of child labour in growing crises, conflicts
+and disasters. Child labour concerns should
+During the acute and recovery phases of the crisis,
+factor in all phases of humanitarian action –
+it will be important not to lose sight of broader
+from crisis preparedness and contingency
+policy imperatives for ending child labour. These
+plans to humanitarian responses to post-crisis
+have long been clear:
+reconstruction and recovery efforts.
+• Extending social protection for children and their
+Addressing child labour risks in domestic and
+families to mitigate the poverty and economic
+global supply chains continues to be important.
+uncertainty that underpin child labour.
+Especially relevant are the informal micro- and small
+• Ensuring free and good-quality schooling at least enterprises operating at the lower tiers of supply
+up to the minimum age for entering employment chains, where child labour and other human rights
+to provide a viable alternative to child labour and risks are often most pronounced. Governments can
+afford children a chance at a better future. lead through public procurement that discourages
+child labour risks in vendor supply chains.
+• Guaranteeing that every child’s birth is registered
+so that children have a legal identity and can The COVID-19 crisis has made actions across
+enjoy their rights from birth. all these policy areas and contexts even more
+urgent at a time when governments are grappling
+• Promoting decent work that delivers a fair
+with restricted fiscal space. Sound policy
+income for young people (of legal working
+choices and resource allocation decisions will be
+age) and adults, with a particular emphasis on
+critical. Strengthening the country-level evidence
+workers in the informal economy, in order for
+base on child labour can help to identify local
+families to escape poverty-driven child labour.
+priorities and guide policy and spending decisions.
+• Promoting adequate rural livelihoods and Social dialogue among governments, employers’
+resilience, including through supporting organizations and workers’ organizations is also key
+economic diversification, investing in basic to developing appropriate and responsive policies
+services infrastructure, extending social for addressing child labour and related challenges,
+protection and devising agricultural extension wherever they occur.
+policies for crop diversification. Family farms
+Governments will need to adopt creative
+and enterprises that depend on the (mostly
+resource mobilization strategies to expand their
+unpaid) labour of their children need greater
+fiscal space. Given budget shortfalls generated
+support to improve their livelihoods and end that
+by the pandemic, the international community will
+dependence.
+need to fill the financing gap. Many industrialized
+• Ensuring that necessary laws and regulations countries still fall short of long-standing
+are in place to protect children, backed by commitments to official development assistance
+enforcement machinery and child protection (ODA) and financing for sustainable development.
+systems, and the services required to apply This needs to change.
+them.
+Debt relief should be extended and debt re-
+• Addressing gender norms and discrimination structured in already heavily indebted countries
+that increase child labour risks, particularly so that social spending is not crowded out by
+for girls, related to domestic work and unpaid increasing debt service payments. We must
+household chores. avoid the mistakes of the past that saw urgently
+10
+
+needed credit flows made contingent on austerity groups governments, multilateral organizations,
+measures that inflicted the most harm on children workers’ organizations, employers’ organizations,
+and families in greatest need. non-governmental organizations, academic
+institutions and think tanks to find ways of
+The COVID-19 crisis has served as an
+accelerating action on target 8.7. The alliance
+important reminder of the need for international
+focuses on three strategies: conducting research
+cooperation and partnership in overcoming
+and sharing knowledge, driving innovation, and
+global challenges. This is as true for ending
+increasing and leveraging resources.
+child labour as for other critical development
+priorities in the 2030 Agenda for Sustainable
+It is urgent to put action to end child labour
+Development. Eliminating child labour is a
+back on track, in line with global commitments
+task too big for any one party to solve alone.
+and goals. The evidence in this report outlines
+Countries must work together within the spirit of
+the risks and points to the solutions. While
+article 8 of the universally ratified ILO Worst Forms
+ambitious measures and investments are
+of Child Labour Convention (No. 182).
+required, the COVID-19 pandemic has amply
+Alliance 8.7 plays an important role in facili- illustrated that these are possible when the
+tating cooperation on child labour among well-being of humanity is at stake. We have
+governmental and non-governmental actors. made a promise to children to end child labour.
+A global partnership launched in 2016, Alliance 8.7 There is no time to lose.
+11
+
+Child labour at a glance
+Trends Current situation
+Global progress against child labour has stalled since 2016 Worldwide, 160 million children are engaged in Sub-Saharan Africa stands Sub-Saharan Africa
+Percentage and number of children aged 5 to 17 years in child labour and child labour; 79 million of them are performing out as the region with the
+hazardous work hazardous work highest prevalence and 23.9%
+86.6 million
+largest number of children
+Number of children
+Children in
+Child labour aged 5 to 17 years child labour, in child labour
+m 24 ill 5 io .5 n Hazardous work in child labour and 160.0 million Percentage and number of
+222.3 hazardous work
+215.2 children aged 5 to 17 years
+16.0% million million in child labour, by region So C u e t n h t e ra rn l a A n s d ia Sou E th a - s E te a r s n t e a r n n d A sia a N nd o r W th e e s r t n e A rn f r A ic s a ia La C t a a in n r i d A b b m th e e e a r n ica
+m 17 ill 0 io .5 n 14.2% 13.6% m 16 ill 8 io .0 n m 15 ill 1 io .6 n m 16 ill 0 io .0 n ha 7 z 9 C a . h r 0 d i ld o m r u e i s l n l i w o in o n r k, t l N u a o s b o e t t o h d e u e s f r : . o a T T r b h h S s e e o D l s f G u i i g t z e u r e e r n e p o u o f s m r t h t h i b o n e e w g b r . s u o T r b f h e b c e g h l e i r o i e s ld n g i r a s i e o l n p g n r r i o o n o f p u c O o p h r i c i n t ld i e g o a s n n a ia te 6.2% 10 7 .1 . 8 m % illion 6.0% Eu N A r m o o r p e t e h ri e c a r a n n d
+11.1% 128.4 10.6% i F s o o r m th it is te r d e a b s e o c n a , u r s e e g i o o f n l - o s w p e d c a if t ic a n co um ve b ra e g rs e . d o 26. 5 3 . m 5% illion 24.3 million 8.2 million 2.3%
+million 115.3 9.6% 9.6% not add up to the global total. 3.8 million
+million
+8.2% 85.3
+7.3% million 72.5 m 7 i 9 lli . o 0 n
+million
+5.4% Impact of COVID-19
+4.7%
+4.6% Child labour is more prevalent among boys Most children in child
+2000 2004 2008 2012 2016 2020 than girls at every age labour work within
+Without mitigation measures, the number of
+Percentage of children aged 5 to 17 years in child labour, their own family unit 17.3% children in child labour could rise from 160
+by age and sex
+Percentage distribution million in 2020 to 168.9 million by the end of 2022
+of children aged 5 to 17
+Asia and the Pacific and Latin America and the Caribbean years in child labour, by 10.7% Number of children aged 5 to 17 years in child labour,
+World
+have seen steady progress on child labour since 2008; Boys 10.9% status at work projected to the end of 2022
+similar progress has eluded sub-Saharan Africa 5–11
+Girls 8.4%
+years Contributing family workers 72.1%
+Percentage of children aged 5 to 17 years in child labour, by region If austerity measures
+Total 9.7% Employees 206.2 or other factors cause
+Own-account workers million a slippage in social
+25.3% protection coverage
+23.9% Note: Due to rounding, figures in
+22.4% Boys 11.0%
+21.4% percentages do not add up to 100 per cent.
+12–14 Girls 7.5% Due to an increase in
+years 168.9 poverty and in the
+Total 9.3% The agricultural sector million absence of additional
+13.3% mitigation measures
+accounts for the
+10.0% 9.3% Boys 12.2% largest share of child 19.7%
+7.4% labour worldwide
+8.8% 6.0% 15–17 144.9 If social protection
+7.3% years Girls 6.6% Percentage distribution of million coverage is increased
+World 10.3%
+5.6% Total 9.5% children aged 5 to 17 years
+in child labour, by sector of 70.0%
+economic activity
+2008 2012 2016 2020
+Boys 11.2%
+Agriculture
+Sub-Saharan Africa Asia and the Pacific Latin America 5–17
+and the Caribbean years Girls 7.8% Services
+Industry
+Notes: The figure shows regional groupings used for ILO reporting. Comparable historical Total 9.6%
+data prior to 2016 were not available for other regions.
+© UNICEF/UNI274800/Soumaila
+We have made a promise to children to end child labour There is no time to lose
+12
+
+Child labour at a glance
+Trends Current situation
+Global progress against child labour has stalled since 2016 Worldwide, 160 million children are engaged in Sub-Saharan Africa stands Sub-Saharan Africa
+Percentage and number of children aged 5 to 17 years in child labour and child labour; 79 million of them are performing out as the region with the
+hazardous work hazardous work highest prevalence and 23.9%
+86.6 million
+largest number of children
+Number of children
+Children in
+Child labour aged 5 to 17 years child labour, in child labour
+m 24 ill 5 io .5 n Hazardous work in child labour and 160.0 million Percentage and number of
+222.3 hazardous work
+215.2 children aged 5 to 17 years
+16.0% million million in child labour, by region So C u e t n h t e ra rn l a A n s d ia Sou E th a - s E te a r s n t e a r n n d A sia a N nd o r W th e e s r t n e A rn f r A ic s a ia La C t a a in n r i d A b b m th e e e a r n ica
+m 17 ill 0 io .5 n 14.2% 13.6% m 16 ill 8 io .0 n m 15 ill 1 io .6 n m 16 ill 0 io .0 n ha 7 z 9 C a . h r 0 d i ld o m r u e i s l n l i w o in o n r k, l N t u a o s b o e t t o h d e u e s f r : . o a T T r b h h S s e e o D l s f G u i i g t z e u r e e r n e p o u o f s m r t h t h i b o n e e w g b r . s u o T r b f h e b c e g h l e i r o i e s ld n g i r a s i e o l n p g n r r i o o n o f p u c O o p h r i c i n t ld i e g o a s n n a ia te 6.2% 10 7 .1 . 8 m % illion 6.0% Eu N A r m o o r p e t e h ri e c a r a n n d
+11.1% 128.4 10.6% i F s o o r m th it is te r d e a b s e o c n a , u r s e e g i o o f n l - o s w p e d c a if t ic a n co um ve b ra e g rs e . d o 26. 5 3 . m 5% illion 24.3 million 8.2 million 2.3%
+million 115.3 9.6% 9.6% not add up to the global total. 3.8 million
+million
+8.2% 85.3
+7.3% million 72.5 m 7 i 9 lli . o 0 n
+million
+5.4% Impact of COVID-19
+4.7%
+4.6% Child labour is more prevalent among boys Most children in child
+2000 2004 2008 2012 2016 2020 than girls at every age labour work within
+Without mitigation measures, the number of
+Percentage of children aged 5 to 17 years in child labour, their own family unit 17.3% children in child labour could rise from 160
+by age and sex
+Percentage distribution million in 2020 to 168.9 million by the end of 2022
+of children aged 5 to 17
+Asia and the Pacific and Latin America and the Caribbean years in child labour, by 10.7% Number of children aged 5 to 17 years in child labour,
+World
+have seen steady progress on child labour since 2008; Boys 10.9% status at work projected to the end of 2022
+similar progress has eluded sub-Saharan Africa 5–11
+Girls 8.4%
+years Contributing family workers 72.1%
+Percentage of children aged 5 to 17 years in child labour, by region If austerity measures
+Total 9.7% Employees 206.2 or other factors cause
+Own-account workers million a slippage in social
+25.3% protection coverage
+23.9% Note: Due to rounding, figures in
+22.4% Boys 11.0%
+21.4% percentages do not add up to 100 per cent.
+12–14 Girls 7.5% Due to an increase in
+years 168.9 poverty and in the
+Total 9.3% The agricultural sector million absence of additional
+13.3% mitigation measures
+accounts for the
+10.0% 9.3% Boys 12.2% largest share of child 19.7%
+7.4% labour worldwide
+8.8% 6.0% 15–17 144.9 If social protection
+7.3% years Girls 6.6% Percentage distribution of million coverage is increased
+World 10.3%
+5.6% Total 9.5% children aged 5 to 17 years
+in child labour, by sector of 70.0%
+economic activity
+2008 2012 2016 2020
+Boys 11.2%
+Agriculture
+Sub-Saharan Africa Asia and the Pacific Latin America 5–17
+and the Caribbean years Girls 7.8% Services
+Industry
+Notes: The figure shows regional groupings used for ILO reporting. Comparable historical Total 9.6%
+data prior to 2016 were not available for other regions.
+© UNICEF/UNI274800/Soumaila
+We have made a promise to children to end child labour There is no time to lose
+13
+
+enyoMeL/8090930NU/FECINU
+©
+Introduction
+14
+
+15
+
+Every day, Archie wakes at 5 a.m., gets dressed, obligations, both moral and legal, to end child labour.
+has breakfast and walks to work. There he squeezes Issued during the United Nations International Year
+himself into a narrow gap to dig blindly for gold in a for the Elimination of Child Labour, the report takes
+deep underground pit, often underwater, breathing stock of the global drive to end child labour and the
+through a hose connected to a diesel-powered impact of the COVID-19 crisis. What it reveals is
+compressor. After 10 or 12 hours of labour, he alarming. Global progress against child labour has
+returns home, has some dinner and goes to sleep. stalled for the first time since 2000. Further, without
+Archie is 11. Some of his young friends who work at urgent mitigation measures, the current crisis will
+the pit haul sacks of sand and gravel weighing more likely push millions more children into child labour.
+than they do, all day long.
+These results are an important reality check in
+Rafael, 12, sleeps in a shack in the woods. He does assessing prospects for ending child labour by
+not have much to eat, mainly rice and black beans. 2025, in line with target 8.7 of the SDGs. If we do
+He drinks from the water pit that he shares with the not muster the will and resources to act now on an
+bulls on the farm where he has been working for
+unprecedented scale, the timeline for ending child
+five years, helping to pay off his father’s debt.
+labour will stretch many years into the future.
+Taisha, 16, cooks breakfast, cleans the house and
+Jointly published for the first time by the ILO and
+cares for her grandmothers, which takes up most of
+UNICEF as co-custodians of target 8.7, the report
+her day. With her school closed during the COVID-19
+details the scale and characteristics of child labour
+pandemic, her household chores have increased.
+in the world today, and tracks its evolution over
+She tries to watch educational programmes on
+time. Like estimates produced every four years
+television but does not have enough time to keep
+since 2000, the 2020 calculations are based on
+up. As the only member of her family ever to go to
+the extrapolation of data from national household
+school, she gets very little support.
+surveys. The new estimates use data from more
+than 100 household surveys covering two thirds of
+Around the world, 160 million children like Archie,
+the world’s population of children aged 5 to 17.
+Rafael and Taisha toil in child labour today. At an
+age when they should be nurtured and supported
+The remainder of the report is structured as follows.
+through education, adequate health and social
+The next section provides an overview of the 2020
+protection, and enough play and leisure time, they
+global and regional estimates, and trends since
+have to work instead. The reasons vary: poverty,
+2000. The third section profiles child labour today,
+few options for education, little energy after work
+considering the age, sex and residence of children
+to study or no role models. The consequences,
+in child labour, the characteristics of the work they
+however, are sadly consistent. With tired bodies
+perform, and how child labour interferes with their
+and weary minds, their chances to learn and thrive
+education. The fourth section assesses the likely
+are diminished along with their prospects for a
+impact of the COVID-19 crisis on child labour
+bright future.
+through the end of 2022. The report concludes
+This report presents numbers that tell the story of with a discussion of key policy priorities to return
+what children in child labour experience. It offers to a path of progress as we navigate the COVID-19
+evidence crucial to making decisions to fulfil crisis and rebuild in its aftermath.
+If we do not muster the will and resources to act now on an unprecedented
+scale, the timeline for ending child labour will stretch many years into the future.
+16
+
+SDG TARGET 8.7: Take immediate The international community has
+and effective measures to eradicate recognized the importance of ending
+forced labour, end modern slavery child labour as part of achieving SDG 8
+and human trafficking and secure on decent work and economic growth.
+the prohibition and elimination of Under this goal, target 8.7 is to end
+the worst forms of child labour, child labour in all its forms by 2025.
+including recruitment and use of Ending child labour will also contribute
+child soldiers, and by 2025 end to progress on many other SDGs,
+child labour in all its forms. especially on education and health.
+adenomaR/87795INU/FECINU
+©
+CHILD LABOUR IN THE GLOBAL
+DEVELOPMENT AGENDA
+17
+
+Three main international human and labour rights that is not classified as among the worst forms of
+standards – the Convention on the Rights of child labour, particularly as hazardous work, for
+the Child, the ILO Minimum Age for Admission children above the general minimum working age. A
+to Employment Convention (No. 138) and the broader statistical definition of child labour includes
+universally ratified ILO Worst Forms of Child Labour hazardous unpaid household services, commonly
+Convention (No. 182) – set legal boundaries for referred to as hazardous household chores.
+child labour and provide grounds for national and
+Employment encompasses any form of market
+international actions to end it. In 2008, the 18th
+production and certain types of non-market
+International Conference of Labour Statisticians
+production (principally that of goods such as
+approved a resolution on child labour statistics
+agricultural produce for own use). Employment
+that translates these legal standards into statistical
+includes work in both the formal and informal
+terms for measurement purposes.1 The statistical
+economy, inside and outside family settings, for pay
+concepts and definitions underpinning the 2020
+or profit (cash or in-kind, part-time or full-time) and
+estimates are consistent with this resolution.
+domestic work outside the child’s own household
+for an employer (paid or unpaid).
+Child labour comprises work that children are too
+young to perform and/or work that, by its nature or The concept of permitted light work stems from
+circumstances, is likely to harm children’s health, article 7 of ILO Convention No. 138, which states
+safety or morals. In more technical terms, child that national laws or regulations may permit the
+labour encompasses work performed by children employment or work of persons from 13 years of
+in any type of employment, with two important age (or 12 years in countries that have specified
+exceptions: permitted light work for children within the general minimum working age as 14 years)
+the age range specified for light work; and work in light work that is not likely to harm their health
+iznemoR/540473INU/FECINU
+©
+Statistical concepts and definitions
+18
+
+or development. It should also not limit school vibrations damaging to their health; and work
+attendance, participation in vocational orientation under particularly difficult conditions, such as for
+or training programmes, or the capacity to benefit long hours or during the night, or that does not
+from instruction. For statistical measurement, light allow returning home each day. For statistical
+work in this report includes employment and non- measurement, in this report, hazardous work
+hazardous work for less than 14 hours a week includes that in designated hazardous industries
+performed by children aged 12 to 14. and/or hazardous occupations and/or that entails
+43 hours or more per week.
+The worst forms of child labour comprise
+categories set out in article 3 of ILO Convention No. Hazardous work by children is often treated as a
+182. These entail all forms of slavery or practices proxy category for the worst forms of child labour
+similar to slavery, such as the sale and trafficking for two reasons. First, reliable national data on the
+of children, debt bondage and serfdom, and worst forms of child labour other than hazardous
+forced or compulsory labour, including forced or work, such as children in bonded and forced
+compulsory recruitment of children for use in armed labour or in commercial sexual exploitation, are still
+conflict; the use, procuring or offering of a child for difficult to find. Second, children in hazardous work
+prostitution, for the production of pornography or account for the overwhelming majority of those in
+for pornographic performances; the use, procuring the worst forms of child labour.
+or offering of a child for illicit activities, in particular
+Unpaid household services, or household chores,
+for the production and trafficking of drugs as
+refer to services children provide without pay for
+defined in the relevant international treaties; and
+their own households. These include caring for
+work that, by its nature or circumstances, is likely
+household members, cleaning and minor household
+to harm the health, safety or morals of children.
+repairs, cooking and serving meals, washing and
+Hazardous work refers to work that, by its nature ironing clothes and transporting or accompanying
+or circumstances, is likely to harm children’s health, family members to and from work and school. In
+safety or morals. When a country ratifies ILO more technical terms, these tasks constitute a ‘non-
+Convention No. 138 and ILO Convention No. 182, economic’ form of production and are excluded
+they commit to determining their own hazardous from consideration in the United Nations System
+work list. While the list is decided by individual of National Accounts, the internationally agreed
+countries after consultation with organizations of guidelines for measuring national economic activity.
+employers and workers, the ILO Worst Forms of
+Hazardous unpaid household services involve
+Child Labour Recommendation, 1999 (No. 190),
+long hours, an unhealthy environment, unsafe
+supplementing ILO Convention No. 182, urges
+equipment or heavy loads and/or dangerous
+consideration of work that exposes children
+locations. For statistical measurement, where
+to physical, emotional or sexual abuse; work
+household chores are included in the calculation
+underground, underwater, at dangerous heights
+of child labour in this report, hazardous household
+or in confined spaces with dangerous machinery,
+chores refer to those performed by children below
+equipment and tools, or that involves the manual
+the general minimum working age for 21 hours or
+handling or transport of heavy loads; work in an
+more per week.2 This broader definition is only used
+unhealthy environment that may, for example,
+in discussing differences in child labour by sex.
+expose children to hazardous substances, agents
+or processes or to temperatures, noise levels or
+19
+
+adenomaR/84716INU/FECINU
+©
+Current levels and trends
+20
+
+GLOBAL AND REGIONAL
+OVERVIEW
+Current levels and trends
+Child labour remains unacceptably common in the world today.
+At the start of 2020, prior to the outbreak of the COVID-19
+pandemic, 160 million children – 63 million girls and 97 million
+boys – were in child labour, or 1 in 10 children worldwide.
+Seventy-nine million children – nearly half of all those in child
+labour – were in hazardous work directly endangering their
+health, safety and moral development.
+This global estimate masks large variations across regions. Child
+labour prevalence stands at 24 per cent in sub-Saharan Africa,
+three times that of Northern Africa and Western Asia, the region
+with the second highest prevalence. In absolute terms, the nearly
+87 million children in child labour in sub-Saharan Africa are more
+than in the rest of the world combined.
+Recent history provides cause for concern. In the last four years,
+for the first time since 2000, the world did not make progress
+in reducing child labour. The absolute number of children in
+child labour increased by over 8 million to 160 million while
+the proportion of children in child labour remained unchanged.
+Children in hazardous work mirrored these patterns: The share
+remained almost unchanged but the number rose by 6.5 million
+to 79 million.
+The pace of progress has varied dramatically across regions. The
+proportion and number of children in child labour have declined
+consistently since 20083 in Asia and the Pacific and Latin America
+and the Caribbean. Similar progress has proved elusive in sub-
+Saharan Africa, where child labour has actually gone up since
+2012, a trend especially pronounced over the last four years
+when the region accounted for much of the global increase.
+At present, the world is not on track to eliminate child labour
+by 2025. In order to meet this target, global progress would
+need to be almost 18 times faster than the rate observed over
+the past two decades. According to pre-COVID-19 projections
+based on the pace of change from 2008 to 2016, close to 140
+million children will be in child labour in 2025 without accelerated
+action. The COVID-19 crisis is making these scenarios even more
+worrisome, with many more children at risk of being pushed into
+child labour.
+21
+
+Worldwide, 160 million children are engaged in child labour; 79 million of them are
+performing hazardous work
+Fig 1. Number of children aged 5 to 17 years in child labour and hazardous work
+Children in child labour,
+160.0 million
+Children in hazardous work,
+79.0 million
+Sub-Saharan Africa stands out as the region with the highest prevalence and largest
+number of children in child labour
+Fig 2. Percentage and number of children aged 5 to 17 years in child labour, by region
+Sub-Saharan Africa
+23.9%
+86.6 million
+Northern Africa
+Eastern and
+Central and and Western Asia
+South-Eastern Asia Latin America and
+Southern Asia
+the Caribbean
+7.8% Europe and
+10.1 million 6.0% Northern America
+6.2%
+5.5% 8.2 million
+24.3 million
+26.3 million 2.3%
+3.8 million
+Notes: The size of the bubbles is proportionate to the absolute number of children in child labour. The figure shows regional groupings used for SDG reporting. The region of
+Oceania is omitted because of low data coverage. For this reason, region-specific numbers do not add up to the global total.
+22
+
+245.5 million
+222.3 million
+215.2 million
+16.0%
+14.2%
+168.0 million
+13.6% 160.0 million
+170.5 million 151.6 million
+11.1%
+10.6%
+128.4 million
+115.3 million 9.6% 9.6%
+8.2%
+85.3 million
+7.3% 79.0 million
+72.5 million
+5.4%
+4.7%
+4.6%
+2000 2004 2008 2012 2016 2020
+natuorF/319211INU/FECINU
+©
+Global progress against child labour has stalled since 2016
+Fig 3. Percentage and number of children aged 5 to 17 years in child labour and hazardous work
+Child labour
+Hazardous work
+23
+
+Asia and the Pacific and Latin America and the Caribbean have seen steady progress
+on child labour since 2008; similar progress has eluded sub-Saharan Africa
+Fig 4. Percentage of children aged 5 to 17 years in child labour, by region
+25.3%
+23.9%
+22.4% Sub-Saharan Africa
+21.4%
+13.3%
+9.3%
+10.0% 7.4%
+8.8% 6.0%
+7.3% Latin America and the Caribbean
+Asia and the Pacific
+5.6%
+2008 2012 2016 2020
+Notes: The figure shows regional groupings used for ILO reporting. Comparable historical data prior to 2016 were not available for other regions.
+The number of children in child labour has increased in sub-Saharan Africa, while it has
+declined in other parts of the world
+Fig 5. Number of children aged 5 to 17 years in child labour, by region
+113.6 million
+86.6 million
+Sub-Saharan Africa
+77.7 million
+70.0 million
+65.1 million
+59.0 million
+62.1 million
+48.7 million
+Asia and the Pacific
+14.1 million 12.5 million Latin America and the Caribbean
+10.5 million
+8.2 million
+2008 2012 2016 2020
+Notes: The figure shows regional groupings used for ILO reporting. Comparable historical data prior to 2016 were not available for other regions.
+24
+
+Without accelerated action, close to 140 million children will be in child labour in 2025
+and 125 million in 2030
+Fig 6. Projected number of children aged 5 to 17 years in child labour if progress from the 2008–2016 period continues
+16.5 million
+8.2 million
+10.8 million
+48.7 million
+6.6 million
+6.8 million Other regions
+33.4 million 5.3 million Latin America and the Caribbean
+22.7 million Asia and the Pacific
+88.9 million 90.0 million Sub-Saharan Africa
+86.6 million
+2020 2025 2030
+Notes: The projections build on trends in the percentage of children aged 5 to 17 years in child labour between 2008 and 2016, which is the period with the fastest reduction
+in child labour over the last two decades. They take into consideration demographic trends and show expected values if this progress were to continue. These estimates do
+not take into account the possible impact of COVID-19. The figure shows regional groupings used for ILO reporting. Required rates could not be calculated for other regions
+due to the lack of historical data.
+Meeting the SDG target to eliminate child labour will require substantial acceleration
+Fig 7. Average annual rate of reduction in the percentage of children aged 5 to 17 years in child labour, observed and required for elimination
+Observed:
+2.6%
+2000–2020
+4.4%
+World 2008–2016
+45.2%
+22.6% Required for elimination by:
+2025
+2030
+4.0%
+Latin America and the
+35.8%
+Caribbean
+17.9%
+7.3%
+Asia and the Pacific 34.5%
+17.2%
+1.5%
+Sub-Saharan Africa 63.5%
+31.7%
+Notes: The observed average annual rates of reduction quantify the rate of progress in the prevalence of child labour over each period. A higher rate indicates faster progress.
+Required rates are calculated to illustrate rates necessary to end child labour by 2025 and 2030. These estimates do not take into account the possible impact of COVID-19.
+This figure shows regional groupings used for ILO reporting. Required rates could not be calculated for other regions due to the lack of historical data.
+25
+
+What drives progress in reducing child labour? 2 per cent annually for all but one of the last five
+Some insights come from looking at how regional years, but given rapid population growth, the
+child labour patterns correlate with broader gross domestic product (GDP) per capita actually
+demographic, economic and development trends. declined and continues to be low relative to other
+regions of the world.5 Rates of inequality remain
+Poverty reduction. Sub-Saharan Africa has
+at persistently high levels in many sub-Saharan
+succeeded in reducing poverty in recent years
+African countries.6
+but levels remain high relative to other regions.
+More than 40 per cent of the population in sub- Levels of informality. Regions making faster
+Saharan Africa still lives in extreme poverty.4 progress in reducing child labour have had
+The region saw steady economic growth of over greater success in reducing informal economic
+inarooN/459681INU/FECINU
+©
+Explaining regional trends
+26
+
+activity although levels remain high. Many African labour by 6 million from 2008 to 2020 occurred
+countries are improving the conditions of informal as the population aged 5 to 17 fell by 4.8 million.
+workers7 but the region still lags behind in Asia and the Pacific over the same period saw the
+transitioning to formality. Eighty-six per cent of number of children in child labour decline by 64.9
+African jobs are in the informal economy, more million as the population aged 5 to 17 increased by
+than any other region.8 Some of the worst labour 12.8 million. In sub-Saharan Africa, by contrast, the
+practices are clustered in the informal economy. child labour population grew by 21.5 million from
+Informality is associated with lower and less 2008 to 2020, while the total population aged 5 to
+regular incomes, inadequate and unsafe working 17 rose by 104.8 million.14 Considering population
+conditions, extreme job precarity and exclusion growth casts child labour in sub-Saharan Africa in
+from social security schemes, among other factors. a very different light. The region has kept millions
+All of these can spur families to turn to child labour of children out of child labour over the last 12
+in the face of financial distress. years even if it has not managed to keep pace with
+population growth.
+Social protection. Despite progress in extending
+social protection, coverage still falls short in all Other challenges. Multiple points of crisis con-
+regions in terms of universality and the adequacy tribute to high levels of child labour in sub-Saharan
+of benefits. A number of African countries have Africa. The region has the majority of fragile and
+made notable efforts,9 with spending on social conflict-affected countries; at least one quarter
+safety nets as a share of income equal to the world of all countries were fragile or in conflict in every
+average.10 The region as a whole, however, still has year from 2015 to 2020.15 Further, the region is
+much lower coverage than other regions. Only 17 home to 39 per cent of the world’s refugees,
+per cent of the population in Africa is covered by at asylum seekers, returnees, stateless persons and
+least one social protection benefit, compared to 66 internally displaced persons, a higher share than
+per cent in the Americas, 43 per cent in Asia and any other region.16 The Arab States region is also
+the Pacific and 83 per cent in Europe and Central particularly affected by crises linked to conflict and
+Asia.11 Social protection in many cases determines state fragility.
+whether or not families resort to child labour.
+The global HIV/AIDS pandemic also continues
+Education exclusion. There has been a significant to exact a disproportionate toll on sub-Saharan
+net decline in children out of primary school in Africa, which has the largest number of people
+recent years in all regions. Yet the gap in education living with HIV and accounts for 59 per cent of
+exclusion rates between sub-Saharan Africa and new infections.17 In addition, the region’s limited
+other regions remains large.12 Although public resilience to climate change puts livelihoods at risk
+spending on education in sub-Saharan Africa as a and undercuts prospects for moving out of poverty.
+share of GDP has trended upwards in recent years, Climate-related natural disasters, including floods
+it remains well below the world average.13 and droughts that cause large-scale crop and
+livestock losses, occur with increasing regularity.
+Population growth. Population growth patterns
+influence child labour trends with stark differences
+among regions. In Latin America and the
+Caribbean, a drop in the number of children in child
+27
+
+PROFILE OF CHILDREN boys. The gender gap grows with age, and boys are
+roughly twice as likely as girls to be in child labour
+IN CHILD LABOUR in the 15 to 17 age range.
+Comparisons of child labour estimates for boys and
+Child labour across ages
+girls must be accompanied by an important caveat.
+The results of the global estimates make clear that
+The definition of child labour upon which the
+child labour remains an important concern across
+estimates are based does not include involvement in
+the spectrum of children aged 5 to 17. Of the 160
+household chores in children’s own homes, an area
+million children in child labour, 89.3 million are young
+of work for which girls shoulder a disproportionate
+children aged 5 to 11, 35.6 million are children aged
+burden of the responsibility in most societies.
+12 to 14, and 35 million are children aged 15 to 17.
+The 2020 global estimates look for the first time
+Child labour among children aged 12 to 14 and 15 to
+at how the inclusion of household chores affects
+17 continued to fall in both absolute and percentage
+overall child labour estimates as well as estimates
+terms over the last four years. By contrast, the
+of male child labour relative to female child labour.
+2016-2020 period saw a worrying rise in child
+The results are noteworthy. When the definition of
+labour among young children aged 5 to 11. In 2016,
+child labour is expanded to include involvement in
+there were signs of slowing progress among young
+household chores for 21 hours or more per week,
+children. Today the trend line is moving in the wrong
+child labour prevalence increases for both sexes,
+direction. The reason for backtracking is not clear
+but the rise in female child labour is much larger. As
+and needs to be investigated as a priority.
+a result, the gender gap in child labour prevalence
+Hazardous work accounted for about two fifths is reduced by almost half, from 2.8 percentage
+of the total number of additional children aged 5 points to 1.6 percentage points.
+to 11 in child labour during the four-year period.
+Child labour in rural and urban settings
+While children of all ages must be protected from
+Estimates of child labour by rural or urban
+hazardous work, its persistence and now growth
+residence, available for the first time in the 2020
+among younger children is a particular concern.
+global estimates, indicate that child labour is much
+Boys and girls in child labour more common in rural areas. The prevalence of
+Involvement in child labour is more common for child labour there is about three times higher than
+boys than girls at all ages. For children aged 5 to 17, in urban areas. Child labour in rural economies
+child labour prevalence is nearly one third higher for primarily takes place in agriculture.
+utaS/4402930NU/FECINU
+©
+28
+
+The proportion of children in child labour is similar across age groups
+Fig 8. Percentage of children aged 5 to 17 years in child labour, by age
+9.7%
+9.3% 9.5%
+5–11 years 12–14 years 15–17 years
+Sub-Saharan Africa has the highest share of young children in child labour, while Latin
+America and the Caribbean has the largest share of older children
+Fig 9. Percentage distribution of children aged 5 to 17 years in child labour, by age and region
+5–11 years 12–14 years 15–17 years
+16.4%
+35.0 million 21.9% 22.3%
+29.9% 26.0% 28.5%
+38.5%
+23.6%
+35.6 million 22.2% 23.8%
+19.8%
+19.4% 20.0%
+23.6%
+60.0%
+89.3 million 55.8% 54.0% 50.7% 54.2% 51.5%
+37.9%
+World Sub-Saharan Northern Africa Central and Eastern and Latin America Europe and
+Africa and Western Asia Southern Asia South-Eastern Asia and the Caribbean Northern America
+Notes: Due to rounding, figures in percentages do not add up to 100 per cent and age-specific numbers do not add up to the global total. The figure shows regional groupings
+used for SDG reporting. The region of Oceania is omitted because of low data coverage. Caution is warranted when interpreting data for Europe and Northern America due
+to the small number of children in child labour.
+29
+
+Since 2008, child labour has declined steadily among children aged 12 and older; the
+last four years saw a worrying increase among younger children
+Fig 10. Percentage of children aged 5 to 17 years in child labour, by age
+17.0%
+16.9%
+13.1%
+11.7%
+13.0%
+9.7% 5–11 years
+10.7% 10.5% 9.5% 15–17 years
+9.3%
+12–14 years
+8.5% 8.3%
+2008 2012 2016 2020
+regreB/336772INU/FECINU
+© 30
+
+Child labour is more prevalent among boys than girls at every age
+Fig 11. Percentage of children aged 5 to 17 years in child labour, by age and sex
+12.2%
+11.2%
+10.9% 11.0%
+8.4%
+7.8%
+7.5%
+6.6%
+Boys Girls Boys Girls Boys Girls Boys Girls
+5–11 years 12–14 years 15–17 years 5–17 years
+Boys account for the largest share of children in child labour across all regions
+Fig 12. Percentage distribution of children aged 5 to 17 in child labour, by sex and region
+Boys
+Girls
+62.9 million 39.3% 34.9% 32.5% 34.7% 33.0% 37.7%
+43.9%
+97.0 million 60.7% 65.1% 67.5% 65.3% 67.0% 62.3%
+56.1%
+World Sub-Saharan Northern Africa Central and Eastern and Latin America Europe and
+Africa and Western Asia Southern Asia South-Eastern Asia and the Caribbean Northern America
+Notes: Due to rounding, sex-specific numbers do not add up to the global total. The figure shows regional groupings used for SDG reporting. The region of Oceania is omitted
+because of low data coverage. Caution is warranted when interpreting data for Europe and Northern America due to the small number of children in child labour.
+31
+
+Child labour has declined faster among girls than boys
+Fig 13. Percentage of boys and girls aged 5 to 17 years in child labour, by sex
+23.4%
+21.3% 21.4%
+22.5%
+18.1%
+19.9%
+16.9%
+15.2%
+10.7% 11.2%
+Boys
+Girls
+8.4%
+7.8%
+2000 2004 2008 2012 2016 2020
+ramnA/481020NU/FECINU
+©
+32
+
+When household chores are taken into account, the gender gap in child
+labour prevalence narrows
+Fig 14. Percentage of children aged 5 to 14 years in child labour (including and excluding household chores performed for 21
+hours or more per week), by sex
+Boys
+12.5% Girls
+10.9% 10.9%
+8.1%
+Child labour excluding household chores Child labour including household chores
+Notes: Household chores refer to services children provide without pay for their own households. These include caring for household members,
+cleaning and minor household repairs, cooking and serving meals, washing and ironing clothes, and transporting or accompanying family members to
+and from work and school. For statistical measurement, where household chores are included in the calculation of child labour, hazardous household
+chores refer to those performed by children below the general minimum working age for 21 hours or more per week.
+ihzawkuM/149230NU/FECINU
+©
+33
+
+semloH/75177INU/FECINU
+©
+34
+
+The prevalence of child labour in rural areas is close to three times higher than in
+urban areas
+Fig 15. Percentage of children aged 5 to 17 years in child labour, by residence and sex
+Urban
+Rural
+16.1%
+13.9%
+11.6%
+5.7%
+4.7%
+3.6%
+Total Boys Girls
+Child labour is more common in rural than in urban areas in almost all regions
+Fig 16. Percentage distribution of children aged 5 to 17 years in child labour, by residence and region
+Urban
+Rural
+17.9%
+37.3 million 23.3% 24.8% 24.8%
+30.8%
+48.7%
+52.7%
+82.1%
+122.7 million 76.7% 75.2% 75.2%
+69.2%
+51.3%
+47.3%
+World Sub-Saharan Northern Africa Central and Eastern and Latin America Europe and
+Africa and Western Asia Southern Asia South-Eastern Asia and the Caribbean Northern America
+Notes: The figure shows regional groupings used for SDG reporting. The region of Oceania is omitted because of low data coverage. Caution is warranted when interpreting
+data for Europe and Northern America due to the small number of children in child labour.
+35
+
+yksvoduR-namdeirF/997611INU/FECINU
+©
+36
+
+CHARACTERISTICS OF and commercial farming, common hazards include
+exposure to inorganic fertilizers, pesticides and other
+CHILD LABOUR dangerous agrochemicals; physically strenuous
+tasks such as carrying heavy loads; long periods of
+Most child labour – for boys and girls alike – occurs standing, stooping and bending, and repetitive and
+in agriculture. This is especially the case among forceful movements in awkward body positions;
+younger children, for whom agriculture often serves exposure to extreme temperatures; use of dangerous
+as an entry point. Child labour takes place in family cutting tools such as machetes and scythes; and
+subsistence and smallholder farming, commercial use of and exposure to farm vehicles and heavy farm
+machinery.18 In capture fisheries, children can face
+plantations and other forms of commercial farming,
+prolonged periods at sea, away from their families,
+agro-industrial complexes, capture fisheries,
+in situations of extreme vulnerability stemming from
+aquaculture, post-harvest activities, fish processing,
+their isolation on the fishing vessel, the tasks they
+and forestry.
+must perform, and the dangers of inclement weather
+Services and industry account for smaller but still and extreme temperatures, among others.19
+substantial shares of children in child labour. In
+Artisanal and small-scale mining can force children
+services, child labour includes domestic work and
+to work in deep underground shafts, haul heavy
+work in commerce, transport and motor vehicle
+loads of rock and use toxic chemicals to separate
+repair. Child labour in industry comprises work in
+minerals or precious metals from ore.20 The isolated
+construction, mining and manufacturing. While
+nature of domestic work renders children particularly
+agriculture has roughly equal shares of boys and
+vulnerable to physical, verbal and sexual abuse.
+girls in child labour, a greater degree of gender
+Street vending hazards can include night work,
+specialization occurs in services and industry. Girls
+exposure to traffic and motor vehicle exhaust fumes
+in child labour are much more likely to be in services,
+and, in extreme cases, the risk of being drawn into
+including domestic work, and boys are more prone to
+illicit activities.
+be in industry.
+These are just a few examples of countless hazards
+The sectoral composition of child labour differs
+that children in child labour may confront, all of which
+considerably across regions, although agriculture
+must be urgently addressed in line with the universally
+accounts for the largest share everywhere. In sub-
+ratified ILO Convention No. 182.
+Saharan Africa, agriculture plays the most important
+role, accounting for over four of every five children The largest share of child labour takes place within
+in child labour. Shares in services and industry are the family, where hazardous work accounts for
+a substantial portion, counter to the common
+higher in other regions, but only two, Latin America
+perception of the family as a safer working
+and the Caribbean and Europe and Northern
+environment. In sub-Saharan Africa, 82 per cent of
+America, have combined shares of these two sectors
+all child labour occurs within the family. The relative
+exceeding that of agriculture. Not coincidently, these
+importance of family work has grown in the last four
+two regions have the highest shares of children aged
+years, reflecting the growth in the shares of young
+15 to 17 in the overall child labour population.
+children and African children in the overall child
+Child labour is frequently hazardous wherever it takes population. Both groups are especially likely to
+place, with many variations. In family smallholder engage in family work.
+37
+
+The agricultural sector accounts for the largest share of child labour worldwide
+Fig 17. Percentage distribution of children aged 5 to 17 years in child labour, by sector of economic activity, age and sex
+4.5% 4.6% 3.0% 5.7% 6.9% 2.9% Domestic work
+Other services
+15.2% 12.8% 13.7% 13.8% Industry
+17.3%
+22.8% Agriculture
+6.0% 7.5%
+10.3% 5.5% 13.4%
+24.0%
+76.6% 75.8% 70.3% 69.9%
+70.0%
+47.6%
+5–17 years 5–11years 12–14 years 15–17 years Girls Boys
+Total Age Sex
+Note: Due to rounding, figures in percentages do not add up to 100 per cent.
+The sectoral composition of child labour varies considerably across regions
+Fig 18. Percentage distribution of children aged 5 to 17 years in child labour, by sector of economic activity and region
+Services
+13.2% Industry
+31.4 million 19.7% 23.4% Agriculture
+27.4% 27.3%
+5.3% 34.4%
+39.1%
+16.5 million 10.3%
+11.1% 17.9%
+16.1%
+17.0%
+16.8%
+81.5%
+112.1 million 70.0%
+61.5% 58.7% 56.5%
+48.7%
+44.1%
+World Sub-Saharan Northern Africa Central and Eastern and Latin America Europe and
+Africa and Western Asia Southern Asia South-Eastern Asia and the Caribbean Northern America
+Notes: Due to rounding, figures in percentages do not add up to 100 per cent. The figure shows regional groupings used for SDG reporting. The region of Oceania is omitted
+because of low data coverage. Caution is warranted when interpreting data for Europe and Northern America due to the small number of children in child labour.
+38
+
+izzoriP/74618INU/FECINU
+© 39
+
+elirG/695481INU/FECINU
+©
+Worldwide, 7.1 million children are engaged in forms of domestic work that constitute
+child labour
+Fig 19. Number of children aged 5 to 17 years in child labour in domestic work, by age and sex
+1.2
+million 0.8
+million
+5-11 years
+Girls Boys
+12-14 years
+4.4 million 2.8 million
+1.6 15-17 years
+2.5
+million
+million 0.4
+million
+0.6
+million
+Note: Due to rounding, age-specific numbers for girls do not add up to the total.
+40
+
+Hazardous work constitutes a sizeable share of child labour among children aged 5 to
+14 across all three sectors
+Fig 20. Number and percentage distribution of children aged 5 to 14 years in child labour, by hazardous work status and sector of economic activity
+Agriculture Industry Services
+32.9%
+31.4 million 38.2% Hazardous
+45.2% 8.2 million work
+3.7 million
+54.8% 61.8% Other child
+67.1% 4.4 million 13.3 million labour
+64.0 million
+nilessA/913801INU/FECINU
+©
+41
+
+lezaF/5471040NU/FECINU
+©
+The sectoral composition of child labour changed only marginally between 2016
+and 2020
+Fig 21. Percentage distribution of children aged 5 to 17 years in child labour, by sector of economic activity
+Agriculture
+Industry
+2016 70.9% 11.9% 17.2% Services
+2020 70.0% 10.3% 19.7%
+42
+
+Most children in child labour work within their own family unit
+Fig 22. Percentage distribution of children aged 5 to 17 years in child labour, by status at work, age and sex
+Own-account
+10.7% 8.2% 12.6% 15.0% 10.5% 10.8% workers
+Employees
+9.2%
+12.4% Contributing
+17.3% 12.9% 20.4% family workers
+42.3%
+82.6%
+72.1% 74.5% 77.1%
+68.8%
+42.8%
+5–17 years 5–11 years 12–14 years 15–17 years Girls Boys
+Total Age Sex
+Note: Due to rounding, figures in percentages do not add up to 100 per cent.
+Family work predominates across all regions
+Fig 23. Percentage distribution of children aged 5 to 17 years in child labour, by status at work and region
+17.0 million 10.7% 10.2% 9.7% 9.4% 8.0% 6.5% w O o w r n k - e a r c s count
+15.0%
+Employees
+7.3%
+Contributing
+27.6 million 17.3%
+family workers
+26.9% 29.5% 36.4%
+24.4%
+42.1%
+82.4%
+115.3 million 72.1%
+63.5% 60.6% 61.1%
+57.1%
+49.9%
+World Sub-Saharan Northern Africa Central and Eastern and Latin America Europe and
+Africa and Western Asia Southern Asia South-Eastern Asia and the Caribbean Northern America
+Notes: Due to rounding, figures in percentages do not add up to 100 per cent and numbers do not add up to the global total. The figure shows regional groupings used for
+SDG reporting. The region of Oceania is omitted because of low data coverage. Caution is warranted when interpreting data for Europe and Northern America due to the small
+number of children in child labour.
+43
+
+A significant share of child labour within the family is hazardous
+Fig 24. Percentage distribution of children aged 5 to 14 years in hazardous work and other forms of child labour, by status at work and age
+Other forms
+of child labour
+25.9%
+Hazardous
+work
+52.8% 50.5%
+63.7%
+71.4%
+76.4%
+74.1%
+47.2% 49.5%
+36.3%
+28.6%
+23.6%
+Contributing Employees Own-account Contributing Employees Own-account
+family workers workers family workers workers
+5–11years 12–14years
+hcuorC/56088INU/FECINU
+©
+44
+
+Family work has grown in relative importance over the last four years
+Fig 25. Percentage distribution of children aged 5 to 17 years in child labour, by status at work
+4.7%
+10.7%
+17.3% Contributing
+31.9% family workers
+Employees
+2016 2020
+Own-account
+63.4% workers
+72.1%
+Note: Due to rounding, figures in percentages do not add up to 100 per cent.
+45
+
+anamoR/174841INU/FECINU
+©
+46
+
+CHILD LABOUR AND EDUCATION
+More than one third of all children in child labour are excluded from
+school. Hazardous child labour constitutes an even greater barrier to
+school attendance.
+Especially worrying is the large share of younger children in child labour
+who are excluded from school despite falling within the age range for
+compulsory education. Nearly 28 per cent of 5 to 11 year olds and
+35 per cent of 12 to 14 year olds in child labour are out of school.
+This severely constrains their prospects for decent work in youth
+and adulthood as well as their life potential overall. Boys and urban
+children in child labour are slightly more likely to be out of school, but
+differences by sex and residence are not large.
+There is rarely a single reason for why children are in child labour
+instead of attending school. In many cases, the work demands so
+much time and energy that it becomes impossible for children to
+enter, persist and succeed in schooling. In other instances, children
+work because they lack access to quality, free schools providing a
+worthwhile alternative. Decisions concerning children’s education can
+be influenced by family perceptions of its importance and the potential
+returns in the labour market.
+For every child in child labour who has reached a compulsory age
+for education but is excluded from school, another two struggle to
+balance the demands of school and work. They face compromises
+in education as a result and should not be forgotten in the discussion
+of child labour and education. Children who must combine child
+labour with schooling generally lag behind non-working peers in grade
+progression and learning achievement, and are more likely to drop out
+prematurely.
+47
+
+Over one third of children in child labour are out of school
+Fig 26. Percentage of children aged 5 to 17 years in child labour not attending school, by age, sex and residence
+53.2%
+35.0% 35.2% 36.3% 34.8% 35.5%
+32.8%
+27.7%
+5-17 years 5-11 years 12-14 years 15-17 years Boys Girls Rural Urban
+Total Age Sex Residence
+Children engaged in hazardous work are even less likely to attend school
+Fig 27. Percentage of children aged 5 to 17 years in hazardous work not attending school, by age, sex and residence
+53.2%
+45.5%
+43.6% 43.6% 43.7%
+40.2% 40.3%
+33.0%
+5-17 years 5-11 years 12-14 years 15-17 years Boys Girls Rural Urban
+Total Age Sex Residence
+48
+
+Across all regions, significant shares of children in child labour are out of school
+Fig 28. Percentage of children aged 5 to 14 years in child labour not attending school, by region
+Notes: The figure shows regional groupings used for SDG reporting. The region of Oceania is omitted because of low data coverage. The region of Europe and Northern
+America is omitted because of the low levels of children in child labour and out of school.
+inarooN/630632INU/FECINU
+©
+Eastern and South-Eastern Asia
+37.2%
+Central and Southern Asia
+35.3%
+Northern Africa and Western Asia
+28.1%
+Sub-Saharan Africa
+28.1%
+Latin America and the Caribbean
+15.5%
+49
+
+CHILD LABOUR,
+NATIONAL INCOME
+AND STATE FRAGILITY
+The percentage of children in child labour is
+highest in low-income countries. This is not
+surprising given a strong two-way link between
+child labour and national income. High levels
+of child labour hinder current income growth
+by reducing unskilled wages and discouraging
+skill-intensive technologies. They also dampen
+future growth by interfering with children’s
+education and physical development, leading
+to a less productive adult workforce. Rising
+national incomes improve the ability of families
+to make adequate livelihoods and cope with
+shocks without resorting to child labour.21
+Child labour is by no means strictly a low-
+income country problem, however. Three
+of every five children in child labour live in
+middle-income countries. For greater national
+wealth to translate into reduced child labour,
+economic growth must be inclusive and its
+benefits equitably distributed. The tax revenues
+it generates must be invested in programmes
+and services that make a difference for children,
+above all in education and social protection.
+That large pockets of child labour persist even
+in relatively rich countries points to important
+remaining policy challenges.
+Countries with high levels of institutional and
+social fragility22 tend to have more child labour,
+triple the global average. While this simple
+correlation should not be overinterpreted, it
+underscores the importance of stability, policies
+for social inclusion and equity, and robust
+public institutions to prevent child labour.
+enymrauQ/533891INU/FECINU
+©
+50
+
+Not surprisingly, child labour is most prevalent in low-income countries
+Fig 29. Percentage of children aged 5 to 17 years in child labour, by national income group
+26.2%
+9.0%
+4.9%
+0.9%
+Low income Lower-middle income Upper-middle income High income
+Notes: Low-income countries had a gross national income (GNI) per capita in 2020 of $1,045 or less, lower-middle-income countries of between $1,046 and $4,125, upper-
+middle-income countries of between $4,126 and $12,735, and high-income countries of $12,736 or more. Calculations used the World Bank Atlas method.
+Yet more than half of all child labour occurs in middle-income countries
+Fig 30. Number and percentage distribution of children aged 5 to 17 years in child labour, by national income group
+Low income Lower-middle income
+65.0 million, 40.7% 69.7 million, 43.6%
+High income
+1.6 million, 1.0%
+Upper-middle income
+23.7 million, 14.8%
+Notes: Low-income countries had a GNI per capita in 2020 of $1,045 or less, lower-middle-income countries of between $1,046 and $4,125, upper-middle-income countries
+of between $4,126 and $12,735, and high-income countries of $12,736 or more. Calculations used the World Bank Atlas method. Due to rounding, figures in percentages do
+not add up to 100 per cent.
+51
+
+Child labour in situations of fragility is three times higher than the world average
+Fig 31. Percentage of children aged 5 to 17 years in child labour, worldwide and in countries with high levels of institutional and social fragility
+ulgoziyeF/953460NU/FECINU
+©
+30.9%
+9.6%
+Fragile countries World
+Notes: According to the Revised Classification of Fragility and Conflict Situations for World Bank Group Engagement, fragile countries are defined as those with one or more of
+the following: (a) the weakest institutional and policy environment (as measured using a set of 16 criteria grouped into four clusters: economic management, structural policies,
+policies for social inclusion and equity, and public sector management and institutions); or (b) the presence of a UN peacekeeping operation, since this reflects a decision by
+the international community that a significant investment is needed to maintain peace and stability there; or (c) flight across borders of 2,000 or more per 100,000 population,
+who are internationally regarded as refugees in need of international protection, as this signals a major political or security crisis. Countries satisfying these criteria and also
+engaged in medium- or high-intensity conflicts are not considered, since such countries have gone beyond fragility.
+52
+
+Child labour declines as the level of human development increases
+Fig 32. Percentage of children aged 5 to 17 years in child labour, by the Human Development Index
+24.8%
+7.5%
+5.6%
+2.9%
+Low Medium High Very high
+Notes: Countries are grouped into four categories according to the 2019 Human Development Index, which links measures of education, health and income. The ranges are:
+very high (0.800 or greater), high (0.700–0.799), medium (0.550–0.699) and low (less than 0.550).
+53
+
+najuS/3714640NU/FECINU
+©
+The impact
+of COVID-19
+54
+
+The intersection of the COVID-19 pandemic with child
+labour globally offers substantial cause for concern. In
+2020, the pandemic increased the number of children in
+income-poor households by an estimated 142 million,
+adding to the 582 million children already in poverty
+in 2019.23 Their families have suffered job and income
+losses, seen cuts in remittances and experienced a
+host of other shocks.
+In such circumstances, a large body of evidence affirms
+that families may turn to child labour as a coping
+mechanism.24 School closures during lockdowns
+add to the risks, especially for children in vulnerable
+situations, as they are even more likely to work when
+going to school is not a viable option. When children
+leave school and enter paid employment, it can be very
+difficult for them to resume their education.25
+Growing anecdotal evidence sheds light on how the
+COVID-19 crisis is affecting children. Human Rights
+Watch, for example, collected testimonies from 81
+children in Ghana, Nepal and Uganda who have been
+newly pushed into child labour or endure more difficult
+work circumstances. Some indicated that their families
+no longer had sufficient food and they were working
+to get enough to eat. Children said that their work was
+frequently long and arduous – one third in each country
+had to work for at least 10 hours a day, and some
+described working for as many as 16 hours. Those
+already working before the crisis struck said they were
+working more since the closure of schools.26
+Other accounts are emerging around the world. An
+International Cocoa Initiative assessment of 263
+communities in Côte d’Ivoire found a significant
+increase in child labour in cocoa businesses from July
+to September 2020 compared to the same period 12
+months earlier.27 Data from Ecuador indicated a more
+than one-third rise in child labour prevalence since the
+pandemic began.28 In Egypt, children are reportedly
+being sent to work in cotton cultivation and other
+agricultural work.29 In São Paulo, Brazil, child labour
+increased by 26 per cent between May and July 2020
+in households assisted by UNICEF.30
+55
+
+Several reports have emphasized school closures The model predicts 8.9 million more children in child
+as driving child labour. In a survey of eight West labour by the end of 2022. Young children aged 5
+African countries, children consistently reported to 11 account for over half (4.9 million) of the total
+working because there was no school. They said predicted additional children in child labour. This
+that their presence at home raised the expectation escalation reflects only the poverty effects of the
+that they should work to help their families, which crisis; the calculation likely understates the total
+made distance learning difficult even when it was impact of COVID-19 on child labour, such as through
+available.31 In Burkina Faso, reports of more children unprecedented disruptions to children’s education.
+working alongside their parents in granite mining have
+indicated that this is in part because their parents did Yet the increase in child labour is by no means a
+not want to leave them at home unsupervised during foregone conclusion. In addition to the ‘baseline’
+school closures.32 scenario reported above, in which social protection
+remains constant, two additional scenarios were
+The impact of the pandemic on child labour, considered. Both demonstrate the substantial
+however, does not always fit common assumptions. influence of social protection coverage on child
+Preliminary analysis of the limited number of labour. In the first ‘downside’ scenario, social
+countries with survey data from before and after protection coverage slips from the current level in each
+the pandemic suggests that the most common national income group by an amount proportional to
+immediate effect has been a decline in children’s the standard deviation of current coverage levels
+involvement in economic activity.33 The large-scale in each group (Table 1). In the second ‘mitigated’
+destruction of jobs arising from the lockdowns scenario, the opposite occurs. Globally, the goal for
+and from the fall-off in demand in some economic social protection is much more ambitious, calling for
+sectors appears, at least in these countries, to have nationally appropriate social protection systems and
+affected jobs performed by children. These results, measures, including social protection floors, for all.
+however, refer to children’s economic activity, which
+is a broader concept than child labour as it includes The results are dramatic. Extending social protection
+permitted forms of children’s work. The results also by the amounts specified in Table 1 would reduce
+relate primarily to older children, aged 15 to 17, in the number of children in child labour by 15.1 million
+middle-income countries. by the end of 2022, more than offsetting the impact
+of COVID-19 and accelerating progress towards
+A modelling exercise provides further insights into ending child labour altogether. If austerity measures
+the likely near-term impact of COVID-19 on child or other factors cause a slippage in coverage, again
+labour. Based on a simple model that uses the by the amounts specified in Table 1, the outlook will
+latest poverty projections to predict changes in worsen. A predicted 46.2 million additional children
+child labour up to 2022,34 it suggests that the net would enter child labour through the end of 2022. In
+effect of the pandemic during this period is likely to both scenarios, the biggest changes occur among
+be a substantial additional rise in child labour. Any the youngest children in child labour. The potential
+immediate decline due to disruptions in the broader for expanding social protection for children, through
+labour market is likely to be significantly outweighed universal child benefits and other means, is further
+by a poverty-driven rise in child labour over a slightly explored in the final chapter of this report.
+longer time horizon.
+56
+
+Table 1
+Adjustments in social protection coverage in the mitigated and downside scenarios
+Adjusted coverage levels,
+Average social percentage
+protection Standard Percentage
+coverage level, deviation, Mitigated Downside point change in
+Income group percentage percentage scenario scenario coverage
+Low income 11.0 6.7 11.7 10.3 +/- 0.7
+Lower-middle income 29.8 22.0 36.4 23.2 +/- 6.6
+Upper-middle income 49.0 22.7 60.1 37.9 +/- 11.1
+High income 78.1 25.4 97.9 58.3 +/- 19.8
+Without mitigation measures, 8.9 million more children will likely be engaged in child
+labour by the end of 2022
+Fig 33. Number of children aged 5 to 17 years in child labour, observed and projected
+206.2 million
+If austerity measures
+or other factors cause
+a slippage in social
+protection coverage
+(downside scenario)
+168.9 million
+Due to an increase in
+poverty and in the
+168.0 million
+absence of additional
+160.0 million mitigation measures
+151.6 million 144.9 million
+If social protection
+coverage is
+increased
+(mitigated scenario)
+2012 2016 2020 2022
+57
+
+The journey to universal ratification of the ILO
+Worst Forms of Child Labour Convention
+For once, we can be celebratory. In August 2020, the and practical relevance in a world with varying levels of
+Worst Forms of Child Labour Convention (No. 182) development and cultures. It was explicit in its goal and
+became the first ILO convention ratified by all member held the moral high ground in calling for the eventual
+states. This historic first means that all children now abolition of child labour. It was a model par excellence
+have legal protection against the worst forms of child in its realism and conception as an international legal
+labour. Importantly, this may also mark the beginning of instrument. It gave a central recognition to differences
+the end of child labour as we know it. in economic conditions and the reality of resource
+constraints and to the determination of varying minimum
+The challenge ages for employment to guide national policy. One
+The ILO’s work on child labour for the first 60 years or so seldom finds an international convention with such an
+focused on the adoption of conventions on the minimum elegant intellectual architecture, simple in its stated
+age for admission to employment in specific industries objective but quite varied and rich in its articulation of
+or occupations, culminating in the Minimum Age for obligations and guidelines for action. Yet this richness
+Admission to Employment Convention (No. 138) in 1973. was also one of the major reasons for its low and
+But the record of ratification and implementation through slow ratification. Even where there was political will,
+national laws and practices remained disappointing. policymakers were overwhelmed by the enormity of the
+Even the much acclaimed and comprehensive ILO problem, the magnitude of the task and the challenge of
+Convention No. 138 was, by the 1990s, ratified by only where to begin.
+49 countries, mostly industrialized, with a few from
+The worst forms of child labour: A strategic
+Africa and Latin America. None were from Asia where
+breakthrough
+half the world’s child workers were found. It was clear
+While progress in ratifying ILO Convention No. 138
+by the mid-1990s that the ILO had reached a cul-de-sac
+stalled, by the mid-1990s, the worldwide movement
+of sorts.
+against child labour had gained considerable strength
+ILO Convention No. 138 was a marvellous intellectual and momentum. There was new recognition that the
+construct – long on vision and robust in its conception problem was vast and morally reprehensible, and that
+anoB/897770NU/FECINU
+©
+58
+
+it was bad not only for children and families but also What followed has been an even greater surprise – the
+for society at large. All sides appreciated the need for universal ratification of the Convention. It is a journey and
+action and the challenges it posed. Advocates of total a milestone that should be celebrated, for ratification is
+abolition were growing sympathetic to the concerns far more than a symbolic act. When a country ratifies ILO
+of the less developed countries and their constrained Convention No. 182, it commits to taking immediate and
+capacity for action. For their part, developing countries effective measures to prohibit and eliminate the worst
+were becoming more concerned about growing forms of child labour. Ratification is thus a powerful
+international pressure, especially as child labour came
+stimulus to action.
+to be an increasingly important consideration in trade
+negotiations and a prominent item on the human What of the future?
+rights agenda. There was thus a need to find common Universal ratification of ILO Convention No. 182 is one
+ground for global action. The question was, what and important step in the global effort against child labour.
+how? Perhaps more specifically, where to begin? The Yet it is only one step. We must also defend and promote
+converging view and conclusion were simple, now so ILO Convention No. 138 to achieve universal ratification
+obvious but at the time quite radical: first things first. of this foundational instrument on child labour. And we
+This led to a proposal for a convention that espoused must continue the hard work of implementing these
+priority national and global actions on the worst forms conventions, everywhere, all together.
+of child labour.
+The challenge of child labour continues, in old forms and
+A major concern among many advocates was the
+new. There are still many pockets of exploitation and
+possibly negative impact of the proposed convention on
+abuse that remain hidden, such as child domestic work
+the overall objective to abolish child labour in general
+and child trafficking. There are also emerging problems of
+and ratify ILO Convention No. 138 in particular. Although
+sexual abuse and exploitation associated with the reach
+there was considerable apprehension, there was finally
+of the Internet and other new technologies. Children will
+an overwhelming consensus that a new convention on
+remain vulnerable for one reason or another. It is our
+the worst forms of child labour would not only reinforce
+duty to stay vigilant and establish mechanisms to detect,
+and accelerate the campaign against child labour but
+monitor and take effective action for their protection.
+also give impetus to the ratification of ILO Convention No.
+138, the most important and foundational international Poverty remains a persistent and ever-present danger,
+instrument on the subject. to borrow from the language and spirit of the ILO 1944
+Declaration of Philadelphia concerning the aims and
+The discussions and debates surrounding the draft
+purposes of the International Labour Organisation.35 We
+proposal were on the whole smooth. There were no
+have to think big and have the courage to envision a
+fundamental changes. The ILO had been considering
+world free from child poverty, one that provides social
+use of the terms ‘extreme’ or ‘intolerable’ forms of
+protection for all from cradle to grave. Only then will
+child labour but the International Labour Conference
+children truly be protected from the scourge of child
+Committee decided to call the new instrument, in
+labour.
+retrospect wisely, the Worst Forms of Child Labour
+Convention. The result was a well-conceived, logically
+structured and clearly written draft. Assefa Bequele
+Assefa Bequele was the representative of the ILO Director-
+Even so, no one dreamed of what would happen later. The
+General on the International Labour Conference Committee
+Convention was adopted unanimously, without a single
+that finalized the Worst Forms of Child Labour Convention.
+abstention, a first in the ILO’s history. The thunderous
+applause and spontaneous explosion of joy that saw
+committee members hugging on the conference floor
+were probably unique in the history of the organization.
+59
+
+The road forward
+inarooN/404532INU/FECINU
+©
+60
+
+We are at a critical juncture in the worldwide drive to The pandemic has made such actions more urgent
+stop child labour. Global progress has ground to a even as governments are grappling with growing
+halt over the last four years after slowing considerably budgetary pressure. Much depends on making
+in the four years before that. COVID-19 threatens sound policy choices and resource allocation
+to further erode past gains. While nearly 86 million decisions. Strengthening national evidence on
+fewer children are in child labour now than when child labour can help to identify local priorities and
+we began measuring the phenomenon globally in guide policy and spending choices. Social dialogue
+2000, recent trends affirm we have fallen far behind among governments and employers’ and workers’
+on our collective commitment to ending all forms organizations is essential to shape responsive
+by 2025. In 2021, the United Nations International policies to address child labour and related
+Year for the Elimination of Child Labour, we must challenges wherever they occur.
+urgently put progress back on track.
+While governments can and should adopt resource
+A first imperative is to prevent further regression mobilization strategies to expand their fiscal space,38
+amid the COVID-19 crisis. The pandemic has clearly the profound impact of the pandemic further
+heightened the threat of child labour.36 This stems increases the urgency of international support
+from a sharp rise in poverty and school closures to help fill the financing gap. Many industrialized
+that have denied families logical alternatives. To countries still fall short on their long-standing
+reduce these risks, expanded income support commitment to ODA and to financing sustainable
+measures for families in situations of vulnerability, development.39 This needs to change. Debt relief
+through child benefits and other means, will be should be extended and debt restructured in heavily
+critical. So are back-to-school campaigns and indebted countries so that increasing debt service
+stepped up remedial learning that bring children payments do not crowd out social spending.40 We
+back to classrooms and help them make up for lost must avoid the mistakes of the past, where urgently
+learning, as conditions permit. needed credit flows hinged on austerity measures
+that cut essential services and inflicted enduring
+An evidence-based policy roadmap
+harm on children and families in greatest need.
+As the world seeks to respond to and build forward
+from the COVID-19 crisis, we should not lose sight
+Make social protection universal
+of broader policy measures to end child labour.37
+Most children who work do so because their families
+Extending social protection can mitigate the poverty
+depend on their wages, production or domestic
+and economic uncertainty that underlie child labour,
+work (including unpaid, often by girls) to make ends
+while investing in free, good-quality schooling can
+meet. Household economic shocks and the loss of
+provide a viable alternative and open doors to a
+a parent or caregiver can increase the chance that
+better future. Every birth should be registered so
+a child will go to work.41 Even before the COVID-19
+that children have a legal identity and can enjoy their
+pandemic, nearly one in three children in low- and
+rights from birth. Expanding decent work would
+middle-income countries lived in families below
+deliver a fair income for all adult workers and their
+national poverty lines. The pandemic exacerbated
+families, including those in the informal economy
+child poverty, with the number of children in
+where vulnerability to child labour is greatest. A
+income-poor households increasing by over 142
+cross-section of policies should recognize the
+million in 2020.42
+equal worth of girls and boys and tackle harmful
+gender norms. And necessary laws and regulations Adequate social protection mitigates the socio-
+must be in place to protect children, backed by economic vulnerability underpinning child labour43
+enforcement and child protection systems to apply and offsets poverty, gender inequality and
+them. Information and communication technology deprivation in childhood.44 Yet even before the
+can be leveraged in efforts across all these areas. pandemic, nearly three quarters of children, 1.47
+61
+
+billion, lacked social protection.45 Despite the microenterprises, particularly small family farms, on
+unprecedented social protection response to the child labour.
+COVID-19 crisis,46 most measures are temporary
+An effective social protection floor for children
+and insufficiently sensitive to children and gender.47
+involves a combination of social insurance and tax-
+Few, if any, address the heightened risks of child
+financed benefits.52 Elements of comprehensive
+labour among children forced to move or affected
+systems that benefit children include unemploy-
+by disabilities, among other vulnerable groups.
+ment protection, old-age pensions, maternity/
+Universal child benefits offer one critical component parental leave benefits, sick leave and disability
+of the solution. Defined as cash (or tax) transfers benefits. All stem the chances that families will
+provided on a regular basis to all families with resort to negative coping mechanisms, including
+children, these benefits are a simple and proven child labour, in the face of shocks.
+means of cushioning children and their families from
+Financing remains a major concern, with funding
+poverty and improving access to education and
+gaps in social protection widening by about 30
+health care. They can incentivize birth registration,
+per cent since the onset of COVID-19.53 Despite
+making children and their physical whereabouts
+unprecedented fiscal stimulus measures, only 2
+more visible to state institutions,48 and can con-
+per cent of these supported children and families.54
+tribute to integrated social and child protection
+Additional investment in social protection can
+systems. As children grow, benefit payments can
+come from multiple sources, including progressive
+be linked with care services and provide further
+taxation and reallocations of existing spending,
+incentives for families to stay in contact with state
+such as away from harmful fossil fuel subsidies.
+institutions and services. This allows for better
+The ILO and UNICEF, as well as the Global Coalition
+planning and resource allocation for these services,
+for Social Protection Floors, have developed ideas,
+including child protection systems. Quasi-universal
+strategies and tools for developing sustainable
+child benefits, designed to exclude only the
+financing.
+wealthiest families, are another option.
+Safeguard and advance children’s
+The potential for cash transfers to limit child
+education
+labour is straightforward and well documented.49
+COVID-19 has dealt an enormous setback to
+Regular cash transfers improve school attendance
+education. At their peak, pandemic-related school
+and discourage child labour by providing income
+closures affected over 90 per cent of the world’s
+security. They free families from reliance on
+students.55 Substitute remote learning failed to
+children’s earnings or production, enabling them to
+reach 463 million learners.56
+send their children to school instead. Cash transfers
+also help offset out-of-pocket schooling costs that This education emergency could spiral into a child
+can be an important barrier to school attendance. labour emergency. Since schools provide crucial
+services, such as school meals,57 interruptions
+Cash benefits are not a panacea. While they help
+can intensify household food insecurity and
+reduce child labour, there is a risk that families will
+financial stress, which increase the risk of child
+invest transfers in microenterprises and actually
+labour. Once children are out of school and enter
+stimulate demand for child labour.50 Preventing
+paid employment, it can be very difficult to get
+such outcomes requires integrating child labour
+them back.58
+and gender considerations into the design and
+implementation of benefit schemes along with other As schools reopen, back-to-school campaigns and
+dimensions of marginality.51 Also important are outreach will be vital in making sure children are
+measures to address the dependency of household able to return, particularly those already working
+62
+
+and those without access to remote learning. 258 million children and youth were out of school
+Outreach will require close collaboration between worldwide.62 Many were in child labour or at risk of
+schools and social service workforces. it. This group must not be forgotten.
+The reopening of schools is an opportunity to There are some well-known solutions for getting
+reimagine education that is higher quality and and keeping children in school.63 These include
+helps young people develop skills for work and a aligning the minimum working age and the end
+productive life.59 Low-quality education otherwise of compulsory schooling, and establishing early
+propels dropouts and early entry into paid work. childhood development, childcare and pre-primary
+Six out of 10 students lack basic literacy and education, which increase the chance that students
+numeracy skills even after several years in school.60 not only stay in school but also succeed. Abolishing
+One essential step is having an adequate, qualified, school fees and eliminating costs for books,
+professional and competent teaching force with uniforms and transport keeps education affordable.
+decent working conditions.61 Opportunities for Universal child benefits can help offset such costs.
+strengthening informal education and formal Gathering more evidence about the links between
+classroom settings should be fully explored. Digital education and child labour can more precisely
+learning should be integrated into education for define the most effective interventions for keeping
+every child and young person so that never again children in school.
+are the world’s disadvantaged children left on the
+Much depends on financing. Even before the crisis,
+wrong side of the digital divide.
+few governments met the international benchmarks
+For children not reached by remote learning, catch- of allocating 15-20 per cent of public expenditure
+up and remedial programmes will help prevent them and 4-6 per cent of GDP to education.64 Addressing
+from dropping out of school and entering work entrenched spending inequities should begin with
+prematurely. Even before COVID-19, more than prioritizing lower levels of education so poor children
+isuhkagN
+dasarP/590773INU/FECINU
+©
+63
+
+get their fair share and are less vulnerable to child components to prevent gender-based violence and
+labour.65 Maintaining and increasing ODA will make other abuses.
+the difference in many low-income countries.
+Community-based dialogue, social and behaviour
+Register every child at birth change interventions, and parenting programmes
+Birth registration gives children a legal identity so can help counter unequal gender norms that
+they can enjoy all of their rights from birth. A birth encourage overburdening girls with household
+certificate with proof of legal identity and age is often chores in their own homes.66 Cash transfers and
+required to access social services, including social other social assistance programmes, which help
+protection, health, education and justice. Without reduce the economic insecurity that leads to child
+this, children are at risk of multiple deprivations labour, can be explicitly designed to diminish
+and vulnerable to violence, abuse and exploitation, financial barriers to quality learning for girls.
+including the worst forms of child labour.
+The education sector has a crucial role in
+Globally, 237 million children do not have a birth overturning harmful gender norms and stereotypes
+certificate. To register all children from birth, that influence child labour. Girls need support to
+states should adopt policies and laws for free pursue education that leads to equal employment
+and universal registration; link civil registration to opportunities in all sectors, including in fields such
+other systems, including for identity management, as science and technology. Governments must
+health, social protection and education as entry increase flexible learning paths so that all girls
+points for identifying and registering children; and boys benefit from quality education, including
+invest in safe and innovative technology to facilitate in humanitarian crises. Schools should deliver
+birth registration and ensure timely, accurate and gender-transformative education programmes that
+permanent records; and engage communities and build job skills and counter gender bias for certain
+families, especially the hard-to-reach, to encourage types of work, generating incentives to keep both
+registration for every child through communication girls and boys in school.
+on its benefits.
+Other important measures encompass a better
+End gender norms and discrimination distribution of female and male teachers from pre-
+Gender roles often determine the type, conditions primary through secondary education, gender-
+and hours of work performed by boys and girls. responsive policies advancing the careers of
+Within families, girls typically perform more both male and female teachers, and investing in
+household chores, a burden likely to increase professional development that equips teachers
+during school closures. When the calculation of with skills to create safe learning environments and
+child labour factors in such chores, the gender transform harmful gender norms in the classroom
+gap in child labour prevalence is reduced. Girls and beyond.
+are also more likely to engage in domestic work in
+Orient child protection systems around
+third-party households. This form of child labour is
+prevention and response
+normally hidden from public view and beyond the
+Eliminating child labour requires actions on multiple
+scope of labour inspectorates, leaving children
+fronts. Child protection systems, which bring
+especially vulnerable to abuse.
+together different actors, can catalyse policies and
+Explicit laws, enforcement mechanisms and child legislation to reduce child labour risks. They can
+protection interventions are needed to counter mobilize human and financial resources, service
+the risks faced by girls and boys engaged in delivery structures, coordination mechanisms,
+domestic work. Social or public works programmes and monitoring and data systems to identify
+can include information and behaviour change vulnerabilities.
+64
+
+Brokering links among education, health, social Massive income declines led to spikes in poverty
+protection and justice systems can trigger among these workers and their families, even as
+comprehensive, large-scale prevention of and enhanced income protection measures adopted in
+responses to child labour. The COVID-19 crisis, the wake of COVID-19 largely excluded the informal
+however, has further stretched already resource- economy.
+constrained child protection systems. Pandemic
+The fallout on child labour starts with the poverty
+response and recovery plans must prioritize
+and economic instability associated with informal
+strengthening them, including by investing in the
+work, which make it more likely that families will
+social service workforce so that it can sustain child
+resort to child labour. If informality increases,
+protection and other essential services.
+demand for child labour may intensify, given that
+Responding to child labour also calls for aligning informal work requires few skills and is largely
+child protection systems with systems to enforce unregulated. Informality also undermines the
+labour standards. Both child protection and economic base for taxation to finance social
+labour laws should extend adequate legislative protection, education and health care, all of which
+deter child labour in crises and more generally.
+protections, and child protection services and labour
+Finally, the informal economy has few structures
+inspectorates should work in tandem to detect and
+for social dialogue and labour relations, both
+respond to child labour. Effective coordination is
+antithetical to child labour.
+especially urgent given the concerning increase in
+hazardous child labour.
+The COVID-19 crisis has reinforced the imperative
+for labour market policies to accelerate transitions
+Children, families and communities are central
+from the informal to the formal economy and
+to child protection systems and efforts to stop
+ultimately to decent work. Multiple policies are
+child labour. Well-functioning, community-based
+typically required, adapted to specific national and
+mechanisms can stir awareness of the harms
+local contexts.68 Some overarching priorities always
+of child labour, and promote care and positive
+apply, however, starting with labour and social
+parenting. They can help child protection services
+security laws that cover all workers and economic
+to identify vulnerable children and families and
+units without exception as well as productive policies
+make links to other services, such as those to end
+that enable a conducive business environment to
+poverty and diversify rural livelihoods.
+create formal jobs.
+Expand decent work and accelerate the
+Widening the collective, representative voice of
+transition to formality
+women and men who earn their living in the informal
+The COVID-19 crisis has cast a glaring light on the
+economy is an almost universal precondition for the
+vulnerability of workers in the informal economy,
+transition to formality, enabling them to influence
+where rights routinely go unprotected. Workers in
+working conditions, productivity and incomes. A
+the informal economy, often in self-employment
+growing global body of experience offers guidance
+and subsistence work, have little opportunity to
+in building collective representation structures for
+organize and bargain collectively, have limited or
+different informal economy workers.69 Extending
+no assurances of occupational health and safety,
+social protection to them and their families is
+and lack adequate social protection, all of which
+another core element that can draw on a wealth of
+amplify the devastating impact of the pandemic.
+existing practices.70
+At the height of the first wave of the virus, an
+estimated 1.6 billion informal economy workers The ILO Centenary Declaration for the Future of
+were labouring in the hardest-hit sectors and/or Work, 2019 was adopted at the 108th International
+suffered income losses from lockdown measures.67 Labour Conference. It calls for investing in people
+65
+
+through a human-centred approach to the future of Child labour in agriculture takes many forms, each
+work. This means investing in jobs, skills and social requiring specific strategies. On family smallholder
+protection, and actively advancing gender equality. farms, which host the largest share, families need to
+It requires investing in labour market institutions be able to reduce their dependency on child labour
+so that wages are adequate, working hours are to sustain their livelihoods. Such farms must secure
+limited, and safety, health and fundamental rights a fair price for what they produce and be able to
+at work are ensured. Policies must systematically enhance productivity by investing in labour-saving
+back sustainable enterprises, economic growth technologies or hiring adult workers instead of
+and decent work for all. relying on children.71 Small producer associations
+and well-functioning cooperatives can boost
+Improve rural livelihoods
+market and bargaining power in agricultural value
+The 2020 global child labour estimates reconfirm
+chains and uphold price stability. Such groups can
+what we have long known: Child labour occurs
+also pool adult labour and agricultural inputs, share
+most often in agriculture, at 70 per cent of the total
+knowledge and introduce new farming methods
+worldwide and up to 82 per cent in sub-Saharan
+and technology.72
+Africa. It is especially common among younger
+children, for whom the physical demands and On larger commercial agricultural entities, children
+hazards of farm work can be particularly damaging. can often be found working alongside their parents.
+COVID-19 may increase child labour in agriculture, Piecework payment schemes, where income
+at least in the short term, as families who have lost depends on kilos of crops picked or number of
+jobs elsewhere return to subsistence farming to rows weeded, for example, can incentivize the
+survive. Broader progress in ending child labour use of children – especially if that means families
+thus largely centres on improving rural livelihoods will earn a living wage. Adequate and nearby day-
+and building more diversified economies, including care and school facilities can provide parents with
+in rural areas. a safe and worthwhile alternative to bringing their
+regreB/034772INU/FECINU
+©
+66
+
+children with them to the fields. Expanding workers’ chains.78 The pandemic should not add to this
+collective voice can be critical to combating child risk. Governments need to continue strengthening
+labour in such settings. laws and enforcement mechanisms that require
+transparency and human rights due diligence in
+Systemic approaches to promote rural development
+business operations and supply chains for firms of
+and enhance rural livelihoods and resilience can
+all sizes, nationally and internationally. This includes
+diminish reliance on child labour. These should
+governments in wealthy countries where many
+include specific attention to eliminating child labour
+international firms are based.
+in food systems,73 which encompass production,
+aggregation, processing, distribution, consumption Public capacity to enforce labour laws and
+and disposal of food products, and creating regulations has been strained as financial and
+opportunities for sustainable adult livelihoods. human resources have been diverted to meet
+urgent needs linked to the pandemic.
+A well-designed social protection strategy com-
+bining contributory social insurance and tax- The crisis also underscores how businesses must
+based social assistance can sustain the adequate fulfil their responsibility to apply laws and take
+protection of rural populations throughout their lives, further measures to prevent, identify, mitigate and
+including in confronting risks and contingencies remediate child labour in their operations and supply
+specific to rural areas.74 Employment-intensive chains, in accordance with the United Nations
+investment in rural infrastructure and basic services, Guiding Principles on Business and Human Rights,
+such as water and power systems, can offer jobs ILO conventions and the Tripartite Declaration of
+Principles Concerning Multinational Enterprises
+off the farm while improving farm productivity and
+and Social Policy.79
+reducing the need for tasks often done by children,
+such as hauling water and gathering fuel.75
+Assessments of child labour risks in supply chains
+can steer business responses to the COVID-19
+Investment in developing the skills of rural youth
+crisis. These must include identifying and prioritizing
+can bolster farm productivity and contribute to
+‘hotspots’ where risks are highest in terms of
+a structural shift towards higher value added
+severity and scale. Special attention should be given
+manufacturing and services.76 Youth skills training
+to informal micro- and small enterprises operating
+is also an entry point for imparting key occupational
+on the lower tiers of supply chains, where child
+health and safety information, which can in turn help
+labour and other human rights risks are often most
+in reducing hazardous child labour in agriculture
+pronounced,80 and fallout from the crisis has been
+and elsewhere.
+particularly devastating. Such assessments require
+Agricultural extension policies for crop meaningful engagement by stakeholders, including
+diversification, the introduction of more resistant workers, their representative organizations and
+crop or livestock varieties, disaster risk reduction community members, as they are best positioned
+and insurance against weather-related crop failures to identify local risks and help formulate the most
+can all enhance resilience to climate change. This is appropriate mitigation strategies.
+a growing concern in many rural agricultural zones
+Short-term crises may require immediate actions.
+where child labour occurs,77 adding pressure on
+But these should be accompanied by longer-
+already poor families.
+term, systemic responses that make global supply
+Reduce heightened risks of child labour chains more resilient, ethical and sustainable, and,
+in domestic and global supply chains concomitantly, more impervious to child labour and
+Child labour is more common in domestic other human rights violations in future crises. Well-
+production but appears also in global supply established, responsible business and purchasing
+67
+
+practices can help keep firms afloat and reduce Where armed conflict occurs, additional attention
+child labour. Examples include long-term supplier should go to the recruitment and use of children
+contracts, clarity on future contracts, honouring by armed forces or groups. Getting children back
+commitments on orders and payments, fair to school is essential to preventing a fall into child
+payment schedules, and pricing capturing the true labour, including the worst forms.83
+production costs and market values of products
+Measures to prevent and respond to child labour
+and services.
+during a crisis should make links among the
+Industry-wide and cross-industry collaboration humanitarian, development and peace dimensions.
+must aim to cut off the roots of child labour at They should help build social cohesion, resilience
+lower tiers of supply chains, since individual and peace, and strengthen existing government,
+companies often have limited leverage. A wide economic and social structures. Supporting
+range of voluntary, business-led initiatives have meaningful economic and livelihood opportunities
+emerged in recent years in recognition of this reality. for adult members of families in crisis situations is
+Sustainability and effectiveness depend largely on essential. The ILO Employment and Decent Work for
+integrating company action into existing efforts
+Peace and Resilience Recommendation, 2017 (No.
+by governments, social partners, civil society and
+205) calls for inclusive measures to promote decent
+others active on ending child labour.
+work and income generation, including through
+employment-intensive investment strategies such
+Address child labour in conflicts,
+as public employment programmes. Universal child
+disasters and other crises
+benefits make practical sense in fragile places with
+Worldwide, one in every four children lives in a
+limited capacities and very high shares of vulnerable
+country struck by conflict, fragility and/or disaster.81
+children. They can help lay the foundations for
+The resulting displacement and disruptions to
+elaborating a social protection system later on.
+livelihoods, schooling, social protection, family
+support networks and the rule of law all heighten
+Responses to child labour should build on,
+the risk of child labour.82 The COVID-19 pandemic
+strengthen and adapt existing humanitarian and
+has dealt another blow to families already in acute
+development coordination mechanisms, partner-
+distress.
+ships and plans. The same applies to government
+and economic structures. Important resources to
+Child labour concerns must inform all phases
+of humanitarian action: crisis preparation and guide this work include the Minimum Standards for
+contingency plans, humanitarian responses and Child Protection in Humanitarian Action84 and the
+post-crisis reconstruction and recovery. Before a Inter-Agency Toolkit on Preventing and Responding
+crisis hits, preparedness planning should draw on to Child Labour in Humanitarian Action,85 both
+existing data on prevalent forms of child labour, the produced by the Alliance for Child Protection in
+strength of economic markets, the reach of social Humanitarian Action.
+protection and essential services, and community-
+Adopt adequate legal frameworks and
+based supports. This evidence – combined with
+promote compliance
+similar data on the economic impact of a crisis at
+Ratification of international legal standards on
+the national, local, family and individual levels – can
+eliminating child labour is a powerful statement of
+help formulate appropriate responses during and
+government intent. In 2020, ILO Convention No. 182
+after the most acute phases.
+became the first ILO convention to achieve universal
+In all fragile and crisis situations, particular attention ratification.86 The United Nations Convention on the
+should be paid to sexual exploitation, trafficking Rights of the Child has almost reached universal
+and forced labour, including through abduction. ratification, while 173 states have ratified ILO
+68
+
+The ILO Centenary Declaration for
+the Future of Work, 2019 was adopted
+at the 108th International Labour
+Conference.
+The Declaration calls for investment
+in people through a human-centred
+approach to the future of work. This
+means investing in jobs, skills and
+social protection. It means supporting
+gender equality. It also means investing
+in the institutions of the labour market
+so that wages are adequate, working
+hours are limited, and safety and
+health as well as fundamental rights
+at work are ensured. And it means
+adopting policies that promote an
+enabling environment for sustainable
+enterprises, economic growth and
+decent work for all.
+Convention No. 138.87 Relevant Optional Protocols and ILO Convention No. 182. A unified approach
+to the Convention on the Rights of the Child have to their application means, above all, recognizing
+also been widely ratified, by 171 countries for the that combating the worst forms of child labour does
+Optional Protocol on the Involvement of Children in not override the imperative to end child labour in
+Armed Conflict, and 176 countries for the Optional general. Children may not be in hazardous or the
+Protocol on the Sale of Children, Child Prostitution worst forms of labour but are still simply too young
+and Child Pornography. to work.
+Real progress, however, requires translating these The legal architecture should safeguard other
+intentions into national laws that are then used as human rights in the world of work as child labour
+a springboard for action. Laws and policies must is intertwined with these. As enshrined in the 1998
+also connect the array of different rights upholding ILO Declaration on Fundamental Principles and
+freedom from child labour. They must protect and Rights at Work, these rights include: freedom of
+promote birth registration; ensure social protection; association and the right to bargain collectively and
+provide quality education, health care and nutrition; freedom from forced labour and from discrimination
+and extend protection from violence, abuse, neglect in employment. While definitive in progress against
+and exploitation. Laws must be carefully aligned, child labour and towards decent work and social
+avoiding situations such as where the minimum justice more broadly, these rights are at heightened
+working age is below the age for completing risk of being undercut by the pandemic.
+compulsory education.
+The lax enforcement of child labour laws remains
+National laws and practices should reflect the close a concern. Resource constraints limit the capacity
+interconnection between ILO Convention No. 138 of most public labour inspection systems, which in
+nahtanawhsiV/7090820NU/FECINU
+©
+69
+
+any case rarely reach workplaces in the informal international cooperation and partnership. This
+economy where most child labour is found. Non- is as true for ending child labour as for other
+state actors in some cases can complement the priorities across the 2030 Agenda for Sustainable
+regulatory role of public labour administrations and Development. Countries must work in line with
+help extend their reach and effectiveness. Trade the spirit of article 8 of the universally ratified ILO
+unions, through their active presence in workplaces, Convention No. 182, which stipulates enhanced
+can play a crucial role in identifying child labour international cooperation and/or assistance for
+and supporting public labour inspectorates. Local social and economic development, poverty eradi-
+community-based child labour monitoring systems cation and universal education.
+often function well in backing public labour
+Financing may be the most important dimension
+inspectorates to identify and follow child labour
+of international cooperation and partnership. Given
+cases. Social workers, teachers, childcare workers,
+gaps in domestic public financing to address child
+youth workers, community development workers,
+labour, ODA could play an important role particularly
+welfare officers and a range of other social services
+in low-income countries where these funds make
+actors can be enlisted to cast a wide net.
+a substantial contribution to government budgets.
+Realize the promise of international Industrialized countries would need to reach their
+cooperation and partnership longstanding ODA commitment of 0.7 per cent of
+COVID-19 has shown the world at large that gross national income, up from the average of just
+the problems we face will not be solved without 0.32 per cent in 2020.88 They would also need to
+nilessA/906801INU/FECINU
+©
+70
+
+allocate more funding specifically to eliminate child Exchanging experiences and good practices
+labour; in 2018, the issue drew only $60 million in among countries can accelerate change. The
+ODA.89 International financial institutions are active Pathfinder Country initiative91 includes over 20
+in many sectors critical to elimination and can make member countries from the Global North and
+important contributions to required resources, South. They commit to going further and faster
+including by providing and promoting debt relief and towards achieving target 8.7, and to documenting
+by continued support for essential social spending. and sharing experiences and lessons in ending
+child labour, forced labour and modern slavery.
+Founded in 2016, Alliance 8.7 facilitates cooperation
+on stopping child labour. It groups more than
+Other key initiatives align government, multilateral
+240 partners from governments, multilateral
+and business partners. The International Partnership
+organizations, workers’ organizations, employers’
+for Cooperation on Child Labour in Agriculture brings
+organizations, non-governmental organizations,
+together the Food and Agriculture Organization
+academic institutions and think tanks to define
+of the United Nations, the ILO, the International
+effective ways of accelerating progress towards
+Fund for Agricultural Development, trade union
+SDG target 8.7 on ending child labour, modern
+groups92 and others to eliminate child labour in
+slavery and human trafficking. The alliance
+agriculture. The Child Labour Platform, co-chaired
+focuses on increasing collaborative action, driving
+by the International Organisation of Employers and
+innovation and scaling up solutions that work. It
+the International Trade Union Confederation, and
+also provides a platform for engaging in dialogue
+including the ILO and UNICEF, tackles child labour
+and sharing experience and information.90
+in supply chains. The Global Partnership to End
+Partnerships to prevent the exploitation of children Violence Against Children also supports ending
+in armed conflicts are integral to ending child labour. child labour. Global partnerships around education
+The Paris Principles and Guidelines on Children and universal social protection play valuable roles
+Associated with Armed Forces or Armed Groups as well.
+and the related Paris Principles Steering Group, the
+Getting back on track
+Global Coalition for Reintegration of Child Soldiers
+It is urgent to put action to end child labour back on
+and the Task Force on Children Associated with
+Armed Forces and Armed Groups of the Alliance track, in line with global commitments and goals. The
+for Child Protection in Humanitarian Action each evidence in this report outlines the risks and points
+bring together governments, practitioners, donors, to the solutions. While ambitious measures and
+advocates, United Nations entities and technical investments are required, the COVID-19 pandemic
+experts determined to stop children from fighting has amply illustrated that these are possible when
+wars, as one of the most egregious types of the well-being of humanity is at stake.
+child labour.
+We have made a promise to children to end
+child labour. There is no time to lose.
+71
+
+Annex
+anoB/977770NU/FECINU
+©
+72
+
+73
+
+STATISTICAL TABLES
+CHILD LABOUR Percentage and number of children aged 5 to 17 years in child labour
+Total Boys Girls
+5-11 years 12-14 years 15-17 years 5-17 years 5-11 years 12-14 years 15-17 years 5-17 years 5-11 years 12-14 years 15-17 years 5-17 years
+% No. % No. % No. % No. % No. % No. % No. % No. % No. % No. % No. % No.
+World total 9.7 89,300 9.3 35,600 9.5 35,000 9.6 160,000 10.9 52,000 11.0 21,800 12.2 23,300 11.2 97,000 8.4 37,400 7.5 13,800 6.6 11,800 7.8 62,900
+Residence Rural 14.6 72,400 13.7 27,700 12.4 22,600 13.9 122,700 16.3 42,000 16.1 16,800 15.7 15,000 16.1 73,700 12.7 30,500 11.2 10,800 8.8 7,700 11.6 49,000
+Urban 4.0 16,900 4.4 7,900 6.6 12,400 4.7 37,300 4.6 10,000 5.4 4,900 8.6 8,300 5.7 23,300 3.3 6,900 3.4 3,000 4.5 4,100 3.6 14,000
+ILO regions Africa 22.1 54,900 23.5 21,800 18.2 15,500 21.6 92,200 24.3 30,600 26.8 12,600 20.7 8,900 24.1 52,100 19.9 24,300 20.1 9,200 15.6 6,600 19.1 40,100
+Sub-Saharan Africa 24.7 51,900 25.8 20,500 19.5 14,200 23.9 86,600 27.1 28,800 29.3 11,700 22.0 8,000 26.5 48,600 22.3 23,100 22.2 8,700 17.1 6,100 21.2 38,000
+Arab States 4.8 1,200 6.4 600 7.8 700 5.8 2,400 6.8 800 8.8 400 11.0 500 8.1 1,800 2.7 300 3.8 200 4.4 200 3.3 700
+Asia and the Pacific 5.4 25,000 4.8 9,600 7.1 14,100 5.6 48,700 6.4 15,700 6.0 6,400 10.1 10,500 7.2 32,500 4.2 9,400 3.3 3,200 3.8 3,600 3.9 16,200
+Americas 3.0 3,100 4.3 1,900 7.2 3,300 4.3 8,300 3.6 1,900 5.6 1,300 10.2 2,400 5.6 5,600 2.3 1,200 2.8 600 4.2 900 2.9 2,700
+Latin America and the Caribbean 4.2 3,100 6.1 1,900 9.8 3,100 6.0 8,200 5.1 1,900 8.1 1,300 13.9 2,300 7.9 5,500 3.3 1,200 4.1 600 5.6 900 4.0 2,700
+Europe and Central Asia 6.4 5,200 5.1 1,700 4.6 1,400 5.7 8,300 7.2 3,000 6.4 1,100 6.2 1,000 6.8 5,100 5.6 2,200 3.8 600 2.9 400 4.6 3,200
+SDG regions Sub-Saharan Africa 24.7 51,900 25.8 20,500 19.5 14,200 23.9 86,600 27.1 28,800 29.3 11,700 22.0 8,000 26.5 48,600 22.3 23,100 22.2 8,700 17.1 6,100 21.2 38,000
+Central and Southern Asia 5.2 13,300 4.5 5,100 7.1 7,900 5.5 26,300 5.8 7,800 5.9 3,500 11.1 6,500 7.1 17,800 4.5 5,500 3.0 1,600 2.7 1,400 3.7 8,500
+Eastern and South-Eastern Asia 6.1 13,200 5.4 4,800 7.1 6,300 6.2 24,300 7.7 8,700 6.6 3,100 8.7 4,100 7.7 15,900 4.4 4,500 4.0 1,700 5.3 2,200 4.5 8,400
+Northern Africa and Western Asia 7.3 5,400 8.5 2,400 8.5 2,200 7.8 10,100 8.9 3,400 10.9 1,600 11.4 1,500 9.9 6,500 5.5 2,000 5.9 800 5.3 700 5.6 3,500
+Latin America and the Caribbean 4.2 3,100 6.1 1,900 9.8 3,100 6.0 8,200 5.1 1,900 8.1 1,300 13.9 2,300 7.9 5,500 3.3 1,200 4.1 600 5.6 900 4.0 2,700
+Europe and Northern America 2.2 2,000 2.0 800 3.0 1,100 2.3 3,800 2.5 1,100 2.5 500 4.0 800 2.8 2,400 1.9 800 1.5 300 1.8 300 1.8 1,400
+UNICEF regions East Asia and Pacific 6.2 13,600 5.4 5,000 7.2 6,500 6.2 25,100 7.7 8,900 6.6 3,200 8.8 4,200 7.7 16,300 4.5 4,700 4.0 1,800 5.4 2,300 4.6 8,800
+Europe and Central Asia 6.5 5,200 5.2 1,700 4.6 1,400 5.8 8,300 7.3 3,000 6.5 1,100 6.2 1,000 6.9 5,100 5.7 2,200 3.8 600 2.9 400 4.7 3,200
+Latin America and Caribbean 4.2 3,100 6.1 1,900 9.8 3,100 6.0 8,200 5.1 1,900 8.1 1,300 13.9 2,300 7.9 5,500 3.3 1,200 4.1 600 5.6 900 4.0 2,700
+Middle East and North Africa 5.5 3,600 7.2 1,700 8.6 1,900 6.5 7,200 7.2 2,400 9.5 1,200 11.8 1,300 8.6 4,900 3.7 1,200 4.7 500 5.3 600 4.2 2,300
+North America - - - - 1.2 200 0.3 200 - - - - 1.6 100 0.4 100 - - - - 0.7 - 0.2 -
+South Asia 4.4 10,400 4.0 4,200 6.9 7,200 4.9 21,800 4.9 6,100 5.3 2,900 11.1 6,100 6.5 15,100 3.8 4,300 2.6 1,300 2.3 1,200 3.2 6,800
+Sub-Saharan Africa 24.6 53,500 25.5 21,100 19.4 14,700 23.7 89,200 26.9 29,700 29.0 12,100 21.8 8,300 26.4 50,100 22.1 23,800 22.0 9,000 16.9 6,300 21.1 39,200
+Children in child labour Total 27.7 24,700 35.2 12,500 53.2 18,700 35.0 55,900 27.8 14,400 35.7 7,800 56.0 13,000 36.3 35,300 27.5 10,300 34.4 4,700 47.7 5,600 32.8 20,700
+who are not attending
+school Rural 28.3 20,500 35.8 9,900 54.1 12,200 34.8 42,700 28.4 11,900 36.2 6,100 57.2 8,600 36.0 26,600 28.3 8,600 35.2 3,800 48.0 3,700 32.9 16,100
+Urban 24.9 4,200 33.1 2,600 51.6 6,400 35.5 13,300 25.4 2,500 34.0 1,700 53.7 4,500 37.3 8,700 24.2 1,700 31.6 900 47.2 1,900 32.5 4,500
+Children in child labour by Agriculture 76.6 68,400 75.8 27,000 47.6 16,700 70.0 112,100 77.7 40,400 76.1 16,600 46.7 10,900 69.9 67,800 75.1 28,100 75.3 10,400 49.3 5,800 70.3 44,300
+sector of economic activity
+Industry 6.0 5,400 7.5 2,700 24.0 8,400 10.3 16,500 8.8 4,600 8.7 1,900 28.2 6,600 13.4 13,000 2.2 800 5.6 800 15.7 1,800 5.5 3,500
+Services 17.4 15,500 16.7 5,900 28.4 10,000 19.6 31,400 13.5 7,000 15.2 3,300 25.1 5,800 16.7 16,200 22.7 8,500 19.0 2,600 35.1 4,100 24.2 15,200
+Of which domestic work 4.6 4,100 3.0 1,100 5.6 2,000 4.5 7,100 3.1 1,600 1.9 400 3.3 800 2.8 2,800 6.7 2,500 4.7 600 10.4 1,200 7.0 4,400
+Children in child labour by Employees 9.2 8,200 12.9 4,600 42.3 14,800 17.3 27,600 11.6 6,000 16.2 3,500 43.9 10,200 20.4 19,800 5.8 2,200 7.7 1,100 38.9 4,600 12.4 7,800
+employment status
+Own-account workers 8.2 7,300 12.6 4,500 15.0 5,300 10.7 17,000 7.5 3,900 12.8 2,800 16.1 3,800 10.8 10,400 9.1 3,400 12.3 1,700 12.7 1,500 10.5 6,600
+Contributing family workers 82.6 73,800 74.5 26,500 42.8 15,000 72.1 115,300 80.9 42,000 71.0 15,500 39.9 9,300 68.8 66,800 85.1 31,800 80.0 11,000 48.4 5,700 77.1 48,500
+Notes: Numbers are expressed in thousands and have been rounded. Because of the rounding, disaggregated numbers do not always add up to total values and figures in
+percentages do not always add up to 100 per cent. For the same reason, the values presented in earlier pages of the report do not always match the values presented in this
+table. The regional groupings used by ILO and UNICEF, as well as those used for SDG reporting, vary slightly. This explains why the values for some regions differ, even if the
+labels are the same. The dash for North America indicates that, in the absence of data, values are assumed to be null. Caution is warranted when interpreting values for Europe
+and Northern America due to low data coverage for children aged 5 to 14.
+74
+
+Total Boys Girls
+5-11 years 12-14 years 15-17 years 5-17 years 5-11 years 12-14 years 15-17 years 5-17 years 5-11 years 12-14 years 15-17 years 5-17 years
+% No. % No. % No. % No. % No. % No. % No. % No. % No. % No. % No. % No.
+World total 9.7 89,300 9.3 35,600 9.5 35,000 9.6 160,000 10.9 52,000 11.0 21,800 12.2 23,300 11.2 97,000 8.4 37,400 7.5 13,800 6.6 11,800 7.8 62,900
+Residence Rural 14.6 72,400 13.7 27,700 12.4 22,600 13.9 122,700 16.3 42,000 16.1 16,800 15.7 15,000 16.1 73,700 12.7 30,500 11.2 10,800 8.8 7,700 11.6 49,000
+Urban 4.0 16,900 4.4 7,900 6.6 12,400 4.7 37,300 4.6 10,000 5.4 4,900 8.6 8,300 5.7 23,300 3.3 6,900 3.4 3,000 4.5 4,100 3.6 14,000
+ILO regions Africa 22.1 54,900 23.5 21,800 18.2 15,500 21.6 92,200 24.3 30,600 26.8 12,600 20.7 8,900 24.1 52,100 19.9 24,300 20.1 9,200 15.6 6,600 19.1 40,100
+Sub-Saharan Africa 24.7 51,900 25.8 20,500 19.5 14,200 23.9 86,600 27.1 28,800 29.3 11,700 22.0 8,000 26.5 48,600 22.3 23,100 22.2 8,700 17.1 6,100 21.2 38,000
+Arab States 4.8 1,200 6.4 600 7.8 700 5.8 2,400 6.8 800 8.8 400 11.0 500 8.1 1,800 2.7 300 3.8 200 4.4 200 3.3 700
+Asia and the Pacific 5.4 25,000 4.8 9,600 7.1 14,100 5.6 48,700 6.4 15,700 6.0 6,400 10.1 10,500 7.2 32,500 4.2 9,400 3.3 3,200 3.8 3,600 3.9 16,200
+Americas 3.0 3,100 4.3 1,900 7.2 3,300 4.3 8,300 3.6 1,900 5.6 1,300 10.2 2,400 5.6 5,600 2.3 1,200 2.8 600 4.2 900 2.9 2,700
+Latin America and the Caribbean 4.2 3,100 6.1 1,900 9.8 3,100 6.0 8,200 5.1 1,900 8.1 1,300 13.9 2,300 7.9 5,500 3.3 1,200 4.1 600 5.6 900 4.0 2,700
+Europe and Central Asia 6.4 5,200 5.1 1,700 4.6 1,400 5.7 8,300 7.2 3,000 6.4 1,100 6.2 1,000 6.8 5,100 5.6 2,200 3.8 600 2.9 400 4.6 3,200
+SDG regions Sub-Saharan Africa 24.7 51,900 25.8 20,500 19.5 14,200 23.9 86,600 27.1 28,800 29.3 11,700 22.0 8,000 26.5 48,600 22.3 23,100 22.2 8,700 17.1 6,100 21.2 38,000
+Central and Southern Asia 5.2 13,300 4.5 5,100 7.1 7,900 5.5 26,300 5.8 7,800 5.9 3,500 11.1 6,500 7.1 17,800 4.5 5,500 3.0 1,600 2.7 1,400 3.7 8,500
+Eastern and South-Eastern Asia 6.1 13,200 5.4 4,800 7.1 6,300 6.2 24,300 7.7 8,700 6.6 3,100 8.7 4,100 7.7 15,900 4.4 4,500 4.0 1,700 5.3 2,200 4.5 8,400
+Northern Africa and Western Asia 7.3 5,400 8.5 2,400 8.5 2,200 7.8 10,100 8.9 3,400 10.9 1,600 11.4 1,500 9.9 6,500 5.5 2,000 5.9 800 5.3 700 5.6 3,500
+Latin America and the Caribbean 4.2 3,100 6.1 1,900 9.8 3,100 6.0 8,200 5.1 1,900 8.1 1,300 13.9 2,300 7.9 5,500 3.3 1,200 4.1 600 5.6 900 4.0 2,700
+Europe and Northern America 2.2 2,000 2.0 800 3.0 1,100 2.3 3,800 2.5 1,100 2.5 500 4.0 800 2.8 2,400 1.9 800 1.5 300 1.8 300 1.8 1,400
+UNICEF regions East Asia and Pacific 6.2 13,600 5.4 5,000 7.2 6,500 6.2 25,100 7.7 8,900 6.6 3,200 8.8 4,200 7.7 16,300 4.5 4,700 4.0 1,800 5.4 2,300 4.6 8,800
+Europe and Central Asia 6.5 5,200 5.2 1,700 4.6 1,400 5.8 8,300 7.3 3,000 6.5 1,100 6.2 1,000 6.9 5,100 5.7 2,200 3.8 600 2.9 400 4.7 3,200
+Latin America and Caribbean 4.2 3,100 6.1 1,900 9.8 3,100 6.0 8,200 5.1 1,900 8.1 1,300 13.9 2,300 7.9 5,500 3.3 1,200 4.1 600 5.6 900 4.0 2,700
+Middle East and North Africa 5.5 3,600 7.2 1,700 8.6 1,900 6.5 7,200 7.2 2,400 9.5 1,200 11.8 1,300 8.6 4,900 3.7 1,200 4.7 500 5.3 600 4.2 2,300
+North America - - - - 1.2 200 0.3 200 - - - - 1.6 100 0.4 100 - - - - 0.7 - 0.2 -
+South Asia 4.4 10,400 4.0 4,200 6.9 7,200 4.9 21,800 4.9 6,100 5.3 2,900 11.1 6,100 6.5 15,100 3.8 4,300 2.6 1,300 2.3 1,200 3.2 6,800
+Sub-Saharan Africa 24.6 53,500 25.5 21,100 19.4 14,700 23.7 89,200 26.9 29,700 29.0 12,100 21.8 8,300 26.4 50,100 22.1 23,800 22.0 9,000 16.9 6,300 21.1 39,200
+Children in child labour Total 27.7 24,700 35.2 12,500 53.2 18,700 35.0 55,900 27.8 14,400 35.7 7,800 56.0 13,000 36.3 35,300 27.5 10,300 34.4 4,700 47.7 5,600 32.8 20,700
+who are not attending
+school Rural 28.3 20,500 35.8 9,900 54.1 12,200 34.8 42,700 28.4 11,900 36.2 6,100 57.2 8,600 36.0 26,600 28.3 8,600 35.2 3,800 48.0 3,700 32.9 16,100
+Urban 24.9 4,200 33.1 2,600 51.6 6,400 35.5 13,300 25.4 2,500 34.0 1,700 53.7 4,500 37.3 8,700 24.2 1,700 31.6 900 47.2 1,900 32.5 4,500
+Children in child labour by Agriculture 76.6 68,400 75.8 27,000 47.6 16,700 70.0 112,100 77.7 40,400 76.1 16,600 46.7 10,900 69.9 67,800 75.1 28,100 75.3 10,400 49.3 5,800 70.3 44,300
+sector of economic activity
+Industry 6.0 5,400 7.5 2,700 24.0 8,400 10.3 16,500 8.8 4,600 8.7 1,900 28.2 6,600 13.4 13,000 2.2 800 5.6 800 15.7 1,800 5.5 3,500
+Services 17.4 15,500 16.7 5,900 28.4 10,000 19.6 31,400 13.5 7,000 15.2 3,300 25.1 5,800 16.7 16,200 22.7 8,500 19.0 2,600 35.1 4,100 24.2 15,200
+Of which domestic work 4.6 4,100 3.0 1,100 5.6 2,000 4.5 7,100 3.1 1,600 1.9 400 3.3 800 2.8 2,800 6.7 2,500 4.7 600 10.4 1,200 7.0 4,400
+Children in child labour by Employees 9.2 8,200 12.9 4,600 42.3 14,800 17.3 27,600 11.6 6,000 16.2 3,500 43.9 10,200 20.4 19,800 5.8 2,200 7.7 1,100 38.9 4,600 12.4 7,800
+employment status
+Own-account workers 8.2 7,300 12.6 4,500 15.0 5,300 10.7 17,000 7.5 3,900 12.8 2,800 16.1 3,800 10.8 10,400 9.1 3,400 12.3 1,700 12.7 1,500 10.5 6,600
+Contributing family workers 82.6 73,800 74.5 26,500 42.8 15,000 72.1 115,300 80.9 42,000 71.0 15,500 39.9 9,300 68.8 66,800 85.1 31,800 80.0 11,000 48.4 5,700 77.1 48,500
+75
+
+HAZARDOUS WORK Percentage and number of children aged 5 to 17 years in hazardous work
+Total Boys Girls
+5-11 years 12-14 years 15-17 years 5-17 years 5-11 years 12-14 years 15-17 years 5-17 years 5-11 years 12-14 years 15-17 years 5-17 years
+% No. % No. % No. % No. % No. % No. % No. % No. % No. % No. % No. % No.
+World total 2.8 25,900 4.8 18,100 9.5 35,000 4.7 79,000 3.3 15,500 5.8 11,400 12.2 23,300 5.8 50,200 2.3 10,300 3.7 6,700 6.6 11,800 3.6 28,800
+Residence Rural 4.0 20,000 6.8 13,700 12.4 22,600 6.4 56,300 4.7 12,000 8.2 8,600 15.7 15,000 7.8 35,600 3.3 7,900 5.3 5,200 8.8 7,700 4.9 20,800
+Urban 1.4 5,900 2.5 4,400 6.6 12,400 2.9 22,700 1.6 3,500 3.1 2,800 8.6 8,300 3.6 14,700 1.1 2,400 1.8 1,600 4.5 4,100 2.1 8,100
+ILO regions Africa 6.4 15,700 10.9 10,200 18.2 15,500 9.7 41,400 7.3 9,200 12.8 6,000 20.7 8,900 11.2 24,200 5.3 6,500 9.0 4,100 15.6 6,600 8.2 17,200
+Sub-Saharan Africa 7.1 14,900 12.0 9,500 19.5 14,200 10.7 38,600 8.2 8,700 14.0 5,600 22.0 8,000 12.2 22,400 6.0 6,200 9.9 3,900 17.1 6,100 9.1 16,300
+Arab States 3.1 800 4.9 500 7.8 700 4.5 1,900 4.5 600 6.9 300 11.0 500 6.3 1,400 1.7 200 2.8 100 4.4 200 2.5 500
+Asia and the Pacific 0.7 3,300 2.3 4,700 7.1 14,100 2.6 22,200 0.9 2,200 3.0 3,100 10.1 10,500 3.5 15,800 0.5 1,200 1.7 1,600 3.8 3,600 1.6 6,400
+Americas 1.1 1,200 2.6 1,200 7.2 3,300 2.9 5,700 1.5 800 3.7 900 10.2 2,400 4.1 4,000 0.7 400 1.4 300 4.2 900 1.7 1,600
+Latin America and the Caribbean 1.6 1,200 3.7 1,200 9.8 3,100 4.0 5,500 2.2 800 5.4 900 13.9 2,300 5.7 3,900 1.0 400 2.1 300 5.6 900 2.3 1,600
+Europe and Central Asia 6.0 4,800 4.9 1,600 4.6 1,400 5.5 7,900 6.8 2,800 6.2 1,000 6.2 1,000 6.5 4,800 5.2 2,000 3.6 600 2.9 400 4.4 3,100
+SDG regions Sub-Saharan Africa 7.1 14,900 12.0 9,500 19.5 14,200 10.7 38,600 8.2 8,700 14.0 5,600 22.0 8,000 12.2 22,400 6.0 6,200 9.9 3,900 17.1 6,100 9.1 16,300
+Central and Southern Asia 1.2 3,200 2.6 2,900 7.1 7,900 2.9 14,000 1.4 1,900 3.3 2,000 11.1 6,500 4.1 10,300 1.1 1,300 1.8 1,000 2.7 1,400 1.6 3,700
+Eastern and South-Eastern Asia 0.9 1,900 2.4 2,200 7.1 6,300 2.6 10,400 1.1 1,300 3.0 1,400 8.7 4,100 3.3 6,800 0.6 600 1.8 800 5.3 2,200 1.9 3,600
+Northern Africa and Western Asia 3.7 2,800 5.5 1,500 8.5 2,200 5.1 6,500 4.7 1,800 7.3 1,000 11.4 1,500 6.6 4,400 2.7 1,000 3.6 500 5.3 700 3.4 2,200
+Latin America and the Caribbean 1.6 1,200 3.7 1,200 9.8 3,100 4.0 5,500 2.2 800 5.4 900 13.9 2,300 5.7 3,900 1.0 400 2.1 300 5.6 900 2.3 1,600
+Europe and Northern America 2.1 1,800 2.0 700 3.0 1,100 2.2 3,700 2.3 1,100 2.4 500 4.0 800 2.7 2,300 1.8 800 1.5 300 1.8 300 1.7 1,400
+UNICEF regions East Asia and Pacific 0.9 1,900 2.4 2,200 7.2 6,500 2.7 10,700 1.1 1,300 3.0 1,500 8.8 4,200 3.3 7,000 0.6 600 1.8 800 5.4 2,300 2.0 3,700
+Europe and Central Asia 6.1 4,800 5.0 1,600 4.6 1,400 5.5 7,900 6.8 2,800 6.3 1,000 6.2 1,000 6.6 4,800 5.3 2,000 3.7 600 2.9 400 4.4 3,100
+Latin America and Caribbean 1.6 1,200 3.7 1,200 9.8 3,100 4.0 5,500 2.2 800 5.4 900 13.9 2,300 5.7 3,900 1.0 400 2.1 300 5.6 900 2.3 1,600
+Middle East and North Africa 2.0 1,300 4.2 1,000 8.6 1,900 3.8 4,200 2.7 900 5.7 700 11.8 1,300 5.2 2,900 1.1 400 2.6 300 5.3 600 2.3 1,200
+North America - - - - 1.2 200 0.3 200 - - - - 1.6 100 0.4 100 - - - - 0.7 - 0.2 -
+South Asia 0.5 1,300 2.2 2,300 6.9 7,200 2.4 10,800 0.6 800 2.8 1,600 11.1 6,100 3.6 8,400 0.4 500 1.5 700 2.3 1,200 1.1 2,400
+Sub-Saharan Africa 7.1 15,400 11.9 9,800 19.4 14,700 10.6 39,800 8.1 9,000 13.9 5,800 21.8 8,300 12.1 23,100 5.9 6,400 9.8 4,000 16.9 6,300 9.0 16,800
+Children in hazardous Total 33.0 8,500 40.2 7,300 53.2 18,700 43.6 34,500 33.3 5,200 40.9 4,700 56.0 13,000 45.5 22,900 32.5 3,400 39.1 2,600 47.7 5,600 40.3 11,600
+work who are not attending
+school Rural 33.3 6,600 41.2 5,700 54.1 12,200 43.6 24,500 33.6 4,000 41.9 3,600 57.2 8,600 45.5 16,200 32.7 2,600 40.0 2,100 48.0 3,700 40.2 8,300
+Urban 31.9 1,900 37.3 1,600 51.6 6,400 43.7 9,900 32.0 1,100 38.0 1,100 53.7 4,500 45.5 6,700 31.7 800 36.1 600 47.2 1,900 40.5 3,300
+Children in hazardous Agriculture 71.9 18,600 70.5 12,800 47.6 16,700 60.8 48,100 75.2 11,700 71.1 8,100 46.7 10,900 61.0 30,700 67.0 6,900 69.5 4,700 49.3 5,800 60.3 17,400
+work by sector of
+economic activity Industry 9.1 2,300 11.5 2,100 24.0 8,400 16.3 12,800 11.2 1,700 13.2 1,500 28.2 6,600 19.6 9,800 5.8 600 8.6 600 15.7 1,800 10.5 3,000
+Services 19.0 4,900 18.0 3,300 28.4 10,000 23.0 18,100 13.6 2,100 15.8 1,800 25.1 5,800 19.4 9,700 27.2 2,800 21.9 1,500 35.1 4,100 29.2 8,400
+Of which domestic work 2.6 700 3.5 600 5.6 2,000 4.2 3,300 0.7 100 2.2 300 3.3 800 2.2 1,100 5.7 600 5.7 400 10.4 1,200 7.6 2,200
+Children in hazardous Employees 11.5 3,000 18.8 3,400 42.3 14,800 26.8 21,200 14.5 2,300 23.9 2,700 43.9 10,200 30.3 15,200 7.0 700 10.2 700 38.9 4,600 20.8 6,000
+work by employment
+status Own-account workers 6.7 1,700 12.2 2,200 15.0 5,300 11.6 9,200 8.4 1,300 13.9 1,600 16.1 3,800 13.2 6,700 4.1 400 9.4 600 12.7 1,500 8.8 2,500
+Contributing family workers 81.8 21,100 69.0 12,500 42.8 15,000 61.5 48,600 77.1 12,000 62.2 7,100 39.9 9,300 56.5 28,400 88.9 9,200 80.4 5,400 48.4 5,700 70.4 20,300
+Notes: Numbers are expressed in thousands and have been rounded. Because of the rounding, disaggregated numbers do not always add up to total values and figures in
+percentages do not always add up to 100 per cent. For the same reason, the values presented in earlier pages of the report do not always match the values presented in this
+table. The regional groupings used by ILO and UNICEF, as well as those used for SDG reporting, vary slightly. This explains why the values for some regions differ, even if the
+labels are the same. The dash for North America indicates that, in the absence of data, values are assumed to be null. Caution is warranted when interpreting values for Europe
+and Northern America due to low data coverage for children aged 5 to 14.
+76
+
+Total Boys Girls
+5-11 years 12-14 years 15-17 years 5-17 years 5-11 years 12-14 years 15-17 years 5-17 years 5-11 years 12-14 years 15-17 years 5-17 years
+% No. % No. % No. % No. % No. % No. % No. % No. % No. % No. % No. % No.
+World total 2.8 25,900 4.8 18,100 9.5 35,000 4.7 79,000 3.3 15,500 5.8 11,400 12.2 23,300 5.8 50,200 2.3 10,300 3.7 6,700 6.6 11,800 3.6 28,800
+Residence Rural 4.0 20,000 6.8 13,700 12.4 22,600 6.4 56,300 4.7 12,000 8.2 8,600 15.7 15,000 7.8 35,600 3.3 7,900 5.3 5,200 8.8 7,700 4.9 20,800
+Urban 1.4 5,900 2.5 4,400 6.6 12,400 2.9 22,700 1.6 3,500 3.1 2,800 8.6 8,300 3.6 14,700 1.1 2,400 1.8 1,600 4.5 4,100 2.1 8,100
+ILO regions Africa 6.4 15,700 10.9 10,200 18.2 15,500 9.7 41,400 7.3 9,200 12.8 6,000 20.7 8,900 11.2 24,200 5.3 6,500 9.0 4,100 15.6 6,600 8.2 17,200
+Sub-Saharan Africa 7.1 14,900 12.0 9,500 19.5 14,200 10.7 38,600 8.2 8,700 14.0 5,600 22.0 8,000 12.2 22,400 6.0 6,200 9.9 3,900 17.1 6,100 9.1 16,300
+Arab States 3.1 800 4.9 500 7.8 700 4.5 1,900 4.5 600 6.9 300 11.0 500 6.3 1,400 1.7 200 2.8 100 4.4 200 2.5 500
+Asia and the Pacific 0.7 3,300 2.3 4,700 7.1 14,100 2.6 22,200 0.9 2,200 3.0 3,100 10.1 10,500 3.5 15,800 0.5 1,200 1.7 1,600 3.8 3,600 1.6 6,400
+Americas 1.1 1,200 2.6 1,200 7.2 3,300 2.9 5,700 1.5 800 3.7 900 10.2 2,400 4.1 4,000 0.7 400 1.4 300 4.2 900 1.7 1,600
+Latin America and the Caribbean 1.6 1,200 3.7 1,200 9.8 3,100 4.0 5,500 2.2 800 5.4 900 13.9 2,300 5.7 3,900 1.0 400 2.1 300 5.6 900 2.3 1,600
+Europe and Central Asia 6.0 4,800 4.9 1,600 4.6 1,400 5.5 7,900 6.8 2,800 6.2 1,000 6.2 1,000 6.5 4,800 5.2 2,000 3.6 600 2.9 400 4.4 3,100
+SDG regions Sub-Saharan Africa 7.1 14,900 12.0 9,500 19.5 14,200 10.7 38,600 8.2 8,700 14.0 5,600 22.0 8,000 12.2 22,400 6.0 6,200 9.9 3,900 17.1 6,100 9.1 16,300
+Central and Southern Asia 1.2 3,200 2.6 2,900 7.1 7,900 2.9 14,000 1.4 1,900 3.3 2,000 11.1 6,500 4.1 10,300 1.1 1,300 1.8 1,000 2.7 1,400 1.6 3,700
+Eastern and South-Eastern Asia 0.9 1,900 2.4 2,200 7.1 6,300 2.6 10,400 1.1 1,300 3.0 1,400 8.7 4,100 3.3 6,800 0.6 600 1.8 800 5.3 2,200 1.9 3,600
+Northern Africa and Western Asia 3.7 2,800 5.5 1,500 8.5 2,200 5.1 6,500 4.7 1,800 7.3 1,000 11.4 1,500 6.6 4,400 2.7 1,000 3.6 500 5.3 700 3.4 2,200
+Latin America and the Caribbean 1.6 1,200 3.7 1,200 9.8 3,100 4.0 5,500 2.2 800 5.4 900 13.9 2,300 5.7 3,900 1.0 400 2.1 300 5.6 900 2.3 1,600
+Europe and Northern America 2.1 1,800 2.0 700 3.0 1,100 2.2 3,700 2.3 1,100 2.4 500 4.0 800 2.7 2,300 1.8 800 1.5 300 1.8 300 1.7 1,400
+UNICEF regions East Asia and Pacific 0.9 1,900 2.4 2,200 7.2 6,500 2.7 10,700 1.1 1,300 3.0 1,500 8.8 4,200 3.3 7,000 0.6 600 1.8 800 5.4 2,300 2.0 3,700
+Europe and Central Asia 6.1 4,800 5.0 1,600 4.6 1,400 5.5 7,900 6.8 2,800 6.3 1,000 6.2 1,000 6.6 4,800 5.3 2,000 3.7 600 2.9 400 4.4 3,100
+Latin America and Caribbean 1.6 1,200 3.7 1,200 9.8 3,100 4.0 5,500 2.2 800 5.4 900 13.9 2,300 5.7 3,900 1.0 400 2.1 300 5.6 900 2.3 1,600
+Middle East and North Africa 2.0 1,300 4.2 1,000 8.6 1,900 3.8 4,200 2.7 900 5.7 700 11.8 1,300 5.2 2,900 1.1 400 2.6 300 5.3 600 2.3 1,200
+North America - - - - 1.2 200 0.3 200 - - - - 1.6 100 0.4 100 - - - - 0.7 - 0.2 -
+South Asia 0.5 1,300 2.2 2,300 6.9 7,200 2.4 10,800 0.6 800 2.8 1,600 11.1 6,100 3.6 8,400 0.4 500 1.5 700 2.3 1,200 1.1 2,400
+Sub-Saharan Africa 7.1 15,400 11.9 9,800 19.4 14,700 10.6 39,800 8.1 9,000 13.9 5,800 21.8 8,300 12.1 23,100 5.9 6,400 9.8 4,000 16.9 6,300 9.0 16,800
+Children in hazardous Total 33.0 8,500 40.2 7,300 53.2 18,700 43.6 34,500 33.3 5,200 40.9 4,700 56.0 13,000 45.5 22,900 32.5 3,400 39.1 2,600 47.7 5,600 40.3 11,600
+work who are not attending
+school Rural 33.3 6,600 41.2 5,700 54.1 12,200 43.6 24,500 33.6 4,000 41.9 3,600 57.2 8,600 45.5 16,200 32.7 2,600 40.0 2,100 48.0 3,700 40.2 8,300
+Urban 31.9 1,900 37.3 1,600 51.6 6,400 43.7 9,900 32.0 1,100 38.0 1,100 53.7 4,500 45.5 6,700 31.7 800 36.1 600 47.2 1,900 40.5 3,300
+Children in hazardous Agriculture 71.9 18,600 70.5 12,800 47.6 16,700 60.8 48,100 75.2 11,700 71.1 8,100 46.7 10,900 61.0 30,700 67.0 6,900 69.5 4,700 49.3 5,800 60.3 17,400
+work by sector of
+economic activity Industry 9.1 2,300 11.5 2,100 24.0 8,400 16.3 12,800 11.2 1,700 13.2 1,500 28.2 6,600 19.6 9,800 5.8 600 8.6 600 15.7 1,800 10.5 3,000
+Services 19.0 4,900 18.0 3,300 28.4 10,000 23.0 18,100 13.6 2,100 15.8 1,800 25.1 5,800 19.4 9,700 27.2 2,800 21.9 1,500 35.1 4,100 29.2 8,400
+Of which domestic work 2.6 700 3.5 600 5.6 2,000 4.2 3,300 0.7 100 2.2 300 3.3 800 2.2 1,100 5.7 600 5.7 400 10.4 1,200 7.6 2,200
+Children in hazardous Employees 11.5 3,000 18.8 3,400 42.3 14,800 26.8 21,200 14.5 2,300 23.9 2,700 43.9 10,200 30.3 15,200 7.0 700 10.2 700 38.9 4,600 20.8 6,000
+work by employment
+status Own-account workers 6.7 1,700 12.2 2,200 15.0 5,300 11.6 9,200 8.4 1,300 13.9 1,600 16.1 3,800 13.2 6,700 4.1 400 9.4 600 12.7 1,500 8.8 2,500
+Contributing family workers 81.8 21,100 69.0 12,500 42.8 15,000 61.5 48,600 77.1 12,000 62.2 7,100 39.9 9,300 56.5 28,400 88.9 9,200 80.4 5,400 48.4 5,700 70.4 20,300
+77
+
+CHILD LABOUR AND HAZARDOUS WORK: TRENDS
+Children aged 5 to 17 Children aged 5 to 17
+years in child labour years in hazardous work
+2016 2020 2016 2020
+% No. % No. % No. % No.
+World total 9.6 151,600 9.6 160,000 4.6 72,500 4.7 79,000
+Sex Girls 8.4 64,100 7.8 62,900 3.6 27,800 3.6 28,800
+Boys 10.7 87,500 11.2 97,000 5.5 44,800 5.8 50,200
+Age 5-11 years 8.3 72,600 9.7 89,300 2.2 19,000 2.8 25,900
+12-14 years 11.7 41,900 9.3 35,600 4.6 16,400 4.8 18,100
+15-17 years 10.5 37,100 9.5 35,000 10.5 37,100 9.5 35,000
+ILO regions Africa 19.6 72,100 21.6 92,200 8.6 31,500 9.7 41,400
+Sub-Saharan Africa 22.4 70,000 23.9 86,600 9.8 30,500 10.7 38,600
+Arab States 2.9 1,200 5.8 2,400 1.5 600 4.5 1,900
+Asia and the Pacific 7.4 62,100 5.6 48,700 3.4 28,500 2.6 22,200
+Americas 5.3 10,700 4.3 8,300 3.2 6,600 2.9 5,700
+Latin America and the Caribbean 7.3 10,500 6.0 8,200 4.4 6,300 4.0 5,500
+Europe and Central Asia 4.1 5,500 5.7 8,300 4.0 5,300 5.5 7,900
+National income Low income 19.4 65,200 26.2 65,000 8.8 29,700 11.6 28,700
+grouping
+Lower-middle income 8.5 58,200 9.0 69,700 4.9 33,500 4.3 33,600
+Upper-middle income 6.6 26,200 4.9 23,700 2.0 7,800 3.2 15,300
+High income 1.2 2,000 0.9 1,600 1.0 1,600 0.8 1,500
+Notes: Numbers are expressed in thousands and have been rounded. Because of the rounding, disaggregated numbers do not always add up to total values.
+Trend data are not available for SDG and UNICEF regions.
+78
+
+OVERVIEW OF THE METHODOLOGY
+Definitions
+The measurement framework for producing the 2020 global estimates of child labour aligns with the
+international standards on child labour statistics adopted by the 18th International Conference of Labour
+Statisticians in 2008. Hosted by the ILO, the conference takes place every five years. Participants include
+experts from governments, mostly from ministries responsible for labour and national statistical offices, as well
+as from employers’ and workers’ organizations. Although the 20th conference in 2018 adopted a more recent
+resolution on child labour statistics, most countries still use the previous framework. Once a critical mass of
+household surveys applies the new statistical standards, it will be possible to produce global and regional
+estimates accordingly.
+The starting point for measuring child labour is calculating the number of children aged 5 to 17 in employment.
+Among them, those in designated hazardous industries and hazardous occupations are identified as being in
+child labour. Designated hazardous industries are mining, quarrying and construction. Since the publication
+of the first global estimates of child labour in 2002, an ILO task force has defined 39 hazardous occupations
+for children.93
+Children who work long hours are also considered as being in child labour. Long hours are defined as 43
+or more hours per week, the same threshold used in earlier global estimates. The figure approximately
+corresponds to the normal hours of work for adults stipulated by national legislation, mostly from 40 to
+44 hours.
+Fig A1. Measurement framework for the global estimation of child labour
+Children in employment
+(5-17 years)
+In designated
+In other industries
+hazardous industries
+In designated
+In other occupations
+hazardous occupations
+Long hours of work Not long hours of work
+(43 or mo re hours) (less than 43 hours)
+Hazardous work Non-hazardous
+by children work conditions
+5-11 years 12-14 years 15-17 years
+Hazardous unpaid
+household services
+by children
+14 or Light work
+more hours (less than 1 4 hours)
+Child labour Not child labour
+Note: The dotted lines refer to the measurement of hazardous unpaid household services being optional as per the 2008 Resolution Concerning Statistics of
+Child Labour.
+79
+
+The total number of children in designated hazardous industries, in hazardous occupations or working longer
+hours constitutes the overall number of children in hazardous work.
+Obtaining the final estimate of child labour involves adding two more categories to the calculation: children
+aged 5 to 11 engaged in any form of employment and children aged 12 to 14 working 14 hours or more per
+week (see Figure A1). For those aged 12 to 14, the 14-hour threshold distinguishes between permissible light
+work and other work. The same threshold was used in earlier estimates. It corresponds to two hours of work
+per day over a calendar week, covering both school days and weekends.
+The child labour statistical framework of the International Conference of Labour Statisticians provides a separate
+measurement of hazardous unpaid household services by children. The indicator captures the performance
+of household chores by children aged 5 to 14 for 21 or more hours per week. There are no hour thresholds for
+children aged 15 to 17.
+Data sources
+The estimates are based on a wide range of nationally representative household surveys that fully or partially
+cover children aged 5 to 17. In total, the estimates used 106 national data sets, tracking 66 per cent of the
+world’s population of children in that age group. The data sets came from 32 national Multiple Indicator Cluster
+Surveys implemented with UNICEF’s support; 30 national labour force surveys conducted under Eurostat
+regulations with figures specific to children aged 15 to 17; 22 additional national labour force surveys or other
+national household surveys; 16 child labour surveys implemented with the ILO; and 6 Demographic and Health
+Surveys implemented mostly with funding from the United States Agency for International Development.
+Eighty per cent of surveys were within the reference period of 2016 to 2020.
+The harmonization of reference years was carried out as part of the calculation of extrapolation weights. The
+main means of harmonizing national data sets was by processing national household survey data according
+to a pre-defined framework favouring comparability across countries and over time, following internationally
+agreed standards, concepts and definitions. Population data came from the United Nations World Population
+Prospects, with annual indicators by broad age groups and sex, and for different countries and years based
+on the latest 2020 data.
+Modelling strategy for imputation
+For countries without data, an imputation model was constructed, premised on the understanding that data
+were not missing at random and that variables describing country characteristics contained useful information.
+Two broad classes of indicators were produced on rates and distributions. Rates included children in
+employment (CiE), child labour, hazardous work, domestic work and the two indicators used for reporting
+on SDG target 8.7 (the proportion of children engaged in economic activity, and the proportion of children
+engaged in economic activity and household chores). The rates were computed based on the proportion of a
+relevant population. For instance, the CiE rate was calculated as a share of children in employment in the total
+population of children.
+Distribution indicators were further breakdowns of the CiE, child labour and hazardous work rates, comprising
+status in employment, school attendance and economic activity.
+Except for domestic work,94 the rate indicators were defined at the country, sex, age and geographic levels
+as follows:
+Age groups Sex Geography
+• 5 to 11 • Male • Rural
+• 12 to 14 • Female • Urban
+• 15 to 17 • Total • National
+• 5 to 17
+80
+
+To produce modelled estimates, regression techniques established relationships between observed data and
+explanatory variables, which are good predictors of child labour according to the literature. The selection
+of explanatory variables was based on economic theory and empirical studies on the determinants of child
+labour. These explanatory variables were:
+• GDP per capita (purchasing power parity, constant 2011, international dollars)
+• Share of population aged 15 to 24
+• Share of population aged 0 to 14
+• Older population covered by social protection
+• Percentage of population over age 25 with no schooling
+• P
+(cid:127)
+erc
+S
+e
+ha
+n
+r
+t
+e
+a g
+of
+e
+p
+o
+o
+f
+p u
+p
+l
+o
+at
+p
+io
+u
+n
+la
+a
+t
+g
+io
+e
+n
+d 0
+o
+-­‐
+v
+1
+e
+4
+r age 25 with completed primary education
+(cid:127) Older population covered by social protection
+• Fertility rate
+(cid:127) Percentage of population over age 25 with no schooling
+• R (cid:127) uraPle rpcoepntualgaet ioofn p sophualraetion over age 25 with completed primary education
+• A(cid:127) griFceurlttiluitrya rl aetem ployment percentage
+• U
+(cid:127)
+ne
+R
+m
+ur
+p
+a
+l
+l
+o
+p
+y
+o
+m
+pu
+e
+l
+n
+at
+t
+i o
+ra
+n
+t
+s
+e
+h a
+(p
+re
+e rcentage, aged 15 to 24)
+(cid:127) Agricultural employment percentage
+• Unemployment rate (percentage, aged 15 to 64)
+(cid:127) Unemployment rate (percentage, aged 15-­‐24)
+• L
+(cid:127)
+abUonuer minpclooymmee ndti srattreib (upteirocne,n t7a gteo, 1ag0e dd e1c5-­‐il6e4 )in clusive
+• Y(cid:127) ouLthab nooutr iinnc eommep dloisytmribeuntito, ne, d7u-­‐1c0a dtieocnile o inr ctlruasiinvien g
+Gretchen Luchsinger 5/21/2021 1:35 PM
+(cid:127) Youth not in employment, education or training 
+Comment [68]: Is this correct?
+R egional aggregates
+TRheeg iiomnpalu atgagtrioegna tperso cedure for missing rates and distributions provided a complete set of modelled estimates
+foThr ee aimcphu tiantdioicna ptororc eadnudre c foour nmtrisys ining trhatee sw aonrdld d. isTtrhibeu tleiovnesl parto vwidheidc ha dcoamtap leatree saevt aoifla mbloed,e lhleodw ever, depends on
+theset iimndatiecsa tfoorr. each indicator and country in the world. The level at which data are available, however,
+depends on the indicator.
+A s an example, in Asia and the Pacific, for each sex, age and geography breakdown for the CiE model, we first
+oAbst aainn eedxa tmhpel et,o itna lA rseiag iaonnda lt hneu mPabciefirc ,o ffo rc heialdchre gne nind eerm, apgleo yamnde nget obgyra pahdyd ibnrgea tkhdeo wnnu mfobr ethrse oCfiE c hildren in employ-
+mmeondte fl,o wr ee faircsht ocbotauinnetrdy .t hTeh tiost awl aresg itohnea ln nuummeberar toof rc hfoilrd rtehne i nre egmiopnloaylm CeinEt bray taed.d Finogr ththee n udmenbeorms oinf ator, we added the
+tochtaildl rpeonp iun laetmiopnlo oymf eeantc hfo cr oeuacnhtr yc,o upnrotrdy.u Tchinisg w thase trheeg inounmael rCatiEor rfaotre .t hWe er ecgaionn aall sCoiE e rxaptere. sFosr t hthee rate as the average
+denominator, we added the total population of each country, producing the regional CiE rate. We can
+of country CiE rates weighted by their respective shares in the regional population. Specifically:
+also express the rate as the average of country CiE rates weighted by their respective shares in the Tina Johnson  5/24/2021 7:58 AM
+regional population. Specifically: Comment [69]: Or is it the total number of
+children?
+Asia and Pacific
+Asia!∈ and Pacific 𝐶𝐶𝐶𝐶𝐶𝐶 𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿!"#$
+CıE!"#$ !"# !"#$%$#,!"# =
+!∈ 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑛𝑛!"#$
+Asia and Pacific
+!∈ Asia and P𝐶𝐶ac𝐶𝐶i𝐸𝐸fic!"#$∗𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑃𝑃𝑃𝑃𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑛𝑛!"#$
+Asi a a n d P a c if i c
+=
+!∈ 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑛𝑛!"#$
+wwhh = eerree ! ∈ A s ia a n d P a c if ωi c ,! 𝐶𝐶 𝐶𝐶 𝐸𝐸 a !a" n #nd $d ddeennootete t hthee a agggrgergeagtea trea trea toef oCfiE C iniE tihne t hAesi aA sainad atnhde tPhaeci fPica cific region
+arnegdi otnh ea nrda tteh eo rf aCteiE o fi nC icEo inu nctoruyn it rfyo ri fsoer xs ej,x aj,g aeg eg rgorouupp k k aanndd ggeeooggraraphpihc ibcr ebarkedaokwdno wl, nre ls,p reecstipveelcyt. ively.
+CıE !"# 𝐶𝐶𝐶𝐶𝐸𝐸!"#$
+MMoorreeoovveerr,,
+Asia a𝑇𝑇nd𝑇𝑇 P𝑇𝑇a𝑇𝑇c𝑇𝑇if i c𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃!"#$
+We computed regional values o𝜔𝜔f ! a≡ll ind
+!∈
+icators in a si
+𝑇𝑇
+m
+𝑇𝑇
+i
+𝑇𝑇
+la
+𝑇𝑇
+r
+𝑇𝑇
+m
+𝑃𝑃
+a
+𝑃𝑃
+n
+𝑃𝑃
+n
+𝑃𝑃
+e
+𝑃𝑃
+r
+𝑃𝑃
+.
+𝑃𝑃𝑃𝑃𝑃𝑃𝑛𝑛!"#$
+W e computed regional values of all indicators in a similar manner.
+Evaluation of the results
+The 106 countries used to generate the estimates are a sample of all the countries in the world. If
+another sample had been selected, the results would have differed to a degree that is important to
+determine in order to understand the robustness of estimated results. This can be done through the
+calculation of standard deviations associated with different global and regional estimates.
+81
+
+Evaluation of the results
+The 106 countries used to generate the estimates are a sample of all the countries in the world. If another
+sample had been selected, the results would have differed to a degree that is important to determine in order
+to understand the robustness of the estimated results. This can be done through the calculation of standard
+deviations associated with different global and regional estimates.
+Accordingly, the standard deviations of the 2020 global and regional estimates were calculated to assess the
+change in estimates caused by sampling variability. This indicator of uncertainty does not account for the
+uncertainty associated with actual observations. Furthermore, the exercise cannot account for unknown bias
+in the modelling procedure. These limitations notwithstanding, the results indicate the margin of error resulting
+from the imputation of countries that has been excluded in a pseudo out-of-sample exercise.
+The variation in the indicator of children in employment was estimated by running the econometric model
+150 times. In each run, countries with a probability of 15 per cent were removed from the sample, which
+resulted on average in 15 countries dropped per run. This yielded the standard deviation of the global and
+regional estimates (see Table A1). Whereas this exercise did not compute a confidence interval (as we were
+not accounting for all sources of uncertainty, including input data uncertainty), it quantified the robustness of
+the modelled estimates.
+Table A1. Children aged 5 to 17 years in employment
+Children in Children in
+employment employment Standard deviation
+(thousands) (percentage) (percentage points)
+World 222,088 13.3 1.0
+Africa 124,122 29.1 0.8
+Sub-Saharan Africa 115,766 32.0 0.8
+Americas 14,672 7.5 0.6
+Latin America and the
+12,422 9.1 0.7
+Caribbean
+Arab States 3,447 8.1 -
+Asia and the Pacific 67,960 7.8 1.8
+Europe and Central Asia 11,886 8.2 0.7
+Notes: The table shows regional groupings used for ILO reporting. The dash for the Arab States indicates that the standard deviation could not be calculated
+due to the small number of available data sets for this region.
+82
+
+ENDNOTES
+1. See Resolution II concerning statistics on child labour in: International worldbank.org/en/topic/fragilityconflictviolence/brief/harmonized-
+Labour Organization, ‘Report of the Conference: 18th International list-of-fragile-situations>, accessed 4 June 2021.
+Conference of Labour Statisticians, Geneva, 24 November–5
+16. United Nations General Assembly, ‘Assistance to Refugees,
+December 2008’, ICLS/18/2008/IV/FINAL, ILO, Geneva, 2009.
+Returnees and Displaced Persons in Africa: Report of the Secretary-
+Although there is a more recent resolution concerning statistics on
+General’, A/75/322, United Nations, New York, 24 August 2020,
+child labour (20th International Conference of Labour Statisticians,
+<https://digitallibrary.un.org/record/3886099>, accessed 4 June
+2018), most countries still use the previous statistical framework
+2021.
+(18th International Conference of Labour Statisticians, 2008). The
+ILO is actively supporting the efforts of countries to transition to the 17. Joint United Nations Programme on HIV/AIDS, Seizing the Moment:
+most recent statistical standards. Once a critical mass of household Tackling entrenched inequalities to end epidemics – Global AIDS
+surveys uses the new statistical standards, it will be possible to update 2020, UNAIDS, Geneva, 2020.
+produce global and regional estimates based on them. 18. See, for example, International Labour Organization, ‘An Overview
+2. Two indicators are used for reporting on SDG target 8.7. The first is of Child Labour in Agriculture’, ILO and the International Programme
+based on the production boundary of the United Nations System on the Elimination of Child Labour, Geneva, 2007, <www.ilo.
+of National Accounts (Indicator 8.7.1) and the second on the org/wcmsp5/groups/public/---asia/---ro-bangkok/documents/
+general production boundary (Indicator 8.7.2). The 21 weekly hours publication/wcms_098346.pdf>, accessed 26 May 2021.
+threshold for household chores hours is consistent with the number 19. See, for example, International Labour Organization, ‘Fishing and
+used for indicator 8.7.2. Aquaculture’, ILO, Geneva, <www.ilo.org/ipec/areas/Agriculture/
+WCMS_172419/lang--en/index.htm#:~:text=The%20ILO%20
+3. Prior to 2008, global estimates were limited to children in economic
+considers%20fishing%20a,time%20far%20away%20from%20
+activity in the narrower 5 to 14 age range.
+home>, accessed 26 May 2021.
+4. The World Bank, ‘World Development Indicators’, World Bank,
+20. See, for example, Child Labour Platform and International Labour
+Washington, DC, <https://datatopics.worldbank.org/world-
+Organization, Child Labour in Mining and Global Supply Chains, ILO,
+development-indicators>, accessed 7 June 2021. Latest years
+Geneva, May 2019, <www.ilo.org/wcmsp5/groups/public/---asia/-
+available. Extreme poverty is defined as living on less than $1.90 per
+--ro-bangkok/---ilo-manila/documents/publication/wcms_720743.
+person per day in 2011 purchasing power parity. The percentage of
+pdf>, accessed 26 May 2021.
+the population living in extreme poverty is 1 per cent in East Asia
+and the Pacific and 3.7 per cent in Latin America and the Caribbean. 21. Edmonds, Eric V., ‘Economic Growth and Child Labor in Low Income
+Economies’, GLM|LIC Synthesis Paper No. 3, IZA Institute of Labor
+5. ‘World Development Indicators’.
+Economics, Bonn, April 2016, <https://g2lm-lic.iza.org/wp-content/
+6. Ibid. uploads/2017/06/glmlic_sp003.pdf>, accessed 26 May 2021.
+7. United Nations Development Programme, ‘Informality and Social 22. ‘Classification of Fragile and Conflict-Affected Situations’.
+Protection in African Countries: A forward-looking assessment’,
+23. United Nations Children’s Fund and Save the Children, ‘Children in
+UNDP, New York, 2021.
+Monetary Poor Households and COVID-19: Technical note’, UNICEF,
+8. International Labour Organization, Women and Men in the Informal New York, November 2020, <https://data.unicef.org/resources/
+Economy: A statistical picture, International Labour Office, Geneva, children-in-monetary-poor-households-and-covid-19>, accessed
+2018, <www.ilo.org/wcmsp5/groups/public/---dgreports/--- 24 May 2021.
+dcomm/documents/publication/wcms_626831.pdf>, accessed 17
+24. See, for example: Brazil: Duryea, Suzanne, David Lam and Deborah
+May 2021.
+Levison, ‘Effects of Economic Shocks on Children’s Employment
+9. International Labour Organization, World Social Protection Report and Schooling in Brazil’, Journal of Development Economics, vol.
+2017-19: Universal social protection to achieve the Sustainable 84, no. 1, 2007, pp. 188-214; Guatemala: Guarcello, Lorenzo,
+Development Goals, International Labour Office, Geneva, 2017. Fabrizia Mealli and Furio C. Rosati, ‘Household Vulnerability and
+Child Labor: The effect of shocks, credit rationing, and insurance’,
+10. World Bank, The State of Social Safety Nets 2018, World Bank,
+Journal of Population Economics, vol. 23, no. 1, 2010, pp. 169-198;
+Washington, DC, 2018, <https://openknowledge.worldbank.org/
+India: Jacoby, Hanan G., and Emmanuel Skoufias, ‘Risk, Financial
+handle/10986/29115>, accessed 7 June 2021.
+Markets, and Human Capital in a Developing Country’, The Review
+11. World Social Protection Report 2017-19. of Economic Studies, vol. 64, no. 3, 1997, pp. 311-335; Mexico: De
+Janvry, Alain, et al., ‘Can Conditional Cash Transfer Programs Serve
+12. United Nations Educational, Scientific and Cultural Organization
+as Safety Nets in Keeping Children at School and from Working
+Institute for Statistics, ‘Education in Africa’, UIS, Montreal, Quebec,
+When Exposed to Shocks?’, Journal of Development Economics, vol.
+2021, <http://uis.unesco.org/en/topic/education-africa>, accessed
+79, no. 2, 2006, pp. 349-373; United Republic of Tanzania: Beegle,
+7 June 2021.
+Kathleen, Rajeev H. Dehejia and Roberta Gatti, ‘Child Labor and
+13. ‘World Development Indicators’. Agricultural Shocks’, Journal of Development Economics, vol. 81, no.
+1, 2006, pp. 80-96.
+14. Figures for 2008 are from Diallo, Yacouba, et al., Global Child Labour
+Developments: Measuring trends from 2004 to 2008, International 25. One example: Edmonds, Eric V., and Norbert Schady, ‘Poverty
+Programme on the Elimination of Child Labour, International Labour Alleviation and Child Labor’, American Economic Journal: Economic
+Office, Geneva, 2010. Figures for 2020 are from United Nations, Policy, vol. 4, no. 4, 2012, pp. 100-124.
+2019 Revision of World Population Prospects, Department of
+26. Human Rights Watch, ‘“I Must Work to Eat”: COVID-19, poverty, and
+Economic and Social Affairs, New York, 2019, <https://population.
+child labor in Ghana, Nepal, and Uganda’, Human Rights Watch,
+un.org/wpp/>, accessed 7 June 2021.
+New York, 2021, <www.hrw.org/report/2021/05/26/i-must-work-
+15. World Bank, ‘Classification of Fragile and Conflict-Affected eat/covid-19-poverty-and-child-labor-ghana-nepal-and-uganda#>,
+Situations’, World Bank, Washington, DC, July 2020, <www. accessed 4 June 2021.
+83
+
+27. International Cocoa Initiative, ‘Changes in Hazardous Child Labour ed., International Labour Office, Geneva, 2018, <www.ilo.org/
+in Côte d’Ivoire’s Cocoa Communities Before and After COVID-19 wcmsp5/groups/public/---ed_norm/---ipec/documents/publication/
+Partial Lockdown’, ICI, Châtelaine, Switzerland, November 2020, wcms_653987.pdf>, accessed 24 May 2021; United Nations
+<https://cocoainitiative.org/knowledge-centre-post/changes-in- Children’s Fund, ‘Child Protection Advocacy Brief: Child labour’,
+hazardous-child-labour-in-cote-divoires-cocoa-communities- UNICEF, New York, 2018, <www.unicef.org/media/73651/file/Child-
+before-and-after-covid-19-partial-lockdown>, accessed 14 May Protection-Advocacy-Child-Labour-2018.pdf.pdf>, accessed 24
+2021. May 2021.
+28. United Nations Children’s Fund Ecuador and Inclusión SAS, ‘El 38. International Labour Organization, ‘Financing Gaps in Social
+Choque COVID-19 en la Pobreza, Desigualdad y Clases Sociales Protection: Global estimates and strategies for developing countries
+en el Ecuador: Una mirada a los hogares con niñas, niños y in light of COVID-19 and beyond’, ILO Brief: Social Protection
+adolescentes’, UNICEF, Quito, 21 October 2020, <www.unicef.org/ Spotlight, ILO, Geneva, 17 September 2020, <www.ilo.org/wcmsp5/
+ecuador/informes/el-choque-covid-19-en-la-pobreza-desigualdad- groups/public/---ed_protect/---soc_sec/documents/publication/
+y-clases-sociales-en-el-ecuador>, accessed 14 May 2021. wcms_755475.pdf>, accessed 24 May 2021.
+29. International Labour Organization, ‘Parents Send Their Children to 39. United Nations General Assembly, ‘Addis Ababa Action Agenda of
+Child Labour to Overcome the Economic Crisis of COVID-19’, Our The Third International Conference on Financing for Development’,
+Impact, Their Voices feature, ILO, Geneva, 25 June 2020, <www. A/RES/69/313, United Nations, New York, 27 July 2015.
+ilo.org/africa/media-centre/articles/WCMS_749347/lang--en/index.
+40. United Nations Children’s Fund Office of Research–Innocenti,
+htm>, accessed 14 May 2021.
+‘COVID-19 and the Looming Debt Crisis’, UNICEF-IRC, Florence,
+30. United Nations Children’s Fund Brazil, ‘UNICEF Alerta para 2021, <www.unicef-irc.org/publications/pdf/Social-spending-
+Aumento de Incidência do Trabalho Infantil Durante a Pandemia em series_COVID-19-and-the-looming-debt-crisis.pdf>, accessed 24
+São Paulo’, UNICEF, São Paulo, August 2020, <www.unicef.org/ May 2021.
+brazil/comunicados-de-imprensa/unicef-alerta-para-aumento-de-
+41. Bakrania, Shivit and Ramya Subrahmanian, ‘Impacts of Pandemics
+incidencia-do-trabalho-infantil-durante-pandemia-em-sao-paulo>,
+and Epidemics on Child Protection: Lessons learned from a rapid
+accessed 14 May 2021.
+review in the context of COVID-19’, Innocenti Research Briefs no.
+31. World Vision, ‘Act Now: Experiences and recommendations of girls 2020-16, UNICEF-IRC, Florence, 2020.
+and boys in West Africa during COVID-19’, 2020, <www.wvi.org/
+42. ‘Children in Monetary Poor Households and COVID-19’.
+sites/default/files/2020-11/5-WV-WARO-Report-29-10-20.pdf>,
+accessed 14 May 2021. 43. See, for example, Dammert, Ana C., Jacobus de Hoop, Eric
+Mvukiyehe and Furio C. Rosati, ‘Effects of Public Policy on Child
+32. Franceinfo Afrique, ‘Burkina Faso: Malgré le coronavirus, les enfants
+Labor: Current knowledge, gaps, and implications for program
+travaillent toujours dans la carrière de Pissy’, 2 July 2020, <www.
+design’, World Development, vol. 110, 2018, pp. 104-123.
+francetvinfo.fr/monde/afrique/burkina-faso/burkina-faso-malgre-
+le-coronavirus-les-enfants-travaillent-toujours-dans-la-carriere-de- 44. See, for example, International Labour Organization and United
+pissy_4023037.html>, accessed 14 May 2021. Nations Children’s Fund, Towards Universal Social Protection for
+Children: Achieving SDG 1.3 – ILO-UNICEF joint report on social
+33. International Labour Organization and United Nations Children’s
+protection for children, ILO and UNICEF, Geneva and New York,
+Fund, ‘Technical Report on the 2020 Child Labour Global Estimates’,
+2019.
+forthcoming.
+45. International Labour Organization, World Social Protection Report
+34. The selected model includes a single poverty line ($3.20 a day line
+2020-2022, ILO, Geneva, forthcoming.
+in 2011 purchasing power parity dollars), two control variables (age
+group and region) and social protection coverage (proportion of the 46. Bastagli, Francesca, Ian Orton and David Stewart, ‘From COVID-19
+population protected in at least one area of social protection). The Response to Recovery: What role for universal child benefits?’,
+poverty data are from the World Bank, Macro and Poverty Outlook: United Nations Children’s Fund blog, October 2020, <https://
+Country-by-country analysis and projections for the developing blogs.unicef.org/evidence-for-action/from-covid-19-response-to-
+world, World Bank, Washington, DC, 2021, <https://www. recovery-what-role-for-universal-child-benefits>, accessed 24 May
+worldbank.org/en/publication/macro-poverty-outlook>, accessed 2021.
+15 July 2021, combined with World Bank estimates of the impact
+47. World Social Protection Report 2020-2022; see also United Nations
+of COVID-19 on poverty. For a discussion of the methodology to
+Development Programme and United Nations Entity for Gender
+estimate the impact, see Gerszon Mahler, Daniel, et al., ‘Updated
+Equality and the Empowerment of Women, ‘COVID-19 Global
+Estimates of the Impact of COVID-19 on Global Poverty: Turning
+Gender Response Tracker’, UNDP and UN Women, New York,
+the corner on the pandemic in 2021?’, World Bank Blogs, 24 June
+<https://data.undp.org/gendertracker>, accessed 24 May 2021.
+2021, <https://blogs.worldbank.org/opendata/updated-estimates-
+impact-covid-19-global-poverty-turning-corner-pandemic-2021>, 48. See, for example, Towards Universal Social Protection for Children.
+accessed 10 February 2021. 49. See, for example, Dammert, et al., ‘Effects of Public Policy on Child
+35. International Labour Organization, ‘Declaration Concerning the Labor’; De Hoop, Jacobus, and Furio C. Rosati, ‘Cash Transfers
+Aims and Purposes of the International Labour Organisation and Child Labor’, The World Bank Research Observer, vol. 29, no.
+(Declaration of Philadelphia)‘, Annex, ILO Constitution, ILO, 2, 2014, pp. 202-234; Rosati, Furio C., ‘Can Cash Transfers Reduce
+Geneva, 1944, <www.ilo.org/legacy/english/inwork/cb-policy- Child Labor?’ IZA World of Labour, April 2016, <https://wol.iza.org/
+guide/declarationofPhiladelphia1944.pdf>, accessed 7 June 2021. uploads/articles/293/pdfs/can-cash-transfers-reduce-child-labor.
+pdf>, accessed 24 May 2021.
+36. International Labour Organization and United Nations Children’s
+Fund, ‘COVID-19 and Child Labour: A time of crisis, a time to act’, 50. de Hoop, Jacobus, Valeria Groppo and Sudhanshu Handa, ‘Cash
+ILO and UNICEF, New York, 2020, <www.ilo.org/wcmsp5/groups/ Transfers, Microentrepreneurial Activity, and Child Work: Evidence
+public/---ed_norm/---ipec/documents/publication/wcms_747421. from Malawi and Zambia’, The World Bank Economic Review, vol.
+pdf>, accessed 24 May 2021. 34, no. 3, pp. 670-697, <https://doi.org/10.1093/wber/lhz004>,
+accessed 24 May 2021; Rosati, ‘Can Cash Transfers Reduce Child
+37. See, for example, International Labour Organization, Ending
+Labor?’.
+Child Labour by 2025: A review of policies and programmes, 2nd
+84
+
+51. Bastagli, Francesca, et al., Cash Transfers: What does the evidence Unpacking Sustainable Development Goal 4: Education 2030 – Guide,
+say? A rigorous review of programme impact and of the role of design UNESCO, Paris, September 2016, <www.unesco.ch/wp-content/
+and implementation features, Overseas Development Institute, uploads/2017/01/Unpacking-sdg4.pdf>, accessed 24 May 2021.
+London, July 2016, <https://cdn.odi.org/media/documents/11316.
+65. United Nations Children’s Fund, Addressing the Learning Crisis:
+pdf>, accessed 24 May 2021.
+An urgent need to better finance education for the poorest children,
+52. This is particularly relevant to achieve SDG target 1.3 in line with the UNICEF, New York, January 2020, <www.unicef.org/media/63896/
+ILO Social Protection Floors Recommendation. International Labour file/Addressing-the-learning-crisis-advocacy-brief-2020.pdf>,
+Conference, ‘ILO Social Protection Floors Recommendation, 2012 accessed 24 May 2021.
+(No. 202)’, 2012, <www.social-protection.org/gimi/ShowRessource.
+66. See, for example, United Nations Children’s Fund Office of
+action?ressource.ressourceId=31088#:~:text=202)%20was%20
+Research–Innocenti, ‘Gender-Responsive and Age-Sensitive Social
+adopted%20by%20the,national%20floors%20of%20social%20
+Protection’, UNICEF-IRC, Florence, <www.unicef-irc.org/research/
+protection>, accessed 24 May 2021.
+gender-responsive-and-age-sensitive-social-protection>, accessed
+53. ‘Financing Gaps in Social Protection: Global estimates’. 24 May 2021.
+54. Richardson, Dominic, Alessandro Carraro, Victor Cebotari and Anna 67. International Labour Organization, ‘ILO Monitor: COVID-19 and the
+Gromada, ‘Supporting Families and Children Beyond COVID-19: world of work – Updated estimates and analysis’, ILO, Geneva,
+Social protection in high-income countries’, Innocenti Research April 2020, <www.ilo.org/wcmsp5/groups/public/---dgreports/---
+Report, UNICEF-IRC, Florence, December 2020, <www.unicef-irc. dcomm/documents/briefingnote/wcms_743146.pdf>, accessed 7
+org/publications/1165-supporting-families-and-children-beyond- June 2021.
+covid-19-social-protection-in-high-income-countries.html>,
+68. For a more detailed discussion of this point, see ILO Recommendation
+accessed 24 May 2021.
+No. 204, which provides guidance to governments and employers’
+55. United Nations Educational, Scientific and Cultural and workers’ organizations on the multiple policy dimensions of the
+Organization, ‘Education: From disruption to recovery’, transition from the informal to the formal economy. International
+UNESCO, Paris, 2021, <https://en.unesco.org/covid19/ Labour Organization, ‘Transition from the Informal to the Formal
+educationresponse#durationschoolclosures>, accessed 24 May Economy Recommendation, 2015 (No. 204)’, ILO, Geneva, 2015,
+2021. <www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:
+:P12100_ILO_CODE:R204>, accessed 24 May 2021.
+56. United Nations Children’s Fund, ‘COVID-19: Are children able to
+continue learning during school closures? A global analysis of the 69. International Labour Organization, Interactions Between Workers’
+potential reach of remote learning policies using data from 100 Organizations and Workers in the Informal Economy: A compendium
+countries’, UNICEF, New York, August 2020, <https://data.unicef. of practice, ILO, Geneva, 2019, <www.ilo.org/wcmsp5/groups/
+org/resources/remote-learning-reachability-factsheet>, accessed public/---ed_protect/---protrav/---travail/documents/publication/
+24 May 2021; ‘Education: From disruption to recovery’. wcms_735630.pdf>, accessed 24 May 2021.
+57. Nordtveit, Bjorn Harald, ‘Schools as Agencies of Protection in 70. International Labour Organization, ‘Extending Social Security
+Namibia and Swaziland: Can they prevent dropout and child labor Coverage to Workers in the Informal Economy: Lessons from
+in the context of HIV/AIDS and poverty?’, Comparative Education international experience’, ILO, Geneva, 2021, <www.social-
+Review, vol. 54, no. 2, 2010, pp. 223-242. protection.org/gimi/RessourcePDF.action?id=55728>, accessed 7
+June 2021.
+58. One example: Edmonds and Schady, ‘Poverty Alleviation and Child
+Labor’. 71. Ending Child Labour by 2025.
+59. United Nations Children’s Fund, ‘Reimagine Education’, UNICEF, 72. See also International Labour Organization Cooperative Programme,
+New York, undated, <www.unicef.org/media/87286/file/Reimagine International Programme on the Elimination of Child Labour and
+Education Brochure-2020.pdf>, accessed 24 May 2021. International Co-operative Alliance, Cooperating out of Child Labour:
+Harnessing the untapped potential of cooperatives and the cooperative
+60. United Nations Educational, Scientific and Cultural Organization,
+movement to eliminate child labour, ILO, Geneva, 2009, <www.ilo.
+‘Leading SDG 4 - Education 2030’, UNESCO, Paris, 2019, <https://
+org/ipecinfo/product/download.do?type=document&id=23875>,
+en.unesco.org/themes/education2030-sdg4>, accessed 24 May
+accessed 24 May 2021.
+2021.
+73. See also Food and Agriculture Organization of the United Nations,
+61. United Nations Educational, Scientific and Cultural Organization,
+‘Sustainable Food Systems: Concept and framework’, FAO, Rome,
+‘Close to 69 Million New Teachers Needed to Reach 2030 Education
+2018, <www.fao.org/3/ca2079en/CA2079EN.pdf>, accessed 24
+Goals’, UNESCOPRESS, UNESCO, Paris, 15 October 2016, <www.
+May 2021.
+unesco.org/new/en/media-services/single-view/news/close_to_69_
+million_new_teachers_needed_to_reach_2030_educat>, accessed 74. International Labour Organization and Food and Agriculture
+24 May 2021. Organization of the United Nations, Extending Social Protection to
+Rural Populations: Perspectives for a common FAO and ILO approach,
+62. See, for example, United Nations Educational, Scientific and
+ILO and FAO, Geneva, 2021, <www.fao.org/3/cb2332en/CB2332EN.
+Cultural Organization, ‘New Methodology Shows that 258 Million
+pdf>, accessed 24 May 2021.
+Children, Adolescents and Youth Are Out of School’, Fact Sheet no.
+56, UIS/2019/ED/FS/56, UNESCO, Paris, September 2019, <http:// 75. International Labour Organization, ‘Employment-Intensive
+uis.unesco.org/sites/default/files/documents/new-methodology- Investment in Rural Infrastructure for Economic Development,
+shows-258-million-children-adolescents-and-youth-are-out- Social and Environmental Protection and Inclusive Growth’,
+school.pdf>, accessed 24 May 2021. Policy guidance note, ILO, Geneva, 2019, <www.ilo.org/global/
+topics/economic-and-social-development/rural-development/
+63. See, for example, Ending Child Labour by 2025; United Nations
+WCMS_437195/lang--en/index.htm>, accessed 24 May 2021.
+Children’s Fund, Every Child Learns: UNICEF education strategy 2019-
+2030, UNICEF, New York, 2019, <www.unicef.org/media/59856/file/ 76. Ibid.
+UNICEF-education-strategy-2019-2030.pdf>, accessed 24 May
+77. Food and Agriculture Organization of the United Nations, ‘Ending
+2021.
+Child Labour: The decisive role of agricultural stakeholders’, FAO,
+64. United Nations Educational, Scientific and Cultural Organization, Rome, 2017, <www.fao.org/3/i8177e/i8177e.pdf>, accessed 24
+85
+
+May 2021. normlex/en/f?p=NORMLEXPUB:1:0>, accessed 24 May 2021.
+78. International Labour Organization, Organisation for Economic Co- 88. Kapoor, Sony, ‘Frontloading Finance Can Save Lives, Tackle Climate
+operation and Development, International Organization for Migration Change and Generate Real Impact’, OECD Development Matters,
+and United Nations Children’s Fund, Ending Child Labour, Forced OECD, Paris, 28 April 2021, <https://oecd-development-matters.
+Labour and Human Trafficking in Global Supply Chains, ILO, OECD, org/2021/04/28/frontloading-finance-can-save-lives-tackle-
+IOM and UNICEF, Geneva, 2019, <www.ilo.org/wcmsp5/groups/ climate-change-and-generate-real-impact>, accessed 24 May
+public/---ed_norm/---ipec/documents/publication/wcms_716930. 2021.
+pdf>, accessed 24 May 2021.
+89. World Vision International, et al., Counting Pennies 2: A review of
+79. United Nations and United Nations Office of the High Commissioner official development assistance to end violence against children, World
+for Human Rights, Guiding Principles on Business and Human Rights: Vision International, Uxbridge, United Kingdom, 2021, <https://
+Implementing the United Nations ‘Protect, Respect and Remedy’ reliefweb.int/report/world/counting-pennies-2-analysis-official-
+Framework, United Nations, New York and Geneva, 2011, <www. development-assistance-end-violence-against>, accessed 24 May
+ohchr.org/documents/publications/guidingprinciplesbusinesshr_ 2021.
+en.pdf>, accessed 24 May 2021.
+90. Alliance 8.7, ‘Partners’, 2018, <www.alliance87.org/
+80. Ending Child Labour, Forced Labour and Human Trafficking. partners/#tab-2>, accessed 24 May 2021.
+81. United Nations Children’s Fund, UNICEF Humanitarian Action for 91. Alliance 8.7, ‘Pathfinder Countries: Leading the way to achieve
+Children 2017, UNICEF, New York, 2017, <www.unicef.org/reports/ target 8.7’, 2018, <www.alliance87.org/pathfinder-countries>,
+humanitarian-action-children-2017-overview>, accessed 24 May accessed 24 May 2021.
+2021.
+92. Specifically, the International Union of Food, Agricultural, Hotel,
+82. One ILO study showed that child labour in situations of armed Restaurant, Catering, Tobacco and Allied Workers’ Associations.
+conflict was 77 per cent higher than the global average. See:
+93. For the purpose of global estimates of child labour, designated
+International Labour Organization, ‘Global Estimates of Child
+hazardous occupations are those defined in ISCO-88 codes 313,
+Labour: Results and trends 2012-2016’, International Labour Office,
+322, 323, 516, 614, 615, 711-713, 721-724, 731, 732, 811-816,
+Geneva, 2017, <www.ilo.org/wcmsp5/groups/public/---dgreports/--
+821-823, 825-829, 832-834, 911, 912, 915, 916, 921, 931 and 933.
+-dcomm/documents/publication/wcms_575499.pdf>, accessed 24
+As a large number of countries have adopted the new ISCO-08
+May 2021.
+classification system, these ISCO-88 codes have been converted
+83. United Nations Children’s Fund, ‘Education in Emergencies: into the corresponding three- and four-digit ISCO-08 codes. The
+Education is a lifeline for children in crisis’, <www.unicef.org/ list for ISCO-08 includes 223, 224, 226, 312, 313, 321-322, 324-
+education/emergencies#:~:text=UNICEF%27s%20work%20 325, 352, 541, 621-622, 711-712, 721-723, 731, 741, 742, 754,
+to%20deliver%20education,displaced%20children%2C%20 811-818, 821, 832-835, 921, 931, 933, 951, 961, 962, 2230, 2240,
+refugees%20and%20migrants>, accessed 24 May 2021. 2264-2267, 2269, 3121-3123, 3131-3135, 3211, 3213, 3214, 3221,
+3222, 3240, 3251, 3253-3257, 3259, 3431, 3521, 5212, 5243, 5244,
+84. Alliance for Child Protection in Humanitarian Action, ‘Minimum
+5411-5414, 5419, 6210, 6221-6224, 7111-7115, 7119, 7121-7127,
+Standards for Child Protection in Humanitarian Action’, 2nd ed.,
+7211-7215, 7221-7224, 7231-7234, 7311-7316, 7411-7413, 7421,
+Alliance for Child Protection in Humanitarian Action, 2019, <https://
+7422, 7541, 7542, 7549, 8111-8114, 8121, 8122, 8131, 8141-8143,
+alliancecpha.org/en/CPMS_home>, accessed 24 May 2021.
+8151, 8153-8157, 8159, 8160, 8171, 8172, 8181-8183, 8189, 8211,
+85. Alliance for Child Protection in Humanitarian Action, Inter-Agency 8212, 8219, 8321, 8322, 8331, 8332, 8341- 8344, 8350, 9211-9216,
+Toolkit: Preventing and responding to child labour in humanitarian 9311-9313, 9331-9334, 9510, 9520, 9611-9613, 9621-9624 and
+action, Alliance for Child Protection in Humanitarian Action, 2020, 9629. International Labour Organization, ‘International Standard
+<https://alliancecpha.org/en/system/tdf/library/attachments/child_ Classification of Occupations’, ILO, Geneva, <https://ilostat.ilo.org/
+labour_toolkit_1.pdf?file=1&type=node&id=42551>, accessed 24 resources/concepts-and-definitions/classification-occupation>,
+May 2021. accessed 5 June 2021.
+86. As of 11 May 2021, 196 countries are party to it, including every 94. The domestic work rate does not have breakdowns by geography
+member state of the United Nations except the United States. as data are only available for the national level.
+87. International Labour Organization, ‘NORMLEX: Information system
+on international labour statistics’, ILO, Geneva, <www.ilo.org/dyn/
+86
+
+utaS/7902930NU/FECINU
+©
+87

@@ -1,0 +1,1109 @@
+Illicit Financial Flows, Trade
+Misinvoicing, and Multinational
+Tax Avoidance: The Same or
+Different?
+Maya Forstater
+Abstract
+Illicit financial flows (IFFs) connected with corruption, crime, and tax evasion are an issue
+of increasing concern. A target to reduce IFFs is included in the Sustainable Development
+Goals (SDGs). However, there is not yet a clear consensus on how to define illicit financial
+flows, and even less on how to measure them. In particular, while tax fraud and evasion
+clearly fall within the definition “illicit,” several arguments have been put forward for
+widening the term to also include legal behaviour which reduces tax payments. Rationales for
+this include the dictionary definition of the word “illicit” and the existence of enforcement
+uncertainty. One of the most practically compelling arguments has been a belief that there
+is a large “grey zone” reflecting an absence of clear defining lines between legal tax planning
+and tax evasion. This is often linked to the idea that transfer pricing and trade misinvoicing are
+areas of overlapping practice where major multinational companies engage in illicit financial
+flows. This paper explores the definitional questions and the estimates of trade misinvoicing
+to shed light on whether these behaviours and issues are the same or different. This paper
+argues that conflating legal and illegal behaviour under a single definition involves a loss of
+clarity and a risk of confusion.
+Center for Global Development An earlier version of this paper was presented at the Tax Justice Network Annual Conference in
+London in July 2017 and benefited from discussion with participants, particularly Sol Picciotto and
+2055 L Street NW
+John Christensen. It was also presented at the Tax and Good Governance conference on Countering
+Fifth Floor Treaty and Transfer Pricing Abuse organized by the University of Vienna in Cooperation with UN
+Washington DC 20036 Office on Drugs and Crime and the World Bank Group and hosted by the Ministry of Finance, Ghana
+Revenue Authority and Financial Intelligence Centre in Accra, Ghana in July 2017. Thanks also to
+202-416-4000
+Fredrik Erikkson and Michael Anderson for review comments.
+www.cgdev.org
+Maya Forstater. 2018. “Illicit Financial Flows, Trade Misinvoicing, and Multinational Tax Avoidance:
+This work is made available under The Same or Different?” CGD Policy Paper. Washington, DC: Center for Global Development.
+https://www.cgdev.org/publication/illicit-financial-flows-trade-misinvoicing-and-multinational-tax-
+the terms of the Creative Commons
+avoidance
+Attribution-NonCommercial 4.0
+license. CGD is grateful for contributions from the Ford Foundation in support of this work.
+CGD Policy Paper 123
+March 2018
+www.cgdev.org
+
+Contents
+1. Introduction .................................................................................................................................. 1
+1.1 Are tax avoidance and illicit financial flows the same or different? .............................. 2
+2. Illicit financial flows: definition debates ................................................................................... 4
+2.1 Is there already consensus? .................................................................................................. 7
+2.2 Can the dictionary solve it? .................................................................................................. 8
+2.3 Grey areas? ............................................................................................................................. 9
+3. “Trade misinvoicing”: the meeting point between IFFs and avoidance? ......................... 10
+3.1 Problem I: Gaps and mismatches in trade data don’t reliably reflect misinvoicing . 12
+3.2 Problem II: “Misinvoicing” is not mispricing ................................................................ 18
+3.3 Problem III: Findings from trade misinvoicing studies do not reflect corporate
+practice by major multinational companies ........................................................................... 23
+3.4 Are there large hidden margins in commodity trading? ................................................ 25
+4. “Tax-havens”: The meeting point between IFFs and tax avoidance? ............................... 27
+5. Conclusion................................................................................................................................... 29
+Bibliography .................................................................................................................................... 31
+
+1. Introduction
+Illicit financial flows (IFFs) have become an issue of increasing concern over the past 20
+years, reflecting the damage wrought by kleptocracy, corruption, state capture, and organised
+crime. Focusing on cross-border financial flows in particular highlights the role of
+international banks, real estate, and corporate legal structures as vehicles for enabling ill-
+gotten gains to be kept out of the reach of law enforcement.
+The need for international cooperation to assist countries in tracking, tracing, and retrieving
+assets across borders and to prevent impunity is increasingly well recognised. In 2000 the
+UN General Assembly adopted the Convention Against Transnational Organised Crime,
+including a commitment to criminalise the transfer, concealment, or disguise of assets of
+illicit origin. In 2001 the Economic and Social Council agreed a resolution (2001/13) to
+strengthen international cooperation in preventing and combating the transfer of funds of
+illicit origin derived from acts of corruption, and in 2005 the UN Convention Against
+Corruption (UNCAC) was adopted, including commitments on returning stolen assets. Since
+the 9/11 attack in 2001 there has also been increasing in focus on financial networks that
+support terrorism, as part of anti-money laundering controls.
+Cross-border flows of money (or other assets) associated with crime, corruption, and tax
+evasion are diverse, and by their nature hard to measure. However, large estimates of the
+scale of illicit financial flows have played a key role in attracting attention and encouraged
+political momentum. In 2004, Transparency International estimated that ten of the most
+notoriously corrupt heads of state such as Ferdinand Marcos of the Philippines, Sani Abacha
+of Nigeria, and Suharto of Indonesia had together embezzled as much as US$60 billion from
+their countries over the previous 20 years (Transparency International 2004). In the same
+year Peter Reuter and Edwin Truman’s book “Chasing Dirty Money: The Fight Against
+Money Laundering” reviewed emerging global estimates of the proceeds of crime and
+corruption hidden through money laundering, and concluded they were likely to amount to
+several hundreds of billions of dollars annually. In 2005 Raymond Baker published his
+seminal book Capitalism's Achilles Heel: Dirty Money and How to Renew the Free Market System in
+which he set out a global estimate of illicit financial flows in the hundreds of billions. He
+went on to found the NGO Global Financial Integrity “with the aim of quantifying and
+studying the flow of illegal money while promoting public policy solutions to curtail it,”
+which has popularised figures in the order of one trillion dollars in annual illicit financial
+flows from developing countries.1
+In 2007 the government of Norway called on the World Bank to undertake a study of IFFs.
+However, finding the concept too poorly understood to support quantification, the Bank
+instead began by convening the first major international conference on the topic,
+commissioning analytic contributions from diverse experts. This culminated in the
+publication of Draining Development (World Bank, 2012). The book highlighted confusion and
+contestation at every level of the issue; What does “IFFs” include? What do we know about
+1 www.gfintegrity.org/about
+1
+
+them? How can they be measured? What damage do they do? How should they best be
+addressed? Reuter, as editor, concluded that illicit financial flows are diverse and that we
+know too little to take the reductionist approach of assuming that each dollar (whether
+related to grand corruption, criminal enterprise, tax fraud and evasion, or evasion of capital
+controls) does equal damage, or that they can all be dealt with through a single set of actions.
+He argued that focusing on “black box” aggregate figures obscures the causes and
+consequences of different streams and that “it is not clear how much effort should go
+toward halting illicit flows, as opposed to dealing with the underlying phenomena.”
+In 2015 IFFs was included in the Sustainable Development Goals (SDGs) under target 16.4
+to “significantly reduce illicit financial and arms flows, strengthen the recovery and return of
+stolen assets and combat all forms of organised crime.” It was agreed that this would be
+measured using the indicator “total value of inward and outward illicit financial flows.”
+The setting of this target and concrete indicator might perhaps suggest that in the ten years
+since the first conference on illicit financial flows there must have been significant progress
+in resolving the definitional questions, as well as breakthroughs in understanding and
+measurement. In fact the state of knowledge and consensus has hardly advanced, and
+debates are often confused.2
+1.1 Are tax avoidance and illicit financial flows the same or
+different?
+One question which needs to be answered in clarifying, defining, measuring, and effectively
+tackling illicit financial flows is whether the concept should primarily concern financial flows
+that relate to illegal actions, or whether a broader conception should be used that takes in tax
+avoidance by multinational enterprises (so-called base erosion and profit shifting or
+BEPS).
+While these may seem like quite distinct areas of concern it is often that legal transactions
+and practices that result low tax bills should also be included under the umbrella of illicit
+financial flows.
+One argument is that not only should corporate tax avoidance be included as part of IFFs,
+but that it already is. In particular this view has been put forward by the NGOs the Tax
+Justice Network (TJN) and the Global Alliance for Tax Justice (GATJ) and the Independent
+Commission for Reform of International Corporate Taxation (ICRICT) in letters to the UN
+Secretary General. They argue that this is a settled matter and “no amount of
+reinterpretation or redefinition can raise any legitimate question over this point” (see Box 1).
+2 See the review of the state of knowledge and understanding of illicit financial flows at the end of 2017 by
+Frederik Erikkson for the U4 Anti Corruption Resource Centre: https://medium.com/u4-anti-corruption-
+resource-centre/iff-definitions-3f3d0ba106c3
+2
+
+Box 1: Letters to the Secretary General
+Global Alliance for Tax Justice: “The global agreement reached in the Sustainable Development
+Goals to seek to reduce illicit financial flows is an agreement that clearly covers tax avoidance by
+multinational companies. No amount of reinterpretation or redefinition can raise any legitimate
+question over this point. But the effort now to exclude tax avoidance retrospectively is well
+underway.”
+Independent Commission for Reform of International Corporate Taxation: We understand
+that some actors within the UN system are lobbying for a redefinition of the term ‘illicit financial
+flows’ in order retrospectively to exclude tax avoidance by multinational companies from the
+definition. Such a course of action represents a clear threat to the SDG contribution of domestic
+resource mobilization, and will also undermine confidence in the UN’s ability to deliver honestly on
+what member states have previously agreed upon.
+https://www.taxjustice.net/2017/06/23/un-must-defend-target-curtail-multinational-companies-
+tax-abuse/
+Sometimes this argument is made “by the numbers”; it is often stated that tax related illicit
+flows through trade misinvoicing attributed to multinational companies make up the largest
+proportion of illicit financial flows and therefore must be core to the IFFs agenda.
+This paper argues that combining legal and illegal activity into a vaguely defined composite
+category is not something to do lightly, if the overall goal is to strengthen the rule of law,
+democratic accountability, and the effectiveness of states. It sets out the arguments for and
+against including BEPS within the definition of illicit financial flows and examines the
+assumptions behind the methodologies used to calculate popular and influential measures of
+trade misinvoicing which give rise to the “by the numbers” argument.
+3
+
+2. Illicit financial flows: definition debates
+The most common working definitions of illicit financial flows converge around the core
+concept of financial transfers across borders that are in some way related to illegal activity (see Table
+1).
+Table 1. Converging definitions of illicit financial flows
+Source Working definition
+African Tax Administrators Forum “Illicit Financial Flows (IFF) is defined as any money that is illegally earned,
+(2105) Illicit Financial Flows and transferred or utilised”
+Trade Misinvoicing
+Global Financial Integrity (2015) “Funds crossing borders [that] are illegally earned, transferred, and/or
+“Illicit Financial Flows from utilized.”
+Developing Countries: 2004-2013”
+High Level Panel on Illicit Financial “Money illegally earned, transferred or used”
+Flows from Africa (2015)
+Inter-Agency Task Force on “There are… some parameters that members of the Task Force agreed on,
+Financing for Development (2017) namely: i) illicit financial flows constitute money that is illegally earned,
+transferred or used and ii) that crosses borders.”
+OECD (2014) Illicit Financial Flows “There are various definitions of illicit financial flows, but essentially they are
+from Developing Countries generated by methods, practices and crimes aiming to transfer financial capital
+out of a country in contravention of national or international laws.
+United Nations (2016) Coherent IFFs are defined broadly as all cross-border financial transfers, which
+Policies for Combatting Illicit contravene national or international laws.
+Financial Flows
+United Nations (2016) World “There is no agreed definition of the concept of illicit financial flows (IFFs),
+Economic Situation and Prospects but it is generally used to convey three different sources of IFFs: the proceeds
+2016 of commercial tax evasion, revenues from criminal activities, and public
+corruption.”
+World Bank (2016) The World Bank “Generally refers to cross-border movement of capital associated with illegal
+Group’s response to illicit financial activity or more explicitly, money that is illegally earned, transferred or used
+flows: a stocktaking that crosses borders.”
+This “narrow” definition of illicit financial flows covers a range of activities including hiding
+the proceeds of crime, drug trafficking, and embezzlement; channelling funds towards
+criminal destinations, such as bribery or terrorism; misreporting transactions in order to
+evade tariffs or taxes; and capital flight in disobedience with currency controls.
+4
+
+Figure 1. Conceptual map for core definition of illicit financial flows
+Source: Forstater, M (2016) Illicit Flows and Trade Misinvoicing: Are we looking under the wrong lamppost?
+While there is a fair degree of convergence between these definitions, there remains some
+fuzziness. For example, the definition suggested in the OECD publication seems to focus
+only on the illegality of the transfer, rather than the source or use of funds (although this
+may be assuming predicate offenses which underpin the crime of money laundering). The
+GFI definition refers to funds (i.e., money), while the OECD describes movement of financial
+capital which could cover loans, equity, financial instruments, or possibly even physical assets
+if used in the pursuit of future revenue. (In practice, however, GFI’s definition also includes
+transfer of goods in the case of trade based money laundering.)3
+Beyond these detailed definitional questions, some actors propose a much wider
+“normative” definition, which is not limited to financial or capital flows with a connection to
+illegality, but includes activities which are deemed to be undesirable, immoral, or
+“unacceptable to the public,” in particular focused on tax avoidance. This of course begs the
+question who holds these morals or ethics, and whether they are universal and well defined.
+3 Erikkson, Frederik. 2017. Illicit financial flows definitions — crucial questions. U4 Anti Corruption Research
+Centre https://medium.com/u4-anti-corruption-resource-centre/iff-definitions-3f3d0ba106c3
+5
+
+Table 2. Broader use of “illicit financial flows”
+Source Description
+High Level Panel on Illicit Also includes activities “that, while not strictly illegal in all cases, go against
+Financial Flows from Africa (2015) established rules and norms, including avoiding legal obligations to pay tax.”
+They include in their list of activities aggressively avoiding tax and “base
+erosion and profit shifting.”
+European Parliament (2015) Report Includes in description of illicit financial flows: “typically originate from tax
+on tax avoidance and tax evasion as evasion and avoidance activities, such as abusive transfer pricing, against the
+challenges for governance, social principle that taxes should be paid where profits have been generated.”
+protection and development in
+developing countries
+Cobham, A. (2015) Illicit Financial “IFF is by its nature hidden, whether it is illegal or simply unacceptable to
+Flows Assessment Paper. the public -- This makes clear that the source of funds may be perfectly
+legal, while the avoidance of tax, for example, may be technically legal but
+illicit according to societal norms.”
+UN Human Right Council (2016) In their broader sense, illicit financial flows refer also to funds that, through
+Final study on illicit financial flows, legal loopholes and other artificial arrangements, circumvent the spirit of the
+human rights and the 2030 Agenda law, including, for example, tax avoidance schemes used by transnational
+for Sustainable Development of the corporations.
+Independent Experts
+“In a broader sense, IFFs also encompass all kinds of artificial arrangements
+UNCTAD (2014) Trade and
+that have been put in place for the essential purpose of circumventing the
+Development Report
+law or its spirit. Thus, illicit might not necessarily mean contravening the
+letter of the law but going against its spirit. In this case, illicit can be
+understood as something hidden or disguised…In this report, the key
+criterion used is whether such tax-motivated IFFs are justified from an
+economic point of view. If a given international financial flow is part of a
+“tax-optimization” scheme without any concrete related economic activity, it
+could be considered “illicit.”
+“Offshore is a murky world which facilitates a range of criminal, illegal,
+Picciotto, Sol (2018) Illicit financial
+illegitimate and undesirable practices, all covered by the broad term illicit…
+flows and the tax haven and
+They range from facilitating serious crime to behaviour which is unethical or
+offshore secrecy system. Tax Justice
+undesirable, such as concealing assets from family members or business
+Network
+associates. It is sometimes said that many of these activities are ‘perfectly
+legal’, and hence legitimate.”
+Several justifications have put forward for the wider approach:
+1. By etymology: One argument is that the dictionary definition of the word “illicit”
+is inherently wider than the word illegal; relating to action that is morally wrong or
+against societal norms and therefore, by definition, “illicit financial flows” must
+address areas beyond illegality (Cobham, 2015).
+6
+
+2. By enforcement uncertainty: Financial flows related to illegal activities may go
+unchallenged, such as when the revenue agency lacks capacity or there is no political
+will to address the theft of state funds. Chowla and Falcao (2016) therefore rehearse
+the argument that legal non-compliance cannot be a clear dividing line, because
+uncovering financial flows which would be prevented if they were detected and
+challenged depends on the investigative and legal resources to do so.
+3. By legal grey area: A further argument is that there is a large grey zone in the area
+of tax avoidance reflecting an absence of clear legal defining lines between tax
+compliance and non-compliance, and therefore that the distinction between the two
+areas is arbitrary (Chowla and Falcao, 2016). The UN Human Right Council (2016)
+report refers to “legal loopholes” and other artificial arrangements, circumventing
+the “spirit of the law.”
+4. By consensus: A final argument, as put forward by the Tax Justice Network and
+Global Alliance for Tax Justice is that there is already global political agreement that
+a broad normative definition of illicit financial flows underpins the SDGs, and that
+focusing on the narrower law related definition would therefore be a clear
+subversion the existing global consensus about the meaning of IFFs.
+Table 3. Summary of arguments for broad definition
+By enforcement
+By etymology By legal grey area By consensus
+certainty
+The meaning of Taxpayers can There are large areas of Governments are
+Illicit inherently sometimes get away practice where it is not already in clear
+includes a sense of with tax evasion, but it clear what is legal and agreement that tax
+“against custom”/ is still illicit. what is not. avoidance is included
+frowned upon. under illicit flows.
+2.1 Is there already consensus?
+The meaning of novel policy terms, is of course, politically defined. It is entirely up to parties
+to any international agreement to establish what they mean. Therefore the fourth argument
+could trump all others. If the governments involved in developing the SDGs had reached
+consensus on the meaning of “illicit financial flows” (or indeed “red flag financial flows” or
+“harmful financial flows” or any other form of words they might have chosen to use) then
+that would be the established definition. Alex Cobham (2017) argues that when SDG 16.4
+was agreed, “there was no question that avoidance was included” and that there is “no
+question that those signing up to the SDG agreement to include target 16.4, did so in the
+belief that avoidance was included.”
+7
+
+However there is no record of the architects of the SDGs in practice adopting such a
+definition. Those that have reviewed the field such as The Interagency Taskforce on
+Financing for Development state that there is “as yet no firm agreement on conceptual and
+definitional issues related to the term IFFs” (Chowla & Falcao, 2016). The Report of the
+High-Level Panel of Eminent Persons on the Post 2015 Agenda, which informed the
+development of the SDGs, highlights both illicit financial flows and tax avoidance, however,
+it does not elide the two; it describes illicit flows as money illegally taken out of developing
+countries through money-laundering of bribes and stolen funds and to evade taxes, while
+also covering tax avoidance in a separate paragraph.
+Civil society organisations argued in the run up to the UNCTAD summit in 2016 that the
+UN should adopt a normative definition of illicit financial flows (Declaration of Civil
+Society, 2016), suggesting that this was not already the common accepted definition. The
+Financial Transparency Coalition says that “different country and regional interpretations of
+the term have made achieving political consensus at the global level challenging.”4
+If there is already a clear global consensus around the wider definition, it is a well-kept
+secret.
+2.2 Can the dictionary solve it?
+Another argument is that the dictionary definition of the word “illicit” requires that a broad
+approach which goes beyond illegality. For example the Oxford English Dictionary gives a
+definition of “not authorized or allowed; improper, irregular; esp. not sanctioned by law,
+rule, or custom; unlawful, forbidden.” Certainly in everyday speech a married person can
+have an illicit affair. A person on a diet might eat an illicit candy bar. A Muslim can have an
+illicit drink.
+However this argument is trivial. The sense of the word “illicit” is that something is against
+the rules in its relevant domain (and is therefore carried out clandestinely). In the domain of
+determining whether the assets a person holds rightly belong to them, to someone else or to
+the government the relevant domain is the law.
+The fact that the term “illicit financial flows” in the SDGs is sandwiched between illicit arms
+trade, theft of public assets and organised crime (indeed the phrase used is “reduce illicit
+financial and arms flows”) suggests that the definition of “illicit” should be the same as in
+these closely related domains. Illicit manufacturing and trafficking of firearms in the UN
+Convention Against Organised Crime is defined in relation to being unauthorized by the
+relevant states. Illicit enrichment (UNCAC Article 20) is where the assets of a public official
+increase beyond what can be explained by their lawful income. Illicit origin of property (in
+UNCAC Article 23) is referred to under “laundering proceeds of crime.” The illicit cigarette
+trade is defined by the FATF as “the production, import, export, purchase, sale, or
+4 https://financialtransparency.org/conferences/tipping-point/
+8
+
+possession of tobacco goods which fail to comply with legislation.” All of these meanings
+suggest that illicit in this context should be defined in relation to illegality.
+A further clue in this direction come from the specific origin of the term. Raymond Baker,
+founder of Global Financial Integrity, an organisation that has played a key role in coining
+the term IFFs and promoting it onto the international agenda, describes its origins in “A
+Brief Biography of Illicit Financial Flows” (GFI, 2015) as being more sophisticated than
+“dirty money” but less legally demanding than “illegal”:
+“One of our early conversations surrounded the phrase dirty money.” We both felt
+that this was counterproductive. It made people cringe and shrink from the
+subject.…So what should we call these enormous sums of money shifting out of
+emerging market and developing countries? After considerable discussion we
+homed in on the wording “illicit financial flows.” This had a number of advantages.
+“Illicit” is a slightly less demanding word than illegal and would be a bit more
+palatable to lawyers. “Financial” makes it clear that we are talking about money
+more than about drugs or arms or contraband. And “flows” is perhaps the most
+important word, making it clear that what is being addressed has an origin and a
+path and a destination. The combination of the three words is obviously more
+sophisticated than “dirty money,” not nearly so off-putting, much more robust,
+appealing to economists, lawyers, and policymakers. So “illicit financial flows” it was
+and still is.”
+2.3 Grey areas?
+Chowla and Falcao (2016) rehearse the second argument, that sticking with the narrow
+definition could mean that IFFs could only be counted if they had been discovered and ruled
+against by a court or competent authority. This seems an overly narrow interpretation. The
+fact that some individuals and businesses get away with hiding, misreporting, or obscuring
+transactions in order to successfully evade a legal liability does not invalidate the conceptual
+definition of illicit flows being linked to illegality. Indeed this same issue could be raised for
+money laundering, drug trafficking, theft of public assets, and other core areas of illicit flows.
+Thus we are left with argument three, that there are large areas where there is uncertainty
+about the interpretation of the law or where there are “loopholes” which allow taxpayers to
+get away with following the letter but not the spirit of the law, and that these should be
+considered illicit. This is what is commonly termed “avoidance” (or aggressive avoidance, or
+abuse).
+However, there are important distinctions. Avoidance is often formally defined as practices
+designed to gain a tax advantage by contravening the intention of the legislation. For
+example the UK government says abusive tax avoidance is when “the course of action taken
+by the taxpayer aims to achieve a favourable tax result that Parliament did not anticipate
+when it introduced the tax rules in question and, critically, where that course of action
+cannot reasonably be regarded as reasonable.” The US Internal Revenue Service (IRS)
+characterises abusive tax avoidance transactions as those that “take a tax position that is not
+9
+
+supported by tax law or manipulate the law in a way that is not consistent with the law’s
+intent.” (Hoddes, 2016). In these and many other jurisdictions courts already seek to close
+this down, giving effect to the “spirit of the law” through purposive interpretation and anti-
+abuse rules, and revenue authorities can challenge unreasonable transfer prices and other
+transactions through audit. Such avoidance can therefore be found to be unlawful (i.e.,
+turned into “failed tax avoidance”), and as such might be included under a definition of illicit
+on this basis, although it is not clandestine.
+Other common conceptions of “avoidance” go beyond this. For example the European
+Commission say avoidance is “taking advantage of the technicalities of a tax system or of
+mismatches between two or more tax systems for the purpose of reducing tax liability.”5
+Devereux, Freedman and Vella (2012) argue that it is inconsistent with the rule of law to try
+to invoke a further “spirit of the law” which is different from the interpretation of legislation
+by the courts, or mechanisms such as General Anti-Abuse Rules (GAARs). Where a defect
+(or “loophole”) in the legislation is found, or where there is a problem of misalignments
+between the tax rules of different countries allowing taxpayers to arbitrage between them,
+they argue the most efficient course of action is to revise the specific legislation or treaty to
+close the loophole.
+Many BEPS planning strategies such as strategic transfer pricing and use of debt, treaty
+shopping and “hybrid mismatches” (such as the famous “Double Irish-Dutch Sandwich”)
+fall into this category (although are called “tax avoidance” in everyday speech). They can
+remain legal tax planning, unless rules and treaties are updated to prevent them. Changes to
+laws and tax treaties can prevent certain actions which were previously allowed, but this does
+not make them by definition “illicit.”
+3. “Trade misinvoicing”: the meeting point between IFFs
+and avoidance?
+Beyond these conceptual distinctions, a practical argument is often made that there is a
+major category of action which has been identified as both “illicit financial flows” and also as
+“legal avoidance,” and therefore that the two areas cannot be separated. This category of
+action is “trade misinvoicing.”
+Trade misinvoicing is a form of customs and/or tax fraud involving exporters and importers
+deliberately misreporting the value, quantity, or nature of goods or services in a commercial
+transaction. Estimates of trade misinvoicing are closely linked the term “IFFs,” as both were
+popularised by Global Financial Integrity (GFI).
+GFI famously estimates that trade misinvoicing is the largest portion of illicit financial flows.
+It uses a methodology based on adding up gaps and mismatches in trade data to estimate
+5 European Commission Recommendation on aggressive tax planning, 6 December 2012: http://eur-
+lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012H0772&from=EN
+10
+
+that misinvoicing drains $800 billion from developing countries annually (GFI, 2015). Their
+work also inspired the UN Economic Commission for Africa (UNECA) and the African
+Union to set up a High Level Panel on Illicit Financial Flows from Africa which estimated
+that this practice, concentrated on a few commodities, is responsible for $50 billion of illicit
+flows from Africa (HLP, 2015). These numbers played a key role in the arguments for IFFs
+to be included the SDGs.
+The same numbers are often used to represent both fraudulent trade misinvoicing (for the
+purposes of smuggling, tax and tariff evasion, paying bribes and kick-backs, and to evade
+capital controls) and strategic transfer pricing used for profit shifting by multinational
+corporations. For example early NGO reports on corporate tax avoidance, such as Christian
+Aid’s “Death and Taxes” (2008) and “False Profits” (2009), used measures based on these
+misinvoicing estimates to assess the scale of corporate tax avoidance through “transfer
+mispricing.” The High Level Panel on Illicit Financial Flows also explicitly conflates trade
+misinvoicing and corporate tax avoidance, while others such as The Africa Progress Panel in
+2013 simply confused them—suggesting that the gross amount of trade misinvoicing
+estimated by GFI was a tax loss due to transfer pricing (Forstater, 2013).
+This conflation can lead to circular arguments: for example the Financial Transparency
+Coalition (2016), whose leading member is Global Financial Integrity, argues that “excluding
+tax avoidance [from the definition of IFFs] would have detrimental consequences on
+revenue mobilization,” citing the Human Rights Council on Illicit Financial Flows and
+Human Rights (2016) which says that “tax-related illicit financial flows has the potential to
+make the largest fiscal impact.” However the evidence that the Human Rights Council draws
+on for this is GFI’s estimate of trade misinvoicing.
+Figure 2. Terms that are often perceived to be equivalent
+In recent years it is becoming increasingly clear that the trade misinvoicing estimates are
+problematic both in terms of understanding the scale and nature of customs fraud and as
+indicators of the kinds of structures and practices that major corporation use for tax
+planning.
+11
+
+3.1 Problem I: Gaps and mismatches in trade data don’t reliably
+reflect misinvoicing
+Trade misinvoicing certainly is a real phenomenon. For example business people in China
+have used overpayments for imports as a means to get around the country’s currency
+controls, and build up an nest egg of savings outside China. Companies in South Africa
+smuggle in shipments of clothing from China evading import duties.6 Dealers in Tanzanite
+has been found to be smuggling the gemstone out of Tanzania including in private cars and
+carried by Maasai herdsmen.7 In Venezuela scammers used inflated import invoices to buy
+cheap dollars from the official currency control agency. In Nigeria oil is sold from the
+national oil company at advantageous prices to politically well-connected middlemen known
+as “briefcase companies” who sell it on at a significant margin without serving any
+commercial function, essentially privatising what should be public revenue. In 2015 Côte
+d’Ivoire Customs issued 2,420 fraud reports. The offences most commonly recorded by
+frontline services are false values, false goods, and false weight declarations (Victorien
+Gnogoue, 2017).
+However, while it is clear that customs fraud is real, it is not clear that the influential and
+widely quoted figures based on adding up gaps and mismatches in trade data can be directly
+interpreted as trade misinvoicing.
+The theory of assessing trade misinvoicing is simple. When a shipment of goods crosses a
+border the importer or exporter declares what is in the container: 12 dozen cuddly toys
+valued at $1 each say, or twenty tonnes of copper valued at $4,000 per tonne. If the unit
+value and the amount declared match with what is actually in the container then there is no
+illicit flow. The correct tariff and VAT are levied, any export credits are correctly awarded,
+and eventually the companies involved will pay the right amount of corporate income tax,
+given the profit or loss they made on the deal.
+However the exporter or importer may seek to evade tariffs or taxes or hide a payment to an
+associate by declaring a value that does not reflect the real value of the goods (in either
+direction—higher or lower). Thus if there is a difference between what is declared and the
+actual nature, quantity, or value of the goods then this may be customs fraud and diversion
+of funds.
+6 www.dailymaverick.co.za/article/2017-03-09-sars-unravels-sa-clothing-industry-tax-leakages-job-losses-blamed-
+on-illegal-imports
+7 http://allafrica.com/stories/201608170084.html
+12
+
+Figure 3. Trade misinvoicing: Volume, price, and value
+If for example the container really contained 22 tonnes of copper, or the cuddly toys were
+worth $10 each, the value of the additional two tonnes of copper or the additional nine
+dollars per toy would be an illicit flow and could indicate a side payment being made through
+collusion between the buyer and seller and not declared for tax purposes (this mechanism
+can also be used as a channel for paying bribes or making kickbacks, as well as for evading
+currency controls).
+Customs inspectors may be able verify the actual volume and nature of individual cargo
+shipments and assess whether the price and overall value declared are correct. Large scale
+estimates of trade misinvoicing, however, rely on comparing trade statistics: looking at the
+declared value of transactions at one end of the trade (when the cargo is exported) with the
+value declared at the other (when it is imported). This “mirror data” approach of comparing
+what country A reports as an export to B and what country B reports as an import from A
+(or vice versa) is the basis for the widely cited trade misinvoicing studies, such as those
+carried out regularly by Global Financial Integrity as well as others such as UNECA/ High
+Level Panel (2015), and Boyce and Ndikumana (2012). In each case the calculation assumes
+that, where there is a developed country on one side of the trade, and the developing country
+on the other, the price and volume declared to its authorities and compiled into trade
+statistics on the developed country side will be correct (due to greater capacity for customs
+enforcement), and that, allowing for insurance and freight costs, any further difference
+between the trades reported by bilateral pairs of countries indicates trade misinvoicing.
+13
+
+Most commonly studies use a rule of thumb of allowing a 10 percent margin for insurance
+and freight, but some seek to take a more sophisticated approach applying different margins
+for different types of good.
+Figure 4. Estimating trade misinvoicing using mirror data
+The estimation problem is that not all trade misinvoicing shows up as mismatches in the
+trade data, and not all mismatches in the trade data are evidence of misinvoicing.
+This was illustrated clearly in 2016 when The UN Conference on Trade and Development
+(UNCTAD) published a study on trade misinvoicing of commodities under the headline
+“some countries are losing 67% of the value of their exports.” It highlighted specific
+instances which it saw as evidence of this level of misinvoicing (Ndikumana, 2016).
+The report by Professor Léonce Ndikumana analysed mismatches in international trade data
+in the UN COMTRADE database for seven country-commodity pairs: gold,
+silver/platinum, and iron ore from South Africa; copper from Chile and Zambia; cocoa from
+Côte d’Ivoire; and oil from Nigeria. In all seven cases it came to a single conclusion: there
+were substantial levels of misinvoicing. However in most of the cases a simpler explanation
+could be readily found.
+• South African gold: The UNCTAD report calculated that “virtually all gold
+exported by South Africa leaves the country unreported,” accusing mining
+companies of smuggling billions of dollars’ worth of gold. This was promptly
+disputed by the South African Chamber of Mines and the South African Revenue
+14
+
+Authority. The Chamber of Mines commissioned an independent report from
+economics consultancy Eunomix (2016) which found that the mining companies
+and public agencies do report gold exports, just not in the right format for
+COMTRADE. They found that three quarters of the observed discrepancy could be
+explained just by looking up the official statistics.
+• Zambian copper: Copper is one of Zambia main exports. Trade statistics show
+that more copper is exported from Zambia to Switzerland and the UK than arrives
+in these destinations, but more Zambian copper arrives in countries such as China,
+Korea, Italy, and Saudi Arabia than Zambia reports as exports to those them. This
+has often been interpreted as indicating massive tax evasion and capital flight
+associated with copper exports from Zambia.8 The UNCTAD report the trade
+statistics as showing underinvoicing and overinvoicing in the two directions.
+However it is more readily explainable by merchanting trade involving trading
+companies in Switzerland and the UK, and by the London Metals Exchange system
+of bonded warehouses. For example if copper is reported as an export from Zambia
+to Switzerland, but in practice sits in a bonded warehouse before being delivered to
+Germany, this would show up as “overinvoiced exports” to Switzerland and
+“underinvoiced exports” to Germany, even if at each stage of consignment the
+declaration matched exactly with the contents of the container.
+• South African silver and platinum: The analysis suggested overall high levels of
+misinvoicing, made up of a combination of years when the discrepancy in the trade
+data is relatively small, and a few years when there are substantial discrepancies. In
+other words, it describes a scenario where the industry swung from legal
+compliance, to massive undetected smuggling, and then back again on an annual
+basis (and that no one noticed). This seems unlikely. It is notable that the
+COMTRADE database contains no record of South Africa’s platinum exports in
+2000 and 2002, but SARS statistics show normal levels of platinum exports. The
+UNCTAD study attributes several billions of dollars’ worth of underinvoicing by
+exporters to the gap in the COMTRADE data for these two years.
+• Chilean copper: The study found significant overinvoicing of copper from Chile
+(i.e., copper imports from Chile are reported to be worth less than copper exports,
+given a 10 percent allowance for insurance and freight). This is likely to reflect
+shipping costs being lower than 10 percent. Copper cathode sells at about $5,000 /
+tonne, while freight shipping rates are measured in tens of dollars. Relatively
+valuable but non-perishable goods such as this are likely to appear to be
+overinvoiced by exporters because of their relatively low actual freight costs.
+• South African iron ore: The study observed a “drastic” shift from apparent
+underinvoicing to overinvoicing—suggesting illicit outflows, followed by illicit
+inflows. However this may also be explainable through relative transport costs. Iron
+8 https://www.cgdev.org/blog/stop-spreading-myth-zambia-not-losing-3-billion-tax-avoidance
+15
+
+ore prices were rising till 2009 then fell gradually, while shipping costs fell
+precipitously, thus the margin of difference would have changed without indicating
+alleged secret side deals inexplicably being renegotiated.
+By looking at individual commodities it is possible to see that price volatility, transit and
+merchanting trade, and the use of bonded warehouses can result in large trade data
+discrepancies arising from legitimate trade. In particular ordinary, legitimate trade can
+generate systematic discrepancies in trade data involving three countries. For example a
+single shipment of copper could lead to apparent underinvoicing from Zambia-Switzerland
+and equal apparent overinvoicing from Zambia-Germany.
+Global Financial Integrity’s “Gross Excluding Reversals” method is based on the same
+general principle as the UNCTAD study (but uses aggregate “Direction of Trade” statistics),
+while the UNECA High Level Panel report on Illicit Financial Flows (“Africa is losing $50
+billion to misinvoicing”) uses a similar methodology. The same country-commodity pairs as
+those that feature in the UNCTAD study are strong contributors to the UNECA total, with
+60 percent of apparent misinvoicing relating to oil, precious metals, ore, machinery, copper
+and iron, and steel. In fact, gold, silver, and platinum are the second largest source of alleged
+misinvoicing in the UNECA study, and almost all of this relates to Southern Africa, where it
+now seems likely that the explanation is far more pedestrian.
+Figure 5. The High Level Panel’s findings indicate concentrated misinvoicing in a
+few countries and sectors
+16
+
+Further clues that ordinary merchanting and transit trade may be responsible for a large part
+of what is picked up in trade misinvoicing estimates can be seen from the overall pattern of
+trade reported globally. Carriere and Grigoriou (2014) note that discrepancies (“missing
+exports and phantom imports”) are very common when looking at country-commodity pairs
+at a detailed level, but that they cancel out when looking at wider commodity categories and
+world trade. CEPII, the French research institute which manages the BACI trade database,
+analysed 5000 products over ten years in the UN COMTRADE database and find that the
+declared quantities of commodities traded between country pairs were only similar in 11
+percent of cases (Gaulier et al, 2008). For example reported exports of cocoa from the
+Netherlands are consistently greater than reported imports of cocoa from the Netherlands
+by partners (mainly developed countries, particularly Germany). The widespread nature of
+quantity divergences in trade statistics even between developed countries with strong
+customs and statistical capacity means that the assumption that the trade statistics at the
+developed country side are a sound benchmark against which any divergence can be
+interpreted as “misinvoicing” should not be taken for granted.
+It is striking that globally, imports and exports track each other closely, falling within the 10
+percent margin conventionally allowed for the cost of transport and insurance overall.
+Figure 6. Global reported imports and exports (USD trillion)
+Adapted from Kellenberg, D and Levinson, A (2016). Misreporting Trade: Tariff Evasion, Corruption, And
+Auditing Standards. NBER Working Paper Working Paper 22593
+This pattern of widespread statistical discrepancies between country-commodity pairs
+cancelling out at a global level could either reflect massive real illicit financial flows in all
+directions (independent, but oddly coordinated and involving diverse and unrelated parties),
+17
+
+or could be caused by the value of shipments being correctly recorded under mismatched
+country and/or commodity categories.
+These observations provide concrete illustrations of the general problem with these
+estimates. Volker Nitsch in his paper “Trillion Dollar Estimate: Illicit Financial Flows from
+Developing Countries” reviews GFI’s “gross excluding reversals” methodology. He
+concludes that the quantitative results have no substantive meaning and that therefore the
+estimate of $800 million of trade misinvoicing globally “lacks evidence and is
+uncorroborated.” The IMF and the UN, whose data these studies draw on, warn that the
+statistics cannot be reliably used in this way. The IMF says, “we caution against attempting
+to measure [illicit flows] by using discrepancies in macroeconomic datasets… official
+estimates of trade misinvoicing cannot be derived by transforming trade data from the IMF
+Trade Statistics and/or UN COMTRADE, either by individual country or in aggregate.” The
+World Customs Organisation says that mirror trade analysis can be used as a risk assessment
+tool to highlight potential cases of misinvoicing, but that before the findings of any mirror
+analysis lead to assumptions of fraud they must then be verified by investigations in the field
+or in-depth document reviews (Gnogoue, 2017).
+3.2 Problem II: “Misinvoicing” is not mispricing
+When Raymond Baker first wrote about the practice of misinvoicing in his book Capitalism’s
+Achilles Heel (2005) he called it trade mispricing, and he drew from 550 with officials from
+trading companies which largely focused on pricing. He said, “mispricing in order to
+generate kickbacks into foreign bank accounts was treated as a well-understood and normal
+part of transactions.”
+However GFI’s core methodology which uses aggregate IMF “Direction of Trade” statistics
+cannot differentiate mispricing from misdeclaration of quantities. Thus the language that
+GFI uses was later changed from “mispricing” to “misinvoicing.”
+Direction of Trade statistics only provide details of the aggregate value of trades—they don’t
+give details of prices and quantities. Thus a mismatch in value might mean that the price was
+misdeclared ($1 teddy bears instead of $10 ones) or that the quantity was misdeclared (22
+tonnes of copper instead of 20) or it could reflect “orphan imports” or “missing exports”
+where there is no record of the shipment at all on one side of the transaction. In each case
+there might be innocent (green) or illicit (red) explanations as shown below.
+18
+
+Figure 7. Different possible interpretations of mismatched values of exports &
+imports
+Because Direction of Trade statistics aggregate across all commodities and over time they
+cannot be used to tell the difference between a concentrated area of customs fraud hiding
+amongst other compliant shipments and widespread marginal discrepancies of declared price
+or quantity.
+19
+
+Figure 8. Concentrated fraud or widespread marginal differences?
+The differences matter in practice because different types of misdeclaration represent
+different types of behaviour by taxpayers, and could be closer or further away from the “grey
+area” between legal and illegal action, and relatively harder or easier for customs officials to
+detect in practice.
+For example (aside from genuine administrative errors such as recording the wrong
+commodity code or unit of measure by accident), misdeclaring the quantity or nature of a
+shipment could be outright customs fraud (for example shipping cars and declaring them as
+scrap metal, or shipping 20 kgs of gold but only declaring 5kg). Massively under- or over-
+reporting prices could also be customs fraud (such as exporting buckets for $973 each), or
+outright smuggling. However such cases are either technically easy to detect through visible
+inspection or (somewhat harder, but still straightforwardly) through systems for monitoring
+commodity exports, such as in the mining sector. If blatant huge misdeclarations of
+quantities and prices (including outright smuggling) are taking place this suggests massive tax
+evasion, with customs inspectors are looking the other way (whether through lack of capacity,
+or complicity). This though is not what is usually understood as “mispricing.”
+20
+
+Table 4. Implications of different misinvoicing scenarios
+Misinvoicing scenario Behaviour by tax payer Ease of detection by customs
+ Relatively easy (requires some
+Large/
+ Tax evasion/ Customs fraud price knowledge but easy to spot,
+concentrated
+particularly for commodities)
+Pricing
+difference  BEPs/ transfer price abuse?
+Marginal/  Hard (requires detailed price
+widespread  Could reflect ordinary costs/ knowledge)
+variance?
+Large/  Very easy (gross physical
+ Tax evasion/ Customs fraud
+concentrated inspection)
+Quantity/
+commodity
+difference Marginal/  Tax evasion/ Customs fraud?  Medium (precise physical
+widespread inspection, minerals monitoring)
+ Smuggling?  Relatively straightforward to
+Large / investigate large scale smuggling by
+concentrated  Ordinary transit/ merchanting major corporations—through tax audit,
+trade? minerals monitoring
+Destination
+difference
+ Smuggling?
+Small/  Hard to detect small scale cross-
+widespread  Ordinary transit/ merchanting border smuggling
+trade?
+The only type of taxpayer behaviour which equates to BEPS type tax avoidance and which
+might show up as discrepancies in trade data is transfer price manipulation being used to
+shift profits to a third country. However these marginal price differences could also reflect
+legitimate use of a marketing hub.
+For example many mining companies use a subsidiary in marketing hub to sell commodities
+to end consumers. It could charge a margin of 2-4 percent of the value of the commodity, or
+even 6 percent if the hub takes physical and legal possession of the commodity or
+undertakes innovative marketing or risk exposure (Readhead, 2016). Tax authorities might
+challenge the level of the marketing charge on audit—as Australia has done recently with
+BHP Billiton, and it could result in more tax being payable in a particular jurisdiction (and
+perhaps less in another) but such disputes are not uncovering about clandestine transfers but
+challenging the valuation of the service provided by the hub.
+Often the term trade misinvoicing and trade mispricing are conflated suggesting that the
+behaviour being described by the data is largely about price manipulation by companies
+operating at the borders of legality by declaring barely acceptable transfer prices. However in
+practice it appears that what the misinvoicing studies pick up often is destination mismatches
+(which may well have ordinary explanations in transit and merchanting trade) and quantity
+differences (which could have either criminal or ordinary explanations).
+21
+
+Box 2: Exploring prices, quantities and destinations: The case of cocoa
+Côte d’Ivoire has often been highlighted as a country which suffers large illicit flows from the cocoa
+trade—which makes up over 40 percent of its exports (Côte d’Ivoire cocoa features in both the
+UNCTAD report and High Level Panel report). The High Level Panel report states that cocoa is a
+significant source of IFFs, and that Côte d’Ivoire accounts for 38 percent of this.
+A simple calculation comparing cocoa exports and imports on a bilateral basis confirms that there
+are significant mismatches.9
+Figure 9. Calculating underinvoiced exports of cocoa from Côte d’Ivoire using the Gross
+Excluding Reversals methodology
+This reflects large bilateral mismatches—for example cocoa is reported as an export to Estonia,
+Belgium, and the Netherlands, but does not arrive there. Meanwhile more cocoa arrives in
+Germany, Russia, and France than is reported as exported to those destinations. Trade misinvoicing
+studies tend to interpret these mismatches as separate and unrelated smuggling reflecting illicit
+financial flows into and out of Côte d’Ivoire. However this seems less likely than the alternative
+scenario which is that cocoa bean wholesalers in countries such as Estonia, Belgium, and the
+Netherlands are buying cocoa beans which are then delivered (including via bonded warehouses) to
+chocolate manufacturers in countries such as Germany, Russia, and France. When we look at the
+price per kg of cocoa beans on export and import, there is in fact no sign of mispricing.
+9 NB: the calculation done here is slightly simpler than GFI’s “Gross Excluding Reversals” methodology as it
+treats all partner countries—both developed and developing equally, whereas GFI applies a slightly different
+method when partner countries are also developing economies.
+22
+
+Figure 10. Export price and import price of cocoa from Côte d’Ivoire (USD/kg)
+If we look only at the quantity effect (how many kilogrammes of Ivorian cocoa beans are imported
+by the world compared to how many are exported from Côte d’Ivoire) there remains some
+discrepancy, which in most years is less than 10 percent (usually under, but sometimes over). This
+could reflect a degree of smuggling, cocoa beans going into or out of store, or cocoa beans from
+other countries being mislabelled. Similar analyses might be undertaken on other commodities to
+break down misinvoicing estimates into destination, price, and quantity effects.
+3.3 Problem III: Findings from trade misinvoicing studies do not
+reflect corporate practice by major multinational companies
+Raymond Baker began to work on IFFs following his own experience as a business owner
+and manager in a number of African countries. The practices that Baker describes from his
+experience and interviews with other tightly-held companies suggest illicit behaviour. They
+include misinvoicing in order to pay a bribe, generate a kickback, or to evade taxes or
+currency controls, in each case to divert funds into hidden accounts. While multinational
+corporations have too often been involved in corruption, this is not the kind of thing that is
+generally being defended when companies face tax controversies and respond that “we pay
+tax according to the rules.”
+Shareholder owned companies in particular have procedures and controls in place to try to
+prevent bribery, kickbacks, and embezzlement, as it would mean shareholders being
+defrauded (Truman, 2010). Similarly where misinvoicing methodologies indicate large scale
+smuggling or misdeclaration of quantities, again this is not the kind of practice that would be
+defended as ordinary business. This is recognised by the African Tax Administration Forum
+(ATAF, 2014) which notes that misinvoicing is not significantly related to multinational
+corporations, and that while multinational corporations may undertake sophisticated tax
+23
+
+avoidance involving complex but well documented transfer pricing design, they do not tend
+to undertake fraudulent activity. They distinguish this from the risks emanating from owners
+and managers of closely held companies, noting that “there is evidence that business receipts
+due to individuals or smaller businesses may be diverted to privately owned companies in tax
+havens, with little or no justification or documentation.”
+Nevertheless misinvoicing estimates have been used to stand in for multinational corporate
+tax avoidance. The adoption of trade misinvoicing measures as indicators of the problem of
+corporate tax avoidance has leads to a misperception of the nature of transfer pricing
+issues—in particular assuming large hidden margins in commodity supply chains such as for
+bananas and copper. Examples such as the “$973 bucket” and “the 50 pence fridge” which
+derive from outliers in trade data have been widely used as popular explanations of transfer
+pricing issues but bear no relationship to actual transfer pricing practices by major
+corporations (Forstater, 2015).
+Box 3: The $973 bucket
+The $973 bucket (reportedly exported from the Czech Republic to the US) is a popular illustration
+that has been used as a demonstration of transfer pricing abuse, alongside others such as fenceposts
+from Canada at $1,853, a kilo of toilet paper from China for $4,122, and a pair of tweezers from
+Japan at $4,896. As Prem Sikka (2003) argued these “actual prices charged by some of the world’s
+biggest multinational corporations, all authorised by some of the best accountants, and by political
+friends in high places. Their game is to shift the tax burden onto somebody else. It is played through
+‘transfer pricing’.” Similarly Eurodad (Ruiz and Romero, 2011) highlights the $973 bucket as a case of
+one US corporation using manipulated pricing schemes to avoid paying taxes. Forum Syd (Fröberg
+and Waris, 2013) also highlights the for $973 bucket as a case involving a profit shifting from a
+developing country to a tax haven. “A more realistic price paid on the open market would have been
+around one dollar. The rest of the price paid is just a way to shift profit to the subsidiary in the tax
+haven where less tax is paid.”
+If the famous $973 was a true reflection of corporate transfer pricing practice then it would it makes
+sense to view avoidance, misinvoicing, and illicit financial flows as so closely related that they cannot
+be differentiated. As Prem Sikka says "They are suggestive of a widespread, systematic setting of
+transfer prices in whatever direction helps to avoid taxes and boost profits"
+However evidence for the $973 bucket does not come from a particular business that was caught at
+mispricing, but from analysis of US published trade data by Pak and Zdanowitz (2002). A more
+parsimonious explanation of the $973 bucket and the other similar examples is that they reflect
+mistakes in recording the quantity of items (for example the price of a shipment of items rather than a
+single item) or mistakes in the commodity code recorded. Certainly no one would try to defend these
+as “arms length prices” and the US Internal Revenue Service would challenge them if they tried
+(Lunnan, 1996 and Weisman, 2002)
+24
+
+3.4 Are there large hidden margins in commodity trading?
+Cross border-criminals, money launderers, bribe payers, bribe takers, and tax evaders do hide
+transactions amongst legitimate trade flow. Products such as diamonds, other gemstones,
+and gold and jewellery are easy to smuggle, while other products such as oil may be stolen or
+misreported. The problem is real. However the idea that such illicit financial flows can be
+reliably identified through simple calculations using publicly available data appears
+overoptimistic.
+These calculations systematically transform records of ordinary trade flows into large
+misinvoicing estimates which in turn have been interpreted as reflecting systematic and
+egregious mispricing by multinational companies. They create perceptions that major
+companies doing international business in developing countries must be getting away with
+hiding vast illicit flows, while customs, revenue, and statistics agencies in developing
+countries must all be utterly incompetent or complicit.
+These calculations have supported a widely held perception of large hidden margins in
+commodity supply chains. One common reading of the illicit flows estimates is that they
+must reflect exploitation of primary producers through trading relationships which extract a
+high margin on commodities. However, as the cocoa bean example above highlights
+destination (i.e., volume) mismatches can have a much bigger effect on the numbers than
+price effects, without indicating any illicit flow or hidden price margin.
+Another reason to be sceptical of the idea that simple calculations on publicly available trade
+data reveal large hidden margins in the commodity trade is that commodity trading is a
+competitive business that is based on low margins and high volumes. If there was a better
+deal to be done, or if traders found out that their competitors were making large margins,
+this would be commercially valuable information, and would an opportunity for arbitrage.
+Large scale misinvoicing estimates are often reported as a development issue, but have been
+largely ignored by the financial and trade media, although if they had information about
+hidden margins this would be highly material for traders. The experience of Fairtrade also
+suggests that there is not a big margin in the supply chain of commodities such as cocoa, tea,
+and coffee which can simply be reallocated to producers.
+25
+
+Box 4: Acacia Mining: A case of massive illicit flows?
+Developing countries face real challenges in securing revenues from natural resources. However,
+inflated expectations of massive hidden margins can contribute to policy instability and undermine
+government accountability. One current example of this is the dispute between Acacia Mining and
+the Government of Tanzania (see Forstater and Readhead, 2017). There have long been concerns
+about whether Acacia Mining is paying enough tax in Tanzania. Between 2010 and 2015, Acacia
+paid $444 million in dividends to shareholders, despite not yet paying any income tax in Tanzania.
+There is a widespread belief expressed in the media and by politicians that underlying Acacia’s tax
+affairs are mechanisms which enable it to illicitly export much of the value of its products.
+However analysis of mining revenues by Open Oil (2016) highlight that the main reason for the
+lack of corporate tax is that there were generous fiscal terms in the original mining agreement,
+specifically an additional capital allowance, that meant Acacia could deduct 100 percent of its $4
+billion investment, plus a 15 percent margin, before paying any income tax.
+In March 2017 an export ban was introduced on unprocessed minerals and ores. Exports of
+concentrate (an intermediary product between ore and metal) were halted due to the ban. In May
+2017, President Magufuli appointed two special committees to investigate the contents of 277 of
+the containers stuck at the port. The first committee reported that the concentrate contained
+around twice as much copper and silver, and around eight times as much gold than was declared
+by the company. They also detected a range of other metals. If the committees’ findings are
+accurate, the extent of the undervaluation would be enormous, amounting to almost $4 billion
+annually (one tenth of Tanzania’s GDP). The second committee scaled these figures up to cover
+61,320 containers exported between 1998 and 2017, suggesting the true value of concentrate
+exports was $83 billion and that the government had lost $31 billion of revenue trade due to
+misinvoicing and transfer price manipulation. The company maintains they have always declared
+all materials produced and paid all royalties and taxes that are due, while The Tanzania Mineral
+Audit Agency (TMAA) undertakes careful work to monitor minerals exports.
+The committee’s belief that they have uncovered a case of massive misinvoicing (i.e.,
+misrepresentation of the value or quantity of exports) does not seem plausible for economic and
+geological reasons (Forstater and Readhead, 2017). The committee’s reports suggest that the mine
+was producing massive amounts of unreported gold, iridium, and ytterbium, but that this has been
+covered up. This would mean an extraordinary conspiracy, including defrauding shareholders.
+26
+
+4. “Tax-havens”: The meeting point between IFFs and tax
+avoidance?
+Another argument is made that illicit financial flows and corporate profit shifting are
+fundamentally the same phenomena because they both involve “tax havens” and/or
+“secrecy jurisdictions.” The three topics of IFFs, havens, and multinational profit shifting are
+often considered together (for example see Fjeldstad et al, 2017), particularly by civil society
+networks and the media. The linkage between tax havens, illicit financial flows, and
+multinational corporate taxation goes back to the early days of Norway’s advocacy
+engagement (Tilley, 2016) and can be seen in the original Draining Development book (World
+Bank, 2012).
+Sol Picciotto (2018) makes a strong form of the argument stating that any financial
+transaction or structure that takes place “offshore” (a term that he does not define) is by
+definition illicit:
+“Offshore is a murky world which facilitates a range of criminal, illegal, illegitimate
+and undesirable practices, all covered by the broad term illicit. …. It is sometimes
+said that many of these activities are ‘perfectly legal’, and hence legitimate. However,
+if they are legal, there is no need to carry them out offshore. Offshore devices or
+structures all involve using the laws or facilities of another country to obtain an
+advantage not possible under the law that should apply. Private persons’ bank
+accounts, financial information and other aspects of their personal affairs are
+generally protected in all countries by laws on confidentiality and privacy, which can
+only be overridden in specified circumstances, when there is a public interest. There
+is a network of tax treaties aimed at preventing double taxation, and in any case
+countries wishing to attract investments generally provide inducements, not excess
+taxation. Resorting to an offshore arrangement always involves trying to get around
+an inconvenient law – dodging the law.”
+This categorical equation between “offshore/ tax havens” and “illicit” seems overly
+sweeping. Everywhere is “offshore” to everywhere else. While it is certainly true that people
+and enterprises can access legal frameworks that more convenient and advantageous than if
+they were confined to their home jurisdiction, this does not necessarily mean that they are
+evading or breaking rules at home or that they are doing something illegitimate.
+Piciotto’s formulation seems to rely on the idea that there is a single set of laws which
+“should” apply to every person or enterprise. However a wealthy international family which
+owns properties in several countries, a multinational enterprise managing risk, assets, and
+inventories across borders, or a joint-venture involving investors from several different
+countries all face choice of jurisdictions to use for legal structures and financial assets in the
+ordinary course of their affairs—and whichever they choose will be “offshore” to some
+parties.
+Nor should it be assumed that people everywhere enjoy the confidence that information
+held by banks or public authorities is securely held and protected from political or criminal
+27
+
+interference. Zucman (2017) finds that countries whose residents have the largest stock of
+offshore assets compared to GDP include autocracies (such as Saudi Arabia or Russia) and
+countries with a recent history of autocratic rule (such as Argentina or Greece), suggesting
+that lack of confidence in legal protections at home could be a key motivation for offshore
+holdings. Similarly not every country has institutions that enable businesses to raise capital
+on foreign stock markets, access reliable courts, or use flexible and sophisticated financial
+products. Jason Sharman (2012) finds for example that it is these factors, rather than
+criminal money or tax arbitrage, that explain the popularity of the British Virgin Islands as a
+conduit for investment into China (including round-tripping by Chinese investors).
+Development finance institutions investing public money in private enterprises regularly
+route their investments through tax havens as a means to overcome shortcomings in the
+legal systems in the poor and capital-scarce countries in which they invest (Carter, 2017).
+Multinational corporations tend not to seek out jurisdictions with weak legal or financial
+governance or those with extreme secrecy. For example Oxfam (2017) found that the top 5
+“tax havens” where European banks earn profits are Hong Kong, Luxembourg, Belgium,
+Ireland, and Singapore (only two of which score below 60 on the Tax Justice Network’s
+Financial Secrecy Index). Simply deeming that everything involving international finance that
+goes on in these places is murky and “illicit” requires stretching the definition far beyond
+boundaries which relate to the law.
+The use of international financial system to enable tax evasion, and hiding of stolen assets, is
+clearly a problem. Preventing financial institutions, and the financial centres that host them,
+from being used in this way by crime syndicates, kleptocrats, and opportunistic tax evaders is
+core to the illicit financial flows agenda. However the role that international financial centres
+play in mediating investment, enabling people to diversify their assets, and supporting global
+commerce are also critical benefits to society. Too little is known about the how much of
+what takes place offshore is beneficial, defensible, or objectionable, and bundling these
+categories together under the “illicit” umbrella will not support greater clarity and
+understanding.
+28
+
+5. Conclusion
+The distinction between doing something that is currently against the law (or that abets
+those seeking to get away with illegal acts) and doing something that is within the bounds of
+civil liberties is critical to protecting civil rights and freedoms. It is fundamental to the
+democratic political process and the rule of law that laws are set by the legislature and
+interpreted by the judiciary.
+Legislative changes can shift behaviours from one category to the other (as has been the case
+with the BEPS), and administrative improvements and information sharing can make it
+easier to determine which side of the line activities are on—but the distinction remains
+important. Using a conceptual definition of illicit financial flows which combines what
+is illegal with what uncertain, or what is judged to be undesirable by some unelected group,
+undermines and confuses accountability and understanding.
+A careful analysis of the trade misinvoicing estimates and cases, and of the role of
+international financial centres does do not support the view that illicit financial flows, legal
+tax avoidance and the use of “tax havens” are categorically the same. Nor, as it is sometimes
+stated, is it true that corruption is only a minor part of the IFFs agenda, dwarfed by massive
+outflows related to multinational investment.
+Figure 11. These terms are not equivalent
+Ultimately the question of how the term “IFF” is defined will only settled by those that
+define and use it, whether as international organisations, governments, researchers and
+academics, or activists. While different players have different perspectives, they have a
+common interest in strengthening administration of tax law so that it is neither weakly
+enforced, nor capricious and predatory. This is positive for citizens, businesses, and
+government, and ultimately critical for sustainable development.
+Concentrating on battling definitions may be seen as a distraction from this underlying
+common objective, but incompatible language can become a barrier to understanding and
+dialogue. Being clearer about the distinction between acts of tax fraud and evasion (alongside
+29
+
+bribery, corruption, money laundering, and theft of public assets) on one hand and tax
+avoidance and tax uncertainty on the other does not entail an absolute “parting of the ways”
+of tax and anti-corruption, but a clearer understanding of issues and potential solutions.10
+Transparency and accountability of fiscal regimes (including in areas such as the extractive
+sector), ending abuse of anonymous companies, tackling customs fraud, and rationalising
+and regularising tax incentives are areas of common ground which necessitate collaboration.
+Certainly, globally integrated value chains combined with complex (and sometimes
+incomplete) tax rules mean that the tax affairs of major multinational companies will always
+be challenged or adjusted. There are wider questions about how the international tax system
+should be developed to address the digital economy and to better serve developing
+countries. However, bracketing questions of how to allocate international taxing rights along
+complex international value chains into the same category as prosecuting theft of public
+assets, or money laundering of criminal proceeds, implies guilt-by-association which is not
+be helpful for public-private dialogue, development of effective fiscal regimes and
+accountability, or cooperative compliance.
+10 See also Transparency International’s deliberations about whether “tax abuse” and corruption should be
+equated. Barrington, R. 2016. When Is Tax Abuse Corruption? The New Official View of Transparency
+International http://www.transparency.org.uk/when-is-tax-abuse-corruption/#.Wp00KhPFLeQ
+30
+
+Bibliography
+African Tax Administrators Forum. 2105. Illicit Financial Flows and Trade Misinvoicing: the
+challenges for Africa.
+Allison Christians. 2014. Avoidance, Evasion, and Taxpayer Morality.
+Baker et al.,. 2014. Illicit Financial Flows from Developing Countries: 2003-2012.
+Baker, Raymond. 2005. Capitalism's Achilles Heel: Dirty Money and How to Renew the Free
+Market System.
+Carrere, Celene and Christopher Grigoriou. 2014. Can Mirror Data Help to Capture
+Informal International Trade? Policy Issues in International Trade And Commodities
+Research Study Series No. 65. UNCTAD.
+Carter, Paddy. 2017. Why do Development Finance Institutions use offshore financial
+centres? ODI Report.
+Chowla, Peter and Tatiana Falcao. 2016. Illicit Financial Flows: concepts and scope.
+Interagency Task Force.
+Christian Aid. 2008. Death and Taxes.
+Christian Aid. 2009. False Profits.
+Cobham, Alex and Petr Jansky. 2017. Global distribution of revenue loss from tax
+avoidance: Re-estimation and country results. WIDER Working Paper 55/2017- UNU-
+WIDER.
+Cobham, Alex. 2015. Illicit Financial Flows Assessment Paper. Copenhagen Consensus.
+Crivelli, Ernst, Ruud de Mooij and Michael Keen. 2015. Base Erosion, Profit Shifting and
+Developing Countries. IMF Working Paper.
+Declaration of Civil Society. 2016. Declaration of Civil Society to UNCTAD XIV
+Devereux, M., J. Freedman and J. Vella. 2012. Paper 1: Tax Avoidance. Oxford University
+Centre for Business Taxation.
+Eunomix. 2015. A review of the UNCTAD report on trade misinvoicing, with a focus on
+South Africa’s gold export Draft final 7 November 2016.
+European Parliament. 2015. Report on tax avoidance and tax evasion as challenges for
+governance, social protection and development in developing countries.
+Financial Transparency Coalition (2016).
+Financial Transparency Coalition. 2016. Recommendations to the United Nations
+Conference on Trade and Development (UNCTAD 14) on Illicit Financial Flows.
+Fjeldstad, Odd-Helge, Sigrid Klæboe Jacobsen, Peter Henriksen Ringstad, Honest Prosper
+Ngowi. 2017. Lifting the Veil of Secrecy: Perspectives on International Taxation and
+Capital Flight from Africa. Bergen: CMI.
+Forstater, Maya. 2015. Can Stopping 'Tax Dodging' by Multinational Enterprises Close the
+Gap in Development Finance? CGD Policy Paper 069. Washington, DC: Center for
+Global Development.
+Gaulier, Guillaume, Julien Martin, Isabelle Mejean and Soledad Zignago. 2008. International
+Trade Price Indices. CEPII Working Paper 2008-10.
+Global Financial Integrity. 2015. Illicit Financial Flows from Developing Countries: 2004-
+2013.
+Gnogoue, Victorien Roger-Claver. 2017. Mirror analysis, a risk analysis support tool for
+Customs administrations in WCO News. February 2017.
+31
+
+Hearson, Martin. 2014. Tax-motivated illicit financial flows A guide for development
+practitioners. Anti-Corruption Resource Centre. Bergen: CMI.
+High Level Panel on Illicit Financial Flows from Africa. 2015. Track it! Stop It! Get It!
+Hoddes, Robin. 2016. Corruption and Tax Abuse: two sides of the same coin. Transparency
+International Policy Position.
+Inter-Agency Task Force on Financing for Development. 2017. Illicit Fianncial Flows.
+Background Note. http://www.un.org/esa/ffd/wp-
+content/uploads/2017/02/Background-note-on-illicit-financial-flows.pdf.
+Johannesen, N. & Pirttilä, J..2016. Capital flight and development: An overview of concepts,
+methods, and data sources. 2016/95. Helsinki: UNU-WIDER.
+Lunan, C.1996. Tax Cheating? Or Clerical Gaffes? Fiu Professors Say Import-export Data
+Point To Billions Of Laundered Dollars The IRS, Though, Isn't Buying It.
+Messick, Richard. 2018. Human Rights Law and Victim-Centered Remedies for Kleptocracy
+Paper prepared for “Improving the Human Rights Dimension of the Fight against
+Corruption,” Conference organized by the Centre for Civil and Political Rights Geneva,
+February 19 –20, 2018.
+Ndikumana, Leonce. 2016. Trade Misinvoicing in Primary Commodities in Developing
+Countries: The cases of Chile, Cote d’Ivoire, Nigeria, South Africa and Zambia. Geneva:
+UNCTAD. -
+Nitsch, Volker. 2016. Trillion Dollar Estimate: Illicit Financial Flows from Developing
+Countries.
+In: Darmstadt Discussion Papers in Economics, 227. Darmstadt.
+OECD. 2014. Illicit Financial Flows from Developing Countries.
+Open Oil. 2016. Financial analysis of the Acacia Mining tax dispute OpenOil, June 10, 2016.
+Picciotto, Sol. 2018. Illicit financial flows and the tax haven and offshore secrecy system. Tax
+Justice Network. https://www.taxjustice.net/2018/02/08/illicit-financial-flows-tax-
+haven-offshore-secrecy-system/.
+Readhead, Alexandra (2016) Preventing Tax Base Erosion in Africa: A Regional Study of
+Transfer Pricing Challenges in the Mining Sector.
+Reuter, P. (Ed.). 2012. Draining Development? Controlling Flows of Illicit Funds from
+Developing Countries. Washington, DC: World Bank.
+Reuter, Peter and Edwin Truman. 2005. “Chasing Dirty Money: The Fight Against Money
+Laundering.”
+Reuter, Peter. 2016. Illicit Financial Flows and Governance: The Importance of
+Disaggregation. Working Paper for the 2017 World Development Report. Washington,
+DC: World Bank.
+Sharman, Jason. 2012. Chinese capital flows and offshore financial centers. The Pacific
+Review Volume 25, 2012 - Issue 3.
+Tilley, Helen. 2016. Case study on Norway's engagement in the fight against illicit financial
+flows and tax havens: commercial tax evasion.
+TJN. 2017. Tax Justice Network warns at the UN against subversion of Sustainable
+Development Goals.
+Transparency International. 2004. Global Corruption Report.
+Truman, Mike. 2010. Lack of evidence. Taxation Magazine. February 17 2010.
+https://www.taxation.co.uk/articles/2010/02/17/19977/lack-evidence.
+32
+
+UN Human Right Council. 2016. Final study on illicit financial flows, human rights and the
+2030 Agenda for Sustainable Development of the Independent Experts.
+United Nations. 2016. Coherent Policies for Combatting Illicit Financial Flows.
+United Nations. 2016. World Economic Situation and Prospects 2016.
+Vienna University. 2016. Tax and Good Governance Overview of the project.
+Weisman, Jonathan. 2002. Phony Prices May Hide Import-Export Profits From IRS.
+World Bank. 2016. The World Bank Group’s response to illicit financial flows: a stocktaking.
+Zucman, Gabriel, A. Alstadsæter and N. Johannesen. 2017. Who Owns the Wealth in Tax
+Havens? Macro Evidence and Implications for Global Inequality. NBER Working
+Paper.
+33

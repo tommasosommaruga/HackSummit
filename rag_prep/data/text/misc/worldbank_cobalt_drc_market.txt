@@ -1,0 +1,1327 @@
+COBALT IN THE
+World Bank
+June 2021
+DEMOCRATIC
+REPUBLIC OF
+CONGO
+Market Analysis
+
+Content
+Introduction .................................................................................................................................................. 3
+1. Executive Summary ................................................................................................................................... 5
+2. Global Cobalt Market Overview ................................................................................................................ 8
+2a. Cobalt and the Clean Energy Transition .............................................................................................. 9
+Sourcing ‘Clean Cobalt’ ....................................................................................................................... 10
+Substituting Cobalt .............................................................................................................................. 12
+2b. Global Cobalt Demand ...................................................................................................................... 13
+2c. Global Cobalt Supply ......................................................................................................................... 15
+Mined Cobalt ....................................................................................................................................... 15
+Refined Cobalt ..................................................................................................................................... 18
+Secondary Cobalt (Recycled) ............................................................................................................... 19
+2d. Cobalt Prices ..................................................................................................................................... 20
+3. Cobalt’s Role in DRC ................................................................................................................................ 22
+3a. A Comparative Advantage That Fuels the Economy ......................................................................... 22
+3b. Mapping the DRC Cobalt Supply Chain ............................................................................................. 27
+Overview ............................................................................................................................................. 27
+Key Players .......................................................................................................................................... 30
+3c. Global Initiatives and Perspectives to Improve the Cobalt Supply Chain ......................................... 35
+4. Conclusion ............................................................................................................................................... 36
+1
+
+Figures and Tables
+Figure 1: Cobalt in its various forms, from mined product to its transformation into other products ........ 8
+Figure 2: Mined cobalt supply by primary minerals, 2015 - 2018 ................................................................ 9
+Figure 3: Mined cobalt versus refined cobalt broken down by country, 2019 ............................................ 9
+Figure 4: Main extraction and refining locations of key materials for EV batteries ................................... 11
+Figure 5: EV sales as share of total cars, 2015 – 2040 ............................................................................... 13
+Figure 6: Global refined cobalt demand, 2015- 2040 ................................................................................ 14
+Figure 7: Expected market share of li-ion batteries, 2017-2030 ................................................................ 15
+Figure 8: Cobalt price forecast to 2030 (US$/tons) .................................................................................... 22
+Figure 9: Global mined supply, 2015-2018 ................................................................................................ 16
+Figure 10: Global mined supply outlook by region and key producing countries, 2015-2040 .................. 17
+Figure 11: Global cobalt supply and trade visualization ............................................................................. 17
+Figure 12: Secondary cobalt supply forecast from recycled products, 2016 – 2040 ................................. 20
+Figure 13: Typical flowchart for artisanal cobalt from the DRC sold to China ............................................ 27
+Figure 14: DRC mined cobalt supply by producer, 2015 and 2018 (tons) ................................................. 30
+Figure 15: DRC mined cobalt supply from ASM versus LSM, 2015 - 2018 (tons) ....................................... 32
+Figure 16: Cobalt Intermediate Cost Curve 2020 (US$/tons) .................................................................... 32
+Table 1: Examples of cobalt supply agreements ......................................................................................... 19
+Table 2: Cobalt mined in DRC versus rest of the world (thousand tons) .................................................... 23
+Table 3: Mining sector’s role in DRC economy, 2014-2018 ....................................................................... 23
+Table 4: Description of key stakeholders in DRC cobalt supply chain ....................................................... 28
+Table 5: Overview of international responsible sourcing initiatives .......................................................... 35
+2
+
+Introduction
+The Democratic Republic of Congo (DRC) ranks among the world’s largest producing countries of minerals
+needed for the energy transition. DRC is the fifth largest copper producer globally and is in the fortunate
+position of having most of the world’s mine production and reserves of cobalt, currently one of the most
+demanded minerals in the world. While cobalt has traditionally been used in superalloys, magnets,
+ceramics, paints and consumer electronics, there has been a recent surge in demand for batteries for
+stationary energy storages and, mostly, for electric vehicles (EV), which are expected to lead most of the
+future growth in consumption.
+This report provides an overview of the global cobalt market, and the opportunities and risks for DRC in
+supplying the mineral. On the production side, although it deals primarily with artisanal mining, it also
+examines the complex relations and interactions between the supply circuits of artisans and large-scale
+industrial mines.
+The key finding of the report is that, despite DRC’s global comparative advantage in producing cobalt,
+there is a risk that human rights abuses in artisanal mining might sterilize or, at the very least, devalue the
+country's entire cobalt resources, either by making DRC a supplier of last resort or incentivizing
+technological shifts and substitution away from cobalt. Despite Government’s recent efforts (namely
+through the recent creation of EGC and ARECOMS), if DRC wants to get the maximum benefit from the
+global interest in cobalt, significant immediate improvements are needed on sector governance,
+including:
+ Traceability / due diligence - to provide the confidence to end-users that cobalt is free from child-
+labor, demonstrate human rights compliant production, and is free from corruption and risk of
+fueling armed conflict;
+ Formalization - to shift production from informal/illegal, to formal and legal which in turn will
+improve health and environmental & human safety thereby “clean up” the DRC side of the global
+supply chain.
+This report is primarily aimed at DRC Government decision makers but can hopefully stimulate dialog
+within the community of key stakeholders involved in the supply chain of cobalt and other minerals
+critically needed for the energy transition. The World Bank stands ready to collaborate with the DRC,
+combining technical and financial support to strengthen the rule of law, mitigate conflict risks and stop
+human rights abuses around the mining areas.
+The report has been prepared by a team composed of Remi Pelon and Kirsten Hund (TTLs), Thao Fabregas,
+Paulo De Sa and Gary McMahon (consultants). Unless otherwise noted, the cobalt figures and findings
+referenced in this paper have been developed by Benchmark Mineral Intelligence (BMI), and will cited as
+“BMI, 2020”.
+3
+
+4
+
+1. Executive Summary
+Cobalt will play a key role in the low-carbon transition as it is a key ingredient for lithium-ion batteries,
+which are critical to decarbonize both the power and transport sectors. The cathodes used in lithium-
+ion batteries account for 55 percent of cobalt demand among all products in which it is used, with its
+second largest use going toward the construction of super alloys, at 17 percent, used in aircrafts and other
+high-impact machinery.
+To meet the Paris Agreement of achieving a 2°C or below future, global consumption of refined cobalt
+may increase to 200,500 tons in 2025 to 344,000 tons in 2030, growing by 9.6 percent annually between
+2017 and 2030. The automotive sector is expected to account for the majority of this demand due to the
+massive deployment of electric vehicles to meet many countries’ ambitious climate targets of
+decarbonizing their transport sector. Lithium-ion batteries are expected to account for 85 percent of
+cobalt demand by 2030.
+As the Democratic Republic of Congo (DRC) supplies more than 70 percent of ‘mined’ cobalt to date,
+the country has a significant opportunity to contribute to the low-carbon transition and leverage its
+comparative advantage in cobalt to meet its development objectives, reduce poverty and boost shared
+prosperity. Cobalt’s contribution to DRC’s economy is palpable, with copper and cobalt representing 50
+and 35 percent of total mining exports, respectively, in 2018. More specifically, cobalt accounted for about
+9 percent of GDP on average from 2013-18, with 10 percent in 2018, and is also estimated to have
+contributed 9 percent of Foreign Direct Investment from 2008 to 2018.
+China dominates the refined cobalt sector, with a market share of 67 percent as of 2019. Refined cobalt
+refers to cobalt metal, chemicals and other products that are used specifically by industrial end users,
+including battery manufacturers and automakers. In addition to China’s dominant position in refined
+cobalt, eight of the 14 largest cobalt miners in DRC are now Chinese-owned, accounting for almost half of
+the DRC’s output of mined cobalt. This gives China a significant role over the global cobalt supply and
+some influence over DRC’s mined cobalt output and, to some extent, its development objectives.
+While global cobalt demand is expected to recover in the short-term and remain strong, the general
+concerns that downstream players have with sourcing cobalt from DRC should be taken seriously. On one
+hand, while the DRC is expected to dominate the cobalt market until 2025, there are massive efforts
+underway today to source cobalt from different countries as well as develop new battery technologies
+that would significantly reduce and remove cobalt altogether. In the long-term and from a
+macroeconomic standpoint, this could have adverse implications on the DRC economy, which is already
+vulnerable to external commodity shocks given the important role the mining sector plays in the economy.
+DRC’s cobalt Artisanal and Small-scale Mining (ASM) represents a significant share of the country’s
+cobalt production, contributing to 10-20 percent of total supply depending on the estimates. Output
+surged rapidly in 2017/2018 in response to higher prices, a period when ASM played an important role in
+stabilizing the global market. But when prices fell in 2018, ASM share of DRC’s cobalt production fell to
+about 5 percent of total supply and remained subdued ever since. Although history suggests ASM supply
+is highly price-elastic, given geological and human constraints, ASM output is not expected to expand
+beyond prior peaks over the foreseeable future.
+5
+
+The perceived reputational risks associated with sourcing artisanal cobalt from the DRC could negatively
+impact the country’s comparative advantage in supplying cobalt from 2025 onwards. In 2019, a lawsuit
+was filed in US courts against many major automotive and technology companies accusing them of aiding
+and abetting the exploitation of child miners in the DRC to source cobalt. Anecdotal evidence and off-the
+record interviews suggest that the recent lawsuits have caused a chill across these different industries,
+with many of them aiming towards producing cobalt-free batteries as soon as possible, or sourcing ‘DRC-
+free’ cobalt.
+There is increasing pressure on large-scale mining (LSM) companies, traders and processors in DRC to
+provide “ASM-free” cobalt – material not mined by artisanal and small-scale miners (ASM) - to avoid
+the risk of child labor being involved in their supply chains. This phenomenon, however, has put pressure
+on LSM companies to disengage from ASM products entirely, estimated to account for about 200,000
+miners in the Katanga- Lualaba region, instead of meaningfully engaging with ASM communities to make
+their working conditions safer and environmentally more responsible. As most ASM producers rely on
+cobalt extraction for their livelihoods, complete disengagement from ASM is likely to be
+counterproductive towards DRC’s development objectives and could lead to more poverty, conflict and
+political instability. A few cases exist, however, where a large company has facilitated the formalization
+of artisanal miners in cooperatives, in exchange for the right to purchase their output.
+DRC’s current dominant position in the upstream cobalt market can be challenged by material
+substitution and new sources of primary and secondary supply. In light of the cobalt supply chain issues
+within DRC, there are massive efforts underway, supported by companies and governments alike, to
+develop new battery technologies and explore other forms of low-carbon technologies to reduce and
+eliminate their dependence on DRC cobalt. As the DRC economy is highly dependent on cobalt exports,
+the mineral’s contribution to the country’s economy and development could be put in jeopardy in the
+long-term if downstream companies continue to see DRC cobalt as a risk. Downstream companies cannot
+claim to be “socially responsible and climate-oriented” while the minerals they source are linked to human
+right abuses and environmental degradation. This risk increases even more for DRC post-2025, as other
+countries such as Indonesia and the Philippines are also expected to become significant producers of
+mined cobalt and located closer to ‘fine refiners’ and end-markets for EVs.
+Without major changes to improve the traceability of cobalt supply chain, the DRC may lose in the long-
+term its strategic position in mined cobalt at the global level. DRC passed two decrees in December 2019
+meant to change the way artisanal cobalt production is managed. The first created Entreprise Générale
+de Cobalt (EGC), a state-owned company with exclusive purchasing rights on all production of the
+country’s strategic minerals extracted by artisanal methods. The second established ARECOMS, a new
+regulatory agency charged with setting the price of cobalt purchased from ASM, performing audits and
+issuing certificates of compliance of ASM operations with applicable standards and legislation, including
+on child labor, and closing illegal mining sites.
+EGC was officially launched on March 31, 2021 following the signing of an offtake agreement with
+trading house Trafigura. The agreement includes a credit line prefinancing the purchases of artisanal
+cobalt and funding to EGC and its partners for the development of controls and traceability in three
+selected ASM cobalt sites. The selection of EGC’s commercial and financial partners should be transparent
+and competitive, as they must commit to high levels of due diligence and transparency to ensure the ore
+was produced according to acceptable standards and sold at a fair price. Likewise, the identification of the
+6
+
+mining cooperatives that will work with EGC must be done with integrity. Notwithstanding, it will take
+several years for making all artisanal cobalt miners in DRC compliant with internationally accepted
+standards like OECD guidance and building trust with consumers regarding the accuracy of the compliance
+audits.
+DRC needs a specific policy for artisanal cobalt mining to increase transparency and reduce reputational
+risks for consumers linked to the use of Congolese cobalt in their supply chains, while offering a path out
+of poverty for artisanal miners and communities in Lualaba and Haut-Katanga. Such a policy should
+attempt to take advantage of a predictable window of opportunity in the world market, but it must be
+formulated with care so as not to increase consumers’ concerns and accelerate substitution. The main
+objective of the policy should be to promote economic opportunities for artisanal miners; to provide legal
+security for their work and facilitate access to legitimate supply chains; to improve working conditions in
+mining sites; to ensure the protection of human rights; and to avoid child labor and corruption.
+The economic recovery post covid-19 provides an opportunity to organize the artisanal cobalt supply
+chain. Government should initiate a dialogue with representatives from artisanal miners to address the
+problems in the supply chain and prepare developing plans with them to support the creation of
+authorized and economically viable mining zones where artisanal mining can be conducted legally, safely,
+and with respect for the human rights of workers and surrounding communities.
+Many stakeholders are willing to collaborate with DRC to optimize its cobalt comparative advantage.
+Large consumers, United Nations agencies, multilateral organizations, donor countries and civil society
+organizations are willing to combine technical and financial support to increase the country’s benefits
+accruing from its comparative advantage in cobalt. Investing in good governance to strengthen the rule
+of law, mitigate conflict risks and stop human rights abuses in mining areas will contribute to improve the
+living conditions in areas of extreme poverty and the sustainability and reliability of the supply chain.
+Several initiatives and standards for the responsible sourcing of cobalt have been launched and
+implemented in the last few years, but they are different in scope and applied at different stages in the
+supply chain (mining, smelting/refining, manufacturing, etc.). The World Bank could assist DRC in planning
+and coordinating the efforts needed to make DRC cobalt compliant with good environmental, social and
+governance practices that will allow it to integrate favorably in global supply chains.
+7
+
+2. Global Cobalt Market Overview
+Cobalt has become more publicized today given its central role in battery technologies, particularly for
+electric vehicles (EV), followed by stationary and decentralized energy storage applications. The mineral,
+however, has been in use for a long time across many industries and products, such as superalloys,
+magnets, hard metals, ceramics, paints, and, in more recent years, in consumer electronics such as
+smartphones. The cathodes used in lithium-ion (li-ion) batteries account for 55 percent of cobalt demand,
+while 17 percent go for super alloys, typically used in aircrafts and other high-impact machinery (e.g., gas
+turbine generators), its second largest use. Cobalt comes in various forms and is usually transformed into
+a chemical as a final product—cobalt sulphate or oxide—for the production of batteries; 70 percent of
+cobalt is refined into chemicals while 30 percent of it is made available in its metallic form.1
+Figure 1: Cobalt in its various forms, from mined product to its transformation into other products
+Unlike base metals, cobalt is mined as a by-product of copper and nickel, on which its economics largely
+depend, and therefore considered to be a “minor” metal. In recent years, copper mines have accounted
+for about 73 percent of mined cobalt production, while nickel mines accounted for 25 percent and primary
+cobalt only represented a mere 1-2 percent of mined cobalt supply, coming only from Morocco (BMI,
+2020). Glencore is the largest cobalt miner in the world yet only a small percentage of its mining revenue
+comes from cobalt production.2 In 2019, about 70 percent of total global raw cobalt (mined) supply came
+from the Democratic Republic of Congo (DRC), with the remaining amount of cobalt coming from other
+countries, notably from Russia, the Philippines and Cuba.3
+1 Many of the cobalt figures and findings referenced in this paper have been developed by Benchmark Mineral Intelligence (BMI),
+and will cited as “BMI, 2020”.
+2 This may not always be true at the mine site level, depending on the price of cobalt. For example, at Glencore’s Mutanda mine
+in DRC, cobalt revenues surpassed copper revenues when cobalt prices were elevated in 2018. In this case, the Mutanda mine
+was considered more of a “cobalt mine”.
+3 Cobalt (usgs.gov).
+8
+
+Figure 2: Mined cobalt supply by primary minerals, 2015 - 2018
+Source: BMI, 2020
+While the cobalt supply chain focus has been heavily centered on the DRC given the recent negative media
+attention regarding the use of child labor and other concerns, as well as its large cobalt reserves, the
+picture is starkly different for refined cobalt, which is the ultimate final cobalt product needed to build
+batteries. In 2019, China refined 67 percent of global cobalt, up from 53 percent in 2015. Most of the
+refined cobalt that is supplied by China is for cobalt chemical products specifically (OECD, 2019). Outside
+of China, Finland and Norway are the second and third largest refiners in the world.
+Figure 3: Mined cobalt versus refined cobalt broken down by country, 2019
+Source: BMI, 2020.
+2a. Cobalt and the Clean Energy Transition
+Li-ion batteries for mobile, stationary and decentralized applications are expected to play a significant role
+9
+
+in helping the world transition to a low-carbon future. Without this battery technology, it will be difficult
+for the automotive sector to move away from internal combustion engines (ICE) vehicles, and for
+countries to integrate variable renewable energy, such as solar PV and wind, into their national grids as
+these technologies are expected to take a larger share of global electricity production in the medium- to
+long-term.4 Given the global concerns linked to current cobalt production in the DRC from stakeholders
+that are heavily interested in accelerating a low-carbon future, including financing stakeholders and the
+banking community, downstream companies (e.g., automotive, energy and technology companies) that
+do not address the environmental and social challenges associated with upstream activities (e.g.,
+extraction and processing) will likely face strong consumer backlash and find it increasingly difficult to
+position themselves as being ‘socially responsible and green’ companies.
+Sourcing ‘Clean Cobalt’
+In December 2019, the heat rose dramatically when a lawsuit was filed in US courts against many major
+technology companies accusing them of using child miners in the DRC, many of whom have suffered very
+serious injuries or been killed on the job. “The lawsuit name[d] Apple, Alphabet (Google), Dell, Microsoft,
+and Tesla as Defendants. Plaintiffs have evidence that these companies in particular aided and abetted
+the mines that abused and profited from forcing Plaintiffs and other children to mine cobalt under
+conditions that led to their deaths or serious, crippling injuries. Plaintiffs’ research team is continuing to
+investigate other tech and car companies and expects to add additional companies to the lawsuit.”5
+Anecdotal evidence and off-the record interviews suggest that these recent lawsuits have caused a chill
+across the automotive and technology industries and that many of them are aiming to produce cobalt-
+free batteries as soon as possible, or sourcing ‘DRC-free’ cobalt.
+Given the supply risk associated with cobalt production in DRC, many downstream companies have also
+been exploring the possibility of investing directly in upstream and refining segments of the cobalt supply
+chain to secure supply, as well as reduce the reputational and environmental risks from sourcing cobalt
+from third-party sources, namely from refineries in China (OECD, 2019). Therefore, it is likely that vertical
+partnerships will become more commonplace as downstream companies scramble to secure the supply
+of mineral needed for their products, all while managing the reputational, social and environmental risks
+associated with cobalt production.
+For example, on July 2020, German carmaker BMW has signed a five-year cobalt supply agreement with
+Moroccan producer Managem, the world’s only primary cobalt mine, that will cover 20 percent of BMW's
+cobalt requirements for the 2020-2025 period. BMW will source the other 80 percent from Australia,
+avoiding further involvement in DRC. Likewise, Mercedes-Benz will in the future only source battery cells with
+cobalt and lithium from mining sites without human rights violations certified by the “Standard for Responsible
+Mining” of the “Initiative for Responsible Mining Assurance”. In the coming generations of battery cells,
+Mercedes-Benz is already reducing the cobalt content to less than ten percent and intends to replace it entirely
+through post-lithium-ion technologies with new material compositions. In addition, media sources reported in
+4 Variable renewable energy (VRE) refers to a renewable energy source that is non-dispatchable due to its fluctuating nature,
+such as a solar and wind energy, unlike hydropower.
+5 Dempsey, Harry. Tech Giants Sued over Child Deaths in DRC Cobalt Mining, The Financial Times, 16 Dec. 2019,
+www.ft.com/content/3ab6b934-202e-11ea-92da-f0c92e957a96.
+10
+
+September 2020 that Tesla is currently in discussions with a mining company in New Caledonia to develop
+a large mine that would give the company access to “low carbon nickel” as well as cobalt.
+There is also increasing pressure on LSM companies and processors, from these same downstream
+companies, to provide “ASM-free” materials to avoid the risk of child labor being involved in their supply
+chains, particularly for cobalt. This phenomenon, however, has put pressure on LSM companies to
+disengage from ASM producers entirely instead of meaningfully engaging with ASM communities to make
+their working conditions safer and environmentally more responsible (OECD, 2020). For example, Tesla
+recently signed an agreement with Glencore to secure cobalt supply for a number of years, potentially to
+be able to claim that it is procuring “ASM-free” cobalt products and therefore not participating in child,
+labor and/or environmental issues; Glencore is one of the few mining companies that is considered to be
+Tier 1, a reliable supplier of the mineral.6
+Figure 4: Main extraction and refining locations of key materials for EV batteries
+There are several global or regional initiatives that focus on overcoming this cobalt sourcing challenge
+with efforts to diversify the battery supply chain, but many experts point out that Europe and North
+America are largely behind Asia when it comes to scaling up battery manufacturing capacity. Anecdotal
+sources also suggest that other regions may not be able to catch up anytime soon, especially since China
+refines all major EV battery minerals. As highlighted in Figure 4, the majority of lithium and cobalt is
+refined in China, while 42 percent and 30 percent of copper and nickel, respectively, are also refined there.
+On top of that, China accounted for 73 percent of global li-ion battery manufacturing capacity in 2019.7
+The European Union (EU) Conflict Minerals Regulation, which came into force on January 2021, requires
+EU operators importing tin, tantalum, tungsten and gold (or 3TG) from high-risk and conflict-affected
+areas to carry out due diligence on their supply chains, in accordance with the OECD Due Diligence
+Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas (OECD
+6 Sanderson, Henry. Tesla to Buy Cobalt from Glencore for New Car Plants, The Financial Times, 16 June 2020,
+www.ft.com/content/aa09dbcb-37ed-4010-a0ee-ab6cfab4d4b5.
+7 Rapier, Robert. Why China Is Dominating Lithium-Ion Battery Production, Forbes, 19 Aug. 2019,
+www.forbes.com/sites/rrapier/2019/08/04/why-china-is-dominating-lithium-ion-battery-production/#72d7f6f23786.
+11
+
+Guidance). The regulation applies to all ‘conflict-affected and high-risk areas’ (CAHRAs) - i.e., regions in a
+state of armed conflict or fragile post-conflict, as well as areas witnessing weak governance and security
+and widespread and systematic violations of international law, including human rights abuses - and could
+be expanded to include cobalt. Moreover, the European Commission is finishing consultations on an EU
+Battery Regulation that would require all businesses in the battery industry to report on the social and
+environmental impact of their operations. This would ensure that batteries entering the EU market are
+responsibly sourced, and the minerals in their batteries are free of corruption and do not indirectly finance
+armed groups or child labor.
+North America also indicated an ambition to have increased critical raw material security, with the US
+having recently launched a program to supply battery minerals in Canada and build an EV supply chain
+between the two countries.8
+Substituting Cobalt
+Concerns regarding the integrity of the supply chain have led many companies to believe that cobalt can
+be a limiting factor in the deployment of lithium-ion batteries. These concerns have created shifts in the
+chemistries of rechargeable batteries, leading to a decrease in the consumption of cobalt while favoring
+the use of substitutes. Cell development for the EV industry is now focused on reducing cobalt use in
+cathode technology to reduce dependence/cost and increase energy density. For example, Nickel Cobalt
+Manganese 811 battery chemistries (nickel = 80 percent; cobalt = 10 percent; manganese = 10 percent)
+are becoming the preferred battery composition in the EV industry to reduce the battery’s sector
+dependence on cobalt. A strong move to NCM 811 battery composition would lead to a reduction of cobalt
+in the minerals mix to only 10 percent, versus the commonly used 40 percent of cobalt in other battery
+compositions. There is also an economic incentive for that since nickel is cheaper than cobalt. Because
+cobalt is mostly mined as a by-product of (copper and) nickel, this price premium is expected to continue
+over the long-term.
+Likewise, alternative technologies that achieve comparable functionality using different materials can
+accelerate the replacement of cobalt for a substitute. For example, to produce its Model 3 electric car in
+China, Tesla has chosen to buy prismatic lithium-iron phosphate batteries (LFP) from China’s CATL that do
+not contain cobalt. Despite lower energy density, and thus shorter autonomy range, LFP batteries
+currently have a significant cost advantage. A full overview of the different li-ion battery compositions and
+impact on cobalt demand is further addressed in the 2b. Global Cobalt Demand section.
+There is also a large number of financial resources, both public and private, mobilized to speed up
+research, development and deployment (RD&D) of solid-state batteries, fuels cells (hydrogen) and other
+forms of batteries and/or other new technologies to accelerate the transition toward a lower-carbon
+future and reduce the dependence on cobalt. Fuel cells have a significant advantage over batteries as they
+can be replenished quickly, similar to filling up a gas tank. Automobile manufacturers, especially for heavy
+and long-haul trucks, are currently investing heavily in the use of fuel cells; there are also ongoing
+discussions on decarbonizing the shipping industry via hydrogen technology. Currently, the main
+stumbling block for green hydrogen9 is to get the price of the fuel down to a competitive level. On the
+8 See Exclusive: U.S. looks to Canada for minerals to build electric vehicles - documents | Reuters.
+9 Green hydrogen is a gas that is created using renewable energy through the electrolysis of water.
+12
+
+battery spectrum, solid-state batteries use no cobalt and according to some analysts, it seems likely that
+some EVs will be using solid-state batteries by 2025.
+Still, to date, there is no real cobalt substitute in the battery supply chain, but if risks continue to exist
+with sourcing cobalt from DRC, from a social and environmental perspective, policymakers and the private
+sector will continue to invest in other forms of technology and battery subtechnologies10 to reduce their
+exposure to cobalt in the long-term. Changes in technology and subtechnology deployments for battery
+storage and other emerging technologies could also have impact on overall cobalt demand, and therefore
+its future price.
+2b. Global Cobalt Demand
+Electric Vehicles’ Role in Driving Cobalt Demand
+The majority of cobalt demand is coming primarily the battery sector, led by companies such as CATL, LG
+Chem, Tesla, BYD, Panasonic and Samsung. More specifically, most of this demand for batteries is coming
+almost exclusively from two industries: the power and the automotive sector, which is trying to shift from
+ICE vehicles into EVs to conform with new policies and climate targets across different countries to
+decarbonize the transportation sector, as well as respond to consumers’ preference to shift to cleaner
+cars. While there are a wide variety of battery chemistries available for the EV sector, with some batteries
+using zero to larger amounts of cobalt in their cathodes, it is widely believed that li-ion batteries, will
+continue to dominate the battery sector in the medium-term due to continued falling costs, higher energy
+intensity and better performance, compared to other emerging technologies. The other key markets for
+li-ion batteries are portable devices and stationary/grid energy storage, both having a strong growth
+profile over the coming years.
+Some sources suggest that EVs will make up nearly half of new vehicles sold in the world starting 2035,
+with total vehicles sold hovering between 100 and 128 million units sold annually (BMI, 2020). There are
+a number of factors underpinning this market growth, with several governments supporting the adoption
+of EVs over the coming two decades through proposals for the banning of internal combustion engine
+vehicles, or targets for zero-emission vehicle market share matched with subsidies and other incentives.
+It is unclear whether these projections consider the new grid infrastructure that will be required to charge
+all these new EVs starting 2030 but is regardless a trend that should be followed closely to understand
+how cobalt demand could be impacted in the medium- to long-term as policy support will be needed to
+support this new grid infrastructure.
+Figure 5: EV sales as share of total cars, 2015 – 2040 11
+10 Battery subtechnologies refers to other form of battery compositions, such as solid-state batteries or other li-ion batteries
+that do not use cobalt.
+11 Quoted by BMI, 2020.
+13
+
+In 2016, li-ion batteries accounted for 51 percent of cobalt demand; by 2030, they are expected to account
+for about 85 percent of cobalt demand (OECD, 2019). As more EVs are increasingly put on the road,
+especially those that use li-ion batteries, cobalt demand is expected to grow from 102,783 tons in 2020
+to 663,438 tons in 2035. Moreover, to meet the Paris Agreement12 of achieving a 2-degree or below
+future, global consumption of refined cobalt may amount to 200,500 tons in 2025 to 344,000 tons in 2030,
+increasing by 9.6 percent annually between 2017 and 2030.
+Figure 6: Global refined cobalt demand, 2015- 2040
+Source: BMI, 2020.
+Cobalt demand from Nickel, Cobalt and Manganese (NCM) batteries, a relatively common li-ion battery
+chemistry, will increase from around 20,236 tons in 2020, to about 253,392 tons by 2030. Within NCM,
+there are four primary battery chemistries: NCM 111, NCM 525, NCM 622 and NCM 811.13 All NCM battery
+chemistries are expected to move from a market share of around 5 percent in 2019, to 60 percent by
+2030, outpacing battery compositions such as Lithium Cobalt Oxide (LCO).
+Within NCM batteries, the new 811 chemistry is expected to take a larger share of the market in the long-
+term, which is the battery chemistry with the lowest amount of cobalt needed, due to tight cobalt
+12 The Paris Agreement sets out a global framework to avoid dangerous climate change by limiting global warming to well
+below 2°C and pursuing efforts to limit it to 1.5°C (European Commission).
+13 Each of those numbers represent the ratio of the mineral content in each battery, with the NCM 811 having the lowest
+amount of cobalt in its composition (e.g., Nickel = 80 percent; Cobalt = 10 percent, and; Manganese = 10 percent).
+14
+
+availability and battery manufacturer’s focus on reducing their dependence on the mineral. Despite the
+automotive sector’s shift toward NCM 811 and 622 batteries to limit their dependence on cobalt, some
+sources suggest that the overall cobalt market is still expected to grow strongly, with cobalt demand
+expected to outstrip cobalt supply in the medium- to long-term.
+Figure 7: Expected market share of li-ion batteries, 2017-2030
+Source: Trafigura Research. Cobalt Market Overview. Trafigura, June 2020.
+Prior to the COVID-19 crisis, it was predicted that demand growth for cobalt would outpace the ability for
+supply to keep up with demand by 2025. Demand is still expected to remain strong through 2025, even
+though supply chain disruptions as a result of the global health crisis had short-term implications on cobalt
+demand as consumers reconsidered their spending strategies, particularly in EV purchases. Government
+policies, such as fiscal packages with a focus on a green economic recovery, are seen to be crucial in
+helping the EV sector regain ground in the automotive sector after the COVID-19 crisis. As substantial new
+investment and increased economic stimulus funding continues to be announced by governments around
+the world, speeding up the roll out of fully electric li-ion powered vehicles, COVID-19 is expected to have
+minimum impact on cobalt demand in the medium- to long-term.
+However, there is a high level of uncertainty with the type of energy storage technology that will be
+deployed within the next decade. The IEA provides the highest level of uncertainty post-2030, as it is
+unclear whether other technologies, such as fuel cells and other types of cobalt-free batteries, like solid-
+state and redox batteries, could end up becoming more competitive in the medium- to long-term. Other
+technological revolutions and policy shifts, such as the ramping up of mineral recycling from li-ion
+batteries and other forms of material substitution to reduce costs and dependence on primary materials
+could have an impact on cobalt demand in the long-term. The volatile price of cobalt, as well as
+downstream companies’ perceived reputational risks associated with sourcing cobalt from DRC, are also
+contributing to their scramble to shift to other forms of minerals and/or develop alternative technologies
+to decarbonize both the transport and energy sectors.
+2c. Global Cobalt Supply
+Mined Cobalt
+15
+
+Mined cobalt is currently produced via two types of producers: 1) industrial or large-scale mining (LSM),
+which are usually large-scale operations that are regulated in the countries in which they operate, and; 2)
+artisanal and small-scale miners (ASM), who usually operate in an informal matter “with limited available
+information on production, revenues, operations and even location of activities”14.
+As highlighted earlier, mined cobalt supply is dominated by the DRC, supplying more than 70 percent of
+global production of mined cobalt in 2019. The remainder of the market is supplied by large industrial
+mining operations in other countries, such as Russia, Philippines and Cuba, most commonly as a by-
+product of copper and nickel mining, making the economics of cobalt mining very dependent on those
+two commodities (BMI, 2020). From 2015 to 2018, DRC produced 67,300 tons to 96,747 tons of cobalt,
+with industrial producers accounting for 27,547 tons of this increase, by ramping up production,
+predominantly as a result of copper mine expansion.
+Figure 8: Global mined supply, 2015-2018
+Source: BMI, 2020.
+Glencore (DRC) accounted for 32 percent of global mined cobalt market in 2018. China Moly (DRC) was
+the second largest global producer with 14 percent, while ASM in DRC was the third largest producer in
+the world, if aggregated together (BMI, 2020). Other major producers include Chemaf (DRC), Jinchaun
+(DRC), Norilsk (Russia), Huayou Cobalt (DRC), Sumitomo (Philippines and Madagascar) and Vale (Canada
+and Brazil).
+The COVID-19 crisis led to the temporary shutdown of several exploitations in the DRC, including Eurasian
+Resources Group (ERG), which suspended its activities, affecting 1,400 jobs. Additionally, some processing
+plants also shut down. In general, several major mining and trading companies reported production
+disruptions, including Trafigura, Ivanhoe and China Molybdenum (NRGI, 2020). Cobalt capacity expansions
+were therefore delayed by more than 12 months, leading to a tightening of the cobalt market in early
+2021, once the Chinese economy started to recover from the COVID-19 crisis. As DRC’s economy is highly
+dependent on the extractive sector, accounting for 30 percent of its GDP, or about 20 percent from
+14 Extractive Industries Transparency Initiative (EITI), 2020.
+16
+
+mineral exports specifically, the COVID-19 crisis had significant social and economic impacts on the DRC,
+both at the national and local levels (NRGI, 2020).
+In addition to falling production and demand, another key challenge with COVID-19 has been linked to
+the transportation of mined cobalt being disrupted, such as the lockdown in South Africa, where DRC
+minerals are usually shipped from to reach their final destination in Asia. The logistical bottlenecks with
+exporting cobalt from DRC to South African ports have added another layer of risk associated with
+sourcing cobalt from DRC, particularly from the perspective of automotive manufacturers. This temporary
+gap in supply from the COVID-19 crisis has influenced China’s decision to build a 2,000-ton cobalt
+stockpile, with other countries also deciding to declare cobalt a ‘strategic mineral’.15
+In the medium-term, McKinsey & Co (2018) estimates that DRC will keep its dominant position and could
+be responsible for 75 percent of global primary cobalt production up until 2025. After 2025, BMI estimates
+that the growth curve for global cobalt supply is likely to flatten as the cobalt mines that will need to come
+online during this period will either be still undiscovered and/or early stages of exploration. Overall, the
+longer supply-demand balance is largely due to an expansion of production by industrial mines and the
+flexibility of artisanal miners, both in DRC, which is now often viewed as the force that will in the short-
+term at least, keep the cobalt market in balance.
+Figure 9: Global mined supply outlook by region and key producing countries, 2015-2040
+Source: BMI, 2020.
+While the DRC supplies the majority of global mined cobalt today, Indonesia is forecasted to become a
+significant producer due to its large nickel-copper mines expected to come online in the next decade,
+followed by the Philippines. The outlook is that the expansion of mined cobalt will be seen elsewhere in
+the world and the majority of nations who produce mined cobalt today will hold their market share.
+China dominates the refined cobalt sector, with a market share of 67 percent as of 2019. Refined cobalt
+refers to cobalt metal/chemicals and or other cobalt products that are used specifically by industrial end
+users, including battery manufacturers and automakers. As mentioned earlier, outside of China, Finland
+and Norway are the second and third largest refiners, or “fine refiners”, in the world.
+Figure 10: Global cobalt supply and trade visualization
+15 States or regional bodies that have declared cobalt a strategic mineral include: China, US, European Union, Japan and the UK.
+17
+
+Source: BMI, 2020.
+Refined Cobalt
+Refined cobalt is produced in distinct refineries, often not located near the source of production and
+sourcing material from one or more mined cobalt producers (BMI, 2020). Due to increased competition
+from China, some refineries had to close and the rest of world’s refined cobalt declined due to these
+closures. While the DRC is known to process some of its cobalt, by choosing to only do the first step of
+the process in-country, its products are not at a level that would be considered high grade in the
+international market. Almost all refined cobalt coming from the DRC is further refined and processed in
+China or elsewhere to reach the desired level of high grade and to be closer to the consumer market.
+The largest refining companies typically have equity investments or outright ownership in mined cobalt
+assets. China’s Huayou Cobalt and Jinchuan, for example, are some of the world’s largest cobalt miners,
+in addition to being significant refiners of the metal. Currently, there are few plans to build refineries
+outside of China despite some concerns over China’s dominance on the cobalt supply chain, particularly
+with its refining capacity as well as some of its mine ownerships in DRC. However, that may change as
+governments and industries are attempting to develop battery supply chains outside of China and become
+competitive. Some sources suggest that the outlook on China’s dominance over refined cobalt could
+change as refineries on average, take only about 18-36 months to build (BMI, 2020).
+In general, the relationship between battery producers and cobalt suppliers usually take form as a long-
+term offtake agreement or as an equity investment. As seen in Table 1, some off-take agreements for
+refined cobalt can range anywhere between three and five years, with some buyers being cathode
+manufacturers while others are full battery producers. As mentioned earlier, since downstream users are
+scrambling to secure cobalt and nickel supplies over the long term, it is likely that vertical partnerships
+will become more commonplace to reduce supply chain risks, as highlighted by the latest announcements
+by Tesla.
+Some sources suggest that China is also known to purchase the majority of the artisanal material from
+DRC to eventually refine, although its exact source is hard to trace at the company level. Refineries in
+18
+
+China produce almost all types of cobalt products and are accustomed to producing the material for the
+battery sector, as China is the largest battery producer, but also the largest market for EV, accounting for
+47 percent of total EVs in use in the world.16
+Table 1: Examples of cobalt supply agreements
+Secondary Cobalt (Recycled)
+Recycling rates for cobalt are currently low. For example, recovery rates for cobalt in Waste Electric and
+Electronic Equipment (WEEE) are only 30 percent, the rest being lost in processing. Less than 5 percent of
+lithium-ion batteries are recycled today at the end of their life. Current barriers to cobalt recycling include
+product design without consideration of second life uses, inefficient collection infrastructure, and
+transparency issues regarding secondary processes. Therefore, the stockpiles of end-of life products
+containing cobalt are not large or homogenous enough to mandate investments in more efficient
+collection infrastructure and recycling technologies but that could change with the effective collection of
+EV batteries (IISD 2019).
+However, recycled and re-used cobalt is expected to play an increasingly important role in the market,
+with secondary cobalt expected to supply nearly 50 percent of all cobalt by 2040, compared to less than
+10 percent today (Figure 11). That said, the current economics of recycling li-ion batteries outside of China
+is marginal due to the complex hand sorting operations required, coupled with the high cost of the
+technology required to do this in an environmentally acceptable way. From a re-use perspective, the bulk
+of li-ion batteries from the EV sector are today repurposed for stationary applications for the grid or used
+in low-load applications, such as forklifts and other warehouse production and equipment. Still, some
+16 International Energy Agency (IEA), 2020.
+19
+
+sources estimate that supply-demand imbalance will remain for cobalt as demand is expected to outstrip
+all supply, including primary and secondary cobalt.
+While there has been some high-level announcements, notably from governments in Europe, to increase
+li-ion battery recycling rates, the EU’s recycling sector lags behind China’s battery recycling capacity,
+although companies like Umicore are highly advanced in recycling of metals and have been doing this
+within Europe for quite some time17. It is estimated that if 90 percent of all batteries deployed in the EV
+sector would be collected and subsequently recycled at end of life, in 2030 about 38,000 tons of cobalt
+could come from the recycling of EV batteries in the EU, providing for around 10 percent of the European
+cobalt consumption in the EVs sector (Alves Dias et al. 2018).
+Figure 11: Secondary cobalt supply forecast from recycled products, 2016 – 2040
+Source: BMI, 2020.
+China increased its pool of future end of life (EOL) batteries by developing a vibrant battery
+refurbishment/re-use sector. EOL batteries refer to battery products that have reached their end life and
+are ready to be disposed or repurposed/recycled for other applications. Some sources suggest that China
+has been importing ‘waste’ batteries from developed markets to increase its EOL batteries supply pool. In
+addition to low labor costs relative to other countries, China’s battery recycling and re-use sector has
+benefited from economies of scale and expertise, leading to more efficient collection and processing
+chains. It remains to be seen whether other countries will be able to catch up to China in the battery
+recycling space to increase the overall supply of secondary cobalt in the medium- to long-term.
+2d. Cobalt Prices
+Cobalt supply is rigid and subject to severe price volatility mostly because cobalt has always been mined
+as a by-product of other products. The economics of any new large-scale cobalt capacity is mostly driven
+by nickel and copper prices, as investment will not be made directly into cobalt, but into other metals.
+17 See Our recycling process | Cobalt & Specialty Materials (umicore.com).
+20
+
+As shown in Figure 12, in 2008 and 2018, cobalt experienced significant price spikes, reaching $90,000 to
+$105,000 per ton in 2018 and 2008, respectively, due to a stock built at a time of tight supply as a result
+of prolonged low prices preceding those years (BMI 2020). In 2008, the supply shortfall stemmed from
+constrained supply, due to low prices and lower cobalt output. In 2018, a decade later, the same
+phenomenon happened again and then cooled down a few months later due to stronger levels of supply
+and a positive outlook from buyers regarding cobalt supply; prices stabilized to about $26,000/tons in
+June 2018, from its peak at $90,000/tons in January 2018.18
+Figure 12: Cobalt price from 2006 to 2020 (US$/tons)
+Source: Infomine.
+Demand for cobalt surged in 2015 but notwithstanding supply kept up with the rise in demand. DRC’s
+cobalt production increased from 67,300 tons in 2017 to 96,747 tons in 2018 with an additional 27,547
+tons coming from large scale mechanized copper/cobalt mines which accounted for more than 90 percent
+of the production expansion during the period. Still, DRC’s ASM was a key factor contributing to the
+reestablishment of the balance between supply and demand. Following a ’cobalt rush’ that brought the
+number of cobalt artisanal miners to an estimated 200,000 in Katanga and Lualaba, artisanal production
+increased by about 1,900 tons, from 7,100 tons to 9,000 tons (BMI 2020). By expanding output in response
+to high prices, it reduced market tightness and prevented prices from spiking further, playing the role of
+“swing producer” 19. ASM is cobalt’s supply source with the greatest elasticity, partly due to the availability
+of temporary labor and partly because cobalt is the main material mined. However, when cobalt prices
+fall, artisanal miners being high cost producers tend to curtail production, turning to copper given its
+greater price stability.
+From a pricing standpoint, cobalt prices were already at 2012 to 2015 levels since June 2018, irrespective
+of the pandemic, at around US$26,000-$30,000/ton. Since then, following favorable EV policies put in
+place by governments globally as part of the post COVID-19 recovery, the industry has seen rapidly
+increasing demand for cobalt under a backdrop of surging EV sales. Prices began their recovery in late
+2020 and gained some 65 percent in the first two months of 2021, hitting two-year highs of around
+18 Mining.com. “15 Years Cobalt Price.” Markets Single, 1 Sept. 2020, www.mining.com/markets/commodity/cobalt/all/.
+19 A swing producer typically has a large amount of spare capacity and is willing to use it to influence market prices
+by adjusting its output to balance or artificially regulate the market and keep prices stable.
+21
+
+US$55,000/tons. There was a small correction in March, with cobalt prices falling below $50,000/tons and
+remaining at that level until the end of the first semester of 2021.
+Despite previous price spikes, some analysts predict that prices will rise again once demand outstrips
+supply, thanks to the automotive sector, with cobalt prices expected to remain elevated, at $30,000 per
+ton or more, moving forward (see Figure 13).
+Figure 13: Cobalt price forecast to 2030 (US$/tons)
+Source: BMI, 2020.
+If prices spike again due to limited supply, this could incentivize downstream companies, particularly
+battery manufacturers and automotive companies, to speed up the development of alternative battery
+technologies or hydrogen fuel cells to reduce their dependence on cobalt. As raw materials account for
+about 60 percent of a battery cost, with the cathode (cobalt) accounting for nearly 34 percent of the total
+cell cost (BMI 2020), the cost of raw materials needed to build them will most likely incentivize the EV
+industry to move faster with material substitution, if and when, that becomes technologically and
+economically possible to reduce manufacturing costs.
+3. Cobalt’s Role in DRC
+3a. A Comparative Advantage That Fuels the Economy
+The DRC has a strategic position in supplying mined cobalt given its large reserves in both copper and
+cobalt, as well as the advantageous geological features that make it highly economic to mine it. About 55
+percent of the world’s cobalt resources are located in DRC, amounting to almost 10 million tons of mineral
+(Alves Dias et al. 2018). In addition, the country is endowed with particularly enriched oxidized minerals
+with natural concentrations of cobalt in ores of 0.4 percent to 0.8 percent, up to five times higher than
+22
+
+those of lateritic nickel ores found in other cobalt producing countries. These relatively soft and highly
+concentrated rocks can be mined by artisanal methods, while sulfide ores tend to be more difficult to
+extract. This gives the DRC a significant comparative advantage in cobalt production globally.
+DRC did not always supply the majority of the world’s cobalt. In 2000, for example, before the approval
+of a modern mining code, DRC only contributed to 9.7 percent of total global cobalt supply. Starting 2010,
+DRC’s role in the cobalt market grew rapidly, with the country providing more than 50 percent of cobalt
+from that year and beyond. In 2019 alone, DRC provided about 70 percent of global cobalt output,
+producing about 100,000 tons of cobalt compared to approximately 140,000 tons for the rest of the world
+(USGS, 2021).
+The mining sector plays a central role in the DRC’s economy and is a key driver to the country’s economic
+growth. In 2018, copper and cobalt represented 50 and 35 percent of total mining exports, respectively,
+together accounting for 85 percent of mineral sales. According to the International Monetary Fund,
+natural-resource extraction typically provides about a third of DRC’s government revenue and more than
+90 percent of its export earnings, again, mostly from copper and cobalt production. The DRC’s economy
+dependence on the mining sector and low foreign exchange reserves makes the country highly vulnerable
+to external shocks, such as volatile commodity prices (IMF, 2019).
+Table 2: Cobalt mined in DRC versus rest of the world (thousand tons)
+Percentage of global
+Year DRC Production Global Production
+production from DRC
+2000 7 36.9 9.7%
+2005 22 57.5 42.7%
+2010 47.4 89.5 53.0%
+2011 60 109 55.1%
+2012 60 110 54.5%
+2013 54 110 49.1%
+2014 63 123 51.2%
+2015 63 126 50.0%
+2016 64 110 58.2%
+2017 90 140 57.1%
+2018 73 120 71.4%
+2019 100 144 69.4%
+2020e 95 140 67.9%
+Source: Various issues of United States Geological Survey (UGSG) annual minerals reports on cobalt.
+Table 3: Mining sector’s role in DRC economy, 2014-2018
+23
+
+Cobalt provided an estimated 6.3 percent of the country’s fiscal revenues in 2016. It accounted for about
+9 percent of GDP on average from 2013-18, with 10 percent in 2018, and is also estimated to have
+contributed 9 percent of Foreign Direct Investment (FDI) from 2008 to 2018. It is anticipated that cobalt
+will continue to play an important role in fueling the DRC economy in the medium- to long-term.
+Opportunities and Risks
+As highlighted in the Mined Cobalt section, DRC is expected to dominate the ‘mined cobalt’ market for
+some time, with the country forecasted to continue to provide about 70 percent of the mineral at least
+until 2025. DRC’s comparative advantage in cobalt reserves and production, associated to the current
+demand trends are expected to give the DRC government considerable influence on how to decide to
+supply mined cobalt to the market.
+Notwithstanding, DRC’s comparative advantage is only in the upstream segment of the value chain and is
+heavily dependent on a Chinese-dominated value chain. China controls almost 50 percent of DRC’s cobalt
+production, as 8 of the 14 largest cobalt miners in Congo are now Chinese owned20. While most of the
+mines are joint ventures with Gécamines, they are managed by the Chinese firms. In addition, a big portion
+of DRC’s artisanal cobalt is sold in trading warehouses called “dépôts” or “comptoirs”, currently almost
+exclusively controlled by Chinese nationals, who then sell to “crude” refiners who mix materials coming
+from different sources. The output is roughly refined in DRC before being shipped to China where most of
+the world’s capacity of “fine” refined cobalt resides. China is the largest producer of batteries, with 73
+percent of the global li-ion battery manufacturing capacity in 2019, and also the largest market for electric
+vehicles.21 With demand for electric vehicles set to grow exponentially, China is leading the race for the
+construction of electric vehicles and aiming to control an increasing share of the cobalt market to secure
+the stable supply of critical raw materials. The dominant positions of the DRC and China, respectively in
+the extraction and refining of cobalt, are seen as big risks by the rest of the market.
+Moreover, political instability in the DRC and the 2018 revision of the mining code resulted in major mining
+companies considering investments in the DRC more cautiously and assigning a higher risk premium to
+such investments. Their investment decisions are not solely based on price projections but is also affected
+by weak governance, changing fiscal terms, reputational and project risks.
+20 They include China Molybedenum (CMOC), the largest stakeholder in Tenke Fungurume Cu/Co mine (TFM), Jinchaun, Huayou
+Cobalt, Congo Dongfang Mining, Comika Mining/Wanabao Mining, and Hunrui Cobalt.
+21 https://www.forbes.com/sites/rrapier/2019/08/04/why-china-is-dominating-lithium-ion-battery-production/#72d7f6f23786
+24
+
+Despite DRC’s comparative advantage, the perceived reputational risks associated with sourcing cobalt
+from the DRC due to child labor and environmental degradation associated with ASM production but also
+wider governance issues in the sector could negatively impact the country’s strategic position in supplying
+cobalt from 2025 onwards (see Sourcing ‘Clean Cobalt’ section).
+The impacts of these concerns can be felt in the global market today. Various companies have highlighted
+supply chain risks related to raw materials in batteries, identifying cobalt as the material presenting the
+highest risk, especially concerning human rights abuses, child labor and poor working conditions in the
+DRC. Several initiatives and standards for the responsible sourcing of cobalt have been launched and
+implemented in the last few years with diverse scopes that can be applied at different stages in the supply
+chain (see Global Initiatives and Perspectives to Improve the Cobalt Supply Chain section). Still, the lack
+of transparency and traceability in the DRC cobalt supply chain is leading many downstream companies
+to put in place measures to prevent any artisanal cobalt from the DRC entering the supply chain, claiming
+to source ‘ASM-free’ cobalt. Material must come from a compliant source and must be independently
+audited and verified to protect stakeholders from potential legal action.
+This means that while DRC will continue to benefit from mined cobalt production at the macroeconomic
+level, this advantage could be short-lived, leading to declines in job creation, local economic development,
+as well as poverty reduction within the Katanga-Lualaba regions if current trends from downstream
+companies to attempt to source ‘ASM-free’ cobalt persist.
+Battery suppliers and automakers are already looking to diversify their cobalt sources, as well as investing
+in RD&D to develop new battery and/or energy technologies that will limit their dependence on cobalt or
+eliminate the need for cobalt altogether in the long-term. While it may take five or more years for these
+new technologies to be developed, or for new sources of mined cobalt to be identified in other parts of
+the world, material effects might start to affect the global market as soon as 2025. This would in turn
+negatively impact the country’s national economy given that cobalt accounts for roughly 10 percent of
+the nation’s GDP.
+In short, DRC’s comparative advantage in mined cobalt production will likely remain intact up until 2025,
+but its dominance at the international level may not last beyond that timeframe, if the cobalt supply chain
+issues are not adequately addressed in the short-term. This is a significant risk for the country at both the
+macro- and microeconomic levels, which could severely impact its future economic prospects,
+development and social progress, and poverty reduction objectives.
+The response of the DRC Government
+In December 2019, DRC passed two decrees meant to change the way strategic minerals extracted with
+artisanal methods are managed. The two decrees can be summarized as follows:
+ Decree No. 19/15 created Entreprise Générale de Cobalt (EGC) as a state-owned company with
+exclusive purchasing rights on all production of the country’s strategic minerals22 not extracted
+by industrial operators, including the purchase and resell of cobalt mined by artisanal methods.
+EGC will be managed by state-owned mining company Gécamines. The decree authorizes the
+22 Strategic minerals are determined by Government and are subject to a 10% royalty rate. The Prime Minister has issued Decree
+No. 18/0442 of November 24, 2018 declaring cobalt, germanium and columbo-tantalite (“coltan”) as strategic minerals.
+25
+
+State monopoly to exercise its rights directly, through partnerships, or by delegating all or part of
+its activity to one or more other companies.
+ Decree No. 19/16 established the Agency for Regulation and Control of the Strategic Mineral
+Substance Markets (“Autorité de Régulation et de Contrôle des Marchés des Substances
+Minérales Stratégiques” - ARECOMS) as a new regulatory agency for strategic minerals. ARECOMS
+will be charged with setting the price of locally purchased cobalt from ASM, issuing certificates of
+compliance of ASM operations with applicable standards and legislation, closing of illegal mining
+sites, performing audits and controls of artisanal miners, ensuring that no children are active on
+mining sites, and providing education programs.
+Mining in the DRC is governed by Law No. 007/2002 of July 11, 2002 on the Mining Code as amended and
+supplemented by Law No. 18/001 of March 09, 2018. The measures for implementing this law are
+contained in Decree No. 038/2003 of March 26, 2003 establishing the Mining Regulations as amended
+and supplemented by Decree No. 18/024 of June 08, 2018. The two decrees refer to the Mining Code, and
+their stated objectives include:
+ To regulate cobalt’s world market price, given the strategic position occupied by the Democratic
+Republic of Congo (DRC) in its supply;
+ To control the entire value chain of artisanal production and increase state revenues through the
+control of the prices of strategic substances;
+ To reduce production stoppages at industrial mines caused by conflicts with artisanal producers;
+ To control artisanal production areas of strategic minerals and ensure the traceability of extracted
+products and the respect of working conditions;
+ To promote the integration of artisanal miners of strategic substances into the formal economy;
+ To increase tax revenues;
+ To improve the business climate and make effective the fight against poverty;
+ To create a technical body responsible for regulating the market for strategic minerals in order to
+strengthen compliance with applicable legislation, and the recommendations of international
+organizations regarding respect for human rights in this area.
+Enforcement of the new regulation is a major concern as its implementation is already lagging behind,
+partially because of COVID-19 but also because the decrees are ambitious in scope. For example, they
+gave artisanal mining cooperatives a 60-day deadline to obtain certificates from the ARECOMS and comply
+with EGC’s monopoly, deadlines that have expired a longtime ago. While EGC was launched on March 31,
+2020, ARECOMS is still struggling to become operational.
+On October 27th, 2020 trading house Trafigura entered into an offtake agreement that includes a loan
+facility up to US$ 15 million of support to EGC and its partners for the development of controls and
+traceability associated with ASM cobalt production. EGC established a Technical Committee through
+which Trafigura and the NGO Pact, among others, will supervise the production process and promote
+responsible sourcing diligence, respectively. Only three purchase stations will be created initially, but the
+agreement could be scaled up later. Gécamines will be responsible for selecting the three pilots. Trafigura
+will act as marketing agent for EGC, assuming the marketing risks (freight and insurance), while EGC will
+sustain all commercial risks as well as the costs related to mine management (e.g., conducting geological
+research, carrying out overburden removal and distributing protective equipment to artisanal miners). A
+renewable prepayment facility up to US$ 65 million will prefinance the costs of bringing the cobalt
+exclusively from strictly controlled artisanal producing areas complying with the Congolese law to an
+export point.
+26
+
+EGC was officially launched on Wednesday March 31, 2021, while its activities are expected to begin later
+this year. The same day, EGC also released the EGC Responsible Sourcing Standard23, developed in
+collaboration with Trafigura and Pact, that will support the establishment of EGC’s artisanal cobalt mining
+zones. Implementation of the EGC Standard will be supported by Pact through capacity-building and
+training of local stakeholders, including EGC and the mining cooperatives. Pact will also conduct ongoing
+monitoring and provide guidance for the assessment and mitigation of identified risks.
+ARECOMS will set the local purchase price of cobalt, ensure compliance with international standards and focus
+on solutions for child labor. The regulator will also aim to enforce the national standard for certified commercial
+chains (CTC), a system of standards and certification developed by the BGR in 2007-2010 and adapted and
+implemented in the DRC since 2011. Previously used only for artisanal mining of 3TG, a ministerial decree in
+April 202024 approved its application to cobalt. Achieving responsible sourcing will depend on the regulator’s
+ability to adopt the strict certification requirements (comprehensive due diligence and traceability)
+required by most consumers today.
+ARECOMS’ structure and funding are yet to be defined. Decree No. 19/16 provides no details on how the
+regulator’s mission will be funded, although It is planned that the agency will be financed by certificates of
+conformity and cooperatives. Because the regulatory agency is not operational yet, cooperatives have no
+way to comply with the new framework.
+3b. Mapping the DRC Cobalt Supply Chain
+Overview
+The cobalt supply chain within DRC is extremely complex and difficult to trace, from extraction—where it
+is often presented as two distinct types: artisanal and small-scale mining (ASM) and large-scale mining
+(LSM) —to in-country processing and/or shipment to refineries overseas. An analysis by Le Petit highlights
+that the “traceability on where cobalt is extracted and transparent information on mining site conditions
+on the ground remain the weakest spots of most (certification) schemes.”25 In other words, traceability is
+one of the key challenges from the DRC cobalt supply chain, as it remains difficult to track the different
+cobalt sources all the way down to the exact extraction location. This results in ASM products often ending
+up in LSM supply chains, despite company assurances to the contrary.
+Figure 14: Typical flowchart for artisanal cobalt from the DRC sold to China
+23 https://www.egcobalt-rdc.com/app/uploads/2021/03/20210326-EGC-Responsible-Sourcing-Standards-English.pdf.
+24 Ministerial Decree N ° 00139 / CAB.MIN / MINES / 01/2020 of April 20, 2020 on the CTC Certification Manual “Certified Trading Chain”
+of ores from the gold, Cupro-cobaltiferous, stanniferous and colored stones sectors in DRC.
+25 Le Petit, 2019.
+27
+
+Source: BMI, 2020.
+As a result, there has been increased focus from several players along the cobalt supply chain to work
+with ‘formalized’ ASM producers to better source cobalt. However, some sources suggest that de facto
+they are not so “clean”, as they often also buy the output of informal ASM producers. Most informal
+output is allegedly sold to markets called dépôts (buying centers; see Table 4 below), many of which are
+controlled by Chinese nationals, who then sell to “crude” refiners that also supply LSM companies, who
+then mix this material with their own production (OECD, 2019). The ‘crude’ refiners’ ability to process
+feed material mined from different sources and different extraction methods rendered supply chains
+complex and interconnected, as transactions prior to sale to the local trader are undocumented.
+To better understand the cobalt supply chain within DRC, it is crucial to identify the different stakeholders
+that exist along the cobalt supply chain, from the miners, traders, regulatory authorities to the security
+forces (private or public). In the case of DRC, key stakeholders will be defined as actors who are involved
+in the cobalt supply chain from extraction to ‘crude’ processing, where the product is partially processed
+in-country before being exported abroad to reach a ‘fine refiner,’ usually in China.
+A table below has been provided to illustrate the role of each of the key stakeholders and their role within
+the DRC cobalt supply chain.
+Table 4: Description of key stakeholders in DRC cobalt supply chain
+ROLE STAKEHOLDER DESCRIPTION
+MINERS Formal ASM Formal artisanal miners usually work in groups of 5-8 people for each pit,
+producing about 1-3 tons of ore (copper or cobalt) per day. The equipment
+involved to mine these minerals are sometimes financed by the miners
+themselves, which will enable them to retain 60% of price of the mined
+minerals once they are sold at the buying stations (dépôts). Formal artisanal
+miners usually work through cooperatives and are sometimes paid less than
+informal miners due to the concessionairer’s higher cost of a running a formal
+ASM site, which is then passed on to artisanal miners. This can often result in
+formalized ASM sites being less competitive than informal ASM sites.
+MINERS Informal ASM Unlike formal artisanal miners, informal ASM miners do not work as part of a
+cooperative nor have a formal legal status for their production. Informal ASM
+operations are known to take place in privately-owned mining concessions,
+whether active or inactive, leading to continued conflicts between LSM-ASM
+producers. These informal ASM activities can also take place in residential
+28
+
+areas. According to the OECD, informal ASM accounts for about 20 percent of
+production, which represents about 13 percent of the world’s production of
+cobalt.
+MINERS Cooperatives Permit holders and operators (LSM) can only source ASM cobalt from registered
+cooperatives. Under the Mining Code, cooperatives are the only entities
+allowed to market ASM cobalt material, but now EGC has monopoly rights to
+market all ASM material. Some cooperatives are known to demand or extort
+unofficial payments from artisanal miners, accounting sometimes for up to 20%
+of extraction. The lack of transparency over cooperatives’ registration and
+allocation of sites is a serious concern in the ASM industry; sometime the heads
+of the cooperatives are political exposed persons (PEPs). Knowing the beneficial
+ownership of cooperatives is an important due diligence step to take to root
+out potential corruption in ASM cobalt production.
+MINERS LSM LSM producers, permit holders and/or operators, represent some of the largest
+(large-scale foreign-owned mining companies in DRC, producing about 70-80% of global
+mining) cobalt. They typically operate in the country via joint ventures with SOE
+Gécamines, and can be structured in various ways between extraction,
+processing and refining activities. Some LSM are vertically integrated, retaining
+custody of the mineral from production to export, while others specialize in
+certain aspects of the cobalt supply chain.
+BUYERS OR Négociant or Négociants are described as middlemen who source and supply cobalt to
+TRADERS pit sponsors trading houses;26 they are the connecting stakeholder between ASM miners
+and dépôts (buying centers). They can choose to pre-finance materials needed
+to extract the ore and have been reported to work in the mines themselves
+when cobalt prices have been low. Some sources suggest that négociants can
+buy minerals from any mining location without problem, making it harder to
+trace cobalt from the extraction stage once it reaches a dépôt.
+BUYERS, Dépôts Dépôt is a buying center for mined cobalt that can be located directly on a mine
+TRADERS (buying site or outside of active concessions, villages and towns. According to the
+center) Mining Code, only Congolese nationals can own a dépôt. Still, a foreign partner
+may finance a dépôts’ operations. In the case of cobalt, the majority of foreign
+partners tend to be Chinese, followed by Lebanese and Indian citizens.
+Cooperatives rely heavily on dépôts to sell the ore they have extracted from
+artisanal miners. On-site dépôts can exist but need to have an agreement with
+a cooperative to be able to operate in their territory. Still, the power balance
+between dépôts and cooperatives depends heavily on local political or elite
+support. The minerals are usually brought to dépôts by miners or négociants
+and then are sampled, weighted and purchased; however, fraud is prevalent at
+dépôts due to the frequent use of manipulated weighted instruments to obtain
+a lower price on minerals purchased.
+BUYERS, Commodity Non-integrated refining companies usually rely on international commodity
+TRADERS trader traders to get cobalt concentrates from DRC to “fine refiners” outside the
+country. In terms of volume, the majority of cobalt exports are usually handled
+by a few commodity traders, which tend to be based in Europe. Some “fine
+refiners” can bypass commodity traders through offtake agreements with
+cobalt exporters in DRC, such as those that extract and refine cobalt specifically.
+PROCESSOR Processing Processors are companies that will buy the cobalt ore from dépôts. A processing
+facilities plant could buy all the ore from the production of 1 dépôt, or alternatively, a
+dépôt could be selling its ore to multiple processing parties. Many dépôts are
+usually part of a vertically integrated supply chain, where Chinese refiners
+either own or have exclusive buying relationships with processors.
+26 Global Witness, 2010.
+29
+
+REGULATORY SAEMAPE Service d'Assistance et d'Encadrement des Mines Artisanales et de Petit Echelle
+AUTHORITY (SAEMAPE) is a state service tasked with supervising ASM production, providing
+technical assistance to miners and ensuring the safety of ASM mines by
+performing regular checks on pits.
+SECURITY Republican The RG is an elite armed force that is tasked with protecting the President of
+(PUBLIC) Guard (RG) DRC and his or her distinguished guests. RG has reportedly been involved in
+securing and controlling ASM mine sites and dépôts for PEPs, policing activities
+and demanding payments from artisanal miners to access sites. Since 2018, RG
+personnel have reportedly left some of these mining sites they had once
+controlled, potentially due to RG’s strong political ties with the former
+president, who left his position that same year.
+SECURITY Armed Forces FARDC is the country’s military. They are reported to have raided and destroyed
+(PUBLIC) of the DRC dépôts in Mulungwishi and Kisanfu regions, after the RG left those regions in
+(FARDC) 2018. FARDC seems to also have been involved in the clearing of ASM miners
+on active concessional mines, but this is not considered to be a viable long-term
+solution.
+SECURITY Private LSM will usually hire private security personnel to protect their mining
+(PRIVATE) security concession, particularly in LSM-ASM conflicted sites. However, in practice, it
+personnel has been reported that private forces will usually allow ASM miners to access
+sites at night to extract cobalt since the salary they make on a nightly basis from
+artisanal miners is higher than what they earn on a monthly basis from a LSM
+company. Both public and private forces have been alleged to be implicated in
+human right abuse in cobalt production.
+Source: based on OECD, 2019.
+Key Players
+Large-scale miners
+Eight of the 14 largest cobalt miners in DRC are now Chinese-owned, accounting for almost half of the
+country’s output of mined cobalt. While many of the mines are joint ventures with Gécamines, they are
+usually managed by the Chinese firms. DRC’s potential control of the global cobalt market has been
+preempted by the Chinese, who also own most of the ‘crude’ refineries in the country. As a result, China
+controls about 85 percent of global cobalt supply and could influence future developments in DRC’s cobalt
+output and prices.
+In 2015 and 2018, industrial producers accounted for 60,200 and 87,747 tons of production,
+respectively.27 Glencore is the major producer in DRC today, but its dominance is expected to wane. Most
+of largescale producers extract cobalt as a by-product of copper, with assets doubling in production since
+2015 in the Katanga and Mutanda regions. China Moly will continue its expansion, along with ERG, and is
+expected to take a bigger portion of the market by 2030. Jinchuan Group also operates one copper and
+cobalt mine, and another copper mine; it also owns the world’s second and 14th largest copper refineries
+in China and was the world’s second largest refined cobalt producer in 2017 (OCDE 2019).
+Figure 15: DRC mined cobalt supply by producer, 2015 and 2018 (tons)
+27 The actual cobalt production figures may vary depending on the source of that information. In this case, the figures come
+from BMI.
+30
+
+BMI, 2020.
+The largest cobalt project is the Glencore Mutanda mine,
+Mutanda mine closure: Glencore closed the
+followed by Tenke Fungurume, Luiswishi and Lubumbashi
+Mutanda mine in November 2019, citing weak
+mines. In 2016, these four operations were responsible for
+cobalt prices, rising production costs and
+43 percent of the world’s cobalt production.
+increased royalty payments. The mine, which
+has a capacity of 30,000 is particularly
+One of the most important features of the LSM sector is
+sensitive to cobalt prices as the mineral
+the partnership with Gécamines, DRC’s state-owned
+accounts for up to 50 percent of its revenues,
+mining enterprise (SOE). The 2002 Mining Code tried to
+unlike other mines in the country, where
+make a transparent and level playing field in the copper cobalt is produced primarily as a byproduct.
+and cobalt industries. However, Gécamines became the The company announced that it would de
+private gatekeeper to exploitation rights to the copper and reopening the mine on the second half of
+cobalt mines, exploiting a clause in the mining code that 2021, on a limited capacity basis, because of
+allowed SOE companies to retain their mining permits and improved copper and cobalt prices.
+sell them to other companies. Most known cobalt deposits
+in the DRC were initially owned by Gécamines and are already covered almost entirely by industrial mining
+which, resulting in continued conflict between ASM and LSM operations. Gécamines is now largely a junior
+partner in over 20 joint ventures with foreign companies, with some sources suggesting that this has led
+to opaque deals that reportedly never found its way to the government treasury. For example, a recent
+EITI report showed a minor divergence between tax revenues paid by mining companies and received by
+the government, with some gaps in coverage from SOEs and significant mining deals not being published
+(IMF, 2019).
+Artisanal and small-scale miners
+ASM producers accounted for 9,000 tons of mined cobalt in 2018 but output reportedly fell to about 5,000
+tons in 2019 (BMI 2020). Yet, if aggregated together, they still are the third largest producer of mined
+cobalt, with output expected to remain static until 2025-2030, at about 10,000 to 11,000 tons of cobalt
+31
+
+per year. The recent expansion of cobalt mining experienced between 2015 and 2018 is not expected to
+be sustainable moving forward due to labor and resource constraints.
+Figure 16: DRC mined cobalt supply from ASM versus LSM, 2015 - 2018 (tons)
+Source: BMI, 2020.
+ASM producers in the DRC have also been seen as “swing producers” in the cobalt market. They tend to
+bridge the gap between cobalt supply and demand, and their production levels fall as prices decline. Some
+sources suggest the majority of ASM producers require at least a price of over US$30,000 per ton of cobalt
+to operate at higher capacity. When cobalt prices fall, ASM workers tend to switch to copper extraction
+given the greater stability in copper prices; this is what happened in 2018-19, when cobalt prices
+plummeted from US$90,000 to under US$30,000 per ton. DRC accounts for 6 percent of global copper
+production and is the largest copper producer in Africa.
+Figure 17: Cobalt Intermediate Cost Curve 2020 (US$/tons)
+Source: BMI, 2020.
+32
+
+One reason why ASM is persistent in DRC is because oxidized materials, which are typically closer to the
+surface, are characterized by relatively soft and concentrated rocks, while sulfide ores tend to be more
+difficult to mine through artisanal methods due to depth and hardness. However, the reduction in
+accessible oxidized mineral resources is expected to affect it over time. Therefore, DRC’s ASM production
+is expected to peak around 10,000 tons per annum, as it will be difficult to continue the recent expansion
+into the future.
+Most of the oxide reserves have been mined and companies will need to gradually tap into the hybrid and
+the sulfide reserves to continue cobalt production. As oxide deposits progressively deplete in the next 10
+to 15 years, the industry will probably have to make major investments in pyrometallurgy to treat sulfide
+ores and be able to sustain or increase output capacity. Alternatively, flotation on site and export of
+concentrates could make economic sense if there was an efficient rail connection to a port.
+ASM is labor intensive, produces a lot of employment, generates higher revenues for individuals and
+communities than alternative sources of livelihood, and creates benefits to the local economy. Still, as
+reported by Amnesty International28, DRC’s artisanal mining can entail high risks to human rights because
+of local authorities’ very limited ability to enforce laws against dangerous working conditions, lack of
+safety equipment and protective gear, debt bondage, extortion, child labor, and sexual assault. Another
+serious concern is the involvement of rogue elements of public security forces in the operations. In
+addition, mining frequently results in severe environmental impacts and community dislocation.
+In 2011, the DRC government developed a national action plan to eliminating the worst forms of child
+labor by 2020 which has never been implemented. Government also committed to prepare a national
+strategy to remove children from all artisanal mines by 2025, but the strategy has not been finalized yet.
+DRC launched new monitoring and tracing mechanisms in 2018 to tackle child labor in mineral production,
+applying both to artisanal and largescale mines. However, according to the OECD, one in four ASM sites
+in DRC are believed to use some form of child labor. Moreover, a 2019 report by the National Institute of
+Statistics found that about 15 percent of children aged 5 to 17 across Congo are engaged in child labor,
+with most doing dangerous work.
+Government’s past efforts to incorporate artisanal miners in the formal economy have also been
+inadequate. The 2002 Mining Code and its 2018 revision provide artisanal miners of Congolese nationality
+grouped into legally constituted mining cooperatives access to areas where they are authorized to mine
+legally and market their production locally (“Zones d’exploitation artisanale”, ZEAs). This policy has not
+How cobalt contributes to ASM producers’ livelihoods
+In the DRC, there are about 200,000 artisanal miners of copper and cobalt, the majority located in the Katanga region.1 A small
+number of artisanal miners are formalized, but the vast majority work as informal miners and are not subject to the same
+regulations and inspections as LSM due to their informal status.
+One in four ASM sites in DRC are believed to use some form of child labor. This is primarily due to the fact that a large majority
+of households in the Copperbelt area are highly dependent on ASM mining for their livelihoods.1 While NGOs and other
+observers have frequently reported seeing children at work at cobalt sites,1 “forced labor” has not been widely observed in
+ASM or LSM mine sites.
+The high number of children working in ASM is therefore primarily due to economic reasons. ASM workers’ income tend to
+fluctuate based on international copper and cobalt prices, similar to how DRC’s GDP output can be negatively impacted by the
+drop in external commodity prices. For example, when cobalt prices collapsed in the spring of 2018, earnings for ASM cobalt
+producers dropped by nearly 80 percent between March 2018 and August 2019, severely impacting households in the
+Copperbelt region who depend on cobalt extraction to make a living.
+28 Amnesty International and African Resources Watch (Afrewatch) (2016).
+33
+
+been adequately implemented, often resulting in a scarcity of permits awarded, high costs and extremely
+lengthy and bureaucratic processes for miners to legalize their operations. As a result, very few ZEAs have
+been created, and many of those that have been formed are not viable (SARW 2020) because of the
+unavailability of geological information, the need for overburden removal and stripping to safely access
+the deposit, as well as the lack of basic infrastructure (roads, energy, water, markets, health centers).
+In principle, formalizing ASM operations through cooperatives should provide artisanal miners with safer
+working conditions than in informal ASM operations. In practice, however, cooperatives vary significantly
+from each other and the allocation of ZEAs is fraught with political interference. Several reports indicate
+that some cooperatives are created or sponsored by local authorities (OECD, 2018 and LICOCO, 2017) and
+that ZEAs are often allocated to cooperatives created or sponsored by political leaders (SARW, 2020).
+Therefore, the allocation ZEAs to cooperatives tends to be discretionary, violating the transparency
+principle advocated by the Mining Code. The lack of ZEAs has favored the invasion of private concessions
+to extract high-grade ore with the complicity of the State services and company security. Therefore, more
+than 90 percent of cobalt ASM activities take place either on LSM concessions, with or without the owner’s
+permission, or in urban areas sitting atop economically viable deposits. (Mancini et al., 2020).
+As described in Table 4, tracing cobalt at the extraction stage within DRC is not straightforward given the
+interlinkages between different stakeholders along the supply chain, including ASM and LSM producers
+themselves, as well as traders. Additionally, the lack of a clear regulatory framework between ASM and
+LSM cooperation leads to the inaccurate declaration of the origin of minerals by upstream operators.
+Some sources also suggest that a significant number of top LSM companies are known to indirectly source
+ASM cobalt due to the technical and commercial requirements of the mineral, such as higher ore grades
+(OCDE 2019).
+Although the LSM-ASM interface is generally characterized by confrontation and ambiguity, a few
+initiatives to facilitate ASM on large concessions have shown promising results. An example is the 2018
+three-year agreement signed between trading house Trafigura to buy all the cobalt produced from
+CHEMAF, that helped formalize previously illicit ASM production on the Mutoshi concession. The venture
+was a partnership with SAEMAPE, the NGO Pact and cooperative COMIAKOL, that carried out the
+extraction work. Another example is the Kasulo ZEA, owned by the Provincial Government of Lualaba,
+which has granted Congo Dongfang International Mining (CDM), the Congolese subsidiary of Huayou
+Cobalt Co., an exclusive right to buy all the production of the cooperative present on site, Coopérative
+Minière Kupanga (Comiku). Implemented by the consulting and audit group RCS Global Group, the Better
+Mining initiative is a site-monitoring solution that generates monthly reports and corrective action plans
+for planning and implementation by CDM and the state agency SAEMAPE.
+From a downstream perspective, most end-users of cobalt are ultimately buying the final form of cobalt
+(chemical or metal) from China, where many of these smelters do not have a single source of mined and/or
+raw processed cobalt supply. Therefore, it is highly likely that almost all end use cobalt products contain
+some level of artisanal material, despite the many claims by upstream and downstream companies to only
+source cobalt from LSM producers in DRC.
+An OECD report found that cobalt refiners had very low levels of disclosure when it came to managing
+child labor risk; none of the 42 cobalt refining companies had taken the steps to manage risks associated
+with child labor (OCDE 2019). The OECD cautions that “claims that supply chains are ‘clean’, sustainable,
+or responsible simply because they do not source ASM material, without providing evidence of
+34
+
+comprehensive due diligence on risks of corruption, are misleading and should be viewed with skepticism
+by customers, business counterparts and stakeholders.”
+Beyond cobalt extraction, the DRC government has tried to go the next step to have more influence over
+the entire cobalt supply chain by encouraging fine refining in-country and eventually moving into the
+production of batteries in DRC. However, multiple sources suggest that the country is unlikely to achieve
+this objective in the medium-term due to technical, economic and energy requirement barriers.
+3c. Global Initiatives and Perspectives to Improve the Cobalt Supply Chain
+On the international level, there are a wide range of initiatives supported by well-known companies and
+organizations to source cobalt responsibly from the DRC, most of them having been developed in response
+to the OECD Guidance. It is widely accepted among stakeholders that artisanal miners rely on cobalt
+production for their livelihoods; ignoring the ASM challenge in the DRC would most likely be
+counterproductive and lead to more poverty, conflict and political instability in the DRC.
+Despite the widespread recognition that cobalt plays an important role for DRC’s development, many of
+these initiatives still see anti-corruption, human rights and sustainability efforts as being essential steps
+to take within the country to enable artisanal material to be accepted within the global cobalt supply
+chain. Until these issues are effectively addressed, particularly for ASM production, downstream
+companies will continue to focus on limiting their exposure to cobalt from DRC, even though the mineral
+could play a pivotal role in reducing poverty and boosting shared prosperity in the country.
+Table 5: Overview of international responsible sourcing initiatives
+Type Key Sponsors Overview
+International The guidelines deal with all aspects from human
+OECD OECD Regulations
+organization rights to bribery and tax
+Responsible NGO/Trade Mostly concerned with child labor in the supply
+Membership
+Minerals Initiative Organization chain but also other areas
+ China Chamber of
+Commerce of Metals
+ Minerals & Chemicals
+Cobalt Refiner Due NGO/Trade Importers & Exporters General human rights, environmental and
+Diligence Standard Organization  The Responsible sustainability
+Cobalt Initiative (RCI)
+ Responsible Minerals
+Initiative (RMI)
+ China Chamber of
+Responsible NGO/Trade Priority to ensure child labor is not used in the
+Commerce of Metals
+Cobalt Initiative Organization supply chain, but also corruption and other areas
+ OECD
+Trade Ensure members meet OECD guidelines or better
+LME  LME Members
+Organization for all cobalt on the LME
+Trade Human rights, responsible sourcing and
+Cobalt Institute  Cobalt producers
+Organization sustainable practices
+Global Battery  Miners
+International Concerned with the entire supply chain, its
+Alliance, World  NGOs
+organization environmental and social impact
+Economic Forum  Auto manufacturers
+35
+
+ Battery manufacturers
+Based on interviews conducted with different players along the cobalt supply chain, some of the key
+hurdles that make it difficult for stakeholders to accept artisanal cobalt from DRC include social,
+environmental, legal and corruption risks. From an environmental and social standpoint, artisanal cobalt
+will not be deemed acceptable until it is produced sustainably and responsibly, with the material being
+independently audited and verified at the extraction and processing stages to protect stakeholders from
+legal action (see Sourcing ‘Clean Cobalt’ section). This is further pressuring companies to adopt a risk
+management strategy that aims to remove DRC cobalt as much as possible, or altogether, from their
+supply chains.
+From a monitoring and compliance perspective, many participants welcomed the Responsible Minerals
+Initiative as a first step in the right direction. However, they also expressed the need for further action to
+bring transparency into DRC’s cobalt production, with a recommendation to use third party firms to track
+each step within the cobalt supply chain and ensure compliance. Most stakeholders found it critical for
+independent auditing to be part of this process, particularly if the DRC government had some sort of
+oversight role over the cobalt supply chain, particularly regarding ASM production.
+Lastly, participants also found it important for NGOs to be more involved in ASM activities, not only to
+monitor each step along the cobalt supply chain within the country, but also to work in tandem with the
+DRC government to progressively and eventually formalize some ASM activities while promoting safer
+working conditions to support local economic development. Most stakeholders agreed that this proposed
+approach, which would include all key stakeholders along the supply chain and independent auditors,
+would likely take years to fully implement and require full cooperation from the DRC government, LSM
+and ASM producers, as well as NGOs and international organizations.
+4. Conclusion
+Despite DRC’s strategic position in cobalt, the country will likely have a limited ability to influence the
+cobalt global market over the long-term because of insufficient control over supply, as well as the
+uncertainty over technology deployments to meet the low-carbon transition. China’s dominant position
+in the sector as a producer and refiner of cobalt, the emergence of other sources of mined cobalt supply—
+leading to the country’s declining global market share—as well as an increase in cobalt recycling and
+material demand substitution for existing and new technologies will likely reduce the benefits the DRC
+receives from its cobalt resources in the future. The combination of these factors is already being felt in
+the cobalt market today and is only likely to speed up in their full materialization, especially if the cobalt
+supply chain challenges continue to persist in DRC.
+Based on the current state of the market, the role cobalt will have in clean energy transition and its
+important contribution to the DRC economy, there are a number of opportunities and risks the DRC
+government should consider in its approach to manage its strategic and comparative advantage in ‘mined’
+cobalt production as means to achieve its development objectives:
+36
+
+ Despite the COVID-19 crisis, global demand for cobalt will likely remain strong from the battery,
+EV, energy and technology sectors. This means that over the medium term DRC will likely continue
+to dominate the ‘mined’ cobalt supply chain. Overall, this is good news for the government at the
+national level, as cobalt accounts for roughly 10 percent of the country’s GDP.
+ While the general perception is that DRC heavily controls the cobalt supply chain, China
+potentially has a more important role in influencing global cobalt supply as both a producer and
+“fine refiner” of cobalt. It also happens that most of the demand for cobalt chemicals is coming,
+and will continue to come from, China itself. This is due to China’s high battery manufacturing
+capacity and ambitious EV deployment targets to achieve net-zero emissions by 2060.
+ The perceived risk with buying cobalt from DRC is forcing downstream companies to reconsider
+their raw material sourcing strategy. Today, there are massive efforts underway, supported by
+governments and companies alike, to develop new battery technologies and explore other forms
+of low-carbon technologies (e.g., hydrogen) to reduce their exposure to DRC cobalt. This is
+because downstream users cannot claim to be “socially responsible and climate-oriented” while
+the minerals they source are linked to human rights abuses and environmental degradation.
+Governments with ambitious climate goals and clean energy targets will also find it increasingly
+difficult to deploy new low-carbon technologies that use minerals that have not been produced
+in a responsible and sustainable fashion.
+ From a regional development perspective, the insistence from downstream companies to source
+“ASM free” cobalt will only make it harder for Copperbelt residents to benefit economically from
+all this new cobalt demand. As many ASM producers rely on cobalt and copper production for
+their livelihoods, further stigmatization on their role in the DRC supply chain will only exacerbate
+the poverty challenges faced by many civilians in the Katanga-Lualaba region. To tackle the cobalt
+supply chain issues (e.g., human rights, corruption, child labor, lack of social and environmental
+safeguards), it will be imperative for ASM production issues to be addressed by the DRC
+government in collaboration with all stakeholders along the supply chain, including independent
+auditors. As highlighted by off-the-record interviews, most participants agree that it will likely
+take years for the different global initiatives to improve the overall cobalt supply chain and enable
+artisanal material to become acceptable to climate-conscious consumers.
+ The latest signals from the global cobalt market highlight the importance in addressing the cobalt
+supply chain in DRC as soon as possible for the country to remain competitive at the international
+level. Without changes to the current cobalt supply chain, the DRC government risks losing its
+comparative advantage post-2025. Technology deployment uncertainty and increased
+competition from other mined cobalt producers around the world could offset the country’s
+advantage in its cobalt-resource abundance. As DRC is very dependent on cobalt exports as part
+of its fiscal revenues, this could have negative long-term implications for the country’s economy.
+ To mitigate some of these potential risks, there are a few issues that could be addressed to
+improve the traceability and accelerate the formalization of cobalt production within DRC:
+o ASM: DRC needs a specific policy for artisanal mining to increase transparency and reduce
+reputational risks for consumers linked to the use of Congolese cobalt in their supply
+chains. Additional efforts should be made to improve the level of transparency around
+the establishment of cooperatives and allocation of ZEAs to incentivize informal miners
+to eventually take the formal route. The ASM policy must respect human rights and offer
+a path out of poverty for artisanal miners and communities in Lualaba and Haut-Katanga.
+37
+
+o LSM: Large mining companies should commit to rigorous due diligence processes to
+ensure the traceability of minerals. Successful cases where large companies have
+facilitated the formalization of artisanal miners should be analyzed and replicated.
+o Consumers: Given the interactions between ASM and LSM production circuits, de-risking
+strategies based on sourcing cobalt exclusively from large mining operators are likely to
+exacerbate ASM poor working conditions and therefore be difficult to implement.
+o EGC: The selection of EGC’s commercial and financial partners should be transparent and
+competitive while the identification of the cooperatives with whom EGC will work must
+be done with integrity. Companies selected to finance cobalt purchases must commit to
+high levels of due diligence and transparency to ensure the ore was produced according
+to acceptable standards and sold at a fair price.
+o Fiscal revenues: As cobalt extraction contributes heavily to DRC’s fiscal revenues, the goal
+should be to make sure that they contribute to the government’s development efforts
+within the country, particularly at the local level, to reduce poverty and contribute to
+social progress.
+o Regional development: The additional revenues generated from the cobalt sector at the
+national level should be leveraged to diversify the local economy, especially in the
+Copperbelt region so that its residents are not only dependent on the mining sector as
+their sole source of income. Government should take advantage of DRC’s current strategic
+position in mined cobalt production to prepare regional development plans that identify
+new economic opportunities for the residents of mining areas so they may obtain new
+skills and move into new sectors.
+38
+
+References:
+Alves Dias P., Blagoeva D., Pavel C. (2018), Cobalt: Demand-supply balances in the transition to electric
+mobility, European Commission JRC Science for Policy Report, Brussels, Belgium. Available at:
+euhttps://publications.jrc.ec.europa.eu/repository/bitstream/JRC112285/jrc112285_cobalt.pdf.
+Amnesty International (2017), Time to Recharge: Corporate Action and Inaction to Tackle Abuses in the
+Cobalt Supply Chain, November 2017, Amnesty International, London, U.K.
+https://www.amnestyusa.org/reports/time-to-recharge/
+Amnesty International and African Resources Watch (Afrewatch) (2016), This is What We Die For:
+Human Rights Abuses in the Democratic Republic of the Congo Power the Global Trade in Cobalt,
+Amnesty International, London, U.K.https://www.amnesty.org/en/documents/afr62/3183/2016/en/.
+Benchmark Mining Intelligence (2019), World Bank: Executive Summary – Cobalt Supply Chain and its
+impact upon the DRC, Benchmark Mineral Intelligence Report for the World Bank, Washington, D.C.
+EITI- Extractive Industries Transparency Initiative (2020), Artisanal and Small-Scale Mining, Sept. 2020,
+https://eiti.org/ASM.
+Global Battery Alliance (2019), The lithium-ion battery end-of-life market – A baseline study, report
+prepared by Hans Eric Melin, Circular Energy Storage, WEForum,
+http://www3.weforum.org/docs/GBA_EOL_baseline_Circular_ Energy_Storage.pdf
+Global Witness (2010), New Report Undermines DRC Mineral Traders’ Due Diligence Claims,
+www.globalwitness.org/en/archive/new-report-undermines-drc-mineral-traders-due-diligence-claims/
+International Crisis Group (2020), Mineral Concessions: Avoiding Conflict in DR Congo’s Mining
+Heartland, Africa Report N°290, 30 June 2020, https://www.crisisgroup.org/africa/central-
+africa/democratic-republic-congo/290-mineral-concessions-avoiding-conflict-dr-congos-mining-
+heartland.
+IEA- International Energy Agency (2020), “Global EV Outlook 2020.” Entering the Decade of Electric
+Drive? IEA, June 2020, www.iea.org/reports/global-ev-outlook-2020.
+IMF- International Monetary Fund (2019), Democratic Republic of Congo: Staff Report for the 2019
+Article IV Consultation. IMF, Aug. 2019.
+IISD- International Institute for Sustainable Development (2019), Sustainability and Second Life: The case
+for cobalt and lithium recycling, report prepared by Clare Church and Laurin Wuennenberg, March 2019,
+https://www.iisd.org/sites/default/files/publications/sustainability-second-life-cobalt-lithium-
+recycling.pdf
+IISD- International Institute for Sustainable Development (2018), Green Conflict Minerals: The fuels of
+conflict in the transition to a low-carbon economy, report prepared by Clare Church and Alec Crawford,
+August 2018, https://www.iisd.org/library/green-conflict-minerals-fuels-conflict-transition-low-carbon-
+economy
+Johansson de Silva, Sara, Tove Strauss and Nene Morisho (2019), The Mutoshi Pilot Project,
+https://www.trafigura.com/responsibility/responsible-sourcing/mutoshi-report/
+39
+
+Le Petit, Yoann (2019), Cobalt from Congo: How to Source It Better, Transport & Environment, Apr. 2019,
+www.transportenvironment.org/sites/te/files/publications/Cobalt%20from%20Congo_how%20to%20so
+urce%20it%20better_Final.pdf
+LICOCO- Ligue Congolaise de Lutte contre la Corruption (2017), Rapport d’évaluation des risques de
+corruption dans l’attribution des droits miniers en République Démocratique du Congo, Kinshasa, 2017,
+http://www.licocordc.org/download/rapport-devaluation-risques-de-corruption-lattribution-droits-
+miniers-rdc/.
+Mancini, L., Eslava, N. A., Traverso, M., Mathieux, F. (2020), Responsible and sustainable sourcing of
+battery raw materials, JRC Technical Report, European Commission, Luxembourg: Publications Office of
+the European Union.
+McKinsey & Co (2018), Lithium and Cobalt: A tale of two commodities, Available at:
+https://www.mckinsey.com/industries/metals-and-mining/our-insights/lithium-and-cobalt-a-tale-of-
+two-commodities.
+NRGI- Natural Resource Governance Institute (2017), Resource Governance Index,
+https://resourcegovernance.org/sites/default/files/documents/2017-resource-governance-index.pdf
+NRGI- Natural Resource Governance Institute (2017), Democratic Republic of The Congo (DRC): Initial
+Assessment of The Impact of The Coronavirus Pandemic on The Extractive Sector and Resource
+Governance Issues. NRGI, 8 June 2020.
+OECD- Organisation for Economic Co-operation and Development (2019), Interconnected supply chains:
+a comprehensive look at due diligence challenges and opportunities sourcing cobalt and copper from the
+Democratic Republic of the Congo, report prepared by Luca Maiotti and Benjamin Katz, OECD
+Responsible Business Conduct Report, Paris, France, https://mneguidelines.oecd.org/Interconnected-
+supply-chains-a-comprehensive-look-at-due-diligence-challenges-and-opportunities-sourcing-cobalt-
+and-copper-from-the-DRC.pdf.
+SARW- Southern Africa Resource Watch (2020), Surexploitation et Injustice contre les Creuseurs
+Artisanaux dans la Chaine d’Approvisionnement du Cobalt Congolais, report prepared by Claude
+Kabemba and Georges Bokondu Mukuli, Resource Insight (perspective sur les Ressources) Edition 18,
+Février 2020.
+U.S. Geological Survey (2021), Mineral Commodity Summaries, January 2021, Cobalt (usgs.gov).
+40

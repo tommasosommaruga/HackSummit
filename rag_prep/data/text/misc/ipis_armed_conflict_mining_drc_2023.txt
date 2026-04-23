@@ -1,0 +1,1669 @@
+Armed conflict, insecurity,
+and mining in eastern DRC
+Reflections on the nexus between natural
+resources and armed conflict
+International Peace
+Information Service vzw
+
+EDITORIAL
+Armed conflict, insecurity, and mining in eastern DRC:
+Reflections on the nexus between natural resources and armed conflict
+Antwerp, December 2022
+Front cover image: Artisanal miners transporting minerals, Mambasa territory, Ituri, 2017.
+Authors: Ken Matthysen & Erik Gobbers
+Suggested citation:
+Matthysen, K. & Gobbers, E., Armed conflict, insecurity, and mining in eastern DRC: Reflections on the
+nexus between natural resources and armed conflict, (IPIS, Antwerp, 2022), 40p.
+Layout: Sakado
+International Peace Information Service (IPIS) is an independent research institute providing tailored
+information, analysis, policy advice and capacity enhancement to support those actors who want to
+realize a vision of durable peace, sustainable development and the fulfillment of human rights.
+D/2022/4320/12
+DISCLAIMER
+This document was produced by IPIS with the support from the Integrated Land and Resource Governance
+Task Order, under the Strengthening Tenure and Resource Rights II (STARR II) IDIQ.
+This publication is made possible by the support of the American People through the United States
+Agency for International Development (USAID). The contents of this publication are the sole responsibility
+of IPIS and do not necessarily reflect the views of USAID or the United States government.
+2 3
+
+1. TABLE OF CONTENTS
+EDITORIAL ............................................................................................................................................ 2
+ABBREVIATIONS .................................................................................................................................. 4
+EXECUTIVE SUMMARY ........................................................................................................................ 5
+1. INTRODUCTION .............................................................................................................................11
+2. CONCEPTS AROUND CONFLICT FINANCING ............................................................................. 13
+3. LINK BETWEEN ‘INSECURITY’, ‘MINING’, AND ‘MINERAL TRADE’ NOWADAYS ..................... 15
+3.1. Armed groups’ mineral revenues .....................................................................................................................16
+3.1.1. Ituri .......................................................................................................................................................................................................17
+3.1.2. North Kivu ........................................................................................................................................................................................ 18
+3.1.3. South Kivu .........................................................................................................................................................................................19
+3.2. FARDC ....................................................................................................................................................................... 20
+4. RELATED ISSUES TO CONSIDER .................................................................................................. 23
+4.1. Access to land ......................................................................................................................................................... 23
+4.2. Intercommunity tensions ...................................................................................................................................25
+4.3. DDR and stabilization .......................................................................................................................................... 26
+4.4. Governance and corruption .............................................................................................................................. 27
+4.5. Mining reform and formalization ................................................................................................................... 29
+4.6. Supply chain actors local to regional ..............................................................................................................31
+4.7. Companies and investors rush on gold and minerals .............................................................................. 33
+5. CONCLUSIONS ............................................................................................................................... 36
+6. BIBLIOGRAPHY ............................................................................................................................. 38
+2 3
+
+ABBREVIATIONS
+ADF Allied Democratic Forces
+AGR African Gold Refinery
+ASM Artisanal and Small-scale Mining
+BGR German Federal Institute of Geosciences and Natural Resources
+CLS Comité Local de Suivi
+CNDP Congrès National pour la Défense du Peuple
+CNPSC Coalition Nationale du Peuple pour la Souveraineté du Congo
+CODECO Coopérative pour le Développement Économique du Congo
+COOPERAMMA Coopérative des Exploitants Artisanaux Miniers de Masisi
+CPS Comité Provincial de Suivi
+CTS Comité Territorial de Suivi
+DDR Disarmament, Demobilization and Reintegration
+DRC Democratic Republic of Congo
+EAC East African Community
+FARDC Forces Armées de la République Démocratique du Congo (national army)
+FDLR Forces Démocratiques de Libération du Rwanda
+FNI Front des Nationalistes Intégrationnistes
+FPIC Force Patriotique et Intégrationniste du Congo
+FRPI Force de Resistance Patriotique de l’Ituri
+ICGLR International Conference on the Great Lakes Region
+ILRG Integrated Land and Resource Governance Program
+IPIS International Peace Information Service
+KST Kivu Security Tracker
+NDC-R Nduma Défense du Congo – Rénové
+OECD Organisation for Economic Cooperation and Development
+P-DDRCS Programme de Désarmement, Démobilisation, Relèvement Communautaire et
+Stabilisation
+PMH Police des Mines et Hydrocarbures (Mining Police)
+RCD Rassemblement Congolais pour la Démocratie
+RINR Regional Initiative against the Illegal Exploitation of Natural Resources
+SAKIMA Société Aurifère du Kivu et du Maniema
+SMB Société Minière de Bisunzu
+UAE United Arab Emirates
+UPC Union des Patriotes Congolais
+UPDF Ugandan People’s Defense Forces
+USAID United States Agency for International Development
+4 5
+
+EXECUTIVE SUMMARY
+The concepts of ‘mining’ and ‘conflict financing’ have been closely linked in conflict analyses in eastern
+Democratic Republic of Congo (DRC) over the past 20 years. The conflict, as well as conflict financing, has
+however changed considerably in eastern DRC over the past twenty years. It is therefore necessary to
+reconsider the concept of ‘conflict minerals’, as new types of conflict linked to mining have occurred, and
+more different types of actors are involved than before.
+A. Link between mining and conflict financing
+While the link between ‘natural resources’ and ‘conflict’ has been much discussed in literature, the two
+are undeniably linked in eastern DRC. The exact relationship is however up for discussion. Le Billion (2012)
+groups the analytical frameworks in three main categories: ‘resource conflict’ refers to conflicts resulting
+from competition over resources; ‘conflict resources’ provide the opportunity to finance belligerents’
+war efforts; and the ‘resource curse’ argument highlights the risks around poor resource governance. It
+is important to realize that none of these arguments provide a full explanation for this link, but rather
+complement each other.
+• Large-scale armed conflict over DRC’s mineral wealth (i.e. the ‘resource conflicts’ argument) has
+decreased significantly over the past twenty years. Nevertheless, at the local level conflicts over
+resources are still common. These conflicts regularly devolve into violence, and stakeholders often
+turn to armed actors (either armed groups or state security forces) to protect their claim to land or
+resources. Additionally, the exploitation of minerals by (foreign) companies in eastern DRC has led to
+social tensions and has spurred armed group activity on multiple occasions;
+• Most armed groups in eastern DRC were created for ideological or security reasons (often ‘self-defense’
+against other armed groups or ethnic communities that are perceived as a threat). Exploitation of
+natural resources (especially gold) provides economic opportunities for many armed groups to survive
+(‘conflict resources’ argument). Units from the national army (FARDC) are also eager to get involved in
+the mining business and consolidate the situation of insecurity in eastern DRC.
+• The DRC is considered to be one of the most fragile states worldwide, maybe even exacerbated
+by the ’resource curse’. State authority is absent in remote mining areas, which undermines the
+implementation of mining regulation. In other mining zones state agents perform poorly, engaging
+in corruption and showing predatory behavior. Scholars have however also warned against the use of
+the concept ‘failed state.’ Even though the state is malfunctioning in DRC, “its institutions continue to
+operate one way or another, and governance is being negotiated between a wide range of state and
+non-state actors on a daily basis.”1
+The full report provides a brief overview of some illustrative armed groups in the provinces of Ituri, North
+Kivu and South Kivu and how they extract revenue from the mining sector, as well as their financing
+modalities more in general.
+1 Wakenge C.I., M.-R. Bashwira Nyenyezi, S.I. Bergh, and J. Cuvelier, “From ‘conflict minerals’ to peace? Reviewing mining reforms,
+gender, and state performance in eastern Democratic Republic of Congo”, The Extractive Industries and Society, 8, 2 (2021).
+4 5
+
+B. Other factors contributing to conflict and insecurity
+It is important to acknowledge not only the complexity of the nexus between natural resources and
+violent conflict, but also to identify potential other drivers of conflict, or factors contributing to the
+perpetuation of long-standing (local) conflicts. Although natural resources have played an important
+role in several armed struggles, analyzing armed conflict through a natural resources lens runs the risk of
+tunnel vision, oversimplification, and overlooking other factors fueling conflicts, and/or other sources of
+financing for armed groups.
+Drivers of conflict tend to go from very local disputes - over land, (lack of) access to resources, (customary)
+power and identity - up to national problems (including political instability, political distrust and
+governance issues such as corruption, kleptocracy, and weak institutions), and the regional dimension
+– including refugees, interstate tensions, and cross border (trade) networks.2 Several armed groups in
+eastern DRC prey on local discontent over these conflict drivers to legitimize their existence. All of these
+elements will be discussed below.
+Additionally, there are a number of factors that help to explain why conflict actors have persisted for
+more than 2 decades in eastern DRC. The presence of ‘foreign’ armed groups – or perceived as foreign
+- and state fragility in the eastern provinces led to the proliferation of self-defense groups, including
+Mai Mai groups, Nyatura and Raïa Mutomboki. Combined with the absence of efficient demobilization
+programs for these groups, it resulted in a situation where an estimated 120 armed groups operate in
+eastern DRC.3 The Kivu Security Tracker (KST) highlights the “inertia of the conflict” as most armed
+groups have existed for many years in eastern DRC, in their current or previous incarnations, and try to
+survive by generating income. Income generation includes the extraction of natural resources, but also
+alternative sources of income, including roadblocks, kidnapping for ransom and illegal taxation.
+Several factors contribute to this inertia, including the FARDC’s underperformance, failed DDR-processes,
+social dissatisfaction, a lack of political will and rent-seeking behavior by conflict parties. Concerning the
+latter element, while many of the armed groups in eastern DRC have been established as self-defense
+groups, over time, illegal predation has become an important reason of existence and at times seems to
+have supplanted the ideological factor.
+B.1 Forces Armées de la République Démocratique du Congo (FARDC)
+A crucial issue to tackle both insecurity and conflict financing in eastern DRC, is to deal with the FARDC
+performance. For a decade, IPIS mines mapping work has revealed that FARDC units are the armed actor
+that can be observed most often interfering in the mining business, and increasingly so. The military has
+developed several illegal revenue-generating practices, including roadblock taxation, racketeering
+and extortion in natural resources sectors, and operating as private security guards to secure mining
+operations.
+Resource revenues for military people can explain the inertia with regards to armed groups in eastern
+DRC. The continued presence of these armed groups ‘legitimizes’ the army unit’s deployment, which
+enables them to develop their economic activities, including interference in mining. Multiple examples
+exist of FARDC and nearby armed groups that coexist and have arrangements with regards to the division
+of revenues from the local mining business.
+The FARDC’s role in the consolidation of the illegal exploitation of natural resources, and even financing
+insecurity, raises questions on the efficiency of the state of siege that had been declared by president
+Tshisekedi’s government in May 2021 to cope with escalating violence in Ituri and North Kivu.
+2 Autesserre S., The Trouble with the Congo: Local violence and the failure of international peacebuilding .N ew York: Cambridge University
+Press, 2010, pp. 142-146.
+3 Kivu Security Tracker, The Landscape of Armed Groups in Eastern Congo: Missed opportunities, protracted insecurity and self-fulfilling
+prophecies, February 2021. KST is a joint project of the Congo Research Group and Human Rights Watch.
+6 7
+
+B.2 Access to land
+Landownership, customary land rights, and access to land in general, are key drivers of conflict in eastern
+DRC, especially at the local level. Disputes over land can pitch entire communities against each other.
+Access to land often also plays an important role in mining disputes. Demarcation of mining concessions
+and mining sites, or compensation to the landowner of a mining site, are for example important sources of
+local conflict (e.g. between mining cooperatives, between cooperatives or artisanal miners and industrial
+concession holders, and between miners and farmers). Mining is intrinsically linked to land.
+B.3 Intercommunity tensions
+Access to natural resources in eastern Congo is regularly linked to inter-community tensions. However,
+one should be careful not to consider ethnicity as a primordial conflict driver. Ethnicity has been
+socially constructed during the colonial period. Local entrepreneurs can manipulate ethnic identities
+to compete for access to resources; ethnic cleavages are invoked through a political struggle against
+marginalization and socio-economic inequality.4 It is always a delicate exercise to analyze the ethnic
+dimension in conflicts and access to resources. It is important to avoid narrow ethnic analysis of
+violence.
+Armed militia are often instrumentalized by local elites, applying ethnic and autochthony discourses,
+to achieve political and economic goals.5 On the other hand, armed groups regularly also exploit local
+communities’ feelings of discontent to legitimize their activities. This does not mean however that they
+therefore represent the community.
+B.4 DDR and stabilization
+Although the presence of natural resources, and in particular of minerals, plays an important role in
+survival strategies of non-state armed groups in eastern DRC, it does not fully explain why armed groups
+remain mobilized or re-mobilize after a period of ostensible peace.
+In the past decades, the Congolese government has made several unsuccessful attempts to set up so-
+called DDR programs to dismantle non-state armed groups and to facilitate the return of former rebels
+to civilian life. A range of issues helps to explain the failure of DDR up to date, including continuous
+security concerns, manipulation by political elites, lack of incentives for armed group members, lack of
+social integration strategies and fear of relocation.6 Vlassenroot et al. (2020) also developed the concept
+of circular return to explain persistent local armed group activity.7 Militia members navigate continuously
+between civilian and combatant life: their motives exceed political and economic interests, and often
+include individual interests. Finally, there is a general lack of financial means for the DDR programs and
+there are substantial program delays.
+In July 2021, President Félix Tshisekedi announced the creation of another demobilization program,
+Programme de Désarmement, Démobilisation, Relèvement Communautaire et Stabilisation
+(P-DDRCS), which results from a merger of existing programs. Several observers have however raised
+their doubts on the potential of this revamped DDR process.
+4 Vermeersch P., Theories of ethnic mobilization: Overview and recent trends, Leuven: CRPS Working paper No. 3, 2011, pp. 6-7.
+5 Verweijen J. and J. Brabant, “Cows and guns. cattle-related conflict and armed violence in Fizi and Itombwe, eastern DR Congo”, The
+Journal of Modern African Studies, 55, 1 (2017), 1-27, p. 23.
+6 Vogel C. and J. Musamba, Recycling rebels? Demobilization in the Congo. Rift Valley Institute, PSRP Briefing Paper 11, March 2016, pp. 3-4.
+7 Vlassenroot K., E. Mudinga and J. Musamba, “Navigating social spaces: Armed mobilization and circular return in eastern Congo”,
+Journal of Refugee Studies, 33, 4 (2020), 832-852.
+6 7
+
+B.5 Governance and corruption
+A full understanding of armed actors’ interference in mining should be considered in the wider context
+of mining governance, and in particular corruption, in eastern DRC. The functioning of Congolese state
+institutions is seriously challenged by clientelism and kleptocracy, leading to issues such as corruption.
+State officials often play a crucial role in the persistence of illegal trade, and their illegal interference in
+ASM is omnipresent. These practices sustain a climate of predation,8 undermine the state, and enable
+smuggling and “conflict financing” to persist.
+Mining actors do not feel they enjoy any support from the state, such as technical support, or peaceful
+resolution of mining conflicts.9 Consequently, they look for alternative (non-official) ways to resolve
+disputes and to protect their claims. People turn to the military or police to settle their argument with
+conflicting parties, or even to shelter them from state oversight. In some instances, people even turn to
+armed groups to protect them against taxation - or predation - by state agents.
+Finally, the very same state institutions that are struggling with clientelism and corruption, are key
+partners for the implementation of international donor-funded programs, including DDR, stabilization,
+and responsible sourcing.10 Their malfunctioning weakens and undermines these initiatives.
+B.6 Mining reform and formalization
+The DRC mining sector has undergone several structural reforms. An increasing number of governmental,
+international and private initiatives have been launched to formalize the country’s artisanal mining sector,
+and to promote more responsible sourcing practices.
+While responsible sourcing initiatives have made considerable progress to discourage armed interference
+in the (3T) artisanal mining sector, a wide range of challenges persist, and further progress seems to be
+very limited over the past few years:
+• Mining reform in eastern DRC has created additional barriers to access resources for most stakeholders,
+and as such nurtures socio-economic inequality;
+• Long-term peaceful solutions require inclusive approaches, while responsible sourcing initiatives have
+often used strategies of exclusion, risking to increase tensions and conflict;
+• The narrow focus on conflict minerals resulted in a neglect of the development potential of ASM. As
+miners claim it has not brought them any additional revenues, it raises the question on the sustainability
+of the current situation.
+Listing all of the above issues, one could even question to what extent the principle of ’Do No Harm’
+has been considered while implementing responsible sourcing in eastern DRC. DRC civil society actors
+claim that since 2010, no proper and transparent evaluation of responsible sourcing efforts have been
+organized. A profound evaluation of the work and results of these systems, co-managed by different DRC
+stakeholders, is therefore direly needed.
+8 Wakenge C.I. (October 2020), op. cit.
+9 Many state agents are hardly trained and have little knowledge of the sector. As they often do not receive a salary, they need
+to turn to miners to make a living.
+10 Sungura A. et al. (May 2021), op. cit., p. 57.
+8 9
+
+B.7 Supply chain actors local to regional
+Interference by foreign armed groups, or armed groups supported by DRC’s neighboring countries
+decreased steadily over the past fifteen years. While ‘conflict minerals’ were originally a Central African
+regional issue, nowadays, an internal DRC strategy to tackle ‘minerals financing insecurity’ has become
+more important.
+Nevertheless, the regional mineral supply chain - from the mines, through border towns and regional
+trading hubs, to the international market - is an important factor when analyzing the role of mining in
+the persistence of insecurity. For decades, it has been an enormous challenge to channel these minerals
+in legal supply chains. Both within DRC, as across the border, a wide range of stakeholders, including
+formal institutions, are involved in cross-border smuggling to Burundi, Rwanda and Uganda. Especially
+for gold, smuggling occurs everywhere. The organization IMPACT concluded that legal production and
+trade of gold were not commercially viable under the current market conditions in eastern DRC, as their
+responsible gold project could not compete with gold prices from the informal market.11
+B.8 Companies and investors rush on gold and minerals
+An increasing number of (foreign) enterprises have ventured into the risky investment environment of
+eastern DRC looking for mineral resources. Such exploitations have often been a source of tension that
+can result in additional insecurity and violence. These tensions revolve around access to resources, non-
+respect of (in)formal modalities to acquire access to land and resources, local communities’ perception of
+non-respect of local development priorities, etc.
+In 2021, a range of Chinese semi-industrial mining companies were heavily criticized for their practices
+and behavior in the provinces of South Kivu and Ituri. They used small Congolese mining cooperatives
+as front companies to get access to the ASM permits. There have been complaints on the environmental
+impact, and lack of state oversight of these semi-industrial mining companies. On top of that, they used
+Congolese security forces as private security guards. Most worrying is how it culminated in violence and
+targeted attacks.
+Many more mining companies have faced violent and armed resistance over the past years. In several
+cases, such as Leda Mining and Banro, armed groups even interfered to stand up against these companies.
+Companies often tend to consistently refer to artisanal miners that are working on their concessions as
+‘illegal miners’. Such language use has a polarizing effect and contributes to local conflict over minerals.
+Verweijen (2017) explains how “Armed groups and local strongmen capitalise on widespread anger” towards
+mining companies.12 Consequently, the attacks against these companies are not just banditism, but are
+rooted in the deeper socio-economic situation, and at times are even politically inspired.
+11 UN Group of Experts, Final report of the UN Group of Experts on the DRC, 2 June 2020, S/2020/482, § 66.
+12 Verweijen J., Shedding light on why mining companies in eastern Congo are under attack, The Conversation, 30 august 2017.
+8 9
+
+C. Conclusions
+Large-scale armed conflict over DRC’s mineral wealth has decreased significantly over the past twenty
+years. Nevertheless, mining and mineral trade still play an important role in ongoing armed and unarmed
+conflicts in eastern DRC. We have identified largely three direct ways that link mining and conflict, and
+insecurity more generally. First, at the local level, conflicts over access to resources are still common.
+Second, over the past two decades, self-defense groups (including Mai Mai, Nyatura and Raïa Mutomboki
+groups) have mushroomed ‘to protect local communities’ against external threats (including FDLR and
+foreign business interests). These armed groups now use mineral resources, among other sources of
+income, to survive. Many of them grew out of their ideological strife, and rent-seeking incentives have
+become more prominent. Third, FARDC (national army) units are the most prominent armed actors
+interfering in the mining business.
+Despite progress in the 3T sector, there is dissatisfaction among most stakeholders on mining reform,
+and on the implementation of responsible sourcing efforts in particular (traceability, CLS, etc.). This
+dissatisfaction however hardly seems to be heard. Mining reform and formalization are tools which can
+contribute to make mineral supply chains clean(er), but they do not tackle the root causes of most of
+the ongoing armed and non-armed conflicts in eastern DRC.
+This report discusses the wide range of interrelated issues that drive conflict and interact with mineral
+conflict financing, including: land issues, inter-community tensions, social inequality, DDR, poor natural
+resource governance, regional supply chains and a regional rush on resources.
+There is an urgent need for a profound, participative evaluation process that scrutinizes the ASM
+sector as a whole, and the performance and effectiveness of responsible sourcing initiatives in particular.
+In order to yield sustainable results, responsible sourcing initiatives must take into account the different
+dimensions and factors discussed in this paper, and must incorporate the broader range of issues that
+interface with conflict and mining: focusing only on one dimension (e.g. trying to guarantee clean supply
+chains), and ignoring historical, cultural, social, economic and political contexts in which ASM takes place
+in eastern Congo, is a recipe for failure.
+10 11
+
+1. INTRODUCTION
+The concepts of ‘mining’13 and ‘conflict financing’14 have been closely linked in conflict analyses in
+eastern Democratic Republic of Congo (DRC) over the past 20 years. The relationship between mining and
+conflict financing continues to be debated tackling questions like, whether there is a causal relationship
+or not, whether mining merely fuels existing conflict dynamics, and whether responsible mining efforts
+can help to decrease conflict.
+The International Peace Information Service (IPIS) has mapped mining areas in eastern DRC since 2009, to
+better understand the link between mining and minerals trade on the one hand, and armed groups and
+insecurity on the other.
+In July 2021, IPIS started a new project ‘Investigating conflict financing, due diligence and socio-economic
+dynamics along artisanal mining supply chains in the DRC,’ financed by the United States Agency for
+International Development (USAID) Integrated Land and Resource Governance (ILRG) program. IPIS
+aims to map and collect data from 550 Artisanal and Small-scale Mining (ASM) sites and supply chains in
+eastern DRC.15 This provided an opportunity to qualitatively examine the basic link between ‘mining’
+and ‘conflict’ – and ‘insecurity’ more generally16 - in eastern DRC. Over the past twenty years, the
+situation has evolved. First, new insights have emerged on the relationship between ‘mining’ and
+‘conflict,’ revealing that the link is quite complex and often indirect, that economic dimensions are often
+interlinked with political and social dimensions, and that armed groups rely on a diverse set of financing
+modalities. Second, the conflict, as well as conflict financing, has changed considerably in eastern DRC.
+Wakenge (2020) stressed the need to “deconstruct” the notion of ‘conflict minerals’,17 and to redefine
+the concept as new types of conflict linked to mining have occurred, and more actors are involved than
+before.18
+Based on existing literature, and interviews with some key stakeholders, this report analyses how
+the link between ‘mining’ on the one hand, and ‘conflict’ and ‘insecurity’ on the other, has changed
+over the past twenty years in eastern DRC. Additionally, we provide a more holistic analysis of the
+interplay between ‘mining’, ‘insecurity’ and ‘conflict financing’ by incorporating a range of other issues
+that intersect with conflict financing and mining, including access to land, intercommunity tensions,
+governance, and the regional dimension. In 2023, IPIS will publish a set of qualitative case studies that
+will dig into this complex relationship.
+13 In eastern DRC, ‘mining’ mostly concerns the artisanal exploitation, and trade, of minerals.
+14 ‘Conflict financing’ includes the activities, modalities and relationships that generate revenues for conflict actors to pay for the
+costs of their armed struggle. Analysis into this phenomenon, however, often goes beyond the direct financing of these costs, and
+it looks at the wider economic agenda behind violence, such as competition over access to resources, and ‘personal enrichment’ of
+commanders or other supporters. Wennmann provides an interesting summary of ‘conflict financing’ and the economic dimension
+of armed groups (Wennmann A., “Economic dimensions of armed groups: profiling the financing, costs, and agendas and their
+implications for mediated engagements,” International Review of the Red Cross, 93, 882 (2011), 333-352).
+15 IPIS, Understanding Artisanal Mining Supply Chains and Conflict Financing in DRC, June 2021, https://ipisresearch.be/project/
+understanding-artisanal-mining-supply-chains-and-conflict-financing-in-drc/
+16 A lot of ASM stakeholders are for example subjected to extortion or human rights violations by (armed) state actors, self-defense
+groups, or bandits, that are not always directly linked to conflicts.
+17 The OECD defines ‘Conflict minerals’ as ‘minerals from conflict-affected and high-risk areas’ and identifies these areas by ‘the
+presence of armed conflict, widespread violence or other risks of harm to people.’ It further explains that ‘high-risk areas may
+include areas of political instability or repression, institutional weakness, insecurity, collapse of civil infrastructure and widespread
+violence. Such areas are often characterized by widespread human rights abuses and violations of national or international law’
+(Source: OECD, OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas:
+Second Edition, 2013, p. 13.).
+18 Wakenge C.I., Prédation et violence à huis-clos: Artisanat minier et dynamiques des conflits à Fizi, Kalehe et Shabunda (Sud-Kivu, RD
+Congo), October 2020, p. 6.
+10 11
+
+In response to concerns that armed groups were financing themselves through mineral resources, a wide
+range of initiatives have been developed and implemented in eastern DRC since 2008. These include
+traceability initiatives to define the origin of bags of minerals,19 due diligence initiatives that oblige
+companies to assess the risks along their mineral supply chains,20 and certification mechanisms that
+certify that the exploitation of mineral exports have respected a set of minimum standards.21 We refer to
+them as ‘Responsible sourcing efforts’ in this report.
+We believe that a more integrated analysis of ‘mining’, ‘insecurity’ and ‘conflict financing’ is crucial
+for responsible sourcing efforts to become more efficient. While investments have been made over
+the past fifteen years to break the link between mineral supply chains and conflict financing, levels of
+insecurity have not diminished in eastern DRC. Trying to address this complex web of related factors
+when designing responsible sourcing efforts, will surely improve their conflict sensitivity. A more conflict-
+sensitive approach will lead to less tension around the implementation of these initiatives, and contribute
+to a more sustainable impact.
+The second section will briefly discuss some of the theoretical concepts of natural resources and conflict
+financing. Furthermore, we will provide a very concise description of the history of ‘conflict minerals’ in
+eastern DRC since the Congo Wars (1996-2003). Section three will describe the present-day interplay
+between ‘mining’ and ‘mineral trade’ on the one hand, and ‘insecurity’ and ‘conflict financing’ on the
+other hand. We will provide a brief overview of some of the main armed actors that are currently involved
+in mineral resource extraction in the Kivu provinces and Ituri province. Section four discusses a list of
+issues important for a good understanding of conflict financing and mining in eastern DRC of today.
+Finally, section five provides concluding observations and remarks.
+19 The iTSCi Programme for Responsible Mineral Supply Chains is the most important one in eastern DRC. The International Tin
+Association (ITA)’s programme iTSCi monitors mineral supply chains in eastern DRC. It implements traceability by providing labels
+to Congolese state agents, so that they can tag 3T mineral production at the mine site and along the trade route to verify the origin
+of the minerals further down the chain. Furthermore, it also implements related activities to monitor the supply chains, including
+incident reporting, risk management, etc. Besides iTSCi, there are other smaller traceability initiatives such as Better Sourcing
+Program (BSP), and the state-led gold traceability system ‘Initiative pour la traçabilité de l’or artisanal’ (ITOA).
+20 The best known is the due diligence guidance from the Organisation for Economic Cooperation and Development (OECD): OECD
+(2013), op. cit.
+21 For example, the Regional Certification Mechanism (RCM) of the International Conference on the Great Lakes Region (ICGLR), or the
+Certified Trading Chains (CTC) programme of the German Federal Institute for Geosciences and Natural Resources (BGR).
+12 13
+
+2. CONCEPTS AROUND CONFLICT FINANCING
+While the link between ‘natural resources’ and ‘conflict’ has been much discussed in literature, the two
+are undeniably linked in eastern DRC. The exact relationship, however, is up for discussion. This section
+briefly discusses some of the key concepts and the history of ‘conflict minerals’ in eastern DRC, while the
+next section (3) zooms in on the present-day relationship between ‘natural resources’ and ‘conflict’.
+The main source of revenue in eastern DRC’s conflict financing discussions are natural resources. They
+are raw materials that occur in nature and can be used for economic production or consumption.22 DRC
+holds a wide range of natural resources that are important for its local economy, as well as the regional
+and international market, including minerals (e.g. gold, tin, cobalt, and copper), hydropower potential,
+arable land (and agricultural produce such as cocoa), immense biodiversity, rainforest, and wood (and
+charcoal). Within this report, we focus on the role of minerals in eastern DRC. More in particular, we will
+build on IPIS’ existing expertise on the so-called 3TG minerals - notably Tin, Tantalum, Tungsten and Gold
+in Ituri, Tanganyika, Maniema, North Kivu, and South Kivu.
+An extensive list of academic literature exists on natural resources and conflict-financing. It is not the
+objective of this briefing to provide an extensive overview of this. Some frameworks, however, are useful
+to help to grasp the complex reality of conflict financing in eastern DRC.
+First and foremost, for the full picture of dynamics of armed conflict in the DRC, it is important to
+acknowledge not only the complexity of the link between natural resources and violent conflict,
+but also to identify potential other drivers of conflict, or factors contributing to the perpetuation of
+long-standing (local) conflicts. Although natural resources have played an important role in several
+armed struggles, analyzing armed conflict through a natural resources lens runs the risk of tunnel vision,
+oversimplification, and overlooking other factors fueling conflicts, and/or other sources of financing for
+armed groups. Although the attention is often mainly focused on the illicit extraction and trade of natural
+resources (particularly minerals), the political economy of armed conflicts is more diverse: Wennmann
+(2007) argues that “Conflict is financed by a multitude of methods and their combination in various times
+and places makes conflict financing inherently dynamic. Organized armed groups adapt their behavior
+and shift to other methods of conflict financing in response to external policies levied against them.”23
+In section 3, we will discuss some of the alternative sources of financing, and in section 4 we will discuss
+other drivers and factors that interfere in the natural resources-security link.
+A variety of arguments have been developed to explain the link between (armed) conflict and natural
+resources, and minerals in particular. Le Billion (2012) groups them in three main categories: ‘conflict
+resources’ that provide the opportunity to finance belligerents’ war efforts, ‘resource conflict’ refers to
+conflicts resulting from competition over resources, and the ‘resource curse’ argument highlights the
+risks around poor resource governance. It is important to realize that none of these arguments provide
+a full explanation for this link, but rather complement each other.24 The most fundamental question is
+probably about causality: are natural resources the source of conflict, or is the abundant availability of
+natural resources rather an opportunity for armed actors to finance their ongoing armed struggle?
+Rwanda and Uganda started the first Congo War (1996-1997) for political and security reasons, in order
+to safeguard their interests in replacing the Congolese dictator Mobutu and restoring security in border
+zones between Zaïre and Rwanda and Uganda. At the same time this war provided the opportunity to
+Rwandan and Ugandan army officers to get a taste of the commercial potential of the mineral wealth in
+(then) eastern Zaïre. The second Congo War (1998-2003) was much more economically motivated,
+including access to and control over natural resources, and specifically about securing control over
+promising mining zones. According to Turner (2007), Uganda’s decision to take part in this second war
+was mainly inspired by economic ambitions: officers of the Ugandan army (Ugandan People’s Defense
+Forces or UPDF) were eager to occupy Congolese territories with many gold and diamond mines; even
+22 https://stats.oecd.org/glossary/detail.asp?ID=1740
+23 Wennmann A., “The political economy of conflict financing: A comprehensive approach beyond natural resources”, Global
+Governance, 13 (2007), 427-444, pp. 438-439.
+24 Le Billon P., Wars of Plunder: Conflicts, profits and the politics of resources 2012, p. 27.
+12 13
+
+Ugandan president Museveni was reportedly involved in talks about setting up a business to export
+natural resources.25
+Large-scale armed conflict over DRC’s mineral wealth (i.e. the ‘resource conflicts’ argument) has
+decreased significantly over the past twenty years.26 Nevertheless, at the local level conflicts over
+resources are still common. These conflicts regularly devolve into violence, and stakeholders often turn
+to armed actors (either armed groups or state security forces) to protect their claim to land or resources.
+Additionally, the exploitation of minerals by (foreign) companies in eastern DRC has led to social tensions
+and has spurred armed group activity on multiple occasions.
+The DRC is considered to be one of the most fragile states worldwide27 – unable to effectively control
+its territory and to provide basic security and development to its citizens in the east - maybe even
+exacerbated by the “resource curse,” as weak institutions seem to promote kleptocracy and undermine
+good governance. It helps to understand how access to resources in eastern DRC is not governed in a
+consistent way. State authority is absent in remote mining areas, which undermines the implementation
+of mining regulation, whereas in other mining zones state agents perform poorly, engaging in corruption
+and showing predatory behavior. However, scholars have also warned against the use of the concept
+‘failed state.’ Even though the state is malfunctioning in DRC, “its institutions continue to operate one
+way or another, and governance is being negotiated between a wide range of state and non-state actors
+on a daily basis.”28
+In the next chapter (section 3), we illustrate that resources provide the opportunity for many armed
+groups to survive (‘conflict resources’ argument), yet another factor explaining how minerals help to drive
+insecurity in eastern DRC. In this section we will also discuss how units from the national army (FARDC)
+are eager to get involved in the mining business, and as such consolidate the situation of insecurity in
+eastern DRC.
+Finally, we want to nuance once more the role that minerals play in survival strategies of non-state armed
+groups in eastern DRC. It does not fully explain why local conflicts seem to persist forever, and armed
+groups remain mobilized or re-mobilize after a period of ostensible peace.
+In the past decades the Congolese government has made several unsuccessful attempts to set up so-
+called Disarmament, Demobilization and Reintegration Programs (DDR) to dismantle non-state
+armed groups and to facilitate the return of former militiamen to civilian life (See section 4.3). Vlassenroot
+et al. (2020) developed the concept of circular return to explain persistent local armed group activity.29
+Militia members navigate continuously between social spaces, between civilian and combatant life: their
+motives exceed political and economic interests, and often include individual interests. (Re-)joining an
+armed group is about searching for new forms of belonging and identity, about being disappointed
+regarding reintegration incentives, and about difficulties in finding one’s place in society.
+25 Turner, T., Congo Wars: Conflict, myth and reality. London/New York: Zed Books, 2007, p. 40.
+26 The UN Panel of Experts has reported on this in detail, e.g. UN Security Council, Report of the Panel of Experts on the illegal exploitation
+of natural resources and other forms of wealth of the Democratic Republic of Congo, 12 April 2001, UN Doc. S/2001/357.
+27 Fund For Peace, Fragile states index annual report 2022, 2022
+28 Wakenge C.I., M.-R. Bashwira Nyenyezi, S.I. Bergh, and J. Cuvelier, “From ‘conflict minerals’ to peace? Reviewing mining reforms,
+gender, and state performance in eastern Democratic Republic of Congo,” The Extractive Industries and Society, 8, 2 (2021).
+29 Vlassenroot K., E. Mudinga and J. Musamba, “Navigating social spaces: Armed mobilization and circular return in eastern Congo,”
+Journal of Refugee Studies, 33, 4 (2020), 832-852.
+14 15
+
+3. LINK BETWEEN ‘INSECURITY’, ‘MINING’, AND
+‘MINERAL TRADE’ NOWADAYS
+It is very hard to put one’s finger on conflict and insecurity in eastern DRC. Drivers of conflict tend to
+go from very local disputes - over land, (lack of) access to resources, (customary) power and identity
+- up to national problems (including political instability, political distrust and governance issues such
+as corruption, kleptocracy, and weak institutions), and the regional dimension – including refugees,
+interstate tensions, and cross border (trade) networks.30 Several armed groups in eastern DRC exploit
+local discontent over these conflict drivers to legitimize their existence.
+The presence of “foreign” armed groups since the beginning of the century - including Rassemblement
+Congolais pour la Démocratie (RCD), Forces Démocratiques de Libération du Rwanda (FDLR) and Congrès
+National pour la Défense du Peuple (CNDP) -31 and state fragility in the eastern provinces led to the
+proliferation of self-defense groups, including Mai Mai groups, Nyatura and Raïa Mutomboki.
+Combined with the absence of efficient demobilization programs for these groups, it resulted in a
+situation where an estimated 120 armed groups operate in eastern DRC.32
+Analyzing the current conflict situation, the Kivu Security Tracker (KST) said: “it is perhaps more important
+to highlight the inertia of the conflict rather than to speak of new causes or triggers. Much of the violence
+in the eastern Congo is driven by the need of armed groups, most of whom have existed in their current
+or previous incarnations for many years, to survive by extracting resources and fighting for their turf.”33
+Several factors contribute to this inertia, including the FARDC’s underperformance, failed DDR-processes,
+social dissatisfaction, a lack of political will, and rent-seeking behavior by conflict parties. Concerning the
+latter element, while many of the armed groups in eastern DRC have been established as self-defense
+groups, over time, illegal predation has become an important reason of existence and at times seems to
+have supplanted the ideological factor.
+Before continuing to discuss the role of minerals in armed group financing, it is important to underline
+that armed groups have multiple sources of income, and that insecurity in eastern DRC is not always
+linked to minerals.34
+The KST reported that taxation is the main source of alternative income for most armed groups in
+eastern DRC, referring to roadblocks, token systems, and poll taxes.35 Schouten et al. (2017) point out
+the economic importance of roadblocks in eastern DRC. A plethora of state and non-state armed
+actors erect barriers – or a simple rope – along the roads to collect taxes on valuable goods (minerals,
+timber, charcoal, agricultural products), but also on pedestrians and drivers passing by.36 Human Rights
+Watch (HRW) documented several cases of kidnapping for ransom by armed actors in the territory of
+Rutshuru, North Kivu.37 The UN Group of Experts described Mai Mai Yakutumba’s revenues from illegal
+30 Autesserre S., The Trouble with the Congo: Local violence and the failure of international peacebuilding. New York: Cambridge University
+Press, 2010, pp. 142-146.
+31 These armed groups were considered as “foreign” by the Congolese, because they were/are composed out of Rwandophone
+combatants. RCD, one of the main armed actors during the second Congo War, fought against the government of President
+Laurent-Désiré Kabila with the support of Rwanda and Uganda. FDLR, a Hutu-dominated group opposing the Rwandan Kagame
+regime, was used by President Kabila as a proxy force against the Rwandan army and RCD. CNDP was created by Laurent Nkunda,
+a former RCD officer who rejected integration in the Congolese army, and was considered as a Rwandan proxy armed group in
+eastern Congo.
+32 Kivu Security Tracker, The Landscape of Armed Groups in Eastern Congo: Missed opportunities, protracted insecurity and self-fulfilling
+prophecies, February 2021. KST is a joint project of the Congo Research Group and Human Rights Watch.
+33 Ibid., p. 8.
+34 IPIS, Conflict analysis and stakeholder mapping in South Kivu and Ituri, commissioned by Madini project, April 2021, p. 15.
+35 Kivu Security Tracker, The landscape of armed groups in eastern Congo: Missed opportunities, protracted insecurity and self-fulfilling
+prophecies, February 2021, p. 11.
+36 Schouten P., J. Murairi, and S. Kubuya, “Everything that moves will be taxed”: The political economy of roadblocks in North and South
+Kivu. IPIS/DIIS/ASSODIP, November 2017.
+37 HRW, DR Congo: Kidnappings skyrocket in east, Human Rights Watch, 16 December 2015, https://www.hrw.org/news/2015/12/16/dr­
+congo-kidnappings-skyrocket-east.
+14 15
+
+logging and the trade of redwood.38 According to the Pole Institute, some non-state armed groups
+such as FDLR shifted their economic focus from the artisanal mining sector to other economic activities
+such as agriculture and leasing of land. In this respect it is noteworthy that the same types of human
+rights abuses that are often linked to artisanal mining are also reported in the agricultural sector, where
+armed groups for example impose forced labor on peasants.39 Finally, armed actors can profit from direct
+financial or material support by local strongmen, such as politicians, or even external supporters. The UN
+Group of Experts for example denounced the provision of material support to Mai Mai groups in South
+Kivu by the Government of Burundi.40
+Another remark is the observation that insecurity is not always linked with minerals. IPIS’ 2019 report41
+illustrated how many of the security incidents in North Kivu (mapped by KST) did not overlap with
+important artisanal mining areas.
+Mining sites with armed interference in North Kivu, between 2013 and 2022, from IPIS’ map (left) and reported
+security incidents, since April 2017, from Kivu Security tracker (right).
+3.1. Armed groups’ mineral revenues
+Due to fragmentation of armed groups, it is impossible to provide a full overview of the different
+armed groups42 and their financing modalities. Nevertheless, we will discuss a few of the illustrative
+armed groups here, and how they extract revenue from the mining sector.
+Currently, most armed groups in eastern DRC were created for ideological or security reasons, often in
+support of specific ethnic communities, claiming to defend their rights/claims (in the context of perceived
+social injustice, land claims, etc.) and to protect them against “aggressors” (“self-defense” against other
+armed groups or ethnic communities that are perceived as a threat to the own community). Exploitation
+of natural resources is not (anymore) a direct reason for conflict, but the abundance of mines (especially
+gold) provides economic opportunities to non-state and state armed actors: by controlling part of the
+gold production and trade they can accumulate wealth and finance their armed presence (allowing them
+to consolidate their control over economically important zones).
+38 Final report of the UN Group of Experts on the DRC, 10 June 2021, S/2021/560.
+39 Interview with a representative of Pole Institute, Goma, February 2022.
+40 Final report of the UN Group of Experts on the DRC, 7 June 2019, S/2019/469.
+41 IPIS, Mapping artisanal mining areas and mineral supply chains in eastern DR Congo: Impact of armed interference & responsible sourcing,
+in collaboration with DIIS, April 2019, pp. 24-25.
+42 The KST provides an excellent overview of armed groups in the Kivu provinces. More recently it also started mapping incidents in
+Ituri province: https://kivusecurity.org/about/armedGroups.
+16 17
+
+3.1.1. Ituri
+Conflict dynamics in the gold-rich province of Ituri are extremely complex, involving multiple non-state
+armed groups (some of them originating from North Kivu), FARDC, and local political elites (see also
+sections 3.2, 4.1).
+Violence started flaring up again in Ituri in December 2017. Since then, local communities have been
+devastated by brutal killings, sexual violence, large-scale and systematic destruction of houses, schools
+and medical facilities, and massive displacements. The main armed actor in the current conflict is the
+Lendu militia Coopérative pour le Développement Economique du Congo (CODECO). This group refers
+to inter-ethnic tensions and socio-economic inequalities to legitimize its armed struggle against the
+Hema community (See section 4.2). CODECO and its factions are considered responsible for most of the
+atrocities committed in the past three years in several territories of Ituri province.
+CODECO was initially active in the agricultural eastern part of Djugu (a region with few mines), where
+they erected roadblocks to tax passers-by. They gradually moved to the western part of the territory,
+where many gold mines are located. The artisanal gold mining sector has become an important source
+of revenue for CODECO. In Djugu CODECO controls several mines, where the rebels impose taxes on the
+production, or confiscate mining pits. They also violently pillage mines and mining villages.43 Early 2021
+CODECO invaded the important concession of the company Mongbwalu Gold Mining (MGM), Djugu
+territory, where they forced miners to exploit gold on the behalf of CODECO.44 Most of the gold produced
+in this region is fraudulently exported to Uganda, where it is refined before exportation to Dubai.45
+Hema created armed self-defense groups, named ‘Zaïre’, to protect Hema communities and gold
+mining sites against attacks from CODECO.46 The Congolese army uses sometimes ‘Zaïre’ members to
+fight CODECO. Initially founded due to security considerations, ‘Zaïre’ is getting more and more involved
+in economic activities: they control some gold mines in Djugu where they levy taxes on the production,
+or force miners to work for them. They also developed a system of ‘war taxes’ for shopkeepers in urban
+centers (e.g. in Iga Barrière).47
+The Force de Resistance Patriotique de l’Ituri (FRPI) resumed its activities as an armed group, after peace
+talks failed at the end of 2020. The Lendu militia controls the Lendu chiefdom of Walendu Bindi in
+Irumu, and claims to protect the local population against invasions of the Allied Democratic Forces
+(ADF), an armed group of Ugandan origin that used to operate in the province of North Kivu but moved
+into the province of Ituri, due to FARDC and Ugandan Army operations in North Kivu.48 FRPI controls
+mines in Walendu Bindi and has reportedly expanded its radius of action into neighboring Andisoma,
+the chiefdom of the Bira, where FRPI militiamen visit mines to levy taxes.49 The Bira have their own self-
+defense militia, Force patriotique et intégrationniste du Congo (FPIC), which claims to protect the interests
+of the Bira people, opposing Hema with whom the Bira have disputes over landownership. Reportedly
+FPIC uses revenue from mine exploitation to buy arms. FPIC occasionally forms tactical alliances with
+FRPI and CODECO against the Hema.50
+43 IPIS, Persistent violence in gold-rich Ituri province, DR Congo: Root causes and impact on local populations, IPIS Briefing, August 2020.
+44 Radio Okapi, “Ituri: les miliciens de la CODECO assiègent le carré minier de Mongwalu Gold Mining”, 29 January 2021.
+45 Agenonga Chober A. and G. Berghezan, La CODECO, au coeur de l’insécurité en Ituri, Brussels: GRIP, 2021, p. 24
+46 Ibid., pp. 11-12.
+47 Interview a CSO representative, Bunia, February 2022; interview with a representative of Fédération des Coopératives, Bunia,
+February 2022; IPIS, Analyse quantitative du secteur minier artisanal dans la region Bamuguba-Nord (Shabunda, Sud Kivu), Internal
+report, October 2020.
+48 Huguet A., “RDC: En Ituri sous état de siege une milice fait la loi sur son territoire,” La Libre, 21 January 2022, https://www.
+lalibre.be/dernieres-depeches/afp/2022/01/21/rdc-en-ituri-sous-etat-de-siege-une-milice-fait-la-loi-sur-son-territoire­
+JTD4N2GD65D6PNEJIGUIM3VA3M/ .
+49 Interview with a CSO representative, Bunia, February 2022.
+50 Interviews with several CSO representatives, Bunia, February 2022; see also Radio Okapi, “Ituri: Une coalition de 3 milices envisage
+d’attaquer Irumu, alerte le député provincial Wilson Mugara”, 19 January 2021, https://www.radiookapi.net/2021/01/19/actualite/
+securite/ituri-une-coalition-de-3-milices-envisage-dattaquer-irumu-alerte-le; and Radio Okapi, “Ituri: 10 personnes tuées à Mumu-
+Kokonyagi par la coalition FPIC-CODECO”,16 January 2022, https://www.radiookapi.net/2022/01/18/actualite/securite/ituri-10­
+personnes-tuees-mumu-kokonyagi-par-la-coalition-fpic-codeco.
+16 17
+
+Many members of local armed groups (including CODECO) are at the same time artisanal miners, which
+makes it difficult to distinguish the fighter from the miner (see also section 4.3). This means that there
+might be a link between artisanal mining cooperatives, which are ethnically organized, and armed
+groups: some members of cooperatives would have leading positions in FPIC.51
+Apart from local armed groups, several armed groups originating from neighboring North Kivu operate
+now in Ituri, particularly in Irumu and Mambasa. The most notorious group from North Kivu is ADF. ADF
+is considered responsible for several mass killings of civilians in Irumu in 2022.52 According to a local CSO,
+the presence of ADF rebels has been recently reported in mines in the border zone with North Kivu. In
+the past months, ADF incursions and pillages in several mine sites in the territory of Mambasa, have been
+reported through IPIS’ Kufatilia incident reporting system.53 Mai Mai Mazembe, another armed group
+form North Kivu, is now also active in the territory of Mambasa, where it seems to occasionally pillage
+mine sites (several incidents with Mai Mai Mazembe in mines in Mambasa have been recently reported
+by the Kufatilia incident reporting system). Mai Mai Mazembe was founded in 2016 in North Kivu to fight
+FDLR, which had launched a massacre against the Nande community in the territory of Lubero. Mai Mai
+Mazembe is also involved in artisanal mining in Lubero territory, North Kivu.54
+3.1.2. North Kivu
+Nduma Défense du Congo – Rénové (NDC-R) still controls a large territory in eastern DRC, including the
+gold mining sites in it. It is one of the few examples that still respond to the traditional perception of
+‘conflict minerals’, notably armed groups fighting directly for control over mineral resources. While it was
+originally only based in Walikale territory, it expanded and clashed over gold mining sites in southern
+Lubero in 2018.55 The UN Group of Experts reported last year about the clashes between several NDC-R
+factions over the Matungu gold mine, in Walikale, in late 2020-early 2021.56 Furthermore, violent clashes
+occurred regularly around the gold mines in Bamate chiefdom (Lubero) between NDC-R/Guidon (named
+after the leader Guidon Shimiray Mwissa) and FPP/AP (Mai Mai Kabidon) throughout 2021.
+NDC-R was recently split into the factions NDC-R/
+Guidon and NDC-R/Bwira. FARDC supported
+NDC-R/Bwira (named after the leader Gilbert
+Bwira Shuo) in their fight against NDC-R/Guidon
+(actually, the Congolese army used the Bwira
+faction as a proxy to fight other armed groups).57
+The history is repeating itself: NDC-R/Guidon was
+a faction that split off from the historical NDC led
+by Ntabo Ntaberi Sheka, and NDC-R was used by
+FARDC as a proxy to fight other groups. NDC-R/
+Guidon and NDC-R/Bwira are trying to control part
+of the gold exploitation in North Kivu.58
+A different type of conflict about mineral
+exploitation has been simmering for years in Billboard of the mining cooperative COOPERAMMA
+Rubaya, in the territory of Masisi. Rubaya and its
+coltan-rich area, are the scene of a long-lasting
+conflict between Société Minière de Bisunzu (SMB) and Coopérative des Exploitants Artisanaux
+51 Interview with a CSO representative, Bunia, February 2022.
+52 Radio Okapi, “Ituri: 85 personnes tuées en 10 jours lors des incursions des rebelles”, 18 April 2022, https://www.radiookapi.
+net/2022/04/18/actualite/securite/ituri-85-personnes-tuees-en-10-jours-lors-des-incursions-des-rebelles.
+53 See IPIS - Dashboard of Incidents in Eastern DRC – Kufatilia, https://ipisresearch.be/publication/dashboard-incidents-eastern-drc/.
+54 Save Act Mine, Le commerce illicite de l’or dans la region des Grands Lacs finance les groups armés à l’est de la RDC, Goma, April 2021.
+55 IPIS (April 2019), op. cit., p. 25.
+56 UN Group of Experts (June 2021), op. cit., § 54-56.
+57 UN Group of Experts (June 2021), op. cit.
+58 Interview with a representative of Pole Institute, Goma, February 2022; interview with a CSO representative, Goma, February 2022.
+18 19
+
+Miniers de Masisi (COOPERAMMA). This conflict has multiple dimensions: 1) a dispute between a
+large artisanal mining cooperative and a mining company; 2) a conflict over landownership (see also
+section 4.1); 3) an economic conflict due to the power struggle between local politicians (the conflict is
+politicized as the main characters in the dispute are well-known politicians); 4) a dispute between Hutu
+and Tutsi (ethnic factor, instrumentalized by political ethnic leaders, see section 4.2); 5) and finally, this is
+also about a disagreement between a mining company and a responsible sourcing initiative.
+Edouard Mwangachuchu, a member of RCD-Goma during the second Congo War, founded the mining
+company Mwangachuchu Hizi International (now SMB) that received a concession around Rubaya
+from RCD-Goma. Around the same time, Robert Seninga, also an RCD-Goma member, founded the
+mining cooperative COOPERAMMA (see section 4.2) Artisanal miners of COOPERAMMA work on the SMB
+concession but SMB does not pay the miners properly, which causes serious tensions between SMB and
+the cooperative. Clashes between police units and miners have been reported (in at least one incident
+several miners were killed).59 Many COOPERAMMA miners are (ex-) members of Nyatura (a Hutu self-
+defense militia, active in Masisi). There are indications that COOPERAMMA has provided arms to some
+miners. As it is assumed that COOPERAMMA represents about 5000 young miners, the cooperative has
+the potential to mobilize (see section 4.2).60
+Mining sites on the SMB concession were covered by the traceability program iTSCi before 2019. While
+SMB stated it left iTSCi due to rising costs of the certification scheme, other sources suggested that the
+primary reason was due to tensions as SMB did not want iTSCi to report on violent incidents involving
+police and FARDC, which happened on its mining sites.61
+3.1.3. South Kivu
+In the southern part of South Kivu, Mai Mai
+Yakutumba has developed several income
+streams. The UN Group of Experts reported on
+evidence of income from illegal logging, the trade
+of redwood, fishing taxes, support from members
+of the Bembe community and gold mining.62 In
+2020, IPIS reported the presence of Yakutumba
+at 36 mining sites around Mukera and Misisi in
+Fizi territory.63 They operate protection rackets,
+holding off taxation by state services and fighting
+against the establishment of Leda Mining. On the
+other hand, there are also reports of collusion with
+the FARDC in the gold trade.
+For the last five years, Yakutumba is also leading
+a local alliance of Mai Mai groups in the south of
+South Kivu, notably the Coalition Nationale du
+Peuple pour la Souveraineté du Congo (CNPSC).
+Another interesting actor within the context
+of natural resource exploitation is the Mai Mai
+Malaika, founded by the deceased She (or Sheikh)
+Roadblock at Kinigi, Masisi territory, 2018
+Assani, mostly active in Maniema’s Kabambare
+territory. The group strongly opposed the
+59 UN Group of Experts (June 2021), op. cit., §61; Interviews with several CSO representatives, Goma, February 2022); interview with a
+representative of Pole Institute, Goma, February 2022; interview with a state agent, Goma, February 2022.
+60 Interviews with several CSO representatives, Goma, February 2022; interview with a representative of Pole Institute, Goma, February
+2022.
+61 Interview with a CSO representative, Goma, February 2022; interview with a representative of an international NGO, Goma, February
+2022.
+62 UN Group of Experts (June 2021), op. cit., §130.
+63 IPIS (April 2021), op. cit., p. 28.
+18 19
+
+operations of the mining company Banro in Namoya and Salamabila. In December 2022, IPIS field teams
+observed the interference of Malaika at several gold mines in the area of Salamabila. While there have
+been reports of fighting between the Mai Mai and the FARDC in the area, the two actors also have some
+arrangements on the distribution of income from mining – i.e. dividing the number of days each can
+control certain roadblocks leading up to the mine.
+A plethora of Raia Mutomboki groups operate across several territories of South Kivu (mainly in
+Shabunda, but also in Walungu). They were created as self-defense groups to drive out the FDLR. Once
+this goal was achieved, they did not want to disarm and continued to protect their communities against
+potential attacks from “foreigners.”64 Raia Mutomboki groups rely on different sources of revenue for
+their livelihood: in certain areas they have established systems of tax collection in mining sites (taxation
+of production) or at roadblocks (taxation on transport of minerals and commercial goods).65 Isolated cases
+of Raia Mutomboki attacking and pillaging mining sites, and abusing miners, have also been reported
+in Shabunda.66 The UN Group of Experts 2021 report covered some of their illegal taxation practices on
+charcoal in Kalehe territory.67
+3.2. FARDC
+A crucial issue to tackle both insecurity and conflict financing in eastern DRC, is to deal with the FARDC
+performance. Society, and in particular the economy, has seen increasing levels of interference by the
+military and its elites. The military has developed several illegal revenue-generating practices, including
+roadblock taxation,68 racketeering and extortion in natural resources sectors, and operating as
+private security guards to secure mining operations.
+For a decade, IPIS mines mapping work has revealed that FARDC units are the armed actor that can be
+observed most often interfering in the mining business, and increasingly so.69 At a sample of 711 mines
+visited by IPIS between 2016 and 2018, the main culprit of armed interference were the FARDC. They were
+responsible for 66% of the ‘affected’ mining sites (198 out of 265).70
+‘Armed interference’ in mining has many shapes: Rank-and-file soldiers can try to make a living by levying
+(small or higher) taxes on various mining stakeholder; Army officers involved directly or indirectly in
+mining and mineral trade; Mine owners that have to pay for so-called military protection; FARDC
+systematically organizing ‘Salongo’, i.e. one day of labor per week; or Semi-industrial gold mining
+companies hiring FARDC soldiers as private security guards.71
+Resource revenues for military people can explain the inertia with regards to armed groups in eastern
+DRC. The continued presence of these armed groups “legitimizes” the army unit’s deployment, which
+enables them to develop their economic activities, including interference in mining. Multiple examples
+exist of FARDC and nearby armed groups that coexist and have arrangements with regards to the division
+of revenues from the local mining business. IPIS research, for example, observed an arrangement between
+Mai Mai Malaika and the FARDC around Salamabila (Kabambare territory, Maniema Province). The UN
+Group of Experts reported last year about a collaboration between the FARDC and the NDC-R/Bwira­
+faction to exploit gold at the Matungu mine.72 In Fizi territory, South Kivu, IPIS found that the FARDC and
+64 IPIS (April 2021), op. cit., p. 15.
+65 IPIS (April 2019), op. cit., p. 16; IPIS (April 2021), op. cit., pp. 16-17.
+66 IPIS, Transparency and formalization of gold supply chains in Eastern Congo, Antwerp: IPIS, April 2020, pp. 37-38; PRG, IPIS, SFR and
+Ulula, Evaluating due diligence programs for conflict minerals: A matched analysis of 3T mines in Eastern Congo, Los Angeles/Antwerp,
+November 2020, p. 19.
+67 UN Group of Experts (June 2021), op. cit., §179.
+68 IPIS, Roadblock rebels: IPIS maps important mechanism of conflict funding in Central Africa, December 2017: https://ipisresearch.
+be/roadblock-rebels-ipis-maps-important-mechanism-conflict-funding-central-africa/; Schouten P., J. Murairi, and S. Kubuya
+(November 2017), op. cit.
+69 See IPIS mapping reports since 2013. E.g. IPIS, Analysis of the interactive map of artisanal mining areas in Eastern DR Congo, November
+2013.
+70 IPIS (April 2019), op. cit., pp. 15-19.
+71 Interviews with several CSO representatives, Bunia, February 2022; see also IPIS, Grievance, governance and gold in the eastern Congo,
+IPIS Briefing, December 2021 – January 2022.
+72 UN Group of Experts (June 2021), op. cit.
+20 21
+
+Yakutumba divided the taxation days between them at three productive sites, to avoid coming face to
+face and having to engage in combat.73 In the territory of Djugu, Ituri, IPIS observed CODECO occupying
+the gold mining site of Morgue, while at the same time elements of FARDC were manning a permanent
+roadblock at the entrance of this mine.74
+The FARDC’s role in the consolidation of the illegal exploitation of natural resources, and even financing
+insecurity, raises questions on the efficiency of the state of siege that had been declared by president
+Tshisekedi’s government in May 2021 to cope with escalating violence in Ituri and North Kivu. Civil society
+organizations in Bunia, the capital of Ituri, complain that the state of siege seems to make the security
+situation in Ituri worse: the killings and pillages continue, and CODECO and other armed groups are
+controlling (economically) important zones (see section 3.1.1.). The state of siege was initially proclaimed
+for 30 days but was extended at regular occasions by the national parliament until now; the provincial
+government and parliament are suspended, and a military governor and police vice-governor have
+been installed in both Ituri and North Kivu.75 The FARDC seems unable (or unwilling) to neutralize the
+armed groups, or to negotiate a truce to pacify the provinces. Despite a number of CODECO factions
+signing a truce with the government (under the auspices of The United Nations Organization Stabilization
+Mission in the Democratic Republic of the Congo [MONUSCO]) in early June 2022 attacks continue to be
+reported in Djugu.
+The state of siege “normalizes” the presence of FARDC in gold mines, as they are supposed to protect
+mines and artisanal miners against attacks and pillages by armed groups: this situation offers economic
+opportunities to Congolese army officers. The security situation did not improve during the state of
+siege. The civil society of North Kivu recently pointed out that during that period about 2,000 civilians
+have been killed, and that the armed group M23 has re-emerged.76
+Presence of Mining Police in Kampene area, Maniema province
+73 IPIS (April 2021), op. cit., p. 16.
+74 IPIS (October 2020), op. cit.
+75 Ordinances N°21/015 and N°21/016 of May 3, 2021.
+76 La Prunelle RDC, “Etat de siège au Nord Kivu: près de 2 000 civils tués en 11 mois (Société Civile)”, 14 April 2022, https://laprunellerdc.
+info/etat-de-siege-au-nord-kivu-pres-de-2-000-civils-tues-en-11-mois-societe-civile/. Rwanda-backed M23 was founded in 2012 by
+former militiamen of CNDP who were not satisfied with the government’s implementation of the peace agreement of 23 March
+2009.
+20 21
+
+For a more effective army in general, analysts have demanded more accountability, and a reform process,
+including a “clean-up of the command structures and a replacement of the close-knit networks of the
+former regime.”77 Prospects for such genuine reform processes are still rather poor, especially when
+considering that some high ranking FARDC officials, known for their implication in human rights violations
+and illegal natural resource-profiting continue to hold prominent positions in the army.78
+77 Nyenyezi Bisoka A., K. Vlassenroot, and H. Hoebeke, The limits of President Tshisekedi’s security strategy in the Democratic Republic
+of Congo, LSE, 28 April 2020, https://blogs.lse.ac.uk/crp/2020/04/28/the-limits-of-president-tshisekedis-security-strategy-in-the­
+democratic-republic-of-congo/.
+78 Gabriel Amisi, nicknamed ‘Tango Four’, for example has been appointed Inspector General in 2020. General Amisi is known for his
+involvement in human rights violations, selling arms to poachers and militias and extracting profit from the gold mining sector: https://
+www.globalwitness.org/en/campaigns/democratic-republic-congo/omate/, https://www.theafricareport.com/34129/drc-under­
+pressure-from-the-us-tshisekedi-reshuffles-army/ , https://www.hrw.org/news/2019/05/15/prosecute-dr-congos-general-amisi .
+22 23
+
+4. RELATED ISSUES TO CONSIDER
+Conflict dynamics and conflict financing in eastern DRC are extremely complex and multidimensional.
+Although natural resources, and particularly minerals, play an important role, analyzing Congo’s conflicts
+only through a natural resource lens entails the risk of reaching simplistic conclusions. Issues about
+landownership and access to land contribute substantially to conflict persistence. Artisanal mining is
+linked to land issues, and land issues have often deep historical roots, going back to the colonial period
+when ethnic identities were constructed and bureaucratically institutionalized. Moreover, long-lasting
+governance failure perpetuates or re-dynamizes existing conflicts, or causes new disputes. Failing
+disarmament and demobilization programs, elite capture, underperforming corrupt state services, and
+faltering mining sector formalization processes, all increase the complexity of eastern Congo’s conflict
+landscapes.
+4.1. Access to land
+Landownership, customary land rights, and access to land in general, are important drivers of conflict in
+eastern DRC. According to Vlassenroot (2004) “local-level disputes over land, rather than armed struggle
+for control over mining sites, have tended to dominate local socio-economic competition, pitching entire
+communities against each other”.79 Access to land often plays an important role in mining disputes.
+Demarcation of mining concessions and mining sites, or compensation to the landowner of a mining
+site, are for example important sources of local conflict (e.g. between mining cooperatives, between
+cooperatives or artisanal miners and industrial concession holders, between miners and farmers). Mining
+is intrinsically linked to land.
+Mulunguyi gold mine, Nyunzu territory, Tanganyika
+79 Vlassenroot K. “Land and conflict: The case of Masisi”. In K. Vlassenroot and T. Raeymaekers (Eds.), Conflict and Social Transformation
+in Eastern DR Congo, Ghent: Academia Press Scientific Publishers, 2004, p. 81.
+22 23
+
+Several of the conflicts that we have mentioned before, in which minerals play an important role for
+conflict financing, have their historic roots in competition over land. The history of the Lendu-Hema
+antagonism in the province of Ituri, for example, goes back to pre-colonial times. CODECO and Zaïre
+groups that currently fight each other, and increasingly rely on mining revenues, find their roots in these
+tensions. Hema, originally pastoralists, established some political and economic dominance over the
+farming community of Lendu. Belgian colonial authorities institutionalized inter-community differences
+by creating separate tribal administrative entities (chiefdoms) for Lendu and Hema, allowing them to
+rule more efficiently over local communities. Under colonial rule, Hema achieved favorable access to
+education and employment in the local administration, and mining and farming business. President
+Mobutu’s nationalization policy aggravated tensions: he promulgated a new land law that declared all
+land and mineral resources state property, annulling customary land rights and concessions granted
+before independence. Due to their political ties with the Mobutu administration, Hema elites acquired
+land that was previously owned by Lendu.80 Many Lendu felt discriminated against because of this shift
+in landholding (see section 3.1.1).
+Besides the historic roots, mining disputes also occur around land demarcation conflicts, or
+compensation for land-use. In 2020 IPIS identified a conflict over boundaries in the territory of Kalehe, in
+the province of South Kivu, between the cooperatives COMEAHLU and COMEALU about the management
+of the coltan mine of Ruziba. Tensions ran so high that there was a potential risk that the cooperatives
+might turn into “militia mobilization structures”. A solution was found due to the mediation of the sub-
+Local Monitoring Committee (sous-Comité Local de Suivi) and the Provincial Monitoring Committee
+(Comité Provincial de Suivi), two multi-stakeholder structures created to monitor problems in the mining
+sector: COMEAHLU received rights to Ruziba, whereas COMEALU received the site of Cyangugu.81 (More
+discussion on the function of these monitoring committees under section 4.5.) Recurrent disputes have
+been observed in Kalehe between owners of agropastoral land and mining operators: landowners refuse
+to allow mining activities in their concessions unless they receive compensation.82
+The long-lasting conflict between the cooperative COOPERAMMA and the mining company SMB
+concerning the coltan-rich mining concession around Rubaya (Masisi territory, North Kivu) is an illustrative
+example of how complex a mining conflict can be. As it is interwoven with various other conflict drivers,
+including land, it becomes very difficult to untangle. During the second Congo War, Mwangachuchu Hizi
+International (now SMB) received a mining concession on land that local Hutu communities consider
+as their ancestral land (see also section 4.2). SMB would establish industrial mining activities, but they
+never came to fruition. In the meantime, artisanal miners of COOPERAMMA (mainly Hutu) worked on
+the SMB concession, causing tensions between SMB and the cooperative. An agreement was signed,
+stipulating that COOPERAMMA miners could dig coltan in the SMB concession on the condition that
+their production is entirely sold to SMB. However, SMB seems unable to pay the miners on a regular basis,
+which has intensified the tensions. SMB has used Mining Police (PMH, Police des Mines et Hydrocarbures)
+and FARDC units to chase COOPERAMMA miners. The perception exists that SMB has its own PMH force
+(the “SMB police”) to protect its concession.83 Armed clashes between PMH and armed miners (several
+COOPERAMMA miners are ex-members of Nyatura) have been reported; in at least one incident several
+miners were killed.84 Until today this conflict remains unsettled (see section 3.1.2).
+80 Fahey D., Ituri. Gold, land, and ethnicity in North-Eastern Congo. Rift Valley Institute/Usalama Project, 2013, pp. 27-28.
+81 IPIS (April 2021), op. cit., p. 27.
+82 IPIS (April 2021), op. cit., p. 27.
+83 Interviews with several CSO representatives, Goma, February 2022; interview with a representative of Pole Institute, Goma, February
+2022; interview with a state agent, Goma, February 2022.
+84 UN Group of Experts (June 2021), op. cit., §61; interview with a CSO representative, Goma, February 2022; interview with a
+representative of Pole Institute, Goma, February 2022; interview with a state agent, Goma, February 2022.
+24 25
+
+4.2. Intercommunity tensions
+Access to natural resources in eastern Congo is regularly linked to inter-community tensions, with
+ethnicity being considered as an important conflict driver. However, ethnicity has been socially
+constructed during the colonial period: ethnic identities were institutionalized by colonial rulers who
+classified communities by imposing on them tribal categories, linking them to a specific geographic
+location.85 Local entrepreneurs can manipulate ethnic identities to compete for access to resources;
+ethnic cleavages are invoked through a political struggle against marginalization and socio-economic
+inequality.86 In this context, rival elites employ autochthony discourses, promising political and economic
+security for those “born of the soil” against interference of the “others” (the “migrants” or “foreigners”).
+Violence in gold-rich Ituri is closely linked to ethnic tensions, which have been instrumentalized by
+such local entrepreneurs. During the second Congo War, the Ugandan army occupied parts of Ituri: its
+interference in the region aggravated tensions between Lendu and Hema communities which eventually
+deteriorated into violent conflict. The Ugandan general James Kazini had created the province of Kibali-
+Ituri with a Hema governor, controlling vast mineral-rich areas (gold, but also diamonds) and trans-
+border economic networks. As the new power structure in Ituri was dominated by Hema-elites, non-
+Hema communities felt excluded from political and economic decision-making.87 Hema and Lendu
+elites created their own militia: the Hema-movement Union des Patriotes Congolais (UPC), and two
+Lendu-dominated groups, Front des Nationalistes Intégrationnistes (FNI) and FRPI, fought each other in the
+territories of Djugu and Irumu.
+Violence started flaring up again in Ituri, in December 2017. Since then, local communities have been
+devastated by brutal killings, sexual violence, large-scale and systematic destruction of houses, schools
+and medical facilities, and massive displacements. Long-lasting antagonisms between Lendu and
+Hema communities lie at the root of this resurging violence. The conflict however also entails social
+and economic dimensions, with social inequality and competition over access to natural resources
+(land and minerals), as the main conflict drivers. The main armed actor in the current conflict is the Lendu
+militia CODECO, which claims to protect the Lendu community against Hema and the Congolese army
+(according to CODECO an accomplice of the Hema). CODECO and its factions are considered responsible
+for most of the atrocities committed in the past three years in several territories of Ituri province.
+Remarkably, CODECO experienced continuous changes since its re-emergence: from coalition formation
+(with Union des Révolutionnaires pour la Défense du Peuple Congolais or URDPC) to fragmentation with the
+split-off of dissident factions.88
+It is always a delicate exercise to analyze the ethnic dimension in conflicts and access to resources.
+Verweijen (2020), for example, warns against the narrow ethnic analysis of violence in the highlands
+of Fizi-Uvira- Mwenga in South Kivu. Banyamulenge have clearly been involved in violent conflicts with
+other communities in the area. These conflicts, however, turn around local authority and control over
+land and resources, including markets, mines, and cattle movements. Moreover, she underlines that
+“violence is committed first and foremost by armed groups and ‘local defense’ militias”, who claim to
+protect these communities’ interests.89
+Verweijen and Brabant (2017) also point to the role of local political elites: “Although armed groups are
+commonly formed on a mono-ethnic basis and claim to represent the interests of the communities
+they issue out of, they clearly also have divergent interests and agendas, related to the ambitions of
+their leadership and political supporters”. Armed action is often framed as necessary to protect the
+community, but according to Verweijen and Brabant (2017), these framings are manipulated by politico-
+military entrepreneurs, and therefore do not always reflect the views of communities. In other words,
+armed militia are often instrumentalized by local elites, applying ethnic and autochthony discourses, to
+85 Berman B., “Ethnicity, patronage and the African state: The politics of uncivil nationalism”, African Affairs, 97, 388 (1998), 305-341, p. 321.
+86 Vermeersch P., Theories of ethnic mobilization: Overview and recent trends, Leuven: CRPS Working paper No. 3, 2011, pp. 6-7.
+87 Vlassenroot K., S. Perrot, and J. Cuvelier, “Doing business out of war: An analysis of the UPDF’s presence in the Democratic Republic
+of Congo”, Journal of Eastern African Studies, 6, 1 (2012), 2-21.
+88 Agenonga Chober A. and G. Berghezan (2021), op. cit., pp. 10-11.
+89 Verweijen J., Why violence in the South Kivu Highlands Is not ‘ethnic’ (And other misconceptions about the crisis), KST, 31 August 2020:
+https://blog.kivusecurity.org/why-violence-in-the-south-kivu-highlands-is-not-ethnic-and-other-misconceptions-about-the-crisis/.
+24 25
+
+achieve political and economic goals.90 Even though armed groups regularly prey on local communities’
+feelings of discontent to legitimize their activities, and they sometimes even enjoy support from members
+of the community, they do not represent the community. A CSO representative in North Kivu warned
+against superficial analysis of community problems by international observers. Too often the perception
+of communities towards armed groups is not sufficiently analyzed.91
+The SMB/COOPERAMMA dispute in Rubaya, North Kivu (see sections 3.1.2 and 4.1), offers an example
+of ethnicity being manipulated by political elites. The story of this conflict can also be read as a power
+struggle between the Tutsi politician and member of national parliament Edouard Mwangachuchu, who
+is the owner of SMB, and the Hutu politician and chairman of the provincial parliament Robert Seninga,
+who is the leader of the cooperative COOPERAMMA. Seninga’s power base is the local Hutu community,
+and the miners who are members of his cooperative are part of this community. It is easily imaginable
+that Seninga mobilizes hundreds of young miners to defend the interests of their community, against the
+arbitrariness of “foreign” company directors.
+4.3. DDR and stabilization
+Although the presence of natural resources, and in particular of minerals, plays an important role in
+survival strategies of non-state armed groups in eastern DRC, it does not fully explain why armed groups
+remain mobilized or re-mobilize after a period of ostensible peace. Many mining zones in eastern DRC
+have a long history of armed mobilization. Some local armed groups might still be present in the area,
+either interfering in mining or not. Furthermore, a lot of miners are former combatants. The risk of a
+re-mobilization of these former combatants, or increasing armed group activity, is latently present faced
+with numerous conflicts over land or access to minerals.92
+In February 2022, for example, IPIS mapped mines in Moba territory (Tanganyika). The situation was
+relatively calm at the time of the visit. Nevertheless, many of the miners are former members of the
+Mai Mai Éléments. In 2019, there have been some symbolic activities to lay down arms, but a wider
+disarmament has never happened. At the site of Kakuma, a SAEMAPE agent explained how risky such a
+situation can be. He had been threatened to death by some former militia members over taxation efforts
+and accusations of witchcraft that allegedly caused gold production to decrease.
+In the past decades, the Congolese government has made several unsuccessful attempts to set up so-
+called DDR programs to dismantle non-state armed groups and to facilitate the return of former rebels
+to civilian life. Vogel and Musamba (2015) discern several reasons why these DDR programs have failed: 1)
+due to security dilemmas (opponents do not disarm; persistent local insecurity due to absence of army
+or police), militia refuse to disarm or re-mobilize, claiming to protect their communities against threats;
+2) political elites may invest capital to mobilize ex-combatants to achieve political goals; 3) militia
+commanders refuse to join DDR programs that lack an incentives system (integration in the regular army,
+receipt of military ranks); 4) DDR programs do not support the efforts of combatants to redefine their
+social roles in civilian life; 5) ex-combatants fear relocation.93 More in general, lack of financial means,
+substantial program delays, and exorbitant demands made by some commanders, have contributed to
+the failure of DDR. The fate of FRPI, an armed group in the province of Ituri, is a striking example of the
+failing DDR approach. In 2020 FRPI signed a peace agreement with the Congolese government. According
+to Bouvy et al. (2021) the process of disarmament and demobilization stalled because of “a lack of will
+by both parties to advance on key steps of the process”.94 Finally, FRPI members returned to the bush
+and continue controlling zones in the territory of Irumu, where they access mines, erect roadblocks, and
+90 Verweijen J. and J. Brabant, “Cows and guns. cattle-related conflict and armed violence in Fizi and Itombwe, eastern DR Congo”, The
+Journal of Modern African Studies, 55, 1 (2017), 1-27, p. 23.
+91 Interview with a CSO representative, Goma, February 2022.
+92 Wakenge C.I. (October 2020), op. cit., p. 71.
+93 Vogel C. and J. Musamba, Recycling rebels? Demobilization in the Congo. Rift Valley Institute, PSRP Briefing Paper 11, March 2016, pp.
+3-4.
+94 Bouvy A., I. Finnbbakk, J.-M. Mazio, E. Mongo, and F. Van Lierde, The FRPI peace process at an Impasse. Lessons from a community-
+based and political approach to DDR in the Congo, Governance in Conflict Network: Insecurity Livelihoods Series, May 2021, p. 28.
+26 27
+
+confiscate harvests.95 Governmental initiatives to disarm, demobilize and reintegrate CODECO militiamen
+also largely failed up to now.96
+In July 2021, President Félix Tshisekedi announced the creation of another demobilization program,
+Programme de Désarmement, Démobilisation, Relèvement Communautaire et Stabilisation
+(P-DDRCS), which results from a merger of existing programs. Officially this program aims not only to
+resolve conflicts and stabilize eastern DRC, but also to support local development, economic recovery,
+and social cohesion. However, according to the late Eric Mongo, a prominent CSO representative, this
+new program lacks a solid strategy.97 Moreover, the coordinator of the P-DDRCS, Tommy Tambwe Ushindi
+(who is an ex-member of RCD-Goma), is heavily contested in the provinces of South and North Kivu.
+According to Kivu Security Tracker, the chances of success of P-DDRCS are low, due to disagreements
+with the funders and the fact that the program has not much to offer to demobilizing militiamen.98
+P-DDRCS is yet another attempt of president Tshisekedi to solve the “eastern Congo problem”, after
+several DDR failures and rather unsuccessful peace talks, undertaken by so-called peace task forces
+led by former warlords (such as Germain Katanga and Thomas Lubanga).99 Additionally, the Congolese
+government started peace talks (the Nairobi Process) with several armed groups on April 22, 2022, in
+Nairobi, Kenya, under the auspices of the East African Community (EAC).100
+4.4. Governance and corruption
+A full understanding of armed actors’ interference in mining should be considered in the wider context
+of mining governance, and in particular corruption, in eastern DRC. The functioning of Congolese state
+institutions is seriously challenged by clientelism and kleptocracy, leading to issues such as corruption
+and embezzlement, and a lack of neutrality in managing conflict.101
+State officials often play a crucial role in the persistence of illegal trade, and their illegal interference in
+ASM is omnipresent. Non-armed interference is part of power dynamics in which the artisanal miners
+are often the weakest side.102 These practices sustain a climate of predation,103 undermine the state, and
+enable smuggling and “conflict financing” to persist.
+Mining actors often perceive state agents solely as tax collectors. They do not feel they get anything in
+return, such as technical support, or peaceful resolution of mining conflicts.104 As mining stakeholders
+alienate from the state, they look for alternative (non-official) ways to resolve disputes and to protect
+their claims. People turn to the military or police to settle their argument with conflicting parties in a
+non-official way, or even to shelter them from state oversight. At the gold mine Mission Moto2 in Watsa
+territory (Haut-Uélé province), for example, police officers guarded the entrance of the site preventing
+other state services to monitor the exploitation of a Chinese company. In some instances, people even
+turn to armed groups to protect them against taxation - or predation - by state agents. State officials, on
+the other hand, can also turn to the military to enforce taxation of miners. In early 2022, IPIS researchers
+reported complaints by mineral traders in the Penekusu area (Shabunda territory, South Kivu). They claim
+the local head of the mining division is collaborating with military from the neighboring province of
+Maniema (based in Bikenge), to extort traders.
+95 Interview with the late Eric Mongo, Bunia, February 2022. Eric Mongo was coordinator of the civil society organization Appui à la
+Communication Interculturelle et à l’Auto-Promotion Rurale (ACIAR); he was involved in the peace negotiations with FRPI.
+96 Vircoulon T., Ituri: Résurgence du conflit et échec de la politique de consolidation de la paix, IFRI, June 2021, pp. 18-19.
+97 Interview with Eric Mongo, Bunia, February 2022.
+98 Kivu Security Tracker, In Ituri Province the FARDC are unable to distinguish CODECO militias from civilians, 15 November 2021.
+99 Radio Okapi, 8 membres de la task Force pris en otage par les miliciens de CODECO, 17 February 2022.
+100 Radio Okapi, Début du dialogue direct entre le gouvernement et les groupes armés locaux à Nairobi, 22 April 2022.
+101 Sungura A., N. Ndeze, M. Mbamba, H. Rugambwa, and L. Kitonga, Politics of the past and the present: The changes and continuities of
+conflict in eastern Congo’s Petit Nord-Kivu, Insecure Livelihoods Series, CRG, GEC-SH, GIC, May 2021, p. 57.
+102 IPIS (April 2019), op. cit., pp. 24-25.
+103 Wakenge C.I. (October 2020), op. cit.
+104 Many state agents are hardly trained and have little knowledge of the sector. As they often do not receive a salary, they need to turn
+to miners to make a living.
+26 27
+
+(Foreign) businesses interested in access to mineral deposits in eastern DRC, and in particular gold, face
+neo-patrimonial systems in the country. Seeking “protection” through the support from strongmen,
+from the local up to the provincial level, seems crucial to be able to operate. There is however a serious
+risk that this ‘protection’ results in practices and exploitations which are not monitored by legal state
+institutes. The most recent turmoil over the Chinese semi-industrial exploitations in South Kivu offers a
+good example. The local customary chief of the chefferie Wamuzimu signed a partnership agreement
+with some of these Chinese companies. The South Kivu Governor Théo Kasi and the Commander of the
+3rd military region, General Bob Kilubia, have been accused of ‘protecting’ these exploitations. As such,
+mining state agents were no longer able to monitor the situation.105 (A more detailed presentation on the
+issues around these illegal semi-industrial exploitations under section 4.7)
+Since 2010, artisanal miners in DRC are obliged
+to group themselves in mining cooperatives.106
+Ever since, such cooperatives have mushroomed
+all over the eastern part of the country.
+Unfortunately, instead of promoting collective
+action among artisanal miners to further their
+interests, in practice, cooperatives have become
+vehicles to exploit the miners. Cooperatives are
+subject to elite capture, they establish trade
+monopolies, are organized along ethnic lines,
+and they do not provide any support to miners.
+This rather increases socio-economic inequality
+and frustrations, and could potentially increase
+community tensions over access to resources.107 In
+February 2022, two people got killed following a
+dispute between members of two different clans
+in the groupement Bamuguba Sud (South Kivu
+province), notably the Lwito and Milambwe. The
+two clans competed for the management of the
+cooperative that oversaw the cassiterite mining
+site of Ndilo. Local authorities seem to have made
+an uncareful assessment when deciding to create
+a cooperative to exploit the Ndilo mine, and to
+assign its management to the Milambwe clan. Two
+Crushed minerals, Mawamba gold mining site,
+members from the Lwito clan were shot when the
+Mambasa territory, Ituri
+police wanted to disperse a protest held against
+this decision.108
+Moreover, competing claims between cooperatives are for the moment one of the main sources of conflict
+in the sector (see for example section 4.1). A recent IPIS report flagged such conflicts at almost all places
+it monitored in South Kivu: in North Bamuguba (Shabunda), Numbi (Kalehe), and Misisi (Fizi).109 These
+conflicts are regularly (partly) instigated by failing mining governance, as mining authorities tolerate
+several cooperatives to work on the same artisanal mining permit (ZEA, Zone d’Exploitation Artisanale).
+Finally, the very same state institutions that are struggling with clientelism and corruption, are key partners
+for the implementation of international donor-funded programmes, including DDR, stabilization, and
+responsible sourcing.110 Their malfunctioning weakens and undermines these initiatives. IPIS reported
+105 Mwetaminwa J. and T. Vircoulon, Un scandale sino-congolais. L’exploitation illégale des minerais et des forêts par les entreprises chinoises
+au Sud-Kivu, IFRI, February 2022.
+106 Arrête ministériel n° 0706/CAB.MIN/MINES/01/2010 du 20 septembre 2010 portant mesures urgentes d’encadrement de la décision
+de suspension des activités minières dans les provinces du Maniema, Nord-Kivu et Sud-Kivu.
+107 IPIS (April 2019), op. cit., pp. 33-34.
+108 Congoleo, 2 Morts dans la lutte entre deux clans sur La gestion du site minier Ndilo, 5 February 2022 https://congoleo.net/shabunda-2­
+morts-dans-la-lutte-entre-deux-clans-sur-la-gestion-du-site-minier-ndilo/
+109 IPIS (April 2021), op. cit., pp. 22, 27, 30.
+110 Sungura A. et al. (May 2021), op. cit., p. 57.
+28 29
+
+how state agents structurally undermine traceability by tagging minerals at large distances from the
+mine, and by selling these tags to mineral traders.111 Mineral traders explained to IPIS that they do believe
+that responsible sourcing initiatives could potentially have a positive impact, but these same initiatives
+increase the strength of state agents to exploit mineral traders, as well as other mining stakeholders.
+They recommend that more accompanying efforts should be implemented to ensure that these agents
+implement responsible sourcing correctly.112
+4.5. Mining reform and formalization
+Since the end of the Congo Wars, the DRC mining sector has undergone several structural reforms,
+including a new mining code (2002), and a revision of the latter in 2018. Additionally, an increasing
+number of governmental, international and private initiatives have been launched since 2008 to formalize
+the country’s artisanal mining sector, and to promote more responsible sourcing practices.113 Most of
+these initiatives focus on breaking the link between conflict and mineral extraction, such as the DRC
+government’s ban on ASM in 2010-2011, the Dodd-Frank Act Section 1502, the EU ‘Conflict Minerals’
+regulation and private due diligence programs.
+Several reports have already been published over
+the past decade that assess the impact of these
+responsible sourcing initiatives.114 In brief,
+recent studies confirm that responsible sourcing
+initiatives seem to discourage armed interference
+in the artisanal mining sector. It should be added
+that private traceability programs are initiated
+in mines that were previously validated by the
+government and are considered free of armed
+interference. A wide range of challenges persist
+however, and further progress seems to be very
+limited over the past few years.
+Physical and social access to resources is an
+important element in several conflicts in eastern
+DRC, see section 4.1, 4.2 and 4.3 above. Mining
+reform in eastern DRC during the past fifteen
+years, including regulation and responsible
+sourcing initiatives, have created additional
+barriers to access resources for most stakeholders.
+These barriers risk to nurture socio-economic
+inequality.
+Although mining reform and responsible sourcing
+have increased the level of organization of ASM, Transport and storage of gravel, Mabangala mining
+site, Mambasa territory, Ituri.
+it seems to have been particularly instrumental to
+local elites. Take the example of cooperatives (see
+previous section), which have become vehicles used by local elites to acquire access to mineral resources.
+Subsequently, it has further weakened ordinary artisanal miners’ position. In 2018, interviewees, including
+diggers and local community members, stated that cooperatives and the elites that preside them, are the
+main beneficiaries of responsible sourcing.115
+111 IPIS (April 2019), op. cit., pp. 50-51.
+112 Interview with two mineral traders, Bukavu, February 2022.
+113 IPIS, The formalisation of artisanal mining in the Democratic Republic of the Congo and Rwanda, commissioned by the Center for
+International Forestry Research (CIFOR), 2012.
+114 PRG, IPIS, SFR and Ulula (November 2020), op. cit. ; Musamba J. and C. Vogel, The problem with “conflict minerals”, 21 October 2021,
+https://www.dissentmagazine.org/online_articles/the-problem-with-conflict-minerals ; IPIS (April 2019), op. cit.; Wakenge C.I. et al.
+(March 2021), op. cit.; IPIS, ‘Conflict Minerals’ initiatives in DR Congo: Perceptions of local mining communities, November 2013.
+115 IPIS (April 2019), op. cit., pp. 33-34.
+28 29
+
+Long-term peaceful solutions require inclusive approaches, while responsible sourcing initiatives
+have often used strategies of exclusion. Several observers and initiatives have considered to cut out
+“illicit” local traders of mineral supply chains, as they extort miners and channel gold into illicit trading
+networks.116 These types of analyses seem to suffer from a lack of contextualization. Local traders are
+indeed one of the key actors maintaining illicit trade, but they actually have rational reasons for this.
+Vogel and Musamba (2017) describe local mineral traders as “brokers of socio-economic life in North and
+South Kivu”. On the one hand, they are acquainted with comptoirs, credit institutions, local politicians,
+kinship networks and security forces,117 while on the other they manage to access isolated mines to
+buy minerals and provide consumer goods in a context of poverty, insecurity, corruption, and lack of
+governance. Rather than cutting them out, initiatives should consider including them. Cutting out such
+vested economic interests from the mineral supply chains – with potential ties to people in other sectors
+of society, increases the likelihood for additional conflicts.
+A crucial shortcoming of the current mining reform in eastern DRC, is the fact that it has largely been
+driven by the international consternation over ‘conflict minerals’. Musamba and Vogel (2021), recently,
+published a very critical piece, on the legacy of activist campaigns on conflict minerals. They explained
+how these campaigns “reproduced colonial ideas of endemic brutality and the need for rescue”. As
+responsible sourcing efforts have turned “a blind eye to local complexities”, “violence continues unabated
+in eastern Congo”.118
+The narrow focus on conflict minerals indeed seems to have resulted in a neglect of the development
+potential of ASM. Responsible sourcing efforts, and mining reform more in general, have had no real impact
+on local development. Miners claim it has not brought them any additional revenues, and it has been
+particularly instrumental to (local) elites. It raises the question on the sustainability of the current situation.119
+One could even question to what extent the principle of ’Do No Harm’ has been considered while
+implementing responsible sourcing in eastern DRC. Wakenge (2020) states that mining reform has
+created new types of conflict, or revived conflicts in some cases, which he defines as “reform conflicts”.120
+Most stakeholders agree that responsible sourcing efforts have achieved considerable progress, and
+that the security situation in 3T mining has improved. But more isolated zones, and gold mining remain
+problematic. Furthermore, several issues undermine further progress of responsible sourcing, including
+armed actor strategies, fraud and a profound evaluation.
+Armed actors have adapted their strategies to circumvent increasing levels of scrutiny, for example
+taxation of mine managers at a distance from the mining site, or exerting a monopoly on consumer
+goods in and around the mine. There have even been examples of armed groups that re-invest profits,
+illegally realized in agriculture, in the mineral trade: they become traders in the mineral business in urban
+trading centers (centres de négoce).
+Fraud and smuggling are still omnipresent in mineral trade, even in the so-called responsible supply
+chains. As such, responsible sourcing initiatives risk whitewashing minerals coming from illegitimate
+mining areas, including protected areas and mines affected by armed actors. One CSO representative
+stated that “If the traceability systems where really ‘morale’ they would work together to combat fraud,
+and not tagging minerals from each other‘s concessions.” Many responsible sourcing systems in
+place have been around for many years. CSO actors claim that since 2010, no proper and transparent
+evaluation of these systems has been organized. A profound evaluation of the work and results of these
+systems, co-managed by different DRC stakeholders, is therefore direly needed. CSOs at times even raise
+questions of conflict of interest by some of these systems and actors involved, as do many people who
+profit from it. It appears that responsible sourcing has become less rigorous as the stakes for trade and
+the implementation of ‘responsible sourcing’ are high.
+116 See for example Lezhnev S., Conflict gold to responsible gold: A roadmap for companies & governments, The Sentry, February 2021, p. 12.
+117 Vogel C. and J. Musamba, “Brokers of crisis: the everyday uncertainty of Eastern Congo’s mineral négociants”, Journal of Modern
+African Studies, 55, 4 (2017), 567-592.
+118 Musamba J. and Vogel C. (21 October 2021), op. cit.
+119 IPIS (April 2019), op. cit., pp. 11 and 55.
+120 Wakenge C.I. (October 2020), op. cit., p. 3.
+30 31
+
+An interesting structure to monitor the mining sector, including the impact of mining reform, is the string
+of multi-stakeholder surveillance committees from the provincial to local level. At the provincial level
+there are Comité Provincial de Suivi (CPS) in the Kivu provinces and Ituri. Underneath the provincial levels,
+there are a range of Comité Territorial de Suivi (CTS) et Comité Local de Suivi (CLS).
+There are several anecdotal examples of security improvements following interference by CLS members.
+For several years, the CPS South Kivu was also quite active, and made some investments to promote local
+development, through available funds of the Basket Found (a fund fed by a levy on mineral exports). In
+general, however, the CPS-CLS functioning is hampered by a range of problems. Several interviewees
+testified that the structure is too politicized, notably managed by politicians. For example, in South Kivu
+the CPS was inactive in 2021 as the Ministry of Mines did not call for a new meeting, and discussions on the
+use of the funds in the Basket Found blocked further activities. As the structure is too politicized, several
+CSO’s and mining cooperatives also reported that they feel a strong resistance to express themselves
+frankly in the meetings. Similarly, local CLS structures are completely controlled by the local chief or
+administrator. CPS meetings in Ituri have been suspended since the promulgation of the state of siege.121
+CLS structures typically lack finances which undermine a strong and active participation of its members.
+For those that do manage to organize regular meetings, interviewees reported that it had become merely
+routine structures that lack a strong dynamic to fight fraud and insecurity. Finally, the communication
+between the local and the provincial structures is minimal.
+4.6. Supply chain actors local to regional
+Interference by foreign armed groups, or armed groups supported by DRC’s neighboring countries
+decreased steadily over the past fifteen years. While ‘conflict minerals’ was originally a Central African
+regional issue, nowadays, an internal DRC strategy to tackle ‘minerals financing insecurity’ has become
+more important. Nevertheless, the mineral supply chain - from the mines, through border towns and
+regional trading hubs, to the international market - is an obviously important factor when analyzing the
+role of mining in the persistence of insecurity. It provides access to the world market, in exchange for cash
+money (or in some cases consumer goods). Trade in eastern DRC is traditionally linked to East Africa, so is
+its mineral trade. Several important trade corridors exist in eastern DRC that direct gold and 3T minerals
+via Uganda, Rwanda, Burundi, Tanzania and Kenya to the world market.
+For decades, however, it has been an enormous challenge to channel these minerals in legal supply
+chains. Both within DRC, as across the border, a wide range of stakeholders, including formal institutions,
+are involved in cross-border smuggling to Burundi, Rwanda and Uganda. Especially for gold, smuggling
+occurs everywhere. From the neighboring countries, gold lots end up in the United Arab Emirates
+(UAE), often via commercial flights. Sofala Partners and Better Chain concluded that illicit gold trade
+is not just a shadow economy, but rather a tacitly mainstream and well- organized system.122 The
+omnipresence of gold smuggling seriously undermines traceability, legal trade, responsible sourcing
+and the accompanying initiatives that wish to tackle conflict financing. The organization IMPACT has
+been implementing the Just Gold project for several years in the DRC. It however concluded that legal
+production and trade were not commercially viable under the current market conditions in eastern DRC,
+as the project could not compete with gold prices from the informal market.123
+The German Federal Institute of Geosciences and Natural Resources (BGR) has been working on ASM in
+DRC since more than a decade and drafted a report in 2019 with lessons learned from its pilot project
+on gold traceability in Maniema province. It concluded that tax rates in the DRC at the local, provincial
+and national level do not incentivize the declaration of gold exports. It is economically more attractive to
+smuggle gold across the border. Additionally, tax incentives granted to refineries in neighboring countries
+increase the incentive to smuggle. 124 Besides taxation, mineral traders also claimed that they get better
+121 Interviews with representatives of local CSOs, Bunia, February 2022.
+122 Sofala Partners and BetterChain (April 2019), op. cit.
+123 UN Group of Experts, Final report of the UN Group of Experts on the DRC, 2 June 2020, S/2020/482, § 66.
+124 Neumann M. et al., Traceability in Artisanal Gold Supply Chains in the Democratic Republic of the Congo: Lessons Learned from the
+Kampene Gold Pilot Project, BGR, March 2019, pp. 6-8.
+30 31
+
+prices in neighboring countries because buyers are more trustworthy. They feel as if DRC-based buyers
+tend to minimize the mineral grade, and as such push down prices.125
+Uganda has been the main exporter of DRC-smuggled gold over the past decade. The Sentry reported
+how the value of its official gold exports rose from 443,000 USD in 2014, to 1.2 billion USD in 2019. An
+export volume of 27.8 tons in 2019, compared to an estimated maximum production capacity of three
+tons per year, reveals the magnitude of gold smuggling.126
+Rwanda is historically the main point of export for Congolese 3T minerals. Since 2017, however, the
+country has also become an increasingly important destination for smuggled gold from DRC. The
+Sentry noted that the UAE alone imported $472 million in gold from Rwanda, while its estimated annual
+production capacity is merely 20 to 30 kg.127
+Finally, Burundi is another traditional important exporter of Congolese gold. Over the past years,
+however, it seems to have declined somewhat.
+Within the framework of the International Conference on the Great Lakes Region (ICGLR), the DRC and
+its neighboring countries recognize the risk of conflict financing that goes along with illegal exploitation
+and trade of natural resources. For this reason, the ICGLR member states created the Regional Initiative
+against the Illegal Exploitation of Natural Resources (RINR). Through six different tools, the latter aims to
+break the link between armed conflict and natural resources exploitation in Central Africa.
+Some positive impacts with regard to formalization and transparency can be observed in eastern DRC.
+(See section 4.5). DRC-based CSOs however complain that other countries in the region are lagging
+behind, and as such undermine efforts in the DRC. The UN Group of Experts noted in its 2020 final
+report that, so far, the DRC was the only member of the ICGLR that was using ICGLR certificates for 3TG.128
+Furthermore, the UN Group of Experts reports on a yearly basis on continuous smuggling of minerals via
+Rwanda and Uganda.
+Uganda and Rwanda have been in competition over the past years, to be the main gateway for
+Congolese gold to the world market. Uganda has been the major road for Congolese gold. A key player
+in this is reportedly the Belgian trader Alain Goetz’s African Gold Refinery (AGR). The company had been
+established in 2014 and was reportedly sourcing 100-150 kg of gold per week from eastern DRC alone by
+2017.129 This quick advance has been facilitated by the 0% export tax that Ugandan president Museveni has
+granted that same year.130 The company’s establishment in Entebbe, Uganda, coincided with increasing
+gold exports from Uganda. Since 2017, however, Rwanda also steadily increased its gold export volumes,
+and since 2019 the country has its own major gold refiner, notably Aldango Ltd. Interestingly, Alain Goetz
+is also involved in the latter company.131 Last year, however, Rwandan authorities accused the company
+of tax evasion. Next, in June 2021, Rwanda and DRC signed a collaboration agreement for the Congolese
+state miner SAKIMA – which holds numerous mining concessions in the Kivu provinces – and the Rwandan
+refiner Dither. Uganda was allegedly quite anxious, as it wants to protect its position as the main exporter
+of Congolese gold.132
+The above competition and the impact on conflict financing needs to be contextualized. The competition
+over Congolese gold export routes is part of larger regional geo-politics and (economic) regional
+integration. Eastern DRC is an important marketplace for its neighbors beyond mining, including for
+agricultural products, consumer goods and services. The DRC is Uganda’s fourth largest trading partner,
+and Uganda committed to build more than 200km of roads in DRC. Additionally, Uganda desires a more
+stable situation in eastern DRC, in light of the oil exploitation at Lake Albert.133
+125 Interview with two mineral traders, Bukavu, February 2022.
+126 Lezhnev S. (February 2021), op. cit., p. 5.
+127 Lezhnev S. (February 2021), op. cit. p. 6.
+128 UN Group of Experts (2 June 2020), op. cit., p. 3.
+129 Martin A., A Golden Web, IMPACT, November 2019.
+130 Africa Confidential, The Great Lakes gold rush, 23 March 2018.
+131 UN Group of Experts (2 June 2020), op. cit., § 90.
+132 Africa Mining Intelligence, DRC gold at heart of Museveni and Kagame’s new showdown, 23 August 2021.
+133 Africa Mining Intelligence, Museveni deploys yet more troops to protect Total’s oil, 24 May 2021.
+32 33
+
+Against the background of economic interests, it is also interesting to see that President Tshisekedi
+reached out to his eastern neighbors for increasing military cooperation. DRC’s military collaboration
+with Rwanda (Rwandan Defense Force, RDF) created mistrust within eastern DRC, and several armed
+groups reportedly repositioned themselves. While some successes did result from these collaborations,
+they certainly also hold a serious risk for re-escalation of insecurity.134 The same goes for the presence
+of the Ugandan army in eastern DRC: Ugandan troops are chasing ADF in Ituri, but the question arises
+how long local armed groups such as FRPI will tolerate the presence of a foreign military force in their
+province.135
+Finally, it is important to analyze the mineral supply chain in an integrated way. Mineral supply chains
+are characterized by a string of stakeholders with economic interests, not just at the downstream end –
+beyond DRC – but from the local up to the territorial, provincial, and national level. Consequently,
+conflicts over mining tend to involve a range of actors. Wakenge (2021) defines it as follows: “Les sites
+miniers ne sont pas des « enclaves minières » isolées mais des « espaces glocalisés »”136
+Local conflicts and conflicting parties should not be considered as mere victims of the international
+mineral supply chains. Local strongmen, mining stakeholders, businessmen, and armed groups have
+room of maneuver within mineral supply chains and between different sectors. Furthermore, they also
+have control over these supply chains and can turn them to their advantage. These observations lead to
+two important results. First, merely ‘cleaning up’ supply chains does not provide any solution to these
+conflicts. Secondly, local stakeholders should be an integral part in the development of responsible
+sourcing efforts. Failing to truly engage these actors will lead to failure of responsible sourcing. Wakenge
+et al. (2018) wrote an interesting article illustrating how miners and mineral traders resisted the iTSCi
+traceability system in Tanganyika - and the exclusive buying rights from its partner company MMR.137
+4.7. Companies and investors rush on gold and minerals
+Since the end of the Congo wars, an increasing number of (foreign) enterprises have ventured into
+the risky investment environment of eastern DRC looking for mineral resources. Investors face difficult
+circumstances and a multitude of stakeholders - including armed actors - before they can exploit minerals.
+Such exploitations are often a source of tension that can result in additional insecurity and violence.
+These tensions revolve around access to resources, non-respect of informal modalities to acquire access
+to land and resources, local communities’ perception of non-respect of local development priorities, etc.
+In 2021, a range of Chinese semi-industrial mining companies were heavily criticized for their practices
+and behavior in the provinces of South Kivu and Ituri. While foreign companies are not allowed to work
+in ASM, they used small Congolese mining cooperatives as front companies to get access to these
+permits. Additionally, there have been complaints on the environmental impact of their activities, the
+lack of necessary paperwork of their Chinese workers, the lack of overview by the relevant Congolese
+mining state services, disregard of local communities and their grievances, as well as the way they used
+Congolese security forces as security guards.
+Criticism of these semi-industrial initiatives has increased over the past years. The UN Group of Experts
+reports since several years on the issue. Local communities’ frustrations have been growing steadily and
+several manifestations have been organized against these practices. The documentary maker Alain Foka
+reported last year about human rights abuses, corruption, and environmental damages. Several CSO
+organizations flagged the issue, and the National Parliament sent a parliamentary commission to South
+Kivu to investigate the issue.
+134 Nyenyezi Bisoka A., K. Vlassenroot K., and H. Hoebeke (28 April 2020), op. cit.
+135 Radio Okapi, Ituri: l’armée ougandaise se déploie officiellement à Boga, 10 February 2022; Interview with Eric Mongo, Bunia, 17 February
+2022
+136 Wakenge C.I. (April 2021), op. cit.
+137 Wakenge C.I., D. Dijkzeul, and K. Vlassenroot, “Regulating the old game of smuggling? Coltan mining, trade and reforms in the
+Democratic Republic of the Congo”, Journal of Modern African Studies, 56, 3 (2018), 497-522.
+32 33
+
+Most worrying is how it culminated into violence and targeted attacks. In November 2021, for example,
+CODECO rebels attacked a mining camp in Djugu, Ituri province, killing two Chinese nationals and
+abducting several others. A few days earlier, armed men kidnapped five Chinese miners and shot a police
+officer, in Mukera village (Fizi territory, South Kivu).138
+These incidents between armed groups and
+Chinese semi-industrial miners should not be
+considered as a one-time incident, nor as
+a simple opportunistic rent-seeking act of
+banditry.
+These exploitations, as well as the interference
+of armed groups date back to almost a decade
+in eastern DRC. In 2015, Life & Peace Institute
+(LPI) and IPIS reported about the confiscation of
+some dredges of the company River Resources
+by Mando’s Simba rebels on the Osso river, at the
+border between Maniema and North Kivu.139 And
+in 2015 and 2016, a civil society coalition (COSOC­
+GL, Coalition des organisations de la Société Civile
+de la région des Grands – Lacs contre l’exploitation
+illicite des ressources naturelles) and Global Witness,
+created commotion in South Kivu as they exposed
+the links between Raïa Mutomboki rebels and a
+dredging company in South Kivu, as well as the
+involvement of several officials and strongmen.140
+The problem however seems to have become
+more extensive over the past three years. All
+these cases include several of the issues that we
+Gold dredging at Lowa river, Maniema, 2022
+have discussed above, including protection by
+local strongmen and politicians, lack of clarity on
+permits (governance), corruption, and the army as private security contractor.141
+Besides these Chinese semi-industrial companies, many more mining companies have faced violent and
+armed resistance over the past years. Leda Mining holds exploration and exploitation permits in Fizi
+territory, South Kivu. Several strongmen with economic interests in artisanal gold exploitation reportedly
+stir up popular protests against the company. Additionally, since 2017 Mai Mai Yakutumba and former
+FARDC General Sikatenda also stood up against Leda Mining.142 In Maniema’s Kabambare territory, Mai
+Mai Malaika strongly resists Banro’s operations in Namoya and Salamabila.
+Companies often tend to consistently refer to artisanal miners that are working on their concessions
+as “illegal miners”. Such language use has a polarizing effect and contributes to local conflict over
+minerals. In the Kivus’ post-war context, this is a very risky strategy that could easily turn into violence
+and increasing levels of insecurity. It is not just mining companies that should be careful with the use of
+language in the context of eastern DRC where access to resources is a sensitive issue. Other actors and
+initiatives have run into the same issues, including for example conservation initiatives and potentially
+responsible sourcing efforts.
+138 IPIS (1 February 2022), op. cit.
+139 Matthysen K. et Wangachumo R., Des brouillards et de la fumée sur Osso: Prototype d’un système opaque de l’exploitation semi­
+industrielle de l’or à Walikale, PAX, LPI and IPIS, 2015.
+140 Global Witness, River of gold: Voices from Shabunda, December 2016; COSOC-GL, La ruée vers l’or à Shabunda: Pratiques et impacts de
+l’exploitation minière par dragues, August 2015.
+141 See for example: Le Monde, En RDC, des entreprises chinoises accusées de piller l’or du Sud-Kivu, 23 September 2021, https://www.
+lemonde.fr/afrique/article/2021/09/23/en-rdc-des-entreprises-chinoises-accusees-de-piller-l-or-du-sud-kivu_6095784_3212.html
+142 Wakenge C.I. (October 2020), op. cit.
+34 35
+
+Verweijen (2017) explains how “Armed groups and local strongmen capitalise on widespread anger”
+towards mining companies.143 Consequently, the attacks against these companies are not just banditism,
+but are rooted in the deeper socio-economic situation, and at times are even politically inspired. Verweijen
+(2017) for example discusses the challenges Banro faced in the Namoya region, which experienced an
+economic crisis due the forced closure of artisanal mining sites to prepare the ground for industrial
+exploitation. Local interest groups can use language of anti-colonialism, which works well with some
+marginalized communities in remote areas.
+Naturally, many people condemn violence by the armed groups, and understand that it contributes to
+the wider level of insecurity. Nevertheless, it is interesting to see how some people still sympathize with
+such groups’ acts of violence against these companies. Namoya’s population, for example, was divided
+by the Mai Mai’s attacks on Banro, as many still sympathized with the armed group.144 IPIS staff witnessed
+an interesting discussing between several CSO representatives over the legitimacy of the kidnapping of
+Chinese mining laborers by the CODECO militia, late 2021.
+All over the Kivu provinces as well as Maniema, the state-owned company Société Aurifère du Kivu et du
+Maniema (SAKIMA) holds an important number of large mining concessions, which also creates tensions
+with the mining companies Leda Mining and Banro, as well as local mining stakeholders.
+Besides its conflict with the cooperative COOPERAMMA (see section 3.1.2), the mining company SMB
+has a dispute with its neighbor SAKIMA. Both conflicts are connected. SAKIMA has a mining concession
+that is located next to the SMB concession. Reportedly, COOPERAMMA miners illegally transport coltan
+produced in the SMB mines to sites in the SAKIMA concession, where they get a better price for the
+minerals, and where SMB-coltan enters the so-called clean coltan supply chain of SAKIMA (which is
+covered by the iTSCi program).145
+Near Lulingu, in the groupement Bamuguba Nord (South Kivu), SAKIMA holds the exploitation permits
+26, 27, and 2596. The company is however unable to start industrial exploitation and allows artisanal
+exploitation in its concession via the cooperative COOMIMBE. In exchange, SAKIMA demands a levy of
+0,10 USD/kg, which is unjustified according to miners and COOMIMBE members, as they get nothing in
+return from SAKIMA. Additionally, since 2018, SAKIMA discussed a purchase monopoly for the Bukavu­
+based businessman Muyeye Lwaboshi. People complained that it has a negative effect on the buying
+price for 3T minerals in the area. The latter issue has also been observed in several other areas, e.g. AMUR
+in Kalehe territory. The imposition of such monopolies carries certain risks. The perception of being
+excluded from the price setting process often creates discontent among miners. This discontent can lead
+to social tensions and increasing levels of contraband trade.146
+To close this section, it is interesting to quote a recommendation of Verweijen (2017): “Industrial mining
+companies operating in the eastern DRC would do well to acknowledge how their presence feeds into
+dynamics of conflict and violence”.147
+143 Verweijen J., Shedding light on why mining companies in eastern Congo are under attack, The Conversation, 30 august 2017.
+144 Verweijen J. (30 august 2017), op. cit.
+145 Interview with CSO representative, Goma, February 2022.
+146 IPIS (April 2019), op. cit., pp. 41-43.
+147 Verweijen J. (30 august 2017), op. cit.
+34 35
+
+5. CONCLUSIONS
+Large-scale armed conflict over DRC’s mineral wealth has decreased significantly over the past twenty
+years. Nevertheless, mining and mineral trade still play an important role in ongoing armed and unarmed
+conflicts in eastern DRC. We have identified largely three direct ways that link mining and conflict, and
+even insecurity more in general. First, at the local level, conflicts over access to resources are still common.
+Second, over the past two decades, self-defense groups (including Mai Mai, Nyatura and Raïa Mutomboki
+groups) have mushroomed ‘to protect local communities’ against external threats (including FDLR and
+foreign business interests). These armed groups now use mineral resources, among other sources of
+income, to survive. Many of them grew out of their ideological strife, and rent-seeking incentives have
+become more prominent. Third, FARDC (national army) units are the most prominent armed actors
+interfering in the mining business.
+While most DRC actors do recognize that considerable progress has been made over the past ten years
+in 3T supply chains, only very limited progress has been observed in gold (which makes up about 80% of
+the eastern DRC’s ASM sector). Despite progress in 3T, there is dissatisfaction among most stakeholders
+on mining reform, and on the implementation of responsible sourcing efforts in particular (traceability,
+CLS, etc.). This dissatisfaction however hardly seems to be heard. Mining reform and formalization are
+tools which can contribute to make mineral supply chains clean(er), but they do not tackle the root
+causes of most of the ongoing armed and non-armed conflicts in eastern DRC: they rather belong to
+the realm of symptom treatment. Fundamental causes of conflict should be dealt with by taking a
+holistic approach, taking into account all factors/drivers that potentially contribute to the conflict (e.g.
+economic competition for natural resources, social inequality, unfair economic practices, land issues,
+bad performance of technical state services, failing national administration) and acknowledging that
+several of these factors are interconnected (mining reform and formalization is linked to state service
+performance, state service performance is linked with national government performance).
+The link between conflict and mining has changed over time: many ongoing or emerging local conflicts
+are about land issues, about (perceived) social inequality between communities, about failing DDR
+programs. Many of these local conflicts persist because of bad governance, underperforming state
+services. To be successful, responsible sourcing initiatives should adopt a broader approach taking into
+consideration the above-mentioned multi-dimensionality, when designing due diligence programs.
+Clearly, local and national governance are key issues: mining reforms are now often instrumentalized
+by local (political) entrepreneurs, making them barely sustainable. Moreover, the implication of local
+elites in formalization processes can fuel economic and political competition, eventually deteriorating in
+(violent) conflicts.
+There is still an important regional dimension that contributes to the perpetuation of existing conflicts:
+neighboring countries still facilitate smuggling of illegally exploited natural resources in eastern DRC. The
+issues around governance and the regional dimension surpass the technical approaches that characterize
+most responsible sourcing initiatives. These efforts should be accompanied by strategies addressing the
+political dimension of the problem.
+International industrial and semi-industrial companies still bear a heavy responsibility: eager to
+generate huge profits, these companies exploit governance flaws, and do not always reckon with local
+sensitivities, neglecting rights, socio-economic situation, and grievances of local communities. This
+negligence triggers social tensions and unrest, and even armed resistance. In some cases, these companies
+even revert to contracting state security actors as private security agents, and as such contribute directly
+to the present-day ‘conflict minerals’ problem.
+36 37
+
+There is an urgent need for a profound, participative evaluation process that scrutinizes the ASM
+sector as a whole, and the performance and effectiveness of responsible sourcing initiatives in particular.
+In order to yield sustainable results, responsible sourcing initiatives must take into account the different
+dimensions and factors discussed in this paper, and must incorporate the broader range of issues that
+interface with conflict and mining: focusing only on one dimension (e.g. trying to guarantee clean supply
+chains), and ignoring historical, cultural, social, economic and political contexts in which ASM takes place
+in eastern Congo, is a recipe for failure.
+Over the next year, IPIS will develop a few in-depth case studies on conflict financing with USAID
+support. Through qualitative field research, we will further illustrate the complex web of dynamics that
+underlie specific mining conflicts in eastern DRC, notably how these conflicts emerge, evolve and persist.
+36 37
+
+6. BIBLIOGRAPHY
+• Agenonga Chober A. and G. Berghezan, La CODECO, au coeur de l’insécurité en Ituri, Brussels: GRIP, 2021
+• Autesserre S., The Trouble with the Congo: Local violence and the failure of international peacebuilding. New York: Cambridge University
+Press, 2010
+• Berman B., “Ethnicity, patronage and the African state: The politics of uncivil nationalism”, African Affairs, 97, 388 (1998), 305-341.
+• Bouvy A., I. Finnbbakk, J.-M. Mazio, E. Mongo, and F. Van Lierde, The FRPI peace process at an impasse. Lessons from a community-based
+and political approach to DDR in the Congo, Governance in Conflict Network: Insecurity Livelihoods Series, May 2021
+• COSOC-GL, La ruée vers l’or à Shabunda: Pratiques et impacts de l’exploitation minière par dragues, August 2015
+• Fahey D., Ituri. Gold, land, and ethnicity in North-Eastern Congo. Rift Valley Institute/Usalama Project, 2013
+• Global Witness, River of gold: Voices from Shabunda, December 2016
+• Global Witness, Briefing Omate: How a senior Congolese army officer receives a major slice of gold production from a mining company with
+consent of a court, 31 October 2017
+• HRW, DR Congo: Kidnappings skyrocket in east, Human Rights Watch, 16 December 2015, https://www.hrw.org/news/2015/12/16/dr­
+congo-kidnappings-skyrocket-east
+• Huguet A., “RDC: En Ituri sous état de siège une milice fait la loi sur son territoire”, La Libre, 21 January 2022
+• IPIS, The formalisation of artisanal mining in the Democratic Republic of the Congo and Rwanda, commissioned by the Center for
+International Forestry Research (CIFOR), 2012
+• IPIS, Analysis of the interactive map of artisanal mining areas in Eastern DR Congo, November 2013
+• IPIS, ‘Conflict Minerals’ initiatives in DR Congo: Perceptions of local mining communities, November 2013
+• IPIS, Roadblock rebels: IPIS maps important mechanism of conflict funding in Central Africa, December 2017: https://ipisresearch.be/
+roadblock-rebels-ipis-maps-important-mechanism-conflict-funding-central-africa/
+• IPIS, Mapping artisanal mining areas and mineral supply chains in eastern DR Congo Impact of armed interference & responsible sourcing, in
+collaboration with DIIS, April 2019
+• IPIS, Transparency and formalization of gold supply chains in Eastern Congo, Antwerp: IPIS, April 2020
+• IPIS, Analyse quantitative du secteur minier artisanal dans la region Bamuguba-Nord (Shabunda, Sud Kivu), Internal report, October 2020
+• IPIS, Persistent violence in gold-rich Ituri province, DR Congo: Root causes and impact on local populations, IPIS Briefing, August 2020
+• IPIS, Conflict analysis and stakeholder mapping in South Kivu and Ituri, commissioned by Madini project, April 2021
+• IPIS, Grievance, governance and gold in the eastern Congo, IPIS Briefing, December 2021 – January 2022
+• Kivu Security Tracker, The landscape of armed groups in Eastern Congo: Missed opportunities, protracted insecurity and self-fulfilling
+prophecies, February 2021
+• Kivu Security Tracker, In Ituri Province the FARDC are unable to distinguish CODECO militias from civilians, 15 November 2021
+• Le Billon P., Wars of Plunder: Conflicts, profits and the politics if resources, 2012
+• Lezhnev S., Conflict gold to responsible gold: A roadmap for companies & governments, The Sentry, February 2021, p. 12
+• Matthysen K. et R. Wangachumo, Des brouillards et de la fumée sur Osso: Prototype d’un système opaque de l’exploitation semi-industrielle de
+l’or à Walikale, PAX, LPI and IPIS, 2015
+• Martin A., A Golden Web, IMPACT, November 2019
+• Musamba J. and C. Vogel, The problem with “conflict minerals”, 21 October 2021, https://www.dissentmagazine.org/online_articles/the­
+problem-with-conflict-minerals
+• Mwetaminwa J. and T. Vircoulon, Un scandale sino-congolais. L’exploitation illégale des minerais et des forêts par les entreprises chinoises au
+Sud-Kivu, IFRI, February 2022
+• Neumann M. et al., Traceability in artisanal gold supply chains in the Democratic Republic of the Congo: Lessons learned from the Kampene Gold
+Pilot Project, BGR, March 2019
+38 39
+
+• Nyenyezi Bisoka A., K. Vlassenroot, and H. Hoebeke, The limits of President Tshisekedi’s security strategy in the Democratic Republic of Congo,
+LSE, 28 April 2020, https://blogs.lse.ac.uk/crp/2020/04/28/the-limits-of-president-tshisekedis-security-strategy-in-the-democratic­
+republic-of-congo/
+• OECD, OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas: Second Edition, 2013
+• PRG, IPIS, SFR and Ulula, Evaluating due diligence programs for conflict minerals: A matched analysis of 3T mines in Eastern Congo, Los Angeles/
+Antwerp, November 2020
+• Save Act Mine, Le commerce illicite de l’or dans la region des Grands Lacs finance les groups armés à l’est de la RDC, Goma, April 2021
+• Schouten P., J. Murairi, and S. Kubuya, “Everything that moves will be taxed”: The political economy of roadblocks in North and South Kivu. IPIS/
+DIIS/ASSODIP, November 2017
+• Sofala Partners and BetterChain, The barriers to financial access for the responsible minerals trade in the GLR, commissioned by Public-Private
+Alliance for Responsible Minerals Trade (PPA), April 2019
+• Sungura A., N. Ndeze, M. Mbamba, H. Rugambwa, and L. Kitonga, Politics of the past and the present: The changes and continuities of conflict
+in eastern Congo’s Petit Nord-Kivu, Insecure Livelihoods Series, CRG, GEC-SH, GIC, May 2021
+• Turner, T., Congo wars: Conflict, myth and reality. London/New York: Zed Books, 2007
+• UN Group of Experts reports:
+• Report of the Panel of Experts on the illegal exploitation of natural resources and other forms of wealth of the Democratic Republic of Congo,
+12 April 2001, UN Doc. S/2001/357
+• Final report of the UN Group of Experts on the DRC, 7 June 2019, S/2019/469
+• Final report of the UN Group of Experts on the DRC, 2 June 2020, S/2020/482
+• Final report of the UN Group of Experts on the DRC, 10 June 2021, S/2021/560
+• Vermeersch P., Theories of ethnic mobilization: Overview and recent trends, Leuven: CRPS Working paper No. 3, 2011
+• Verweijen J. and J. Brabant, “Cows and guns: Cattle-related conflict and armed violence in Fizi and Itombwe, eastern DR Congo”, The Journal
+of Modern African Studies, 55, 1 (2017), 1-27
+• Verweijen J., Shedding light on why mining companies in eastern Congo are under attack, The Conversation, 30 august 2017
+• Verweijen J., Why violence in the South Kivu Highlands Is not ‘ethnic’ (and other misconceptions about the crisis), KST, 31 August 2020: https://
+blog.kivusecurity.org/why-violence-in-the-south-kivu-highlands-is-not-ethnic-and-other-misconceptions-about-the-crisis/
+• Vircoulon T., Ituri: Résurgence du conflit et échec de la politique de consolidation de la paix, IFRI, June 2021
+• Vlassenroot K. “Land and conflict: The case of Masisi”. In K. Vlassenroot and T. Raeymaekers (Eds.), Conflict and social Transformation in
+eastern DR Congo, Ghent: Academia Press Scientific Publishers, 2004
+• Vlassenroot K., S. Perrot, and J. Cuvelier, “Doing business out of war: An analysis of the UPDF’s presence in the Democratic Republic of
+Congo”, Journal of Eastern African Studies, 6, 1 (2012), 2-21
+• Vlassenroot K., E. Mudinga and J. Musamba, “Navigating social spaces: Armed mobilization and circular return in Eastern Congo”, Journal
+of Refugee Studies, 33, 4 (2020), 832-852
+• Vogel C. and J. Musamba, Recycling rebels? Demobilization in the Congo. Rift Valley Institute, PSRP Briefing Paper 11, March 2016
+• Vogel C. and J. Musamba, “Brokers of crisis: The everyday uncertainty of Eastern Congo’s mineral négociants”, Journal of Modern African
+Studies, 55, 4 (2017), 567-592
+• Wakenge C.I., Prédation et violence à huis-clos: Artisanat minier et dynamiques des conflits à Fizi, Kalehe et Shabunda (Sud-Kivu, RD Congo),
+October 2020
+• Wakenge C.I., M.-R. Bashwira Nyenyezi, S.I. Bergh, and J. Cuvelier, “From ‘conflict minerals’ to peace? Reviewing mining reforms, gender,
+and state performance in eastern Democratic Republic of Congo”, The Extractive Industries and Society, 8, 2 (2021)
+• Wakenge C.I., D. Dijkzeul, and K. Vlassenroot, “Regulating the old game of smuggling? Coltan mining, trade and reforms in the Democratic
+Republic of the Congo”, Journal of Modern African Studies, 56, 3 (2018), 497-522
+• Wennmann A., “The political economy of conflict financing: A comprehensive approach beyond natural resources”, Global Governance, 13
+(2007), 427-444
+• Wennmann A., “Economic dimensions of armed groups: profiling the financing, costs, and agendas and their implications for mediated
+engagements”, International Review of the Redd Cross, 93, 882 (2011), 333-352
+38 39
+
+21/0234/2202/D
+I
+ODAKAS
+:tuoyaL
+I
+neprewtnA
+0002
+,A89
+ielëilatI
+,SIPI
+,ruetceriD
+,sreinyeR
+piliF
+.U.V
+Independent research and
+capacity building for durable peace,
+sustainable development
+and human rights

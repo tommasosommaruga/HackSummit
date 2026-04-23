@@ -1,0 +1,1048 @@
+June 2023
+December 2021
+China’s rare earths dominance
+and policy responses
+CHINA
+CHINA
+Philip Andrews-Speed, Senior Research Fellow, OIES
+OIES PAPER: CE7
+Anders Hove, Senior Research Fellow, OIES
+OIES PAPER: ET06
+Anders Hove, Research Associate, OIES
+
+The contents of this paper are the authors’ sole responsibility. They do not
+necessarily represent the views of the Oxford Institute for Energy Studies or any of
+its members.
+Copyright © 2023
+Oxford Institute for Energy Studies
+(Registered Charity, No. 286084)
+This publication may be reproduced in part for educational or non-profit purposes without special
+permission from the copyright holder, provided acknowledgment of the source is made. No use of this
+publication may be made for resale or for any other commercial purpose whatsoever without prior
+permission in writing from the Oxford Institute for Energy Studies.
+ISBN 978-1-78467-208-9
+With funding support from the Ministry of Defence, UK
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views
+of the Oxford Institute for Energy Studies or any of its Members.
+i
+
+Executive summary
+ The rare earth elements (REEs) comprise a group of 17 elements. Whilst not geologically rare, their
+extraction and processing are complex, expensive, and environmentally hazardous.
+ The REEs have many uses that make them especially valuable to the energy and defence
+industries, notably in the manufacture of energy storage, permanent magnets, catalysts, and lasers.
+ China has achieved dominance of REE production and processing through a combination of early
+moves into the industry, state investment along the supply chain, export controls, low labour costs,
+and decades of weak environmental regulation that enabled illegal mines and processing plants.
+ Demand for REEs is expected to continue to rise dramatically through 2030 and beyond, driven by
+their use in permanent magnets for electric vehicle (EV) motors (including hybrid vehicles) and wind
+turbines.
+ Alternative technologies could substitute or reduce REE consumption in both EV and wind turbine
+drives. These include improved materials utilization and lower waste, hybrid drives with smaller
+permanent magnets, and improving the cost and performance of motors and magnet technologies
+without REE.
+ Given the potential of these options, the future demand for REE is subject to high uncertainty, and
+will likely depend partly on policy support for reducing REE demand, as well as on market conditions
+such as prices and supply disruptions.
+ These uncertainties on the demand side exacerbate supply-side challenges: investments in mining
+require long lead times as well as hard-to-find skilled workforce, among other issues.
+ Driven by the desire to reduce supply chain risks and enhance national security, efforts are
+underway in Europe and the USA to reduce China’s 90 per cent dominance of REE processing,
+which include diversifying REE demand by increasing recycling, enhancing the performance of low-
+REE permanent magnets, and expanding processing capabilities in other countries.
+ While 2023 could mark a turning point in light of these efforts, China is virtually certain to remain
+the global leader in processing REEs through 2030, given the scale of its existing processing
+industry and position in global battery and electronics supply chains.
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views
+of the Oxford Institute for Energy Studies or any of its Members.
+ii
+
+Contents
+Executive summary ................................................................................................................................. ii
+Contents ................................................................................................................................................. iii
+Figures ................................................................................................................................................... iii
+Tables ..................................................................................................................................................... iii
+1. Introduction ......................................................................................................................................... 1
+2. REE geology, mineralogy, reserves, production, and processing ...................................................... 1
+3. How did China achieve pre-eminence in mining and processing? ..................................................... 3
+4. Rare earth prices ................................................................................................................................. 7
+5. Demand for rare earths ....................................................................................................................... 8
+6. What steps are other countries taking on REEs? ............................................................................. 13
+7. Conclusions ....................................................................................................................................... 16
+Bibliography .......................................................................................................................................... 17
+Figures
+Figure 1: Share of top five countries in critical element extraction and processing (not limited to REE),
+2019 ........................................................................................................................................................ 4
+Figure 2: Share of top countries in REE processing for permanent magnets, 2019 .............................. 4
+Figure 3: REE consumption by mass and application, 2020 .................................................................. 8
+Figure 4: Forecasts of neodymium demand by application, 2018–2030, low (left) and high (right)
+scenarios ............................................................................................................................................... 11
+Figure 5: Forecasts of dysprosium demand by application, 2018–2030, low (left) and high (right)
+scenarios ............................................................................................................................................... 12
+Tables
+Table 1: Expected magnets contained in global demand for selected NdFeB magnet applications,
+thousand tonnes ...................................................................................................................................... 9
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views
+of the Oxford Institute for Energy Studies or any of its Members.
+iii
+
+1. Introduction
+Rare earth elements (REEs) are key to the global energy transition as they are used in a variety of
+applications in energy storage and permanent magnets (alongside defence applications). Demand for
+REEs is expected to rise dramatically through 2030, driven by their use in permanent magnets for
+electric vehicle (EV) motors (including hybrid vehicles) and wind turbines. Consumer electronics, optics,
+and lasers also consume REEs, but demand in these non-energy fields is not expected to grow as
+substantially.
+China currently dominates REE production and processing. The country is home to some of the most
+productive and lowest-cost REE-containing geological formations, which the government has been
+developing since the 1970s. China has encouraged domestic mining as well as processing of REEs,
+while also consolidating the domestic industry. The growth in Chinese domestic manufacturing of
+magnets, EV batteries, and wind turbines has further contributed to China’s dominance of the full REE
+supply chain.
+With rising tensions between China and the USA, and following the Russian invasion of Ukraine, fears
+of supply chain fragmentation and concerns around resource supply security have heightened.
+Although there have been discussions and analyses of China’s dominance of REEs in the past,
+highlighted by an export ban by China in 2010, policy actions have accelerated more significantly in
+recent years. Efforts to reduce Chinese dominance of REEs in the West have included designating
+REEs as a critical material, streamlining approval processes for REE extraction, offering loans and
+other subsidies for REE processing, reducing the REE content of various devices, forming coalitions of
+countries working to expand production or processing outside China, and increasing information
+sharing.
+This report looks to unpack China’s dominance across the REE supply chain. It asks what are the
+conditions under which China will remain a significant actor in mining and processing through 2030,
+and describes the technology and policy developments that have the potential to reduce China’s
+dominance.
+It argues that despite efforts to counteract China’s dominance of REE supplies, China is likely to remain
+critical to REE supply chains through 2030. However, 2022 and 2023 may represent a turning point, as
+the passage of the Inflation Reduction Act (IRA) in the USA and the Critical Minerals Act in the European
+Union clearly indicate a greater commitment of like-minded countries to diversify away from Chinese
+REEs.
+2. REE geology, mineralogy, reserves, production, and processing
+The REEs comprise a group of 17 elements, the 15 lanthanides plus scandium and yttrium. They have
+been classified into two groups. The light REEs (LREEs) are relatively common compared to the heavy
+REEs (HREEs). Whilst not geologically rare, their extraction and processing are complex, expensive,
+and environmentally hazardous.
+The REEs have many uses that make them especially valuable to the energy and defence industries,
+notably in the manufacture of energy storage, permanent magnets, catalysts, and lasers. By
+consumption volume, neodymium is largest and likely to be the most rapidly growing REE. Four REEs
+are in notably high demand and therefore fetch a price significantly higher than the others. These are
+two HREEs (terbium and dysprosium) and two LREEs (praseodymium and europium)1.
+Rare earth elements occur in a variety of geological settings, but these settings tend to be rather
+unpredictable and are sometimes poorly understood2. Most commercial or potentially commercial
+accumulations of REEs lie in alkaline plutonic rocks, especially in carbonatites. This is the setting for
+1 McNulty et al. (2022).
+2 Long et al. (2010).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the
+Oxford Institute for Energy Studies or any of its Members 1
+
+the Bayan Obo mine in China’s Inner Mongolia, and the Mountain Pass mine in California, USA. The
+REEs can also be concentrated in surface layers resulting from the weathering of underlying rocks such
+as laterites and bauxites. This is the case in Australia’s Mount Weld mine and the Zhaibei deposit in
+southern China. These elements may also occur in river or marine placer deposits, or in the tailings
+from uranium mines. The Japanese have discovered REEs in deep seabed muds. Most types of REE
+accumulation yield mainly LREEs and a much small quantity of HREEs. This is due to fractionation in
+the cooling magma bodies. The notable exceptions are the clays of China’s Zhaibei deposit and the
+deep seabed muds off the coast of Japan.
+The mineralogy of REE ores is highly variable, often complex, and a key factor in the processing of the
+ores. Many minerals contain REEs, but bastnasite, monazite, and xenotime contribute almost 95 per
+cent of REE reserves, with the exception of deposits in clays and weathered crusts3. Processing is
+much cheaper and simpler for deposits in which the REEs are concentrated in a single mineral.
+The scale of proven reserves of REEs across the world is very large—more than 400 times the current
+annual production4. These proven reserves occur on all populated continents, with China, Russia,
+Brazil, and Vietnam accounting for about 83 per cent of the total. Many REE deposits have been
+identified but not yet properly evaluated, notably in Africa.
+Production of REEs is even more highly concentrated than the reserves, with China accounting for an
+estimated 70 per cent of global production in 2022. Far behind were the USA with 14.3 per cent and
+Australia with 6.0 per cent. Three countries in southeast Asia (Thailand, Vietnam, and Myanmar)
+together produced another 7.7 per cent5. The remaining countries accounted for just 2 per cent of global
+REE output. Importantly, the only producing deposits rich in HREEs lie in China. A number of countries
+are looking to develop their REE reserves (discussed below), but this is unlikely to fundamentally alter
+China’s dominance over the period to 2030, given the length of time needed to commission REE mines
+and the challenges around processing.
+Rare earth element ores are highly variable in their mineralogy and chemistry. As a result, the
+processing techniques required to isolate and refine the REEs have to be designed specifically for each
+deposit. Nevertheless, there are generally five main steps to the production of rare earth metals from
+the original host rock6.
+1. Beneficiation involves crushing the rock followed by separating the rare earth oxides from other
+minerals by froth flotation, magnetic separation, electrostatic or gravity separation, or a
+combination of these processes. For example, the plant at the Bayan Obo mine in northern
+China uses gravity separation and froth flotation. Beneficiation increases the concentration of
+rare earth minerals from 1–10 per cent in the rock to commonly 50–60 per cent. This process
+is normally carried out close to the mine. The resultant concentrate can then be transported to
+a plant for further rare earth oxide separation and refining.
+2. Chemical treatment, ‘cracking’, of the rare earth oxides to produce what is called a ‘pregnant
+leach solution’. This commonly used process involves baking and acid digestion, as at Bayan
+Obo, though some plants use alkaline fluids. The southern Chinese clay deposits require only
+weak acids.
+3. The rare earth oxides are then precipitated by dewatering.
+4. The final step of separation aims to produce rare earth oxides with 99 per cent purity. This can
+involve one of five techniques: supercritical fluid, biosorption, electro-winning, solvent
+extraction, or ion exchange. The simplest is solvent extraction followed by precipitation.
+3 Suli et al. (2017).
+4 US Geological Survey (2023).
+5 US Geological Survey (2023).
+6 McNulty et al. (2022).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 2
+Oxford Institute for Energy Studies or any of its Members
+
+5. The final stage is refining of the ores to produce rare earth metals by electrowinning or
+electrochemical methods. Further purification to as high as 99.9 per cent rare earth metal is
+achieved by zone refining and electro-transport.
+There are only two countries with significant REE processing capacity: China and Malaysia. China
+dominates this market, accounting for 90 per cent of rare earth metal production in 20197. Most
+companies that mine REEs send their ores (after beneficiation) to China. The major exception is Lynas,
+which has built a processing plant in Malaysia to which it sends rare earth ores from its Mount Weld
+mine in Australia. Estonia has a small facility8, and France hosts a plant for recycling REEs9. As a result,
+the concentrates from many rare earth mines are transported to overseas locations for separation and
+refining.
+The reason for the small number of separation and refining plants is that they account for as much as
+80 per cent of the capital costs of the entire mine-to-metal supply chain, and 50–75 per cent of the
+operating costs10. The operating costs are highly variable and dependent on the costs of energy,
+reagents, and labour. Preferred locations are close to transportation infrastructure, cheap electricity,
+and producers of chemicals, and have access to a supply of natural gas11. Environmental regulations
+will also affect the capital and operating costs.
+Both the mining and processing of REEs produce hazardous materials that pose risks to the
+environment and human health. They also produce vast quantities of waste. One source estimated that
+the production of 1 tonne of rare earth metal produces 2,000 tonnes of solid waste12. The nature and
+scale of pollutants produced varies along the process chain from mining to metal production13. In
+contrast to the hard rock accumulations, REEs in clay deposits are leached in situ with large quantities
+of ammonium sulphate, which can remain in soil and contaminate groundwater unless pumped off and
+treated or recycled. The nature and scale of pollutant production varies not just along the supply chain
+but also between REE accumulations. Techniques have been developed to reduce the scale of pollution
+through emissions treatment or recycling, but their application is not uniformly employed14.
+3. How did China achieve pre-eminence in mining and processing?
+China achieved its pre-eminence in REE mining and processing through a combination of early moves
+into the industry, state investment along the full length of the supply chain, export controls, low labour
+costs, and decades of weak environmental regulation and illegal mines and processing plants.
+China’s first discovery of REEs was made in 1927 at Bayan Obo in Inner Mongolia, and production
+started in the 1950s. The Bayan Obo mine is now the world’s largest REE mine. The 1960s saw other
+discoveries in Shandong and Sichuan Provinces. Exploration in southern China revealed REE
+accumulations in clays in southern Jiangxi, Guangdong, Fujian, Hunan, and Guangxi. Realizing the
+importance of these discoveries, the State Council established a National Rare Earth Development and
+Application Leading Group in 1975. Thereafter, the government steadily ramped up research and
+development funding for mining and processing, and by the late 1980s China had become a major
+producer. Further investment in REE refining and processing followed in the 1990s that improved the
+quality of refined metal and reduced costs. By then, China was exporting rare earth metals in large
+quantities and at low prices, causing other producers to close or reduce output15.
+7 IEA (2021).
+8 Jiyeong Go (2022).
+9 Warmington (2023); Atkins (2023).
+10 Sykes (2013).
+11 Sykes (2013).
+12 McNulty et al. (2022).
+13 Zapp et al. (2022).
+14 Zapp et al. (2022).
+15 Aguiar de Medeiros and Trebat (2017); Kalantzakos (2018); Shen et al. (2020).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 3
+Oxford Institute for Energy Studies or any of its Members
+
+Figure 1: Share of top five countries in critical element extraction and processing (not limited
+to REE), 2019
+Source: IEA (2021)
+Figure 2: Share of top countries in REE processing for permanent magnets, 2019
+Source: US Department of Energy (2022)
+In 1990, the Chinese government classified REEs as ‘protected and strategic minerals’. This meant that
+foreign companies were excluded from mining REEs and could only process them in joint ventures with
+Chinese enterprises, subject to government approval16. Increasing its control over the industry, the
+government introduced quotas for exports of REEs in the early 2000s that were steadily reduced. In
+2005, these were supplemented by production quotas, a ban on the export of rare earth concentrates,
+and the imposition of an export tax on rare earth oxides and metals17.
+The mining and processing of REEs were having severe environmental and health impacts due to a
+combination of weak regulation, outdated techniques, and illegal mining18. At Bayan Obo, beneficiation
+was releasing water containing 5 per cent radioactive thorium and high concentrations of other
+pollutants. The high rate of leakage from the tailings dam was due to the absence of a lining. In addition,
+16 Kalantzakos (2018).
+17 Aguiar de Medeiros and Trebat (2017); China State Council (2005).
+18 Kalantzakos (2018).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 4
+Oxford Institute for Energy Studies or any of its Members
+
+the workers were suffering from a range of health problems19. Whilst China’s large processing plants
+had installed scrubbers to clean up the acidic gases released by the cracking process, many small- and
+medium-scale plants may not have done so20. A study in the city of Baotou near the Bayan Obo mine
+revealed that citizens’ hair contained significantly enhanced concentrations of potentially toxic
+elements21.
+The environmental damage was much greater in southern China, where REEs were being extracted
+from clays by in situ leaching and where many mines were illegal. The low recovery of REEs from
+leaching had led to high concentrations of REEs in tailings which had then leaked into rivers and soils,
+reducing their acidity22.
+In response to the rising concern over excessive capacity in mining and processing, pollution, and poor
+resource management, in 2010 the government announced a plan to consolidate the industry. The
+number of mines would be reduced from 123 to fewer than ten, and the number of processing plants
+from 73 to 2023. A wider strategy to reform the REE industry was set out by the State Council in 2011
+and 201224. Priorities included:
+ Controlling the capacities of rare earth mining and processing, and improving controls over rare
+earth exports;
+ Merging companies into a small number of dominant enterprises whilst removing
+technologically backward enterprises;
+ Improving technological and environmental standards, and imposing more efficient resource
+and environmental taxes;
+ Encouraging technological development in the downstream industry;
+ Improving coordination between different ministries, different levels of government, and
+industry;
+ Completing the legal and regulatory systems for rare earths.
+Further consolidation to just six enterprises carrying out mining and processing was announced in 2015.
+As part of the government’s efforts to clamp down on illegal mining and trade of REEs within China, the
+Ministry of Commerce in 2010 reduced the quota by 37 per cent from that in 2009 to 30,259 tonnes, a
+level that was less than half of that in 2005. The quota declined by a further 15 per cent in 2011, with
+HREEs being distinguished from LREEs for the first time. The government also introduced quotas for
+mining and processing, as well as starting to build REE strategic reserves. The government also
+increased the tax imposed on exports of rare earth ores, oxides, and compounds, and for the first time
+introduced an export tax on end products. These strategies resulted in a reduction of the share of
+production being exported from 90 per cent in 2000 to 20 per cent in 201225.
+The government also reformed its resource tax in a bid to extract more fiscal revenues from the sector.
+Historically, China’s resource taxes were based on the quantity of mineral extracted. After a substantial
+increase in 2011, the tax rates were Yuan 60/tonne (US$9.20/tonne) for LREE ore and Yuan 30/tonne
+(US$4.60/tonne) for HREE ore. In 2015, the government transformed resource tax to be based on
+value, following international practice. For rare earth concentrates, the tax rates were 11.5, 9.5, and 7.5
+per cent of sales value for Inner Mongolia, Sichuan, and Shandong, respectively, and 27 per cent for
+19 Zapp et al. (2022); Nayar (2021).
+20 Zapp et al. (2022).
+21 Lijun Dai et al. (2022).
+22 Wen-shen Liu et al. (2019); Qiuying Zhang et al. (2020).
+23 Zhang Qi (2010).
+24 China State Council (2011); People’s Republic of China (2012).
+25 Kalantzakos (2018); Shen et al. (2020).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 5
+Oxford Institute for Energy Studies or any of its Members
+
+HREEs. This change reduced not only the profits of the large state-owned enterprises, but also their
+competitiveness with illegal enterprises which avoided paying the tax26.
+In 2016, the Ministry of Industry and Information Technology issued a Rare Earth Industry Development
+Plan (2016–2020).27 It noted a number of achievements during the previous Five-Year Plan period
+related to industrial consolidation. The six REE industrial groups had integrated 22 of the 23 mining
+enterprises, and 54 of the 59 processing enterprises. The annual capacity of small-scale processing
+enterprises had been reduced from 400,000 to 300,00 tonnes, and a large number of illegal mines and
+processing plants had been closed. Measures to improve environmental protection included fully
+enclosing the mining area and tailings pond at Baiyun Obo, and enhancing management of the
+exploitation of clays in southern China. Finally, a system to trace the mining and processing of rare
+earths had been created. Remaining challenges included the persistence of illegal mining, trading and
+processing, and overcapacity of REE mining and processing, all resulting in low prices for REE
+products. The plan called for the strengthening of resource management and environmental protection
+in both mining and processing, further industry consolidation, and the promotion of overseas resource
+exploitation. Downstream, the plan emphasized the need for innovation and industrial development in
+products such as magnets, hydrogen storage, catalysts, and alloys. Targets for the period 2015–2020
+included:
+ Improving industry profitability from 5.8 per cent to 12.0 per cent;
+ Improving expenditure on R&D by key enterprises from 3 per cent of operating costs to 5 per
+cent;
+ Reducing separation and smelting capacity from 300,000 tonnes to 200,000 tonnes, and at the
+same time increasing output from 100,000 tonnes to up to 140,000 tonnes;
+ Enhancing recovery rates for mineral processing, and for separation and smelting;
+ Reducing the proportion of rare earth materials for products to be exported, and increasing the
+market share of high-end products and devices.
+The National Mineral Resources Plan (2016–2020) addressed many of the same upstream topics. In
+addition, it reiterated that REEs were strategic minerals that required careful monitoring and an early
+warning mechanism.28 However, the classification of REEs as being of strategic importance reflects the
+advantages China’s abundant resource base brings to the country, rather than the nation’s dependence
+on imports29. The National Mineral Resources Plan identified 24 national mining planning areas for
+REEs, and six REE energy resources bases (Inner Mongolia, Sichuan, Jiangxi, Hunan, Guangxi, and
+Fujian) which would account for 80 per cent of REE production by 202030.
+Further industry consolidation was announced in December 2021, reducing the number of major players
+in REE mining and processing from six to four. The new China Rare Earth Group would control about
+70 per cent of the nation’s REE production31. A draft of Regulations on the Administration of Rare Earths
+published in January 2021 addressed many of the governance challenges raised by earlier documents
+and reflected tightening state control over the industry32.
+By 2020, the output of China’s REE mines had reached 140,000 tonnes, up from 105,000 tonnes over
+the period 2014–2017. The share of world output of REE mines was then 58 per cent, down from 92
+per cent in 2010. In contrast, China’s share of REE processing capacity amounted to 90 per cent of the
+global total. Output from mines continued to rise to 168,000 tonnes in 2021, of which 148,850 tonnes
+was from ores in rocks, and 19,150 tonnes was from HREE-rich clays. The total processing output
+26 Shen et al. (2020).
+27 MIIT (2016).
+28 Ministry of Natural Resources (2016).
+29 Andersson (2020).
+30 Ministry of Land and Resources (2016).
+31 Sun Yu and Mitchell (2021).
+32 MIIT (2021).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 6
+Oxford Institute for Energy Studies or any of its Members
+
+amounted to 162,000 tonnes33. By 2022, China’s REE mine production had risen again to 210,000
+tonnes, 70 per cent of the global total. Output is likely to rise again in 2023 in response to increasing
+domestic demand, as ‘first batch quotas’ for mine output and for smelting and separation were both
+raised by 20 per cent34.
+The scale of China’s international trade in rare earth products has fluctuated greatly. Exports of REE
+compounds and metals rose from 34,832 tonnes in 2015 to peak at 53,031 tonnes in 2018, before
+declining to 35,448 tonnes in 2020. Imports of REE ores rose from 10,666 tonnes in 2015 to peak at
+70,600 tonnes in 2018, and then declined to 47,641 tonnes in 202035. Both exports and imports of rare
+earth oxides declined substantially during 202236, and exports declined further in the first three months
+of 202337.
+Neither the 14th Five-Year Plans nor the 2023 government Work Reports directly address REEs. In the
+short term, the government’s focus is likely to remain on improving enterprise management and meeting
+domestic REE demand. Imports of REE ores are likely to remain high as growing overseas processing
+capacity is unlikely to keep pace with rising demand due to long lead times. In contrast, exports of REE
+compounds and metals are unlikely to rise significantly, and may even decline as domestic demand
+grows. Reports are circulating that China may even ban the export of certain rare earth metal
+technologies, such as magnets, in retaliation for the US ban on semiconductor exports38.
+4. Rare earth prices
+Given China’s outsized role in REE supply chains, prices are heavily impacted by policy and market
+changes in the country. That said, unlike prices for major global commodities, prices of REEs are
+assessed and reported by a small number of firms. Frequent and transparent price assessments are
+therefore hard to come by. The price discovery process is still nascent and there is no widely used
+public exchange for rare earths. Firms such as Argus and Benchmark Minerals release price
+assessments based on surveys of traders, consumers, and other market participants. Analyst firms and
+pricing forums such as Adamas Intelligence, Stormcrow Capital, Technology Metals Research and
+Asian Metal also offer rare earth price assessments.
+Publicly available data are anecdotal but point to volatility, including a number of spikes in REE prices
+over the past 15 years, reflecting both policy and market dynamics due to the high concentration in the
+market. In turn, price volatility has contributed to concern among policy makers about the resilience of
+supply chains dependent on rare earths from China. Market volatility and limited visibility around future
+prices make investments in technology and manufacturing less attractive as firms may have difficulty
+operating profitably. What is more, with limited substitutable materials and technologies, users of
+materials and magnets struggle to respond quickly to high price environments, while technological
+substitutions that eventually occur under sufficiently high prices can lead to swings in demand and
+reduced performance39.
+Rare earths have experienced two major price spikes over this period, both related to China. The first
+and most extreme spike occurred in 2010–2011, and resulted from China’s decision to restrict rare
+earth exports and clamp down on illegal mining. More recently, prices spiked again in 2021–2022 as a
+result of Covid-related bottlenecks and market perceptions of rising demand from clean energy.
+Generally, price volatility has tended to occur across the various REEs, reflecting the concentration of
+supply in China and the extraction of many REEs from the same ores. Prices for neodymium have
+33 Avic Securities (2022).
+34 Global Times (2023).
+35 Avic Securities (2022).
+36 SMM (2022).
+37 Reuters (2023).
+38 Oki (2023).
+39 US Department of Energy (2022).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 7
+Oxford Institute for Energy Studies or any of its Members
+
+ranged between US$50/kg and US$280/kg since 2011. The high occurred in early 2022 at the height
+of global supply chain interruptions related to Covid. Current prices are around US$80/kg. Dysprosium
+currently trades at roughly US$528/kg, up from US$238/kg in 2018. Dysprosium has shown higher
+volatility than neodymium, rising from a low in 2003 of US$28.50/kg to a peak price of US$3,410 in
+early 2011, at the height of fears around Chinese supply. Praseodymium and terbium prices surged
+threefold and sevenfold in 2022, before slipping back slightly40. Spot markets exist for various rare earth
+metal oxides, including on the Shanghai Metals Exchange, as well as in two dedicated rare earth
+exchanges in Jiangxi and Inner Mongolia, China41. Understanding these markets, as well as the price
+discovery process, is an important area for future research.
+5. Demand for rare earths
+Demand for REEs is expected to rise strongly for the next several decades, driven mainly by demand
+for permanent magnets in wind turbines and EV motors. For key drivers of demand—permanent
+magnets in wind turbines and EV motors—there are no direct substitutes for REE that offer similar
+performance characteristics. However, technology options exist for reducing demand, especially in the
+EV space, albeit with cost and efficiency trade-offs. Due to substitution and adoption of alternative
+technologies, demand for manganese, cobalt, and other critical materials has already fallen short of
+expectations42.
+Each REE has a distinct set of end-uses, with varying demand growth expectations. Demand for
+neodymium and dysprosium is linked to the growth in demand for permanent magnets in wind turbines
+as well as in EV motors. Although demand for REEs is also strong in consumer electronics (such as for
+hard drives) and in industrial motors, these sectors are not expected to account for substantial demand
+growth43. Demand for other elements is driven by lasers and glass fibres for communications and
+military purposes44.
+Figure 3: REE consumption by mass and application, 2020
+Source: Gielen and Lyons (2022)
+40 tradingeconomics.com, Neodymium; Strategic Metals Invest (2023).
+41 Reuters (2020).
+42 For example, the forecasted 2030 demand for cobalt to supply EV batteries has fallen by 60 per cent since 2019 (Bullard,
+2023).
+43 US Department of Energy (2022).
+44 Goodenough et al. (2018).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 8
+Oxford Institute for Energy Studies or any of its Members
+
+Table 1: Expected magnets contained in global demand for selected NdFeB magnet
+applications, thousand tonnes
+Source: US Department of Energy (2021)
+The International Energy Agency forecasts that under its Sustainable Development Scenario (SDS),
+REE demand from clean energy will rise sevenfold between 2020 and 2040. Under the SDS, overall
+neodymium demand rises from 30,000 tonnes in 2020 to over 90,000 tonnes in 2040, with demand
+from -EV batteries, and wind turbines accounting for 40 per cent of demand. Demand for REEs from
+wind turbines, driven by neodymium demand for permanent magnets, will rise from 4,000 tonnes in
+2020 to 12,000 tonnes in 2040, but increased adoption of alternative technologies could reduce this to
+8,000 tonnes. Neodymium demand for EV motors rises fifteenfold, from under 2,000 tonnes to over
+25,000 tonnes under the SDS45.
+Given the long lead times for potentially expanding rare earths extraction and processing capability,
+and the absence of substitutes, this increase in demand is anticipated to result in a shortage of REEs,
+even assuming that industry continues to pursue various avenues for reducing REE consumption. The
+uncertainty around the scale and scope of demand—and the potential for technological gains to change
+the outlook materially—also impacts investments. This is compounded by the long lead times to develop
+the mines, and the complexity of processing.
+On the EV side, a 2023 analysis found that meeting the International Energy Agency’s EV and clean
+energy capacity forecasts will require EV manufacturers to substantially reduce REE consumption by
+adopting traction motors without REE 46 . Various announcements from vehicle and battery
+manufacturers suggest that recent high prices are leading automakers to undertake greater efforts to
+avoid REE consumption. Tesla announced in March 2023 that its new vehicle motors would be free of
+REEs 47. Tesla’s announcement alone would reduce REE demand by 3–4 per cent if fully
+implemented48. Audi, BMW, Mercedes, and Renault have opted for other designs, and have made
+progress to improve performance and avoid limitations of non-permanent magnet motors49.
+These developments on the EV side, in which various companies opt for a variety of motor design with
+and without REEs, match the expectations of a 2017 study of potential REE substitutes in EV motors50.
+45 IEA (2021).
+46 Severson et al. (2023).
+47 Loveday (2023).
+48 Hui (2023).
+49 Edmondson (2023).
+50 Pavel et al. (2017).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 9
+Oxford Institute for Energy Studies or any of its Members
+
+While motors with permanent magnets offer the greatest range and performance advantage over
+alternatives, especially for urban driving, lower-priced and lower-range vehicles may opt for alternatives.
+Permanent magnets used in wind turbines tend to contain 2.7–3.4 tonnes of REEs per turbine,
+compared to just 2–4 kg per EV. The large amount and proportion of REE in wind turbines helps the
+economics of recovering REEs for end-of-life recycling. Permanent magnets are limited to the largest
+turbines, especially offshore turbines, due to their greater efficiency, longer life, and lower maintenance
+requirements51. The NdFeB permanent magnet has a stronger magnetic field than alternatives,
+reducing the weight and dimensions of large turbines. No external power system is needed, resulting
+in greater efficiency and simpler design.
+China presently dominates the manufacturing of permanent magnets, both for the highest-performing
+sintered NdFeB magnets as well as for bonded NdFeB magnets. NdFeB technology was developed in
+1983 by General Motors and Sumitomo Corp. While both companies produced permanent magnets in
+the USA for several years, high costs and the closure of the Mountain Pass mine in the USA resulted
+in the shift of production towards Asia—first to Japan, and then to China. Most of the main intellectual
+property portfolio of NdFeB magnets has expired, though US and Japanese firms continue to develop
+intellectual property in the field52. Although China has roughly 90 per cent of world NdFeB capacity,
+Germany and Japan have some market share, and Japanese firms also own manufacturing facilities in
+Malaysia and Thailand53. Following official designation of NdFeB batteries as a critical national security
+technology in 2021, US policies are expected to boost domestic US manufacturing of NdFeB magnets,
+reaching an estimated 50 per cent self-sufficiency for sintered NdFeB magnets by 2030, though the
+USA would remain dependent on imported bonded NdFeB magnets54.
+Partly in response to concerns about REE prices and supply, the wind industry began shifting away
+from permanent magnets for certain segments of the turbine market, particularly for onshore wind
+turbines outside of China. According to one estimate, gearbox turbines without permanent magnets
+account for 52 per cent of the onshore wind market, predominantly outside China, while permanent
+magnet designs accounted for roughly 75 per cent of the offshore wind market55. While one forecast for
+2050 suggests REE demand for wind turbine permanent magnets could rise by a factor of 11–26 times
+in order to meet global wind energy targets, according to the IEA demand for wind permanent magnet
+rare earths will rise from around 4,500 tonnes in 2020 to between 8,000 and 12,000 tonnes in 203056.
+A March 2023 forecast from Benchmark Minerals anticipates a more modest rise in wind permanent
+magnet demand (of which REEs may account for roughly one-third by weight) from 12,000 tonnes in
+2022 to 15,000 tonnes in 202757. The Benchmark forecast is lower than the IEA and other analyses
+due to recent trends towards substituting other drive technologies and lower REE consumption in
+permanent magnets.
+There are various possibilities for reducing the REE demand of the wind sector, including finding
+substitutes for REEs in permanent magnets, reducing the REE content of permanent magnet designs,
+and improving the cost and performance of non-REE drives. There is unlikely to be a direct substitute
+for REE permanent magnets with different materials, but a sustained increase in REE prices could
+induce manufacturers to reduce the REE content of permanent magnets by 43 per cent58. Reducing
+waste from manufacturing processes could also reduce REE demand.
+IRENA also estimates that various technologies could compete with high-REE permanent magnets in
+the largest turbines59. Hybrid drives that combine gearbox with direct drive using permanent magnets
+require a substantially smaller amount of permanent magnet material, though this also entails greater
+51 US Department of Energy (2022).
+52 Ormerod (2021).
+53. BIS (2023).
+54 BIS (2023).
+55 Gielen and Lyons (2022).
+56 Jiashuo Li et al. (2020); IEA (2021).
+57 Benchmark Minerals (2023).
+58 US Department of Energy (2022).
+59 Gielen and Lyons (2022).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 10
+Oxford Institute for Energy Studies or any of its Members
+
+maintenance, a larger and heavier magnet overall, and lower efficiency. Improvements in magnets that
+fill the gap in efficiency between ferrite magnets and NdFeB magnets could also help reduce the
+demand for REE permanent magnets. High-temperature superconductors (HTS) have also been under
+development for wind turbine applications for many years, though these remain at an early stage of
+development, with the first HTS turbine being installed in Denmark in 201860. Novel motor designs
+without REE permanent magnets could offer high efficiency and low maintenance, though these remain
+at the laboratory stage61. Siemens is also working on nanotechnology to replace REEs in permanent
+magnets: the magnet uses an iron–cobalt compound in which nanometre-sized magnetic rods are fixed
+in a matrix, replicating or approaching the performance of permanent magnets62.
+Aside from technologies to reduce overall REE demand in wind and EV motors, there are also efforts
+underway to change the relative mix of different REE ingredients of wind turbine permanent magnets
+and EV motors. By weight, neodymium is the most important REE for wind permanent magnets and EV
+motors. However, there is significant neodymium demand for other applications, whereas wind and EVs
+are likely to dominate demand for relatively expensive dysprosium. Currently, wind turbine NdFeB
+permanent magnets have a composition of around 28 per cent neodymium and 4–5 per cent
+dysprosium63. Praseodymium is also present in small amounts. Dysprosium improves resistance to
+demagnetization at high temperatures. Some manufacturers of permanent magnets have sought to
+reduce the proportion of dysprosium in some wind turbine magnets to below 1 per cent 64.
+Praseodymium can also substitute for a portion of neodymium in NdFeB magnets without a significant
+loss in performance65. Similarly, in the automotive sector, where high-performance motors may use up
+to 11 per cent dysprosium by magnet weight66, Toyota has designed REE motors that reduce
+neodymium content by replacing it with lanthanum and cerium, and also eliminate dysprosium and
+terbium67.
+Figure 4: Forecasts of neodymium demand by application, 2018–2030, low (left) and high
+(right) scenarios
+Tonnes Tonnes
+180,000 180,000
+160,000 160,000
+140,000 140,000
+120,000 120,000
+100,000 100,000
+80,000 80,000
+60,000 60,000
+40,000 40,000
+20,000 20,000
+- -
+2018 2020 2022 2024 2026 2028 2030 2018 2020 2022 2024 2026 2028 2030
+Wind EV motors Other Wind EV motors Other
+Source: Alves Dias et al. (2020)
+60 Dodd (2018).
+61 Sandia National Laboratories (2022).
+62 Froböse (2023).
+63 Alves Dias et al. (2020).
+64 Alves Dias et al. (2020).
+65 Constantinides (2017).
+66 Constantinides (2017).
+67 US Department of Energy (2022); Alves Dias et al. (2020).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 11
+Oxford Institute for Energy Studies or any of its Members
+
+Figure 5: Forecasts of dysprosium demand by application, 2018–2030, low (left) and high
+(right) scenarios
+Tonnes Tonnes
+16,000 16,000
+14,000 14,000
+12,000 12,000
+10,000 10,000
+8,000 8,000
+6,000 6,000
+4,000 4,000
+2,000 2,000
+- -
+2018 2020 2022 2024 2026 2028 2030 2018 2020 2022 2024 2026 2028 2030
+Wind EV motors Other Wind EV motors Other
+Source: Alves Dias et al. (2020)
+Outside of wind and EV motors, REEs are used in dual-use applications such as lasers, hard drives,
+and lighting. As noted, while the volume of REE demand for these electronics and other applications is
+substantial, growth is likely to be less than in the EV and wind turbine fields. Further, as the US
+Department of Energy notes, REE demand for US military applications is quite small compared to
+domestic civilian demand or the likely global demand shortfall. US military REE demand is ‘significantly
+less than capacity of even a moderate-scale NdFeB magnet plant’68. For this reason, the US
+Department of Energy recommends against stockpiling REEs for military use, and instead suggests
+diversifying civilian supplies overall.
+Recycling of permanent magnets is considered the most economically attractive way to recover REEs
+because of the size of such magnets, and the total amount of elemental neodymium and praseodymium
+used. Current REE recovery focuses on swarf—the residue waste from manufacturing permanent
+magnets. Nine per cent of NdFeB magnet material is recovered from the manufacturing process,
+generally located near or at the location of magnet manufacturing69.
+The current method of extracting REEs from permanent magnets, called countercurrent solvent
+extraction, is energy-intensive and time-consuming, and involves environmentally hazardous solvents.
+New methods for extracting REEs are under development, including one involving organic compounds
+from the University of Pennsylvania, and another from the Oak Ridge National Laboratory that reduces
+recycling costs by extracting REEs jointly without separating the individual elements70. Two companies
+are also using hydrogenation to extract REE from end-of-life permanent magnets in the UK, though the
+volumes are still small71. While the cost and timeline for commercializing new extraction and recycling
+technologies are unknown, sustained high REE prices would likely bring these or other recycling
+techniques into volume production.
+In sum, most forecasts anticipate that demand for REEs will rise dramatically through 2030, driven by
+use of permanent magnets in EV motors and large wind turbines. No ideal substitutes exist, and many
+potential substitutes are at an early stage of development that makes it unlikely they will have an impact
+on the REE market by 2030. The industry nevertheless has multiple pathways for substantially reducing
+REE demand in EVs and wind turbines. These include reducing REE consumption for existing
+technologies, and improving the performance and efficiency of various systems that can fill the gap
+between REE permanent magnets and devices without REE. Many of these technologies are being
+developed in the West, which suggests that policies to accelerate innovation in reducing or substituting
+REEs could build upon existing R&D and technology strengths.
+68 US Department of Energy (2022).
+69 US Department of Energy (2022).
+70 Hyong-Min Kim and Jariwala (2021).
+71 US Department of Energy (2022).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 12
+Oxford Institute for Energy Studies or any of its Members
+
+6. What steps are other countries taking on REEs?
+The reduction of rare earth export quotas by China in 2010 and 2011 triggered immediate reactions by
+major importers. In addition to making a complaint to the World Trade Organization, the USA, the
+European Union, and Japan held a series of trilateral workshops72. More substantial actions were taken
+individually. Japan, dependent on China for 82 per cent of its rare earths, started to build partnerships
+and make investments in countries hosting rare earth deposits. These included Australia, where the
+Japan Organization for Metals and Energy Security (JOGMEC) invested in Lynas’s mine;73 Kazakhstan,
+where Sumitomo invested in an REE processing plant74; Vietnam, where JOGMEC established a joint
+REE research centre75; Namibia, where JOGMEC formed a joint venture to extract resource rich in
+HREEs; and India76.
+In the USA, both defence and energy were identified as priorities for REEs77. The US Department of
+Defense produced a report on Strategic and Critical Minerals in 2013 that recommended stockpiling
+HREEs. As of 2023, the Defense Logistics Agency was in the process of stockpiling 600 tonnes of
+neodymium, 70 tonnes of praseodymium, and 100 tonnes of NdFeB battery block78. The Department
+of Energy established a Critical Minerals Institute to promote R&D cooperation between companies,
+universities, and national laboratories79.
+The EU launched a Raw Materials Initiative in 2010, followed by a Critical Raw Materials Report in
+2014, and several EU Member States produced their own raw materials strategies. Germany, for
+example, developed partnerships focused on REEs with Kazakhstan and Mongolia80.
+Since 2020, the combination of increasing demand for REEs and growing tensions with China have
+triggered more intensive efforts by Western nations to reduce their reliance on China for REEs. In these,
+the USA and Australia have been playing leading roles as the second and fourth largest REE producers
+in the world: the former as a producer–consumer, and the latter as a producer.
+In February 2021, US President Biden signed an Executive Order on America’s Supply Chains81.
+Eleven months later, a bipartisan bill was introduced in the Senate to block US defence contractors
+from buying Chinese REEs and allowing the Pentagon to build a stockpile82. By February 2022, the
+Department of Defense had invested over US$100 million in US REE supply chain resilience83. In
+September 2022, the Department of Energy issued a call for bids for a Rare Earth Demonstration
+Facility (US$156 million) for the extraction of REEs and other critical minerals from unconventional
+sources such as mine waste84.
+The 2022 Inflation Reduction Act (IRA) also included several items specifically geared towards REEs.
+The IRA includes a tax credit of 10 per cent of the production cost for ‘critical components’, which
+includes rare earths. The IRA allows the US Department of Energy to provide up to US$40 million in
+loan guarantees for critical materials projects, and allows the president to direct up to US$500 million
+of economic incentives to critical materials, which President Biden did in designating battery materials
+as a priority for domestic manufacturing under the Defense Production Act85. Starting in 2025, to be
+72 Kalantzakos (2018).
+73 Kalantzakos (2018).
+74 Paxton (2012).
+75 Fuyuno (2012).
+76 Hui (2021).
+77 Kalantzakos (2018).
+78 BIS (2023).
+79 Ames National Laboratory: CMI Partners, accessed March 2023.
+80 Kalantzakos (2018).
+81 The White House (2021).
+82 Scheyder (2022).
+83 US Department of Defense (2022).
+84 US Department of Energy (2021).
+85 Serpell (2022).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 13
+Oxford Institute for Energy Studies or any of its Members
+
+eligible for US purchase subsidies, an EV battery may not contain any critical minerals that were
+extracted, processed, or recycled by a ‘foreign entity of concern’—presumably including China86.
+The IRA includes targets for the percentage of battery materials that should come from the USA or free-
+trade agreement partners. However, since REEs make up a small share of total materials by weight,
+this provision is likely to have a greater impact on the main battery materials such as lithium, nickel,
+aluminium, manganese, and cobalt. Setting overall percentage targets for battery or magnet inputs by
+weight has been criticized for this reason87. Even within REEs, demand for neodymium is far larger by
+weight than that for the relatively rare and costly dysprosium.
+Realizing that international cooperation was needed, the USA led the establishment of a Minerals
+Security Partnership in June 2022 to ‘bolster critical mineral supply chains essential for the clean energy
+transition’. The first meeting, in September 2022, was attended by official partners Australia, Canada,
+Finland, France, Japan, Republic of Korea, Norway, Sweden, United Kingdom, USA, and the European
+Union. Mineral-rich countries such as Argentina, Brazil, the Democratic Republic of the Congo, Mongolia,
+Mozambique, Namibia, Tanzania, and Zambia also attended88.
+Government policies and financial support from the Departments of Defense and Energy have driven a
+rise in investment in both mines and processing plants in different parts of the USA. For example, the
+Department of Defense awarded a US$35 million contract to MP Materials Corporation to build the
+country’s first HREE processing and separation plant at the Mountain Pass mine89, and funded Lynas
+to build a separation plant in Texas90. The Department of Energy provided funds towards an REE mine
+and processing plant in Wyoming91. Other REE mines and processing plants are being, or could be,
+developed in Nebraska92, Montana93, and Georgia and Utah94. Another mine with HREEs and a
+processing plant is under construction in Alaska with support from the state government, but creates
+environmental risks95. Overseas, US firm Energy Fuels announced in February 2023 that it had
+acquired 17 REE mineral concessions in Brazil, the exploitation of which would feed its processing plant
+in Utah96.
+Canada is also active in the REE industry, in part in cooperation with the USA. A plant is being built in
+Quebec, which has plentiful hydroelectricity, to process ores from the Elk Creek mine in Nebraska97.
+Vital Metals put Canada’s first REE mine into production in 2021, in Northwest Territories98, and is
+building a processing plant in Saskatchewan99.
+In Australia, Lynas is building the country’s first REE processing plant near its Mount Weld mine in
+Western Australia in order to reduce the company’s dependence on its facility in Malaysia, as well as
+providing capacity for concentrates from other mines100. A further processing plant is being built in
+Western Australia with a federal government loan to process an existing stockpile of ores from a mineral
+86 Connors et al. (2022).
+87 Trost and Dunn (2023).
+88 US Department of State (2022).
+89 US Department of Defense (2022).
+90 Gross (2020); Menon and Sharma (2022).
+91 Lasley (2021).
+92 Anon. (2021).
+93 Ahmad (2023).
+94 Green Car Congress (2020).
+95 Brehmer (2021); Goyal (2020).
+96 Energy Fuels (2023).
+97 Jamasmie (2023).
+98 Lamberink (2021); NS Energy (2021).
+99 Lamberink (2021); NS Energy (2021).
+100 Peacock (2022a).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 14
+Oxford Institute for Energy Studies or any of its Members
+
+sands project and later receive concentrates from other mines101. At least four other REE mines are
+being developed, in Western Australia102, New South Wales103, South Australia104, and Northern
+Territory105. The deposit in South Australia is the only one hosted in HREE-rich clays, while the project
+in the Northern Territory faces potential environmental challenges.
+In Northeast Asia, both Japan and South Korea are entirely dependent on imports for their REE
+supplies. Japan’s early moves succeeded in reducing its dependence on China for REEs from 80 per
+cent in 2010 to 60 per cent in 2020. This has come largely from JOGMEC’s investment in Lynas106.
+Information on JOGMEC’s involvement in Vietnam is sparse107, but Vietnam’s REE output soared from
+400 Mt in 2021 to 4,300 Mt in 2022108. Toyota’s JV to mine and process REEs in India has made little
+progress due to the weak policy regime109. Of greater potential significance was the discovery in 2020
+of HREE-rich clays in the deep ocean off the coast of Japan110. Pumping from a depth of 6,000 metres
+is planned to start in 2024111, but is likely to involve significant technical and environmental challenges.
+South Korea hosts potential REE reserves but these have not yet been exploited112. In 2021, the
+government decided to increase its stockpiles of critical minerals, including REEs113. Three Korean
+private equity firms haven taken a share of the Dubbo REE mine in Australia’s New South Wales114,
+with the aim of processing the output in Korea to manufacture magnets115. In February 2023, the
+governments of Korea and Mongolia signed a Memorandum of Understanding relating to the
+exploitation of REEs in western Mongolia116.
+Progress to enhance REE supply chains has been rather slower in Europe. Since 2020, different EU
+institutions have called for action and published strategies117. In 2023, the EU published a draft Critical
+Raw Materials Act including targets for 2030 that specify benchmarks of 10, 40, and 15 per cent,
+respectively, for the amount of mineral extraction, processing, and recycling that should take place in
+the EU, and setting a 65 per cent threshold for the maximum annual consumption from any stage of
+production or processing that can come from a single third country118. The Act requires monitoring
+critical raw materials supply chains, coordination of strategic raw materials stocks among EU Member
+States, and auditing/stress-testing of strategic raw materials supply chains for large companies. The
+EU is also developing a blockchain system to trace REEs to ensure that they are not linked to toxic
+pollution119.
+After Brexit, the United Kingdom has so far made limited moves to secure REE supplies. Pensana plans
+an REE processing plant in north-east England to produce magnets. The rare earth oxides will come
+from the Longonjo mine in Angola120. The processing project has received undisclosed amounts of
+government investment, and operation is due to start at the end of 2023. However, the project faces
+commercial and environmental risks, and needed to raise another US$250 million at the end of 2022121.
+101 Peacock (2022b); NS Energy: Eneabba Rare Earths Mining, accessed March 2023.
+102 Casey (2022).
+103 Australian Strategic Minerals Ltd (ASM): Overview.
+104 Bradbrook et al. (2023).
+105 Casey (2022).
+106 Hui (2021).
+107 Thanh Lich (2019).
+108 Pistilli (2023).
+109 Bhattacharya (2022).
+110 Anon. (2020).
+111 Foster (2023).
+112 Reuters (2010).
+113 Kim Byung-wook (2021).
+114 Yu Kun-ha (2021).
+115 Kim Bo-eun (2022).
+116 Kushhov (2023).
+117 European Commission (2020); ERMA (2021); European Parliament (2021).
+118 European Commission (2023).
+119 Onstad (2022).
+120 Slater (2022); Anon. (2019).
+121 UK Government (2022); Dempsey (2022).
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 15
+Oxford Institute for Energy Studies or any of its Members
+
+Taken together, these moves mark a potential turning point in international policies to address Chinese
+dominance of REEs. However, the impact is likely to be modest over the period to 2030 given the length
+of time needed to commission REE mines and processing plants. On its side, China seems more
+focused on improving the management of its domestic REE mining and processing enterprises, and on
+ensuring adequate supplies for its own manufacturers.
+7. Conclusions
+Rising tensions between China and the USA, fears of supply chain fragmentation, and concerns about
+the availability of critical resources for the energy transition have generated considerable attention to
+China’s role in REE supply chains. While there have been discussions and analyses of China’s
+dominance of REEs for years, highlighted by an export ban by China in 2010, policy actions have
+accelerated more significantly only over the past few years. Recent efforts to reduce Chinese
+dominance of REEs in the West have included designating REEs as a critical material, streamlining
+approval processes for REE extraction, offering loans and other subsidies for REE processing, reducing
+the REE content of various devices, forming coalitions of countries working to expand production or
+processing outside China, and increased information sharing.
+And while policy activity has accelerated over the course of 2022-2023, these moves are unlikely to
+dramatically limit China’s dominance over these supply chains in the near term. China has achieved
+dominance of REE production and processing through a combination of early moves into the industry,
+decades of weak environmental regulation that has enabled illegal mines and processing plants, as
+well as state investment along the supply chain, export controls, low labour costs, and scale.
+As the energy transition continues, demand for REEs is expected to rise dramatically through 2030 and
+beyond, driven by their use in permanent magnets for EV motors (including hybrid vehicles) and wind
+turbines. But there is considerable uncertainty around future demand estimates. Alternative
+technologies could reduce REE consumption in both EV and wind turbine drives, depending partly on
+policy support for reducing REE demand, as well as on market conditions such as prices and supply
+disruptions. At the same time, efforts to spur supplies are complicated by the demand and pricing
+uncertainties, the long lead times in developing new mining and processing capabilities, and ESG
+(environmental, social, and governance) concerns in these supply chains.
+It is increasingly clear that beyond the uncertainties around both supply and demand, given China’s
+expected dominance in the next decade, the concentration of REE processing currently poses the
+largest risk, in that 90 per cent of REE processing is in China, as opposed to 70 per cent of mining. Like
+mining, processing takes many years to set up, and due to environmental and other regulatory
+constraints is unlikely to scale up in Europe or the UK at sufficient speed or scale to meaningfully reduce
+risks of disruptions before 2030. However, scale-up in the USA, Canada, and Australia is already taking
+place. Capital costs and knowhow are the critical variables in REE processing, so any effort to promote
+a shift in REE processing will require addressing both of these, likely through long-term incentives and
+policies.
+Understanding the complexity of these supply chains, and how and why China has become dominant
+in them, is an important first step. A critical next step will be a clear-headed and rational assessment of
+the potential risk this poses for consumers, governments, business, and the energy transition.
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 16
+Oxford Institute for Energy Studies or any of its Members
+
+Bibliography
+Aguiar de Medeiros, C. and Trebat, N.M. (2017). ‘Transforming natural resources into industrial
+advantage: The case of China’s rare earths industry’, Brazilian Journal of Political Economy, 37(3).
+Ahmad, M. (2023). ‘US Critical Materials finds high-grade rare-earth deposit’, Mining Digital, 6
+February.
+Alves Dias, P., Bobba, S., Carrara, S., and Plazzotta, B. (2020). The Role of Rare Earth Elements in
+Wind Energy and Electric Mobility, JRC122671, Luxembourg: Publications Office of the European
+Union.
+Andersson, P. (2020). ‘Chinese assessments of ‘critical’ and ‘strategic’ raw materials: Concepts,
+categories, policies, and implications’, The Extractive Industries and Society, 7(1), 127–37.
+Anon. (2019). Longonjo Neodymium-Praseodymium Project, Angola, NS Energy.
+Anon. (2020). ‘Rare earth minerals discovered in fossilized fish off Pacific island’, MiningNewsWire,
+24 September.
+Anon. (2021). ‘Elk Creek Niobium Project, Nebraska, US’, Mining Technology, 8 April.
+Atkins, E. (2023). ‘Companies to send recycled rare earths from Ontario to France’, Waste &
+Recycling, 21 February.
+Avic Securities (2022). 稀土行业深度报告：政策需求共振，产业乘风而起, 17 March.
+Benchmark Minerals (2023). ‘Going local: sourcing rare earths for wind energy from regional supply
+chains’, Benchmark Source, 28 March.
+Bhattacharya, D. (2022). ‘A rare earths roadmap for India: Seeking atma nirbharta in Indian
+technology’, Firstpost, 9 December.
+BIS (2023). ‘The effect of imports of neodymium-iron-boron (NdFeB) permanent magnets on the
+national security: An investigation conducted under Section 232 of the Trade Expansion Act of 1962,
+as amended’, US Department of Commerce, Bureau of Industry and Security, 14 February.
+Bradbrook, S., Green, S., and Whetham, B. (2023). ‘Australian mining company pushes ahead with
+rare earth mine on SA Limestone Coast’, ABC News, 2 March.
+Brehmer, E. (2021). ‘Ucore aims to start construction of rare earths facility by ’23’, Alaska Journal of
+Commerce, 12 May.
+Bullard, N. (2023). ‘Decarbonization: The long view, trends and transience, net zero’,
+nathanielbullard.com.
+Casey, J.P. (2022). ‘Expansion and independence: Australia’s latest rare earth mines’, Mining
+Technology, 22 November.
+China State Council (2005). 关于全面整顿和规范矿产资源开发秩序的通知) [Notice on rectification and
+standardization of development order of mineral resources], 23 September.
+China State Council (2011). 国务院关于促进稀土行业持续健康发展的若干意见 [Several opinions of
+the State Council on promoting the sustainable and healthy development of the rare earth industry],
+19 May.
+China State Council (2016). 全国矿产资源规划(2016-2020 年) [National Mineral Resources Plan
+(2016–2020)], November [direct download].
+Connors, M., Forrester, J.P., and Shaw, K.L. (2022). ‘Strengthening the US supply chain for critical
+minerals and the inflation reduction act—Opportunities and challenges,’ Mayer Brown, 29 September.
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views
+of the Oxford Institute for Energy Studies or any of its Members.
+17
+
+Constantinides, S. (2017). ‘The important role of dysprosium in modern permanent magnets’,
+Rochester, NY: Arnold Magnetic Technologies Corp.
+Dempsey, H. (2022). ‘Experts cast doubts over UK’s first rare earths processing site’, Financial Times,
+22 July [paid content].
+Dodd, J. (2018). ‘Rethinking the use of rare-earth elements’, Windpower Monthly, 30 November.
+Edmondson, J. (2023). ‘How can Tesla shift away from rare earths?’, IDTechEx, 7 March.
+Energy Fuels (2023). ‘Energy Fuels completes acquisition of rare earth and heavy mineral project in
+Brazil’, News Release, 13 February.
+ERMA (2021). ‘Ensuring access to the raw materials for the European Green Deal: A European Call
+for Action’, European Raw Materials Alliance, 30 September.
+European Commission (2020). ‘Critical Raw Materials Resilience: Charting a Path Towards Greater
+Security and Sustainability’, 3 September.
+European Commission (2023). ‘Critical Raw Materials: Ensuring secure and sustainable supply
+chains for EU's green and digital future’, 16 March.
+European Parliament (2021). ‘A European strategy for critical raw materials’, 24 November.
+Foster, S. (2023). ‘Japan dives into rare earth mining under the sea’, Asia Times, 10 January.
+Froböse, R. (2023). ‘Substitution of rare earths using nanotechnology’, Lucerne, Switzerland: Institute
+for Rare Earth Elements and Strategic Metals.
+Fuyuno, I. (2012). ‘Japan and Vietnam join forces to exploit rare earth elements’, Nature, 13 July.
+Gielen, D. and Lyons, M. (2022). Critical Materials for the Energy Transition: Rare Earth Elements,
+International Renewable Energy Agency.
+Global Times (2023). ‘China hikes rare-earth quota by nearly 20% amid rising demand’, Global Times,
+24 March.
+Goodenough, K.M., Wall, F., and Merriman, D. (2018). ‘The rare earth elements: Demand, global
+resources, and challenges for resourcing future generations’, Natural Resources Research, 27, 201–
+216.
+Goyal, R. (2020). ‘Controversial Alaskan mine receives a push from the Trump administration’, State
+of the Planet, Columbia Climate School, 30 September.
+Green Car Congress (2020). ‘Utah-based Energy Fuels to enter commercial rare earth business in
+Q1-2021’, greencarcongress.com, 26 December.
+Gross, S. (2020). ‘Lynas to advance US rare earths plan on Pentagon funding deal’, Bloomberg, 27
+July.
+Hui, M. (2021). ‘Japan’s global rare earths quest holds lessons for the US and Europe’, Quartz, 23
+April.
+Hui, M. (2023). ‘Tesla’s plans for rare-earths-free EVs will barely dent demand for these critical
+metals’, Quartz, 3 March.
+Hyong-Min Kim and Jariwala, D. (2021). ‘The Not-So-Rare Earth Elements: A Question of Supply and
+Demand’, Philadelphia, PA: Kleinman Center for Energy Policy, University of Pennsylvania.
+IEA (2021). The Role of Critical Materials in Clean Energy Transitions. International Energy Agency.
+Jamasmie, C. (2023). ‘NioCorp aims 92% rare earth recoveries at demo plant’, Mining.com, 7
+February.
+Jiashuo Li, Kun Peng, Peng Wang, Jing Meng, Wendong Wei, and Qing Yang (2020). ‘Critical rare-
+earth elements mismatch global wind-power ambitions’, One Earth, 24 July.
+Jiyeong Go (2022). ‘Estonia becomes unexpected China rare-earth alternative’, fDi Intelligence, 6
+December.
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 18
+Oxford Institute for Energy Studies or any of its Members
+
+Kalantzakos, S. (2018). China and the Geopolitics of Rare Earths, Oxford: Oxford University Press.
+Kim Bo-eun (2022). ‘Korea on track to cut dependency on China for rare earths’, The Korea Times, 28
+June.
+Kim Byung-wook (2021). ‘S. Korea to beef up critical metals stockpile’, The Korea Herald, 5 August.
+Kushhov, B. (2023). ‘Mongolia, South Korea, Rare-Earth Metals: ‘Bridging the Gap’ or ‘Opening
+Pandora’s Box’?’, New Eastern Outlook, 2 March.
+Lamberink, L. (2021). ‘Here's an inside look at Canada's first rare earth mining project in the N.W.T.’,
+CBC News, 20 April.
+Lasley, S. (2021). ‘Rare earths project reemerges in Wyoming’, Metal Tech News, 13 October.
+Lijun Dai, Lingqing Wang, Xiaoming Wan, Jun Yang, Yong Wang, Tao Liang, Hocheol Song,
+Shaheen, S.M., Antoniadis, V., and Rinklebe, J. (2022). ‘Potentially toxic elements exposure
+biomonitoring in the elderly around the largest polymetallic rare earth ore mining and smelting area in
+China’, Science of The Total Environment, 853.
+Long, K.R., Van Gosen, B.S., Foley, N.K., and Cordier, D. (2010). ‘The Geology of Rare Earth
+Elements’, republished from The Principal Rare Earth Elements Deposits of the United States, USGS
+Scientific Investigations Report 2010-5220, Geology.com.
+Loveday, S. (2023). ‘Tesla’s next-gen electric motors will get rid of rare earth elements’, InsideEVs, 2
+March.
+McNulty, T., Hazen, N., and Park, S. (2022). ‘Processing the ores of rare-earth elements’, MRS
+Bulletin, 47, 258–66.
+Menon, P. and Sharma, R. (2022). ‘Australia's Lynas gets $120 mln Pentagon contract for US rare
+earths project’, Reuters, 15 June.
+MIIT (2016). 工业和信息化部关于印发稀土行业发展规划（2016－2020年）, Ministry of Industry and
+Information Technology of the People’s Republic of China, 18 October.
+MIIT (2021). 公开征求对《稀土管理条例（征求意见稿）》的意见, Ministry of Industry and Information
+Technology of the People’s Republic of China, 15 January.
+Ministry of Natural Resources (2016). 全国矿产资源规划（2016—2020年）, Ministry of Natural
+Resources of the People’s Republic of China, 2016.
+Nayar, J. (2021). ‘Not so ‘green’ technology: The complicated legacy of rare earth mining’, Harvard
+International Review, 12 August.
+NS Energy (2021). ‘Vital raises $33m to begin mining at Nechalacho rare earths project in Canada’,
+NS Energy, 22 March.
+Oki, S. (2023). ‘China plans to ban exports of rare earth magnet tech’, The Japan News, 5 April.
+Onstad, E. (2022). ‘Blockchain rare earth scheme to certify sustainable output for EVs’, Reuters, 8
+February.
+Ormerod, J. (2021). ‘NdFeB magnet patents: Update 2021’, DuBois, PA: Bunting-DuBois.
+Pavel, C.C., Thiel, C., Degreif, S., Blagoeva, D., Buchert, M., Schüler, D., and Tzimas, E. (2017).
+‘Role of substitution in mitigating the supply pressure of rare earths in electric road transport
+applications’, Sustainable Materials & Technologies, 12, 62–72.
+Paxton, R. (2012). ‘Kazakh nuclear firm and Japan's Sumitomo launch rare earth plant’, Reuters, 2
+November.
+Peacock, B. (2022a). ‘Construction begins on Lynas’ rare earths refinery in Western Australia’, PV
+Magazine Australia, 26 April.
+Peacock, B. (2022b). ‘Rare earth refinery to be built in WA as country vies to become serious China
+alternative for EV supplies’, PV Magazine Australia, 5 April.
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 19
+Oxford Institute for Energy Studies or any of its Members
+
+People’s Republic of China (2012). White Paper: Situation and Policies of China’s Rare Earth
+Industry, 中国的稀土状况与政策》白皮书, China.org.cn.
+Pistilli, M. (2023). ‘Top 10 countries for rare earth metal production’, Investing News, 3 March.
+Qiuying Zhang, Futian Ren, Fadong Li, Guoliang Chen, Guang Yang, Jianqi Wang, Kun Du, Shanbao
+Liu, and Zhao Li (2020). ‘Ammonia nitrogen sources and pollution along soil profiles in an in-situ
+leaching rare earth ore’, Environmental Pollution, 267, 115449.
+Reuters (2010). ‘South Korea discovers rare earths deposit’, Reuters, 8 November.
+Reuters (2020). ‘China’s Ganzhou launches rare earths exchange’, 2 January.
+Reuters (2023). ‘China March rare earth exports fall 8.2% on year—customs’, Reuters, 13 April.
+Sandia National Laboratories (2022). ‘Propelling wind energy innovation’, News Release, 8
+September.
+Scheyder, E. (2022). ‘US bill would block defense contractors from using Chinese rare earths’,
+Reuters, 14 January.
+Serpell, O. (2022). ‘Impacts of the Inflation Reduction Act on rare earth elements’, Kleinman Center
+for Energy Policy, University of Pennsylvania, 24 September.
+Severson, M.H., Nguyen, R.T., Ormerod, J., and Williams, S. (2023). ‘An integrated supply chain
+analysis for cobalt and rare earth elements under global electrification and constrained resources’,
+Resources, Conservation and Recycling, 189, 106761.
+Shen, Y., Moomy, R., and Eggert, R.G. (2020). ‘China’s public policies toward rare earths, 1975–
+2018’, Mineral Economics, 33, 127–51.
+Slater, D. (2022). ‘Pensana completes FEED, notes lower Saltend, Longonjo development costs’,
+Mining Weekly, 16 March.
+SMM (2022). ‘China's Imports and Exports of Rare Earth Both Declined in November 2022’, Shanghai
+Metals Market, 26 December.
+Strategic Metals Invest (2023). 5-year Strategic Metals Price Movements, Strategic Metals Invest,
+accessed 27 April.
+Suli, L.M., Ibrahim, W.H.W., Aziz, B.A., Deraman, M.R., and Ismail, N.A. (2017). ‘A review of rare
+earth mineral processing technology’, Chemical Engineering Research Bulletin, 19, 20–35.
+Sun Yu and Mitchell, T. (2021). ‘China merges 3 rare earths miners to strengthen dominance of
+sector’, Financial Times, 23 December.
+Sykes, J.P. (2013). ‘Rare earth mine costs’, course presentation, June 2013, Curtin University /
+University of Western Australia.
+Thanh Lich (2019). ‘Vietnam to export rare earth minerals, faces competition with China’,
+VietNamnet.vn, 11 June.
+The White House (2021). ‘Executive Order on America's Supply Chains’, White House Briefing Room,
+24 February.
+Trost, J.N. and Dunn, J.B. (2023). ‘Assessing the feasibility of the Inflation Reduction Act’s EV critical
+mineral targets’, Nature Sustainability, 6 March.
+UK Government (2022). ‘UK’s first magnet refinery given huge financial boost as first ever strategy for
+supply of critical minerals published’, Press release, 22 July.
+US Department of Defense (2022). ‘DOD awards $35 million to MP Materials to build US heavy rare
+earth separation capacity’, 22 February.
+US Department of Energy (2021). ‘Funding Notice: Bipartisan Infrastructure Law: Rare Earth Element
+Demonstration Facility’, 19 September.
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 20
+Oxford Institute for Energy Studies or any of its Members
+
+US Department of Energy (2022). Rare Earth Permanent Magnets: Supply Chain Deep Dive
+Assessment, 24 February.
+US Department of State (2022). ‘Minerals Security Partnership Convening Supports Robust Supply
+Chains for Clean Energy Technologies’, Media Note, 22 September.
+US Geological Survey (2023). Mineral Commodity Summaries 2023, Reston, GA: US Department of
+the Interior, US Geological Survey.
+Warmington, A. (2023). ‘Solvay rare earth recycling in France’, Chemistry World, 27 February.
+Wen-Shen Liu, Mei-Na Guo, Chang Liu, Ming Yuan, Xin-Tian Chen, Hermine Huot, Chun-Mei Zhao,
+Ye-Tao Tang, Jean Louis Morel, and Rong-Liang Qiu (2019). ‘Water, sediment and agricultural soil
+contamination from an ion-adsorption rare earth mining area’, Chemosphere, 216, 75–83.
+Yu Kun-ha (2021). ‘3 Korean PEFs take 20% stake in Australian rare earth mining project for US$250
+Mil.’, Business Korea, 21 June.
+Zapp, P., Schreiber, A., Marx, J., and Kuckshinrichs, W. (2022). ‘Environmental impacts of rare earth
+production’. MRS Bulletin, 47, 267–75.
+Zhang Qi (2010). ‘‘Bigger say’ set on rare earths market’, China Daily, 10 August.
+The contents of this paper are the authors’ sole responsibility. They do not necessarily represent the views of the 21
+Oxford Institute for Energy Studies or any of its Members

@@ -1,0 +1,405 @@
+Sal de Vida: A risky lithium mining
+project in Argentina
+This briefing was prepared by Asamblea Pueblos Catamarqueños en Resistencia y Autodeterminación (PUCARA), Fundación
+Ambiente y Recursos Naturales (FARN), Fundación Yuchan, and the Bank Information Center (BIC).
+Please note: This is a living document, we are currently doing more research and field work to understand the (lack of)
+stakeholder engagement and information disclosure and the environmental and social risks and impacts of the project.
+Introduction and after-tax profit of $337 million USD for fiscal year end
+6/30/22. It is listed on the Australian Securities Exchange
+and the Toronto Stock Exchange.
+Sal de Vida (SDV) is a lithium mining project located in
+the Salar del Hombre Muerto, Province of Catamarca,
+The IFC is considering a $200 million USD loan to the
+Argentina. If the project is approved, it would extract
+Sal de Vida project (45668). The company has already
+600,000 tons of lithium carbonate (LCE) over the next
+issued two engineering, procurement, and construction
+fourty years for export to Europe and the United States.
+management contracts: a) one for the evaporation ponds
+The project plans to extract large amounts of brine from
+and the project infrastructure; and b) for the construction
+the Salar del Hombre Muerto aquifer through eight
+of the lithium carbonate plant. According to the IFC, the
+pumping wells, which is then sent to large evaporation
+proposed investment will comprise a direct loan of $100
+pools. Using minimal processing, the operation will
+million USD and mobilization from commercial banks of
+transform the mineral extracted into lithium carbonate.
+up to $100 million USD. This investment will be used to
+produce 15,000 tons of LCE per year. The IFC’s investment
+Salar del Hombre Muerto is a high-altitude wetland
+will allow Sal de Vida to develop its production, deepening
+located more than 4,000 meters above sea level in the
+the negative environmental and social impacts of lithium
+north of the Province of Catamarca, an arid region
+mining in the Salar del Hombre Muerto and impact
+characterized by lack of natural water resources. It
+communities living in the territory.
+is inhabited by different settlements, hamlets, and
+Indigenous communities.
+Although it is a Category A project, many of the
+environmental and social impacts and risks are not
+The mining operation was originally owned by Galaxy
+being properly analyzed and addressed, thus, the IFC
+Resources Ltd. However, on August 25, 2021, the company
+is underestimating several potential risks in project
+merged with Orocobre Ltd and created Allkem Ltd. Allkem
+appraisal.
+is a lithium chemicals company, which has operations in
+Argentina and Australia and lithium hydroxide conversion
+facilities in Japan. Allkem owns 100% of the operation
+and has partnerships with Toyota Tsusho Corporation,
+the Province of Jujuy, and the Province of Catamarca,
+Argentina. The company has over $3 billion USD in assets
+
+Environmental concerns influence, the company and the IFC have failed to
+accurately identify and value many environmental
+and social impacts of the project. For example, the
+1. Concerns regarding the technical determination of
+EIA underestimates the impact on hydrological and
+the area of direct and indirect influence. The project’s
+hydrogeological processes, biodiversity, and the location
+Environmental and Impact Assessment (EIA) designates
+of critical habitats, including grasslands and riparian
+the operational area as the only area of direct influence
+ecosystems. In short, the project has significantly
+of the project. It is where the camp, the processing plant,
+more environmental impacts on the larger region than
+the extraction wells, and the evaporation pools are
+acknowledged in the EIA.
+located, covering 54 km2. The external area of the project
+was designated as the indirect influence area (Fig. 1.a,
+2. Cumulative impacts. Cumulative impacts are those
+page 10); however, the EIA provides no justification or
+that result from the successive, incremental, and/or
+a technical explanation for this delimitation. Taking into
+combined effects of an activity or project when added
+consideration the hydrological and hydrogeological
+to the effects of other existing or planned ventures.1
+implications of the scale of brine and freshwater
+In the Salar del Hombre Muerto, eight lithium brine
+extraction (which are explained in the water pressure
+mining projects have been registered in different mining
+point), the area of direct influence is actually equal to or
+stages (Fig. 4). All existing mines are located in the same
+greater than the area of indirect influence indicated in
+endorheic basin, using the same brine resource and
+the EIA (544 km2). The indirect area of influence should
+fresh water for mineral processing. Sal de Vida is one of
+cover the entire basin of the Salar del Hombre Muerto,
+these eight projects.
+including the Los Patos river, 4316 km2(Fig. 1. b, page 10).
+By underestimating the area of direct and indirect
+1 IFC 2013; Minerals Council of Australia 2015.
+(a) (b)
+Fig. 1 Area of direct environmental influence and area of indirect environmental influence according to the
+Environmental Impact Assessment of Sal de Vida Project (a); and according to the national and international
+criteria and standards (b).
+APRIL 2023 2
+
+Two of the other projects (Alpha Lithium’s Tolillar concentrated lithium brine. As mentioned above,
+expansion and Galan Lithium’s Hombre Muerto Oeste extraction was approved for two companies (Minera
+project) are in the prospecting stage (pre-exploration) del Altiplano, Galaxy Lithium Argentina) for a total of
+and do not require an EIA. Of the remaining projects, 3,416,000 m3 /yr. This represents 15.6 times the volume
+we reviewed five EIAs for projects under consideration: of water consumed for domestic use in the town of
+two for exploration stage (Virgen del Valle, and Candelas Antofagasta de la Sierra, located in an adjacent basin.
+projects) and three for exploitation stage (Fénix, Sal
+3. Evaporitic extractive technology and water
+de Vida, and Sal de Oro projects). Although the most
+pressure. The endorheic catchments in the high and arid
+recent projects refer to the existence of projects in
+Andean plateau have a negative hydrological balance
+the basin to justify the high productivity and quality of
+because the mean annual evaporation exceeds that of
+the lithium reserves, none of the revised EIAs identify
+precipitation, and rates of groundwater discharge often
+cumulative impacts from the use of the same brine and
+exceed modern recharge.2 In these arid Andean wetlands,
+water resource, as required by the national guidelines
+lithium in brine is extracted from saline deposits through
+developed by the Secretaria de Ambiente de la Nación
+slow and inefficient methods. Extraction requires large
+in 2019 and the provincial mining authority (COFEMIN
+investment and use of natural resources in relation to
+2019).
+the final product.3 However, this is the method adopted
+Cumulative impacts have not been considered in by the Sal de Vida project, which will extract the brine
+the Mitigation Measures or in the Management and from the Salar del Hombre Muerto salt flat, evaporating
+Contingency Plans in any of the EIAs of the eight mining it in open pools where the different salts sequentially
+projects in the region. The most notable example of precipitate, and recovering the lithium carbonate from
+the absence of a Cumulative Impact Assessment (CIA)
+2 For example, Van Beek et al. 2011; Gleeson et al. 2012.
+is the extraction of fresh water from the Río Los Patos,
+which is a designated stewardship zone, for processing 3 Flexer et al. 2018; Sticco 2018.
+APRIL 2023 3
+
+the concentrated brine in a treatment plant at the end of The independent study carried out by the Consejo
+the process (which also will require copious volumes of Federal de Inversiones on December 2021, elaborated a
+fresh water during the next 40 years). conceptual hydrogeological model, in which the authors
+identified a dynamic interaction between the surface and
+Because of the scale, lithium brine mining should be
+groundwater of Los Patos River and its tributaries.11 In the
+framed as large-scale or mega-mining in relation to
+numerical model, the authors simulate two freshwater
+water consumption.4 According to the values provided
+extraction scenarios that include Sal de Vida and other
+by the Sal de Vida project, the estimated volume of
+mining projects. In relation to the freshwater wells
+water used in the mining project is estimated at 450
+of Sal de Vida, the authors show maximum projected
+m3/tn of Li2CO3 produced. Of this total, approximately
+declines for scenario one between 0.4 m to 1.2 m, while
+90% will be associated with brine evaporation, while the
+for scenario two, they show depressions between 1.6 m
+remaining 10% will be related to involved in freshwater
+to 3 m. However, the simulation does not analyze the
+consumption. These estimated values are similar to the
+reduction in superficial flow, and even less, the impacts
+water footprint measured at the Olaroz project in the
+on critical riparian habitats (hydrophilous grasslands,
+province of Jujuy, also owned by Allkem.5
+meadows, and wetlands). It should be noted that this
+independent study considers the cumulative effects of
+The sustained extraction of groundwater brines and
+the simulated extraction of six mining projects within
+surface waters over decades is likely to affect these
+the same watershed. However, the Sal de Vida EIA does
+wetlands’ hydrological balance, salinity, and unique
+not acknowledge the existence of other projects in the
+biodiversity.6 In this regard, a study in the Salar de Atacama,
+identification and assessment of cumulative impacts (see
+Chile, has found that the fast expansion of lithium mining
+cumulative impacts section).
+operations have a strong correlation with the ongoing
+environmental degradation in the area.7 Impacts of
+Additionally, the complete and irreversible drying of the
+lithium mining water extraction are difficult to ascertain
+Trapiche River floodplain has already occurred as a result
+in the short term due to: a) historical climate patterns; b)
+of freshwater extraction by the Fénix project (Livent Inc.)
+variable climate conditions; c) the occurrence of extreme
+in the Salar del Hombre Muerto basin. The viability of the
+climatic events;8 and d) times of response of natural
+Sal de Vida mining project is based on the externalization
+environmental variables to complex hydrogeological
+of water resource costs.
+processes. These hydrogeological processes involve the
+distribution and timing of groundwater recharge, long
+residence times (>100 years), deep water tables (>100
+Social concerns
+m), and groundwater flow paths -which often cross
+topographic boundaries before emerging at basin floors.
+4. Social Conflict and Criminalization. Local Indigenous
+Moreover, there is often insufficient data, which is an
+communities around the project have been victims of
+additional difficulty in properly ascertaining the impacts
+criminalization as a direct consequence of their actions
+of water extraction.9
+in defending their rights, territory, access to water, and
+cultural heritage. The Salar del Hombre Muerto and
+The EIA for the Sal de Vida project lacks accurate and
+surrounding areas is a territory in constant conflict. For
+appropriate hydrogeological information for the scale of
+example, on October 31, 2019, several members of a local
+the project. Regarding the impact of freshwater extraction
+family, the Morales, were arrested in their own home. The
+from Los Patos River for several mining projects,
+Antofagasta police officers implemented an abusive and
+including Sal de Vida, the baseline information used
+illegal use of force to arrest them before transferring the
+to prepare the water balance and the hydrogeological
+Morales family to the town of Belén. Mining companies
+models is insufficient.10 There are no records in the river
+struck an interest in using the ancestral land of the
+catchments, and the hydrological data of Los Patos
+Morales family as a way of passage for mining trucks
+River and its main tributary were taken sporadically and
+(commonly called “mining bypass”).
+at different points or sections of the stream (a major
+methodological mistake).
+Also, on November 7, 2019, the residents of Antofagasta
+4 Donadío, 2009.
+peacefully demonstrated in the main square to express
+5 Arias Alvarado et al. 2022.
+6 Gajardo and Redón 2019. their opposition to the lithium mining projects in the
+7 Liu et al. 2019. area. After this peaceful demonstration, a local leader
+8 Bennet et al. 2016; Pabón-Caicedo 2020; de la Fuente et al. 2021, Alam and
+received a police summons at his job, an example of the
+Sepúlveda 2022.
+9 Frau et al. 2021; Moran et al. 2019b. institutional violence and persecution those who oppose
+10 For more information see the independent study carried out by Consejo
+Federal de Inversiones (2021). Estudio hidrogeológico cuenca del río Los 11 Consejo Federal de Inversiones. (2021). Estudio hidrogeológico cuenca del
+Patos-Salar del Hombre Muerto – 2da Etapa. Informe final. río Los Patos-Salar del Hombre Muerto – 2da Etapa. Informe final.
+APRIL 2023 4
+
+mining activity face. A few days later, members of the of a QR code system had limited participation from the
+Atacameños del Altiplano Indigenous community (the community.
+main community affected by Sal de Vida), were arrested
+Secondly, it was only in that instance that Allkem,
+on their community lands for supposed “threats.” Instead
+together with the Ministry of Mining, provided (for the
+of being notified and summoned (as national legislation
+first time) the complete EIA - despite the EIA having been
+and international agreements established), they were
+requested by representatives of the Atacameños del
+deprived of their freedom in violation of national and
+Altiplano community several times. The population had
+international regulations on Indigenous communities
+only one month to read, analyze, share it with technicians,
+(art. 75 inc. 17 of the National Constitution and art. 10 of
+prepare their comments and questions, and participate
+ILO Convention 169).
+in the consultation. Due to the report’s length, language,
+On December 19, 2019, yet another episode of and complexity, one month was not enough time to
+institutional violence occurred. Mr. Román Guitian analyze the EIA and have informed participation in a
+and his family (members of Atacameños del Altiplano consultation. The Atacameños del Altiplano felt they did
+community), were persecuted within their community not have enough time and information to have a strong
+territory (an area close to the mining company) by two and effective participation the day of the consultation.
+police officers driving a private van that belongs to the
+Finally, according to the Environmental Impact Report
+mining company.
+presented by Allkem, the area of direct social impact is
+The repetition of these violent events shows that these the community of Antofagasta de la Sierra; while the
+are not isolated cases. It is a contested territory, in which entire province of Catamarca is the area of indirect social
+Atacameños del Altiplano and everyone who opposes impact. However, the company
+the mining activity is subject to criminalization and legal
+carried out a weak consultation process only in the town
+persecution.
+of Ciénaga Redonda, despite the area’s limited access to
+Moreover, to speak about the company’s track record, project information and internet connectivity problems.
+Allkem has not a good reputation regarding compliance Thus, the entire population identified by Allkem in the
+with environmental regulations and safeguarding of area of social influence was not allowed to participate
+rights of project affected communities. An investigation in the “consultation” carried out by the company. This
+carried out by Fundación Ambiente y Recursos Naturales violated their right to access project documents and
+identifies Orocobre company (Allkem) violated the right information to know about the risks, impacts, and
+to participation and the free, prior, and informed consent benefits of the project to be prepared to effectively
+of local indigenous communities, in its Olaroz project engage in the consultation process.
+(a lithium mining project in Argentina, as Sal de Vida
+Consequently, we highlight the seriousness of the absence
+project).
+of effective and meaningful participation of stakeholders
+5. Lack of information and weak consultation process. and project affected communities throughout the Sal de
+Since the beginning of Sal de Vida, there was a complete Vida project stages - from the proposal to the IFC Board’s
+lack of access to information for local and project affected consideration.
+communities. Due to the absence of information provided
+6. Lack of consideration of sacred ancestral sites.
+by the company, several requests for public information
+The EIA presented by Allkem did not identify any sacred
+were made to the provincial government, which were not
+sites, but also doesn’t describe any dialogue with the
+answered or only partially resolved.
+Indigenous communities (Atacameños del Altiplano and
+The lack of information disclosure about the Sal de Vida Atacameños del Andiofaco) regarding the identification,
+project violates access to information rights. It is worth location, and registration of cultural and sacred sites.
+noting that in October 2021, the company held informative
+Despite the supposed absence of sacred sites according
+talks and a supposed consultation in the town of Ciénaga
+to the EIA, there are various sacred sites in the territory
+Redonda. However, the consultation did not meet the
+affected by the project. Two of the sites identified as
+regulatory and culturally appropriate standards for
+sacred by Indigenous communities are: “Punta de la
+Indigenous and non-Indigenous communities. The notice
+peña” and “Tumba del hombre muerto”.
+of the consultations were distributed through QR codes,
+which requires a cell phone to access and is inaccessible
+Tumba del hombre muerto has a special cultural and
+to most of the Antofagasta de la Sierra population, who
+spiritual significance for the community due to ancestors
+lack adequate cell phones and internet connectivity to
+of the Guitian family resting there, an original family from
+access information through a QR code. Thus, the use
+the salt flat. This grave “Tumba del hombre muerto”,
+APRIL 2023 5
+
+gave the name to the salt flat “Salar del Hombre Muerto”. hydrogeological models within the current EIA is
+insufficient. Also, the hydrological data collection
+In the absence of identification and registration of
+presents methodological mistakes. The water
+ancestral cultural sites by the EIA, important areas are
+pressure analysis should be strengthened to address
+in danger of being partially or totally impacted and
+the methodological mistakes and use proper and
+damaged, as a result of the Sal de Vida project. Further,
+sufficient data pertaining to the project’s scale.
+this grave and spiritual site was threatened through the
+• Develop a cumulative impact assessment and
+construction of the mining road.
+make it public by sharing it with provincial
+7. Legal actions at the national level against the authorities and project affected communities:
+company: Due to violations of rights previously The current EIA does not include the assessment
+mentioned, the Indigenous community Atacameños del of cumulative impacts. Identifying cumulative
+Altiplano, carried out administrative and judicial actions impacts is key to understanding the water pressure
+at the national level to denounce the behavior of the in the Salar del Hombre Muerto where Sal de Vida
+mining companies in the region and systematic violation is located, and IFC should consider this during
+of their human rights. Currently, the Supreme Court project appraisal. Currently, eight lithium brine
+of the province of Catamarca is processing judicial file mining projects are registered in the Salar del
+No. 54/2022, which requests the urgent suspension of Hombre Muerto. All of them are located in the same
+mining projects that request the extraction of water from endorheic basin, using the same brine resource
+Los Patos river (Sal de Vida and others). The suspension and fresh water for processing the mineral. In
+request is based on the lack of a corresponding, conversations with IFC management, they claimed
+cumulative, and comprehensive EIA and disclosure of that they required the client to develop a rapid
+these documents. Further, this request is made due to cumulative impact assessment. However, the
+the violation of the rights of the Indigenous communities document is not public and has not been submitted
+that ancestrally inhabited the Salar del Hombre Muerto to the relevant provincial authorities and project
+(National Constitution, National Law 21.160, National Law affected communities.
+25.657, Free Prior and Informed Consent regulated by ILO
+2. Strengthen the consultation process and
+Convention 169, the United Nations Declaration on the
+engagement with Indigenous Peoples and local
+Human Rights of Indigenous Peoples, and the American
+communities
+Declaration on the Rights of Indigenous Peoples).
+• The IFC should require the company to carry out a
+consultation process not only open to Indigenous
+Recommendations and non-Indigenous peoples, but also to inhabitants
+of the social impact area identified by the EIA. Also,
+Considering the points raised above, we recommend that the consultation process should be implemented
+the IFC postpones the decision regarding the financing according to PS 1 and national standards.
+of this project until the following actions are taken:
+• The consultation process should be meaningful
+and robust to guarantee the participants’ security
+1. Strengthen the Environmental Impact Assessment
+and avoid criminalization, and harassment of local
+• Reassess the extent of the area of direct and leaders and/or members of local communities
+indirect influence of the project: The IFC should who oppose or raise questions about the project.
+require Allkem to review the current EIA and set Allkem and its subsidiary Galaxy Lithium SA.
+a proper determination of the area of direct and must guarantee a safe environment to conduct
+indirect influence. As referenced above, the current consultations that are based on good faith and are
+EIA underestimates the area of direct and indirect culturally appropriate, particularly addressing the
+influence, thus reducing the scope of the project’s concerns of those who oppose the project or have
+environmental impacts and underestimating the raised concerns about it.
+hydrological and hydrogeological effects and the
+• IFC should supervise that the company is effectively
+impacts on local biodiversity.
+disclosing complete information about the project
+• Strengthen the water pressure analysis: The risks, impacts, and benefits with project affected
+lack of accurate and appropriate hydrogeological communities and stakeholders and that their views
+information on the scale of the mining project in and perspectives are taken into account in the
+the EIA underestimates the water pressure. The Environmental and Social Management Plan. The
+baseline information about the water balance and company should share information about risks
+APRIL 2023 6
+
+and impacts in a timely and culturally appropriate
+manner with project affected communities. It also
+must be in a format that is accessible and that
+facilitates understanding for communities to be
+prepared to meaningfully participate and provide
+their input in consultations.
+• The information provided by the company must
+be objective and account for the real impacts of
+the project within the territory, including negative
+impacts on cultural heritage and sacred sites, such
+as the Indigenous gravesite, Tumba del Hombre
+Muerto.
+3. Develop a contextual risk Assessment
+• Strengthen environmental and social appraisal and
+supervision: The IFC should require the company to
+conduct a contextual risk assessment that evaluates
+external risks of the operating environment, such
+as legacy issues, unresolved land disputes, the
+role of private and public security forces, internal
+social conflict, etc. All these risks must be factored
+into decision-making and overall risk management,
+including potential unresolved legacy issues.
+APRIL 2023 7

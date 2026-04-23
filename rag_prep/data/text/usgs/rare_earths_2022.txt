@@ -1,0 +1,113 @@
+USGS Mineral Commodity Document
+File: rare_earths_2022.pdf
+Extracted by: pdfplumber
+──────────────────────────────────────────────────────────────────────
+
+--- Page 1 ---
+RARE EARTHS1
+[Data in metric tons of rare-earth-oxide (REO) equivalent unless otherwise noted]
+Domestic Production and Use: Rare earths were mined domestically in 2021. Bastnaesite (or bastnäsite), a rare-
+earth fluorocarbonate mineral, was mined as a primary product at a mine in Mountain Pass, CA. Monazite, a
+phosphate mineral, was produced as a separated concentrate or included as an accessory mineral in heavy-mineral
+concentrates in the southeastern United States. The estimated value of rare-earth compounds and metals imported
+by the United States in 2021 was $160 million, a significant increase from $109 million in 2020. The estimated end-
+use distribution of rare earths was as follows: catalysts, 74%; ceramics and glass, 10%; metallurgical applications and
+alloys, 6%; polishing, 4%; and other, 6%.
+Salient Statistics—United States: 2017 2018 2019 2020 2021e
+Production:e
+Mineral concentrates — 14,000 28,000 39,000 43,000
+Compounds and metals — — — — 230
+Imports:e, 2
+Compounds 11,000 10,800 12,200 6,510 7,700
+Metals:
+Ferrocerium, alloys 309 298 330 274 320
+Rare-earth metals, scandium, and yttrium 524 526 627 362 540
+Exports:e, 2
+Ores and compounds 1,740 17,900 28,300 40,000 45,000
+Metals:
+Ferrocerium, alloys 982 1,250 1,290 625 740
+Rare-earth metals, scandium, and yttrium 55 28 83 25 29
+Consumption, apparent, compounds and metals3 9,300 9,600 11,200 5,400 6,100
+Price, average, dollars per kilogram:4
+Cerium oxide, 99.5% minimum 2 2 2 2 2
+Dysprosium oxide, 99.5% minimum 187 179 239 261 400
+Europium oxide, 99.99% minimum 77 53 35 31 31
+Lanthanum oxide, 99.5% minimum 2 2 2 2 2
+Mischmetal, 65% cerium, 35% lanthanum 6 6 6 5 6
+Neodymium oxide, 99.5% minimum 50 50 45 49 49
+Terbium oxide, 99.99% minimum 501 455 507 670 1,300
+Employment, mine and mill, annual average, number 24 190 202 185 290
+Net import reliance5 as a percentage of apparent consumption:6
+Compounds and metals 100 100 100 100 >90
+Mineral concentrates XX E E E E
+Recycling: Limited quantities of rare earths are recovered from batteries, permanent magnets, and fluorescent lamps.
+Import Sources (2017–20): Rare-earth compounds and metals: China, 78%; Estonia, 6%; Malaysia, 5%; Japan, 4%;
+and other, 7%. Compounds and metals imported from Estonia, Japan, and Malaysia were derived from mineral
+concentrates and chemical intermediates produced in Australia, China, and elsewhere.
+Tariff: Item Number Normal Trade Relations
+12–31–21
+Rare-earth metals 2805.30.0000 5.0% ad valorem.
+Cerium compounds 2846.10.0000 5.5% ad valorem.
+Other rare-earth compounds:
+Oxides or chlorides 2846.90.2000 Free.
+Carbonates 2846.90.8000 3.7% ad valorem.
+Ferrocerium and other pyrophoric alloys 3606.90.3000 5.9% ad valorem.
+Depletion Allowance: Monazite, 22% on thorium content and 14% on rare-earth content (domestic), 14% (foreign);
+bastnäsite and xenotime, 14% (domestic and foreign).
+Prepared by Daniel J. Cordier [(703) 648–7707, dcordier@usgs.gov]
+
+--- Page 2 ---
+RARE EARTHS
+Government Stockpile:7 In the addition to the materials listed below, the FY 2021 and FY 2022 potential acquisitions
+include neodymium, 600 tons; praseodymium, 70 tons; and samarium-cobalt alloy, 50 tons.
+FY 2021 FY 2022
+Inventory Potential Potential Potential Potential
+Material as of 9–30–21 acquisitions disposals acquisitions disposals
+Cerium — 500 — 550 —
+Dysprosium 0.2 20 — 20 —
+Europium 27.7 — — — —
+Ferrodysprosium 0.5 — — — —
+Lanthanum — 1,300 — 1,300 —
+Rare-earth-magnet block — 100 — 100 —
+Yttrium 25 600 — 25 —
+Events, Trends, and Issues: Global mine production was estimated to have increased to 280,000 tons of REO
+equivalent. According to China’s Ministry of Industry and Information Technology, the mine production quota for 2021
+was 168,000 tons with 148,850 tons allocated to light rare earths and 19,150 tons to ion-adsorption clays.
+World Mine Production and Reserves: Reserves for Australia, Russia, the United States, and “Other countries”
+were revised based on information from Government and industry reports.
+Mine production Reserves8
+2020 2021e
+United States 39,000 43,000 1,800,000
+Australia 21,000 22,000 94,000,000
+Brazil 600 500 21,000,000
+Burma 31,000 26,000 NA
+Burundi 300 100 NA
+Canada — — 830,000
+China 10140,000 10168,000 44,000,000
+Greenland — — 1,500,000
+India 2,900 2,900 6,900,000
+Madagascar 2,800 3,200 NA
+Russia 2,700 2,700 21,000,000
+South Africa — — 790,000
+Tanzania — — 890,000
+Thailand 3,600 8,000 NA
+Vietnam 700 400 22,000,000
+Other countries 100 300 280,000
+World total (rounded) 240,000 280,000 120,000,000
+World Resources:8 Rare earths are relatively abundant in the Earth’s crust, but minable concentrations are less
+common than for most other mineral commodities. In North America, measured and indicated resources of rare
+earths were estimated to include 2.4 million tons in the United States and more than 15 million tons in Canada.
+Substitutes: Substitutes are available for many applications but generally are less effective.
+eEstimated. E Net exporter. NA Not available. XX Not applicable. — Zero.
+1Data include lanthanides and yttrium but exclude most scandium. See also Scandium and Yttrium.
+2REO equivalent or content of various materials were estimated. Source: U.S. Census Bureau.
+3Defined as production + imports – exports.
+4Source: Argus Media group—Argus Metals International.
+5Defined as imports – exports.
+6In 2018–2020, all domestic production of mineral concentrates was exported or held in inventory, and all compounds and metals consumed were
+assumed to be imported material.
+7Gross weight. See Appendix B for definitions.
+8See Appendix C for resource and reserve definitions and information concerning data sources.
+9For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 3.0 million tons.
+10Production quota; does not include undocumented production.
+U.S. Geological Survey, Mineral Commodity Summaries, January 2022

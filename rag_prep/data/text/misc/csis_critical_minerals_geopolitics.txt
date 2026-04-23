@@ -1,0 +1,1214 @@
+MARCH 2021
+The Geopolitics of Critical
+Minerals Supply Chains
+AUTHOR
+Jane Nakano
+A Report of the CSIS Energy Security and Climate Change Program
+
+About CSIS
+The Center for Strategic and International Studies (CSIS) is a bipartisan, nonprofit policy research
+organization dedicated to advancing practical ideas to address the world’s greatest challenges.
+Thomas J. Pritzker was named chairman of the CSIS Board of Trustees in 2015, succeeding former U.S.
+senator Sam Nunn (D-GA). Founded in 1962, CSIS is led by John J. Hamre, who has served as president
+and chief executive officer since 2000.
+CSIS’s purpose is to define the future of national security. We are guided by a distinct set of values—
+nonpartisanship, independent thought, innovative thinking, cross-disciplinary scholarship, integrity
+and professionalism, and talent development. CSIS’s values work in concert toward the goal of making
+real-world impact.
+CSIS scholars bring their policy expertise, judgment, and robust networks to their research, analysis,
+and recommendations. We organize conferences, publish, lecture, and make media appearances that
+aim to increase the knowledge, awareness, and salience of policy issues with relevant stakeholders and
+the interested public.
+CSIS has impact when our research helps to inform the decisionmaking of key policymakers and the
+thinking of key influencers. We work toward a vision of a safer and more prosperous world.
+CSIS does not take specific policy positions; accordingly, all views expressed herein should be
+understood to be solely those of the author(s).
+© 2021 by the Center for Strategic and International Studies. All rights reserved.
+Acknowledgments
+The author would like to thank CSIS colleagues Sarah Ladislaw and Nikos Tsafos for feedback and Ian
+Barlow for graphics assistance. The author would also like to thank Brandon Tracy of the U.S. Congressional
+Research Service and Marco Giuli of the Brussels School of Governance for reviewing a draft.
+This report was made possible by the generous support of the Japan External Trade Organization.
+Center for Strategic & International Studies
+1616 Rhode Island Avenue, NW
+Washington, D.C. 20036
+202-887-0200 | www.csis.org
+III | The Geopolitics of Critical Minerals Supply Chains
+
+Contents
+1 | Introduction 1
+2 | The Chinese Dominance of the Global Critical Minerals Supply Chains 4
+3 | Securing the Critical Minerals Supply Chains: Various Strategies and Policy Steps 7
+4 | United States 9
+Status of U.S. Supply Chains 9
+U.S. Strategy and Responses 11
+5 | European Union 15
+Status of EU Supply Chains 15
+EU Strategy and Responses 16
+6 | Japan 19
+Status of Japan’s Supply Chains 19
+Japan’s Strategy and Responses 20
+7 | Conclusion 23
+8 | About the Author 26
+IV | The Geopolitics of Critical Minerals Supply Chains
+
+1
+Introduction
+Confronted with the rising threat of climate change, many governments around the world have
+launched efforts to electrify their energy system while decarbonizing their electric power supply.
+This trend has led to an increased demand for non-carbon-emitting sources of electricity and energy
+storage technologies, and in turn has grown the demand for these technologies’ component minerals
+and materials. According to a World Bank study, the demand for component minerals for electric storage
+batteries—such as aluminum, cobalt, lithium, manganese, and nickel—could rise by more than 450 percent
+by 2050 if clean energy technology is deployed at a level consistent with the Paris Climate Agreement goal
+of keeping the rise in atmospheric temperature to no more than 2 degrees Celsius.1
+Clean energy technology components have different degrees of reliance on a range of minerals, which
+in turn have different criticality profiles informed by factors such as price volatility and the stability
+of the supplier country. Rare-earth elements, such as neodymium, dysprosium and praseodymium,
+are key ingredients of permanent magnets (powerful magnets that do not lose their magnetic fields),
+which are used in high-performance wind turbines.2 Borates, gallium, germanium, and indium are
+also important ingredients in solar photovoltaics (PV), while cobalt and lithium are required for the
+lithium-ion batteries used in electric vehicles (EVs). Although these minerals are available globally,
+some are highly concentrated in a few countries. For example, about half the global supply of cobalt
+comes from the Democratic Republic of the Congo (DRC); over 80 percent of the global supply of
+lithium comes from Australia, Chile, and Argentina; and 60 percent of the global supply of manganese
+comes from South Africa, China, and Australia.3 Most notably, over 85 percent of the global supply of
+rare-earth elements comes from China.
+Supply chain security for the minerals and materials needed in clean energy technologies has become a
+strategic issue, not only because it could affect the pace of clean energy technology deployment around
+1 | Jane Nakano
+
+the world but also because clean energy technology has become the latest frontier for the geoeconomic
+rivalries sparked by China’s competitive manufacturing sector. No longer a simple mineral producer
+or component assembler, China is emerging as a higher-value manufacturer that requires a growing
+volume of the minerals and metals that are considered key to clean energy technology manufacturing.
+This development has increased the pressure for other major economies dependent on mineral
+imports to secure their critical minerals supply chains.
+An equally important factor is that China appears to recognize the strength of its critical minerals
+supply chains as geopolitical leverage. For example, during one of the heightened phases of the
+U.S.-China trade war in 2019, President Xi Jinping of China and his top trade negotiator toured a
+rare-earth processing facility in Jiangxi Province, which is known for its rare-earth wealth. The visit
+was widely interpreted as a reminder to the United States that China has leverage over the rare-earth
+supply chains, bringing back the memory of China’s embargo on rare-earth exports to Japan, which
+occurred over a territorial dispute in the fall of 2010. Additionally, Xi Jinping’s call in April 2020 for
+the need to enhance global supply chains’ dependence on China and “develop powerful retaliation
+and deterrence capabilities against supply cut-offs by foreign parties” has only fueled concern among
+Western policymakers that heavy economic dependence on China for something as critical as rare-
+earth minerals may translate into a vulnerability that can be exploited by China in the event of a clash
+between China and the West.4
+Furthermore, the Covid-19 pandemic has exposed fragility in the global supply chains for not only
+pharmaceuticals and crucial medical supplies but also some critical minerals. For instance, the
+transport of cobalt produced in the Democratic Republic of the Congo was delayed in South Africa
+for months following the South African government’s imposition of a strict lockdown in the second
+quarter of 2020.5
+A confluence of these developments has elevated the strategic importance of securing critical minerals
+supply chains, especially to a group of economies that are home to innovators and manufacturers.
+Some governments have modernized or expanded existing strategies to address the challenge, while
+others have outlined action plans or articulated their perspectives on only specific portions of the
+supply chains. The author identified a select set of economies whose approach to the security of
+critical minerals supply chains is likely to be consequential in terms of geopolitics. Through a literature
+survey and interviews, the author reviewed the statuses of these economies’ critical minerals supply
+chains as well as their strategies to address the supply security concern. This report illuminates the key
+economic, security, and geopolitical factors behind the recent evolution of these economies’ strategies
+and their approaches to the security of critical minerals supply chains.
+Key observations include:
+▪ The security of critical minerals supply chains is a strategic issue, in light of the expected
+exponential demand growth led by clean energy technology deployment around the world.
+▪ Sustained political commitment to technological innovation is essential to managing the growing
+competition over resources and clean energy manufacturing value chains.
+▪ China’s development of midstream and downstream capacities has turned it from a supplier of raw
+minerals and materials to a key consumer of them. China’s commanding position along critical
+minerals supply chains is a key factor that shapes other economies’ strategic responses.
+2 | The Geopolitics of Critical Minerals Supply Chains
+
+▪ Different economies are motivated by different concerns reflecting the heterogeneity in
+their resource endowment profiles and industrial structures. The United States appears most
+concerned about import dependence that can be exploited geopolitically, while the European
+Union and Japan appear primarily concerned with the effects of supply disruptions on their
+industrial competitiveness.
+▪ Recent efforts to strengthen critical minerals supply chains include the United States’
+development of midstream capacities, the European Union’s orchestrated support for its battery
+sector, and Japan’s stockpile modernization and resource development abroad.
+▪ Competition over critical minerals supplies is also rising between import-dependent economies.
+Such competition could hinder effective international partnerships that might otherwise mitigate
+existing risks to supply chains.
+3 | Jane Nakano
+
+2
+The Chinese Dominance
+of the Global Critical
+Minerals Supply Chains
+China has become a dominant stakeholder in the global supply chains for critical minerals and
+clean energy goods. In solar PV manufacturing (which broadly consists of the manufacturing of
+polysilicon, ingots, wafers, cells, and modules), China is home to over 90 percent of the world’s
+wafer manufacturing capacity, and Chinese companies—regardless of factory location—own two-thirds
+of the global polysilicon manufacturing capacity and 72 percent of the global module manufacturing
+capacity.6 In lithium-ion battery manufacturing, China has a majority of processing capacity for key
+components (such as cathodes, anodes, separators, and electrolytes), as well as almost 80 percent of
+global battery cell manufacturing capacity.7 Although less dominant, China still has a strong presence
+in the wind turbine value chain: it is home to about half of total manufacturing plants for nacelles,
+blades, wind towers, turbine generators, and gearboxes.8
+China’s emergence as a major force along the clean energy technology value chain is partly the result
+of their resource wealth, as China is home to roughly one-third of global rare-earth reserves. However,
+this emergence also represents the culmination of long-term industrial policy, China’s capacity to
+execute it, and advantages derived from a lag in extractive industry regulations.9
+Where it lacks access to resources, China has invested in mining projects abroad. For example, since
+nearly 60 percent of cobalt ore comes from the DRC, Chinese enterprises invest in cobalt mines and
+participate in cobalt smelting projects there to secure stable access to cobalt resources.10 China has
+come to account for 72 percent of the global cobalt refining capacity.11 The consumption of cobalt by
+China—where approximately three-quarters of supply is used in lithium battery manufacturing—is
+forecast to almost double between 2017 and 2023.12 Also, while China is only one of five countries that
+produce lithium (another key mineral for lithium-ion battery production), it accounts for roughly 60
+percent of global lithium refining capacity.13 China also leads the rest of the world in its capacity to
+4 | The Geopolitics of Critical Minerals Supply Chains
+
+process these refined materials into components, mainly cathodes (producing 52 percent of the global
+cathode supply), anodes (78 percent), separators (66 percent), and electrolytes (62 percent).14 In 2018,
+for the first time in over three decades, China became a net importer of at least seven rare earths, as
+domestic output declined due to a government crackdown on illegal production.15
+China’s recognition of the strategic value of non-fuel minerals and their industrial applications dates
+back at least to the seventh National Five-Year Plan for Rare Earth Industry (1986–1990), which made
+it a priority to “develop research and production of advanced rare-earth applications and new materials
+(e.g., permanent magnets and lasers) for domestic consumption and export.”16 The Chinese government
+spurred the development of midstream and downstream sectors through investment policies that
+allowed foreign investment in rare-earth smelting with the import of advanced technologies and
+machinery and encouraged foreign investment and joint ventures in producing advanced products
+downstream—all while prohibiting foreign investment and joint ventures in the mining sector.17
+State-sponsored investment in research and development took off early in China. By 1985, there
+were more than 300 research institutes and university research centers in China working on research
+projects related to rare-earth mining, smelting, and applications.18 China has filed more rare-earth
+patents than the rest of the world combined.19 Low-cost minerals and supply of materials attracted
+many foreign firms to relocate to China, a situation that not only afforded these firms access to
+the growing Chinese market but also benefitted the Chinese by enhancing China’s downstream
+manufacturing capacity through technology transfer.
+Clean Energy Mineral Supply Chains and Top Global Suppliers
+Batteries, Wind, and Solar PV
+Raw Materials Processed Materials Components Assembly
+Co, Li, C, Nb Ni, Mn, Si, Cathode materials, Cathodes, Anodes, Li-ion cells
+Cu, Ti, Al, P, F, Sn, Iron ore Anode materials Electrolytes, Separators
+China Africa L.A.* Other China Japan EU China Japan EU China U.S. Asia**
+32% 21% 21% 26% 52% 31% 8% 52% 31% 9% 66% 13% 13%
+Raw Materials Processed Materials Components Assembly
+Al, B, Cr, Cu, Dy, Pb, Mn, Aluminum, NdFeB magnets, Steel, Nacelles, Blades Wind turbines
+Mo, Nd, Ni, Nb, Pr, Iron ore Copper wire, Carbon fibers, Glass fibers
+China L.A.* Asia** Other China EU U.S. China EU U.S. EU China
+54% 29% 6% 11% 41% 12% 9% 56% 20% 11% 58% 23%
+Raw Materials Processed Materials Components Assembly
+Al, B, Cd, Cu, Ga, Ge, In, Fe, Si-metal, Polysilicon, Crystalline / amorphous Si Cells, Si modules,
+Pb, Mo, Ni, Se, Si, Ag, Te, Sn, Zn Cu refined, Al, CdTe Wafer Thin film Si / non-Si modules
+China Africa U.S. Other China U.S. EU China Asia** China Asia** EU
+53% 13% 7% 27% 50% 6% 5% 89% 1% 70% 8% 1%
+* Latin America
+** Excluding China and Japan
+energy security and
+Source: Created by Ian Barlow based on data from European Commission, Critical materials climate change program
+for strategic technologies and sectors in the EU - a foresight study, 2020 (Brussels: European Commission, 2020).
+5 | Jane Nakano
+
+China has also employed export and production quotas. From 1999 to 2014, China imposed an annual
+export quota. The export quota system was structured to favor firms that could create high additional
+value.20 Moreover, in 2006, China introduced production quotas on rare-earth concentrates, with the
+stated goal of controlling total production and illegal mining. These actions caused a spike in rare-earth
+prices, given China’s strong position in the global supply. China’s export restrictions continued until
+2014 when a World Trade Organization (WTO) dispute settlement panel agreed with the United States,
+European Union, and Japan that China’s export duties and export quotas on rare earths, tungsten, and
+molybdenum constituted a breach of WTO rules.21
+More recently, the Chinese government identified “new materials,” such as permanent magnets, to
+be among the 10 industries targeted for government support under the Made in China 2025 initiative.
+This industrial initiative, released in 2015, aims to upgrade China’s manufacturing capacity by 2025
+through focused allocation of resources, such as beneficial regulations, tax incentives, and financing
+by public banks.22 The development of the new materials industry is seen as a foundation for the
+successful development of Chinese manufacturing capacity in nine other industries, such as EVs, new
+information technology, and aerospace.23 China’s heavy focus on expanding its technology innovation
+capacity is likely to continue until at least 2035—a year identified by the Chinese Communist Party’s
+Central Committee in October 2020 to be when China becomes the global technology leader.24
+Since the Chinese government has been promoting domestic downstream industry, the country’s
+consumption of rare-earth minerals has been on the rise. Between 2004 and 2014, China’s
+consumption of rare-earth minerals grew at an average annual rate of 7.5 percent, while the rare-
+earth mineral consumption of the rest of the world decreased by 3.8 percent, raising China’s share of
+the global consumption from 43 to 70 percent.25 Moreover, China’s production of rare-earth end-use
+products grew by about 70 percent between 2005 and 2015; by 2015, domestic consumption accounted
+for over 80 percent of the domestic production of rare earths.26
+In order to better position itself to weather potential supply disruptions, China’s National Mineral
+Resource Plan for 2016–2020 called for establishing a range of capabilities, including a warning
+mechanism for the rare-earth industry to safeguard its supply chains against various causes of
+potential disruptions and a more systematic demand and supply analysis on mineral products.27 More
+recently, in October 2020, China passed an export-control law that would restrict exports of controlled
+items to protect China’s interest and security. Although the government has not elaborated or clarified
+which items and technologies will fall under this law, rare earths are among the strong suspects.28
+Furthermore, in early January 2021, China introduced draft legislation to “reinforce the protection of
+its rare earth resources” and “strengthen full industrial chain regulation” by strengthening the approval
+process for mining and processing projects, as well as the rare-earth trade.29 In reporting this proposal,
+the state-run China Daily noted that China considers rare-earth elements to be “prized resources” with
+“irreplaceable significance for the upgrade of traditional industries, and the development of emerging
+industries.”30 These developments may also reflect China’s unease that the United States and other
+major economies are beginning to seriously address their current vulnerability with regards to critical
+minerals supply chains.
+6 | The Geopolitics of Critical Minerals Supply Chains
+
+3
+Securing the Critical
+Minerals Supply Chains
+Various Strategies and Policy Steps
+Ac onfluence of factors—including growing competition over critical mineral supplies and clean
+energy manufacturing, fragility in the global supply chains, and rising competition from China—
+has led a few economies to review the state of their critical minerals supply chains in recent
+years. Several of them have updated their strategies, expanded policy tools to address the challenge, or
+introduced action plans to improve or preserve the security of critical minerals supply chains.
+For example, India is noteworthy for its growing political focus on developing clean energy
+manufacturing capacity. A 2016 report released by India’s Department of Science and Technology
+presented an assessment of the effects the security of critical minerals supply may have on India’s
+manufacturing sector, given the growing gap between the rising demand for technology-enabled
+products and its domestic manufacturing capacity.31 India has been striving to grow its clean
+energy manufacturing base, as exemplified by the Make in India program. This industrial initiative,
+combined with goals to grow the installed capacity of renewable energy from about 90 gigawatts
+(GW) currently to 450 GW and fully electrify the mobility sector by 2030, seems to be driving
+India’s interest in developing relationships with resource-rich economies to secure access to critical
+minerals.32 For example, India concluded a memorandum of understanding (MOU) with Australia in
+June 2020 to secure supplies of critical minerals from Australia.33
+Australia is another major stakeholder in the global supply chains for critical minerals. Australia
+is rich in energy and natural resources, including many critical minerals, and home to some of the
+top companies in global mining. The Australian government seeks to leverage ongoing efforts at
+the state and territory levels, such as Western Australia’s initiative to capitalize on local minerals
+for the lithium-ion battery industry and New South Wales’s effort to attract investment in metals
+and rare-earth resources.34 In 2019, the Australian government issued its Critical Minerals Strategy
+7 | Jane Nakano
+
+in an effort to strengthen its mining and processing capacities by promoting investment and
+incentivizing innovation.35
+While the universe of economies seeking to enhance their competitiveness along the critical minerals
+supply chain is growing, this report focuses on the United States, the European Union, and Japan,
+evaluating the similarities, differences, and evolution of their respective critical minerals strategies.
+Table 1: Comparing the Strategies/Responses
+United States European Union Japan
+Term Used Critical minerals. Critical and raw materials. Rare metals.
+in Strategic
+Documents
+Key Interests/ Defense requirements; Industrial competitiveness Industrial
+Considerations economic security; in clean energy sector. competitiveness.
+industrial competitiveness. Political commitment to
+No specific focus on clean climate neutrality.
+energy sector.
+Research and Domestic resource survey Separation and processing; Substitute development;
+Innovation capacity; separation and substitute development; recycling technologies.
+Focus processing; substitute recycling technologies.
+development; recycling
+technologies.
+International Cooperation is alliance- Cooperation within and Trade and investment with
+Cooperation oriented. The tone is near the European Union is resource-rich countries.
+Focus confrontational against important. Funding to resource-rich
+China. developing countries for
+capacity building.
+Domestic Land Permitting. Permitting. Not applicable.
+Access Issue
+Focus
+Workforce Issue Extractive industry workers Extractive industry workers Expertise in substitution
+Focus and processing expertise. and processing expertise. and recycling technology
+researchers.
+Critical Minerals 35 entries on the list. 30 entries on the list. 34 entries on the list.
+List No regularly scheduled Regularly scheduled No regularly scheduled
+criticality assessments. criticality assessments, criticality assessments.
+Updates per the White every three years. The most METI updated the list
+House. The most recent list recent list was published in sometime since 2014.
+was published in 2019. 2020.
+Stockpile For DOD use, managed by None at the EU or EU Stockpiling since 1983,
+the DLA.36 member nation level.37 for industry use; national
+(70%) and private industry
+stocks (30%) both
+managed by JOGMEC.
+Note: These country strategy characteristics are relative and dynamic, and they are not to be viewed as comprehensive.
+8 | The Geopolitics of Critical Minerals Supply Chains
+
+4
+United States
+Status of U.S. Supply Chains
+The United States has a wealth of mineral resources and a strong tradition of mining. In fact, the
+United States was once the global leader in the production of the rare-earth minerals key to the
+high-performance magnets needed in clean energy technologies. From the mid-1960s through
+the 1980s, the Mountain Pass mine in California was the largest source of rare-earth oxides in the
+world. In addition to Mountain Pass, CA, other identified rare-earth deposits include Bokan Mountain,
+AK; Bear Lodge, WY; Round Top, TX; and Elk Creek, NE.38
+However, U.S. presence in the upstream and midstream of critical minerals supply chains is severely
+limited today. Several decades of globalization, where countries have sought greater economic benefits
+from closer integration of supply chains and trade, have led the United States to move much of its
+manufacturing base abroad. These forces of globalization, together with U.S. policymakers’ decisions
+to prioritize domestic environmental protection over import-dependence concerns, have shifted the
+extraction and production of some key minerals, such as rare earths, outside of U.S. borders.39 By
+2000, the United States had become almost entirely dependent on overseas imports—particularly from
+China—for separated rare-earth oxides.
+The Chinese rare-earth embargo of 2010 and the resultant volatility of rare-earth prices sharpened
+the U.S. focus on critical minerals supply chain security, as well as on the geopolitical consequences
+of unchecked dependency on a single source for these mineral and material supplies. By then, the
+sole U.S. rare-earth mining project at Mountain Pass had become dormant.40 The subsequent decade
+saw limited progress in reducing dependency. For example, Molycorp reopened its Mountain Pass
+mine in 2012, but in the face of price declines due to the ample Chinese supply of many of the rare-
+9 | Jane Nakano
+
+earth elements, its operation became economically unsustainable, resulting in bankruptcy in 2015.41
+While Mountain Pass has resumed operation under its new owner, MP Materials, all the rare-earth
+concentrates from the Mountain Pass are currently exported for separation and processing, as the
+United States lacks the domestic capability to separate rare-earth concentrates into rare-earth ores
+and process them into rare-earth metals at a commercial scale.42 From 2015 to 2018, Chinese supplies
+accounted for 80 percent of U.S. imports of rare-earth compounds and metals; additionally, U.S.
+imports from other countries are largely derived from Chinese rare-earth inputs.43
+A decade after China’s rare-earth embargo, however, U.S. momentum to address critical minerals
+supply chain challenges is on the rise. Recent industry undertakings to reactivate domestic supply
+chains include attempts by MP Materials and Lynas to establish processing capabilities for light
+rare-earth elements in California and Texas, respectively, both of which are recipients of a Defense
+Production Act Title III technology investment agreement.44 Several separation and processing projects
+are also under development, including in Bokan Mountain in Alaska and Wheat Ridge, Colorado.45
+There also are domestic developments further along the clean energy technology value chain. For
+example, Nevada has become home to Tesla’s Gigafactory battery plant, soon to be followed by another
+Tesla battery factory in Texas.46 More plants to manufacture batteries for EVs are planned for Georgia,
+New York, North Carolina, and Ohio.47
+U.S. IDENTIFICATION OF CRITICAL MINERALS
+The U.S. Geological Survey has decades of expertise in tracking domestic mineral resource assessments,
+but the first mineral supply chains assessment work specific to clean energy applications was issued by
+the Department of Energy (DOE) in 2010. The DOE’s 2010 and 2011 Critical Materials Strategy reports
+provided the findings from their criticality assessment on rare earths and other elements needed for
+various energy applications, including the identification of critical minerals—14 minerals in the 2010
+report and 16 minerals in the 2011 report.
+Under Executive Order (EO) 13817, “A Federal Strategy to Ensure Secure and Reliable Supplies of
+Critical Minerals,” issued in 2017, critical minerals are currently defined as:
+(i) a non-fuel mineral or mineral material essential to the economic and national security of the
+United States, (ii) the supply chains of which is vulnerable to disruption, and (iii) that serves an
+essential function in the manufacturing of a product, the absence of which would have significant
+consequences for our economy or our national security.
+Per this definition, in May 2018, the U.S. government released a list of 33 minerals and two mineral
+groups—platinum group metals and rare-earth elements—that are deemed critical and warned that
+of the 35 entries, the United States relied on import for more than half of the annual consumption
+of 31. Moreover, the United States lacks any domestic production (and thus is completely import-
+reliant) for 14 of them.
+10 | The Geopolitics of Critical Minerals Supply Chains
+
+U.S. Strategy and Responses
+The availability of minerals has been an important issue for U.S. policymakers for decades, but
+until the turn of the twenty-first century, it was mainly in the context of their value for defense
+applications. This has rapidly changed in recent years. The supply of critical minerals has emerged
+as a major economic security issue, which in turn has become a national security concern. This shift
+emanated from a combination of growing U.S. import dependence and the market-distorting effects of
+Chinese mineral export practices in the late-2000s.
+2010 was a pivotal year for U.S. policymakers. In March, the Obama administration’s White House
+Office of Science and Technology Policy (OSTP) began convening the Interagency Working Group
+on Critical and Strategic Minerals Supply Chains to promote supply diversification, mitigate the
+long-term risks associated with a dependence on critical minerals, establish federal R&D priorities,
+promote environmentally sustainable mining, and prepare a next-generation workforce.48 Also
+in 2010, the National Science and Technology Council’s Committee on Environment, Natural
+Resources, and Sustainability chartered the Subcommittee on Critical and Strategic Mineral Supply
+Chains to develop advice and provide assistance on policies, plans, and procedures for mitigating
+mineral risks.49
+In December 2010, shortly after the Chinese embargo of rare-earth element exports to Japan in
+October 2010, the DOE issued its first-ever strategic document focused on the role of critical
+minerals and materials in the clean energy economy, Critical Materials Strategy. The 2010 strategy
+pointed to the potential growth in global consumption of critical materials commensurate with
+the expansion of clean energy technology deployment in the future and stressed the importance
+of global supply chain diversification, substitute materials development, and greater research into
+the recycling and reuse of materials.50 In addition to material supply and demand projection, the
+DOE undertook a review of the supply chains for four components in clean energy technologies
+and presented areas for action by U.S. federal agencies, including but not limited to those under
+DOE jurisdiction (e.g., research and development). This inaugural work was quickly followed
+by the 2011 Critical Materials Strategy, with updates in areas such as criticality assessments and
+market and technology analyses.
+Moreover, the DOE’s 2015 Quadrennial Technology Review, which examined the status of energy-related
+science and technology with medium-term commercialization potential, included a critical material
+technology assessment that reported on key trends affecting material criticality for clean energy
+components, such as permanent magnets for wind turbines and EVs. The DOE also outlined its R&D
+goals and pathways for advancing its critical material technology work.51
+The major U.S. government effort to assess the national security of critical minerals supply chains
+under the Trump administration began with EO 13817, issued in December 2017. The document’s key
+concern was the United States’ heavy import reliance for critical minerals, and it focused on various
+current technological, technical, regulatory, and legal limitations to the increase of domestic mineral
+production. In response to EO 13817, the National Science and Technology Council’s Subcommittee
+on Critical Minerals prepared A Federal Strategy to Ensure Secure and Reliable Supplies of Critical Minerals
+(hereafter referred to as the Federal Strategy), which was then released by the U.S. Department of
+Commerce in June 2019. The strategy presented “6 Calls to Action, 24 goals, and 61 recommendations”
+in pursuit of the following objectives52:
+11 | Jane Nakano
+
+. . . improve the ability of the advanced technology, industrial, and defense manufacturing sectors
+that use critical minerals to adapt to emerging mineral criticality issues; reduce risks for American
+businesses that rely on critical minerals; create a favorable U.S. business climate for production
+facilities at different stages of critical mineral supply chains; and support the economic security
+and national defense of the United States; all of which will reduce the Nation’s vulnerability to
+critical mineral supply disruptions.
+The types of issues covered under the “6 Calls to Action” were wide-ranging and included research,
+development, and deployment (RD&D); supply chains and the manufacturing base; international trade
+and cooperation; domestic resource assessment and upstream regulation; and workforce availability
+and capacity. The strategy largely reflected the Trump administration’s general view that economic
+security was national security, although it also underscored the benefit of international cooperation.
+Analogous to the strong energy interdependence among North American economies, the United
+States has close trading relationships with Canada and Mexico in critical minerals. For example,
+the strategy noted that “Canada and Mexico supply all or part of U.S. consumption for many critical
+minerals.”53 It also called for establishing policy consultation as well as R&D cooperation with like-
+minded economies—such as Canada, Australia, the European Union, and Japan. Interestingly, one
+of most notable multilateral endeavors under the Trump administration relative to critical minerals
+supply chains was the Energy Resource Governance Initiative (ERGI), even though the Federal Strategy
+did not specifically mention resource governance challenges. Launched in June 2019, the ERGI shed
+light on the key linkages between demand for critical minerals, growth of renewable power generation
+and battery technologies, and resource management and sector governance capacity-building in
+resource-rich countries around the world.54 Its membership has expanded to include Australia and
+the Philippines in the Asia-Pacific; Argentina, Brazil, and Peru in Central and South America; and
+Botswana, the DRC, Namibia, and Zambia in Africa.55
+Meanwhile, the Federal Strategy itself was notably silent on the growing global attention on these
+minerals and their contribution to energy transition. Given that climate mitigation is likely the most
+significant and dynamic demand multiplier for clean energy technology component minerals, the role
+of critical minerals in the ongoing energy transition merited a much clearer recognition. However, the
+introductory section merely noted that the minerals are used in “electricity generation, storage and
+transmission systems.”56 In contrast, both “national security” and “national defense” appeared over a
+dozen times throughout the Federal Strategy, underscoring its prominence as a consideration in the
+U.S. government assessment of its supply chain’s vulnerability and response formulation.
+Also, per EO 13817, the DOE issued “Critical Minerals Rare Earths Supply Chain: A Situational White
+Paper” in April 2020. This placed a primary focus on the status of industry along the upstream and
+midstream of the supply chains and underscored the alignment between the focus of EO 13817 and
+ongoing DOE activities to diversify supply of critical materials (e.g., increasing domestic production,
+separations, and processing). Additionally, the white paper also offered suggestions on how the U.S.
+effort to diversify supply could be augmented.57
+The 2017 executive order was followed by EO 13953 in September 2020, “Addressing the Threat to the
+Domestic Supply Chain from Reliance on Critical Minerals from Foreign Adversaries and Supporting
+the Domestic Mining and Processing Industries.” This executive order adopted a starkly sharper
+tone on the role of China in the global supply chains for critical minerals. For example, the 2017
+12 | The Geopolitics of Critical Minerals Supply Chains
+
+executive order did not once mention China, and the resultant Federal Strategy referenced China only
+under 1 of its 24 goals (alluding to its 2010 rare-earth export embargo as an example of the risk of
+heavy dependence on China).58 In contrast, under EO 13953, President Trump declared a “national
+emergency” to deal with the threat to the U.S. economy and national security emanating from the
+country’s dependency on China for these minerals. The order suggested the use of tariffs or quotas as
+potential remedies and directed agencies to examine potential authorities and prepare agency-specific
+plans to improve the supply chains. 59
+In response to the 2020 executive order, the DOE released Critical Minerals and Materials in January
+2021.60 The document complemented the white paper from a year earlier by providing greater
+information on the DOE’s ongoing R&D work in the areas of diversifying supply chains, developing
+critical mineral substitutes, and improving reuse and recycling. For example, the DOE has made key
+investments in efforts to produce rare-earth elements from sources such as coal and coal byproducts
+and in developing new magnet alloys and new phosphor materials to reduce rare-earth elements
+requirements. In the area of reuse and recycling, DOE efforts have advanced the disassembly and
+recovery of rare-earth magnets from hard disk drives, for example.61 In laying out their R&D objectives
+under detailed categories of goals, the DOE underscored how the R&D ecosystem can contribute to
+solving a host of challenges. National laboratories working on the critical minerals supply chains
+include the National Energy Technology Laboratory, the Critical Materials Institute (led by Ames
+Laboratory), and the ReCell Lithium Battery Recycling R&D Center at Argonne National Laboratory.
+Also, the Advanced Research Projects Agency-Energy (ARPA-E) has awarded projects related to
+improving the recovery of critical minerals to advance the reuse and recycle objective.62
+The inauguration of the Biden administration likely ushers in a unique alignment of policy priorities
+and considerations that could yield a more comprehensive strategy on critical minerals supply chains
+for the United States. First and foremost, climate change mitigation is the top administration priority.
+The Biden administration seeks to deliver on its mid-century carbon neutrality commitment through
+the accelerated deployment of clean energy technologies across industries, for example by ridding
+the power sector of carbon sources by 2035 and by massively electrifying the transportation sector.
+A month after the inauguration, the Biden administration issued EO 14017, “Executive Order on
+America’s Supply Chains” and called for an immediate review of vulnerabilities in the supply chains for
+critical minerals and high-capacity batteries, including electric vehicle batteries.63 Identifying climate
+mitigation as a key driver for clean energy technology deployment, the administration underscored
+the linkage between the supply chain security and the U.S. ability to accelerate its leadership of clean
+energy technologies.64
+The administration may also roll out measures to hold China accountable for its practices relative to
+minerals and materials that put U.S. companies at a disadvantage, as outlined in the Biden campaign
+plan to “rebuild U.S. supply chains and ensure the U.S. does not face future shortages of critical
+equipment,” in which key raw materials are noted.65 This could be one of more immediate steps
+available to the administration, as other measures to strengthen the supply chains—such as upstream
+project developments and R&D endeavors—are more incremental in nature. The efficacy of pursuing
+a trade case, for example, would need to be weighed carefully against the risk of politically-motivated
+supply disruptions and their effects on U.S. supply chains when a pool of alternative suppliers—as well
+as the availability of substitutes—remains limited for some of the critical minerals.
+13 | The Geopolitics of Critical Minerals Supply Chains
+
+Additionally, Secretary of Energy Jennifer Granholm remarked at her confirmation hearing in January
+2021 that she “enthusiastically” supports the DOE’s role in critical minerals “for both jobs and
+energy security and supply chain security in the United States.” Her view clearly comports with the
+administration’s commitment to create jobs, as exemplified by the issuance of EO 14005, “Ensuring
+the Future is Made in All of America by All of America’s Workers.”66 However, what is less clear is how
+and whether the effort to rebuild the manufacturing base for clean energy technology components
+will translate into revitalizing upstream job opportunities, especially because the same political force
+behind the deployment of clean energy technologies has generally been adverse to the extraction of
+hydrocarbon resources in the past.
+14 | Jane Nakano
+
+5
+European Union
+Status of EU Supply Chains
+The European Union consists of a variety of economies in terms of their resource endowments
+and industrial structures. Some of the EU member economies are mineral producers and
+suppliers. For example, Germany accounts for 8 percent of the global production of gallium (used
+in PV thin films), Finland accounts for 10 percent of the global production of germanium (used in
+multi-junction solar cells), Spain accounts for 31 percent of the global production of strontium (used
+in anode for solid oxide fuel cells), and France accounts for 49 percent of the global production of
+hafnium (used in super-alloys for space applications).67 EU members also include major manufacturers
+of solar PV components, wind turbines, and EVs, such as Germany, Denmark, France, Italy, Spain, and
+Switzerland. In fact, Germany is home to some of the world’s leading manufacturers of these clean
+energy components.
+Europe’s focus has traditionally been on the refining and manufacturing industries rather than the
+extractive industry.68 A combination of limited understanding of resource availability within the
+European Union and economic and societal hurdles seems to have hampered upstream development,
+leading to the relative absence of the European Union from the upstream portion of global supply
+chains for many minerals.69 This is clearly the case for the critical minerals supply for wind turbine
+technology and EV batteries. The European Union produces no more than 1 percent of the minerals
+that are needed for wind turbine technology (rare earths among them) or lithium-ion battery
+technology (e.g., cobalt, natural graphite, and lithium).70 EU capacity is also limited in the processing
+phase for component minerals for wind turbines, PV cells and modules, and batteries, making up about
+10 percent of the global supply for wind turbines and batteries and about 5 percent for PV cells and
+modules.71 EU manufacturing capacity for components for the three clean energy technologies is more
+15 | The Geopolitics of Critical Minerals Supply Chains
+
+variable. While the European Union accounts for about 20 percent and 10 percent of the global total in
+wind turbine and battery component manufacturing, respectively, EU capacity is effectively absent in
+the PV component manufacturing phase.72
+EU IDENTIFICATION OF CRITICAL MINERALS
+Since 2011, the European Commission has been issuing a list of critical and raw minerals every three
+years; the latest update was released in September 2020. The list expanded from 14 entries in 2011 to
+20 in 2014, 27 in 2017, and 30 in 2020. The 30 entries consist of 27 minerals and three mineral groups:
+heavy and light rare-earth elements (counted separately) and platinum group metals.
+The commission assessed 83 individual raw materials before finalizing the 2020 list, which was
+included in the Critical Raw Materials Resilience. The assessment work was led by the Ad hoc Working
+Group on Defining Critical Raw Materials, a sub-group of the Raw Materials Supply Group, which in
+turn is an expert group of the European Commission.
+EU Strategy and Responses
+The security of critical minerals supply chains formally became an EU agenda item in the late-2000s with
+the launch of the Raw Materials Initiative in 2008. The main aim of the Raw Materials Initiative was
+to ensure fair and sustainable supply of minerals and materials from global markets and to encourage
+efficient resource supply through recycling. The initiative emanated from growing recognition by EU
+member governments that the lack of an integrated policy response to market-distorting practices would
+limit the European Union’s ability to secure raw materials at “fair and undistorted prices.”73 The European
+Commission argued that distortion of international trade in raw minerals and materials is arising from
+the industrial strategies of emerging economies—such as China, Russia, India, and South Africa—that
+aim to protect their resource base in order to generate advantages for their downstream industries.74
+Also notable in the Raw Materials Initiative was its clear recognition that minerals, such as rare earths
+and cobalt, are important for Europe’s shift toward developing innovative “environmental-friendly [sic]”
+technologies and products.75 In 2012, the commission established the European Innovation Partnership
+on Raw Materials to carry out the Raw Materials Initiative.
+A decade later, the European Union sees secure and sustainable supply of critical minerals as an ongoing
+challenge which has risen in strategic importance as the European Union strives to deliver on the two
+inter-linked agendas of meeting its climate neutrality goal and preserving industrial competitiveness.
+Pursuing the robust deployment of clean energy technologies could exacerbate the current level of
+import-dependence for critical minerals and materials if the supply security issue is left unaddressed.
+This potential trade-off has become a disquieting issue for the European Union, which is already
+concerned that global competition for these resources has become fierce. Critical Raw Materials Resilience:
+Charting a Path towards greater Security and Sustainability, issued in September 2020, is the European
+Union’s most recent strategic document focusing on the supply security of critical minerals. Prepared by
+the Directorate-General for Internal Market, Industry, Entrepreneurship and Small-Medium Enterprises,
+Critical Raw Materials Resilience included a list of critical minerals and an action plan to increase the
+resilience of critical minerals supply chains for the European Union, with the following four aims76:
+16 | Jane Nakano
+
+▪ Develop resilient value chains for EU industrial ecosystems;
+▪ Reduce dependency on primary critical raw materials through circular use of resources,
+sustainable products, and innovation;
+▪ Strengthen the sustainable and responsible domestic sourcing and processing of raw materials in
+the European Union; and
+▪ Diversify supply with sustainable and responsible sourcing from third countries, strengthening
+rules-based open trade in raw materials and removing distortions to international trade.
+In clear recognition that the demand for clean energy technologies is the leading factor affecting its
+critical minerals demand and industrial competitiveness, the European Commission also released the
+Critical Raw Materials for Strategic Technologies and Sectors in the EU – A Foresight Study to accompany
+the Resilience document. The report not only provided the outlook for demand in minerals and
+materials in 2030 and 2050 but also detailed the risk analysis for the critical minerals supply chains
+per technologies and sectors that have strategic importance to the European Union. Among its 2050
+outlook highlights are a 60-fold growth in lithium demand, a 15-fold growth in cobalt demand, and a
+10-fold growth in demand for the rare earths used in permanent magnets.77
+Immediately following the release of Critical Raw Materials Resilience, in September 2020, the European
+Raw Materials Alliance was launched to identify barriers, opportunities, and investment cases to build
+capacity at all stages of the critical minerals value chain.78 The establishment of this alliance was the first
+of 10 actions presented in Critical Raw Materials Resilience. The alliance will complement the ongoing EU
+work on the battery value chain being pursued through the European Battery Alliance, an initiative that
+was established by the European Commission in 2017 and supported by the European Investment Bank.
+The EU strategy on the security of critical minerals supply chains has evolved to reflect emerging global
+challenges. First and foremost is climate change. The 2008 strategic document noted the linkage between
+the supply of critical minerals and the European Union’s drive to develop and innovate environmental-
+friendly technologies. In the 2020 version, climate change is a prominent focus, both as a key reason
+for the anticipated expansion of clean energy technology deployment (thus necessitating a secure
+supply of critical minerals) and as an issue on which the European Union seeks to become a global
+champion. Positioning itself to seize the economic and industrial opportunities that may arise from
+the required efforts of mitigating climate change effects, the mineral resilience strategy synergizes well
+with the European Union’s 2019 Green Deal. The sustainable use of natural resources, such as minerals
+for clean energy technologies, comports to one of the two key objectives of the Green Deal: to promote
+the efficient use of resources by moving to a circular economy.79 For example, in order to underpin the
+sustainability and circularity of battery consumption, the European Commission decided in November
+2020 to modernize EU legislation on batteries to facilitate their collection, repurposing, and recycling.80
+The shift in the global economic landscape—from one based on the neo-liberal notion of shared
+prosperity through greater integration of supply chains and trade to one that is more fragmented and
+inward-looking—is another key challenge that is shaping the European Union’s response to its critical
+minerals supply chain security. At the launch of the European Raw Materials Alliance, for example,
+Germany’s minister for economic affairs and energy noted the “growing international protectionism”
+on raw materials and remarked on the importance of supporting EU companies and stakeholders
+along the supply chain.81 This shift is the backdrop for both growing concern among policymakers over
+17 | Jane Nakano
+
+minerals supply availability and the interest in greater intra-EU solutions to leverage complementarity
+among member economies with different supply chain capacities. Both the Critical Raw Materials
+Resilience and A New Industrial Strategy for Europe, another communication by the European
+Commission, released in March 2020, feature the notion of “strategic autonomy.”82 The term is nothing
+new in European politics, particularly on the issue of transatlantic diplomacy.83 However, the concept
+has recently expanded to clearly include the notion of “reducing dependence on others for things
+[the European Union] need[s] the most,” such as critical minerals.84 As the European Union seeks
+to enhance its upstream capacity and that of nearby countries, some new mining projects are under
+development, such as a lithium mining project in the Czech Republic and a lithium-borate project
+in Serbia.85 Also, interest in nurturing its battery industry seems to be driving the European Union’s
+plan to roll out strict environmental and labor requirements for batteries, as this could protect the EU
+battery market from cheaper Asian imports.86
+There is one particular difference between the U.S. and EU strategic responses to the critical minerals
+supply chains challenge: China. In Critical Raw Materials Resilience, the European Commission articulates
+its concern that the European Union’s growing critical mineral demand may essentially mean replacing
+its existing import dependence for fossil fuels with the future import dependence for raw minerals and
+materials. However, unlike the U.S. response that has become increasingly antagonistic to China, the
+European Commission refrains from naming China as its chief competitor for critical mineral supplies
+and clean energy technology manufacturing. Nor does the European Union call out Chinese behavior as
+the primary cause for concern in the sound working of global supply chains. This difference in tone may
+reflect not only the intensifying geopolitical rivalry between the United States and China but also the
+strategic calculus for the European Union to preserve amicable economic ties with China. This is partly to
+hedge against the relative decline in U.S. geoeconomic influence and partly to not preempt the prospect
+for stronger and more balanced economic ties with China, as exemplified by multiyear efforts to conclude
+the EU-China Comprehensive Agreement on Investment.
+The third major global challenge is the Covid-19 economic crisis. In fact, the European Commission
+specifically noted in Critical Raw Materials Resilience that the Covid-19 pandemic revealed “how fast
+and how deeply global supply chains can be disrupted.”87 The EU economic recovery plan, issued in
+May 2020, identified critical minerals and materials as one of the areas where Europe needs to be
+more resilient in preparation for future shocks.88 The pandemic-induced sense of vulnerability appears
+to have amplified the European Union’s interest in enhancing its “strategic autonomy” by increasing
+supply capacity within the European Union.89 The EU Covid-19 recovery plan is thus seen as an enabler
+of enhanced resilience, as it relates to the critical minerals supply chains.
+The European Union may rely more heavily on financing and trade rules to advance its interests in
+the global competition over green mineral supply chains. For example, the European Investment Bank
+(EIB) has recently adopted a new energy lending policy that would enable the bank to support projects
+related to the supply of critical raw materials needed for low-carbon technologies in the European
+Union. The European Union looks to the EIB to help de-risk such projects and attract more private
+investment, both within the European Union and in resource-rich third countries.90 Additionally,
+viewing the integrated value chains as a “fundamental growth engine” and key for economic recovery,
+the European Commission’s communication on pandemic economic recovery has suggested a “trade
+policy review” to ensure the uninterrupted global flow of goods and services.91
+18 | The Geopolitics of Critical Minerals Supply Chains
+
+6
+Japan
+Status of Japan’s Supply Chains
+Japan is a manufacturing economy that is significantly import-dependent for natural resources,
+including critical minerals. While a sizable indium mine used to exist in the northern island of
+Hokkaido, the mine ceased operation in 2006, making Japan entirely dependent on imports for
+indium supplies.92 Japan’s presence is severely lacking in the upstream, but it does have a substantial
+rare-earth processing and manufacturing industry. For example, Japanese companies account for
+around 15 percent of annual global magnet production.93 Specifically for the global market for high-
+performance NdFeB permanent magnets, three Japanese corporations—Hitachi Metals, Shin-Etsu
+Chemical, and TDK—had a 48 percent share as of the mid-2010s.94 The Japanese capacity in the magnet
+industry stems from early inventions in the process and the acquisition of attendant intellectual
+property rights. Consequently, major manufacturers of sintered NdFeB magnets, including China and
+Germany, currently license the right to manufacture and sell these batteries from Hitachi.95
+19 | Jane Nakano
+
+JAPAN’S IDENTIFICATION OF CRITICAL MINERALS
+Japan’s first list of critical minerals was prepared by the Advisory Committee on Mining Industry in
+1984, under the direction of the Ministry of International Trade and Industry (the predecessor of the
+current METI). The list appears to have stayed constant in the subsequent decades. For example, the
+same set of minerals appears in the 2014 METI document, where the minerals are considered critical
+and thus merit policy focus and financial support to address their supply chain security.
+The list has been updated since 2014 to now include 32 critical minerals and two mineral groups—
+platinum group metals and rare-earth elements. Some minerals, such as palladium, have been
+removed, while others, such as fluorine and silicon metals, have been added since 2014.
+Japan’s Strategy and Responses
+Viewing its economic security as almost synonymous to its national security, the Japanese government
+has long approached the security of critical minerals and materials supply chains as a top priority.
+Given the absence of domestic upstream capacity, Japan pursued securing its critical minerals supply
+chains through trade, investment in mining projects overseas, stockpiling, and R&D in substitutes
+and recycling technologies. The Ministry of Economy, Trade and Industry (METI) leads the policy
+work, while Japan Oil, Gas and Metals National Corporation (JOGMEC) is the key implementing actor.
+JOGMEC is affiliated with METI and has the statutory authority to make strategic investments abroad
+to enhance Japan’s energy security.
+As early as the mid-1980s, Japan was concerned with the supply shortages that may arise from
+the slow pace of upstream development around the world and the anticipated demand growth for
+the minerals required for high-tech goods. As a result, in 1983, the Japanese government began
+stockpiling seven minerals—including tungsten, cobalt, and vanadium, three of the minerals that are
+commonly identified as critical by the United States, the European Union, and Japan today.96 However,
+determining that stockpiling is insufficient to mitigate longer-term risks to its critical minerals supply
+chains, the Japanese government also began to increase its focus on technology R&D.97
+Japanese policymakers have taken a more strategic approach to the security of critical minerals supply
+chains since the early-2000s. In July 2007, METI issued Measures to Secure the Stable Supply of Rare Metals
+Going Forward.98 This underscored the importance of “resource diplomacy” to enhance access to overseas
+mining projects, in addition to the existing focus on mineral reuse, R&D on substitutes, and stockpiling.99
+In particular, the Japanese government decided in 2008 to augment its resource diplomacy capability
+through the use of foreign aid, public finance, and trade insurance.100 In anticipation of future supply
+disruptions, Japan further introduced Strategies to Secure Rare Metals in 2009, where it clarified both its
+policy tools and focus areas around four key pillars: securing resources overseas, recycling, substitute
+development, and stockpiling.101 To date, overseas rare-earth development projects Japan initiated or
+entered into partnerships with a host country for include the Mount Weld project in Australia, the
+Don Pao project in Vietnam, and the Indian Rare Earth project in India, as well as the partnership with
+Lynas of Australia on a separation and purification plant in Malaysia.102
+For Japanese policymaking on critical minerals supply chains, 2010 was a pivotal year. In the
+aftermath of the Chinese embargo on rare-earth exports to Japan in the fall, the Japanese
+government grew alarmed with the potential exodus of Japanese midstream capacities to China, as
+20 | The Geopolitics of Critical Minerals Supply Chains
+
+the Chinese government had introduced a 25 percent export tax and 17 percent value-added tax;
+there was no such tax obligations if the foreign company manufactured inside China using local
+rare earths and then exported.103 In response, the Japanese government introduced measures,
+including 39 billion Japanese Yen package ($3.9 billion when $1=JPY100) to help Japanese firms
+cover the cost of building various capacities within Japan to mitigate the effects of material
+shortfalls.104 The effectiveness of this particular measure may be mixed or muted, however, as
+several Japanese companies nonetheless moved permanent magnet manufacturing factories to
+China between 2014 and 2018.105
+Also, in the early-2010s, having become particularly sensitive to the sense of equity among resource-
+rich countries and the attendant rise in resource nationalism, Japan expanded its resource strategy
+to include a focus on contributing to the economic development of a resource-rich country by
+considering the provision of technical expertise in areas such as resource surveying, local irrigation
+systems, and human resource development.106
+In the area of R&D, one of Japan’s key focuses has been on developing a production process that reduces
+the use of critical minerals. Products and components resulting from Japan’s R&D efforts to reduce the
+use of rare earths include abrasives and certain types of magnets.107 R&D on material reduction and
+substitutes has also been among the most active areas of Japan’s cooperation with the United States.
+Additionally, submarine deposits of critical minerals in Japan’s territorial waters have become a recent
+focus of Japan’s R&D endeavors. Between 2013 and 2017, six deposits were discovered off the southern
+island of Okinawa. Critical mineral deposits, including those containing cobalt and nickel, are under
+resource survey and various technical evaluations to ascertain their commercial feasibility.108
+A combination of Japanese strategies to seek non-Chinese upstream capacity, reuse materials, and
+develop substitutes has resulted in the reduction of Japanese reliance on Chinese rare-earth supplies
+from 85 percent in 2009 to 58 percent in 2018.109 Japan’s official target by 2025 is to reduce its rare-
+earth import reliance on a single supplier country below 50 percent, as well as to increase its self-
+sufficiency in meeting cobalt demand to 50 percent.110
+In March 2020, Japan released its latest perspective on how to secure its supply chains for critical
+minerals and materials as part of the New International Resource Strategy. The strategy underscored
+the growing importance of critical minerals for EVs and renewable power generation equipment in
+the context of the carbon emissions mitigation effort. In formulating the strategy, policymakers took
+into account rising resource competition with the United States, Europe, China, and various emerging
+economies.111 Under this strategy, the Japanese government called for better aligning mineral-specific
+criticality profiles and policy tools, reviewing the stockpile system, promoting international collaboration
+on research, and focusing on innovation related to mineral recycling, among other goals.112
+Per the New International Resource Strategy, Japan’s national parliament passed legislation in June
+2020 to amend and expand the scope of JOGMEC’s financial functions in aiding Japanese businesses’
+involvement in upstream projects abroad. Prior to the amendment, JOGMEC’s equity activities were
+limited to exploration, acquisition of existing development and production assets, and investment in
+refining activities tied to mining. The amendment expanded JOGMEC’s scope to include the ability
+to continue financing a project that progressed from the exploration phase to the development and
+production phase.113
+21 | Jane Nakano
+
+Moreover, the Japanese stockpile will expand beyond the original seven minerals and increase the
+reserve level from 60 days of domestic consumption equivalent to as much as 180 days for some of
+them.114 This would signify major modernization of Japan’s rare metal stockpiling policy; what goes
+into the strategic reserve (seven minerals) at what reserve level (60-day domestic consumption
+equivalent) had remained the same since the stockpile system was established in the mid-1980s.115
+While the centrality of industrial competitiveness has served as the core driver of Japan’s approach to
+strengthening the security of its critical minerals supply chains, its recent priority-setting has been
+attuned to major global developments, such as the Covid-19 pandemic. In particular, the disruption
+in supply chains for key electronic and automobile components from Asia during the pandemic
+heightened Japan’s sense of vulnerability. Seeking to enhance the resilience of Japan’s supply chains,
+the Japanese government passed several budgets in JFY2020 (April 2020–March 2021), totaling $5.45
+billion (when US$1 = JPY100), to aid Japanese manufacturers of goods “whose production is highly
+concentrated in select countries overseas and the disruptions in whose supply chains could deal
+significant damage to the economy,” such as critical minerals. This aid aims to reshore manufacturing
+capacity or to relocate it to elsewhere with a lower risk of supply disruptions.116
+Minerals Identified as “Critical”
+United States, Japan, and the European Union
+Japan
+Carbon (C)
+Fluorine (F)
+Thallium (Tl)
+Barium (Ba)
+Molybdenum (Mo)
+Nickel (Ni)
+Selenium (Se)
+U.S. + Japan + EU
+Antimony (Sb)
+Beryllium (Be)
+U.S. + Japan Japan + EU
+Bismuth (Bi)
+Cesium (Cs) Silicon metal (Si) Cobalt (Co)
+Chromium (Cr) Boron (B) Gallium (Ga)
+Manganese (Mn) Germanium (Ge)
+Rubidium (Rb) Hafnium (Hf)
+Rhenium (Re) Indium (In)
+Tellurium (Te) Lithium (Li)
+Zirconium (Zr) Magnesium (Mg)
+Niobium (Nb)
+Strontium (Sr)
+Tantalum (Ta)
+Titanium (Ti)
+Tungsten (W)
+Vanadium (V)
+Platinum group metals
+U.S. EU Rare-earth elements
+Arsenic (As) Phosphorus (P)
+Helium (He) U.S. + EU Coking coal
+Potash / Potassium (P) Phosphate rock
+Scandium (Sc)
+Tin (Sn) Rubber (natural)
+Aluminum (Al) / Bauxite
+Uranium (U)
+Barite (BaSO)
+4
+Flurospar
+Graphite (natural)
+Source: Created by Ian Barlow based on Department of the Interior, "Final List of Critical Minerals 2018," Federal
+Register 83, No. 97 (May 18, 2018): 23295-6, https://www.federalregister.gov/docu- energy security and
+ments/2018/05/18/2018-10667/final-list-of-critical-minerals-2018; European Commission, Critical Raw Materials climate change program
+Resilience: Charting a Path towards Greater Security and Sustainability (Brussels: European Commission,
+September 3, 2020); Ministry of Economy, Trade and Industry, Issues for Consideration in Formulating A New
+International Resource Strategy [author's translation] (Tokyo: Government of Japan, October 4, 2019).
+22 | The Geopolitics of Critical Minerals Supply Chains
+Sb, Be, Bi,
+Co, Ga, Ge, Hf,
+In, Li, Mg, Nb, Sr,
+Ta, Ti, W, V,
+Platinum group metals,
+Rare earth elements
+
+7
+Conclusion
+Key economies with innovation and manufacturing bases that are import-dependent for
+critical minerals face emerging geoeconomic competition over the supply chains of critical
+minerals. Clean energy technologies play an important role in mitigating the worst effects
+of the global climate crisis, and as such, demand is expected to grow for clean energy technologies
+and for their component critical minerals. These forces, combined with the geopolitical
+uncertainty stemming from China’s ascent and the fragility in global supply chains as illuminated
+by the Covid-19 pandemic, enhance the strategic importance of strengthening supply chains
+for critical minerals and materials. Successfully securing supply chains has implications beyond
+access to these minerals—it affects one’s ability to preserve or enhance competitiveness in
+advanced technology manufacturing, such as EVs.
+Greater recognition of the issue on the heels of the 2010 Chinese rare-earth export embargo and
+the WTO victory in 2014 has not appeared to materially improve current import-dependence for
+critical minerals by key economies such as the United States and the European Union. However,
+there are indications that progress is being made. For example, the U.S. strategy is beginning
+to show promise, with the launch of several domestic separation/processing and component
+manufacturing projects. The EU effort is gaining momentum in the area of reuse and recycle, while
+intra-EU upstream development may leverage additional resources from the post-Covid economic
+recovery plan. Meanwhile, Japan’s focused approach on partnering with resource-rich countries for
+mineral supplies and on advancing the development of reduce, reuse, and recycle technologies has
+effectively reduced its dependence on Chinese rare earths, although the country remains import-
+dependent for critical mineral supplies.
+23 | Jane Nakano
+
+Different economies are motivated by different concerns that reflect their resource endowment
+profiles and industrial structures. The United States appears most concerned with securing
+uninterrupted access to critical minerals-based components for defense applications, as
+well as reducing substantial import dependence on a single supplier that could be exploited
+geopolitically. Meanwhile, the European Union and Japan appear primarily concerned with securing
+uninterrupted access to affordably-priced critical minerals and processed materials to protect their
+industrial competitiveness and domestic manufacturers. While likely inevitable, this lack of a common
+definition of “security” as it relates to critical minerals supply chains may be one barrier to effective
+multilateral partnerships on this matter.
+The experiences of key economies suggest that the availability of domestic mineral supplies is hardly
+the sole indispensable factor in one’s ability to have secure supply chains. For instance, the lack of
+domestic capacity to separate and process rare-earth concentrates has limited the United States from
+fully capitalizing on its rare-earth mineral supplies at Mountain Pass. Moreover, Chinese experience
+with the DRC shows that one need not hold major domestic cobalt deposits to become dominant in
+subsequent midstream and downstream phases along the value chain.
+The potential contribution of domestic upstream capacity presents an interesting question in
+the context of the United States and Europe. In both economies, the environmental and climate-
+mitigation movement has favored renewable power sources and clean energy technologies,
+sometimes at the exclusion of lower-carbon fossil fuels, such as natural gas. The use of hydrocarbon
+resources has come under scrutiny in phases ranging from resource extraction, to domestic
+combustion, to export for use in a power or industrial sector abroad. Balancing concerns on import
+dependence with the public acceptance of domestic mineral production is a public policy issue that
+merits robust discussion.
+Another important issue is the tension between national economic security concerns and
+commercial concerns. The former relates to issues such as energy import dependence and industrial
+competitiveness from a national perspective, while the latter relates to corporate interests in
+preserving market share and maximizing profits. Would a manufacturer procure domestically sourced
+minerals if they were much more expensive than foreign supplies, even in the name of national
+interest to develop more secure critical minerals supply chains?
+The security of supply chains for the minerals and materials needed in clean energy technologies
+has become a strategic issue, not only because it could affect the pace of clean energy technology
+deployment but also because clean energy technology has become the latest frontier for geoeconomic
+rivalries. Competition over critical mineral supplies and the technical capacities to turn them into
+clean energy goods is increasing. Major economies are reexamining the security of their critical
+minerals supply chains and refining their strategies in order to enhance their security. While the U.S.
+approach is multipronged, reflective of its mineral wealth as well as its strong innovation base, EU and
+Japanese approaches favor innovation to drive the reduction, reuse, and recycling of materials. What
+exactly drives each economy’s strategy to enhance the security of critical minerals may differ, but their
+efforts warrant sustained political commitment, especially in the area of technology innovation. It was
+innovation and ingenuity—in the form of combined application of hydraulic fracturing and horizontal
+drilling for shale oil and gas extraction—that played a central role in turning the public concern
+over “peak oil” from one about finite supply to one about declining demand. Innovation has helped
+24 | The Geopolitics of Critical Minerals Supply Chains
+
+to diminish oil’s currency as a geopolitical asset and altered the geopolitics between oil-producing
+economies as well as their relationships with oil import-dependent economies. Will innovation play a
+similar role in altering the geopolitics of critical minerals supply chains? A race is on for innovation. It
+is a race that could make every economy a winner if the outcome significantly improves the security of
+supply chains for minerals and materials and facilitates the deployment of clean energy technologies
+that are essential in addressing the existential threat of climate change.
+25 | Jane Nakano
+
+8
+About the Author
+Jane Nakano is a senior fellow in the Energy Security and Climate Change Program at the Center
+for Strategic and International Studies (CSIS). Her research interests include U.S. energy policy;
+global market and policy developments concerning natural gas, nuclear energy, and critical
+minerals; and energy security and climate issues in the Asia-Pacific region. She frequently writes and
+speaks on these issues at domestic and international conferences and to media around the world. She
+has also testified before Congress on U.S. liquefied natural gas (LNG) exports and before the U.S.-China
+Economic and Security Review Commission on U.S.-China nuclear energy cooperation. Prior to joining
+CSIS in 2010, Nakano worked in the Office of Policy and International Affairs in the U.S. Department
+of Energy, where she covered a host of energy, economic, and political issues in Asia. From 2001 to
+2002, she served at the U.S. embassy in Tokyo as special assistant to the energy attaché. Nakano
+graduated from Georgetown University’s School of Foreign Service and holds a master’s degree from
+Columbia University’s School of International and Public Affairs.
+26 | Jane Nakano
+
+Endnotes
+1 Kirsten Hund, Daniele La Porta, Thao P. Fabregas, Tim Laing, and John Drexhage, Minerals for Climate Action:
+The Mineral Intensity of the Clean Energy Transition (Washington, DC: World Bank, 2020), 11, http://pubdocs.
+worldbank.org/en/961711588875536384/Minerals-for-Climate-Action-The-Mineral-Intensity-of-the-Clean-
+Energy-Transition.pdf.
+2 Rare earths are a group of 17 elements composed of scandium, yttrium, and the lanthanides. They are difficult
+and costly to extract and process, although they are relatively abundant across the world.
+3 Tsisilile Igogo, Debra Sandor, Ahmad Mayyas, and Jill Engel-Cox, Supply Chain of Raw Materials Used in the
+Manufacturing of Light-Duty Vehicle Lithium-Ion Batteries (Golden, CO: National Renewable Energy Laboratory,
+August 2019), vi, https://www.nrel.gov/docs/fy19osti/73374.pdf.
+4 Tetsushi Takahashi, “A future in which China no longer needs the world but the world cannot spin without it,”
+Financial Times, December 15, 2020, https://www.ft.com/content/ad93c3ba-3fd4-4005-97ba-ffe8bbd3c964.
+5 Jacqueline Holman and Jia Hui Tan, “Cobalt hydroxide shipments from South Africa ongoing; concerns lift
+price sentiment,” S&P Global Platts, January 12, 2021, https://www.spglobal.com/platts/en/market-insights/
+latest-news/electric-power/011221-cobalt-hydroxide-shipments-from-s-africa-ongoing-concerns-lift-price-
+sentiment-sources.
+6 Sarah Ladislaw et al., Industrial Policy, Trade, and Clean Energy Supply Chains (Washington, DC: Center for
+Strategic and International Studies, and BloombergNEF, February 2021), 10-11, https://www.csis.org/analysis/
+industrial-policy-trade-and-clean-energy-supply-chains.
+7 Ibid., 10.
+8 Ibid., 11–12.
+9 The process of separating the individual rare-earth elements from each other is a chemical-intensive process
+because these elements are very chemically similar to one another. For more information, see Cindy Hurst,
+China’s Rare Erath Elements Industry: What Can the West Learn? (Washington, DC: Institute for the Analysis of
+Global Security, March 2010), 18–19, http://americanresources.org/wp-content/uploads/2011/09/rareearth.pdf.
+10 “Global and China Cobalt Industry Report, 2018-2023,” PR Newswire, March 26, 2019, https://www.
+prnewswire.com/news-releases/global-and-china-cobalt-industry-report-2018-2023-300818715.html.
+11 Ladislaw et al., Industrial Policy, Trade, and Clean Energy Supply Chains, 11.
+12 “Global and China Cobalt Industry Report, 2018-2023,” PR Newswire.
+13 Ladislaw et al., Industrial Policy, Trade, and Clean Energy Supply Chains, 10.
+14 Ibid., 10.
+15 Tom Daly, “China becomes world’s biggest importer of rare earths: analysts,” Reuters, March 13, 2019, https://
+www.reuters.com/article/us-china-rareearths/china-becomes-worlds-biggest-importer-of-rare-earths-
+analysts-idUSKBN1QU1RO.
+27 | The Geopolitics of Critical Minerals Supply Chains
+
+16 Yujia He, “Re-Control the Market for Strategic Power: China’s Reregulation of its Rare Earth Industry,”
+(Ph.D. dissertation, Georgia Institute of Technology, 2016), 175, https://smartech.gatech.edu/bitstream/
+handle/1853/58561/HE-DISSERTATION-2016.pdf.
+17 Ibid., 179
+18 Ibid., 176.
+19 Marc Humphries, Critical Minerals and U.S. Public Policy, CRS Report No. R45810 (Washington, DC:
+Congressional Research Service, June 28, 2019), 40, https://crsreports.congress.gov/product/pdf/R/R45810/2.
+20 Yuzhou Shen, Ruthann Moomy, and Roderic G. Eggert, “China’s public policies toward rare earths, 1975–
+2018,” Miner Econ 33 (2020), 133, doi:10.1007/s13563-019-00214-2.
+21 “United States Wins Victory in Rare Earths Dispute with China: WTO Report Finds China’s Export Restraints
+Breach WTO Rules,” Office of U.S. Trade Representative, Press release, March 26, 2014, https://ustr.gov/about-
+us/policy-offices/press-office/press-releases/2014/March/US-wins-victory-in-rare-earths-dispute-with-China.
+22 Max J. Zenglein and Anna Holzmann, Evolving Made in China 2025 (Berlin: MERICS, July 2, 2019), https://
+merics.org/en/report/evolving-made-china-2025.
+23 Pan Aihua, “What Made-in-China 2025 means for petrochemicals and chemicals,” Canadian Process
+Equipment & Control News, October 24, 2018, https://www.cpecn.com/features/what-made-in-china-2025-
+means-for-petrochemicals-and-chemicals/.
+24 CK Tan and Iori Kawate, “China aims to reach ‘new level’ of prosperity by 2035,” Nikkei Asia, October 29, 2020,
+https://asia.nikkei.com/Politics/China-aims-to-reach-new-level-of-prosperity-by-2035.
+25 Shen, Moomy, and Eggert , “China’s public policies toward rare earths,” 138.
+26 Ibid.
+27 Ibid., 142.
+28 Xie Jun and Li Xuanmin, “Export control law to affect rare earths, UAVs,” Global Times, November 30, 2020,
+https://www.globaltimes.cn/content/1208529.shtml.
+29 Liu Zhihua and Liu Yukun, “China to step up protection of rare earth resources,” China Daily, January 16, 2021,
+https://global.chinadaily.com.cn/a/202101/16/WS60023d3aa31024ad0baa3039.html.
+30 Ibid.
+31 Vaibhav Gupta, Tirtha Biswas, and Karthik Ganesan, Critical Non-Fuel Mineral Resources for India’s
+Manufacturing Sector: A Vision for 2030 (New Delhi: Council on Energy, Environment and Water (CEEW) and
+the National Science and Technology Management Information System Division of the Department of Science
+and Technology of India, 2016), https://dst.gov.in/sites/default/files/CEEW_0.pdf.
+32 Julia Pyper, “How India’s Renewable Energy Sector Survived and Thrived in a Turbulent 2020,” Greentech
+Media, January 6, 2021, https://www.greentechmedia.com/articles/read/india-solar-energy-transition-
+pandemic-2020; and “India turns to electric vehicles to beat pollution,” BBC News, July 23, 2019, https://www.
+bbc.com/news/world-asia-india-48961525.
+33 Karl Decena, “Australia signs MOU to supply critical minerals to India,” S&P Global, June 4, 2020, https://www.
+spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/australia-signs-mou-to-supply-
+28 | Jane Nakano
+
+critical-minerals-to-india-58922619.
+34 Government of Australia, Australia’s Critical Minerals Strategy (Canberra: Australian Department of Industry,
+Science, Energy and Resources, 2019), https://www.industry.gov.au/data-and-publications/australias-critical-
+minerals-strategy/national-actions-on-critical-minerals.
+35 Ibid.
+36 The United States has a stockpile of materials, the National Defense Stockpile (NDS), that is managed by the
+director of the Defense Logistics Agency and is set up to meet the DOD’s mission requirements—not to supply
+the clean energy industry. The current NDS contains 37 materials (valued at $1.152 billion) that are mostly
+processed metals or other downstream products, including rare-earth and lithium-ion precursors. (For more
+information, see Humphries, Critical Minerals and U.S. Public Policy, 7.)
+37 The European Commission deliberated on the efficacy of national stockpiling of critical minerals in 2012
+but found no support for it. For more information, see European Commission, On the Implementation of the
+Raw Materials Initiative (Brussels: European Commission, June 24, 2013), 3–4, https://eur-lex.europa.eu/
+LexUriServ/LexUriServ.do?uri=COM:2013:0442:FIN:EN:PDF.
+38 Brandon S. Tracy, An Overview of Rare Earth Elements and Related Issues for Congress, CRS Report No. R46618
+(Washington, DC: Congressional Research Service, November 24, 2020), 2, https://www.everycrsreport.com/
+files/2020-11-24_R46618_6639173333b5877128b3af8449e1c1d88a16f327.pdf.
+39 Jeffery A. Green, “The collapse of American rare earth mining—and lessons learned,” Defense News, November
+12, 2019, https://www.defensenews.com/opinion/commentary/2019/11/12/the-collapse-of-american-rare-
+earth-mining-and-lessons-learned/.
+40 Humphries, Critical Minerals and U.S. Public Policy, 2.
+41 Ibid., 3.
+42 “Critical Materials Rare Earths Supply Chain: A Situational White Paper,” U.S. Department of Energy (U.S.
+DOE), April 2020, 7, https://www.energy.gov/sites/prod/files/2020/04/f73/Critical%20Materials%20
+Supply%20Chain%20White%20Paper%20April%202020.pdf.
+43 Tracy, An Overview of Rare Earth Elements.
+44 “DOD Announces Rare Earth Element Awards to Strengthen Domestic Industrial Base,” U.S. Department
+of Defense, Press release, November 17, 2020, https://www.defense.gov/Newsroom/Releases/Release/
+Article/2418542/dod-announces-rare-earth-element-awards-to-strengthen-domestic-industrial-base/; and
+“DOD Announces Rare Earth Element Award to Strengthen Domestic Industrial Base,” U.S. Department
+of Defense, Press release, February 1, 2021, https://www.defense.gov/Newsroom/Releases/Release/
+Article/2488672/dod-announces-rare-earth-element-award-to-strengthen-domestic-industrial-base/.
+45 “Critical Materials Rare Earths Supply Chain,” U.S. DOE, 7–8.
+46 Notably, Panasonic announced in January 2021 its plan to develop batteries for Tesla that are free of cobalt
+over the next few years. Mitsuru Obe, “Cheaper Tesla? Panasonic to develop cobalt-free battery,” Nikkei Asia,
+January 12, 2021, https://asia.nikkei.com/Business/CES-2021/Cheaper-Tesla-Panasonic-to-develop-cobalt-
+free-battery.
+47 David R Baker, “Why Batteries Are the Key to Biden’s Green Dreams,” Bloomberg Green, January 16, 2021,
+https://www.bloomberg.com/news/articles/2021-01-16/why-batteries-are-the-key-to-biden-s-green-dreams-
+quicktake?sref=B2BBHw9t.
+29 | The Geopolitics of Critical Minerals Supply Chains
+
+48 U.S. DOE, Critical Materials Strategy (Washington, DC: December 2011), 120, https://www.energy.gov/sites/
+prod/files/DOE_CMS2011_FINAL_Full.pdf.
+49 U.S. Government Accountability Office, Advanced Technologies: Strengthened Federal Approach Needed to Help
+Identify and Mitigate Supply Risks for Critical Raw Materials (Washington, DC: September 2016), 2, https://www.
+gao.gov/assets/680/679577.pdf.
+50 U.S. DOE, Critical Materials Strategy.
+51 U.S. DOE, Critical Materials Technology Assessments, Quadrennial Technology Review 2015 (Washington, DC: U.S.
+Department of Energy, 2015), https://www.energy.gov/sites/prod/files/2015/12/f27/QTR2015-6F-Critical-
+Materials.pdf.
+52 U.S. Department of Commerce, A Federal Strategy to Ensure Secure and Reliable Supplies of Critical Minerals
+(Washington, DC: June 2019).
+53 Ibid., 27.
+54 “Energy Resource Governance Initiative,” U.S. Department of State Bureau of Energy Resources, Fact sheet,
+2019, https://www.state.gov/wp-content/uploads/2019/06/Energy-Resource-Governance-Initiative-ERGI-
+Fact-Sheet.pdf.
+55 “Nine countries join U.S. strategic minerals initiative,” Reuters, September 26, 2019, https://www.reuters.
+com/article/usa-minerals-china-idUSL2N26G229.
+56 U.S. Department of Commerce, A Federal Strategy to Ensure Secure and Reliable Supplies of Critical Minerals, 6.
+57 “Critical Materials Rare Earths Supply Chain,” U.S. DOE, 2.
+58 U.S. Department of Commerce, Federal Strategy to Ensure Secure and Reliable Supplies of Critical Minerals, 25.
+59 “Executive Order 13953: Addressing the Threat to the Domestic Supply Chain from Reliance on Critical
+Minerals from Foreign Adversaries and Supporting the Domestic Mining and Processing Industries,” White
+House, September 2020, https://www.federalregister.gov/documents/2020/10/05/2020-22064/addressing-
+the-threat-to-the-domestic-supply-chain-from-reliance-on-critical-minerals-from-foreign.
+60 U.S. DOE, Critical Minerals and Materials—U.S. Department of Energy’s Strategy to Support Domestic Critical mineral
+and Material Supply Chain (FY2021-FY2031) (Washington, DC: January 2021), https://www.energy.gov/sites/
+prod/files/2021/01/f82/DOE%20Critical%20Minerals%20and%20Materials%20Strategy_0.pdf.
+61 Ibid., 3.
+62 Ibid., 4.
+63 “Executive Order on America’s Supply Chains,” White House, February 24, 2021, https://www.whitehouse.
+gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/; White
+House, “America’s Supply Chains,” Federal Register, March 3, 2021, https://www.federalregister.gov/
+documents/2021/03/01/2021-04280/americas-supply-chains.
+64 “Fact Sheet: Securing America’s Critical Supply Chains,” White House, February 24, 2021, https://www.
+whitehouse.gov/briefing-room/statements-releases/2021/02/24/fact-sheet-securing-americas-critical-supply-
+chains/.
+30 | Jane Nakano
+
+65 “The Biden Plan to Rebuild U.S. Supply Chains and Ensure the U.S. Does Not Face Future Shortages of Critical
+Equipment,” Biden for President, https://joebiden.com/supplychains/.
+66 “The Executive Order on Ensuring the Future is Made in all of America by All of America’s Workers,” White
+House, January 25, 2021, https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/25/
+executive-order-on-ensuring-the-future-is-made-in-all-of-america-by-all-of-americas-workers/.
+67 European Commission, Study on the EU’s list of Critical Raw Materials – Final Report (Brussels: European
+Commission, 2020), 7, https://ec.europa.eu/growth/sectors/raw-materials/specific-interest/critical_en.
+68 Ibid., 14.
+69 Ibid.
+70 European Commission, Critical Materials for Strategic Technologies and Sectors in the EU - A Foresight Study
+(Brussels: European Commission, 2020), https://ec.europa.eu/docsroom/documents/42881.
+71 Ibid.
+72 Ibid.
+73 European Commission, The raw materials initiative — meeting our critical needs for growth and jobs in
+Europe (Brussels: European Commission, April 11, 2008), 5, https://eur-lex.europa.eu/legal-content/EN/
+TXT/?uri=CELEX:52008DC0699.
+74 Ibid., 9
+75 Ibid., 3.
+76 European Commission, Critical Raw Materials Resilience: Charting a Path towards greater Security and
+Sustainability (Brussels: European Commission, September 3, 2020), https://eur-lex.europa.eu/legal-content/
+EN/TXT/?uri=CELEX:52020DC0474.
+77 Ibid., 5.
+78 “About Us,” European Raw Materials Alliance, https://erma.eu/about-us/.
+79 European Commission, The European Green Deal (Brussels: EuropeanCommission,December 11, 2019), https://
+eur-lex.europa.eu/legal-content/EN/TXT/?qid=1596443911913&uri=CELEX:52019DC0640#document2.
+80 “Green Deal: Sustainable batteries for a circular climate neutral economy,” European Commission, Press
+release, December 10, 2020, https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2312.
+81 Frédéric Simon, “Europe faces up to China’s supremacy on raw materials,” Euractiv, October 5, 2020, https://
+www.euractiv.com/section/circular-economy/news/europe-faces-up-to-chinas-supremacy-on-raw-materials/.
+82 European Commission, A New Industrial Strategy for Europe (Brussels: European Commission, March 10, 2020),
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020DC0102.
+83 Daniel Fiott, Strategic autonomy: towards ‘European sovereignty’ in defense? (Paris: European Union Institute
+for Security Studies, November 2018), https://www.iss.europa.eu/sites/default/files/EUISSFiles/Brief%20
+12__Strategic%20Autonomy.pdf.
+84 European Commission, A New Industrial Strategy for Europe, 13.
+31 | The Geopolitics of Critical Minerals Supply Chains
+
+85 Frédéric Simon, “Raw materials: the missing link in Europe’s drive for batteries,” Euractiv, November 9, 2020,
+https://www.euractiv.com/section/energy-environment/news/raw-materials-the-missing-link-in-europes-
+drive-for-batteries/.
+86 Sam Morgan, “EU could ban dirty battery imports, says Commission VP,” Euractiv, December 9, 2019, https://
+www.euractiv.com/section/batteries/news/eu-could-ban-dirty-battery-imports-says-sefcovic/.
+87 European Commission, Critical Raw Materials Resilience, 1.
+88 “Europe’s Moment: Repair and Prepare for the Next Generation,” European Commission, Press Release, May
+27, 2020, 12–13, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM:2020:456:FIN.
+89 Ibid.
+90 European Commission, Critical Raw Materials Resilience, 8.
+91 “Europe’s Moment,” European Commission, 13.
+92 National Institute for Environmental Studies, “Technologies for Rare Metal Recycling [Author’s translation],”
+（レアメタル リサイクル技術 in the original language）(2016), https://tenbou.nies.go.jp/science/
+description/detail.php?id=62.
+93 Australian Trade and Investment Commission, Critical Minerals Supply Chain in the United States
+(Australian Trade and Investment Commission, September 2019), 5, https://www.austrade.gov.au/
+ArticleDocuments/1358/Critical-minerals-US-report.pdf.aspx.
+94 He, “Re-Control the Market for Strategic Power,” 128.
+95 “Critical Materials Rare Earths Supply Chain,” U.S. DOE, 9.
+96 Satoshi Kawamura and Haruto Takeda, “Natural Resource and Energy Policies,” Summary of Trade and Industrial
+Policies, 1980-2000, No.10 [Author’s translation] (通商産業政策 (1980~2000年) の概要 (10) 資源エネルギー
+政策 in the original language), RIETI Policy Discussion Paper Series 14-P-017, Research Institute of Economy,
+Trade and Industry (August 2014): 11, https://www.rieti.go.jp/jp/publications/pdp/14p017.pdf.
+97 Ibid.
+98 Author’s translation. The original is 今後のレアメタルの安定供給対策について.
+99 Yozo Baba, “An Overview of the Current Situation of the Metals and Minerals Market,” Journal of the Surface
+Science Society of Japan 29, no. 10 (2008), 584, https://www.jstage.jst.go.jp/article/jsssj/29/10/29_10_578/_
+pdf/-char/ja.
+100 Ministry of Foreign Affairs, Guidelines for Securing Natural Resources [Author’s translation] (資源確保指針の
+策定について in the original language) (Tokyo: Government of Japan, 2008), https://www.mofa.go.jp/mofaj/
+gaiko/energy/shishin.html.
+101 Ministry of Economy, Trade and Industry, Strategies for Securing Rare Metals [Author’s translation] (レアメタ
+ル確保戦略 in the original language) (Tokyo: Government of Japan, July 28, 2009), http://www.gichokai.gr.jp/
+archive/member/chosabu/zengishiryo/21nen/038/038-1.pdf.
+102 Ministry of Economy, Trade and Industry, A Broad Picture of Measures to Secure Rare Metals [Author’s
+translation] (レアメタル等の確保に向けた取組の全体像 in the original language) (Tokyo: Government of
+Japan, December 2011), 3, https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/haikibutsu_recycle/
+32 | Jane Nakano
+
+pdf/018_03_00.pdf.
+103 Yujia He, “Regulation of China’s rare earth production and export,” International Journal of Emerging Markets
+(April 2014), 249, doi:10.1108/IJoEM-09-2012-0117.
+104 Ministry of Economy, Trade and Industry, Comprehensive Measures Regarding Rare Earths [Author’s translation]
+(レアアース総合対策 in the original language) (Tokyo: Government of Japan, December 13, 2010), 5, https://
+www.jraia.or.jp/member/oshirase/mite-nedo201012_1.pdf.
+105 Ministry of Economy, Trade and Industry, Critical Non-China Supply Chain in the Age of Green Innovation
+(Tokyo: Government of Japan, September 1, 2020), 14.
+106 Ministry of Economy, Trade and Industry, Strategies to Secure Natural Resources [Author’s translation] (資源
+確保戦略 in the original language) (Tokyo: Government of Japan, 2012), 6, http://www.kantei.go.jp/jp/singi/
+package/dai15/sankou01.pdf.
+107 Ministry of Economy, Trade and Industry, Critical non-China Supply Chain in the Age of Green Innovation, 13.
+108 Ministry of Economy, Trade and Industry, The Strategic Energy Plan (Tokyo: Government of Japan, July 2018),
+37, https://www.enecho.meti.go.jp/en/category/others/basic_plan/5th/pdf/strategic_energy_plan.pdf.
+109 Ministry of Economy, Trade and Industry, Critical non-China Supply Chain in the Age of Green Innovation, 13.
+110 Ibid., 23.
+111 Ministry of Economy, Trade and Industry, New International Resource Strategy (Tokyo: Government of Japan,
+March 2020), 9, https://www.meti.go.jp/press/2019/03/20200330009/20200330009-1.pdf.
+112 Ibid., 11.
+113 Ministry of Economy, Trade and Industry, Critical Non-China Supply Chain in the Age of Green Innovation, 22.
+114 Rieko Suda, “Japan to strengthen control over rare metal reserves,” Argus Media, July 3, 2020, https://www.
+argusmedia.com/en/news/2120125-japan-to-strengthen-control-over-rare-metal-reserves; and Ministry of
+Economy, Trade and Industry, New International Resource Strategy, 10.
+115 Ministry of Economy, Trade and Industry, Issues for Consideration in Formulating A New International Resource
+Strategy [Author’s translation] (新・国際資源戦略の策定に向けた論点 in the original language) (Tokyo:
+Government of Japan, October 4, 2019), 47, https://www.meti.go.jp/shingikai/enecho/shigen_nenryo/sekiyu_
+gas/pdf/010_03_00.pdf.
+116 Ministry of Economy, Trade and Industry, A Summary of Supplementary Budget for Fiscal Year 2020 [Author’s
+translation] (令和２年度補正予算 in the original language) (Tokyo: Government of Japan, April 2020),
+5, https://www.meti.go.jp/main/yosan/yosan_fy2020/hosei/pdf/hosei_yosan_gaiyo.pdf; and Ministry of
+Economy, Trade and Industry, A Summary of Projects Related to the Third Supplementary Budget for Fiscal
+Year 2020 [Author’s translation] (令和２年度第３次補正予算の事業概要 in the original language) (Tokyo:
+Government of Japan, January 2021), 26–27. https://www.meti.go.jp/main/yosan/yosan_fy2020/hosei/pdf/
+hosei3_yosan_pr.pdf.
+33 | The Geopolitics of Critical Minerals Supply Chains
+
+COVER PHOTO IAN BARLOW
+1616 Rhode Island Avenue NW
+Washington, DC 20036
+202 887 0200 | www.csis.org

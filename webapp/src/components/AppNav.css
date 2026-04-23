@@ -112,3 +112,13 @@
   text-transform: uppercase;
   white-space: nowrap;
 }
+
+/* ── mobile ──────────────────────────────────────────────────────────── */
+@media (max-width: 640px) {
+  .app-nav { padding: 0 0.75rem; gap: 0; }
+  .app-nav-logo { margin-right: 0.75rem; font-size: 0.95rem; }
+  .app-nav-link span:last-child { display: none; }
+  .app-nav-link { padding: 0.4rem 0.6rem; }
+  .app-nav-tag { display: none; }
+  .app-nav-pulse { display: none; }
+}

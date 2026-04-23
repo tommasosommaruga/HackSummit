@@ -1,0 +1,1515 @@
+LME Responsible Sourcing Handbook
+Version 1
+Publication date: May 2023
+THE LONDON METAL EXCHANGE
+10 Finsbury Square, London EC2A 1AJ | Tel +44 (0)20 7113 8888
+Registered in England no 2128666. Registered office as above.
+LME.COM
+
+LME responsible sourcing handbook
+Table of contents
+1 Introduction ................................................................................................................................... 1
+2 Overview of the LME Policy on Responsible Sourcing of LME-Listed Brands ............................. 2
+3 LME requirements......................................................................................................................... 4
+4 Brand compliance ......................................................................................................................... 7
+5 Conclusion .................................................................................................................................. 17
+Appendix A: Guidance Note on Track B Audits ................................................................................ A - 1
+Appendix B: Guidance Note on Supplier Red Flags ......................................................................... B - 1
+Appendix C: Guidance Note on Conflict-Affected and High-Risk Areas (“CAHRAs”) ...................... C - 1
+Appendix D: Guidance Note on ISO 14001 and ISO 45001 Compliance ......................................... D - 1
+Appendix E: Assurance summary table ............................................................................................ E - 1
+Table of figures
+Figure 1: LME framework for responsible sourcing ................................................................................ 7
+Figure 2: LME tracks to OECD Guidance implementation ..................................................................... 8
+Figure 3: Track A – compliance process for the recognised alignment-assessed standard track ....... 10
+Figure 4: Track B – compliance process for the audited LME RFA track ............................................. 12
+Figure 5: Track C – compliance process for the published LME RFA track ......................................... 13
+Figure 6: RFA phased transparency approach ..................................................................................... 14
+Figure 7: Track D – compliance process for the Secondary Materials Track ....................................... 15
+Figure 8: LME timeline .......................................................................................................................... 16
+Figure i: Supplier red flags flow chart ................................................................................................ B - 2
+Figure ii: ISO compliance flow chart ................................................................................................. D - 2
+
+LME responsible sourcing handbook
+1 Introduction
+The LME occupies a privileged position in the global metals industry. Its Brands list determines which
+categories of metal can be delivered against LME contracts; and more broadly, many international
+physical supply contracts stipulate LME Brands for delivery. Accordingly, the LME is able to work with
+the metals and mining industry to ensure that its Brand list embodies global expectations of best
+practice.
+For over a century, the LME stipulated only metallurgical standards for its Brands. While the LME does
+not change its approach lightly, after a lengthy market engagement and a formal consultation, the
+responsible sourcing requirements were introduced in October 2019. The requirements laid out in the
+LME Policy on Responsible Sourcing of LME-Listed Brands (the “Policy”) apply to all Brands listed for
+good delivery on the LME against physically settled contracts (aluminium, aluminium alloy, North
+American Special Aluminium Alloy Contract (“NASAAC”), cobalt, copper, lead, nickel, tin and zinc).
+These requirements are designed to ensure that metal eligible for delivery against LME contracts
+(LME-listed Brands) appropriately embodies relevant responsible sourcing standards. The
+requirements are:
+1. Implement the OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from
+Conflict-Affected and High-Risk Areas (“OECD Guidance”) through track A, B or C, or confirm
+secondary sourcing through Track D
+2. Maintain an ISO 14001 environmental management system certification or equivalent
+3. Maintain an ISO 45001 occupational health and safety management system certification or
+equivalent
+This handbook summarises the Policy and provides specific guidance on topics that merit additional
+explanation. All the information contained within this handbook (the “Information”) is provided for
+guidance and background purposes only and should therefore be used in conjunction with the Policy.
+All capitalised terms not defined in this handbook have the meaning ascribed to them in the Policy.
+This document may be updated from time to time to reflect changes to the Policy resulting from either
+changes to OECD Guidance or otherwise. In the event of any conflict or inconsistency between the
+Information and the Policy, the Policy shall prevail. Recipients of the Information should consult the
+LME website for further information on the Policy. Neither the LME, nor any of its affiliates makes any
+warranty or representation, express or implied, or accepts any responsibility or liability for, the reliability
+or suitability of the Information for any particular purpose. Any market participant with questions in
+respect of any aspect of the LME’s responsible sourcing requirements is encouraged to contact the
+LME at responsiblesourcing@lme.com.
+1
+
+LME responsible sourcing handbook
+2 Overview of the LME Policy on Responsible Sourcing of
+LME-Listed Brands
+2.1 LME rationale
+The LME created the LME Policy on Responsible Sourcing of LME-Listed Brands for three intrinsically
+linked reasons, as follows:
+• Collective ethical responsibilities. The LME believes that its industry has an ethical imperative
+to embrace principles of responsible sourcing – and therefore, the LME has a key role in facilitating
+this. The LME is a seller’s market, which means that a buyer of metal may be delivered metal of
+any LME-listed Brand. The LME cannot accept a situation where consumers are required to take
+delivery of metal which is not responsibly sourced.
+• Commercial imperative. The fundamental service of the LME is to price metals – and, by the
+nature of its market, the LME price will generally be the price of the least valuable Brand in the
+Brand lists. The LME must act to ensure that its price reflects the value of responsibly sourced
+metal, and is not artificially depressed by metal which is not sourced in such a manner.
+• Providing leadership for the global metals industry. LME stakeholders demand responsible
+sourcing – and the metals industry must collectively live up to the responsibility. The LME has
+listened to calls for it to take a leading role on responsible sourcing – calls which arise because
+the LME can most efficiently promote a centralised process. And the LME can do this in a manner
+which leverages the LME’s embedded knowledge of the metals market, respects the logistical
+challenges, builds on existing work in the sector, and provides appropriate time and support to
+Producers in meeting these requirements.
+The LME sees these drivers as entirely complementary. The ultimate arbiter of ethics must be the
+global consumer; increasingly, consumers are standing up for their ethical beliefs, and demanding that
+the products they purchase are made from responsibly sourced metal. Those who work in the metals
+industry also bring strong ethical views on the activities of their own companies. Given this
+combination, then, the entire supply chain must react, and it becomes the commercial interest of all
+participants to provide responsibly sourced metal.
+2.2 Features underpinning the LME requirements
+The following principles encapsulate the foundation of the LME’s approach to responsible sourcing:
+• The twin tools of transparency and standards. Transparency sits at the heart of the LME’s
+strategy; it allows consumers to understand the steps being taken by Producers in respect of
+responsible sourcing, and drives consistency in the application of standards across and within
+industries. Equally, the LME recognises that if it is to request such transparency from its Producers,
+then those Producers must be able to trust that transparency will be used fairly. In particular,
+Producers who embrace transparency should not feel that they will be disadvantaged by being
+open about their supply chain risks, while peers may not; further, that the provision of such
+transparency will not reveal confidential sensitive information about their company. The information
+to be made transparent must be meaningful and verifiable without being commercially prejudicial;
+this balance is at the heart of the LME’s requirements.
+At the same time, the LME also believes that consumers of metal are entitled to a minimum
+standard – even if they do not themselves choose to analyse the metals which make up the supply
+chain of products that they consume. Accordingly, the LME believes that standards are a crucial
+2
+
+LME responsible sourcing handbook
+element of its system. And while it understands that standards alone could lead to “greenwashing”
+and a lack of incentive to go beyond minimum standards, the LME believes that the combination of
+transparency and standards represents an optimised toolbox to protect consumers.
+This is why the LME’s requirements build on the Organisation for Economic Co-operation and
+Development (“OECD”) Due Diligence Guidance for Responsible Supply Chains of Minerals from
+Conflict-Affected and High-Risk Areas (“OECD Guidance”) in requiring both minimum standards
+and transparency from all Brands, wherever they source their metal. Through OECD compliance,
+the LME market will meet these dual obligations.
+To facilitate this, and in recognition that many models exist for achieving this end, the LME is
+provides a number of tracks through which Producers may achieve such compliance, fully inclusive
+of transparency requirements. The LME will be monitoring this intersection of standards and
+transparency carefully to ensure that the resulting transparency meets globally accepted
+requirements in order to drive progress. In the event that the LME does not believe that reporting
+meets these requirements, it reserves the right to increase its expectations in respect of such
+transparency to ensure that this progress continues. The LME believes that this will motivate
+Producers to go as far as possible in embracing ethical principles, as their consumer base will then
+recognise the additional steps taken and react positively.
+• No discrimination between large-scale and artisanal / small-scale mining. Both forms of
+mining clearly carry differing, but equally important, risks and challenges. In acknowledging these,
+the LME recognises that risk assessments must be tailored to the circumstances. Therefore, the
+LME sets out to provide an equally meaningful set of requirements for both large-scale and artisanal
+/ small-scale mining.
+This is particularly relevant in two areas. Firstly in allowing sufficient time for artisanal / small- scale
+mining to comply with the relevant requirements, the LME is recognising that this industry has
+further to travel in order to meet globally accepted standards for responsible sourcing, and that
+without the provision of adequate time to achieve this, the LME will be unfairly disadvantaging those
+legitimately working in artisanal or small-scale mines.
+Secondly, in prioritising Extractive Industries Transparency Initiative (“EITI”) reporting, the LME
+acknowledges the potential for financial crime arising from large-scale mining and the resulting
+need for transparency. This is why those Producers using the LME’s Red Flag Assessment (“RFA”)
+template are required to evaluate whether their suppliers facilitate the disclosure of potential
+financial crime and corruption risks under EITI, thus addressing one of the key concerns in respect
+of large-scale mining. Producers utilising a standard will be obliged to meet the requirements of
+that standard in respect of EITI reporting (in line with the OECD Guidance), and the LME will monitor
+all associated reporting to ensure this issue is meaningfully addressed. Twinned with the well-
+established application of OECD requirements to artisanal / small-scale mining risks, the LME
+intends to achieve an equitable balance which does not disadvantage any route of economic
+empowerment.
+• Well-established work in the sector. A huge amount of work has already been undertaken in the
+responsible sourcing space. The LME wishes to build on this and to provide a framework through
+which the industry can benefit from this investment.
+In particular, the LME’s approach is grounded in the OECD Guidance, the most globally relevant
+approach to responsible sourcing. This then allows Producers to make use of existing standards
+3
+
+LME responsible sourcing handbook
+(defined by industry bodies, commercial entities and others), if they so wish. And because these
+standards define audit approaches, the most appropriate auditors will be positioned to assess
+compliance.
+The first stage is the establishment of company management systems and the OECD red flag
+identification process, which provides a consistent and widely accepted model to identify metal
+Brands which may require higher focus due to the specific nature of their operations. By using the
+red flag model – and facilitating it by providing a specific red flag assessment template (the LME
+RFA template) for those Producers which choose to use it – the LME is embracing global best
+practice, and indeed, advancing it.
+In this respect, the LME intends to play a positive role where it is able to most add value; namely, in
+facilitating the identification of red flags, and the embedding of transparency principles and
+standards. The LME does not intend to define or audit those standards, since others are better
+placed to undertake this role. Rather, the LME’s rules provide the framework within which standard
+definition and auditing can be undertaken on a consistent and fair basis.
+• A pragmatic and clear process. In order to be meaningful, the LME understands that its approach
+must be feasible for global Producers of all metals. As such, it must ensure that its requirements
+are clear and achievable. As outlined above, the LME has detailed a number of tracks through
+which its Brands may achieve compliance, designed to leverage existing work and provide both
+risk- and preference-based optionality, as well as a clear and practical structure for those who are
+new to the field of responsible sourcing.
+3 LME requirements
+The LME’s approach is based on the OECD Guidance, and adopts the OECD five-step framework for
+risk-based due diligence in the mineral supply chain (“OECD five steps”), as outlined in Annex 1 of the
+OECD Guidance. The exception to this is Producers of tin Brands, for which the full OECD Supplement
+on Tin, Tantalum and Tungsten (“3T supplement”) will apply, given that the supplement was specifically
+designed for tin (as well as tantalum and tungsten).
+For all Brands, the OECD five steps can be summarised as follows:
+• Step 1: Establish strong company management systems
+• Step 2a: Identify risks in the supply chain
+• Step 2b: Assess risk of adverse impacts
+• Step 3: Design and implement a strategy to respond to identified risks
+• Step 4: Carry out independent third-party audit of supply chain due diligence
+• Step 5: Report on supply chain due diligence
+While the LME accepts that there is some debate about the applicability of these steps depending on
+the results of the risks identification process, the LME believes Producers that identify red flags in their
+supply chains are required to complete all five steps, while those which do not find red flags are required
+to complete the relevant elements of Steps 1 and 2a. However, the LME agrees with broad market
+consensus that it is difficult, if not impossible, to assess the accuracy of Steps 1 and 2a without some
+4
+
+LME responsible sourcing handbook
+form of audit, assurance or verification1. As such, the LME is asking its Producers to provide such
+evidence through a variety of possible tracks, as outlined below. Further, in line with the core features
+of the LME requirements, the LME is strongly of the opinion that transparency is essential to the
+progression of responsible sourcing initiatives, and as such, considers that transparency (Step 5)
+remains a core requirement for all its listed Brands.
+To this end, while the OECD five steps of Annex 1 remain the core of the LME requirements, the LME
+believes that there exist a number of areas where it is more appropriate or useful to adopt elements
+from other sections of the OECD Guidance, and so has assumed a broad interpretation of this in
+several key aspects:
+• Application of the 3T red flags. Although the LME is satisfied that it is appropriate for base metals
+to be able to use the OECD five steps, this section does not include any description of red flags,
+which are crucial to the application of the OECD Guidance. As such, the LME believes that the red
+flags as defined in the 3T supplement can and should apply to all base metals (as well as tin) and
+this is the approach adopted by the LME Red Flag Assessment. The LME will also accept the use
+of red flags as defined in the OECD Supplement on Gold (“gold supplement”). For the avoidance
+of doubt, this approach may be used even in respect of Producers whose listed Brand is not gold.
+Although the LME is not requiring the use of the 3T supplement more broadly, it continues to believe
+that it provides relevant guidance and some helpful interpretations of corresponding sections in the
+main OECD Guidance, and would encourage Producers to review the 3T supplement for such
+information. Further, if any Producer would like to voluntarily comply with the 3T supplement (or
+indeed, the gold supplement), the LME would have no objection.
+• Utilisation of the broadest assessment of risk indicators for CAHRAs. A key element of the
+red flag assessment is the identification of conflict-affected and high-risk areas (“CAHRAs”). The
+LME believes that it should take a broad definition of CAHRAs, so as to ensure that the widest
+range of possible risks is captured, rather than focussing simply on countries plagued by overt
+conflict. In particular, the LME utilises the definition of CAHRAs in the OECD gold supplement,
+which provides the most comprehensive assessment of risk indicators for CAHRAs. However,
+existing standards which have already been alignment assessed, and which prefer to maintain the
+CAHRA definition from the main section of the OECD Guidance if this is already incorporated within
+the standard may be allowed to do so.
+In relation to the CAHRA definition under the EU Conflict Minerals Regulation (“CMR”) which came
+into effect in January 2021, the LME’s expectation when the responsible sourcing requirements
+were published was to accept CAHRA definitions based on this list. However, upon review of the
+methodology, the non-exhaustive list has been formulated to identify CAHRAs only with relation to
+the minerals that fall within the scope of the CMR (namely tin, tantalum, tungsten, and gold). Thus
+for tin Brands, this list may be accepted by the LME, but all other metal Brands are encouraged to
+seek additional resources to make their own determination on the CAHRA status of areas that are
+relevant to their supply chain.
+For additional CAHRA guidance, see Appendix C: Guidance note on methodologies for the
+determination of Conflict-Affected and High-Risk Areas.
+1 The LME understands that the use of audit vs. assurance is not uniform within the responsible sourcing world. For clarity, the
+LME will accept either process of verification, as long as (i) the process is consistent with the requirements of an external
+standard for those on track A, and / or (ii) conducted by a professional included on the LME’s list of recognised auditors. For
+the avoidance of doubt, references to “audits” and “auditors” throughout this document can be taken to mean either auditor or
+assurer for the purposes of LME compliance, as appropriate to the preferences of the relevant Brand and / or standard
+5
+
+LME responsible sourcing handbook
+• Commitment to transparency for all Brands. The OECD Guidance may be interpreted to
+suggest that the transparency required under Step 5 is only required when the red flags are
+engaged. However, the LME believes, in line with much of its market and consistent with its
+commitment to transparency, that all LME Brands should provide public disclosure over their efforts
+in respect of responsible sourcing. As such, the LME will require all Producers of its listed Brands
+to provide such transparency, consistent with their chosen route to compliance.
+Producers complying through the use of an external or internal OECD-aligned standard (be that
+voluntarily or as a result of the identification or red flags in the supply chain) will be expected to
+publish Step 5 reporting in line with the OECD Guidance (although the LME notes that both the 3T
+and gold supplements provide greater clarity and guidance in terms of the content of Step 5
+reporting, and the LME would encourage its Producers to refer to these supplements when providing
+this transparency). Further, while the LME believes that Step 5 reporting is well-established, it does
+not yet believe that such reporting meets the standard expected by the LME, or indeed, the OECD
+and broader market actors. The LME is working with the OECD and standard providers to ensure
+that such reporting rises to meet global expectations, and will reserve the right to require greater
+transparency in the future should reporting not become more comprehensive.
+As an alternative route to compliance, and in line with the LME’s commitment to a pragmatic and
+clear process, the LME is also providing a standard-form template – the RFA – which can be
+completed at low cost to assess supply chain red flags, and either audited (with appropriate Step 5
+transparency) or fully published to the broader market (on a phased timeline) to provide a subset of
+common disclosure which will encourage challenge, but not compromise commercial
+confidentiality. This includes Extractive Industries Transparency Initiative (“EITI”) disclosure as to
+potential financial crime risks.
+The publication of the RFA also offers a secondary benefit, in that it allows a level of review by the
+market (following the LME’s own review), whereby all market stakeholders will be able to review
+published RFAs. This two-factor level of assurance will help provide clarity and ensure consistency.
+• Commitment to workplace health and safety and other responsible sourcing concerns. In
+the first instance, the LME expects Producers to work towards ISO 14001 and ISO 45001
+standards, or equivalent.
+The LME fully recognises that there exists a full spectrum of sustainability concerns, and the LME’s
+requirements incorporate only a sub-section of these on the basis of (i) their relevance to the LME
+market, and (ii) those which have seen the most significant demand from its core stakeholders.
+That said, the LME does recognise that for many of its listed Brands, a broader, or indeed,
+alternative set of concerns represent a greater risk than those outlined in the OECD Guidance;
+further, that much work has been undertaken, including by the United Nations, and as incorporated
+with the OECD’s Guidelines for Multinational Enterprises, in order to identify these risks, and to
+implement standards and associated certification programmes for the mitigation of such.
+Much of this work has focused on environmental concerns, and while the LME is not proposing to
+change its core scope in respect of environmental issues, it is continuing with the implementation of
+ISO 14001 as an interim measure as planned, and more broadly, also incorporating the ISO 45001
+in respect of workplace health and safety standards.
+As a final point, for clarity, and in line with the OECD Guidance, the LME’s requirements do not
+include implementation of the OECD Guidance for secondary or recycled metal. However, this is not
+to say that the LME is not interested in the challenges facing secondary and recycled materials in
+6
+
+LME responsible sourcing handbook
+terms of traceability, and will continue to work with the market to offer support and input where that
+would be of use. Further, the LME would welcome voluntary reporting on the part of producers of
+secondary or recycled metals, and the potential transparency that this engenders; however, it will
+only be running its framework and assurance process for primary metal.
+Through fulfilment of the above, and utilising the tracks outlined below, the LME believes that all its
+Brands will be able to achieve compliance with the LME’s responsible sourcing requirements. The
+LME’s responsible sourcing framework is set out in Figure 1, demonstrating the relationship between
+the core features of the LME Policy and the routes to implementation.
+Figure 1: LME framework for responsible sourcing
+4 Brand compliance
+4.1 Track overview
+At the outset, the LME recognises that the risk profile of its metals varies – each of the LME’s listed
+Brands will have specific features which call for varying levels of due diligence – and, as such, it is
+appropriate for the LME to utilise the OECD’s five-step framework, which allows for a risk-based
+approach. Further, the LME understands that a number of factors go into a Producer’s decision-
+making process when choosing its route to compliance. The LME wishes to respect this by providing
+optionality in terms of tracks to compliance, which should allow Producers to tailor compliance to their
+existing processes, as summarised in Figure 2.
+7
+
+Classification: Internal
+LME responsible sourcing handbook
+Figure 2: LME tracks to OECD Guidance implementation
+4.1.1 Track A: Recognised alignment-assessed standard track
+The use of an internal or external OECD-aligned standard is available for (i) all Brands which have
+identified red flags in their supply chain, (ii) Brands which have not identified red flags, but wish to use
+a standard to demonstrate their compliance with the applicable OECD five steps, and (iii) those Brands
+which voluntarily wish to complete all five steps of the OECD Guidance.
+The Producer of any Brand falling into these three categories will be expected to undertake the
+following steps:
+• Identify a standard. Producers will need to identify the standard towards which they are working
+to align their Brand. Standards may be internal or external, and the LME believes that either may
+be used for the purposes of its responsible sourcing framework.
+• Ensure the standard has undergone OECD alignment assessment. The Producer’s chosen
+standard must be aligned with the OECD Guidance. The LME is aware that alignment assessment
+is not a “binary” process and acknowledges that alignment assessment results will be qualified in
+places; accordingly, that there will always be an element of discretion which must be applied by a
+relevant authority. The LME accepts its responsibility to make these judgement calls (advised by
+market experts if required) in determining whether to accept as “successful” the outcome of a
+particular alignment assessment process.
+In order to achieve alignment assessment, standards must demonstrate the two key components
+of alignment assessment; namely, (i) the first component, being the extent to which the
+recommendations from the OECD Guidance have been incorporated into the programme’s policies,
+standards, procedures and operating requirements set out for Producers, and (ii) the second
+component, being the extent to which it can be reasonably concluded that the criterion is
+implemented by the programme, including by deploying the necessary measures to ensure
+
+LME responsible sourcing handbook
+compliance and securing adequate remedial action in cases where Producers participating in the
+programme and / or auditors do not adhere to the programme’s policies and standards (when
+applicable to them). This is laid out in the OECD Methodology for the Alignment Assessment of
+Industry Programmes with the OECD Minerals Guidance, and the Alignment Assessment Tool
+(“OECD alignment assessment methodology”).
+Given the potential time required to complete this process – and the LME’s interest in ensuring the
+development of new standards to address existing gaps – standards can achieve “conditional”
+alignment assessment if they have passed the first component assessment but do not yet have
+sufficient implementation data to pass the second. LME-listed Brands will then be able to select one
+of these conditionally approved standards to achieve compliance via the recognised alignment-
+assessed standard track (Track A), noting the extant risk that the standard does not subsequently
+pass the second component of the alignment assessment (albeit the LME is confident that no
+standard would initiate this process should they not be willing to do the work to ensure it achieves
+full alignment). This solution will increase the optionality for Brands and reduce the pressure to
+achieve full alignment assessment within potentially infeasible timelines.
+The LME will also reserve the right to consult the OECD on the results of any alignment assessment
+before providing final approval.
+For standards which have already been alignment-assessed, the LME will not require a second
+alignment assessment to be conducted; however, it will ask to review the results of the existing
+alignment assessment before providing final approval. Similarly, standards which undergo
+alignment assessment to comply with the requirements of another body or regulation (such as the
+EU CMR, for example) would also be eligible to submit those results to the LME for consideration,
+rather than commissioning a second alignment assessment.
+In the case of an external standard, the body owning that standard would be expected to arrange
+for the relevant alignment assessment. It is expected that a Producer would look to achieve this
+assurance (either on a fully aligned basis, or conditional alignment as outlined above) before
+pursuing the standard in question.
+In the case of an internal standard, the Producer itself would need to make such arrangements.
+The Producer may look to undertake the alignment assessment in parallel with its implementation
+work in respect of the standard, acknowledging that any changes to the internal standard arising
+from the alignment assessment process will also need to be reflected in the implementation
+workstream.
+But in either event, the Producer of the relevant Brand is responsible for ensuring that it has elected
+a standard which is successfully OECD alignment-assessed and that the results of such
+confirmation have been approved by the LME. The LME maintains a list of recognised OECD
+alignment assessors who, in the opinion of the LME, are competent and qualified to undertake an
+alignment assessment. Similarly, the LME also maintains a list of standards which have been
+confirmed by the LME as alignment assessed, subject to the consent of the relevant standard
+owners. The list of assessors and standards is available on the LME on its website2. Should either
+the OECD Guidance, or the standard, undergo substantive change, the LME will expect that the
+alignment assessment is re-performed to ensure ongoing consistency. The Brand’s next audit
+would then be expected to be conducted against revised the standard.
+• Demonstrate initial compliance with the standard. The Producer’s elected standard will specify
+2 LME Approved Partners: https://www.lme.com/en/About/Responsibility/Responsible-sourcing/Approved-partners
+9
+
+LME responsible sourcing handbook
+the requirements for audit, and the Producer will hence be expected to comply. In the case of an
+external standard, the standard itself may lay out a review process through which the audit will have
+to pass. In the case of an internal standard, such a review process is unlikely to form part of the
+standard, and the output of the audit will hence represent the final stage in the process. But in
+either event, it is expected that these internal standards (and associated audits) will follow the
+OECD Guidance in addressing all risks, including those covered in Annex II of the OECD Guidance.
+However, the ultimate decision will need to rest with the LME (advised, where appropriate, by
+market experts).
+• Demonstrate ongoing compliance with the standard. Again, the Producer’s elected standard
+will specify the requirements for updating or repeating the audit process, and must be followed to
+ensure ongoing compliance with the LME’s responsible sourcing requirements. For internal
+standards, the LME will require the Brands to re-submit audit reporting at least every three years
+and, in any event, following material change to the standard, to confirm ongoing compliance. All
+related audit documents must be submitted to the LME.
+This process is outlined in Figure 3.
+Figure 3: Track A – compliance process for the recognised alignment-assessed standard track
+As outlined above, the LME provides clarity in terms of which standards have been successfully
+deemed to be aligned with the OECD Guidance (subject to the consent of the standard owner) by
+publishing details of such standards on its website.
+In respect of transparency of the audit results, the LME requires that public disclosure is undertaken
+10
+
+LME responsible sourcing handbook
+in line with the requirements outlined in Step 5 of the OECD Guidance, and in accordance with the
+requirements of the relevant standard.
+All Brands on the recognised alignment-assessed standard track will also be required to comply with
+the LME’s ISO requirements outlined in Section 4.2.
+4.1.2 Introduction to the LME Red Flag Assessment
+The LME understands that OECD-aligned red flag identification processes already exist within the world
+of responsible sourcing standards. Further, the LME is aware that, while many of these have been
+designed to address a particular issue, or the specificities of a particular metal, their primary aim is to
+translate the OECD Guidance (or similar such guidance) into a practical form that allows Producers or
+other interested parties to map the risks associated with a particular supply chain.
+However, the proliferation of such standards can mean that there is some confusion as to what would
+be considered core for such an assessment generally, and for the purposes of the LME’s requirements
+specifically. Further, when considering its responsible sourcing requirements, and in light of the LME’s
+commitment to pragmatism, the LME has endeavoured to provide tracks to compliance which do not
+require the use of a standard and / or an external audit.
+To this end, the LME has developed its Red Flag Assessment (“RFA”) template, which defines the
+information which the LME would expect to receive as part of a red flag assessment. The completion
+of this template will allow Producers of LME Brands to determine whether they raise red flags in their
+supply chain. Any Producers discovering red flags automatically need to comply through the
+recognised alignment-assessed standard track (Track A), but Producers which do not then have a
+choice to either submit the RFA template to the LME for review and verification (Track C), or to submit
+it for an external, third party audit to achieve the same end (Track B); the subsequent transparency
+requirements will depend on the track chosen. Of course, as noted above, some Producers may
+equally choose to comply through Track A even in the absence of red flags, either because they wish
+to use a standard to demonstrate their compliance with the applicable OECD five steps, or because
+they wish to voluntarily complete all five steps of the OECD Guidance.
+While the LME’s expectation is that the RFA process is undertaken internally by Producers of a listed
+Brand, it is equally possible that Producers will choose to have this information collated and reported
+to the LME by an independent third party commissioned for that purpose. The LME believes that both
+models would be compliant with its RFA requirements; however, it would note that regardless of track
+chosen, the Producer itself will remain wholly accountable for both the submission, and the accuracy
+of the reporting contained therein.
+Finally, the LME is reserving the right to make reasonable changes to the RFA to more closely align
+with current and future versions of the OECD Guidance without formal consultation.
+4.1.3 Track B: Audited LME RFA track
+Figure 4 outlines the compliance process for those Producers that wish to complete the RFA and
+submit it for an external, third party audit (Track B).
+The Producer is required to complete the RFA and appoint an independent third party auditor to assess
+the validity of the information contained therein. Further guidance on this is provided in Appendix A:
+Guidance Note on Track B Audits. The LME maintains a list of recognised auditors who, in the opinion
+11
+
+LME responsible sourcing handbook
+of the LME, are competent to undertake such an assessment on the LME website3 (subject to the
+permission of the auditors in question), which is updated regularly.
+Once the audit is complete, and assuming the auditor concurs that the relevant supply chain contains
+no red flags, the audit results are submitted to the LME for review. It may be necessary for the LME to
+revert to the Producer or auditor with questions or explanatory requests following an initial review.
+Otherwise, the LME will ratify the results and require that public disclosure is undertaken in line with
+the requirements of Step 5 of the OECD Guidance.
+The Producer will be required to review and update the RFA for each of its Brands annually to ensure
+that their risk profile has not changed over the preceding year, or indeed, that they do not require an
+alternative track to compliance. The external audit (with the results submitted to the LME) and
+transparency requirements will also be repeated annually.
+All Brands on the audited LME RFA track will be required to comply with the LME’s ISO requirements
+outlined in Section 4.2.
+Figure 4: Track B – compliance process for the audited LME RFA track
+4.1.4 Track C: Published LME RFA track
+As with the audited LME RFA track (Track B), the LME wanted to provide a route to compliance which
+did not require the use of a standard. Track C – the published LME RFA track – goes even further by
+ensuring that Brands can comply without requiring a standard, or the use of an external audit.
+3 LME Approved Partners: https://www.lme.com/en/About/Responsibility/Responsible-sourcing/Approved-partners
+12
+
+LME responsible sourcing handbook
+Instead, Producers of Brands achieving compliance via the published LME RFA track are required to
+complete the RFA template and submit it to the LME for review. It may be necessary for the LME to
+revert to the Producer with questions or explanatory requests following an initial review in line with the
+process diagram outlined in Figure 5. The LME will either confirm the Producer’s assessment, or reject
+it and reclassify. If the Producer does not agree with the LME’s assessment, the LME will engage with
+that Producer to fully understand, and resolve, the discrepancy.
+Figure 5: Track C – compliance process for the published LME RFA track
+As set out above, Brands complying via Track C will not be required to undertake an audit against a
+standard; however, they will be required to review and update the RFA annually to ensure that their
+risk profile has not changed over the preceding year, or indeed, that they do not require an alternative
+track to compliance. The LME will review all such assessments.
+The final stage of Track C relates to transparency. Alongside the LME’s review of all submitted RFA
+templates, the LME also believes that the publication of RFAs will act as a second level of “audit” of
+the information contained therein, allowing other Producers, civil society and non- governmental
+organisations (“NGOs”), industry bodies, regulators and other interested parties to diligence the
+information provided and ensure its accuracy.
+That said, the LME is conscious that it will be the first Exchange require the publication of responsible
+sourcing risks and, as a result, there is a process of education and familiarisation for its market in
+understanding and interpreting this information. To address this concern, the LME has implemented a
+phased approach in respect of RFA public reporting, as outlined in Figure 6. For the first two years
+post-implementation, the LME will publish only summary statistics of the RFAs. For the subsequent
+two years, the LME will publish the RFAs in full, but on an anonymised basis. This will allow Producers
+to refer to the work undertaken in the RFA processes of other LME-listed Brands on Track C, as well
+as providing time for the market more broadly to become familiar with the type of reporting it can expect
+13
+
+LME responsible sourcing handbook
+to see. In year five post-implementation, the LME will require all Producers to publish their Brand’s
+RFA in full.
+Finally, all Brands on the published LME RFA track will be required to comply with the LME’s ISO
+requirements outlined in Section 4.2.
+Publication date Year RFA public reporting
+Not earlier than 31-Dec-22 Y1 Summary statistics
+Not earlier than 31-Dec-23 Y2 Summary statistics
+Not earlier than 31-Dec-24 Y3 Anonymous versions
+Not earlier than 31-Dec-25 Y4 Anonymous versions
+Y5 and
+Not earlier than 31-Dec-26 Attributed versions
+onwards
+Figure 6: RFA phased transparency approach
+4.1.5 Track D: Secondary materials track
+In line with the OECD Guidance, Brands that source entirely Secondary Material are exempt from the
+implementation of the OECD Guidance, and comply with the LME’s responsible sourcing requirements
+by using the Secondary Material Track (Track D). A Brand is only eligible to use Track D if (i) it is able
+to determine the origin of all Input Materials sourced during the Reporting Period, (ii) the Input Materials
+used in production of that Brand have been solely from Secondary Material sources, and (iii) the Brand
+does not wish to voluntarily use one of the other three tracks.
+Brands are required to complete the Secondary Materials Sourcing Attestation Form (the “attestation
+form”) on an annual basis with the first submission deadline on 30 June 2022. The LME reviews the
+information provided in the attestation form, requests clarifications from the Producer as needed, then
+either accepts or rejects the form based on the information provided. The LME notifies the Producer
+once a final decision is reached.
+Finally, in the interests of transparency, all Brands complying with the LME responsible sourcing
+requirement through Track D will be identified as using 100% secondary materials on LMEpassport (or
+other location as the LME may choose).
+14
+
+LME responsible sourcing handbook
+Figure 7: Track D – compliance process for the Secondary Materials Track
+The LME works with all its Producers to ensure that they have fully understood the four possible
+tracks to compliance, and chosen one that works appropriately for them, reflecting their Brand’s
+individual profile. Any Producer not engaging with the compliance process may be subject to Brand
+Action as defined in Section 4.5.
+4.2 ISO 14001 and ISO 45001 certifications
+In parallel to Brand OECD compliance, all LME-listed Brands are expected to obtain ISO 14001 and ISO
+45001 certifications, or equivalent.
+This requirement will be administered in a similar manner to the LME’s existing ISO 9001 requirement,
+in that Producers will be required to provide the appropriate certificates for the smelter (or equivalent,
+in all cases being the final substantive step resulting in the production of LME grade metal) and keep
+these updated in line with the requirements of the standards body.
+Should a Producer wish to use a certification programme (internal or external) which they consider to
+be equivalent to, or an improvement upon, the ISO 14001 or ISO 45001 certifications, the Producer
+should submit an independent, third party audit report which assesses and confirms such equivalence.
+In the case of an external certification programme, assessment need only be commissioned once; as
+such, the LME anticipates that a certification programme owner (or users of that certification
+programme) would commission such an assessment. Once the LME has confirmed equivalence, it
+will publish a list of appropriate certification programmes on its website, subject to the consent of the
+certification programme owner.
+At any stage, a Producer failing to undertake required actions (at the times specified by the LME’s
+implementation timeline, as further set out in Section 4.4) may be subject to Brand Action (as defined
+15
+
+LME responsible sourcing handbook
+in Section 4.5).
+4.3 LME decision-making and grievance procedure
+A fundamental limitation on the global adoption of responsible sourcing standards is the international
+nature of metal supply chains, and the consequent lack of a “central authority” with the ability to enforce
+standards on a worldwide basis. For this reason, in formulating its responsible sourcing requirements,
+the LME has had to take on a role of recognising alignment assessors, auditors for internal standards
+under track A and RFAs in track B, reviewing RFA results in track C, assessing the sufficiency of the
+alignment assessment of standards, the final check of audit reports in tracks A and B, and the
+equivalence of certification programmes. While the LME is comfortable playing such a role (which it
+already does in respect of the final assessment of the metallurgical quality of its brands, informed in
+that case by assaying and other assurance processes), the Exchange also recognises that there will
+be differing market views on these topics, and it will not always be possible to reach decisions which
+are accepted by all market actors. However, in the absence of another body willing to undertake such
+a role (and enjoying the confidence of the market so to do), the LME believes that it will need to act as
+the ultimate arbiter of these issues.
+Should it prove necessary and appropriate, the LME will ensure that it has access to appropriate
+industry experts to support and advise on such decision making.
+Furthermore, and in order to facilitate engagement from as broad a set of stakeholders as possible,
+the LME does maintain a “grievance procedure”, under which any market participant having concerns
+as to the responsible sourcing credentials of a particular brand may report these concerns to the LME,
+on a confidential basis. Having received a submission of this nature, the LME will assess the stated
+grievance, both for its validity, and against the information provided by the Brand (including, but not
+limited to, its RFA or audit reports as applicable). The LME’s powers in respect of probing RFAs will
+include compelling Producers to undertake an independent audit of disputed facts. In the event of a
+grievance in respect of a Brand’s audit against an internal or external OECD-aligned standard, in the
+first instance the LME would expect to refer this back to the auditor or the standard body respectively.
+4.4 Timeline
+The LME’s timeline for compliance is outlined below.
+Figure 8: LME timeline
+16
+
+LME responsible sourcing handbook
+4.5 LME powers
+The LME’s core power is to suspend or delist Brands. The effect would be that no further metal of the
+specific Brand could be warranted (or re-warranted) at an LME warehouse. The decision whether to
+suspend or delist would be informed primarily by the LME’s assessment as to whether it were possible
+for the Brand in question to return to a state of compliance, in which case the suspension could be
+lifted. If this seems unlikely, then a full delisting may be more appropriate.
+The mechanism by which the LME would effect a suspension or delisting would, necessarily, depend
+on the circumstances. In general, the LME aims to give advance notice of a delisting in order to allow
+the market a period of time (generally three months) to place residual off-warrant stock into the
+warehouse. However, in the event that this might create a disorderly market – for example, the inflow
+of significant quantities of lower-quality material into warehouse during the notice period – the LME
+does have the right to suspend or delist without notice. This is particularly relevant in the context of
+responsible sourcing whereby a Brand which has not made the necessary efforts to meet relevant
+standards may trade at a significant discount to the broader metal market. This, therefore, may give
+metal owners a strong incentive to “dump” metal of that Brand onto warrant prior to a suspension or
+delisting. The market should, therefore, be prepared to accept the possibility of an immediate
+suspension or delisting if it is necessary.
+While the LME accepts that a greater degree of certainly in respect of timelines for these processes
+would provide greater clarity to the market, the LME does believe that in order to act in a fair manner
+and to mitigate the risks of creating a disorderly market, it does need to reserve the right to make
+decisions on a case-by-case basis.
+A second question is whether, in the event of a Brand being delisted due to non-compliance with
+relevant responsible sourcing standards, stock of that Brand already on-warrant would need to be
+removed. It is in the nature of the LME’s warehousing and warranting model that metal on-warrant
+may have been produced some time ago. Given that the LME’s understanding is that the market views
+responsible sourcing as a more recent initiative, it is understood that legacy metal may not have been
+produced under the same responsible sourcing principles. Accordingly, the LME’s intention is that it
+would not be necessary to remove historical metal on the basis that it was not mined in conformance
+with responsible sourcing principles at the time of production (given that the LME’s responsible
+sourcing requirements would not have been in force at that time). This would apply to any metal on
+warrant at the time of the announcement of a delisting or suspension. However, on this topic, the LME
+does again propose to retain flexibility such that it is able to take a view on a case by case basis,
+subject to the overarching objective criteria set out in the Policy.
+For the purposes of this document, the LME refers to “Brand Action” to refer to any action of disclosure,
+suspension or delisting (with or without the removal or stock in warehouse, and with or without a notice
+period) taken pursuant to the above powers.
+5 Conclusion
+The LME remains committed to ensuring that all Brands listed for good delivery on the Exchange are
+produced in compliance with globally accepted standards for responsible sourcing, and believes that
+the above requirements represent a fair, balanced and practical route forward to achieve such an end.
+The LME would like to thank all its stakeholders and other market participants, many of whom have
+invested considerable time and effort in helping the LME to refine its requirements.
+17
+
+LME responsible sourcing handbook
+Appendix A: Guidance Note on Track B Audits
+1. Purpose of Appendix A
+The purpose of Appendix A is to bring a level of consistency and clarity to the audits required for Track
+B, the Audited LME RFA Track. The intended audience is both the auditors and Producers choosing
+Track B.
+LME may revise this guidance based on emerging good practices. The LME regularly engages with
+Producers following Track B and its Recognised Auditors to inform this guidance.
+2. Audit scope
+As stated in the Policy,
+“A Producer must, in respect of each Reporting Period, and for each Brand for which it proposes to
+apply the Audited LME RFA Track, procure an audit or suitable assurance report, in order to verify
+that its LME RFA in respect of the relevant Reporting Period has correctly reached the
+conclusion that no OECD Red Flags have arisen, and is based on appropriate and accurate
+information (an "Audit Report")”.
+Thus, the Track B audit is a verification of information provided by the Producer in the Red Flag
+Assessment. The auditor reviews the Producer’s responses to the questions in the LME RFA,
+assesses the adequacy of the management systems that led the Producer to those responses through
+evidence review, and then provides a statement of assurance. Through Track B, the LME is expecting:
+(i) assurance from the auditor that the Producer’s management system could identify OECD Red
+Flags and
+(ii) verification from the auditor that the Producer did not identify any OECD Red Flags in the
+Reporting Period.
+Additionally, the auditor will ensure that all other questions, such as Section 3 of the LME RFA
+(LOCATION OF MINERAL ORIGIN AND TRANSIT RED FLAG EVALUATION), are complete and the
+Producer publicly discloses information as required.
+3. Audit standard
+The LME accepts audits performed in accordance with International Standard on Assurance
+Engagements ISAE 3000, reasonable assurance only, or the ISO 19011:2018 Guidelines for Auditing
+Management Systems. The LME will not accept limited assurance engagements or agreed upon
+procedures engagements. If an auditor plans to conduct an audit using any other assurance
+engagement, please be in touch with the LME prior to the audit.
+4. Audit fees
+The cost of the audit will be agreed between the auditor and the auditee. Producers may wish to
+consider requesting quotes from multiple Recognised Auditors.
+5. Evidence required, including on-site or remote audits
+The evidence required for the auditors to provide the assurance statement in Appendix A – Section 2
+Audit Scope is determined by the auditors and provided by the Producer. The LME expects this will
+A - 1
+
+LME responsible sourcing handbook
+include document and record review, interviews with the Producer staff, photos, and/or live video tours
+and demonstrations. All auditors approved by the LME will have experience with the OECD Guidance
+and are expected to use professional judgement regarding the type of information that may assist them
+in their assessment.
+The LME does not expect that in-person visits to the Producer’s site will be needed in most cases;
+however, for complex situations the auditor may decide it is necessary for them to visit the site in order
+to provide the adequate level of assurance. This will be agreed upon between the auditor and the
+Producer in planning discussions.
+6. CAHRA determination
+Determining Conflict-Affected and High-Risk Areas (“CAHRAs”) is part of the Red Flag Assessment.
+Please refer to Appendix C – Section 3, which sets out LME’s expectations in regards to what an
+“acceptable” CAHRA determination methodology in Producer RFAs should entail.
+7. Audit Report (deliverables)
+The auditor must provide a report to the Producer that includes the following:
+• LME Brand information, to include:
+LME Brand Producer name1
+LME Brand name(s)6
+Reporting Period start date (DD/MM/YYYY)
+Reporting Period end date (DD/MM/YYYY)
+Date of submission (DD/MM/YYYY)
+Address of Brand producing site
+Website of Brand Producer
+Name of person submitting RFA
+Job title of person submitting RFA
+Phone number
+Email address
+In the majority of cases, each Brand will require a unique RFA. However, if multiple Brands are
+produced by the same Producer, and the responses to the RFA questions are identical for all said
+Brands, one RFA may be submitted for all Brands. All Brand names will need to be included on the
+audit report.
+• Auditor company name, lead auditor, and any team members supporting the audit
+• Methodology applied (ISO 19011 or ISAE 3000, reasonable assurance only)
+• Audit scope
+• Summary of assessment activities (to include at a minimum the list of documents reviewed
+and the number of interviews)
+• Summary of findings
+• A reasonable assurance conclusion (ISAE 3000) or compliance determination (ISO 19011) for
+the elements listed in Section 3.1 Audit Scope
+The LME requires a report in English, so an English version must be submitted to the Producer. In
+the event of a translation discrepancy between an English version and an original document in a
+different language, the English version will prevail so accuracy of translation is imperative.
+1 This may be found on the list of LME Approved Brands: https://www.lme.com/en/physical-services/brands/approved-brands
+A - 2
+
+LME responsible sourcing handbook
+8. Corrective actions, improvement plans, and non-conformances
+As stated in Appendix A – Section 2(ii) Audit Scope, the Track B audits are a verification exercise.
+There are two possible outcomes: (1) the auditor is able to provide reasonable assurance or a
+statement of conformance for the elements included in 2(ii) Audit Scope or (2) the auditor is not.
+If the auditor is able to provide reasonable assurance or a statement of conformance for the elements
+included in 2(ii) Audit Scope, but discovers other practices that could be improved based on the
+auditor’s professional judgement, this should be disclosed in the “summary of findings” in the Audit
+Report submitted to the Producer. Implementing the improvement recommendations are not
+necessary for compliance with the LME’s rules when provided with a positive assurance statement.
+If the auditor is unable to provide reasonable assurance or a statement of conformance for the
+elements included in 2(ii) Audit Scope, the auditor will include such a conclusion in the Audit Report.
+As stated in the Policy – Section 6.1 Eligibility for Audited LME RFA Track, “For the avoidance of doubt,
+in the event that the Audit Report does not confirm the assessment that there are no OECD Red Flags
+for the Brand as being correct, the Producer must change Track and apply the Recognised Alignment-
+Assessment Standard Track in respect of the Brand.” Referring the Producer to Track A takes the
+place of creating any improvement plan or corrective action plan under Track B.
+In such cases where switching to Track A will affect the Producer’s ability to meet required Track B
+deadline (30 June annually), the Producer must submit the Track B Audit Report to the LME before
+switching to Track A. The LME will work with the Producer to agree revised timelines on a case-by-
+case basis, as it is expected that the Producer will need time to become familiar with Track A. This is
+stated Section 5.7(b) of the Policy, “The LME shall, in its absolute discretion (and acting reasonably)
+prescribe the dates from which such Brands must comply with the requirements […].”
+If the Producer disagrees with the auditor’s draft or final conclusion and cannot resolve the
+disagreement directly with the auditor, it may approach the LME at any time for additional consultation.
+9. Submission to the LME
+For Track B, the Producer has the responsibility to submit the Audit Report to the LME. The completed
+LME RFA may be submitted with the Audit Report, but is not required.
+10. LME review
+As stated in the Policy in Section 6.5 – LME Review,
+“The LME shall be entitled to review the Audit Report and may:
+(a) in the event that the LME has concerns or questions regarding any aspect of the Audit Report, the
+basis of its production, its conclusions or any of its content, require the Producer to respond to such
+concerns or questions and/or procure that the Recognised Auditor do so; and
+(b) in the event that the LME is not satisfied with the responses to such concerns or questions, require
+the Brand to be reclassified as, and assessed under the requirements for, the Recognised Alignment-
+Assessed Standard Track.”
+The LME endeavours to complete reviews in a timely manner. In such cases where the Brand must
+switch to Track A, the LME will work with the Producer to agree revised timelines on a case-by-case
+basis.
+A - 3
+
+LME responsible sourcing handbook
+11. Public reporting
+As stated in the Policy in Section 6.7 – Public disclosure,
+“The results of the Audit Report must be disclosed, pursuant to OECD Step 5, not later than the 31
+December following submission of the relevant Audit Report to the LME.
+Such results must be published on a publicly-accessible website maintained by the Producer, with a
+link to such page or pages of the LME's own website as the LME may specify.”
+As an example, for the 2021 Reporting Period, Track B Audit Reports must be submitted to the LME
+on 30 June 2022 and the Track B Audit Report needs to be publicly available on the Producer’s website
+by 31 December 2022. If a specific asset (Brand) is owned by a larger parent company, publication on
+the parent company’s website is permissible.
+The Producer is responsible for this reporting.
+12. Annual assessment
+As a reminder, LME requires an annual Audit Report for Track B in line with the Producer’s Reporting
+Period. In the event of a change of auditor, the LME encourages Producers to share the previous
+Audit Report and LME RFA if it exists with its new auditor. Producers may use the same auditors or
+different auditors each year, and may switch from Track A, B, or C for different years as long as there
+is not a gap in their Reporting Periods.
+A - 4
+
+LME responsible sourcing handbook
+Appendix B: Guidance Note on Supplier Red Flags
+1. Purpose of Appendix B
+Appendix B provides guidance to Producers of LME-listed Brands (“Brands”) in interpreting the two
+supplier red flags described in the supplement on tin, tantalum and tungsten (“3T Supplement”) from
+the OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected
+and High-Risk Areas (“OECD Guidance”):
+ 1 The company’s suppliers’ or other known upstream companies have shareholder or other
+interests in companies that supply minerals from or operate in one of the above-mentioned1 red flag
+locations of mineral origin and transit
+ 2 The company’s suppliers’ or other known upstream companies are known to have sourced
+minerals from a red flag location of mineral origin and transit2 in the last 12 months
+Producers can use Appendix B to facilitate their interpretation of the supplier red flags, and
+consequently their choice of track to LME responsible sourcing compliance. It should be noted,
+however, that these two red flags, along with the three location red flags, are part of the broader OECD
+Guidance and as such, this document does not provide a comprehensive guidance to the entirety of
+the OECD Guidance, or the LME’s responsible sourcing rules. Brands will need to comply with all the
+LME’s requirements as set out in the LME Responsible Sourcing Policy.
+2. Scope of the supplier red flags
+The decision tree below addresses the minerals in scope for the supplier red flags, and should be read
+in conjunction with the glossary underneath which provides further supporting information. Although the
+LME believes that primary focus should be on the mineral in question (i.e. the direct supply chain of the
+mineral the Brand lists with the LME), that does not mean to say that the broader activities of the supplier
+are not of relevance, and due care should be taken in Know Your Customer (“KYC”) checks, as is set
+out in the glossary below.
+1 This refers to the “red flag locations of mineral origin and transit” found on page 33 in the OECD Guidance
+2 Where the term “red flag location of mineral origin and transit” is used, this should be taken to include all three location red
+flags found on page 33-34 in the OECD Guidance
+B - 1
+
+LME responsible sourcing handbook
+Figure i: Supplier red flags flow chart
+3. Specific guidance for the first supplier red flag
+Alongside mineral scope, the first red flag also addresses the issue of suppliers and other known
+upstream companies having shareholder or other interests in companies that supply minerals from or
+operate in red flag locations of mineral origin and transport. For the purposes of this analysis,
+“shareholder interest” may be interpreted as a majority shareholder interest, and “other interest” may
+be interpreted as a controlling interest achieved through a route other than a shareholding.
+The LME’s view is that companies in which suppliers and other upstream companies have an interest
+that have no relation to the supply of minerals (in particular, the mineral in question as outlined in the
+decision tree above) fall out of scope, and potential red flags associated with these entities may be
+explained without requiring the use of Track A. In this instance, the Brand would need to be comfortable
+that the relevant company does not supply minerals and that any concerns raised during initial KYC
+checks are investigated appropriately. If the relevant company does supply minerals, then the list of
+countries in scope would include the locations from which they supply minerals and in which they
+operate.
+Although suppliers with whom Brands are in a direct business relationship (including immediate
+suppliers) will be most in focus, upstream suppliers (i.e. suppliers of suppliers), should also be
+considered.
+As an example, Company X could be supplying Brand A with feedstock, which it sources from a tier 1
+B - 2
+
+LME responsible sourcing handbook
+(or immediate) supplier which operates a very high level of due diligence (Supplier A). Correspondingly,
+the chain of custody goes Supplier A → Company X → Brand A and there are no concerns. However,
+if Supplier A is itself sourcing from Supplier B who does not conduct any due diligence, then more
+extensive knowledge of the supply chain is needed, or there is a risk that Supplier B is supplying non-
+responsibly sourced metal into the supply chain.
+In both cases, it is worth considering companies that set up different legal entities, despite effectively
+being the same company, in order to circumvent rules such as these. Brands could be sourcing from
+a legal entity that only sources from non-CAHRAs, but that same company (under a different legal entity
+name) also sources from CAHRAs. That does not mean Brands will necessarily raise a red flag, but
+Brands will need to undertake due diligence and appropriate KYC checks to ensure they are clear on
+the material being received, and the broader activity of the companies within their mineral supply chain.
+Equally, Brands need to be conscious of companies that are headquartered or registered in one
+location, but operate in an alternative location. A Brand needs to be comfortable that the information
+they are supplied with (and in turn, submit for compliance purposes) is accurate and has been compiled
+in good faith i.e. that a supplier has not attempted to disguise areas of concern by using a different
+location (such as headquarters).
+Glossary3 and other information
+Term Definition
+Known upstream Below are the OECD definitions of “upstream / upstream
+companies companies” from the OECD Guidance:
+Defined in the 3T Supplement (p.32):
+o
+ “For the purposes of this Supplement ‘upstream’
+means the mineral supply chain from the mine to
+smelters/refiners. ‘Upstream companies’ include
+miners (artisanal and small-scale or large-scale
+producers)4, local traders or exporters from the
+country of mineral origin, international concentrate
+traders, mineral re-processors and smelters/refiners
+[…]”
+In the Gold supplement (p.70):
+o
+ “‘Upstream supply chain’ means the gold supply chain
+from the mine to refiners. ‘Upstream companies’
+include miners (artisanal and small-scale enterprises
+or medium and large-scale gold mining companies),5
+local gold traders or exporters from the country of gold
+origin, transporters, international gold traders of
+Mined/Recyclable Gold and refiners. Artisanal and
+small-scale gold producers such as individuals,
+informal working groups or communities are not
+expected included as upstream companies for the
+purposes of carrying out due diligence in line with this
+Guidance, although they are encouraged to remain
+involved in due diligence efforts of their customers and
+formalise so they can carry out due diligence in the
+future”
+3 Explained terms are in order of appearance
+4 From 3T supplement: ‘”Upstream companies” includes artisanal or small-scale producing enterprises, rather than individuals
+or informal working groups of artisanal miners'.
+5 From Gold supplement: “For the avoidance of doubt, these guidelines include miners, processors and refiners which may be
+owned or otherwise controlled or directed by governments or other State entities.”
+B - 3
+
+LME responsible sourcing handbook
+Known upstream companies include immediate suppliers and any
+known actors further upstream which are identifiable through
+general business dealings or public reports (or other publicly
+available information) to the extent necessary to enable a red flag
+review.
+Immediate supplier is the entity which has a contract with and
+supplies mineral or material to the smelter and is immediately
+before the smelter in the supply chain. This could include (but is
+not limited to):
+• Tier 1 suppliers in addition to other upstream companies
+including miners (artisanal and small-scale or large-scale
+producers)
+• Local traders or exporters from the country of mineral origin
+• International concentrate traders
+• Mineral re-processors
+• Smelters/refiners involved in the extraction, trade, handling,
+export, processing or refining of minerals that may have
+entered the company’s feedstock
+CAHRA Conflict-Affected and High-Risk Area
+Additional checks to The level of rigour applied to this check should be commensurate
+verify the company’s with the nature of the commodity and risk. Commodities that are
+feedstock is in fact is as more fungible, more frequently blended, or more easily laundered
+stated should be subject to a higher level of scrutiny and verification,
+although this red flag is primarily determined by knowledge and
+evaluation of the supplier.
+Please refer to Step 1 of the five-step framework in the OECD
+Guidance for further information on these checks
+Verify through public Basic KYC checks are considered a necessity for any supplier.
+sources, Know Your
+Customer (“KYC”) Brands should carry out at least a minimum level of due diligence
+checks and engagement on the supplier’s corporate-level, company-wide policies,
+with suppliers (including management systems and practices and ensure strong
+spot check if engagement with the supplier (Step 1 from the OECD Guidance).
+appropriate) that Brands should seek credible evidence including, but not limited to,
+supplier has strong the supplier’s annual public report, ensure that the supplier carries
+company-wide due out due diligence in line with the Guidance’s five step framework,
+diligence management in particular in relation to the mineral in question. This is to verify
+systems that any CAHRA with which the Brand’s operations or sourcing
+practices may be associated are identified, and any Annex II risks
+identified, and potentially mitigated.
+The aim of this step is to verify the trustworthiness of suppliers,
+particularly insomuch as weak transparency or suspect
+representations on the sourcing of any material could call into
+question representations made in respect of another. This
+approach is focused on identifying serious allegations of
+misconduct among suppliers, and should also help Brands avoid
+sanctions violations.
+Utilising OECD Step 5 reporting can provide a way to meet this
+minimum requirement for corporate-level, company-wide due
+diligence on a company’s supplier. Such reporting may be made
+B - 4
+
+LME responsible sourcing handbook
+as part of a single Step 5 report, or through other reporting
+frameworks as long they are publicly accessible and clearly
+identified e.g. a supplier’s annual report. However, the existence
+of a Step 5 report alone is insufficient. Disclosures should include
+information on company management systems relevant to the due
+diligence process, publish the company assessment of risks, and
+describe the steps taken to manage risks.
+As part of the process of conducting due diligence on a supplier’s
+corporate-level, company-wide due diligence, a Brand should, on
+a risk-based basis, also cross-check public disclosures of the
+supplier against other sources. For example, if a tier 1 supplier
+makes a complete Step 5 disclosure that appears to attest to
+strong due diligence throughout their operations, but public
+reporting or other information gleaned from general business
+dealings on a tier 3 supplier in the same supply chain contradicts
+such disclosures and/or provides information about a risk or
+adverse impact that has not been addressed in the tier 1 supplier’s
+disclosures, this should lead to bilateral engagement in order to
+verify the allegations, including through spot checks as appropriate
+Brands should always conduct KYC checks on suppliers, including
+in relation to breaches of national and international laws and
+sanctions violations. The Financial Action Taskforce (“FATF”) also
+has useful recommendations on this topic
+If unverifiable through Unsatisfactory disclosures from a supplier and/or information that
+public sources, conduct conflicts with such disclosures should lead to bilateral engagement
+bilateral engagement in order to better understand the supplier’s sourcing and due
+(and spot checks as diligence practices, and should include capacity building and
+appropriate) measurement improvement standards in order to improve the
+quality and completeness of the supplier’s disclosures as an
+integral part of the OECD five step framework in the future
+Satisfactory versus What is considered to be a satisfactory level of verification on due
+unsatisfactory results in diligence of suppliers or other known upstream companies is
+verifying due diligence highly context-specific. For the purposes of the flowchart, an
+unsatisfactory outcome should be understood to mean that, on the
+basis of all information collected (through desk research, bilateral
+engagement, etc.) there is still a reasonable risk that material from
+a CAHRA has entered the Brand’s feedstock
+B - 5
+
+LME responsible sourcing handbook
+Appendix C: Guidance Note on Conflict-Affected and High-
+Risk Areas (“CAHRAs”)
+1. Purpose of Appendix C
+In February 2023, the LME published the results of its Request for Feedback on minor amendments to
+the LME Policy on Responsible Sourcing of LME-Listed Brands (“the Policy”), including a summary of
+feedback received from the market (for full details, see Notice 23/201 – “Amendments to the LME
+responsible sourcing policy”).
+As part of this process, the LME formalised the requirement for Producers of its listed Brands complying
+through Tracks B (Audited LME RFA Track) and Track C (Published LME RFA Track) to provide a
+Conflict-Affected and High-Risk Areas determination methodology in their Red Flag Assessment
+(“RFA”)1. The LME believes that this determination is a key aspect to operating an effective supply
+chain due diligence, and is an expected part of the Organisation for Economic Co-operation and
+Development’s (“OECD”) Due Diligence Guidance on Responsible Sourcing of Minerals from Conflict-
+Affected and High-Risk Areas (“OECD Guidance”). Previous versions of the Policy had not made the
+requirement to provide this methodology explicit, hence its inclusion in the revised Policy provided with
+the Request for Feedback.
+The majority of the respondents to the Request for Feedback supported this proposal, but suggested
+that the LME clarifies its expectations regarding an “acceptable” methodology for Tracks B and C. The
+LME recognises the value of this request, and is now publishing this guidance note to that end. It
+includes the LME’s expectations for Producer’s CAHRA determination process (Section 4) and
+resources (Section 5).
+Once Producers provide their CAHRA determination methodology in the RFA, the LME requires this
+information to be included in the public disclosure of the RFA in line with the transparency timeline as
+set out in the Policy section 7.6 for Track C. Though not directly referenced in the OECD Guidance,
+disclosure is important for several reasons. First and foremost, transparency is a key aspect of Track C
+and transparent CAHRA determination is one of the ways to build trust in the due diligence system.
+Additionally, public disclosure can lead to increased stakeholder engagement and dialogue, as
+interested parties can review a Producer's methodology. This can help identify areas for improvement
+and ensure that Producers are taking a comprehensive and proactive approach to assess potential
+supply chain risks. Lastly, Producers complying through Track A (Recognised Alignment-Assessment
+Standard Track) are required to report their CAHRA determination methodologies and the LME aims to
+bring more alignment between disclosure practices between Producers following Tracks A, B, and C.
+To this end, the LME will also continue to work with auditors to clarify expectations and monitor the Step
+5 reports for the Producers following Track B.
+The LME does not dictate a specific methodology for determining CAHRAs and leaves this decision up
+to the Producer. The LME expects that the Producers have the best access to information about areas
+from which they source and thus are best placed to determine what is considered a CAHRA. It is
+important for Producers to conduct their own research and analysis to determine the risks associated
+with operating in specific regions or regions that are relevant to their production. As noted in the Policy,
+the LME did anticipate that some Producers may wish to use CAHRA lists provided by third parties and
+1 Full details on the Tracks to compliance, and other aspects of the Policy can be found on the website:
+https://www.lme.com/en/About/Responsibility/Responsible-sourcing or by contacting responsiblesourcing@lme.com.
+C - 1
+
+LME responsible sourcing handbook
+believes this is acceptable should the methodology prove appropriate. This document provides
+resources that Producers may find helpful as they work to determine CAHRAs.
+2. Definition of a CAHRA
+In line with the Policy for Tracks B and C, the LME expects that the definition of a CAHRA will be as set
+out in the “Supplement on Gold” of the OECD Guidance, page 66:
+Conflict-affected and high-risk areas2 – Areas identified by the presence of armed conflict,
+widespread violence, including violence generated by criminal networks, or other risks of serious
+and widespread harm to people. Armed conflict may take a variety of forms, such as a conflict of
+international or non-international character, which may involve two or more states, or may consist
+of wars of liberation, or insurgencies, civil wars. High-risk areas are those where there is a high risk
+of conflict or of widespread or serious abuses as defined in paragraph 1 of Annex II of the Guidance.
+Such areas are often characterised by political instability or repression, institutional weakness,
+insecurity, collapse of civil infrastructure, widespread violence and violations of national or
+international law.
+The exception to this is for existing Track A standards, which have already been alignment-assessed,
+and which prefer to maintain the CAHRA definition from the main section of the OECD Guidance rather
+than the definition in the “Supplement on Gold”.
+3. The LME’s expectations
+In question 2.g. of the RFA, the Producer of the LME Brand is expected to provide a description of:
+(i) The resources or reference data used in the CAHRA determination methodology;
+(ii) The decision-making processes that are followed to reach CAHRA determination decisions; and
+(iii) How frequently the CAHRA determination procedure is updated.
+The list of resources can include educational institutions, government sources, peer-reviewed
+databases, independent consultancies, and other sources from professional organisations. The
+resources should be relevant to Input Material’s type. For example, the indicative, non-exhaustive list
+of conflict-affected and high-risk areas under Regulation (EU) 2017/821 is designed for areas relevant
+to the production of tin, tantalum, tungsten, or gold3. Producers of other metals may refer to this list, but
+will need additional references that are relevant to their metal type.
+The Producer’s methodology should not be engineered to arrive at any specific result. CAHRAs may
+be determined at the national or sub-national level.
+4. Resources
+4.1 Third-party CAHRA mapping tools
+This section provides tools that may be used to inform the Producer’s CAHRA determination
+methodology. The LME does not adopt any of these tools as its own method, nor any specific CAHRA
+2 OECD (2016), OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-
+Risk Areas: Third Edition, OECD Publishing, Paris. http://dx.doi.org/10.1787/9789264252479-en
+3 Bellasio, Jacopo, Anna Knack, Victoria Jordan, and Ruth Harris, Provision of an indicative, non-exhaustive list of conflict-
+affected and high-risk areas under Regulation 2017/821: Task A – Methodology development, RAND Corporation, RR-A158-1,
+2020. As of January 12, 2023: https://www.rand.org/pubs/research_reports/RRA158-1.html.
+C - 2
+
+LME responsible sourcing handbook
+list. The resources are simply provided to assist Producers in formulating their own systems to
+determine CAHRAs. The LME encourages Producers to seek multiple sources when formulating a
+CAHRA determination methodology.
+The following sources may provide useful information and guidance in respect of CAHRAs:
+• Responsible Minerals Initiative
+Overview (free)
+o
+RMI CAHRAs Guidance (free)
+o
+RMI Global Risk Map, including CAHRAs (auditee and members access only)
+o
+• TDI Sustainability CAHRA index (free)
+• Kumi Consulting CAHRA Map (subscription access only)
+• The indicative, non-exhaustive list of conflict-affected and high-risk areas under Regulation
+(EU) 2017/821, relevant to tin, tantalum, tungsten and gold (free)
+Many of the resources provided above are built from a synthesis of quantitative indicators such as the
+Heidelberg Institute for International Conflict Research Conflict Barometer, Global Peace Index,
+Corruption Perceptions Index and sanctions lists. Qualitative and real-time information – including
+information directly from the suppliers of material, industry groups, media, and civil society reports –
+may be useful to incorporate as well.
+4.2 Track A standard CAHRA determination requirements, information and
+advice
+The LME aims to see consistent implementation of the OECD Guidance across Tracks A, B, and C.
+Producers following Track A will be following the CAHRA determination requirements of their chosen
+standard, all of which are shown below. Producers following Tracks B and C may find the CAHRA
+determination criteria required by Track A standards helpful for meeting best practices, thus these are
+included as additional references in Table 1.
+Table 1 CAHRA determination requirements and advice from Track A standards4
+Standard CAHRA determination requirements and advice
+Aluminium “Table 5 - Examples of resources you may find useful in
+Stewardship Initiative identifying red flags and CAHRAs. In general terms, credible
+Performance Standard resources may include:
+V3 (2022), page 170
+• Research reports from governments, international
+organisations, civil society and media
+• Maps, UN reports and UN Security Council sanction lists,
+OECD reports
+• Relevant industry literature on Bauxite extraction and impacts
+on conflict and Human Rights
+• Information raised through your Complaints Resolution
+Mechanism.
+4 References in Table 1 are taken in-part or wholly from Track A standard guidance; standards may have additional information
+on their websites that is relevant to CAHRA determination requirements.
+C - 3
+
+LME responsible sourcing handbook
+• Keep records of how you reviewed and considered credible
+sources of information on potential CAHRAs and red flags that
+you can show to an ASI Auditor.
+• Make sure you regularly review and evaluate your risks,
+especially when forming relationships with new suppliers or
+when existing suppliers change their sourcing practices.”
+Chinese Due Diligence “Red flag locations of mineral origin and transit, description of
+Guidelines for supporting document/evidence:
+Responsible Mineral • Procedure for identifying Conflict-Affected and High-Risk
+Supply Chains Areas (including references)
+(second edition) 19
+May 2022, page 29, • Identification checklist of Conflict-Affected and High-Risk
+33 Areas
+• Certificates of origin/customs declaration
+documents/transportation documents of all minerals
+• UN report
+• NGO report
+• Media reports etc.
+5.2.1.3 The warning signs screening process can refer to the
+information released by highly recognized international
+institutions. The sources of information can include reports from
+governments agencies, international organizations, civil society
+organizations, worker representatives and trade unions, national
+human rights institutions, think tank, the media, or other experts. If
+the information is incomplete, the opinions of relevant
+stakeholders and experts can be consulted”
+Cobalt Refiner Supply “To identify Red Flags or warning signs, the Company shall:
+Chain Due Diligence
+Design and implement a process to determine any CAHRAs as
+Standard 19 August
+defined by the Chinese Guidelines or OECD Guidance in its
+2021, page 18
+supply chain. The process shall include, at a minimum:
+• The types of resources used by the refiner to identify
+CAHRAs11;
+• The tool and/or criteria used by the Company to determine a
+CAHRA12;
+• The frequency within which the determination is reviewed and
+updated.
+• A record of all the countries and / or areas identified as a
+Conflict-Affected or High-Risk within the Company’s supply
+chain.”
+11Companies may refer to available resources to determine CAHRAs, such as the
+indicative list of CAHRAs provided by the European Commission pursuant to
+Article 14.2 of the EU Regulation (EU) 2017/821, or those provided by OECD-
+aligned initiatives, or assurance mechanisms, etc
+12The Company must identify reasonable thresholds for determining CAHRAs,
+where indices are referenced
+C - 4
+
+LME responsible sourcing handbook
+Joint Due Diligence “5.2.3.1. CAHRA Determination
+Standard for Copper,
+To identify red flags, the company shall design and implement a
+Lead, Nickel and Zinc
+reasonable process to determine CAHRAs. As part of the CAHRA
+rev. 3, 26 August 2022,
+determination process, the company shall:
+page 22
+• Adopt and consistently implement a methodology or process
+to make the CAHRA determination, including establishing the
+frequency at which the CAHRA determination is reviewed and
+updated.
+• Adopt and record credible sources of information and
+resources used to make the CAHRA determination. The
+company may refer to resources provided by a Joint Initiative
+or Institutionalised Mechanism, or indicative list of CAHRAs
+issued by governments.
+• Document the CAHRA determination process and its findings.
+Credible source: Generally, a credible source is one that has been
+recently published (3–5 years); is extracted from an academic
+peer-reviewed database; or, from a website registered by
+government or educational institution (.gov, .edu, .ac); is written
+by respected and well-known authors or institutions such as the
+UN, think-tanks, or research institutions.”
+London Bullion “Step 2. Identify and Assess Supply Chain Risks
+Market Association The objective of Step 2 is to identify actual and potential adverse
+Responsible Gold impacts with respect to OECD Annex II and consider adverse
+Guidance Version 9 ESG factors in the Refiner’s gold supply chain. Due diligence is
+November 2021, page expected to be proportional to the business activities of each
+22 Refiner and its supply chains. An integrated due diligence process
+that considers sourcing from Conflict-Affected and High-Risk
+Areas (CAHRAs) as well as additional location-, supplier- or type
+of material-based high risks is considered most effective.
+Sources of such an integrated assessment must include, but are
+not limited to:
+• Sanctions lists (US, UK, EU, UN, and relevant sanctions lists)
+• Dodd Frank s. 1502
+• EU CAHRA list
+• Heidelberg Barometer
+• Fragile States Index or equivalent
+• UN Human Rights Office of the High Commissioner or
+equivalent
+• Reports (including relevant country reports) by the Financial
+Action Task Force (FATF)
+• Credible market intelligence on high-risk gold centres/transit
+hubs and on countries where there is a high risk of money
+laundering.
+C - 5
+
+LME responsible sourcing handbook
+Refiners should also consider credible market intelligence to
+cover the risk factors included in Step 1.1, as relevant”
+RMI Global “Design and implement a process to determine any CAHRAs. The
+Responsible Sourcing list of CAHRAs must include, at a minimum:
+Due Diligence
+• The Democratic Republic of the Congo (DRC) and its nine
+Standard for Mineral
+Supply Chains All adjoining countries as outlined in Section 1502 of the Dodd
+Minerals 15 December Frank Act, namely Angola, Burundi, Central African Republic,
+2022, page 18 Republic of the Congo, Rwanda, South Sudan, Tanzania,
+Uganda, and Zambia
+• the indicative list of CAHRAs provided by the European
+Commission pursuant to Article 14.2 of the European Union
+Regulation 2017/821
+The process to determine any CAHRAs must include, at a
+minimum:
+5.1. The types of resources used by the company to identify
+CAHRAs13;
+5.2. The criteria used by the company to determine a CAHRA;
+5.3. The frequency within which the determination is reviewed and
+updated;
+5.4. A record of all the countries and/or areas identified as a
+Conflict-Affected or High-Risk within the Company’s supply chain;
+and
+5.5. Include in the process a general consultation of relevant
+national and international sanctions lists.”
+13Companies may refer to available resources to determine CAHRAs, such as
+those listed by the US Dodd-Frank Act Section 1502 and the indicative list of
+CAHRAs provided by the European Commission pursuant to Article 14.2 of the EU
+Regulation (EU) 2017/821, or those provided by OECD-aligned initiatives, or
+assurance mechanisms.
+RMI Tin and Tantalum “Identification Of Conflict Affected And High-Risk Areas:
+Standard 7 February
+The auditee shall design and implement a reasonable process to
+2020, page 15
+determine if there are any Conflict Affected and High-Risk Areas
+(CAHRAs) as defined by the OECD Guidance in its supply chain.
+The process shall include, at a minimum:
+• The types of resources used by the smelter to identify
+CAHRAs22;
+• The criteria used by the smelter make a CAHRA determination
+23;
+• The frequency within which the determination is reviewed and
+updated.
+The auditee shall record the countries and / or areas identified as
+CAHRA. The CAHRAs list shall include, at a minimum, countries
+identified as high-risk by relevant conflict minerals regulations.24
+Auditees may refer to the program website for further information
+on the identification of CAHRAs.25”
+C - 6
+
+LME responsible sourcing handbook
+22 The smelter may refer to resources provided by joint initiatives, institutionalized
+mechanisms, or government bodies. The resources must cover the areas of
+conflict, governance, and human rights. Primary resources should be
+internationally-recognized, secondary resources could include other credible
+information sources.
+23 The smelter must identify reasonable thresholds for determining CAHRAs,
+where indices are referenced.
+24 The list of CAHRAs must include, at a minimum: 1) The Democratic Republic of
+the Congo (DRC) and its nine adjoining countries as outlined in Section 1502 of
+the Dodd Frank Act, namely Angola, Burundi, Central African Republic, Republic
+of the Congo, Rwanda, South Sudan, Tanzania, Uganda, and Zambia; and 2) the
+indicative list of CAHRAs provided by the European Commission pursuant to
+Article 14.2 of the European Union Regulation 2017/821.
+https://www.cahraslist.net
+25 http://www.responsiblemineralsinitiative.org/minerals-due-diligence/risk-
+management/conflict-affected-and-high-risk-areas
+Tin Code (Standard “Design and implement a reasonable process to determine
+7.3 Responsible CAHRAs from which tin minerals may be produced as follows.
+Sourcing) assessed The company may refer to resources provided by aligned joint
+with the ITA-RMI initiatives, institutionalized mechanisms or indicative list of
+Assessment Criteria CAHRAs provided by the European Commission pursuant to
+(version 2) 23 Article 14.2 of the EU Regulation to inform the design and
+March 2021, page 17 implementation of the process.
+4.1. Record the types of information and resources used by the
+company to identify CAHRAs
+4.2. Establish a method or procedure to make a CAHRA
+determination
+4.3. Establish the frequency at which the CAHRA determination is
+reviewed and updated
+4.4. Include in the process a general evaluation of relevant
+national and international sanctions lists”
+*National or international sanctions lists: Includes the U.S. List
+of Specially Designated Nationals and Blocked Persons (“SDN
+List”); the U.S. Foreign Sanctions Evaders List (“FSE List”); the UK
+Consolidated List of Targets; the Consolidated List of Persons,
+Groups and Entities subject to EU Financial Sanctions; and United
+Nations sanctions lists.
+ITA notes: Companies may additionally refer to other ITA
+information including the Criteria Guidance and ITA Supporting
+Note on CAHRA (Tin Code reporting companies only).
+C - 7
+
+LME responsible sourcing handbook
+Appendix D: Guidance Note on ISO 14001 and ISO 45001
+Compliance
+1. Purpose of Appendix D
+The LME Policy on Responsible Sourcing of LME-Listed Brands (“LME Responsible Sourcing Policy”)
+requires that Producers of LME-listed Brands (“Brands”) are each certified as compliant with ISO 14001
+and ISO 45001 (or Equivalent Certification Programmes (“ECPs”)), in respect of the production methods
+applied at the facility at which the Brand is produced.
+This section outlines:
+• The LME’s position on the migration of OHSAS 18001 to ISO 45001
+• The routes to achieving compliance with ISO, and / or equivalent certification programmes
+• The auditors / assessors which may be used in conducting ISO and equivalence assessments
+Capitalised terms not otherwise defined in this guidance note shall have the meanings ascribed to them
+in the LME Responsible Sourcing Policy.
+2. OHSAS 18001 Migration to ISO 45001
+ISO 45001’s replacement of OHSAS 18001 was published on 12 March 2018, and ISO specified a three
+year migration period ending on 11 March 2021. ISO has specified that OHSAS 18001 certification will
+only be recognised until the end of the migration period. As such, Brands will be expected to be certified
+on ISO 45001 by the LME’s first ISO deadline of 31 December 2023.
+3. Routes to compliance
+There are two options for Producers to meet their LME environmental and occupational health
+management certification compliance, as summarised in Figure 1:
+• Obtain and maintain ISO 14001 and ISO 45001 certification
+• Obtain and maintain certification from an Equivalent Certification Programme
+An ECP can be a standalone (internal or external) management system standard or a Track A standard
+that has been assessed as incorporating all the ISO requirements. Please note that should national,
+regional or international regulatory requirements also reflect certification equivalence (and be subject
+to an appropriate audit), the LME will also accept this as a route to equivalence.
+To recognise ECP, an initial equivalence assessment conducted by an independent auditor will be
+required to establish that the certification programme covers all the ISO requirements. The equivalence
+assessment is a one-off assessment, unless the equivalent certification programme undergoes material
+revision, in which case the equivalence assessment will need to be reconfirmed. Any auditor that is
+qualified to conduct ISO 14001 and 45001 audits in a relevant jurisdiction should be able to conduct the
+equivalence assessment, but before beginning any assessment, the auditor will need to be approved
+by the LME via email to responsiblesourcing@lme.com. Please note that this is separate to the
+approved auditors for Track B.
+Brand compliance is evidenced to the LME by provision of certification or equivalent documentation.
+D - 1
+
+LME responsible sourcing handbook
+Figure ii: ISO compliance flow chart
+Option 1 – Obtain and maintain ISO 14001 and ISO 45001 certification
+The process for Producers wishing to comply via direct ISO certification is as follows:
+(i) Review ISO 14001 and ISO 45001 certification requirements – these can be accessed via the
+ISO website1. Note that an integrated approach to include ISO 9001, 14001, and 45001 is also
+an option.
+(ii) Ensure corresponding management systems are in place at the Brand-producing site. The
+scope should include the smelting or the equivalent step, in all cases being the final substantive
+step resulting in the production of LME grade metal
+(iii) Obtain a valid certification in line with ISO requirements
+(iv) Send to the certificates to the LME by (or before) the LME certification deadline of 31 December
+2023 via email to responsiblesourcing@lme.com
+(v) Producers are to ensure that the LME is at all times in receipt of an unexpired, valid copy of
+each certification. Producers should also notify the LME should there be any change to
+certification status
+(vi) Optional: Producers may choose to disclose their certification on LMEpassport. For more
+information, please refer to the LME website2
+Option 2 – Obtain and maintain certification from an Equivalent Certification Programme
+(i) Producer identifies a certification programme that it wishes to use for compliance
+(ii) Producer reviews the LME website3 for ECPs already accepted by the LME. If the Producer’s
+intended ECP is listed then move directly to step (vii); if not continue to step (iii)
+(iii) Producer obtains permission of the certification programme owner if relevant and identifies an
+auditor who is qualified to conduct ISO 14001 and 45001 audits in a relevant jurisdiction. The
+1 https://www.iso.org/certification.html
+2 https://www.lme.com/en/about/Responsibility/Sustainability/Sustainability-disclosures-on-LMEpassport
+3 https://www.lme.com/en/About/Responsibility/Responsible-sourcing/Approved-partners
+D - 2
+
+LME responsible sourcing handbook
+Producer sends the permission confirmation and proposed auditor name and credentials to the
+LME via email to responsiblesourcing@lme.com
+(iv) If LME accepts the proposed auditor, the Producer, the certification programme, or an agreed
+entity retains the auditor to conduct an equivalence assessment. The LME is available to
+answer questions on this process as needed
+(v) Auditor conducts the assessment and if the auditor agrees that the certification programme is
+equivalent, sends report with the conclusion and the summary of findings to the LME for review
+(vi) LME reviews the report and ratifies the equivalence, assuming no concerns are raised. The
+ECP can be listed on the LME website if the ECP owner agrees
+(vii) Producer obtains valid certificates in line with the ECP’s requirements
+(viii) Producer sends the certificates to the LME by (or before) the deadline of 31 December 2023
+via email to responsiblesourcing@lme.com
+(ix) Producers are to ensure that the LME is at all times in receipt of an unexpired, valid copy of
+each certification. Producers should also notify the LME should there be any change to
+certification status
+(x) Optional: Producers may choose to disclose their certification on LMEpassport if ECP is an
+approved disclosure. For more information, please refer to the LME website4
+4. Auditor qualifications
+Dependent on the route to compliance chosen, Producers may need to retain the services of an auditor.
+This section clarifies which auditors may be used for which step.
+Audit of Brand against ISO 14001 and ISO 45001
+ISO develops and maintains ISO standards but does not maintain lists of approved auditors or audit
+companies capable of assessing these standards. Auditor accreditations are issued independently of
+ISO by various national and international ISO member auditor certification bodies that operate globally.
+Certification bodies have lists of approved auditors, but there is no single global database for all qualified
+auditors.
+The LME will recognise auditors accredited by ISO member certification bodies which may be found
+here: https://www.iso.org/certification.html. This gives Producers the opportunity to choose qualified
+auditors from a variety of bodies in the relevant location.
+Equivalence assessment of a certification programme against ISO 14001 and/or ISO 45001
+Any auditor that is qualified to conduct ISO 14001 and 45001 audits in a relevant jurisdiction should be
+able to conduct the equivalence assessment, but before beginning any assessment, the auditor will
+need to be approved by the LME via email to responsiblesourcing@lme.com.
+Audit of Brand against ECP
+The LME will accept auditors accredited by ISO member certification bodies to assess a Brand’s
+compliance with an ECP. The ECP may have its own list of accredited auditors, in which case the
+Producer must follow the ECP’s rules for acceptable auditors.
+4 https://www.lme.com/en/about/Responsibility/Sustainability/Sustainability-disclosures-on-LMEpassport
+D - 3
+
+LME responsible sourcing handbook
+Glossary
+Term Definition
+Equivalent Certification means a certification programme that has been deemed by the
+Programme LME to be equivalent to, or an improvement upon, the ISO 14001
+and ISO 45001 certifications as described in the LME
+Responsible Sourcing Policy
+ISO 14001 means the international standard prescribed by the International
+Organization for Standardization that specifies the framework
+requirements for an effective environmental management
+system. All references to ISO 14001 in this document are to the
+latest version – ISO 14001: 2015
+ISO 45001 means the international standard prescribed by the International
+Organization for Standardization that specifies the framework
+requirements to improve employee safety, reduce workplace
+risks and create better, safer working conditions, all over the
+world. All references to ISO 45001 in this document are to the
+latest version – ISO 45001: 2019
+OHSAS 18001 is a British Standard framework for an occupational health and
+safety management system (officially known as BS OHSAS
+18001)
+D - 4
+
+Classification: Internal
+LME responsible sourcing handbook
+Appendix E: Assurance summary table
+What is the process for these Useful
+Audit / assurance / assessment requirement Who is this for? Which auditors can be used? Where can I find these auditors?
+auditors to be approved? documents
+Alignment assessment of External standards or
+Completion of the LME's
+an internal or external internal standards wishing Any Recognised Alignment Alignment Assessor
+alignment assessment company application
+standard against the to become a Recognised Assessors on the LME On the LME website
+company and lead alignment
+OECD Due Diligence Alignment-Assessed approved list
+assessor application forms
+Guidance Standard Alignment Assessor
+1) Completion of the LME's
+1) Any Recognised Auditor on
+Audit of brand compliance 1) On the LME website audit company and lead
+Track A the LME approved list Audit company
+with an internal Brands using an internal 2) On the website of the external auditor application forms
+2) Any auditor approved by an
+Recognised Alignment- standard under Track A Recognised Alignment-Assessed 2) As set out by the external
+external Recognised Alignment-
+Assessed Standard Standard Recognised Alignment-
+Assessed Standard Lead Auditor
+Assessed Standard
+Audit of brand compliance Any auditor approved by the
+On the website of the external As set out by the relevant
+with an external Brands using an external external Recognised Alignment-
+Recognised Alignment-Assessed external Recognised N/A
+Recognised Alignment- standard under Track A Assessed Standard being used
+Standard Alignment-Assessed Standard
+Assessed Standard for Track A compliance
+Audit of brand completion Completion of LME's audit Audit company
+Brands using the Audited Any Recognised Auditor on the
+Track B of a Red Flag On the LME website company and lead auditor
+LME RFA Track (Track B) LME approved list
+Assessment (“RFA”) application forms
+Lead Auditor
+Brands using ISO 14001
+and ISO 45001 to meet Auditor accreditations are not issued by
+Audit of brand compliance environmental and Any auditor accredited by an ISO, but by national / international ISO
+As set out by ISO
+with ISO requirements occupational health ISO member certification body member certification bodies, which
+management provide lists of approved auditors
+requirements
+Certification Programme
+Assessment of
+Owners wishing for a Any auditor accredited by an Auditor accreditations are not issued by
+equivalence of a As set out by ISO, plus an
+ISO 14001 Certification Programme ISO member certification body, ISO, but by national / international ISO
+Certification Programme email introduction to the LME
+and ISO to be approved as an with LME review prior to work member certification bodies, which Appendix D
+against the ISO with qualifications
+45001 Equivalent Certification starting provide lists of approved auditors
+requirements
+Programme
+Brands using Equivalent
+Certification Programmes
+1) Any auditor approved by the
+Audit of brand compliance to meet their 1) On the website of the ECP
+ECP 1) As set out by the ECP
+against an Equivalent environmental and 2) On the ISO website:
+2) Any auditor accredited by an 2) As set out by ISO
+Certification Programme occupational health https://www.iso.org/certification.html
+ISO member certification body
+management
+requirements
+E - 1

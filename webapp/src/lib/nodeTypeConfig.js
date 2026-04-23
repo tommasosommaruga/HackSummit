@@ -16,6 +16,20 @@
  */
 
 export const NODE_TYPES = {
+  mine: {
+    label: 'Mine / Deposit',
+    icon: '⛏',
+    color: '#f59e0b',
+    shape: 'icon',
+    size: 26,
+    statusKey: 'pstatus',
+    statuses: {
+      'Producer':             { label: 'Active producer',  color: '#f59e0b' },
+      'Past producer':        { label: 'Past producer',    color: '#d97706' },
+      'Past byproduct producer': { label: 'Byproduct',    color: '#b45309' },
+      'No production':        { label: 'No production',    color: '#78716c' },
+    },
+  },
   deposit: {
     label: 'Deposit',
     icon: '•',

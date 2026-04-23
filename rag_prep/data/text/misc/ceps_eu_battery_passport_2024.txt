@@ -1,0 +1,1000 @@
+IMPLEMENTING THE EU
+DIGITAL BATTERY PASSPORT
+Opportunities and challenges for battery circularity
+Vasileios Rizos and Patricia Urban
+CEPS IN-DEPTH ANALYSIS
+March, 2024 - 05
+
+S
+UMMARY
+Introduced as part of the new EU regulatory frameworks for ecodesign and batteries, the
+digital product passport (DPP) supports the collection and sharing of product-related data
+among supply chain actors. As the first tool of this kind globally, it aspires to address existing
+information gaps for products and components throughout global supply chains, thus
+becoming a key enabler for circular business models.
+Produced through the EU-funded BATRAW project that develops circular approaches for
+electric vehicle batteries, this CEPS In-Depth Analysis paper delves into the new EU regulatory
+framework for batteries and the expanding EU DPP landscape. It identifies key opportunities
+and challenges for battery passports based on qualitative data collected from companies at
+different segments of the battery value chain.
+There are a growing number of initiatives within the evolving EU DPP landscape that are
+developing proof of concepts or pilot cases. In addition to batteries for which the passport
+will be a legal requirement as of 2027, these initiatives include many other sectors including
+textiles, construction and electronics. This suggests that interoperability and alignment
+between the different DPP initiatives is important. Such initiatives can also facilitate multi-
+stakeholder collaboration and provide inspiration and lessons for other product groups
+beyond batteries.
+The qualitative empirical data suggest that the digital battery passport can help break down
+information silos among supply chain actors and support recycling and reuse processes. It
+also provides opportunities for increasing transparency about carbon footprint impacts
+across battery supply chains, whilst creating a level playing field with horizontal requirements
+for all supply chain actors irrespective of their origins.
+Simultaneously, several implementation challenges have also emerged. These include
+confidentiality concerns and the existence of data silos between battery supply chain actors,
+a lack of standards to ensure interoperability of data, concerns about reliability and the
+validity of collected data, and a lack of clarity regarding battery passport responsibilities at
+different end-of-life stages. The paper recommends that more clarity be provided about
+battery passport-related responsibilities, that passport data interoperability be supported,
+and that a platform be created for sharing best practices of battery passport initiatives.
+Vasileios Rizos is a Senior Research Fellow, Head of the Energy, Resources
+and Climate Change Unit and also Head of Sustainable Resources and
+Circular Economy at CEPS. Patricia Urban is a Researcher in the Energy,
+Resources and Climate Change unit at CEPS.
+The authors would like to thank the following experts for providing
+feedback and comments on the draft version of the paper: Volker Krümpel and Pavlina Spasovska from
+Minespider, Karolin Langfeldt from Circulor and Kaisa Toroskainen from the Global Battery Alliance.
+This paper was prepared in the context of the BATRAW project, which has received funding from the European
+Union’s Horizon Europe research and innovation programme under grant agreement No 101058359.
+CEPS In-depth Analysis papers offer a deeper and more comprehensive overview of a wide range of key policy
+questions facing Europe. Unless otherwise indicated, the views expressed are attributable only to the authors
+in a personal capacity and not to any institution with which they are associated.
+© CEPS 2024
+CEPS ▪ Place du Congrès 1 ▪ B-1000 Brussels ▪ Tel: (32.2) 229.39.11
+
+Contents
+1. Introduction ....................................................................................................................................... 1
+2. Main features of the revitalised EU regulatory framework for batteries ....................................... 3
+2.1 EU Batteries Regulation ............................................................................................................. 3
+2.1.1 The battery passport .............................................................................................................. 7
+3. An emerging landscape of battery passports ................................................................................... 9
+3.1 Battery passport examples across the EU................................................................................. 9
+3.2 The BATRAW case .................................................................................................................... 11
+4. Opportunities and challenges ......................................................................................................... 13
+4.1 Methodology ............................................................................................................................ 13
+4.2 Identified opportunities and implementation challenges ..................................................... 15
+4.2.1 Opportunities........................................................................................................................ 15
+4.2.2 Implementation challenges ................................................................................................. 16
+5. Conclusions and policy recommendations ..................................................................................... 19
+Sources ..................................................................................................................................................... 22
+About the BATRAW project .................................................................................................................... 25
+List of Figures and Tables
+Figure 1. Overview of the BATRAW project and project partners ........................................................ 11
+Table 1. Overview of selected requirements of the Batteries Regulation for electric
+vehicle batteries (EVBs) ............................................................................................................................. 6
+Table 2. Overview of companies featured in the sample ...................................................................... 14
+Table 3. Key opportunities and implementation challenges arising from the battery passport ........ 18
+
+1. INTRODUCTION
+Ever since the circular economy concept emerged in the EU policy debate in the early to
+mid-2010s, there has been much discussion about the need to increase transparency
+across supply chains to accelerate the transition to a circular economy. The first Circular
+Economy Action Plan (CEAP) identified the limited exchange of information across supply
+chain actors as a stumbling block to achieving circularity (European Commission, 2015).
+The second CEAP suggested that digital technologies can be a driver for improved
+availability of product-related information (European Commission, 2020). Different
+studies using empirical data from companies that implement circular business models
+(CBMs) have stressed the importance of having clarity about the materials and
+substances in products (Rizos & Bryhn, 2022; Vermunt et al., 2019) and of introducing
+targeted policies to enhance transparency across supply chains (Kurdve et al., 2019). It
+has been suggested that policy action in this area can support the replication of CBMs
+across the EU (Rizos et al., 2015) and create synergies with other policies such as
+ecodesign and recycled content requirements for new products (Vanner et al., 2014).
+The digital product passport (DPP) is a specific digital and policy tool that is expected to
+revolutionise the way product-related data are collected and shared across supply chains
+(Jansen et al., 2023). The European Commission’s (2022, p.9) proposal for a new
+Ecodesign for Sustainable Products Regulation (ESPR) describes the DPP as a tool that will
+‘electronically register, process and share product-related information amongst supply
+chain businesses, authorities’. This information ‘should be easily accessible by scanning a
+data carrier, such as a watermark or a quick response (QR) code’ (European Commission,
+2022, p.26). The product-related data sets to be provided by the DPP refer to material
+composition and origins, chemical substances, carbon footprint, performance as well as
+to repairability, disassembly, recycling and disposal aspects (European Commission,
+2022; Adisorn et al., 2021). Pairing the expanding capacities of digital technologies with
+circularity principles, the DPP will therefore aim to address the major transparency
+barrier to circularity discussed above and enable a more sustainable and circular use of
+products throughout their life cycle (Adisorn et al., 2021; Berger et al., 2022).
+Batteries are the first product group for which the use of a DPP will be a legal requirement
+as of 2027 through the EU Batteries Regulation (European Parliament and Council, 2023).
+Over the next few years, the EU will require the use of DPPs for additional product groups
+through the new legal framework on ecodesign. These new legal requirements are the
+first of their kind at the global level and have piqued the interest of European businesses
+with a number of DPP initiatives emerging across the EU (Jansen et al., 2022; Damen et
+| 1
+
+2 | VASILEIOS RIZOS AND PATRICIA URBAN
+al., 2023). The policy framework on DPPs is still being developed, but there are several
+key questions about how the landscape of DPP initiatives will evolve, what it will look like,
+how the DPP will be implemented in practice across different sectors and how
+confidentiality issues will be addressed (Walden, 2021; Adisorn et al., 2021). This also calls
+for empirical data and evidence to inform policymakers, businesses and researchers
+involved in the design and implementation of DPPs (Jensen et al., 2023; Berger et al.,
+2022).
+Focusing on the digital battery passport (referred to throughout the paper as battery
+passport), this paper explores prospective challenges and opportunities arising from the
+legal introduction of this digital and policy tool. This study is one of the first to empirically
+assess the implementation of the battery passport at the EU level, and to our knowledge
+the first one to use qualitative data from companies across the battery production, use,
+recycling, and reuse stages of the value chain. Other studies focus on other sectors (i.e.
+mechatronics, see Jensen et al., 2023) or provide a cross-industry assessment (see Jansen
+et al., 2023). The paper is produced in the framework of the BATRAW EU-funded project1
+which aims to develop and demonstrate circular approaches for end-of-life electric
+vehicle (EV) battery packs. During the 48-months of the project, two pilots will be
+implemented: the first one will apply a semi-automatic battery pack disassembly process
+to reuse battery components, while the second one will apply a pre-treatment and
+hydrometallurgical process for the recycling of battery cells and modules.
+The remainder of the paper is structured as follows. Section 2 presents the main features
+of the new EU Batteries Regulation including the battery passport requirements. Section
+3 explores the emerging landscape of battery passport examples across the EU and
+discusses the BATRAW pilot case. This is followed by Section 4 which presents the
+emerging empirical evidence collected from companies involved in the implementation
+of the battery passport. Section 5 concludes with key policy messages.
+1 The BATRAW (Recycling of end-of-life battery packs for domestic raw material supply chains and enhanced
+circular economy) project is funded by the EU Commission’s Horizon Europe programme and was launched
+in 2022.
+
+3 | IMPLEMENTING THE EU DIGITAL BATTERY PASSPORT: OPPORTUNITIES AND CHALLENGES FOR BATTERY CIRCULARITY
+2. MAIN FEATURES OF THE REVITALISED EU REGULATORY
+FRAMEWORK FOR BATTERIES
+2.1 EU BATTERIES REGULATION
+Entering into force in August 2023, the Batteries Regulation aims to revitalise the
+regulatory framework for batteries in the EU and adapt it to the evolving social, economic
+and technological conditions in both the EU and globally. Against the background of
+increasing battery demand due to the continued electrification of transport and energy
+(Breiter et al., 2022), the new Regulation introduces a range of mandatory requirements
+for battery design and end-of-life (EoL) handling that aim to enhance the sustainability,
+circularity and safety of batteries. Table 1 provides an overview of selected key targets
+and requirements that apply to electric vehicle batteries (EVBs).
+The new Regulation establishes EU-wide sustainability requirements for all types of
+batteries placed on the European market, including EVBs, waste portable batteries,
+industrial batteries, batteries for light means of transport (LMT), such as electric bikes,
+and starting, lighting and ignition (SLI) batteries2. It thus considerably expands the scope
+of the 2006 Battery Directive (2006/66/EC), which focused mainly on waste portable
+batteries and did not cover LMT batteries. In addition, whereas the Battery Directive
+primarily focused on restricting hazardous substances and improving battery waste
+management, the Batteries Regulation considers the social and environmental
+sustainability of all stages of the battery life cycle. Crucially, the new Regulation
+introduces specific design requirements for batteries which already target EoL
+management and improved performance throughout the battery life cycle. Battery
+design and manufacturing will need to comply with higher performance, durability and
+safety requirements, while minimising the environmental footprint. Some of the key
+requirements of the new Regulation on sustainability, labelling, EoL management and
+due diligence are described below.
+Sustainability and safety requirements cover a range of different aspects, such as
+restrictions of hazardous substances and different documentation obligations on carbon
+footprint and recycled content. Specific recycled content targets are set for different
+materials present in industrial batteries, SLI batteries, and EVBs. From January 2030,
+minimum recycled content targets are set at 6 % for lithium and nickel, 16 % for cobalt
+2 Thus, batteries placed in stock in the Union by distributors, including retailers, wholesalers and sales
+divisions of manufacturers, before the date of application of relevant requirements of this Regulation do
+not need to meet those requirements.
+
+4 | VASILEIOS RIZOS AND PATRICIA URBAN
+and 85 % for lead, respectively. These mandatory shares will increase over time, to 12 %
+for lithium, 15 % for nickel, and 26 % for cobalt, and remain at 85 % for lead. Additionally,
+the Regulation introduces different electrochemical performance and durability
+requirements for different types of batteries, such as on battery capacity and discharge
+time. Finally, portable batteries need to be readily removable and replaceable by end
+users, and there are safety provisions for stationary battery energy storage systems
+(European Parliament and Council, 2023).
+In addition to the sustainability and safety requirements, the Regulation introduces
+labelling and information rules for economic operators. From 2026 onwards, batteries
+will need to feature labels including information on, for instance, the manufacturer, the
+battery capacity, hazardous substances and critical raw materials contained in the
+battery. From 2027, QR codes need to be established for all batteries to provide access
+to the labelling information, and to additional information (e.g. declaration of conformity,
+due diligence report). For EVBs, rechargeable industrial batteries with a capacity greater
+than 2 kWh and LMT batteries, a carbon footprint declaration will be required for each
+battery model per manufacturing plant, also accessible via the QR code. These should
+also provide access to the battery passport (as discussed below) for LMT batteries,
+industrial batteries with a capacity greater than 2kWh and EVBs. Moreover, to evaluate
+whether batteries can be used further at end-of-life (EoL), and to facilitate the reuse,
+repurposing or remanufacturing of the battery, stationary battery energy storage
+systems, LMT batteries and EVBs will have to include a battery management system
+(BMS), containing information on the state of health (SOH) and the expected battery
+lifetime (European Parliament and Council, 2023).
+Obligations on EoL management and extended producer responsibility (EPR) are
+important features of the new Regulation. Battery producers placing a battery on the EU
+market will be subject to EPR including, for example, financing the separate collection
+and transport of waste batteries. Producers of several types of batteries will also need to
+provide take-back and collection systems, and are responsible for making relevant waste
+prevention and management information available to end users and distributors. To
+support the establishment of circularity processes for batteries, the Regulation
+introduces collection targets for different types of batteries. Specifically, producers or
+EPR organisations acting on their behalf will need to ensure that at least 45 % of waste
+portable batteries are collected by the end of 2023. This target is then set to increase to
+73 % by the end of 2030. For LMT batteries, the collection target will increase from 51 %
+by the end of 2028 to 61 % by the end of 2031. In addition, the Regulation foresees that
+all waste batteries should be collected separately by the economic operator or EPR
+
+5 | IMPLEMENTING THE EU DIGITAL BATTERY PASSPORT: OPPORTUNITIES AND CHALLENGES FOR BATTERY CIRCULARITY
+organisations, thereby prohibiting them from being sent to landfills. The Regulation also
+introduces minimum recycling efficiencies and levels of recovered materials for all
+batteries. This is particularly relevant for high-value materials like copper, cobalt, lithium,
+nickel and lead. For example, the material recovery targets for lithium recycling will start
+at 50 % by 2027 and rise to 80 % by 2031, while the recycling efficiency target for nickel-
+cadmium batteries is set at 80 % by the end of 2025 (European Parliament and Council,
+2023).
+The Batteries Regulation also includes rules on due diligence to minimise environmental
+and social impacts associated with the battery life cycle. These obligations do not apply
+to economic operators that had a net turnover of less than EUR 40 million in the financial
+year preceding the last financial year, and that are not part of a group, consisting of
+parent and subsidiary undertakings, which, on a consolidated basis, exceeds the limit of
+EUR 40 million. Economic operators placing batteries on the market will need to set up,
+implement and verify due diligence policies (by 2025). This implies adopting and (publicly)
+communicating due diligence policy on raw materials (including cobalt, natural graphite,
+lithium, nickel and a list of chemical compounds) and associated social and environmental
+risk categories (such as environment, climate and human health, human rights and
+community life). The information on responsible sourcing will also need to be provided
+to the public through the battery passport (see below), as part of an annual battery due
+diligence report. Moreover, companies need to incorporate due diligence standards
+based on internationally recognised due diligence instruments and establish a system of
+supply chain transparency and traceability. For this, documentation will be required on
+traded raw materials, suppliers, countries of origin of the raw materials and market
+transactions starting from raw material extraction. Companies placing batteries on the
+EU internal market also need to conduct risk assessments of adverse impacts in their
+supply chain, and implement appropriate prevention and mitigation strategies (European
+Parliament and Council, 2023).
+As shown in Table 1, the provisions of the new Regulation will be gradually introduced
+over the next few years. Since the new framework takes into account the entire battery
+life cycle, a range of secondary legislation will need to be adopted from 2024 to 2028 to
+support its implementation.
+
+6 | VASILEIOS RIZOS AND PATRICIA URBAN
+Table 1. Overview of selected requirements of the Batteries Regulation for electric
+vehicle batteries (EVBs)
+2025: Carbon footprint declaration (label)
+Carbon 2026: Carbon footprint performance class requirements
+footprint 2028: Maximum life cycle carbon footprint threshold (levels to be
+determined)
+Minimum shares of recovered materials in batteries from 2031:
+- 16 % cobalt
+Sustainability
+- 85 % lead
+and safety
+- 6 % lithium
+requirements
+Recycled - 6 % nickel
+content From 2036:
+- 26 % cobalt;
+- 85 % lead;
+- 12 % lithium;
+- 15 % nickel
+2025: Symbol for separate collection
+Labelling and
+2026: Label for general information
+marking
+Labelling and 2027: QR code giving access to the battery passport
+information
+Information 2024: Battery management system to include parameters for
+requirements
+on SOH and determining SOH and expected lifetime
+expected
+lifetime
+Battery due 2025: Economic operators placing batteries on the market need
+diligence to fulfil due diligence obligations and set up battery due diligence
+policies policies
+2025: Adoption and communication of due diligence policy on
+raw materials and social and environmental risks
+Obligations
+System of controls and supply chain transparency documenting:
+of economic
+Economic
+operators as - raw material
+operator’s
+regards - supplier
+management
+battery due - country of origin
+system
+diligence
+- market transactions from extraction to the immediate
+policies
+supplier
+- quantities of the raw material present in the battery, etc.
+Risk 2025: Identification of risks of adverse supply chain impacts and
+management implementation of a response strategy
+obligations
+2025: Producers of EVBs need to take back waste EVBs free of
+Collection of charge from end users
+Management
+EVBs Producers of EVBs need to provide take-back and collection
+of waste
+systems and deliver collected waste EVBs to treatment facilities
+batteries
+Targets for Permitted facilities need to ensure that waste batteries undergo
+recycling preparation for reuse, repurposing or recycling
+
+7 | IMPLEMENTING THE EU DIGITAL BATTERY PASSPORT: OPPORTUNITIES AND CHALLENGES FOR BATTERY CIRCULARITY
+efficiency Recyclers need to achieve the minimum recycling efficiency
+and recovery targets below by 2025:
+of materials - 75 % by average weight of lead-acid batteries
+- 65 % by average weight of lithium-based batteries
+- 80 % by average weight of nickel-cadmium batteries
+- 50 % by average weight of other waste batteries
+By 2030:
+- 80 % by average weight of lead-acid batteries
+- 70 % by average weight of lithium-based batteries
+Recyclers need to achieve these minimum material recovery
+targets by 2027:
+- 90 % for cobalt, copper, lead and nickel
+- 50 % for lithium
+By 2031:
+- 95 % for cobalt, copper, lead and nickel
+- 80 % for lithium
+2027: Establishment of battery passport containing:
+- Information on battery model
+Battery - Information specific to the individual battery (Annex XIII)
+Battery passport - Different accessibility layers
+passport To be accessible through QR code compliant with specified
+requirements standards
+Technical 2027: Fully interoperable with other EU DPPs
+design and Access free of charge based on access rights
+operation
+2.1.1 The battery passport
+One key novelty of the Batteries Regulation is the introduction of mandatory digital
+battery passports for LMT, industrial batteries with a capacity greater than 2KWh and
+EVBs. Defined by the Regulation as an ‘electronic record’, the passport aims to feature
+information both on the battery model and on the individual battery, with different
+degrees of visibility. Some data will only need to be available to notified bodies, market
+surveillance authorities and the Commission, while other information will be publicly
+accessible or accessible to any natural or legal person with a legitimate interest. Future
+implementing acts will define who these persons are.
+General information on the battery model will be available to the public. This includes
+information on the manufacturer, the battery category, its capacity and general
+information on material composition (such as hazardous substances and critical raw
+materials). Furthermore, the public will be able to access the carbon footprint
+declaration, information regarding the responsible sourcing of materials (in line with due
+diligence policies), recycled content and share of renewables. Information on prevention
+
+8 | VASILEIOS RIZOS AND PATRICIA URBAN
+and management of waste batteries, as specified above, will also be part of the publicly
+accessible battery passport (European Parliament and Council, 2023).
+To facilitate the dismantling of batteries and to support repairers, remanufacturers,
+second-life operators and recyclers in their operations, the battery passports will also
+contain more detailed data on battery composition, dismantling (such as the tools
+required for disassembly) and safety measures, for example. While this information will
+be available to both the Commission and to persons with legitimate interest, data on
+individual batteries will only be accessible by the latter. This includes values for
+performance and durability parameters, SOH, battery status (e.g. ‘original’, ‘reused’,
+‘waste’), and information related to the battery use (e.g. number of charging and
+discharging cycles, accidents that the battery may have been subject to) (European
+Parliament and Council, 2023).
+The Regulation specifies that QR codes need to be established to access the battery
+passports, linking to a unique identifier established by the economic operator3 placing
+the battery on the market4. This economic operator is also responsible for verifying and
+updating the information in the passport, and for storing the data. The text of the
+Regulation specifies that the battery passport will cease to exist after the battery is
+recycled, though no further information about the process is provided in this regard (see
+also Section 4). When a battery is considered to be waste, the battery passport
+responsibilities are transferred to the producer or the waste management operator
+(European Parliament and Council, 2023).
+According to the Regulation, all information included in the battery passport needs to be
+based on open standards, which are yet to be defined. To ensure interoperability, data
+need to be in an interoperable format and transferrable through an open data exchange
+network. Interoperability does not only concern battery passports – the Regulation also
+postulates the need for interoperability with other DPPs that will be put forward in the
+context of EU law on ecodesign5.
+3 Article 3 of the Batteries Regulation defines the 'economic operator' as ‘the manufacturer, the authorised
+representative, the importer, the distributor or the fulfilment service provider or any other natural or legal
+person who is subject to obligations in relation to the manufacture, preparation for reuse, preparation for
+repurposing, repurposing or remanufacturing of batteries, the making available or the placing of batteries
+on the market, including online, or the putting of batteries into service in accordance with this Regulation’.
+4 Defined by the Batteries Regulation as ‘the first making available of a battery on the Union market’, i.e.
+‘by being supplied by the manufacturer or importer for distribution, consumption or use in the course of a
+commercial activity, whether in return for payment or free of charge. Thus, batteries placed in stock in the
+Union by distributors, including retailers, wholesalers and sales divisions of manufacturers, before the date
+of application of relevant requirements of this Regulation do not need to meet those requirements’.
+5 Replacing the Ecodesign Directive, the new Ecodesign for Sustainable Products Regulation will introduce
+ecodesign requirements for almost all products placed on the internal market (with the exception of food
+
+9 | IMPLEMENTING THE EU DIGITAL BATTERY PASSPORT: OPPORTUNITIES AND CHALLENGES FOR BATTERY CIRCULARITY
+3. AN EMERGING LANDSCAPE OF BATTERY PASSPORTS
+3.1 BATTERY PASSPORT EXAMPLES ACROSS THE EU
+In the wake of the EU legislative developments that will gradually mandate the
+introduction of DPPs, a range of different initiatives developing proof of concepts or pilot
+cases of tools that enable transparency and circularity across supply chains have been
+emerging. So far, most efforts have been focused on the construction sector, automotive
+and manufacturing industries, textiles, electronic devices, and batteries. Most existing
+DPP initiatives are a result of private sector activities, either by individual companies or
+company networks, or receive financial support from EU and national funds. However,
+up to now only a few DPP schemes have reached the stage of practical implementation
+(Jansen et al., 2022; Damen et al., 2023). Some examples of relevant initiatives focusing
+on the battery sector are presented below.
+The Global Battery Alliance (GBA) is a multi-stakeholder platform aiming to scale up
+sustainable battery value chains by 2030. The GBA’s Battery Passport programme aims
+to develop a DPP for EVBs to increase transparency and accountability in battery value
+chains (Global Battery Alliance, 2022). Based on standardised and auditable data, the
+GBA’s battery passport is meant to function as a quality seal for battery sustainability that
+adheres to reporting rules. Among its various activities, the GBA launched a first proof of
+concept of a battery passport in January 2023 to demonstrate the practical feasibility of
+battery passports. In three different pilots (one led by Tesla and two led by Audi), GBA
+members developed rulebooks for establishing sustainability performance indicators for
+the battery carbon footprint, as well as due diligence indicators on child labour and
+human rights (Global Battery Alliance, 2022). Developed via a multi-stakeholder approach
+involving GBA members from the entire EVB value chain, the proof of concept also
+included technical battery parameters and tracking, and tracing of material flows. Once
+completed, the GBA’s battery passport will report on progress towards global
+sustainability goals to support policymaking and development of performance
+benchmarks, in addition to standard battery passport features like data collection and
+exchange.
+Another notable initiative is the Battery Pass project which was launched by an industry-
+led consortium in 2022. Funded by the German Federal Ministry for Economic Affairs and
+Climate Action, the Battery Pass aims to advance the implementation of the EU battery
+and feed or medicinal products, for instance) to improve their performance. These include requirements
+on durability, recyclability and environmental footprint. Information requirements specify obligations to
+communicate on product parameters and facilitate EoL handling of products. DPPs will be part of the latter
+information requirements. Specific rules for different product groups will be introduced in the coming years
+through delegated acts.
+
+10 | VASILEIOS RIZOS AND PATRICIA URBAN
+passport, aligned with the provisions of the new Batteries Regulation (Battery Pass
+consortium, 2023). The Battery Pass consortium consists of partners from industry and
+research, involving actors from the entire battery value chain. It is also aligned with other
+initiatives such as the GBA, CIRPASS, Catena-X, BATRAW and BatWoMan, to integrate
+different perspectives (Battery Pass consortium, 2023). While its core objective is not to
+develop a commercial battery passport, the project has set out to create content
+guidance for the EU battery passport, identify relevant technical standards for the data
+infrastructure, and develop a software and physical demonstrator. The first content
+guidance document was released in 2023; it provides detailed information on the
+reporting requirements of the Batteries Regulation in order to facilitate compliance
+(Battery Pass consortium, 2023).
+In addition to the multi-stakeholder battery passport initiatives, there are now more
+companies offering battery passport solutions and supply chain traceability services.
+Using blockchain technology for sharing and storing data on the product’s origins, carbon
+footprint and responsible sourcing, these companies offer compliance services for clients
+that wish to prepare for the upcoming obligations of the EU Batteries Regulation. Some
+examples of companies offering such solutions are Minespider, Circulor and iPoint6.
+Several DPP initiatives have been launched in the context of projects funded by the
+European Commission. Among them, the CIRPASS7 project consists of 31 consortium
+partners from academia and industry and aims to develop roadmaps for DPP prototypes.
+These prototypes are focused on three value chains: batteries, electronics and textiles.
+The overarching goal is to establish shared rules, definitions and principles to
+conceptualise cross-sectoral DPPs and support a circular economy (DigitalEurope, 2023;
+EON, 2022). BatWoMan8 focuses on developing sustainable Li-ion battery cell
+production. In this context, the project partners are demonstrating a battery passport
+using production data from pilot factories. It aims to validate guidelines and standards
+defined in related projects (CIRPASS and Battery Pass) (Siska et al., 2023). BATRAW and
+RECIRCULATE9 are further examples of EU-funded projects that conduct focused work on
+the battery passport. Within these projects, battery passports that are backed by
+blockchain-secured digital IDs will be implemented and used, with the objective to collect
+6 A more comprehensive list of battery passport examples can be found in CIRPASS consortium (2024).
+7 The CIRPASS (Collaborative Initiative for a Standards-based Digital Product Passport for Stakeholder-
+Specific Sharing of Product Data for a Circular Economy) project was launched under the European
+Commission’s Digital Europe Programme in 2022.
+8 BatWoMan (Carbon Neutral European Battery Cell Production with Sustainable, Innovative Processes and
+3D Electrode Design to Manufacture) is an EU Horizon 2020 project on sustainable battery manufacturing,
+launched in 2022.
+9 The RECIRCULATE project has received funding from the European Union’s Horizon Europe research and
+innovation programme.
+
+11 | IMPLEMENTING THE EU DIGITAL BATTERY PASSPORT: OPPORTUNITIES AND CHALLENGES FOR BATTERY CIRCULARITY
+and process data from different battery supply chain actors. More info about the
+BATRAW case is presented below.
+3.2 THE BATRAW CASE
+The BATRAW project is a notable example of an EU-funded project on battery
+sustainability and circularity that seeks to implement on a practical level the
+requirements of the Batteries Regulation. It aims to develop two pilot systems for
+sustainable recycling and EoL management of EVBs, as well as for domestic batteries (and
+battery scraps), to help generate secondary streams of strategically important critical raw
+materials (Krümpel et al., 2023). To create new procedures for battery repair and reuse,
+BATRAW focuses on a range of innovations, such as ecodesign guidelines for battery
+manufacturing and faster conversion of EV battery packs into second-life batteries (see
+Figure 1).
+Figure 1. Overview of the BATRAW project and project partners
+Source: BATRAW website.
+One of the key deliverables is the demonstration of a battery passport, which was
+developed by Minespider, a software company and consortium partner. Using blockchain
+technology for data sharing and QR codes to enable access, the BATRAW battery passport
+collects key battery data, ESG information and lifecycle requirements based on EU
+legislation (Krümpel et al., 2023).
+The overarching aim of the passport is to enable product and supply chain tracking for
+batteries, their components, and raw materials, in line with the EU Batteries Regulation.
+The data concept for the battery passport designed, implemented and demonstrated in
+the BATRAW project therefore supports participating companies (i.e. project partners) in
+
+12 | VASILEIOS RIZOS AND PATRICIA URBAN
+what they need to share according to existing and upcoming policies. It contains different
+layers of transparency depending on user needs and the relevant provisions.
+Participants include a range of stakeholders from the EVB value chain, including battery
+and EV manufacturers, and companies responsible for dismantling, repair, disassembly,
+recycling, etc. Minespider is responsible for training each company in applying the battery
+passport to facilitate EVB reuse and recycling processes developed within the project.
+Different supply chain actors have different information needs. For example, battery
+transporters need to know if they have to comply with specific health and safety
+regulations or whether the materials transported are considered to be waste. A
+dismantler needs to know how to safely and efficiently handle and dismantle the
+delivered battery, which tools and precautions are necessary – a damaged battery from
+an accident involves risk of short-circuit and burning, for example. The more information
+available, the safer and more efficiently these processes can be designed and performed.
+After identifying these different information needs, battery supply chain actors each
+generate DPPs for the respective materials and products they supply. The battery supply
+chain consists of a range of individual suppliers providing individual battery components,
+such as miners, refiners, cell component producers, and cell and module producers, who
+each have their own respective suppliers. Each of these battery supply chain actors as
+well as their suppliers (and their suppliers, etc.) can generate a DPP representing their
+own product, and provide this DPP to their customers when shipping their product. These
+DPPs can be linked with each other, feeding the relevant data into the DPP of the
+subsequent product down the value chain, up to the battery passport. This allows all
+battery components and their own components to be tracked along their respective
+value chains, demonstrating the chain of custody of each product10. Thus, the battery
+passport can integrate the DPPs of any other product, component or raw material feeding
+into the battery placed on the EU internal market.
+This can include entity certificates such as licences, permits and certifications, and
+product passport information on, for example, chain of custody, ESG metrics or recycling
+data. The final battery passport contains the battery status, labelling and information
+requirements, sustainability and safety requirements, technical documentation and EoL
+management data. At the second-life and EoL stage, supply chain actors involved in
+10 The battery supply chain can be considered to comprise several ‘tiers’. For example, a tier 3 supplier
+delivers cells and screws alongside the respective DPP to the tier 2 supplier, who adds a case to build a
+battery module. The tier 2 supplier can then generate a DPP for the module, linking it to the DPP of tier 3.
+Then, the tier 2 supplier provides both the module and the (linked) DPP to the battery pack manufacturer
+(tier 1). The battery pack manufacturer can generate a new DPP for the battery pack, and integrate the DPP
+of the module (which is linked to that of the cells and screws).
+
+13 | IMPLEMENTING THE EU DIGITAL BATTERY PASSPORT: OPPORTUNITIES AND CHALLENGES FOR BATTERY CIRCULARITY
+collection, remanufacturing, recovery and recycling need to update or generate new
+DPPs wherever necessary.
+To ensure the necessary data transparency while allowing for confidentiality of certain
+types of data, the battery passport used in the BATRAW project consists of three different
+layers of data visibility (Krümpel et al., 2023). While the public layer is visible to everyone,
+the transparency layer is only shared with every subsequent actor in the same supply
+chain, and the privacy layer can only be accessed by an immediate customer (or other
+users with the appropriate permission). These different layers can be used to comply with
+the requirements of the EU Batteries Regulation on data access for different audiences,
+such as interested persons, the Commission or notified authorities. Concerns about
+sharing sensitive data as well as other challenges are discussed in more detail in the next
+section.
+4. OPPORTUNITIES AND CHALLENGES
+In this section, we identify a set of opportunities and challenges arising from the
+implementation of battery passports as identified during current pilot cases and
+applications. The empirical analysis is based on interviews with experts from companies
+across different parts of the battery value chain that have been involved in implementing
+battery passports.
+4.1 METHODOLOGY
+There is limited available empirical evidence on the battery passports since they have
+only recently emerged in the battery industry landscape. In light of this, we adopted an
+exploratory research approach for this study. This approach can be used to collect
+qualitative empirical evidence on under-researched topics (Stebbins, 2001). To develop
+an in-depth understanding of practical challenges that can emerge across battery supply
+chains, data have been collected from real-world cases of companies that have been
+engaged in the design or implementation of battery passports (Rizos & Bryhn, 2022;
+Milios, 2021. A sample of 16 companies was developed for this assessment through
+combining the purposive sampling and snowball sampling techniques. Following the
+former technique, we leveraged the partners involved in the BATRAW project as well as
+other company experts with specific experience and knowledge in the field (Saunders et
+al., 2009). In line with the latter technique, we asked the sampled experts for further
+recommendations for company representatives that could be featured in the analysis
+(Mack, 2005). As shown in Table 2, the sample includes companies involved in battery
+production, use, recycling, and reuse as well as companies offering supply chain
+traceability services.
+
+14 | VASILEIOS RIZOS AND PATRICIA URBAN
+Table 2. Overview of companies featured in the sample
+No. Activities Position of interviewees
+1 Automobile manufacturer & Developer of Manager
+battery cells
+2 Developer of batteries Head of Public Affairs
+3 Automobile manufacturer Head of Sustainability
+4 Automobile manufacturer Innovation Analyst
+5 Supplier of battery materials Manager
+6 Dismantler & Provider of automotive parts Head of Innovation
+7 Recycler Director
+8 Recycler CEO
+9 Recycler Director
+10 Developer of recycling equipment Engineer
+11 Developer of second-life applications Engineer
+12 Developer of second-life applications CEO
+13 Provider of traceability services Manager
+14 Provider of traceability services Head of Business Development
+15 Provider of environmental sustainability and Project Manager
+innovation services
+16 Developer of standards Head of Public Affairs
+Source: Compiled by the authors.
+We employed in-depth interviews as the primary method for collecting empirical insights
+from the sampled company experts. The interviews were organised between August
+2022 and April 2023 and lasted about one hour each. During the interviews, the experts
+were asked to first describe their business model and then provide their perspectives
+about the EU regulatory framework on batteries including the requirements for the
+battery passport. The team used a similar approach to other studies exploring barriers to
+the green transition on the basis of qualitative empirical data for grouping and analysing
+the collected data (see, for instance, Rizos & Bryhn, 2022; Vermunt et al., 2019; Roberts
+et al., 2023). The first step involved the preparation of write-ups for all interviews
+providing detailed accounts of the discussions. The different challenges and opportunities
+described by the interviewees were then coded with short textual summaries11 (Saldaña,
+2013). The third step involved the transfer of data to an Excel document using the
+identified codes. The use of codes facilitated the filtering of data and identification of
+commonalities among the views shared by the experts.
+11 Two examples of such codes used to facilitate the grouping of data were ‘uncertain framework for data
+exchange’ and ‘unwillingness to share battery-related data’.
+
+15 | IMPLEMENTING THE EU DIGITAL BATTERY PASSPORT: OPPORTUNITIES AND CHALLENGES FOR BATTERY CIRCULARITY
+4.2 IDENTIFIED OPPORTUNITIES AND IMPLEMENTATION CHALLENGES
+4.2.1 Opportunities
+Before delving into the implementation challenges, it is important to emphasise that the
+introduction of the battery passport was generally seen as a positive development by the
+experts who believed that it has the potential to unlock novel value creation
+opportunities across battery supply chains. According to the experts having a clear
+understanding of the operations and impacts across all battery supply chain steps backed
+by data would help industry actors identify better solutions for reducing emissions across
+supply chains and the carbon footprint of their operations. The interviewees considered
+the battery value chain as a very good case to first test the capabilities of this tool for
+addressing the transparency challenge and to then develop similar requirements for
+other products groups, based on the insights gained.
+Two processes where significant benefits can be attained from the implementation of the
+battery passport are recycling and second-life applications of batteries. For the recycling
+process, it was reported that collected lithium-ion batteries often lack a label providing
+basic information about their manufacturing and content. The experts therefore argued
+that if properly implemented, the battery passport would provide clarity to recyclers
+about the content of batteries (e.g. battery chemistry, share of different metals in the
+battery) and access to key data for determining the battery’s SOH and optimal time for
+recycling. The battery passport was also perceived as an important enabler for second-
+life applications whose effective implementation require an assessment of the state of
+the battery and its cells. As shown during implementation of the BATRAW project, while
+the battery SOH can be approximated through performance tests, having access to key
+durability parameters (e.g. internal resistance) can facilitate the process significantly.
+Opportunities may also arise from the battery passport provisions to make certain
+battery-related information sets available to the public. Some experts believed that
+access to carbon footprint information can help increase consumers’ awareness of the
+environmental impacts of batteries and of their consumption choices – which extends to
+third countries outside the EU – and in the long run promote more eco-conscious
+decisions, for example, opting for products with recycled content. Achieving full
+transparency was also seen as an important step in developing a level playing field where
+actors that adopt more ambitious sustainability approaches are rewarded. Some experts
+also welcomed the requirement to integrate due diligence aspects (in the form of a report
+by the economic operator placing the battery on the market) in the battery passport as
+another contribution to increased transparency. The experts also considered this
+
+16 | VASILEIOS RIZOS AND PATRICIA URBAN
+obliga�on as a form of reassurance that some minimum standards on responsible
+sourcing have been followed by the economic operator12.
+4.2.2 Implementation challenges
+Data collection, sharing and reliability
+As discussed above, companies view the battery passport as an important tool for
+boosting circularity across the battery supply chain. However, they also anticipate some
+challenges with implementation, particularly with regards to data collection and sharing.
+With respect to data collection, the company experts suggested that while technical tools
+for collecting data across supply chains are available, obtaining a full account of all
+battery-related information required for the battery passport can be practically
+challenging. As showcased during the BATRAW project pilot case, data on the proportion
+of different metals in the battery and the various manufacturing steps are among the
+types of information that are difficult to obtain, given the numerous supply chain actors
+involved. The project also showed that obtaining values for the parameters determining
+the state of health of batteries (e.g. internal resistance) can also prove to be a complex
+task. The experts argued that acquiring data on battery performance and durability in
+practice would require collaboration between the original battery supplier or producer,
+the company dismantling or repairing the battery and the user of the battery.
+The general reluctance to share data was seen as a potentially important obstacle to
+collecting all necessary battery passport information. According to the interviewees,
+companies are accustomed to sharing data if there are non-disclosure agreements in
+place which provide a reassurance that sensitive data will be handled in a confidential
+manner. There are also cases where there is a lack of trust between different supply chain
+actors due to the competitive nature of the market. In some cases, lack of knowledge
+about the importance of building transparent battery supply chains and the upcoming
+legal requirements of the Batteries Regulation also contribute to this issue. Interviewees
+also pointed out that there is often a lack of clarity concerning the access rights to certain
+types of data, which can create confusion and concerns among companies.
+One area of concern referred to the sharing and storing of battery-related data, with
+experts highlighting the importance of ensuring confidentiality of sensitive data. During
+some interviews it was suggested that companies should only access certain data based
+12 It should be noted that although the experts were generally positive about integrating due diligence
+obligations in the battery passport, some expected a higher degree of ambition in the specific
+requirements. Specifically, it was argued that the requirements for economic operators placing the battery
+on the market could have extended beyond annually uploading a report on adopted due diligence policies
+to the battery passport.
+
+17 | IMPLEMENTING THE EU DIGITAL BATTERY PASSPORT: OPPORTUNITIES AND CHALLENGES FOR BATTERY CIRCULARITY
+on special access rights. According to the experts, it is important to carefully consider the
+potential risks of providing full access to data to one single company (e.g. a third-party
+provider) and to take appropriate measures to mitigate them, such as establishing proper
+security measures and ensuring clarity in the system.
+Some experts were also cautious about the interoperability of shared data. Specifically,
+the interviewees stressed the importance of having standards in place to ensure that
+battery-related data shared by different actors across global supply chains are provided
+in a defined format. As the landscape of traceability and battery passport service
+providers grows, it is also important to achieve interoperability between the systems
+used by these providers. Given that such standards are not yet in place or extensively
+used by companies, some company experts considered the timeline for the legal
+introduction of battery passport requirements (by 2027) to be too ambitious.
+Assessing the reliability and validity of collected data may prove to be another challenging
+area according to the companies. Meeting the objectives of the battery passport will
+depend on acquiring reliable data (e.g. on carbon footprint) from each actor in the supply
+chain including those making even a small contribution to battery manufacturing. As
+noted by companies that place batteries on the market, the battery supply chain involves
+many companies often from different continents. This makes it difficult in practice to
+assess the reliability of data collected from their suppliers a challenging endeavour. There
+were particular concerns about whether actors in the previous steps of the supply chain
+would document and report their data (especially on carbon footprint) accurately and
+whether the consolidated data from all actors would be trustworthy enough to make
+reliable claims about the batteries placed on the market13.
+Other challenges
+Further potential challenges beyond strictly data collection and sharing issues were
+discussed by the company experts. One such challenge referred to the definition of
+responsibilities for meeting the requirements of the battery passport. To be more
+specific, one area that is particularly unpredictable is the transfer of battery passport
+responsibilities after the battery reaches the end of its first life and needs to be
+repurposed or reused. As noted by some experts, while the text of the Regulation
+mentions that the responsibility should be transferred to ‘the economic operator that has
+placed that battery on the market or has put it into service’, it is uncertain how this will
+be implemented in practice. Experts also held that although the economic operator is
+responsible for placing the product on the market and providing the necessary
+13 It should be noted that when it comes to the supply chain transparency obligations, Article 49 of the
+Batteries Regulation foresees the establishment of a chain of custody or traceability system to support the
+collection of reliable data (on raw materials, suppliers, origins) (European Parliament and Council, 2023).
+
+18 | VASILEIOS RIZOS AND PATRICIA URBAN
+information, it is not entirely clear who should be responsible for gathering and updating
+the required data after that stage. Similar uncertainties exist for the actor and the process
+for handling and erasing the battery passport data after the battery reaches the end of
+its life and needs to be recycled.
+Challenges may also stem from the carbon footprint requirements of the Batteries
+Regulation, which will be part of the battery passport. While the methodological
+guidelines for calculating the carbon footprint of batteries by the European Commission’s
+Joint Research Centre (see Andreasi Bassi et al., 2023) were welcomed by the experts,
+they also pointed out that they are based on several assumptions of a standard battery
+supply chain that may not be applicable everywhere. They also argued that even though
+the Regulation and the guidelines describe the aspects that need to be quantified and
+define the boundaries of the carbon footprint assessment, it may still be challenging to
+model all the different aspects in a comparable manner. This was because battery
+production (including components) and use take place under diverse conditions globally
+(e.g. in terms of temperature, humidity) with multiple actors involved, thereby
+complicating the use in such assessments of comparable data. Table 3 below summarises
+the opportunities and challenges identified during the interviews with experts from the
+battery value chain.
+Table 3. Key opportunities and implementation challenges arising from the battery
+passport
+Opportunities
+• Develop a better picture of the carbon footprint of battery manufacturing operations
+• Test the capabilities of the battery passport tool to then design similar requirements for
+other product groups
+• Support battery recycling through better clarity about the batteries’ content and state
+of health
+• Support second-life applications through having access to key battery durability
+parameters
+• Increase consumers’ awareness of the environmental impacts of batteries and of their
+consumption choices
+• Support more eco-conscious decisions by consumers
+• Develop a level playing field that rewards actors adopting higher sustainability standards
+• Provide a form of reassurance about responsible sourcing through due diligence
+requirements in the battery passport
+
+19 | IMPLEMENTING THE EU DIGITAL BATTERY PASSPORT: OPPORTUNITIES AND CHALLENGES FOR BATTERY CIRCULARITY
+Challenges
+• Practically challenging to collect data from the multitude of companies involved in the
+various life cycle stages of batteries
+• General reluctance to share data due to confidentiality concerns and lack of trust
+between battery supply chain actors
+• Lack of knowledge about the need for building transparent battery supply chains and the
+requirements of the upcoming EU Batteries Regulation
+• Lack of clarity on the access rights to certain types of data
+• Lack of standards to ensure interoperability of data shared among global supply chain
+actors
+• Difficult to assess the reliability and validity of collected data (e.g. on carbon footprint)
+• Unclear responsibilities for meeting the requirements of the battery passport
+• Difficult to consolidate all required carbon footprint data and produce comparable
+results
+5. CONCLUSIONS AND POLICY RECOMMENDATIONS
+It has long been acknowledged that addressing the transparency challenges that are
+being perpetuated by the lack of consistent and reliable data about products is a
+prerequisite for improved circularity and sustainability. Introduced in the context of the
+revised EU regulatory frameworks for ecodesign and batteries, the DPP is a regulatory
+and digital tool that aspires to serve as a solution to the above challenges and help unlock
+opportunities from circular business models. Requiring the collection in a structured way
+and sharing a range of different product-related information (e.g. on origins and flow of
+resources, product content, sustainability performance and supply chain due diligence),
+the DPP is the first legally binding instrument of this kind globally.
+In anticipation of the DPP becoming a legal requirement for batteries, a range of
+initiatives are actively shaping the landscape of digital battery passports. Fostering the
+development of several best practice examples, key lessons can be drawn from these
+pilot cases. First and foremost, they stress the significance of the interoperability of
+product passports, highlighting the need for integration across various systems. Second,
+effective stakeholder communication emerged as a crucial element to foster trust among
+supply chain actors. This is pivotal for increasing the willingness to share data and for
+ultimately enhancing the transparency of battery value chains. The pilot cases that were
+analysed emphasise the importance of multi-stakeholder approaches, the content
+guidance development, and alignment between different battery passport initiatives.
+These insights are not only critical for the effective implementation of battery passports
+but could also provide inspiration for adopting similar requirements for other product
+categories in the future.
+
+20 | VASILEIOS RIZOS AND PATRICIA URBAN
+The empirical analysis of this paper based on in-depth interviews with experts across
+different parts of the battery value chain provides insights into the opportunities and
+challenges emerging from the implementation of the battery passport. Acknowledging
+the need for more traceability and transparency throughout the battery value chain, the
+experts generally view the battery passport as a tool that can help break down existing
+information silos. As shown during implementation of the BATRAW project, having access
+to key streams of information about the content of batteries and their state of health can
+leverage opportunities for both the recycling of batteries and second-life applications.
+According to the experts, the passport can also help shed light on the carbon footprint
+impacts across the various stages of battery manufacturing and thereby support the
+industry in reducing the impacts of its operations across supply chains. Ultimately the
+battery passport is seen as a tool that can help create a level playing field for the
+implementation of CBMs for batteries, introducing requirements for all supply chain
+actors irrespective of their origins.
+While the emerging opportunities from harnessing the capacities of the battery passport
+were generally recognised during the interviews, the experts went on to describe a
+number of prospective challenges that need to be addressed for the successful roll-out
+of this digital tool. As evidenced during existing projects and pilots across the EU, the
+primary difficulties revolve around the way data are collected and shared among the
+various battery value chain actors. While the new EU Regulation on batteries will
+introduce requirements for sharing a range of different data streams (e.g. on battery
+materials and composition, carbon footprint, performance and state of health), the
+present pilot cases indicate that the processes of collecting them from the multitude of
+companies involved in the various life cycle stages of batteries can still be complex on a
+practical level. Confidentiality concerns and existence of data silos between supply chain
+actors appear to be important stumbling blocks for this process. Interoperability of data
+was another point of concern with experts highlighting the need for standards and
+processes to ensure that the various data points are shared in a defined format that
+would also allow their effective aggregation. Data reliability is another related challenge
+with companies, especially from the downstream part of the battery supply chain,
+expressing doubts about how the collected data (e.g. on carbon footprint) from various
+companies contributing to battery production will be validated in practice.
+Beyond the data collection and sharing issues, interview evidence suggests that there is
+still a lack of clarity around practical steps in the reuse and recycling processes. For
+example, it is unclear how the responsibility for handling the batteries will be transferred
+after the end of the first life stage, or how data will be erased before battery recycling.
+They also suggested that a higher degree of clarity is needed on the responsibility for
+collecting data after the stage of entering the market. The experts also called for caution
+
+21 | IMPLEMENTING THE EU DIGITAL BATTERY PASSPORT: OPPORTUNITIES AND CHALLENGES FOR BATTERY CIRCULARITY
+when it comes to comparing carbon footprint data given the diverse conditions under
+which battery production and use take place globally.
+Drawing on the empirical data and the analysis in this paper the following
+recommendations are provided:
+R1. Provide higher clarity about batery passport-related responsibili�es: As showcased
+by our analysis, there are s�ll ambigui�es about certain processes that are required to
+meet the batery passport requirements. Two such processes concern transferring the
+batery passport du�es (including the obliga�on to develop a new passport) in cases
+where the batery is reused or repurposed following its first life and the handling of the
+passport data before the batery recycling stage. Although the text of the EU Bateries
+Regula�on provides these requirements, further guidance and clarifica�ons about the
+specific steps for fulfilling them (such as which actor is responsible in each step, how data
+will be handled) would help avoid confusion by operators. Such guidance could benefit
+from lessons learned and prac�cal insights from exis�ng pilots (e.g. BATRAW) that develop
+and implement batery passports.
+R2. Support interoperability of batery passport data: As highlighted during the
+consulta�ons with companies along the batery supply chain, it is important to have
+standards and processes in place to allow each actor across the global supply chain to
+structure and share their data in a manner that allows for interoperability. Given that such
+data-sharing requirements are being introduced for the first �me both in the EU and
+globally through the batery passport, having the appropriate processes and protocols in
+place to ensure that they are shared in a standardised way will be important for the
+smooth implementa�on of this tool.
+R3. Create a pla�orm for sharing best prac�ce examples of batery passport ini�a�ves: In
+light of the prolifera�on of batery passport ini�a�ves, it will be crucial to consolidate and
+clearly communicate their findings and outputs. To this end, establishing a centralised
+online pla�orm connec�ng exis�ng ini�a�ves may be a useful tool for different actors
+from the batery value chain. This pla�orm could serve as a knowledge-sharing hub to
+effec�vely communicate best prac�ces to actors who will need to meet the upcoming
+batery passport requirements. This would also help address two of the challenges
+iden�fied in this analysis: the lack of trust among supply chain actors and the insufficient
+clarity on specific steps in the implementa�on process. By crea�ng a centralised space for
+collabora�on and informa�on exchange, stakeholders would gain access to prac�cal
+examples from ongoing projects that showcase effec�ve batery passport implementa�on
+strategies. Such a knowledge-sharing hub could be expanded to cover further sectors and
+DPP ini�a�ves beyond bateries, given that in the coming years similar requirements will
+be introduced for addi�onal product groups.
+
+22 | VASILEIOS RIZOS AND PATRICIA URBAN
+SOURCES
+Adisorn, T., Tholen, L. and Götz, T. (2021), Towards a digital product passport fit for
+contributing to a circular economy, Energies, Vol. 14(8), 2289.
+Andreasi Bassi, S., Peters, J.F., Candelaresi, D., Valente, A., Ferrara, N., Mathieux, F. and
+Ardente, F. (2023), Rules for the calculation of the carbon footprint of electric
+vehicle batteries (CFBEV), Final Draft, Joint Research Centre, Luxembourg:
+Publications Office of the European Union.
+Battery Pass consortium (2023), Battery passport content guidance: Achieving
+compliance with the EU Battery Regulation and increasing sustainability and
+circularity, Version 1.0, April 2023.
+Berger, K., Schoggl, J.P. and Baumgartner, R.J. (2022), Digital battery passports to enable
+circular and sustainable value chains: Conceptualization and use cases, Journal of
+Cleaner Production, Vol. 353(15), 131492.
+Breiter, A., Horetsky, E., Linder, M. and Rettig, R. (2022), Power spike: How battery
+makers can respond to surging demand from EVs, McKinsey & Company, accessed
+08/08/2023, https://www.mckinsey.com/capabilities/operations/our-insights/
+power-spike-how-battery-makers-can-respond-to-surging-demand-from-evs.
+CIRPASS consortium (2024), D3.1 Annex: DPP Related Activities (V8), February 2024,
+accessed 02/02/2023 at https://cirpassproject.eu/wp-content/uploads/2024/
+02/CIRPASS-D3.1-Annex-V8.pdf.
+Damen, M.A., Stepke-Müller, M., Meyer zum Felde, A., Rubel, H., Turner, J., van Doorne,
+L. et al. (2023), The EU digital product passport shapes the future of value chains:
+What it is and how to prepare now, World Business Council for Sustainable
+Development (WBCSD) and Boston Consul�ng Group.
+DigitalEurope (2023), CIRPASS Digital Product Passport, accessed 30/01/2024 at
+https://www.digitaleurope.org/projects/digital-product-passport/.
+EON (2022), All you need to know about Digital Product Passport initiative, CIRPASS,
+accessed 17/08/23 at https://www.eon.xyz/insights/all-you-need-to-know-
+about-digital-product-passport-initiative-cirpass.
+European Commission (2015), Closing the loop – An EU action plan for the circular
+economy, COM(2015) 614 final, Brussels.
+European Commission (2020), A new circular economy action plan: For a cleaner and
+more competitive Europe, COM(2020) 98 final, Brussels.
+European Commission (2022), Proposal for a Regulation of the European Parliament and
+of the Council establishing a framework for setting ecodesign requirements for
+sustainable products and repealing Directive 2009/125/EC, COM(2022) 142 final.
+European Parliament and Council (2023), Regulation (EU) 2023/1542 of the European
+Parliament and of the Council of 12 July 2023 concerning batteries and waste
+
+23 | IMPLEMENTING THE EU DIGITAL BATTERY PASSPORT: OPPORTUNITIES AND CHALLENGES FOR BATTERY CIRCULARITY
+batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and
+repealing Directive 2006/66/EC.
+Global Battery Alliance (2022), 2022 Annual Impact Report, Brussels.
+Jansen, M., Gerstenberger, B., Bitter-Krahe, J., Berg, H., Sebestyén, J. and Schneider, J.
+(2022), Current approaches to the digital product passport for a circular economy,
+Wuppertal Paper no. 198, Wuppertal Institute.
+Jansen, M., Meisen, T., Plociennik, C., Berg, H., Pomp, A. and Windholz, W. (2023), Stop
+guessing in the dark: Identified requirements for Digital Product Passport Systems,
+Systems, Vol. 11(3), 123.
+Jensen, S.F., Kristensen, J.H., Adamsen, S., Christensen, A. and Waehrens, B.V. (2023),
+Digital product passports for a circular economy: Data needs for product life cycle
+decision-making, Sustainable Production and Consumption, Vol. 37, pp. 242-255.
+Krümpel, V., Spasovska, P. and Wang, H. (2023), BATRAW D2.3: Report on the design of
+the concept for sharing data using Minespider’s blockchain infrastructure.
+Kurdve, M., Zackrisson, M., Johansson, M.I., Ebin, B. and Harlin, U. (2019), Considerations
+when modelling EV battery circularity systems, Batteries, Vol. 5(2), 40.
+Mack, N., Woodsong, C., Macqueen, M. K., Guest, G., Namey, M. (2005), Qualitative
+research method: A data collector’s field guide, North Carolina: Research Triangle
+Park.
+Milios, L. (2021), Overarching policy framework for product life extension in a circular
+economy – A bottom-up business perspective, Environmental Policy and
+Governance, Vol. 31(4), pp. 330-346.
+Rizos, V., Behrens, A., Kafyeke, T., Hirschnitz-Garbers, M. and Ioannou, A. (2015), The
+circular economy: barriers and opportunities for SMEs, CEPS Working Document
+No. 412, CEPS, Brussels.
+Rizos, V. and Bryhn, J. (2022), Implementation of circular economy approaches in the
+electrical and electronic equipment (EEE) sector: Barriers, enablers and policy
+insights, Journal of Cleaner Production, Vol. 338, 130617.
+Roberts, H., Milios, L., Mont, O., & Dalhammar, C. (2023), Product destruction: Exploring
+unsustainable production-consumption systems and appropriate policy
+responses, Sustainable Production and Consumption, Vol. 35, pp. 300-312.
+Saldaña, J. (2013), The coding manual for qualitative researchers, 2nd edn, London: Sage
+Publications.
+Saunders, M., Lewis, P., Thornhill, A. (2009), Research Methods for Business Students, 5th
+edn, Harlow: Pearson Education Limited.
+Siska, V., Al-Akrawi, A. and Zackrisson, M. (2023), Building a sustainable battery supply
+chain with digital battery passports, IDIMT.
+Stebbins, R. (2001), Exploratory research in the Social Sciences, London: SAGE
+Publications, Inc.
+
+24 | VASILEIOS RIZOS AND PATRICIA URBAN
+Stepke-Müller, M., Meyer zum Felde, A., Rubel, H., Damen, M.A., Turner, J., van Doorne,
+L., Sukailo, D., Holtorf, M., and Eggert, F. (2023), Enabling circularity through
+transparency: Introducing the EU Digital Product Passport, BCG and WBCSD.
+Vanner, R., Bicket, M., Withana, S., ten Brink, P., Razzini, P., van Dijl, E., Watkins, E., et al.
+(2014), Scoping study to identify potential circular economy actions, priority
+sectors, material flows & value chains, Study prepared for the European
+Commission, DG Environment.
+Vermunt, D.A., Negro, S.O., Verweij, P.A., Kuppens, D.V. and Hekkert, M.P. (2019),
+Exploring barriers to implementing different circular business models, Journal of
+Cleaner Production, Vol. 222, pp. 891-902.
+Walden, J., Steinbrecher, A. and Marinkovic, M. (2021), Digital product passports as enabler
+of the circular economy, Chemie Ingenieur Technik, Vol. 95(9), pp. 1717-1727.
+
+ABOUT THE BATRAW PROJECT
+BATRAW’s main objective is to develop and demonstrate two
+innovative pilot processes for electric vehicle batteries: i) a
+semi-automated processes for the handling of the batteries to
+separate their components, including cells and modules suitable for reuse and ii) a
+mechanical pre-treatment and hydrometallurgical recycling process to improve the
+separation of the materials contained in the so-called black mass (a substance composed
+of non-ferrous metals resulting from the shredding of the batteries). The project will also
+create a prototype battery from the recovered raw materials and a digital battery
+passport to capture and communicate key information throughout the battery life-cycle,
+including the sourcing, processing, (re-)use and recycling of components. As part of the
+project, eco-design guidelines for the repair and dismantling of batteries, as well as best
+practices for the safe handling and transport of batteries will be developed. For more
+information about the project, see: https://batraw.eu
+Partners
+
+CEPS
+PLACE DU CONGRES 1
+B-1000 BRUSSELS

@@ -1,0 +1,859 @@
+Battery 2030: Resilient, sustainable,
+and circular
+Battery demand is growing—and so is the need for
+better solutions along the value chain.
+This article is a collaborative effort by McKinsey in cooperation with the Global Battery Alliance and its members. The authors include
+Jakob Fleischmann, Mikael Hanicke, Evan Horetsky, Dina Ibrahim, Sören Jautelat, Martin Linder, Patrick Schaufuss, Lukas Torscht, and
+Alexandre van de Rijt.
+
+Global demand for batteries is increasing, And rather than just greenwashing—making
+driven largely by the imperative to reduce climate half-hearted efforts to appear environmentally
+change through electrification of mobility and friendly—companies must commit to extensive
+the broader energy transition. Just as analysts decarbonization and true sustainability.
+tend to underestimate the amount of energy
+generated from renewable sources, battery demand Faced with these imperatives, battery
+forecasts typically underestimate the market size manufacturers should play offense, not defense,
+and are regularly corrected upwards. In an earlier when it comes to green initiatives. This article
+publication, a joint 2019 report by McKinsey, the describes how the industry can become sustainable,
+Global Battery Alliance (GBA), and Systemiq, A circular, and resilient along the entire value chain
+vision for a sustainable battery value chain in 2030, through a combination of collaborative actions,
+we projected a market size of 2.6 TWh and yearly standardized processes and regulations, and
+growth of 25 percent by 2030. But a 2022 analysis greater data transparency. By emphasizing
+by the McKinsey Battery Insights team projects sustainability, leading battery players will
+that the entire lithium-ion (Li-ion) battery chain, differentiate themselves from the competition and
+from mining through recycling, could grow by over generate value while simultaneously protecting the
+30 percent annually from 2022 to 2030, when it environment. The strategies and goals presented
+would reach a value of more than $400 billion and a here are aligned with both McKinsey’s battery
+market size of 4.7 TWh.¹ supply chain vision and the GBA’s principles.
+Although battery growth will confer multiple
+environmental and social benefits, many Global market outlook for 2030
+challenges lie ahead. To avoid shortages, battery Global demand for Li-ion batteries is expected to
+manufacturers must secure a steady supply of soar over the next decade, with the number of GWh
+both raw material and equipment. They must also required increasing from about 700 GWh in 2022
+channel their investment to the right areas and to around 4.7 TWh by 2030 (Exhibit 1). Batteries for
+execute large-scale industrialization efficiently. mobility applications, such as electric vehicles (EVs),
+Web <year>
+E<xTihtleib>it 1
+Exhibit <x> of <x>
+Li-ion battery demand is expected to grow by about 33 percent annually to
+Li-ion battery demand is expected to grow by about 33 percent annually to
+reach around 4,700 GWh by 2030.
+reach around 4,700 GWh by 2030.
+Global Li-ion battery cell demand, GWh, Base case
+By region By sector
+~4,700 ~4,700
+Rest of world Consumer
+United States electronics
++27% ~6x
+Europe Stationary
+per annum
+China storage
+Mobility
+~1,700 ~1,700
+~700 ~700
+2022 2025 2030 2022 2025 2030
+1Including passenger cars, commercial vehicles, two-to-three wheelers, off-highway vehicles, and aviation.
+Source: McKinsey Battery Insights Demand Model
+McKinsey & Company
+1 These estimates are based on recent data for Li-ion batteries for electric mobility, battery electric storage systems (BESS), and consumer
+goods.
+2 Battery 2030: Resilient, sustainable, and circular
+
+will account for the vast bulk of demand in 2030— China could account for 45 percent of total Li-ion
+about 4,300 GWh; an unsurprising trend seeing that demand in 2025 and 40 percent in 2030—most
+mobility is growing rapidly. This is largely driven by battery-chain segments are already mature in that
+three major drivers: country. Nevertheless, growth is expected to be
+highest globally in the EU and the United States,
+— A regulatory shift toward sustainability, which driven by recent regulatory changes, as well as a
+includes new net-zero targets and guidelines, general trend toward localization of supply chains.
+including Europe’s “Fit for 55” program, the US In total, at least 120 to 150 new battery factories will
+Inflation Reduction Act, the 2035 ban of internal need to be built between now and 2030 globally.
+combustion engine (ICE) vehicles in the EU, and
+India’s Faster Adoption and Manufacture of In line with the surging demand for Li-ion batteries
+Hybrid and Electric Vehicles Scheme. across industries, we project that revenues along
+the entire value chain will increase 5-fold, from
+— Greater customer adoption rates and increased about $85 billion in 2022 to over $400 billion
+consumer demand for greener technologies (up in 2030 (Exhibit 2). Active materials and cell
+to 90 percent of total passenger car sales will manufacturing may have the largest revenue pools.
+involve EVs in selected countries by 2030). Mining is not the only option for sourcing battery
+materials, since recycling is also an option. Although
+— Announcements by 13 of the top 15 OEMs to the recycling segment is expected to be relatively
+ban ICE vehicles and achieve new emission- small in 2030, it is projected to grow more than
+reduction targets. three-fold in the following decade, when more
+batteries reach their end-of-life.
+Battery energy storage systems (BESS) will have a
+CAGR of 30 percent, and the GWh required to power Companies in the EU and US are among those that
+these applications in 2030 will be comparable to the have announced plans for new mining, refining, and
+GWh needed for all applications today. cell production projects to help meet demand, such
+Exhibit 2
+Our model projects that the Li-ion battery value chain will provide revenue
+Our model projects that the Li-ion battery value chain will provide revenue
+opportunities of over $400 billion by 2030.
+opportunities of over $400 billion by 2030.
+Revenues, base case 2030, $ billion
+Active Reuse and
+Mining Refining materials Cell Pack recycle
+~400
+Total 34 (9%) 52 (13%) 110 (27%) 121 (30%) 74 (18%) 13 (3%)
+185
+China 15 22 54 53 34 6
+~5x
+Europe 10 15 31 37 22 3
+118
+United
+6 9 14 20 11 2
+~85 States
+61
+Rest of
+3 5 11 11 7 2
+world
+39
+2022 2030
+Source: McKinsey Battery Insights, 2022
+McKinsey & Company
+Battery 2030: Resilient, sustainable, and circular 3
+
+as the creation or expansion of battery factories. forced labor, and indigenous rights, especially
+Many European and US companies are also in emerging markets.
+exploring new business models for the recycling
+segment. Together, these activities could help — Governance: Businesses in the battery value
+localize battery supply chains. chain may encounter conflicts of interest or
+other companies with subpar management
+practices. To meet longstanding expectations
+Today’s value chain challenges for ethical businesses, companies must avoid
+The global battery value chain, like others within financial situations involving corruption, bribery,
+industrial manufacturing, faces significant funding armed conflicts, and tax evasion.
+environmental, social, and governance (ESG)
+challenges (Exhibit 3). Together with GBA To conduct business in a socially and ecologically
+members representing the entire battery value responsible way, it is crucial for stakeholders in the
+chain, McKinsey has identified 21 risks along ESG battery value chain to consider and address these
+dimensions: ESG risks. (See sidebar, “Industry perspectives on
+sustainability” for more information on priorities).
+— Environmental: The extraction and refining of Success will likely depend on deploying sufficient
+raw materials, as well as cell production, can resources as well as greater transparency and
+have severe environmental effects, such as better mitigation measures—regulations and
+land degradation, biodiversity loss, creation early planning could help ensure that companies
+of hazardous waste, or contamination of alleviate risks along the entire value chain. Further,
+water, soil, and air. Unprofessional or even compliance and corporate risk will have to include
+illegal battery disposal can cause severe toxic ESG issues in their operational risk-management
+pollution. This is a problem within today’s lead- practices and processes to tackle them holistically.
+acid battery value chain. Many companies, however, still see mastering
+ESG as a cost and a burden. We strongly believe
+— Social: Unless strictly managed, operations they need to embrace this challenge and view it as
+across the battery value chain could have one of the greatest business opportunities of the
+unfavorable effects on regional communities century. It’s time to stop playing defense and start
+through violations of labor laws, child and playing offense.
+WeEb x<yheiabr>it 3
+<Title>
+ExhTibiht <ex> bof a<xt>tery value chain continues to face numerous environmental, social, and
+Thgeo vbeartntearny cvea lcuhea clhleaning ceosn.tinues to face numerous environmental, social, and
+governance challenges.
+Environmental Social Governance
+Land pollution
+Water pollution Radioactive pollution
+Air pollution Need to protect biodiversity
+Greenhouse-gas emissions Deforestation, land degradation
+Transparency and reporting Resource drainage
+Customer health and safety Challenges Need to ensure health and safety
+Information management Child or forced labor
+Tax evasion Need to ensure fair working
+conditions and wages
+Anticompetitive practices Discrimination and harassment
+Need for sustainable supplier management Need to protect indigenous rights
+and local communities
+Corruption and bribery Warlords or terrorists
+McKinsey & Company
+4 Battery 2030: Resilient, sustainable, and circular
+
+Industry perspectives on sustainability
+Here are what some battery industry leaders and experts have to say about sustainability:
+“Our Battery 2030 report, produced by McKinsey together with the Global Battery Alliance, reveals the true extent of global battery
+demand – and the need for far greater transparency and sustainability across the entire value chain. The lithium-ion battery value
+chain is set to grow by over 30 percent annually from 2022-2030, in line with the rapid uptake of electric vehicles and other clean en-
+ergy technologies. The scaling of the value chain calls for a dramatic increase in the production, refining and recycling of key minerals,
+but more importantly, it must take place with ESG considerations at front and center. It is time we transition to a more circular, sustain-
+able, and just value chain that protects our planet’s biodiversity, resources, and ensures that human rights are respected globally. We
+can achieve the sustainable future we all desire, but only if we work together for it.”
+— Benedikt Sobotka, CEO, Eurasian Resources Group
+“The transformation towards battery electric mobility is a gigantic challenge for industrial structures and workers. The social impact will
+depend on the application of a just transition concept: investment in skills, creation of new and decent jobs, social dialogue/collective
+bargaining and a more balanced value creation model between the Global North and the Global South.”
+— Atle Høie, IndustriALL General Secretary
+“Umicore is a proud founding member of the Global Battery Alliance and a strong supporter of its Battery Passport project, as they
+align with our ambition to roll out a decarbonized and responsible battery supply chain. Acceleration in EV sales will go hand in hand
+with unprecedented growth in the production of rechargeable batteries that are sustainably sourced, manufactured, used and recy-
+cled. By sharing our longstanding industry expertise in battery materials and battery recycling through partnerships like the GBA, we
+aim to raise the bar to reach true clean mobility.”
+— Mathias Miedreich, CEO of Umicore
+“When we published our first GBA Vision for Sustainable Batteries 2030, with McKinsey in 2019, we understood and laid out the
+dramatic shift in the demand for batteries, critical minerals and assurances of sustainable and ethical practices that would be required.
+What we did not predict was how the scale and urgency of that demand would escalate so quickly and at a pace rarely seen in history.
+This updated report brings essential and timely new data to inform the actions needed going forward. Given this shift and pace, now
+Exhibit 3
+more than ever, our work as the Global Battery Alliance, and the importance of collaborative, multi-stakeholder action has never been
+The battery value chain continues to face numerous environmental, social, and
+more relevant or needed.”
+governance challenges.
+— Gillian Davidson, Sustainability Advisor, Eurasian Resources Group, GBA Chair of the Board of Directors
+“The members of the Global Battery Alliance are committed to achieving sustainable, circular, and responsible battery value chains
+by 2030. The results of the McKinsey analysis underline both the continued relevance and highlight the sense of urgency with which
+we need to achieve this vision. The GBA battery passport is a key tool to enhance transparency in battery value chains and enhance
+sustainability impacts including the progressive reduction of greenhouse gas emissions within battery value chains.”
+— Inga Petersen, Executive Director, Global Battery Alliance
+“Three years ago McKinsey supported GBA and demonstrated the importance of a pre competitive transparent battery value chain to
+drive the energy transformation, today’s updated report magnifies not only the importance but also the magnitude and urgency.”
+— Guy Éthier, Past Chairman of the Board of Directors, Global Battery Alliance
+Battery 2030: Resilient, sustainable, and circular 5
+
+Besides the much-publicized ESG challenges, those with a low CO2 footprint—they might capture
+GBA members have pointed out that the battery a green premium, since demand is ramping up
+value chain confronts massive economic for such products. It may be difficult to provide
+barriers (Exhibit 4). Historic price peaks and sustainable materials in the quantities needed to
+extreme volatility, as well as quickly changing meet demand, however.
+national regulations, can massively affect the
+economic viability of projects. Higher battery Producers and purchasers could mitigate
+prices also make some green applications far potential shortages of raw materials by redefining
+less attractive than they were previously, which their strategies and operations to be economic,
+could delay much-needed attempts to accelerate transparent, sustainable, and circular. For
+decarbonization. Although economic viability is instance, producers need to build or re-create
+the most urgent issue for leaders, a more complex a growth agenda based on economic viability to
+challenge involves the industrialization and historic ensure execution. Further, they need to strive
+scale-up of the battery industry. for continuous innovation in productivity and
+decarbonization of operations while simultaneously
+Dealing with shortages pursuing diverse partnerships that will embed them
+Shortages of manufacturing equipment, in downstream supply chains. Purchasers, on the
+construction material, and the skilled labor other hand, must adapt technology rollout plans—for
+required to ramp up production are a few reasons instance, by increasing flexibility regarding battery
+why many battery-cell factories experience technologies and raw-materials requirements—
+significant delays. Vertical supply-chain and accelerate innovation on product design
+integration and long-term contracts, as well as and material usage. They must also send clear
+greater collaboration, could mitigate some of these signals about long-term demand. to decrease the
+issues. Additionally, open dialogue and education uncertainties about market size that often deter
+with local communities and stakeholders are likely producers from undertaking multi-billion dollar
+key to achieving more widespread acceptance and mining and refining projects, which often have 20 to
+support for the battery industry. 30 year lifetimes.
+The metals and mining sector will supply the Purchasers should aim for strategic-green-
+high quality raw materials needed to transition procurement excellence by identifying potential
+to greener energy sources, including batteries. If mines and refineries across different geographies
+companies can provide sustainable materials— and then assess their volume, quality, environmental
+Web <year>
+Exhibit 4
+<Title>
+WExhhibiit l<ex> e ofc <ox>nomic challenges to the battery industry are obvious, the real
+dWiffihicleu letcyo lnieosm inic i cmhpallelemnegnetsa ttioo nth aen bda itntedruys itnrdiaulsiztaryti aorne. obvious, the real
+difficulty lies in implementation and industrialization.
+Above the surface
+Economics:
+• Raw material and energy price peaks and volatility
+• Regulatory harmonization and standardization
+• Incentives, subsidies, and taxes
+Below the surface
+Industrialization:
+• Constrained and disrupted supply chains
+• Need for collaboration and intellectual property protection
+• Technology disruption and uncertainty
+• Material and machinery shortage
+• Need for talent and skilled labor
+• Societal acceptance
+McKinsey & Company
+6 Battery 2030: Resilient, sustainable, and circular
+
+impact (looking not just at greenhouses gases but under development that will likely be available soon.
+all planetary boundaries). It will also be important The team’s full potential scenario considers the
+to evaluate the societal risks involved in securing impact of pipeline projects that are still in the earlier
+an adequate supply. Players along the entire value stages of development, as well as the effect of
+chain must step up their game to enable true technology innovation and the potential addition of
+circularity by creating tight loops, such as those for new mining and refining capacity.
+life extension, rather than just focusing on the wide
+loop of recycling. Last, the entire value chain needs While some battery materials will be in short supply,
+to step up their game in enabling true circularity with others will likely experience oversupply, making
+tight loops like life extension, rather than just the it more difficult to plan. The success factors for
+wide loop of recycling. ensuring a sufficient global supply include obtaining
+greater transparency on supply and demand uptake,
+This article and the underlying data and analytics proactively identifying the need for new mining and
+can help promote better planning by the relevant refining capacities to avoid bottlenecks, channeling
+stakeholders in the private and public sectors, as investments into new capacity, and improving
+well as by investors. These stakeholders require a investment returns and risk management.
+reliable fact-base and transparency on raw-material
+demand and supply imbalances to de-risk their Almost 60 percent of today’s lithium is mined for
+investments. battery-related applications, a figure that could
+reach 95 percent by 2030 (Exhibit 5). Lithium
+Batteries require a mix of raw materials, and various reserves are well distributed and theoretically
+pressures currently make it difficult to procure sufficient to cover battery demand, but high-grade
+adequate supplies. McKinsey’s MineSpans team, deposits are mainly limited to Argentina, Australia,
+which rigorously tracks global mining and refining Chile, and China. With technological shifts toward
+capacity projects, has created several future more lithium-heavy batteries, lithium mining will
+scenarios based on available information. The base- need to increase significantly. Meeting demand for
+case scenario for raw-material availability in 2030 lithium in 2030 will require stakeholders to strive
+considers both existing capacity and new sources for the full potential scenario, which factors in the
+Exhibit 5
+LLiitthhiiuumm ccoouulldd bbee iinn eexxttrreemmeellyy sshhoorrtt ssuuppppllyy iiff nnoo ffuurrtthheerr p prroojejeccttss aarree ddeevveellooppeedd..
+Lithium carbonate global equivalent demand 2030, supply 2021 and 2030 by country, kt
+3,500
+3,000
+2,500
+–55% Global
+Rest of world
+2,000
+Chile
+China
+1,500
+17% Australia
+1,000 20%
+16%
+10%
+500 28%
+17% 46%
+45%
+0
+2021 supply 2030 demand 2030 base scenario
+Source: McKinsey MineSpans, 2022
+McKinsey & Company
+7
+
+impact of almost every currently announced project Approximately 75 percent of today’s mined cobalt
+in the pipeline and will require significant additional originates from the Democratic Republic of
+investment in mining projects. The full potential Congo (DRC), largely as a by-product of copper
+scenario also involves putting greater emphasis on production (Exhibit 7). The remainder is largely
+smart product technology choices, such as the use a by-product of nickel production. The share
+of silicon anodes instead of Li-metal. of cobalt in batteries is expected to decrease
+while supply is expected to increase, driven by
+Nickel reserves are dispersed across various the growth in copper mining in the DRC and
+countries, including Australia, Canada, Indonesia, of nickel mining, primarily in Southeast Asia.
+and Russia (Exhibit 6). In our base scenario, there While shortages of cobalt are unlikely, volatility
+would only be a small shortage of nickel in 2030 in supply and price may persist because it is
+because of the recent transition to more lithium iron generally obtained as a by-product.
+phosphate (LFP) chemistries and plans to increase
+mining capacity. Although McKinsey’s full potential Supply of manganese should remain stable
+scenario projects a significant oversupply of nickel through 2030 since no announcements of
+if stakeholders achieve their planned mining and additional capacity are expected (Exhibit
+refining potential, companies could still have 8). Demand for manganese will likely slightly
+difficulty acquiring sufficient quantities because increase and, thus, our base scenario estimates
+of quality requirements (for instance, the need for a slight supply shortage. The industry should
+class 1 nickel rather than class 2 nickel in the form of be aware that some uncertainty surrounds
+ferroalloys) and the limited geographic distribution manganese demand projections because lithium
+of mines. No matter how supply evolves, the manganese iron phosphate (LMFP) cathode
+industry will need to consider one critical question: chemistries could potentially gain higher market
+How to find sustainable nickel for batteries? In shares, especially in the commercial vehicle
+answering this question, companies must consider segment.
+CO2 intensity differences across assets.
+Exhibit 6
+TThhee ccuurrrreennt tp prorjoejcetc pti ppeiplienlei nsueg sguegstgse as stlsig ah st luignhdet rusnupdpelrys oufp npilcyk oelf. nickel.
+Nickel global demand 2030, supply 2021 and 2030 by country, kt
+5,000
+4,000 –8%
+32% Global
+3,000
+Rest of world
+France
+7%
+Philippines
+9% Indonesia
+2,000
+47%
+9%
+1,000 52%
+14%
+29%
+0
+2021 supply 2030 demand 2030 base scenario
+Source: McKinsey MineSpans, 2022
+McKinsey & Company
+8 Battery 2030: Resilient, sustainable, and circular
+
+Exhibit 7
+Cobalt supply will be more than sufficient because of the higher market share
+Cobalt supply will be more than sufficient because of the higher market share
+of low-cobalt cathode chemistries.
+of low-cobalt cathode chemistries.
+Cobalt global demand 2030, supply 2021 and 2030 by country, kt
+350
+300 +15% 13%
+2%
+7%
+250
+Global
+Rest of world
+200 Indonesia
+Cuba
+150 19% Australia
+3% DRC
+3% 78%
+100
+75%
+50
+0
+2021 supply 2030 demand 2030 base scenario
+Source: McKinsey MineSpans, 2022
+McKinsey & Company
+Exhibit 6 Exhibit 8
+The current project pipeline suggests a slight undersupply of nickel. MMaannggaannesees dee mdeanmda cnodul dc osluigldht slyl iegxhcteleyd esuxpcpeley.d supply.
+Manganese global demand 2030, supply 2021 and 2030 by country, kt
+25,000
+–8%
+20,000
+30% 29%
+Global
+15,000 Rest of the world
+13%
+14%
+Australia
+Gabon
+20%
+10,000 20% South Africa
+5,000
+36% 38%
+0
+2021 supply 2030 demand 2030 base scenario
+Source: McKinsey MineSpans, 2022
+McKinsey & Company
+9
+
+Mitigating emissions manufacturing emissions per vehicle are double
+Battery electric vehicles (BEVs) often are criticized those of ICE vehicles. These greenhouse-gas
+for their greenhouse-gas footprint throughout emissions before the use phase are responsible
+their life cycle. However, although results vary for 40 to 95 percent of total life-cycle emissions
+significantly depending on factors such as milage, of BEVs, depending on the grid electricity used for
+production, and electricity grid emissions, our charging. Decarbonizing production, primarily for
+models clearly indicate that BEVs are the most battery, aluminum and steel, is therefore much more
+effective decarbonization option for passenger cars. critical for BEVs than it has been for ICEs.
+Our calculations show that total emissions are much In the next five to seven years, ambitious
+lower today for BEVs than vehicles with internal players might cut the carbon footprint of battery
+combustion engines (ICE), because BEVs emit manufacturing by up to 90 percent, but this would
+lower emissions during the use phase (the time that call for changes throughout the whole value chain.
+vehicles are on the road) (Exhibit 9). In the worst
+case scenario, with no low-carbon electricity, total Different tactics can aid in abatement. In the
+life-cycle emissions for BEVs are about 50 percent best-case scenario, some of these would
+lower in Europe and 72 percent lower in the United result in cost savings, while others would entail
+States compared with ICE vehicles. Once recharged large expenditures. Under the most beneficial
+with low-carbon electricity during the use phase, circumstances, companies might potentially
+BEVs achieve even better life-cycle carbon decarbonize up to 80 percent of emissions at a
+footprints than ICE vehicles, with about 77 percent minimum additional cost (Exhibit 10). The site of
+lower emissions in Europe and 88 percent lower manufacturing and the intended market, including
+emissions in the United States. Although BEVs are its carbon price, customer demand, and willingness
+superior in life-cycle emissions, their material and
+Exhibit 9
+Lifecycle emissions are lower with battery electric vehicles than internal
+combustion engine vehicles.
+Lifecycle emissions are lower with battery electric vehicles than internal
+combustion engine vehicles.
+Lifetime CO₂e emissions by vehicle powertrain type, metric tons
+United States Europe Use phase¹
+100 100 Production
+emission²
+82
+80 80
+60 60
+44
+40 40
+23
+21
+20 20
+10 10
+0 0
+BEV³ BEV³,⁵ ICE⁶ BEV³ BEV³,⁵ ICE⁶
+Clean grid mix⁴ gasoline Clean grid mix⁴ gasoline
+1Estimated use phase of 243,000 km.
+2Production emission references global average vehicle C-segment.
+3BEV models account for 10% charging losses.
+4Clean grid perspective for use phase only; excluding additional emission savings by, eg, green steel and clean battery cathode/anode material.
+5Estimated BEV average energy consumption of 15 kWh per 100 km and electricity generation according to European 2021 EU energy mix and US energy mix.
+6509 g/mile of CO2e emissions for average US ICE gasoline.
+Source: McKinsey Center for Future Mobility, McKinsey Sustainability Insights
+McKinsey & Company
+10 Battery 2030: Resilient, sustainable, and circular
+
+Web <year>
+<Title>
+Exhibit <x> of <x>
+ExFhoibri tb 1a0tteries with nickel-manganese-cobalt cathode chemistries, most carbon
+Faobr abtaetmteerinets l ewviethrs n ciackne bl-em imanpgleamneesnet-ecdob faolrt lceastsh tohdaen c €h5e0m/itsCtrOie₂.s, most carbon
+abatement levers can be implemented for less than €50/tCO2.
+2025 marginal abatement cost curve for Scope 1–3 upstream¹ excl. lifetime emissions
+Cell manufacturing Anode Cathode Housing
+and pack assembling current collector active material
+Raw materials Cathode Anode
+current collector active material
+250
+Recycle all
+scrap from cells
+150
+Switch from Procure recycled
+wet to dry coating raw materials (vs virgin)
+Abatement 50
+cost 0
+to 2025, –50 30 Switch to 60
+€/tCO₂
+Switch to hydrogen
+green electricity for heat
+–150
+–250
+–350 Abated emissions, kgCO₂/kWh
+1Scope 3 emissions are the result of activities from assets not owned or controlled by the reporting organization but that have indirect impacts in its value ch
+Suppliers are assumed to be in China for all components.
+Source: Catalyst Zero, McKinsey, 2022; McKinsey MineLens, 2022; McKinsey analysis for 2025
+McKinsey & Company
+Exhibit 9 to pay potential green premiums, will help determine upstream, acquire the capable machinery
+Lifecycle emissions are lower with battery electric vehicles than internal how cost competitive low-carbon batteries may be. mid-stream to suit the battery chemistry and
+combustion engine vehicles. application, and recruit the indispensable talent
+The most effective decarbonization levers include required for those projects.
+the use of circular materials and low-carbon
+electricity. Their economic attractiveness may vary, The uncertainty about cell technologies and
+however, primarily because of local issues, such as form factors supplied by different producers
+electricity feed-in-tariffs, subsidies, and available also imposes significant complexity costs and
+materials. risks to the after-sales, repair, and maintenance
+of batteries. Vehicle OEMs need to ensure that
+EV battery modules and packs can be replaced
+Technological advances at a low cost long after the typical eight-year
+Some recent advances in battery technologies warranty period.
+include increased cell energy density, new active
+material chemistries such as solid-state batteries, To manage uncertainty, battery cell
+and cell and packaging production technologies, manufacturers need to plan their target
+including electrode dry coating and cell-to-pack investments carefully and scout for external
+design (Exhibit 11). funding opportunities, such as green bonds or
+subsidies in relevant regions. Simultaneously,
+When making investments decisions, battery they should accomplish several other important
+manufacturers could find these rapid advances tasks: plan their manufacturing plants, optimize
+challenging. After choosing the battery technology short- and long-term costs to ensure agility
+that fits their application needs best, they should and adaptability of production lines, and steer
+then quickly secure the required raw material investments into new technologies.
+Battery 2030: Resilient, sustainable, and circular 11
+
+Exhibit 11
+Innovations in the battery industry affect all cell components.
+Innovations in the battery industry affect all cell components.
+Common battery chemistries and form factor available
+2010s 2020s 2030s
+1 Cathode LCO¹ LMO2 LFP³ LFP³ NMC⁴/NCA⁵ LMFP⁶/LMNO⁷
+LFP³ NMC⁴/NCA⁵ NMC⁴/NCA⁵ LMFP⁶/LMNO⁷ Sulphur
+NMC⁴/NCA⁵ LMFP⁶/LMNO⁷ Sulphur
+2 Separator/ Polymer/liquid Polymer/liquid Polymer/liquid Polymer/liquid Polymer/liquid Advanced liquid
+electrolyte Advanced liquid Semi-solid
+Semi-solid Solid
+3 Anode Graphite Graphite Graphite Graphite Graphite and Lithium metal
+GGrraapphhiittee aanndd silicon Silicon anode
+silicon Lithium metal
+Silicon anode
+4 Casing Cylindrical Cylindrical Prismatic Prismatic Cylindrical Cylindrical
+Pouch Cylindrical Cylindrical Pouch Pouch
+Pouch Pouch Prismatic
+1Lithium cobalt.
+2Lithium manganese oxide.
+3Lithium, iron, phosphate.
+4Lithium, manganese cobalt.
+5Lithium, nickel, cobalt, aluminum oxide.
+6Lithium manganese iron phosphate.
+7Lithium, manganese nickel oxide.
+Source: McKinsey Battery Insights, 2022
+McKinsey & Company
+Battery 2030: resilient, sustainable, and projected jobs—80 percent higher than in our
+circular 2019 report—relates to the higher expected
+The 2030 outlook for the battery value chain depends battery demand estimates for 2030.
+on three interdependent elements (Exhibit 12):
+— A focus on sustainability. Batteries are a major
+— Supply-chain resilience. A resilient battery value tool in the challenge to decarbonize the mobility
+chain is one that is regionalized and diversified. sector and other industries—a task that is
+We envision that each region will cover over 90 essential to avoid triggering irreversible climate
+percent of local cell demand, over 80 percent tipping points. The battery revolution could
+of local active material demand, and over 60 reduce cumulative greenhouse-gas emissions
+percent of refined materials demand. In addition, by up to 70 GtCO2e between 2021 and 2050
+by recycling raw materials that are primarily found in the road transport sector alone. However,
+in one location (such as cobalt), countries can the battery industry will need to prioritize the
+reduce their dependency on others. A recycling decarbonization of its own industry to maintain
+target of 80 percent, as recently specified in the its credibility. Our analysis suggests that
+EU battery directive, could become an aspiration material and manufacturing emissions could fall
+for 2030 for all regions globally. Across the entire 90 percent per kWh battery on the cell level by
+value chain, the industry could contribute to up 2030. Further pack level emissions will mostly
+to 18 million jobs in 2030 by securing existing depend on achievements in decarbonizing
+positions and creating new ones. The number of aluminum, steel, and plastic production. The
+12 Battery 2030: Resilient, sustainable, and circular
+
+Exhibit 11
+Innovations in the battery industry affect all cell components. E W x eb h < ib ye it a r 1 > 2
+<Title>
+OExhuibirt < 2x>0 of3 <0x> vision for the battery value chain focuses on resiliency, sustainability,
+aOnudr 2ci0r3cu0l vairsiitoyn. for the battery value chain focuses on resiliency, sustainability,
+and circularity.
+A resilient supply chain An industry enhancing A circular value chain fostering
+boosting social value sustainability footprint innovative technologies
+6 –90% $6 billion
+continents with large scale battery carbon footprint per kWh additional profit with a
+value chains covering majority of battery produced in robust recycling ecosystem
+of domestic demand 2030 versus 2022 by 2040
+The scale up of the global battery value chain will likely support about
+18 million jobs (new and existing) along the entire value chain and could reduce
+cumulative road transport emissions from 2021 through 2050 by about 70 GtCO₂e¹.
+1CtCO₂e equals one billion tons of carbon dioxide equivalent.
+Source: McKinsey & Company
+McKinsey & Company
+industry could also benefit from setting ambitious potential of a circular value chain. Companies
+improvement targets in the nine planetary could benefit from investigating sustainable
+boundaries that the Stockholm Resilience and economically viable applications that
+Center defined and quantified. These include would increase circularity, or by leveraging
+freshwater change, stratospheric ozone depletion, technological advances that contribute to
+atmospheric aerosol loading, ocean acidification, this goal.
+biogeochemical flows, novel entities, land-system
+change, biosphere integrity, and climate change. At a minimum, the battery industry’s growth
+Significant improvements for all social and must help fulfill basic human, product, and
+governmental challenges mentioned earlier are economic needs. Important goals include social
+also necessary to achieve true sustainability. welfare, inclusive value creation, adherence to
+international law, emphasis on human rights,
+— Creation of a circular value chain. The battery creation of durable and performing products,
+industry has to move from a linear to a circular and economic viability for businesses. To create
+value chain—one in which used materials are a well-functioning value chain, companies should
+repaired, reused, or recycled. This transformative attempt to avoid any shortcomings in these
+approach may also create huge economic areas. For sustainability, the battery industry
+potential, with some opportunities already can only achieve true sustainability if it does not
+available today (for instance, scrap recycling). A overshoot any of the nine planetary boundaries
+large cross-industry effort and coordination will that the Stockholm Resilience Center defined
+be needed for stakeholders to achieve the full and quantified.
+Battery 2030: Resilient, sustainable, and circular 13
+
+Based on our extensive experience in the global as-a-service, repair, refurbishment and second-
+battery value chain, we have identified ten life applications. If none of these options is
+transformational success factors that will pave the available, then battery recycling is essential.
+way for our 2030 vision in which batteries power a Circularity will necessitate cross-industry
+resilient, sustainable, and circular future (Exhibit 13). collaboration and partnerships, as well as data
+transparency and harmonized standards.
+Establishing value chain circularity. Achieving
+circularity along the entire value chain could Increasing energy efficiency and electrification
+increase resilience against supply shortages and share. Most large-scale battery factories that
+price volatility. It will also mitigate risks related to will be operational in 2030, and for many years
+battery-waste disposal. Companies could gain beyond, are now being built. As such, mastering
+additional value by adopting circular business energy efficiency—for instance, via building
+models, such as battery as-a-service or mobility insulation or heat recovery—is key.
+Exhibit 13
+Ten transformational success factors are essential to build a resilient,
+Ten transformational success factors are essential to build a resilient,
+sustainable, and circular battery value chain by 2030.
+sustainable, and circular battery value chain by 2030.
+Factors for a successful battery value chain
+Circular Sustainable Resilient Planetary boundaries Human, product, and economic needs
+Increasing Minimizing
+energy environmental
+efficiency and impacts
+electrification beyond
+share climate
+Establishing Creating positive,
+Overshoot value chain just, and inclusive
+circularity social impact
+Harmonizing Sourcing 24/7
+international low-carbon
+standards and Shortcoming electricity and heat
+regulation
+Excelling in Establishing
+cost and full supply-chain
+regional transparency and
+execution compliance
+Securing raw Embracing
+material and technology
+machinery innovation and
+supply flexibility
+Source: McKinsey Sustainability Insights inspired by the 2015 article “Planetary boundaries: Guiding human development on a changing planet” in Science by
+Will Steffen et al and the 2018 article “A good life for all within planetary boundaries” in Nature Sustainability by Daniel W. O’Neil et al.
+McKinsey & Company
+14 Battery 2030: Resilient, sustainable, and circular
+
+Minimizing environmental impacts beyond Embracing technology innovation and flexibility.
+climate. A truly holistic approach will have to For cell manufacturers and OEMs to become
+go far beyond producing low-carbon batteries. leaders in technology, process optimization, and
+Stakeholders will have to take into account other modularity, they could aim to understand market
+planetary boundaries to ensure the global battery dynamics, be flexible, and adopt promising
+industry has a truly positive environmental impact innovations.
+along the entire value chain. Adhering to the 2022
+Kunming-Montreal biodiversity agreement (which Securing raw material and machinery supply.
+includes a target to protect 30 percent of Earth’s Companies could explore long-term agreements,
+surface by 2030) is especially important as it is a and co-funding, acquisition, and streaming
+landmark in the global effort to safeguard natural arrangements with raw material and equipment
+habitats. It can be viewed as the equivalent to the machinery companies to ensure adequate
+Paris agreement for fighting climate change. supplies. This might help avoid supply shortages in
+construction materials, skilled labor, and machinery
+Creating positive, just, and inclusive social and thus mitigate the significant delays that often
+impact. By ensuring health, safety, fair-trade occur in new production capacity projects today.
+Exhibit 13
+standards, human rights, and inclusive dialogues, Further, companies could consider securing
+Ten transformational success factors are essential to build a resilient,
+the battery industry could provide a positive impact access to capital, rigorously plan and execute
+sustainable, and circular battery value chain by 2030. on many local communities around the globe as it complex permitting processes, and navigate import
+scales up. The GBA has published various rulebooks and export bureaucracy to ensure a scheduled
+on these dimensions. execution.
+Sourcing 24/7 low-carbon electricity and heat. A Excelling in cost and regional execution. There
+2022 report by the Long Duration Energy Storage have been tremendous improvements in battery
+Council and McKinsey showed that traditional clean costs, manufacturing efficiency, and required
+power purchase agreements only enable a 40 to capital expenditures over the past decade.
+70 percent decarbonization of buyers’ electricity Companies will need to continue excelling in these
+consumption while exposing them to market dimensions to remain competitive.
+price risks stemming from renewables variability.
+Companies might achieve better results with Harmonizing international standards and
+time-matched green energy solutions, enabled by regulations. Diverging manufacturing standards
+long-duration storage technologies, which can help and local regulations increase costs and pose
+match supply and demand for electricity and heat barriers to faster scale-ups. GBA members see
+during every hour of the year. The battery industry harmonization as one of the most critical goals
+could become a frontrunner in accelerating deep to achieve around the globe. Private-public
+decarbonization of the grid, despite its additional partnerships, as well as industry alliances, could
+energy demand, if companies procured time- help significantly in orchestrating the alignment
+matched clean energy to meet all their needs. process by fostering dialogue in multi-stakeholder
+environments.
+Establishing full supply-chain transparency and
+compliance. Data availability and transparency In many respects, the current battery industry still
+are fundamental requirements to ensure that the acts as a linear value chain in which products are
+industry achieves its growth and ESG targets. This disposed of after use. Circularity, which focuses on
+will require harmonized, credible, and trusted data. reusing or recycling materials, or both, can reduce
+The Global Battery Alliance’s Battery Passport may GHG intensity while creating additional economic
+be a resource here. value (Exhibit 14).
+Battery 2030: Resilient, sustainable, and circular 15
+
+Exhibit 14
+The battery value chain can transform from linear to circular.
+The battery value chain can transform from linear to circular.
+1 Active materials
+2
+2 Cell and pack
+3 Application
+1
+4 Repair and refurbish
+Battery 3
+industry 5 Recycling (including urban mining)
+4 6 Second life
+7 Decentralized energy storage (eg solar power and storage)
+6 5
+12
+8 Centralized storage
+9 Vehicle to grid (including moving power storage)
+7 Power 9 Transport
+10 Smart charging
+sector sector
+11
+11 Purpose-built urban EV
+8
+10 12 Shared mobility
+Source: McKinsey Battery Insights, 2022
+McKinsey & Company
+A circular battery value chain can effectively couple Digital technology could increase circularity by
+the transport and power sectors and is a foundation providing the transparency and data management
+for transitioning to other sources of energy, such as required to create an efficient ecosystem in which
+hydrogen and power-to-liquid, after 2025 to achieve batteries and critical materials can be traced
+the target of limiting the increase in emissions through end-of-life.
+to 1.5° C above pre-industrial levels. Despite the
+accelerated emphasis on sustainability during the
+COVID-19 pandemic, global CO2 emissions reached Improving recycling
+an all-time high in 2021 and 2022—meaning that Battery manufacturers may find new
+just over six years are left before the 1.5°C carbon opportunities in recycling as the market matures.
+budget is depleted. This requires the highest Companies could create a closed-loop, domestic
+urgency to act. supply chain that involves the collection, recycling,
+reuse, or repair of used Li-ion batteries. The
+Current regulations encourage circularity, and recycling industry alone could create a $6 billion
+a shift to this model could bring many benefits. profit pool by 2040, by which time revenue could
+For instance, companies would encounter fewer exceed $40 billion—more than a three-fold
+supply bottlenecks resulting from the limited increase from 2030 values (Exhibit 15).
+availability of raw materials. Circularity could
+benefit the environment since companies would Current recycling business models are costly and
+less frequently engage in virgin raw material mining heavily dependent on various factors, including
+and refining. On the financial side, companies might battery design, process quality, and shifts
+capture additional value if they reuse raw materials in market supply or raw-material demand. In
+contained in end-of-life batteries. addition, operational challenges, such as limited
+16 Battery 2030: Resilient, sustainable, and circular
+
+Exhibit 14
+The battery value chain can transform from linear to circular. Exhibit 15
+Recycling could open new possibilities for battery manufacturers.
+Recycling could open new possibilities for battery manufacturers.
+Available battery material for recycling End of life EV battery recycling economics 2030,¹
+by source, kt Production $ per ton of battery
+scrap
+7,300
+Material
+4,800–5,200
+value
++20%
+83%
+per annum
+3,400 Extraction 3,600–4,000
+cost
+1,400
+800 Margin 800–
+200 17% 1,600
+2020 2025 2030 2035 2040
+1Values represent an average across all battery types.
+Source: McKinsey Battery Insights, 2022
+McKinsey & Company
+access to battery materials, inefficient processes, nameplate capacity of Li-ion cell factories exceeds
+and low yields resulting from immature technologies, our market demand projections, there are several
+remain persistent problems in the recycling sector. reasons why it will likely remain a supplier’s
+market with temporary supply bottlenecks: not all
+Regulatory incentives, as well as corporate announced projects will be executed, not all will
+sustainability goals, provide companies with operate at full capacity, and many will be delayed.
+strong reasons to improve their recycling efforts Further, battery cells are not sold on a free-
+by optimizing access to feedstock, technological floating spot market but via long-term supplier
+processes, and strategic partnerships throughout contracts. Despite rising local demand, China will
+the battery value chain. Companies could also likely continue to have significant overproduction
+improve recycling by drawing on knowledge gained capacity, while Europe and North America might
+from lead acid battery recycling. not be able to meet their own local demand for cell
+production.
+Regional variations in the value chain Although companies in many locations are still
+Value chain depth and concentration of the battery announcing new capacity, local growth comes
+industry vary by country (Exhibit 16). While China with challenges. Management of the upstream
+has many mature segments, cell suppliers are supply chain will remain critical given the nature
+increasingly announcing capacity expansion in of regional raw material availability. Players in
+Europe, the United States, and other major markets, the battery value chain who want to localize the
+to be closer to car manufacturers. Partially because supply chain could mitigate these risks through
+of recent regulatory changes, these new locations vertical integration, localized upstream value chain,
+could provide almost 40 percent of global capacity strategic partnerships, and stringent planning of
+in 2030. Although current globally-announced manufacturing ramp-ups.
+Battery 2030: Resilient, sustainable, and circular 17
+
+Exhibit 16
+Current global battery cell capacity announcements suggest a move toward
+Current global battery cell capacity announcements suggest a move toward
+regionalization in Europe and North America.
+regionalization in Europe and North America.
+Global announced nameplate capacity for production of Li-ion battery cells, GWh/year
+6,500
+6%
+5,400 13%
+6% Rest of Asia
+North America
+13% 19%
+Europe
+13% China
+1,850 62%
+7% 68%
+9%
+11%
+74%
+2022 260%25 2 6 0 % 30
+Source: McKinsey Battery Insights—supply model, team analysis, Q4, 2022
+McKinsey & Company
+potentially create more than $400 billion in
+The battery value chain is facing both significant
+value-chain revenues by 2030, contribute to
+opportunities and challenges due to its
+up to 18 million jobs along the entire value chain
+unprecedented growth. It is probably one of the
+and around 70 GtCO2e avoided cumulative road
+most ambitious scaling and ESG transformations
+transport emissions from 2021 to 2050.
+that this highly complex and global product value
+chain has seen. It will require stringent efforts,
+We strongly believe that a resilient, sustainable,
+cross-industry collaboration, technological
+and circular global battery value chain is not
+disruptions, public-private-partnerships and
+only possible but also admirable to achieve
+increased research activities to succeed. If
+sustainable inclusive growth.
+mastered, however, the industry scale-up will
+Jakob Fleischmann and Patrick Schaufuss are partners in McKinsey’s Munich office, where Martin Linder is a senior partner;
+Mikael Hanicke is a senior partner in the Gothenburg office; Evan Horetsky is a partner in the Stockholm office; Dina Ibrahim
+is a consultant in the London office; and Sören Jautelat is a partner in the Stuttgart office, where Lukas Torscht is a consultant
+and Alexandre van de Rijt is an associate partner.
+The authors wish to thank the Global Battery Alliance and its members for providing deep real-life insights and expertise to
+this article. McKinsey has collaborated with the Global Battery Alliance since their inaugural report in 2019, A Vision for a
+Sustainable Battery Value Chain in 2030: Unlocking the Full Potential to Power Sustainable Development and Climate Change
+Mitigation. Further, the authors wish to thank Marcelo Azevedo, Nicolò Campagnol, Bernd Heid, Russell Hensley, Patrick
+Hertzke, Evan Horetsky, Raphael Rettig, Daniel Schmid, Markus Wilthaner, and Ting Wu for their contributions to this article.
+They also wish to thank the broader Automotive, Sustainability, Global Energy and Materials Practice partnership and their
+solution colleagues at MineSpans, Battery Insights, Sustainability Insights, the McKinsey Platform for Climate Technologies,
+and the McKinsey Center for Future Mobility for their input and guidance.
+Copyright © 2023 McKinsey & Company. All rights reserved.
+18 Battery 2030: Resilient, sustainable, and circular
